@@ -3,10 +3,10 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://examdesk-kea.vercel.app/</loc>
+    <loc>https://drilldeck.vercel.app/</loc>
     <image:image>
-      <image:loc>https://examdesk-kea.vercel.app/assets/perfect.png</image:loc>
-      <image:title>ExamDesk creator logo by Bharat Poojari</image:title>
+      <image:loc>https://drilldeck.vercel.app/assets/perfect.png</image:loc>
+      <image:title>DrillDeck creator logo by Bharat Poojari</image:title>
     </image:image>
   </url>
 </urlset>

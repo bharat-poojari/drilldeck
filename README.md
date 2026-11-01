@@ -1,6 +1,6 @@
-# ExamDesk — Karnataka State Exam Practice
+# DrillDeck — Karnataka State Exam Practice
 
-A customizable mock test application for Karnataka state-level exam preparation, built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Practice General Knowledge, Kannada, English and Computer using question sets loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
+DrillDeck is a customizable mock test application for Karnataka state-level exam preparation, built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Practice General Knowledge, Kannada, English and Computer using question sets loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
 
 ## Features
 
@@ -53,17 +53,19 @@ No npm packages are required. Account and leaderboard APIs need the Vercel serve
 
 ## Deploy accounts and score sharing to Vercel
 
-1. Create a **separate private GitHub repository** for ExamDesk's JSON records. Do not use the public website repository: it will contain account email addresses and password hashes.
+1. Create a **separate private GitHub repository** for DrillDeck's JSON records. Do not use the public website repository: it will contain account email addresses and password hashes.
 2. Create a fine-grained personal access token limited to that private repository. Grant **Contents: Read and write** (Metadata read access is required by GitHub); no other repository permissions are needed.
 3. In Vercel, add these environment variables for the project:
 
    | Variable | Value |
    | --- | --- |
-   | `EXAMDESK_GITHUB_TOKEN` | Fine-grained token for the private data repository |
-   | `EXAMDESK_GITHUB_OWNER` | GitHub owner or organization for the private repository |
-   | `EXAMDESK_GITHUB_REPO` | Private repository name |
-   | `EXAMDESK_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
-   | `EXAMDESK_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
+   | `drilldeck_GITHUB_TOKEN` | Fine-grained token for the private data repository |
+   | `drilldeck_GITHUB_OWNER` | GitHub owner or organization for the private repository |
+   | `drilldeck_GITHUB_REPO` | Private repository name |
+   | `drilldeck_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
+   | `drilldeck_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
+
+The `drilldeck_*` environment variable names are retained for deployment compatibility; keep using these names when configuring DrillDeck.
 
 4. Redeploy after setting the variables. The first registration or score submission creates `accounts.json` in the private repository.
 
@@ -166,7 +168,7 @@ mock-test-platform/
 │   ├── scoring.js
 │   └── results.js
 ├── assets/
-│   └── examdesk-mark.svg
+│   └── drilldeck-mark.svg
 ├── site.webmanifest
 ├── robots.txt
 ├── sitemap.xml
@@ -189,7 +191,7 @@ GitHub-backed JSON is a lightweight prototype store, not a production database. 
 
 Before opening registration to a large public audience, configure Vercel Firewall or another server-side rate limiter for account and score API routes. This prototype does not have durable rate-limit storage or email verification.
 
-Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The build copies the Google Search Console verification file to the public site root. After deployment, open `https://examdesk-kea.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://examdesk-kea.vercel.app/sitemap.xml`.
+Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The build copies the Google Search Console verification file to the public site root. After deployment, open `https://drilldeck.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://drilldeck.vercel.app/sitemap.xml`.
 
 ## Sample question bank
 

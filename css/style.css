@@ -79,7 +79,7 @@ body.dark{--bg:#111827;--surface:#1b2535;--surface-2:#222e40;--text:#edf1f7;--mu
 .creator-social-links{display:flex;flex-wrap:wrap;gap:8px 13px;margin-top:13px}
 .creator-social-links a{color:#d8dcf4;text-decoration:none;font-size:9px}
 .creator-social-links a:hover,.creator-social-links a:focus-visible{color:#fff;text-decoration:underline}
-.exam-avatar{font-size:0;background:transparent url("/assets/examdesk-mark.svg") center/cover no-repeat;box-shadow:none}
+.exam-avatar{font-size:0;background:transparent url("/assets/drilldeck-mark.svg") center/cover no-repeat;box-shadow:none}
 button,.button,.filter-button,.account-tab,.mobile-palette-toggle,.palette-number,.option-item,.text-button{touch-action:manipulation}
 .button,.icon-button,.filter-button,.account-tab,.mobile-palette-toggle{min-height:44px}
 .icon-button{width:44px;height:44px}

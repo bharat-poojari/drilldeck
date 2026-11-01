@@ -1,6 +1,6 @@
 {
-  "name": "ExamDesk — Karnataka State Exam Practice",
-  "short_name": "ExamDesk",
+  "name": "DrillDeck — Karnataka State Exam Practice",
+  "short_name": "DrillDeck",
   "description": "Free, customizable mock tests for Karnataka state-level exams.",
   "start_url": "/",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "theme_color": "#4b5bd5",
   "icons": [
     {
-      "src": "/assets/examdesk-mark.svg",
+      "src": "/assets/drilldeck-mark.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

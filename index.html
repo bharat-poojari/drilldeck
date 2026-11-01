@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb">
+  <meta name="description" content="Practice for KEA exams with configurable mock tests, randomized questions and detailed results. Created by Bharat Poojari.">
+  <meta name="author" content="Bharat Poojari">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ExamDesk — KEA Mock Test Platform">
+  <meta property="og:description" content="Configurable KEA mock tests with randomized questions and detailed results. Created by Bharat Poojari.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="ExamDesk — KEA Mock Test Platform">
+  <meta name="twitter:description" content="Configurable KEA mock tests with randomized questions and detailed results. Created by Bharat Poojari.">
+  <title>ExamDesk — Mock Test Platform</title>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Bharat Poojari",
+      "url": "https://bharat-poojari.vercel.app",
+      "email": "bharatp0316@gmail.com",
+      "sameAs": [
+        "https://github.com/bharat-poojari",
+        "https://www.linkedin.com/in/bharat-poojari-397618359/",
+        "https://www.instagram.com/bharat_x_16/"
+      ]
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/exam.css">
+  <link rel="stylesheet" href="css/result.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="ExamDesk home" id="brand-home">
+        <span class="brand-mark">E</span><span>exam<span class="brand-light">desk</span></span>
+      </a>
+      <div class="topbar-right">
+        <span class="status-pill"><span class="status-dot"></span> Practice environment</span>
+        <button class="icon-button" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle theme">◐</button>
+      </div>
+    </header>
+
+    <main>
+      <section id="setup-view" class="view setup-view">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="eyebrow-line"></span> YOUR PRACTICE SPACE</div>
+          <h1>Prepare with purpose.<br><span>Perform with confidence.</span></h1>
+          <p>Build a focused mock test from your question bank. Choose your subjects, set the pace and get a clear performance breakdown.</p>
+        </div>
+        <div class="setup-grid">
+          <section class="panel setup-panel">
+            <div class="panel-heading">
+              <div><span class="step-label">STEP 01</span><h2>Configure your test</h2></div>
+              <span class="panel-icon">⚙</span>
+            </div>
+            <form id="setup-form">
+              <div class="field">
+                <label>Examination</label>
+                <div class="fixed-value">KEA Examination</div>
+              </div>
+              <div class="field">
+                <label for="paper-select">Paper</label>
+                <select id="paper-select">
+                  <option value="general-knowledge">General Knowledge</option>
+                  <option value="combined">General Kannada, English &amp; Computer Knowledge</option>
+                </select>
+              </div>
+              <div class="field" id="general-category-field">
+                <label for="general-category-select">General Knowledge category</label>
+                <select id="general-category-select"><option value="all">All General Knowledge</option></select>
+              </div>
+              <fieldset class="field subject-field hidden" id="combined-subject-field">
+                <legend>Choose subjects <span class="label-hint">All three are included by default</span></legend>
+                <div class="subject-options" id="combined-subject-options"></div>
+              </fieldset>
+              <div class="field">
+                <label>Question datasets <span class="label-hint">Choose one or more files</span></label>
+                <div class="dataset-options" id="dataset-options"><p class="empty-datasets">Loading datasets…</p></div>
+              </div>
+              <div class="field-grid">
+                <div class="field">
+                  <label for="topic-select">Subcategory</label>
+                  <select id="topic-select"><option value="all">All subcategories</option></select>
+                </div>
+                <div class="field">
+                  <label for="difficulty-select">Difficulty</label>
+                  <select id="difficulty-select">
+                    <option value="Mixed">Mixed difficulty</option><option>Easy</option><option>Medium</option><option>Hard</option>
+                  </select>
+                </div>
+              </div>
+              <div class="field">
+                <label for="count-input">Number of questions</label>
+                <input id="count-input" type="number" min="1" max="1000" value="25" required>
+                <div class="availability" id="availability-note">Loading question bank…</div>
+              </div>
+              <div class="field">
+                <label for="duration-input">Duration <span class="label-hint">in minutes</span></label>
+                <div class="duration-wrap"><input id="duration-input" type="number" min="1" max="600" value="30"><span>minutes</span></div>
+              </div>
+              <div class="marking-note">
+                <div class="marking-title">MARKING SCHEME</div>
+                <div class="marking-items"><span><b class="positive">+1</b> Correct</span><span><b class="negative">−0.25</b> Incorrect</span><span><b>0</b> Unanswered</span></div>
+              </div>
+              <p class="form-error" id="setup-error" role="alert"></p>
+              <button class="button button-primary button-wide" id="start-button" type="submit">Start mock test <span>→</span></button>
+            </form>
+          </section>
+          <aside class="setup-aside">
+            <div class="panel bank-panel">
+              <div class="bank-top"><span class="bank-icon">▤</span><span class="bank-tag">QUESTION BANK</span></div>
+              <div class="bank-count" id="bank-count">—</div>
+              <div class="bank-caption">questions available</div>
+              <div class="bank-divider"></div>
+              <div class="bank-meta"><span>Source</span><strong>Question datasets</strong></div>
+              <div class="bank-meta"><span>Selection</span><strong>Balanced random · No repeats</strong></div>
+              <div class="bank-meta"><span>Storage</span><strong>Session memory only</strong></div>
+            </div>
+            <div class="info-card">
+              <div class="info-icon">✦</div>
+              <h3>Designed for focused practice</h3>
+              <p>Move freely between questions, flag items for review and submit when you are ready. Your answers stay in memory only.</p>
+            </div>
+            <div class="mini-legend">
+              <div class="mini-legend-title">HOW QUESTION STATUS WORKS</div>
+              <div><i class="legend-dot answered"></i> Answered</div>
+              <div><i class="legend-dot unanswered"></i> Visited · unanswered</div>
+              <div><i class="legend-dot review"></i> Marked for review</div>
+              <div><i class="legend-dot not-visited"></i> Not visited</div>
+            </div>
+          </aside>
+        </div>
+        <footer class="page-footer">
+          <div class="footer-caption">EXAMDESK <span>•</span> LOCAL JSON MOCK TEST ENGINE</div>
+          <div class="creator-contact">
+            <span>Created by <a href="https://bharat-poojari.vercel.app" target="_blank" rel="noopener noreferrer">Bharat Poojari</a></span>
+            <span class="contact-prompt">Questions or ideas? Get in touch:</span>
+            <nav class="contact-links" aria-label="Contact and creator profiles">
+              <a href="https://bharat-poojari.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://www.linkedin.com/in/bharat-poojari-397618359/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              <a href="https://www.instagram.com/bharat_x_16/" target="_blank" rel="noopener noreferrer">Instagram</a>
+              <a href="mailto:bharatp0316@gmail.com">Email</a>
+            </nav>
+          </div>
+        </footer>
+      </section>
+
+      <section id="exam-view" class="view exam-view hidden">
+        <div class="exam-header panel">
+          <div class="exam-title-wrap"><div class="exam-avatar">E</div><div><div class="exam-kicker">KEA EXAMINATION</div><h2 id="exam-title">KEA Mock Test</h2></div></div>
+          <div class="exam-meta"><span><small>QUESTIONS</small><b id="exam-total">25</b></span><span><small>MAX MARKS</small><b id="exam-max">25</b></span></div>
+          <div class="timer-box" id="timer-box"><span class="timer-label">TIME REMAINING</span><strong id="timer-display">00:30:00</strong></div>
+          <button class="button button-submit" id="submit-top">Submit test <span>↗</span></button>
+        </div>
+        <div class="exam-layout">
+          <section class="panel question-panel">
+            <div class="question-toolbar"><div><span class="question-number-label">QUESTION <b id="current-number">01</b></span><span class="question-subject" id="current-subject">GENERAL KNOWLEDGE</span></div><span class="mark-chip">+1 <i>·</i> −0.25</span></div>
+            <div class="question-progress"><span id="progress-fill"></span></div>
+            <div class="question-content">
+              <div class="question-tags"><span id="question-topic">Indian Geography</span><span id="question-difficulty">Easy</span></div>
+              <h3 id="question-text">Question text appears here.</h3>
+              <div class="options-list" id="options-list"></div>
+            </div>
+            <div class="question-actions">
+              <button class="button button-ghost" id="previous-button" type="button">← Previous</button>
+              <div class="action-middle"><button class="button button-review" id="review-button" type="button">☆ Mark for review</button><button class="button button-ghost clear-button" id="clear-button" type="button">Clear response</button></div>
+              <button class="button button-primary" id="next-button" type="button">Save &amp; Next →</button>
+            </div>
+          </section>
+          <aside class="panel palette-panel">
+            <div class="palette-heading"><div><span class="step-label">NAVIGATION</span><h3>Question palette</h3></div><button class="mobile-palette-toggle" id="palette-toggle" aria-expanded="true" aria-label="Toggle question palette">⌄</button></div>
+            <div class="palette-summary"><span><b id="answered-count">0</b><small>Answered</small></span><span><b id="unanswered-count">0</b><small>Unanswered</small></span><span><b id="review-count">0</b><small>Review</small></span></div>
+            <div class="palette-legend"><span><i class="legend-dot answered"></i> Answered</span><span><i class="legend-dot unanswered"></i> Visited</span><span><i class="legend-dot review"></i> Review</span><span><i class="legend-dot not-visited"></i> Not visited</span></div>
+            <div class="question-palette" id="question-palette" aria-label="Question navigation"></div>
+            <div class="palette-bottom"><span id="palette-position">Question 1 of 25</span><button class="text-button" id="palette-review-filter">Review marked →</button></div>
+            <button class="button button-submit button-wide palette-submit" id="submit-side">Submit examination</button>
+          </aside>
+        </div>
+      </section>
+
+      <section id="result-view" class="view result-view hidden">
+        <div class="result-topline"><div><span class="eyebrow"><span class="eyebrow-line"></span> TEST COMPLETED</span><h1>Your performance, <span>at a glance.</span></h1><p id="result-subtitle">Your mock examination has been evaluated.</p></div><button class="button button-outline" id="new-test-button">↻ Create new test</button></div>
+        <section class="score-hero panel">
+          <div class="score-main"><span class="score-label">FINAL SCORE</span><div class="score-value"><strong id="final-score">0.00</strong><span id="score-out-of">/ 25</span></div><div class="score-foot" id="score-percentage">0% of maximum marks</div></div>
+          <div class="score-ring-wrap"><div class="score-ring" id="score-ring"><div><strong id="ring-percentage">0%</strong><small>SCORE</small></div></div></div>
+          <div class="score-details"><div><span>Examination</span><b id="result-exam-name">KEA Mock Test</b></div><div><span>Time taken</span><b id="result-time">00:00</b></div><div><span>Submitted</span><b id="result-date">—</b></div></div>
+        </section>
+        <div class="metric-grid">
+          <article class="metric-card"><span class="metric-icon green">✓</span><strong id="metric-correct">0</strong><span>Correct answers</span><small id="metric-correct-sub">+0 marks</small></article>
+          <article class="metric-card"><span class="metric-icon red">×</span><strong id="metric-wrong">0</strong><span>Incorrect answers</span><small id="metric-wrong-sub">−0 marks</small></article>
+          <article class="metric-card"><span class="metric-icon gray">—</span><strong id="metric-unanswered">0</strong><span>Unanswered</span><small>0 marks</small></article>
+          <article class="metric-card"><span class="metric-icon blue">◎</span><strong id="metric-accuracy">0%</strong><span>Accuracy</span><small id="metric-attempt-rate">0% attempt rate</small></article>
+        </div>
+        <div class="analysis-grid">
+          <section class="panel analysis-panel">
+            <div class="section-heading"><div><span class="step-label">BREAKDOWN</span><h2>Answer distribution</h2></div></div>
+            <div class="distribution-bar" id="distribution-bar"></div>
+            <div class="distribution-legend" id="distribution-legend"></div>
+            <div class="calculation-box"><span>Score calculation</span><div id="calculation-text">0 − (0 × 0.25) = 0.00</div></div>
+          </section>
+          <section class="panel analysis-panel">
+            <div class="section-heading"><div><span class="step-label">TIME MANAGEMENT</span><h2>Time analysis</h2></div></div>
+            <div class="time-stat"><span>Total time available</span><b id="time-available">—</b></div>
+            <div class="time-stat"><span>Time taken</span><b id="time-taken">—</b></div>
+            <div class="time-stat"><span>Average per attempted question</span><b id="time-average">—</b></div>
+            <div class="time-stat"><span>Time remaining</span><b id="time-remaining">—</b></div>
+          </section>
+        </div>
+        <section class="panel subject-panel">
+          <div class="section-heading"><div><span class="step-label">PERFORMANCE INSIGHTS</span><h2>Subject-wise performance</h2></div></div>
+          <div id="subject-analysis" class="subject-analysis"></div>
+          <div id="recommendations" class="recommendations"></div>
+        </section>
+        <section class="panel review-panel">
+          <div class="review-header"><div><span class="step-label">LEARN FROM EVERY QUESTION</span><h2>Answer review</h2><p>Check your selected answers against the correct answers and explanations.</p></div><span class="review-total" id="review-total">0 questions</span></div>
+          <div class="review-filters" id="review-filters">
+            <button class="filter-button active" data-filter="all">All questions</button><button class="filter-button" data-filter="correct">Correct</button><button class="filter-button" data-filter="wrong">Incorrect</button><button class="filter-button" data-filter="unanswered">Unanswered</button>
+          </div>
+          <div id="answer-review-list" class="answer-review-list"></div>
+        </section>
+        <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another mock test</button><button class="button button-outline" id="print-button">Print result</button></div>
+        <footer class="page-footer">
+          <div class="footer-caption">YOUR RESULTS ARE TEMPORARY AND WILL BE CLEARED WHEN YOU LEAVE OR RELOAD THIS PAGE.</div>
+          <div class="creator-contact">
+            <span>Created by <a href="https://bharat-poojari.vercel.app" target="_blank" rel="noopener noreferrer">Bharat Poojari</a></span>
+            <span class="contact-prompt">Questions or ideas? Get in touch:</span>
+            <nav class="contact-links" aria-label="Contact and creator profiles">
+              <a href="https://bharat-poojari.vercel.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://www.linkedin.com/in/bharat-poojari-397618359/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              <a href="https://www.instagram.com/bharat_x_16/" target="_blank" rel="noopener noreferrer">Instagram</a>
+              <a href="mailto:bharatp0316@gmail.com">Email</a>
+            </nav>
+          </div>
+        </footer>
+      </section>
+    </main>
+  </div>
+
+  <div class="modal-backdrop hidden" id="submit-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <button class="modal-close" id="modal-close" aria-label="Close">×</button>
+      <div class="modal-symbol">?</div><span class="step-label">FINAL CHECK</span><h2 id="modal-title">Submit your examination?</h2>
+      <p>Once submitted, your answers will be locked and your result will be calculated.</p>
+      <div class="modal-stats"><div><strong id="modal-answered">0</strong><span>Answered</span></div><div><strong id="modal-unanswered">0</strong><span>Unanswered</span></div><div><strong id="modal-review">0</strong><span>For review</span></div></div>
+      <div class="modal-warning" id="modal-warning">You still have unanswered questions. You can return to the test or submit now.</div>
+      <div class="modal-actions"><button class="button button-ghost" id="modal-return">Return to test</button><button class="button button-primary" id="modal-confirm">Confirm submission</button></div>
+    </div>
+  </div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -105,7 +105,7 @@ async function initialize() {
   } catch (error) {
     $("bank-count").textContent = "Error";
     $("availability-note").textContent = "Question bank could not be loaded.";
-    $("setup-error").textContent = `${error.message} Run this project through a local web server that exposes directory listings (for example, Python's http.server).`;
+    $("setup-error").textContent = `${error.message} Rebuild the dataset index with "npm run build" after adding JSON files, and run the site through a local web server or Vercel.`;
     $("start-button").disabled = true;
   }
 }

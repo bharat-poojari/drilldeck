@@ -6,7 +6,7 @@ const SECOND_PAPER_SUBJECTS = new Map([
 ]);
 
 function humanize(value) {
-  return decodeURIComponent(value)
+  return value
     .replace(/[_-]+/g, " ")
     .replace(/\s+/g, " ")
     .trim()
@@ -15,34 +15,7 @@ function humanize(value) {
     .replace(/\s*\(/g, " (");
 }
 
-async function discoverJsonFiles(directoryUrl, rootUrl, visited = new Set()) {
-  const directoryKey = directoryUrl.href;
-  if (visited.has(directoryKey)) return [];
-  visited.add(directoryKey);
-
-  const response = await fetch(directoryUrl, { cache: "no-store" });
-  if (!response.ok) throw new Error(`Could not read dataset folder (${response.status}): ${directoryUrl.pathname}`);
-  const listing = new DOMParser().parseFromString(await response.text(), "text/html");
-  const entries = [...listing.querySelectorAll("a[href]")].map(link => {
-    try {
-      return new URL(link.getAttribute("href"), directoryUrl);
-    } catch {
-      return null;
-    }
-  }).filter(url => url && url.origin === rootUrl.origin && url.pathname.startsWith(rootUrl.pathname));
-
-  if (!entries.length && directoryUrl.href === rootUrl.href) {
-    throw new Error(`The server does not expose a directory listing for ${directoryUrl.pathname}. Dataset folders must be discoverable for automatic loading.`);
-  }
-
-  const directories = entries.filter(url => url.pathname.endsWith("/") && url.pathname !== directoryUrl.pathname);
-  const files = entries.filter(url => /\.json$/i.test(url.pathname) && url.pathname !== `${rootUrl.pathname}questions.json`);
-  const nestedFiles = await Promise.all(directories.map(url => discoverJsonFiles(url, rootUrl, visited)));
-  return [...files, ...nestedFiles.flat()];
-}
-
-function getDatasetLocation(fileUrl, rootUrl) {
-  const relativePath = decodeURIComponent(fileUrl.pathname.slice(rootUrl.pathname.length));
+function getDatasetLocation(relativePath) {
   const parts = relativePath.split("/").filter(Boolean);
   const normalize = value => value.toLowerCase().replace(/[_\s-]+/g, "");
   const first = normalize(parts[0] || "");
@@ -125,11 +98,19 @@ function validateDataset(data, dataset) {
 
 export async function loadQuestionBank() {
   const rootUrl = new URL("../data/", import.meta.url);
-  const files = await discoverJsonFiles(rootUrl, rootUrl);
-  if (!files.length) throw new Error("No JSON question datasets were found under the data folder.");
+  const indexUrl = new URL("datasets.json", rootUrl);
+  const indexResponse = await fetch(indexUrl, { cache: "no-store" });
+  if (!indexResponse.ok) throw new Error(`Could not load dataset index (${indexResponse.status}): ${indexUrl.pathname}`);
+  const index = await indexResponse.json();
+  if (!index || !Array.isArray(index.datasets) ||
+      index.datasets.some(path => typeof path !== "string" || !path || path.startsWith("/") || path.includes("\\") || path.split("/").includes(".."))) {
+    throw new Error("Dataset index must contain a datasets array of safe relative file paths.");
+  }
+  if (!index.datasets.length) throw new Error("No JSON question datasets were found under the data folder.");
 
-  const datasets = await Promise.all(files.map(async fileUrl => {
-    const dataset = getDatasetLocation(fileUrl, rootUrl);
+  const datasets = await Promise.all(index.datasets.map(async relativePath => {
+    const dataset = getDatasetLocation(relativePath);
+    const fileUrl = new URL(relativePath.split("/").map(encodeURIComponent).join("/"), rootUrl);
     const response = await fetch(fileUrl, { cache: "no-store" });
     if (!response.ok) throw new Error(`Could not load ${dataset.path} (${response.status}).`);
     const data = await response.json();

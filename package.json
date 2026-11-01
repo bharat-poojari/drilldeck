@@ -3,5 +3,8 @@
   "type": "module",
   "engines": {
     "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build-dataset-index.js"
   }
 }

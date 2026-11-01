@@ -23,7 +23,7 @@ A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript 
 
 ## Run locally
 
-The app discovers newly added datasets by reading the `data/` directory listings. Because browsers cannot list files on their own, use a local web server that exposes directory listings, and do not open the page through `file://`.
+The app loads the generated `data/datasets.json` index, so it works on Vercel without public directory listings. Vercel runs `npm run build` on deployment to include newly added datasets. Run the same command after adding JSON files when testing locally. Use a web server rather than opening the page through `file://`.
 
 ### Option A: VS Code Live Server
 
@@ -37,6 +37,7 @@ The app discovers newly added datasets by reading the `data/` directory listings
 From the extracted project directory, run:
 
 ```bash
+npm run build
 python -m http.server 8000
 ```
 
@@ -123,9 +124,7 @@ Valid difficulty values: `Easy`, `Medium`, `Hard`.
 `correctAnswer` must be exactly one of `A`, `B`, `C` or `D`.
 All four options must be non-empty strings.
 
-The setup screen displays the number of questions matching the selected filters. If there are fewer matching questions than requested, the test cannot start. The old `data/questions.json` starter bank is ignored; place new datasets in a subject folder.
-
-Automatic folder discovery requires directory-listing support from the web server. If your production host disables directory listings, enable them for `data/` or provide a server-side dataset index; browsers cannot enumerate hidden files on a static host.
+The setup screen displays the number of questions matching the selected filters. If there are fewer matching questions than requested, the test cannot start. The old `data/questions.json` starter bank is ignored; place new datasets in a subject folder. The build script regenerates `data/datasets.json` from supported dataset folders automatically.
 
 ## Change the marking scheme
 

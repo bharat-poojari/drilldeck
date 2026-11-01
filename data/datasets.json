@@ -1,6 +1,9 @@
 {
   "datasets": [
     "General_Knowledge/CURRENT AFFAIRS/Awards_and_Honours(Current).json",
+    "General_Knowledge/CURRENT AFFAIRS/Current_Economy.json",
+    "General_Knowledge/CURRENT AFFAIRS/Current_Environment.json",
+    "General_Knowledge/CURRENT AFFAIRS/Current_Science_Technology.json",
     "General_Knowledge/CURRENT AFFAIRS/National_Current_Affairs.json"
   ]
 }

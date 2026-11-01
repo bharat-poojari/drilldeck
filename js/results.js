@@ -20,8 +20,8 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("metric-wrong-sub").textContent = `−${metrics.negativeMarks.toFixed(2)} marks`;
   $("metric-attempt-rate").textContent = `${metrics.attemptRate.toFixed(1)}% attempt rate`;
   $("result-subtitle").textContent = metrics.autoSubmitted
-    ? "Time expired. Your examination was submitted automatically."
-    : "Your mock examination has been evaluated.";
+    ? "Time expired. Your test was submitted automatically."
+    : "Your mock test has been evaluated.";
 
   const total = metrics.total || 1;
   $("distribution-bar").innerHTML = `

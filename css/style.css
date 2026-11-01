@@ -88,3 +88,13 @@ a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outl
 @media(max-width:560px){.app-shell{padding-right:15px;padding-left:15px}.topbar{height:auto;min-height:68px;gap:9px;margin-bottom:23px}.brand{gap:8px;font-size:18px;white-space:nowrap}.brand-mark{width:36px;height:36px;border-radius:11px}.topbar-right{gap:6px}.account-open{min-height:40px;padding:0 9px;font-size:10px}.icon-button{width:40px;height:40px}.hero-copy{margin:0 0 21px}.hero-copy h1{font-size:clamp(33px,9vw,43px);letter-spacing:-1.7px}.hero-copy p{font-size:13px;line-height:1.65}.hero-keywords{gap:5px;margin-top:11px}.hero-keywords span{font-size:8px;padding:5px 8px}.setup-grid{gap:15px}.setup-panel{padding:21px 17px}.creator-card{padding:19px}.creator-card h2{font-size:18px}.setup-aside{gap:13px}.page-footer{padding-top:22px}.creator-contact{gap:8px 12px}.contact-links{gap:8px 13px}}
 @media(max-width:360px){.app-shell{padding-right:12px;padding-left:12px}.brand{font-size:16px}.brand-mark{width:33px;height:33px}.topbar-right{gap:4px}.account-open{font-size:9px;padding:0 7px}.hero-copy h1{font-size:32px}.creator-badge{font-size:7px}.field-grid{gap:0}.marking-items{gap:10px}.creator-social-links{gap:8px 10px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
+.creator-monogram{display:block;object-fit:cover;border-radius:15px;background:#fff;box-shadow:0 8px 18px #151b3c70}
+.hero-copy{max-width:860px;margin:6px 0 34px}
+.hero-copy h1{max-width:800px;font-size:clamp(36px,5.2vw,62px);letter-spacing:-2.5px;line-height:1.07}
+.hero-copy p{max-width:660px}
+.hero-keywords{gap:8px;margin:17px 0 0}
+.hero-keywords span{font-size:9px;letter-spacing:.55px}
+.fixed-value{border:1px solid var(--line);border-radius:10px;background:var(--surface-2);padding:12px 13px;color:var(--text);font-size:13px;font-weight:600}
+.status-pill{white-space:nowrap}
+@media(max-width:560px){.hero-copy{margin-bottom:24px}.hero-copy h1{font-size:clamp(34px,9vw,45px);letter-spacing:-1.8px;line-height:1.12}.hero-keywords{gap:6px}.hero-keywords span{font-size:8px;line-height:1.4}.creator-monogram{width:48px;height:48px;flex:0 0 48px}}
+@media(max-width:360px){.hero-copy h1{font-size:32px}.hero-keywords span{font-size:7px}.status-pill{font-size:10px}}

@@ -129,7 +129,7 @@ export async function loadQuestionBank() {
       }))
     };
   }));
-  return { exam: "KEA", datasets, questions: datasets.flatMap(dataset => dataset.questions) };
+  return { exam: "Karnataka State-Level", datasets, questions: datasets.flatMap(dataset => dataset.questions) };
 }
 
 export function filterQuestions(questions, filters) {

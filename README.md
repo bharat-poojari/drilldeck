@@ -1,10 +1,10 @@
-# ExamDesk — JSON Mock Test Platform
+# ExamDesk — Karnataka State Exam Practice
 
-A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Questions are loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
+A customizable mock test application for Karnataka state-level exam preparation, built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Practice General Knowledge, Kannada, English and Computer using question sets loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
 
 ## Features
 
-- Configure the fixed KEA examination by paper, subject/category, dataset, subcategory, difficulty, question count and duration.
+- Configure a custom practice test by paper, subject/category, dataset, subcategory, difficulty, question count and duration.
 - Discover JSON question datasets from the `data/` folder hierarchy automatically.
 - Balance questions randomly across selected datasets, shuffle questions within each dataset and avoid repeats.
 - JSON schema validation, duplicate ID checks and invalid-answer checks.
@@ -17,7 +17,7 @@ A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript 
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
-- Search metadata, person/application structured data, a branded SVG favicon, robots.txt and XML sitemap.
+- Search metadata for Karnataka state exam preparation, person/application structured data, a branded SVG favicon, robots.txt and XML sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Automatic global score publishing with email addresses kept private, plus a global top-score list.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.

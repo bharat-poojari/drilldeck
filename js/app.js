@@ -148,7 +148,7 @@ function startExam(event) {
     durationSeconds = duration * 60;
     examStartedAt = Date.now();
     submitInProgress = false;
-    $("exam-title").textContent = "KEA Mock Test";
+    $("exam-title").textContent = `${examContext.paper} Mock Test`;
     $("exam-total").textContent = count;
     $("exam-max").textContent = count;
     $("timer-box").classList.remove("warning","critical");
@@ -302,7 +302,7 @@ $("modal-close").addEventListener("click",closeSubmitModal);
 $("modal-return").addEventListener("click",closeSubmitModal);
 $("submit-modal").addEventListener("click",event=>{if(event.target===$("submit-modal"))closeSubmitModal()});
 $("modal-confirm").addEventListener("click",()=>{
-  if(window.confirm("Final confirmation: submit this examination and lock all answers?")) finalizeExam(false);
+  if(window.confirm("Final confirmation: submit this test and lock all answers?")) finalizeExam(false);
 });
 $("palette-toggle").addEventListener("click",()=>{
   const panel=$("palette-toggle").closest(".palette-panel");

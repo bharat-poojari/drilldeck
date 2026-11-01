@@ -7,7 +7,8 @@ A customizable mock test application for Karnataka state-level exam preparation,
 - Configure a custom practice test by paper, subject/category, dataset, subcategory, difficulty, question count and duration.
 - Discover JSON question datasets from the `data/` folder hierarchy automatically.
 - Balance questions randomly across selected datasets, shuffle questions within each dataset and avoid repeats.
-- JSON schema validation, duplicate ID checks and invalid-answer checks.
+- Dataset- and subject-scoped question IDs; repeated IDs are disambiguated by occurrence, and gaps in source numbering are allowed.
+- Invalid question records are skipped with dataset-specific warnings so one malformed record does not disable the rest of the question bank.
 - One-question-at-a-time examination interface.
 - Answer selection, previous/next navigation, clear response and mark-for-review.
 - Clickable question palette with status indicators.
@@ -17,7 +18,7 @@ A customizable mock test application for Karnataka state-level exam preparation,
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
-- Search metadata for Karnataka state exam preparation, person/application structured data, a branded SVG favicon, robots.txt and XML sitemap.
+- Search metadata for Karnataka state exam preparation, creator profile links and structured data, social sharing previews, a branded SVG favicon, Google Search Console verification, robots.txt and XML image sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Automatic global score publishing with email addresses kept private, plus a global top-score list.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
@@ -169,6 +170,7 @@ mock-test-platform/
 ├── site.webmanifest
 ├── robots.txt
 ├── sitemap.xml
+├── googlef225cee30a4b6859.html
 ├── data/
 │   ├── General_Knowledge/
 │   └── General_Kannada_English_Computer_Knowledge/
@@ -187,7 +189,7 @@ GitHub-backed JSON is a lightweight prototype store, not a production database. 
 
 Before opening registration to a large public audience, configure Vercel Firewall or another server-side rate limiter for account and score API routes. This prototype does not have durable rate-limit storage or email verification.
 
-Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. After deployment, add the site to Google Search Console and Bing Webmaster Tools, verify ownership, and submit `https://examdesk-kea.vercel.app/sitemap.xml`.
+Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The build copies the Google Search Console verification file to the public site root. After deployment, open `https://examdesk-kea.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://examdesk-kea.vercel.app/sitemap.xml`.
 
 ## Sample question bank
 

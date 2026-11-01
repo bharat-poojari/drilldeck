@@ -47,11 +47,14 @@ await Promise.all([
   "assets",
   "robots.txt",
   "sitemap.xml",
-  "site.webmanifest"
+  "site.webmanifest",
+  "googlef225cee30a4b6859.html"
 ].map(entry =>
   cp(join(projectRoot, entry), join(outputRoot, entry), {
     recursive: true,
-    filter: source => !source.toLowerCase().endsWith(join("data", "questions.json").toLowerCase())
+    filter: source =>
+      !source.toLowerCase().endsWith(join("data", "questions.json").toLowerCase()) &&
+      !source.toLowerCase().endsWith(".test.js")
   })
 ));
 console.log(`Indexed ${datasets.length} question dataset(s) and assembled ${relative(projectRoot, outputRoot)}.`);

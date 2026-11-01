@@ -101,7 +101,9 @@ async function initialize() {
         <span>${subject}</span>
       </label>`).join("");
     updatePaperOptions();
-    $("availability-note").textContent = `${bank.questions.length} questions loaded successfully.`;
+    $("availability-note").textContent = bank.warnings.length
+      ? `${bank.questions.length} questions loaded with ${bank.warnings.length} dataset warning(s).`
+      : `${bank.questions.length} questions loaded successfully.`;
   } catch (error) {
     $("bank-count").textContent = "Error";
     $("availability-note").textContent = "Question bank could not be loaded.";

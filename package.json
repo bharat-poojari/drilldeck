@@ -5,6 +5,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "build": "node scripts/build-dataset-index.js"
+    "build": "node scripts/build-dataset-index.js",
+    "test": "node --test js/questions.test.js"
   }
 }

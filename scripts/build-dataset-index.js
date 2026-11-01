@@ -1,9 +1,10 @@
-import { readdir, writeFile } from "node:fs/promises";
+import { cp, mkdir, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const projectRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 const dataRoot = join(projectRoot, "data");
+const outputRoot = join(projectRoot, "public");
 const allowedRootFolders = new Set([
   "General_Knowledge",
   "General_Kannada_English_Computer_Knowledge",
@@ -35,4 +36,13 @@ if (!datasets.length) throw new Error("No JSON question datasets found under sup
 
 const manifestPath = join(dataRoot, "datasets.json");
 await writeFile(manifestPath, `${JSON.stringify({ datasets }, null, 2)}\n`, "utf8");
-console.log(`Indexed ${datasets.length} question dataset(s) in ${relative(projectRoot, manifestPath)}.`);
+
+await rm(outputRoot, { recursive: true, force: true });
+await mkdir(outputRoot, { recursive: true });
+await Promise.all(["index.html", "css", "js", "data"].map(entry =>
+  cp(join(projectRoot, entry), join(outputRoot, entry), {
+    recursive: true,
+    filter: source => !source.toLowerCase().endsWith(join("data", "questions.json").toLowerCase())
+  })
+));
+console.log(`Indexed ${datasets.length} question dataset(s) and assembled ${relative(projectRoot, outputRoot)}.`);

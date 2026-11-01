@@ -23,7 +23,7 @@ A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript 
 
 ## Run locally
 
-The app loads the generated `data/datasets.json` index, so it works on Vercel without public directory listings. Vercel runs `npm run build` on deployment to include newly added datasets. Run the same command after adding JSON files when testing locally. Use a web server rather than opening the page through `file://`.
+The app loads the generated `data/datasets.json` index, so it works on Vercel without public directory listings. `vercel.json` runs `npm run build`; the build generates the index and assembles the site into the configured `public/` output folder. Run the same command after adding JSON files when testing locally. Use a web server rather than opening the page through `file://`.
 
 ### Option A: VS Code Live Server
 
@@ -124,7 +124,7 @@ Valid difficulty values: `Easy`, `Medium`, `Hard`.
 `correctAnswer` must be exactly one of `A`, `B`, `C` or `D`.
 All four options must be non-empty strings.
 
-The setup screen displays the number of questions matching the selected filters. If there are fewer matching questions than requested, the test cannot start. The old `data/questions.json` starter bank is ignored; place new datasets in a subject folder. The build script regenerates `data/datasets.json` from supported dataset folders automatically.
+The setup screen displays the number of questions matching the selected filters. If there are fewer matching questions than requested, the test cannot start. The old `data/questions.json` starter bank is ignored; place new datasets in a subject folder. The deployment build regenerates `data/datasets.json` from supported dataset folders automatically and copies the runtime files into the `public/` deployment output.
 
 ## Change the marking scheme
 

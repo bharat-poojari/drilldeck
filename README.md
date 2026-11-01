@@ -1,6 +1,6 @@
 # ExamDesk — JSON Mock Test Platform
 
-A browser-based mock examination application built with **HTML5, CSS3 and Vanilla JavaScript modules**. Questions are loaded from JSON files under `data/`. There is no framework, database, backend or browser-based result persistence.
+A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Questions are loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
 
 ## Features
 
@@ -17,7 +17,9 @@ A browser-based mock examination application built with **HTML5, CSS3 and Vanill
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
-- No localStorage, sessionStorage, cookies, IndexedDB or permanent result storage.
+- Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
+- Automatic global score publishing with email addresses kept private, plus a global top-score list.
+- HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
 
 ## Run locally
 
@@ -44,7 +46,31 @@ Then open:
 http://localhost:8000
 ```
 
-No npm install or build step is required.
+No npm packages are required. Account and leaderboard APIs need the Vercel serverless runtime and environment variables described below; a plain static server can run the question practice UI but cannot save accounts or scores.
+
+## Deploy accounts and score sharing to Vercel
+
+1. Create a **separate private GitHub repository** for ExamDesk's JSON records. Do not use the public website repository: it will contain account email addresses and password hashes.
+2. Create a fine-grained personal access token limited to that private repository. Grant **Contents: Read and write** (Metadata read access is required by GitHub); no other repository permissions are needed.
+3. In Vercel, add these environment variables for the project:
+
+   | Variable | Value |
+   | --- | --- |
+   | `EXAMDESK_GITHUB_TOKEN` | Fine-grained token for the private data repository |
+   | `EXAMDESK_GITHUB_OWNER` | GitHub owner or organization for the private repository |
+   | `EXAMDESK_GITHUB_REPO` | Private repository name |
+   | `EXAMDESK_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
+   | `EXAMDESK_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
+
+4. Redeploy after setting the variables. The first registration or score submission creates `accounts.json` in the private repository.
+
+Generate a session secret with `node -e "console.log(require('node:crypto').randomBytes(48).toString('base64url'))"`. Never put the GitHub token or session secret in frontend code, `index.html`, or a committed file. If a token is exposed, revoke it and create a replacement.
+
+Account creation and sign-in are optional. Passwords are stored as salted scrypt hashes, not plaintext. Email addresses and account history stay in the private repository; the public score list includes only a display name, score, paper, subjects and date. Scores are published automatically after each completed test; signed-in users also get up to 100 entries of account history. Guests are listed as `Guest` unless they enter a public name.
+
+If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Password recovery and account deletion are not currently available.
+
+For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. A plain Python/Live Server instance has no `/api` functions, so account and leaderboard requests will report that the service is unavailable.
 
 ## Add question datasets
 
@@ -117,13 +143,23 @@ For example, to use a penalty of 1/3 mark per incorrect answer, change `0.25` to
 ```text
 mock-test-platform/
 ├── index.html
+├── package.json
 ├── css/
 │   ├── style.css
 │   ├── exam.css
 │   └── result.css
+├── api/
+│   ├── account.js
+│   ├── history.js
+│   └── leaderboard.js
+├── lib/server/
+│   ├── accounts.js
+│   ├── github-json.js
+│   └── http.js
 ├── js/
 │   ├── app.js
 │   ├── questions.js
+│   ├── accounts.js
 │   ├── exam.js
 │   ├── timer.js
 │   ├── scoring.js
@@ -134,13 +170,17 @@ mock-test-platform/
 └── README.md
 ```
 
+The separate private GitHub storage repository receives the generated `accounts.json`.
+
 ## Important production limitations
 
-This is a **static, client-side application**. It is suitable for practice tests using a question bank whose answers are delivered to the browser. It is not a secure proctored examination system: users can inspect the downloaded JSON and see correct answers. Do not use this architecture for high-stakes exams or confidential question banks.
+The question experience remains client-side and is suitable for practice tests using a question bank whose answers are delivered to the browser. It is not a secure proctored examination system: users can inspect the downloaded JSON and alter client-side scores. Treat public leaderboard scores as practice results, not verified exam results.
 
-The application intentionally keeps the active test and result in JavaScript memory only. Refreshing, closing the tab, navigating away or losing the page discards the active test and result. There is no server-side recovery or cross-device synchronization.
+The active test remains in JavaScript memory only. Refreshing, closing the tab, navigating away or losing the page discards the active test. Signed-in score history is stored server-side and can be accessed across devices.
 
-For a public deployment, serve the site over HTTPS and use a trusted static host. If questions/answers must remain secret, or if users need accounts, anti-cheat controls, result history, question authoring, audit logs or reliable server-side timing, a backend and server-side question delivery are required. These requirements cannot be made secure with HTML/CSS/JavaScript alone.
+GitHub-backed JSON is a lightweight prototype store, not a production database. Each update creates a Git commit, repository history retains previous versions, and GitHub API limits, file growth and concurrent writes can restrict scale. Keep the data repository private, use a narrowly scoped token, and switch to a database with proper retention and deletion controls before handling sensitive data or a large audience. These client-calculated scores are not tamper-proof.
+
+Before opening registration to a large public audience, configure Vercel Firewall or another server-side rate limiter for account and score API routes. This prototype does not have durable rate-limit storage or email verification.
 
 ## Sample question bank
 

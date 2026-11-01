@@ -3,6 +3,7 @@ import { createExamState, getQuestionStatus, answerQuestion, visitQuestion, togg
 import { createTimer, formatTime } from "./timer.js";
 import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
+import { initializeAccounts, publishScore } from "./accounts.js";
 
 const $ = id => document.getElementById(id);
 const views = { setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -12,6 +13,7 @@ let timer = null;
 let durationSeconds = 0;
 let examStartedAt = null;
 let submitInProgress = false;
+let examContext = null;
 let toastTimeout = null;
 
 function showView(name) {
@@ -137,6 +139,12 @@ function startExam(event) {
   try {
     const selected = selectRandomQuestions(matching, count);
     examState = createExamState(selected);
+    examContext = {
+      paper:$("paper-select").value === "general-knowledge"
+        ? "General Knowledge"
+        : "General Kannada, English & Computer Knowledge",
+      subjects:[...new Set(selected.map(question => question.subject))]
+    };
     durationSeconds = duration * 60;
     examStartedAt = Date.now();
     submitInProgress = false;
@@ -230,7 +238,7 @@ function openSubmitModal() {
 function closeSubmitModal() {
   $("submit-modal").classList.add("hidden");
 }
-function finalizeExam(autoSubmitted = false) {
+async function finalizeExam(autoSubmitted = false) {
   if (!examState || examState.submitted || submitInProgress) return;
   submitInProgress = true;
   examState.submitted = true;
@@ -247,6 +255,13 @@ function finalizeExam(autoSubmitted = false) {
     onNewTest:resetToSetup
   });
   showView("result");
+  await publishScore({
+    score:metrics.score,
+    maximum:metrics.maximum,
+    scorePercentage:metrics.scorePercentage,
+    paper:examContext.paper,
+    subjects:examContext.subjects
+  });
   submitInProgress = false;
 }
 function resetToSetup() {
@@ -319,3 +334,7 @@ window.addEventListener("beforeunload",event=>{
 });
 
 initialize();
+initializeAccounts().catch(error => {
+  $("account-message").textContent = `Account and leaderboard service is unavailable: ${error.message}`;
+  $("account-message").classList.add("error-message");
+});

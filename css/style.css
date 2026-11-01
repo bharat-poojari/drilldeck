@@ -56,3 +56,35 @@ body.dark{--bg:#111827;--surface:#1b2535;--surface-2:#222e40;--text:#edf1f7;--mu
 .account-message.error-message{color:var(--red)}
 .account-dialog-card .modal-close:focus-visible{outline-offset:0}
 @media(max-width:560px){.topbar-right{gap:7px}.account-open{font-size:10px;min-height:34px;padding:0 8px}.score-entry{grid-template-columns:24px minmax(0,1fr);}.score-value-small{grid-column:2;white-space:normal}}
+.brand-mark{display:block;width:40px;height:40px;border-radius:13px;object-fit:cover;box-shadow:0 7px 18px rgba(66,82,196,.24)}
+.brand{gap:11px;font-size:21px}
+.hero-copy{max-width:780px;margin:6px 0 30px}
+.hero-copy h1{font-size:clamp(35px,5vw,58px);letter-spacing:-2.3px;line-height:1.08}
+.hero-copy h1 span{background:linear-gradient(100deg,#4259d5,#8056c9);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero-copy p{max-width:700px}
+.hero-keywords{display:flex;flex-wrap:wrap;gap:7px;margin:14px 0 0}
+.hero-keywords span{border:1px solid #dfe3fb;background:var(--surface);color:var(--primary);border-radius:999px;padding:5px 10px;font-size:9px;font-weight:700;letter-spacing:.8px}
+.creator-card{position:relative;overflow:hidden;border:1px solid #343f77;border-radius:var(--radius);padding:21px;background:radial-gradient(circle at 100% 0,rgba(132,112,255,.32),transparent 43%),linear-gradient(145deg,#222c55,#17213e);color:#fff;box-shadow:0 16px 36px rgba(25,34,72,.17)}
+.creator-card:after{content:"";position:absolute;width:135px;height:135px;border:1px solid rgba(255,255,255,.08);border-radius:50%;right:-55px;top:-62px;pointer-events:none}
+.creator-card-top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.creator-monogram{width:48px;height:48px;border:1px solid rgba(255,255,255,.2);border-radius:15px;display:grid;place-items:center;background:linear-gradient(145deg,#6a7cff,#5944c6);font:800 16px Manrope;letter-spacing:-.7px;box-shadow:0 8px 18px #151b3c70}
+.creator-badge{display:flex;align-items:center;gap:6px;color:#cbd2f2;font-size:8px;letter-spacing:1px;font-weight:700}
+.creator-badge span{width:7px;height:7px;background:#48d3a6;border-radius:50%;box-shadow:0 0 0 4px #48d3a61f}
+.creator-eyebrow{margin:18px 0 5px;color:#aab5ff;font-size:8px;font-weight:700;letter-spacing:1.5px}
+.creator-card h2{margin:0;color:#fff;font:700 19px/1.35 Manrope,sans-serif;letter-spacing:-.4px}
+.creator-description{margin:8px 0 15px;color:#d0d6ed;font-size:11px;line-height:1.7}
+.creator-portfolio{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 13px;border:1px solid rgba(255,255,255,.14);border-radius:10px;background:rgba(255,255,255,.08);color:#fff;text-decoration:none;font-size:11px;font-weight:700;transition:background .18s,transform .18s}
+.creator-portfolio:hover{background:rgba(255,255,255,.15);transform:translateY(-1px)}
+.creator-portfolio span:last-child{font-size:16px}
+.creator-social-links{display:flex;flex-wrap:wrap;gap:8px 13px;margin-top:13px}
+.creator-social-links a{color:#d8dcf4;text-decoration:none;font-size:9px}
+.creator-social-links a:hover,.creator-social-links a:focus-visible{color:#fff;text-decoration:underline}
+.exam-avatar{font-size:0;background:transparent url("/assets/examdesk-mark.svg") center/cover no-repeat;box-shadow:none}
+button,.button,.filter-button,.account-tab,.mobile-palette-toggle,.palette-number,.option-item,.text-button{touch-action:manipulation}
+.button,.icon-button,.filter-button,.account-tab,.mobile-palette-toggle{min-height:44px}
+.icon-button{width:44px;height:44px}
+a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outline-offset:3px;border-radius:5px}
+@media(max-width:850px){.app-shell{padding-right:clamp(16px,4vw,28px);padding-left:clamp(16px,4vw,28px)}.hero-copy{margin-top:0}.setup-grid{gap:18px}}
+@media(max-width:560px){.app-shell{padding-right:15px;padding-left:15px}.topbar{height:auto;min-height:68px;gap:9px;margin-bottom:23px}.brand{gap:8px;font-size:18px;white-space:nowrap}.brand-mark{width:36px;height:36px;border-radius:11px}.topbar-right{gap:6px}.account-open{min-height:40px;padding:0 9px;font-size:10px}.icon-button{width:40px;height:40px}.hero-copy{margin:0 0 21px}.hero-copy h1{font-size:clamp(33px,9vw,43px);letter-spacing:-1.7px}.hero-copy p{font-size:13px;line-height:1.65}.hero-keywords{gap:5px;margin-top:11px}.hero-keywords span{font-size:8px;padding:5px 8px}.setup-grid{gap:15px}.setup-panel{padding:21px 17px}.creator-card{padding:19px}.creator-card h2{font-size:18px}.setup-aside{gap:13px}.page-footer{padding-top:22px}.creator-contact{gap:8px 12px}.contact-links{gap:8px 13px}}
+@media(max-width:360px){.app-shell{padding-right:12px;padding-left:12px}.brand{font-size:16px}.brand-mark{width:33px;height:33px}.topbar-right{gap:4px}.account-open{font-size:9px;padding:0 7px}.hero-copy h1{font-size:32px}.creator-badge{font-size:7px}.field-grid{gap:0}.marking-items{gap:10px}.creator-social-links{gap:8px 10px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}

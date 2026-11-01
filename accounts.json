@@ -1,41 +1,4 @@
 {
-  "users": [
-    {
-      "id": "135707d2-90de-4bf5-aa55-85cacdba0c00",
-      "name": "Bharat",
-      "email": "bharatp0316@gmail.com",
-      "passwordSalt": "e6MxQwsfT3E/bCLJH6COxA==",
-      "passwordHash": "dW8IzUT3X8Vsez/nhwp2OBxhHCCeflwZQOBb9wjSAKVx4PV4f4nYHvfHJjS2jxLKsevqM5+qEXAAT91t+2Risg==",
-      "createdAt": "2026-11-01T11:47:42.448Z",
-      "history": [
-        {
-          "id": "0e9b295f-87b7-43b0-bb23-b2536ff6f89b",
-          "score": -0.75,
-          "maximum": 3,
-          "scorePercentage": -25,
-          "paper": "General Knowledge",
-          "subjects": [
-            "Current Affairs"
-          ],
-          "createdAt": "2026-11-01T11:49:00.062Z",
-          "accountId": "135707d2-90de-4bf5-aa55-85cacdba0c00"
-        }
-      ]
-    }
-  ],
-  "scores": [
-    {
-      "id": "0e9b295f-87b7-43b0-bb23-b2536ff6f89b",
-      "name": "Bharat",
-      "score": -0.75,
-      "maximum": 3,
-      "scorePercentage": -25,
-      "paper": "General Knowledge",
-      "subjects": [
-        "Current Affairs"
-      ],
-      "createdAt": "2026-11-01T11:49:00.062Z",
-      "accountId": "135707d2-90de-4bf5-aa55-85cacdba0c00"
-    }
-  ]
+  "users": [],
+  "scores": []
 }

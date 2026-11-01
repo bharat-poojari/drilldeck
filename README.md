@@ -17,6 +17,7 @@ A KEA mock examination application built with **HTML5, CSS3, Vanilla JavaScript 
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
+- Search metadata, person/application structured data, a branded SVG favicon, robots.txt and XML sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Automatic global score publishing with email addresses kept private, plus a global top-score list.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
@@ -163,6 +164,11 @@ mock-test-platform/
 │   ├── timer.js
 │   ├── scoring.js
 │   └── results.js
+├── assets/
+│   └── examdesk-mark.svg
+├── site.webmanifest
+├── robots.txt
+├── sitemap.xml
 ├── data/
 │   ├── General_Knowledge/
 │   └── General_Kannada_English_Computer_Knowledge/
@@ -180,6 +186,8 @@ The active test remains in JavaScript memory only. Refreshing, closing the tab, 
 GitHub-backed JSON is a lightweight prototype store, not a production database. Each update creates a Git commit, repository history retains previous versions, and GitHub API limits, file growth and concurrent writes can restrict scale. Keep the data repository private, use a narrowly scoped token, and switch to a database with proper retention and deletion controls before handling sensitive data or a large audience. These client-calculated scores are not tamper-proof.
 
 Before opening registration to a large public audience, configure Vercel Firewall or another server-side rate limiter for account and score API routes. This prototype does not have durable rate-limit storage or email verification.
+
+Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. After deployment, add the site to Google Search Console and Bing Webmaster Tools, verify ownership, and submit `https://examdesk-kea.vercel.app/sitemap.xml`.
 
 ## Sample question bank
 

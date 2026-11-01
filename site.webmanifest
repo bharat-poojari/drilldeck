@@ -1,0 +1,17 @@
+{
+  "name": "ExamDesk — KEA Mock Tests",
+  "short_name": "ExamDesk",
+  "description": "Free KEA mock tests and Karnataka government exam practice.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6ff",
+  "theme_color": "#4b5bd5",
+  "icons": [
+    {
+      "src": "/assets/examdesk-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

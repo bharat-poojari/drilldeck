@@ -39,7 +39,16 @@ await writeFile(manifestPath, `${JSON.stringify({ datasets }, null, 2)}\n`, "utf
 
 await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
-await Promise.all(["index.html", "css", "js", "data"].map(entry =>
+await Promise.all([
+  "index.html",
+  "css",
+  "js",
+  "data",
+  "assets",
+  "robots.txt",
+  "sitemap.xml",
+  "site.webmanifest"
+].map(entry =>
   cp(join(projectRoot, entry), join(outputRoot, entry), {
     recursive: true,
     filter: source => !source.toLowerCase().endsWith(join("data", "questions.json").toLowerCase())

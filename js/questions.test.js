@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createQuestionId, validateDataset } from "./questions.js";
+import { createQuestionId, selectRandomQuestions, validateDataset } from "./questions.js";
 
 const dataset = {
   id: "General_Knowledge/Current_Affairs/Current_Economy.json",
@@ -70,4 +70,14 @@ test("invalid records are isolated so valid questions remain available", () => {
   assert.deepEqual(result.questions.map(question => question.id), ["Q023", "Q025"]);
   assert.equal(result.invalidQuestions.length, 1);
   assert.equal(result.invalidQuestions[0].index, 1);
+});
+
+test("selection fills from valid questions after malformed records are skipped", () => {
+  const result = validateDataset({
+    questions: [makeQuestion("Q023"), { ...makeQuestion("Q024"), correctAnswer: undefined }, makeQuestion("Q025")]
+  }, dataset);
+  const available = result.questions.map(question => ({ ...question, datasetId: dataset.id }));
+  const selected = selectRandomQuestions(available, 2, () => 0);
+  assert.equal(selected.length, 2);
+  assert.deepEqual(new Set(selected.map(question => question.id)), new Set(["Q023", "Q025"]));
 });

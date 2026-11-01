@@ -124,8 +124,8 @@
         <div class="hero-copy">
           <div class="eyebrow"><span class="eyebrow-line"></span> KARNATAKA STATE-LEVEL EXAM PRACTICE</div>
           <div class="hero-keywords"><span>BUILD YOUR OWN MOCK TEST</span><span>GENERAL KNOWLEDGE</span><span>KANNADA · ENGLISH · COMPUTER</span></div>
-          <h1>Prepare for your next<br><span>Karnataka state exam.</span></h1>
-          <p>Create a practice test that fits your goals. Choose from General Knowledge, Kannada, English and Computer, then customize your questions, subjects and time.</p>
+          <h1>Prepare for your next <span>Karnataka state exam.</span></h1>
+          <p>Choose your subjects, question sets and time. Practice General Knowledge, current affairs, Kannada, English and Computer.</p>
         </div>
         <div class="setup-grid">
           <section class="panel setup-panel">
@@ -134,16 +134,18 @@
               <span class="panel-icon">⚙</span>
             </div>
             <form id="setup-form">
-              <div class="field">
-                <label>Exam focus</label>
-                <div class="fixed-value">Karnataka state-level exams</div>
-              </div>
-              <div class="field">
-                <label for="paper-select">Paper</label>
-                <select id="paper-select">
-                  <option value="general-knowledge">General Knowledge</option>
-                  <option value="combined">General Kannada, English &amp; Computer Knowledge</option>
-                </select>
+              <div class="field-grid">
+                <div class="field">
+                  <label>Exam focus</label>
+                  <div class="fixed-value">Karnataka state-level exams</div>
+                </div>
+                <div class="field">
+                  <label for="paper-select">Paper</label>
+                  <select id="paper-select">
+                    <option value="general-knowledge">General Knowledge</option>
+                    <option value="combined">General Kannada, English &amp; Computer Knowledge</option>
+                  </select>
+                </div>
               </div>
               <div class="field" id="general-category-field">
                 <label for="general-category-select">General Knowledge category</label>
@@ -169,15 +171,17 @@
                   </select>
                 </div>
               </div>
-              <div class="field">
-                <label for="count-input">Number of questions</label>
-                <input id="count-input" type="number" min="1" max="1000" value="25" required>
-                <div class="availability" id="availability-note">Loading question bank…</div>
+              <div class="field-grid">
+                <div class="field">
+                  <label for="count-input">Questions</label>
+                  <input id="count-input" type="number" min="1" max="1000" value="25" required>
+                </div>
+                <div class="field">
+                  <label for="duration-input">Duration <span class="label-hint">minutes</span></label>
+                  <div class="duration-wrap"><input id="duration-input" type="number" min="1" max="600" value="30"><span>minutes</span></div>
+                </div>
               </div>
-              <div class="field">
-                <label for="duration-input">Duration <span class="label-hint">in minutes</span></label>
-                <div class="duration-wrap"><input id="duration-input" type="number" min="1" max="600" value="30"><span>minutes</span></div>
-              </div>
+              <div class="availability" id="availability-note">Loading question bank…</div>
               <div class="field">
                 <label id="leaderboard-name-label" for="leaderboard-name">Name on public scores <span class="label-hint">optional for guests</span></label>
                 <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">

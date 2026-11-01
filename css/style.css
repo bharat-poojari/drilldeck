@@ -98,3 +98,51 @@ a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outl
 .status-pill{white-space:nowrap}
 @media(max-width:560px){.hero-copy{margin-bottom:24px}.hero-copy h1{font-size:clamp(34px,9vw,45px);letter-spacing:-1.8px;line-height:1.12}.hero-keywords{gap:6px}.hero-keywords span{font-size:8px;line-height:1.4}.creator-monogram{width:48px;height:48px;flex:0 0 48px}}
 @media(max-width:360px){.hero-copy h1{font-size:32px}.hero-keywords span{font-size:7px}.status-pill{font-size:10px}}
+.hero-copy{max-width:none;container-type:inline-size}
+.hero-copy h1{max-width:none;width:100%;font-size:clamp(15px,5cqw,56px);letter-spacing:-.07em;line-height:1.15;white-space:nowrap}
+.hero-keywords{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}
+.hero-keywords::-webkit-scrollbar{display:none}
+@media(max-width:560px){
+  .app-shell{padding-right:12px;padding-left:12px}
+  .topbar{min-height:58px;margin-bottom:15px}
+  .brand{gap:7px;font-size:17px}
+  .brand-mark{width:32px;height:32px;border-radius:10px}
+  .topbar-right{gap:6px}
+  .account-open{min-height:38px;padding:0 8px;font-size:9px}
+  .icon-button{width:38px;height:38px}
+  .hero-copy{margin:0 0 16px}
+  .hero-copy .eyebrow{font-size:8px;letter-spacing:.9px;white-space:nowrap}
+  .hero-copy h1{margin:9px 0 7px;font-size:clamp(15px,5cqw,56px);line-height:1.12}
+  .hero-copy p{font-size:12px;line-height:1.45}
+  .hero-keywords{gap:5px;margin:9px 0 0}
+  .hero-keywords span{flex:0 0 auto;padding:4px 7px;font-size:7px;letter-spacing:.35px}
+  .setup-grid{gap:12px}
+  .setup-panel{padding:16px 13px;border-radius:15px}
+  .panel-heading h2{font-size:17px}
+  .panel-icon{width:36px;height:36px}
+  .field{margin-top:13px}
+  .field label{margin-bottom:5px;font-size:11px}
+  .field-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+  .field input[type=text],.field input[type=number],.field select{height:42px;padding:0 9px;font-size:12px}
+  .fixed-value{padding:11px 9px;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .label-hint{margin-left:2px;font-size:10px}
+  .dataset-options{max-height:160px}
+  .dataset-option{gap:8px;padding:8px}
+  .dataset-option strong{font-size:11px}
+  .dataset-option small{font-size:9px}
+  .availability{font-size:10px;margin-top:6px}
+  .marking-note{margin-top:14px;padding:10px}
+  .marking-items{gap:10px;font-size:10px}
+  .setup-panel .button-primary{position:sticky;bottom:8px;z-index:3;height:46px;margin-top:12px;box-shadow:0 5px 18px rgba(48,64,160,.28)}
+  .creator-card{padding:16px}
+  .bank-panel,.info-card{padding:17px}
+}
+@media(max-width:360px){
+  .account-open{font-size:0;min-width:38px}
+  .account-open::after{content:"Account";font-size:9px}
+  .hero-copy .eyebrow{font-size:7px;letter-spacing:.7px}
+  .hero-copy h1{font-size:clamp(15px,5cqw,56px)}
+  .hero-keywords span{font-size:6px;padding:4px 6px}
+  .setup-panel{padding-right:11px;padding-left:11px}
+  .field-grid{gap:7px}
+}

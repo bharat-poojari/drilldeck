@@ -1,0 +1,3481 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Extensive question bank derived from the 'Important Persons Appointments' PDF, formatted for KEA examination preparation. Covers constitutional authorities, union/state ministers, institutional heads, judiciary, defence, international organizations, awards, and recent transitions. Cutoff: 30 October 2026.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the President of India as of 30 October 2026?",
+      "options": {
+        "A": "Ram Nath Kovind",
+        "B": "Droupadi Murmu",
+        "C": "Pranab Mukherjee",
+        "D": "V. S. Ramadevi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Droupadi Murmu is the 15th President of India, having assumed office on 25 July 2022.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the President of India?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 76"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 52 states that there shall be a President of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Vice-President of India as of 30 October 2026?",
+      "options": {
+        "A": "M. Venkaiah Naidu",
+        "B": "Jagdeep Dhankhar",
+        "C": "C. P. Radhakrishnan",
+        "D": "Hamid Ansari"
+      },
+      "correctAnswer": "C",
+      "explanation": "C. P. Radhakrishnan is the Vice-President of India, having taken office in September 2022.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides for the Vice-President of India?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 148"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 63 states that there shall be a Vice-President of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "Indian Constitution",
+      "topic": "Parliament",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Vice-President of India is the ex-officio Chairman of which body?",
+      "options": {
+        "A": "Lok Sabha",
+        "B": "Rajya Sabha",
+        "C": "Supreme Court",
+        "D": "Election Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Vice-President is the ex-officio Chairman of the Rajya Sabha.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Prime Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Prime Minister of India as of 30 October 2026?",
+      "options": {
+        "A": "Manmohan Singh",
+        "B": "Narendra Modi",
+        "C": "Atal Bihari Vajpayee",
+        "D": "Rajnath Singh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narendra Modi is the Prime Minister, serving his third consecutive term.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Prime Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides that the Prime Minister shall be appointed by the President?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 76"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 75 provides for the appointment of the Prime Minister and other Ministers by the President.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Election Commission",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Election Commissioner of India as of 30 October 2026?",
+      "options": {
+        "A": "Rajiv Kumar",
+        "B": "Gyanesh Kumar",
+        "C": "Sukhbir Singh Sandhu",
+        "D": "Vivek Deshmukh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gyanesh Kumar is the 26th Chief Election Commissioner, having assumed charge on 19 February 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q009",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Election Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Election Commission of India?",
+      "options": {
+        "A": "Article 315",
+        "B": "Article 324",
+        "C": "Article 280",
+        "D": "Article 148"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 324 provides for the superintendence, direction and control of elections to be vested in the Election Commission.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Election Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who are the Election Commissioners of India alongside the CEC as of 30 October 2026?",
+      "options": {
+        "A": "Sukhbir Singh Sandhu and Vivek Deshmukh",
+        "B": "Gyanesh Kumar and Rajiv Kumar",
+        "C": "Anurag Jain and Ashok Kumar Lahiri",
+        "D": "R. Venkataramani and Ajay Kumar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sukhbir Singh Sandhu and Vivek Deshmukh are the Election Commissioners alongside the CEC.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Comptroller and Auditor General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Comptroller and Auditor General (CAG) of India as of 30 October 2026?",
+      "options": {
+        "A": "K. Sanjay Murthy",
+        "B": "Beena (CM) Gathy",
+        "C": "R. Venkataramani",
+        "D": "Ajay Kumar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beena (CM) Gathy was sworn in as the CAG on 21 November 2024. Note: The quick comparison table on Page 8 mentions K. Sanjay Murthy, but the main table on Page 2 and the practice questions on Page 8 both confirm Beena (CM) Gathy. This is a known conflict in the source document; the primary constitutional authority list is likely correct.",
+      "source": "Important_Persons_Appointments.pdf - Section 1, 9, 10"
+    },
+    {
+      "id": "Q012",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Comptroller and Auditor General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Comptroller and Auditor General of India?",
+      "options": {
+        "A": "Article 148",
+        "B": "Article 324",
+        "C": "Article 280",
+        "D": "Article 315"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 148 provides for the Comptroller and Auditor General of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "UPSC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of the Union Public Service Commission (UPSC) as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Ajay Kumar",
+        "B": "R. Venkataramani",
+        "C": "Gyanesh Kumar",
+        "D": "Ashok Kumar Lahiri"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Ajay Kumar is the UPSC Chairman, having assumed office on 15 May 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q014",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "UPSC",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Articles of the Constitution deal with the Union Public Service Commission?",
+      "options": {
+        "A": "Articles 315 to 323",
+        "B": "Articles 324 to 329",
+        "C": "Articles 148 to 151",
+        "D": "Articles 280 to 281"
+      },
+      "correctAnswer": "A",
+      "explanation": "Articles 315 to 323 deal with the Public Service Commissions for the Union and the States.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q015",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Attorney General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Attorney General for India as of 30 October 2026?",
+      "options": {
+        "A": "R. Venkataramani",
+        "B": "Mukul Rohatgi",
+        "C": "K. K. Venugopal",
+        "D": "Tushar Mehta"
+      },
+      "correctAnswer": "A",
+      "explanation": "R. Venkataramani is the Attorney General for India, reappointed from 1 October 2025 for two years.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q016",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Attorney General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Attorney General for India?",
+      "options": {
+        "A": "Article 76",
+        "B": "Article 75",
+        "C": "Article 148",
+        "D": "Article 324"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 76 provides for the Attorney General for India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q017",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Finance Commission",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of the 16th Finance Commission of India as of 30 October 2026?",
+      "options": {
+        "A": "N. K. Singh",
+        "B": "Dr. Arvind Panagariya",
+        "C": "Y. V. Reddy",
+        "D": "C. Rangarajan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. Arvind Panagariya is the Chairman of the 16th Finance Commission.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 10"
+    },
+    {
+      "id": "Q018",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Finance Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Finance Commission?",
+      "options": {
+        "A": "Article 280",
+        "B": "Article 324",
+        "C": "Article 315",
+        "D": "Article 148"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 280 provides for the constitution of a Finance Commission by the President every fifth year or at such earlier time as he considers necessary.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q019",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Governor of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Governor of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Thaavarchand Gehlot",
+        "B": "Dr. Sudha Yadav",
+        "C": "V. S. Ramadevi",
+        "D": "H. R. Bhardwaj"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. Sudha Yadav was appointed on 12 October 2026 and sworn in on 16 October 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q020",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Governor of Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Dr. Sudha Yadav is the second woman Governor of Karnataka after which former Governor?",
+      "options": {
+        "A": "V. S. Ramadevi",
+        "B": "Pratibha Patil",
+        "C": "Sarojini Naidu",
+        "D": "Sucheta Kripalani"
+      },
+      "correctAnswer": "A",
+      "explanation": "She is the second woman Governor of Karnataka after V. S. Ramadevi.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q021",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Chief Minister of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Minister of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Siddaramaiah",
+        "B": "D. K. Shivakumar",
+        "C": "B. S. Yediyurappa",
+        "D": "H. D. Kumaraswamy"
+      },
+      "correctAnswer": "B",
+      "explanation": "D. K. Shivakumar was sworn in as the 25th Chief Minister on 30 May 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q022",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Deputy Chief Minister of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Deputy Chief Minister of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "D. K. Shivakumar",
+        "B": "Dr. G. Parameshwara",
+        "C": "Priyank Kharge",
+        "D": "K. H. Muniyappa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. G. Parameshwara took office as Deputy Chief Minister in June 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q023",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Chief Justice of Karnataka High Court",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Justice of the Karnataka High Court as of 30 October 2026?",
+      "options": {
+        "A": "Justice Vibhu Bakhru",
+        "B": "Justice Mithibhu Bakhru",
+        "C": "Justice Surya Kant",
+        "D": "Justice B. R. Gavai"
+      },
+      "correctAnswer": "A",
+      "explanation": "Justice Vibhu Bakhru is the Chief Justice of the Karnataka High Court, having taken oath on 19 July 2025. Note: The PDF has a typo in Section 1.2 ('Mithibhu Bakhru'), but the official title in Section 4.3 and Page 8 confirms 'Vibhu Bakhru'.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2, 4.3, 9"
+    },
+    {
+      "id": "Q024",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Karnataka Chief Secretary",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chief Secretary of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Shalini Rajneesh",
+        "B": "Dr. M. A. Saleem",
+        "C": "D. K. Shivakumar",
+        "D": "Dr. G. Parameshwara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Shalini Rajneesh is the senior-most administrative officer and Chief Secretary of Karnataka.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q025",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Karnataka DGP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Director General of Police (DGP) and Inspector General of Police (IGP) of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Dr. M. A. Saleem",
+        "B": "Dr. Shalini Rajneesh",
+        "C": "Praveen Sood",
+        "D": "Alok Mohan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. M. A. Saleem is the State Police head.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q026",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Defence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Defence as of 30 October 2026?",
+      "options": {
+        "A": "Amit Shah",
+        "B": "Rajnath Singh",
+        "C": "Nitin Gadkari",
+        "D": "Nirmala Sitharaman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rajnath Singh is the Union Minister of Defence.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q027",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Home Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Home Affairs and Cooperation as of 30 October 2026?",
+      "options": {
+        "A": "Rajnath Singh",
+        "B": "Amit Shah",
+        "C": "Nitin Gadkari",
+        "D": "Nirmala Sitharaman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amit Shah holds the Home Affairs and Cooperation portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q028",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Road Transport and Highways",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Road Transport and Highways as of 30 October 2026?",
+      "options": {
+        "A": "Nitin Gadkari",
+        "B": "Piyush Goyal",
+        "C": "Ashwini Vaishnaw",
+        "D": "Manohar Lal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nitin Gadkari is the Union Minister of Road Transport and Highways.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q029",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Health and Family Welfare",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Health and Family Welfare and Chemicals and Fertilizers as of 30 October 2026?",
+      "options": {
+        "A": "Mansukh Mandaviya",
+        "B": "J. P. Nadda",
+        "C": "Harsh Vardhan",
+        "D": "Anbumani Ramadoss"
+      },
+      "correctAnswer": "B",
+      "explanation": "J. P. Nadda holds the Health and Family Welfare and Chemicals and Fertilizers portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q030",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Agriculture and Rural Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Agriculture and Farmers Welfare and Rural Development as of 30 October 2026?",
+      "options": {
+        "A": "Narendra Singh Tomar",
+        "B": "Shivraj Singh Chouhan",
+        "C": "Radha Mohan Singh",
+        "D": "Gajendra Singh Shekhawat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shivraj Singh Chouhan holds the Agriculture and Farmers Welfare and Rural Development portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q031",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Finance and Corporate Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Finance and Corporate Affairs as of 30 October 2026?",
+      "options": {
+        "A": "Piyush Goyal",
+        "B": "Nirmala Sitharaman",
+        "C": "Arun Jaitley",
+        "D": "P. Chidambaram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nirmala Sitharaman is the Union Minister of Finance and Corporate Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q032",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "External Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of External Affairs as of 30 October 2026?",
+      "options": {
+        "A": "S. Jaishankar",
+        "B": "Narendra Modi",
+        "C": "Rajnath Singh",
+        "D": "Amit Shah"
+      },
+      "correctAnswer": "A",
+      "explanation": "S. Jaishankar is the Union Minister of External Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q033",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Housing and Urban Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Housing and Urban Affairs and Power as of 30 October 2026?",
+      "options": {
+        "A": "Hardeep Singh Puri",
+        "B": "Manohar Lal",
+        "C": "G. Kishan Reddy",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Manohar Lal holds the Housing and Urban Affairs and Power portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q034",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Heavy Industries and Steel",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Heavy Industries and Steel as of 30 October 2026?",
+      "options": {
+        "A": "H. D. Kumaraswamy",
+        "B": "Piyush Goyal",
+        "C": "Nitin Gadkari",
+        "D": "Rajnath Singh"
+      },
+      "correctAnswer": "A",
+      "explanation": "H. D. Kumaraswamy holds the Heavy Industries and Steel portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q035",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Commerce and Industry",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Commerce and Industry as of 30 October 2026?",
+      "options": {
+        "A": "Suresh Prabhu",
+        "B": "Piyush Goyal",
+        "C": "Nirmala Sitharaman",
+        "D": "Amit Shah"
+      },
+      "correctAnswer": "B",
+      "explanation": "Piyush Goyal is the Union Minister of Commerce and Industry.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q036",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "MSME",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Micro, Small and Medium Enterprises as of 30 October 2026?",
+      "options": {
+        "A": "Nitin Gadkari",
+        "B": "Jitan Ram Manjhi",
+        "C": "Narayan Rane",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jitan Ram Manjhi holds the MSME portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q037",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Panchayati Raj and Fisheries",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Union Minister of Panchayati Raj and Fisheries, Animal Husbandry and Dairying as of 30 October 2026?",
+      "options": {
+        "A": "Rajiv Ranjan Singh (Lalan Singh)",
+        "B": "Giriraj Singh",
+        "C": "Parshottam Rupala",
+        "D": "Pratap Chandra Sarangi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rajiv Ranjan Singh (Lalan Singh) holds these portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q038",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Ports and Shipping",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Ports, Shipping and Waterways as of 30 October 2026?",
+      "options": {
+        "A": "Mansukh Mandaviya",
+        "B": "Sarbananda Sonowal",
+        "C": "Nitin Gadkari",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sarbananda Sonowal holds the Ports, Shipping and Waterways portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q039",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Social Justice",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Social Justice and Empowerment as of 30 October 2026?",
+      "options": {
+        "A": "Thaawarchand Gehlot",
+        "B": "Virendra Kumar",
+        "C": "Ramdas Athawale",
+        "D": "Kiren Rijiju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Virendra Kumar is the Union Minister of Social Justice and Empowerment.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q040",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Civil Aviation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Civil Aviation as of 30 October 2026?",
+      "options": {
+        "A": "Jyotiraditya M. Scindia",
+        "B": "Kinjarapu Rammohan Naidu",
+        "C": "Hardeep Singh Puri",
+        "D": "Ashok Gajapathi Raju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kinjarapu Rammohan Naidu is the Union Minister of Civil Aviation.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q041",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Consumer Affairs and Education",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who received the additional charge of the Union Ministry of Education after Dharmendra Pradhan's resignation?",
+      "options": {
+        "A": "Pralhad Joshi",
+        "B": "Dharmendra Pradhan",
+        "C": "Ramesh Pokhriyal",
+        "D": "Smriti Irani"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pralhad Joshi received additional charge of the Education portfolio after Dharmendra Pradhan's resignation.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1 and 11"
+    },
+    {
+      "id": "Q042",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Consumer Affairs and Education",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which portfolios does Pralhad Joshi hold as of 30 October 2026?",
+      "options": {
+        "A": "Consumer Affairs, Food and Public Distribution; New and Renewable Energy; Education (additional charge)",
+        "B": "Health and Family Welfare; Chemicals and Fertilizers",
+        "C": "Railways; Information and Broadcasting",
+        "D": "Environment, Forest and Climate Change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pralhad Joshi holds Consumer Affairs, Food and Public Distribution; New and Renewable Energy; and Education (additional charge).",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q043",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Tribal Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Tribal Affairs as of 30 October 2026?",
+      "options": {
+        "A": "Arjun Munda",
+        "B": "Jual Oram",
+        "C": "Bishweswar Tudu",
+        "D": "Renuka Singh Saruta"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jual Oram is the Union Minister of Tribal Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q001",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the President of India as of 30 October 2026?",
+      "options": {
+        "A": "Ram Nath Kovind",
+        "B": "Droupadi Murmu",
+        "C": "Pranab Mukherjee",
+        "D": "V. S. Ramadevi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Droupadi Murmu is the 15th President of India, having assumed office on 25 July 2022.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the President of India?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 76"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 52 states that there shall be a President of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Vice-President of India as of 30 October 2026?",
+      "options": {
+        "A": "M. Venkaiah Naidu",
+        "B": "Jagdeep Dhankhar",
+        "C": "C. P. Radhakrishnan",
+        "D": "Hamid Ansari"
+      },
+      "correctAnswer": "C",
+      "explanation": "C. P. Radhakrishnan is the Vice-President of India, having taken office in September 2022.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides for the Vice-President of India?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 148"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 63 states that there shall be a Vice-President of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "Indian Constitution",
+      "topic": "Parliament",
+      "chapter": "Vice-President of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Vice-President of India is the ex-officio Chairman of which body?",
+      "options": {
+        "A": "Lok Sabha",
+        "B": "Rajya Sabha",
+        "C": "Supreme Court",
+        "D": "Election Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Vice-President is the ex-officio Chairman of the Rajya Sabha.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Prime Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Prime Minister of India as of 30 October 2026?",
+      "options": {
+        "A": "Manmohan Singh",
+        "B": "Narendra Modi",
+        "C": "Atal Bihari Vajpayee",
+        "D": "Rajnath Singh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narendra Modi is the Prime Minister, serving his third consecutive term.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Prime Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides that the Prime Minister shall be appointed by the President?",
+      "options": {
+        "A": "Article 52",
+        "B": "Article 63",
+        "C": "Article 75",
+        "D": "Article 76"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 75 provides for the appointment of the Prime Minister and other Ministers by the President.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Election Commission",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Election Commissioner of India as of 30 October 2026?",
+      "options": {
+        "A": "Rajiv Kumar",
+        "B": "Gyanesh Kumar",
+        "C": "Sukhbir Singh Sandhu",
+        "D": "Vivek Deshmukh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gyanesh Kumar is the 26th Chief Election Commissioner, having assumed charge on 19 February 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q009",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Election Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Election Commission of India?",
+      "options": {
+        "A": "Article 315",
+        "B": "Article 324",
+        "C": "Article 280",
+        "D": "Article 148"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 324 provides for the superintendence, direction and control of elections to be vested in the Election Commission.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Election Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who are the Election Commissioners of India alongside the CEC as of 30 October 2026?",
+      "options": {
+        "A": "Sukhbir Singh Sandhu and Vivek Deshmukh",
+        "B": "Gyanesh Kumar and Rajiv Kumar",
+        "C": "Anurag Jain and Ashok Kumar Lahiri",
+        "D": "R. Venkataramani and Ajay Kumar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sukhbir Singh Sandhu and Vivek Deshmukh are the Election Commissioners alongside the CEC.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Comptroller and Auditor General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Comptroller and Auditor General (CAG) of India as of 30 October 2026?",
+      "options": {
+        "A": "K. Sanjay Murthy",
+        "B": "Beena (CM) Gathy",
+        "C": "R. Venkataramani",
+        "D": "Ajay Kumar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beena (CM) Gathy was sworn in as the CAG on 21 November 2024. Note: The quick comparison table on Page 8 mentions K. Sanjay Murthy, but the main table on Page 2 and the practice questions on Page 8 both confirm Beena (CM) Gathy. This is a known conflict in the source document; the primary constitutional authority list is likely correct.",
+      "source": "Important_Persons_Appointments.pdf - Section 1, 9, 10"
+    },
+    {
+      "id": "Q012",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Comptroller and Auditor General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Comptroller and Auditor General of India?",
+      "options": {
+        "A": "Article 148",
+        "B": "Article 324",
+        "C": "Article 280",
+        "D": "Article 315"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 148 provides for the Comptroller and Auditor General of India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "UPSC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of the Union Public Service Commission (UPSC) as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Ajay Kumar",
+        "B": "R. Venkataramani",
+        "C": "Gyanesh Kumar",
+        "D": "Ashok Kumar Lahiri"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Ajay Kumar is the UPSC Chairman, having assumed office on 15 May 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q014",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "UPSC",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Articles of the Constitution deal with the Union Public Service Commission?",
+      "options": {
+        "A": "Articles 315 to 323",
+        "B": "Articles 324 to 329",
+        "C": "Articles 148 to 151",
+        "D": "Articles 280 to 281"
+      },
+      "correctAnswer": "A",
+      "explanation": "Articles 315 to 323 deal with the Public Service Commissions for the Union and the States.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q015",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Attorney General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Attorney General for India as of 30 October 2026?",
+      "options": {
+        "A": "R. Venkataramani",
+        "B": "Mukul Rohatgi",
+        "C": "K. K. Venugopal",
+        "D": "Tushar Mehta"
+      },
+      "correctAnswer": "A",
+      "explanation": "R. Venkataramani is the Attorney General for India, reappointed from 1 October 2025 for two years.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 9"
+    },
+    {
+      "id": "Q016",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Attorney General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Attorney General for India?",
+      "options": {
+        "A": "Article 76",
+        "B": "Article 75",
+        "C": "Article 148",
+        "D": "Article 324"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 76 provides for the Attorney General for India.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q017",
+      "subject": "Current Affairs",
+      "topic": "Constitutional Authorities",
+      "chapter": "Finance Commission",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of the 16th Finance Commission of India as of 30 October 2026?",
+      "options": {
+        "A": "N. K. Singh",
+        "B": "Dr. Arvind Panagariya",
+        "C": "Y. V. Reddy",
+        "D": "C. Rangarajan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. Arvind Panagariya is the Chairman of the 16th Finance Commission.",
+      "source": "Important_Persons_Appointments.pdf - Section 1 and 10"
+    },
+    {
+      "id": "Q018",
+      "subject": "Indian Constitution",
+      "topic": "Constitutional Articles",
+      "chapter": "Finance Commission",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article of the Constitution provides for the Finance Commission?",
+      "options": {
+        "A": "Article 280",
+        "B": "Article 324",
+        "C": "Article 315",
+        "D": "Article 148"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 280 provides for the constitution of a Finance Commission by the President every fifth year or at such earlier time as he considers necessary.",
+      "source": "Important_Persons_Appointments.pdf - Section 1"
+    },
+    {
+      "id": "Q019",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Governor of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Governor of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Thaavarchand Gehlot",
+        "B": "Dr. Sudha Yadav",
+        "C": "V. S. Ramadevi",
+        "D": "H. R. Bhardwaj"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. Sudha Yadav was appointed on 12 October 2026 and sworn in on 16 October 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q020",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Governor of Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Dr. Sudha Yadav is the second woman Governor of Karnataka after which former Governor?",
+      "options": {
+        "A": "V. S. Ramadevi",
+        "B": "Pratibha Patil",
+        "C": "Sarojini Naidu",
+        "D": "Sucheta Kripalani"
+      },
+      "correctAnswer": "A",
+      "explanation": "She is the second woman Governor of Karnataka after V. S. Ramadevi.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q021",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Chief Minister of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Minister of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Siddaramaiah",
+        "B": "D. K. Shivakumar",
+        "C": "B. S. Yediyurappa",
+        "D": "H. D. Kumaraswamy"
+      },
+      "correctAnswer": "B",
+      "explanation": "D. K. Shivakumar was sworn in as the 25th Chief Minister on 30 May 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q022",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Deputy Chief Minister of Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Deputy Chief Minister of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "D. K. Shivakumar",
+        "B": "Dr. G. Parameshwara",
+        "C": "Priyank Kharge",
+        "D": "K. H. Muniyappa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. G. Parameshwara took office as Deputy Chief Minister in June 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 9"
+    },
+    {
+      "id": "Q023",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Chief Justice of Karnataka High Court",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Justice of the Karnataka High Court as of 30 October 2026?",
+      "options": {
+        "A": "Justice Vibhu Bakhru",
+        "B": "Justice Mithibhu Bakhru",
+        "C": "Justice Surya Kant",
+        "D": "Justice B. R. Gavai"
+      },
+      "correctAnswer": "A",
+      "explanation": "Justice Vibhu Bakhru is the Chief Justice of the Karnataka High Court, having taken oath on 19 July 2025. Note: The PDF has a typo in Section 1.2 ('Mithibhu Bakhru'), but the official title in Section 4.3 and Page 8 confirms 'Vibhu Bakhru'.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2, 4.3, 9"
+    },
+    {
+      "id": "Q024",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Karnataka Chief Secretary",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chief Secretary of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Shalini Rajneesh",
+        "B": "Dr. M. A. Saleem",
+        "C": "D. K. Shivakumar",
+        "D": "Dr. G. Parameshwara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Shalini Rajneesh is the senior-most administrative officer and Chief Secretary of Karnataka.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q025",
+      "subject": "Current Affairs",
+      "topic": "Karnataka State Offices",
+      "chapter": "Karnataka DGP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Director General of Police (DGP) and Inspector General of Police (IGP) of Karnataka as of 30 October 2026?",
+      "options": {
+        "A": "Dr. M. A. Saleem",
+        "B": "Dr. Shalini Rajneesh",
+        "C": "Praveen Sood",
+        "D": "Alok Mohan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. M. A. Saleem is the State Police head.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2"
+    },
+    {
+      "id": "Q026",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Defence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Defence as of 30 October 2026?",
+      "options": {
+        "A": "Amit Shah",
+        "B": "Rajnath Singh",
+        "C": "Nitin Gadkari",
+        "D": "Nirmala Sitharaman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rajnath Singh is the Union Minister of Defence.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q027",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Home Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Home Affairs and Cooperation as of 30 October 2026?",
+      "options": {
+        "A": "Rajnath Singh",
+        "B": "Amit Shah",
+        "C": "Nitin Gadkari",
+        "D": "Nirmala Sitharaman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amit Shah holds the Home Affairs and Cooperation portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q028",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Road Transport and Highways",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Road Transport and Highways as of 30 October 2026?",
+      "options": {
+        "A": "Nitin Gadkari",
+        "B": "Piyush Goyal",
+        "C": "Ashwini Vaishnaw",
+        "D": "Manohar Lal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nitin Gadkari is the Union Minister of Road Transport and Highways.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q029",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Health and Family Welfare",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Health and Family Welfare and Chemicals and Fertilizers as of 30 October 2026?",
+      "options": {
+        "A": "Mansukh Mandaviya",
+        "B": "J. P. Nadda",
+        "C": "Harsh Vardhan",
+        "D": "Anbumani Ramadoss"
+      },
+      "correctAnswer": "B",
+      "explanation": "J. P. Nadda holds the Health and Family Welfare and Chemicals and Fertilizers portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q030",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Agriculture and Rural Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Agriculture and Farmers Welfare and Rural Development as of 30 October 2026?",
+      "options": {
+        "A": "Narendra Singh Tomar",
+        "B": "Shivraj Singh Chouhan",
+        "C": "Radha Mohan Singh",
+        "D": "Gajendra Singh Shekhawat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shivraj Singh Chouhan holds the Agriculture and Farmers Welfare and Rural Development portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q031",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Finance and Corporate Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Finance and Corporate Affairs as of 30 October 2026?",
+      "options": {
+        "A": "Piyush Goyal",
+        "B": "Nirmala Sitharaman",
+        "C": "Arun Jaitley",
+        "D": "P. Chidambaram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nirmala Sitharaman is the Union Minister of Finance and Corporate Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q032",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "External Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of External Affairs as of 30 October 2026?",
+      "options": {
+        "A": "S. Jaishankar",
+        "B": "Narendra Modi",
+        "C": "Rajnath Singh",
+        "D": "Amit Shah"
+      },
+      "correctAnswer": "A",
+      "explanation": "S. Jaishankar is the Union Minister of External Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q033",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Housing and Urban Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Housing and Urban Affairs and Power as of 30 October 2026?",
+      "options": {
+        "A": "Hardeep Singh Puri",
+        "B": "Manohar Lal",
+        "C": "G. Kishan Reddy",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Manohar Lal holds the Housing and Urban Affairs and Power portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q034",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Heavy Industries and Steel",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Heavy Industries and Steel as of 30 October 2026?",
+      "options": {
+        "A": "H. D. Kumaraswamy",
+        "B": "Piyush Goyal",
+        "C": "Nitin Gadkari",
+        "D": "Rajnath Singh"
+      },
+      "correctAnswer": "A",
+      "explanation": "H. D. Kumaraswamy holds the Heavy Industries and Steel portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q035",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Commerce and Industry",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Commerce and Industry as of 30 October 2026?",
+      "options": {
+        "A": "Suresh Prabhu",
+        "B": "Piyush Goyal",
+        "C": "Nirmala Sitharaman",
+        "D": "Amit Shah"
+      },
+      "correctAnswer": "B",
+      "explanation": "Piyush Goyal is the Union Minister of Commerce and Industry.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q036",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "MSME",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Micro, Small and Medium Enterprises as of 30 October 2026?",
+      "options": {
+        "A": "Nitin Gadkari",
+        "B": "Jitan Ram Manjhi",
+        "C": "Narayan Rane",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jitan Ram Manjhi holds the MSME portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q037",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Panchayati Raj and Fisheries",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Union Minister of Panchayati Raj and Fisheries, Animal Husbandry and Dairying as of 30 October 2026?",
+      "options": {
+        "A": "Rajiv Ranjan Singh (Lalan Singh)",
+        "B": "Giriraj Singh",
+        "C": "Parshottam Rupala",
+        "D": "Pratap Chandra Sarangi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rajiv Ranjan Singh (Lalan Singh) holds these portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q038",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Ports and Shipping",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Ports, Shipping and Waterways as of 30 October 2026?",
+      "options": {
+        "A": "Mansukh Mandaviya",
+        "B": "Sarbananda Sonowal",
+        "C": "Nitin Gadkari",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sarbananda Sonowal holds the Ports, Shipping and Waterways portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q039",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Social Justice",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Social Justice and Empowerment as of 30 October 2026?",
+      "options": {
+        "A": "Thaawarchand Gehlot",
+        "B": "Virendra Kumar",
+        "C": "Ramdas Athawale",
+        "D": "Kiren Rijiju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Virendra Kumar is the Union Minister of Social Justice and Empowerment.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q040",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Civil Aviation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Civil Aviation as of 30 October 2026?",
+      "options": {
+        "A": "Jyotiraditya M. Scindia",
+        "B": "Kinjarapu Rammohan Naidu",
+        "C": "Hardeep Singh Puri",
+        "D": "Ashok Gajapathi Raju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kinjarapu Rammohan Naidu is the Union Minister of Civil Aviation.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q041",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Consumer Affairs and Education",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who received the additional charge of the Union Ministry of Education after Dharmendra Pradhan's resignation?",
+      "options": {
+        "A": "Pralhad Joshi",
+        "B": "Dharmendra Pradhan",
+        "C": "Ramesh Pokhriyal",
+        "D": "Smriti Irani"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pralhad Joshi received additional charge of the Education portfolio after Dharmendra Pradhan's resignation.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1 and 11"
+    },
+    {
+      "id": "Q042",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Consumer Affairs and Education",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which portfolios does Pralhad Joshi hold as of 30 October 2026?",
+      "options": {
+        "A": "Consumer Affairs, Food and Public Distribution; New and Renewable Energy; Education (additional charge)",
+        "B": "Health and Family Welfare; Chemicals and Fertilizers",
+        "C": "Railways; Information and Broadcasting",
+        "D": "Environment, Forest and Climate Change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pralhad Joshi holds Consumer Affairs, Food and Public Distribution; New and Renewable Energy; and Education (additional charge).",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q043",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Tribal Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Tribal Affairs as of 30 October 2026?",
+      "options": {
+        "A": "Arjun Munda",
+        "B": "Jual Oram",
+        "C": "Bishweswar Tudu",
+        "D": "Renuka Singh Saruta"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jual Oram is the Union Minister of Tribal Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+        {
+      "id": "Q044",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Textiles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Textiles as of 30 October 2026?",
+      "options": {
+        "A": "Smriti Irani",
+        "B": "Giriraj Singh",
+        "C": "Piyush Goyal",
+        "D": "Darshana Jardosh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Giriraj Singh is the Union Minister of Textiles.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q045",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Railways and IT",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Railways, Information and Broadcasting, and Electronics and Information Technology as of 30 October 2026?",
+      "options": {
+        "A": "Piyush Goyal",
+        "B": "Ashwini Vaishnaw",
+        "C": "Anurag Thakur",
+        "D": "Ravi Shankar Prasad"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ashwini Vaishnaw holds the Railways, Information and Broadcasting, and Electronics and Information Technology portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q046",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Communications",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Communications and Development of North Eastern Region as of 30 October 2026?",
+      "options": {
+        "A": "Ravi Shankar Prasad",
+        "B": "Jyotiraditya M. Scindia",
+        "C": "Ashwini Vaishnaw",
+        "D": "Kiren Rijiju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jyotiraditya M. Scindia holds the Communications and Development of North Eastern Region portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q047",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Environment",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Environment, Forest and Climate Change as of 30 October 2026?",
+      "options": {
+        "A": "Prakash Javadekar",
+        "B": "Bhupender Yadav",
+        "C": "Gajendra Singh Shekhawat",
+        "D": "Kiren Rijiju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bhupender Yadav is the Union Minister of Environment, Forest and Climate Change.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q048",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Culture and Tourism",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Culture and Tourism as of 30 October 2026?",
+      "options": {
+        "A": "Prahlad Singh Patel",
+        "B": "Gajendra Singh Shekhawat",
+        "C": "G. Kishan Reddy",
+        "D": "Arjun Ram Meghwal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gajendra Singh Shekhawat holds the Culture and Tourism portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q049",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Women and Child Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Women and Child Development as of 30 October 2026?",
+      "options": {
+        "A": "Smriti Irani",
+        "B": "Annpurna Devi",
+        "C": "Maneka Gandhi",
+        "D": "Renuka Singh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Annpurna Devi is the Union Minister of Women and Child Development.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q050",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Parliamentary Affairs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Parliamentary Affairs and Minority Affairs as of 30 October 2026?",
+      "options": {
+        "A": "Pralhad Joshi",
+        "B": "Kiren Rijiju",
+        "C": "Mukhtar Abbas Naqvi",
+        "D": "Arjun Ram Meghwal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kiren Rijiju holds the Parliamentary Affairs and Minority Affairs portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q051",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Petroleum",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Petroleum and Natural Gas as of 30 October 2026?",
+      "options": {
+        "A": "Dharmendra Pradhan",
+        "B": "Hardeep Singh Puri",
+        "C": "Rameswar Teli",
+        "D": "Piyush Goyal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hardeep Singh Puri is the Union Minister of Petroleum and Natural Gas.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q052",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Labour and Employment",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Labour and Employment and Youth Affairs and Sports as of 30 October 2026?",
+      "options": {
+        "A": "Bhupender Yadav",
+        "B": "Mansukh Mandaviya",
+        "C": "Anurag Thakur",
+        "D": "Kiren Rijiju"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mansukh Mandaviya holds the Labour and Employment and Youth Affairs and Sports portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q053",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Coal and Mines",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Coal and Mines as of 30 October 2026?",
+      "options": {
+        "A": "Pralhad Joshi",
+        "B": "G. Kishan Reddy",
+        "C": "Danve Raosaheb Dadarao",
+        "D": "Nitin Gadkari"
+      },
+      "correctAnswer": "B",
+      "explanation": "G. Kishan Reddy holds the Coal and Mines portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q054",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Food Processing",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Food Processing Industries as of 30 October 2026?",
+      "options": {
+        "A": "Narendra Singh Tomar",
+        "B": "Chirag Paswan",
+        "C": "Pashupati Kumar Paras",
+        "D": "Harsimrat Kaur Badal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chirag Paswan is the Union Minister of Food Processing Industries.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q055",
+      "subject": "Current Affairs",
+      "topic": "Union Cabinet Ministers",
+      "chapter": "Jal Shakti",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Union Minister of Jal Shakti as of 30 October 2026?",
+      "options": {
+        "A": "Gajendra Singh Shekhawat",
+        "B": "C. R. Patil",
+        "C": "Nitin Gadkari",
+        "D": "Uma Bharti"
+      },
+      "correctAnswer": "B",
+      "explanation": "C. R. Patil is the Union Minister of Jal Shakti.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.1"
+    },
+    {
+      "id": "Q056",
+      "subject": "Current Affairs",
+      "topic": "Ministers of State (Independent Charge)",
+      "chapter": "Statistics and Planning",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Minister of State (Independent Charge) for Statistics and Programme Implementation and Planning as of 30 October 2026?",
+      "options": {
+        "A": "Rao Inderjit Singh",
+        "B": "Dr. Jitendra Singh",
+        "C": "Arjun Ram Meghwal",
+        "D": "Prataprao Jadhav"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rao Inderjit Singh is the MoS (Independent Charge) for Statistics and Programme Implementation and Planning.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.2"
+    },
+    {
+      "id": "Q057",
+      "subject": "Current Affairs",
+      "topic": "Ministers of State (Independent Charge)",
+      "chapter": "Science and Technology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Minister of State (Independent Charge) for Science and Technology and Earth Sciences as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Jitendra Singh",
+        "B": "Rao Inderjit Singh",
+        "C": "Jayant Chaudhary",
+        "D": "Arjun Ram Meghwal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Jitendra Singh holds Science and Technology and Earth Sciences as Independent Charge, plus MoS in PMO, Personnel, Atomic Energy and Space.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.2"
+    },
+    {
+      "id": "Q058",
+      "subject": "Current Affairs",
+      "topic": "Ministers of State (Independent Charge)",
+      "chapter": "Law and Justice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Minister of State (Independent Charge) for Law and Justice as of 30 October 2026?",
+      "options": {
+        "A": "Arjun Ram Meghwal",
+        "B": "Kiren Rijiju",
+        "C": "Ravi Shankar Prasad",
+        "D": "S. P. Singh Baghel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arjun Ram Meghwal is the MoS (Independent Charge) for Law and Justice and also MoS in Parliamentary Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.2"
+    },
+    {
+      "id": "Q059",
+      "subject": "Current Affairs",
+      "topic": "Ministers of State (Independent Charge)",
+      "chapter": "Ayush",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Minister of State (Independent Charge) for Ayush as of 30 October 2026?",
+      "options": {
+        "A": "Prataprao Jadhav",
+        "B": "Munja Patel",
+        "C": "Shripad Naik",
+        "D": "Mahendra Munjapara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prataprao Jadhav is the MoS (Independent Charge) for Ayush and also MoS in Health and Family Welfare.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.2"
+    },
+    {
+      "id": "Q060",
+      "subject": "Current Affairs",
+      "topic": "Ministers of State (Independent Charge)",
+      "chapter": "Skill Development",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Minister of State (Independent Charge) for Skill Development and Entrepreneurship as of 30 October 2026?",
+      "options": {
+        "A": "Jayant Chaudhary",
+        "B": "Rajeev Chandrasekhar",
+        "C": "Mahendra Nath Pandey",
+        "D": "Anantkumar Hegde"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jayant Chaudhary is the MoS (Independent Charge) for Skill Development and Entrepreneurship and also MoS in Education.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.2"
+    },
+    {
+      "id": "Q061",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which portfolios does Karnataka Chief Minister D. K. Shivakumar hold as of 30 October 2026?",
+      "options": {
+        "A": "Finance; Cabinet Affairs; DPAR; Intelligence; Information; Law, Justice and Human Rights",
+        "B": "Home; IT & BT; E-Governance",
+        "C": "Revenue; Sports",
+        "D": "Social Welfare"
+      },
+      "correctAnswer": "A",
+      "explanation": "D. K. Shivakumar retains Finance, Cabinet Affairs, DPAR, Intelligence, Information, and Law, Justice and Human Rights.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q062",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which portfolios does Karnataka Deputy Chief Minister Dr. G. Parameshwara hold as of 30 October 2026?",
+      "options": {
+        "A": "Home (excluding Intelligence); IT & BT; E-Governance",
+        "B": "Revenue; Sports",
+        "C": "Finance; Cabinet Affairs",
+        "D": "Social Welfare"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. G. Parameshwara holds Revenue and Sports portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 1.2 and 2.3"
+    },
+    {
+      "id": "Q063",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Home (excluding Intelligence), IT & BT, and E-Governance portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Priyank Kharge",
+        "B": "D. K. Shivakumar",
+        "C": "K. H. Muniyappa",
+        "D": "Ramalinga Reddy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Priyank Kharge holds Home (excluding Intelligence), IT & BT, and E-Governance.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q064",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Greater Bengaluru Development and Bengaluru civic bodies portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Krishna Byre Gowda",
+        "B": "D. K. Shivakumar",
+        "C": "Ramalinga Reddy",
+        "D": "Byrathi Suresh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Krishna Byre Gowda holds Greater Bengaluru Development, Bengaluru civic bodies, BWSSB and BMRCL.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q065",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Social Welfare portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "K. H. Muniyappa",
+        "B": "H. C. Mahadevappa",
+        "C": "Priyank Kharge",
+        "D": "Shivaraj Tangadagi"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. H. Muniyappa holds the Social Welfare portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q066",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Energy and Tourism portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "K. J. George",
+        "B": "M. B. Patil",
+        "C": "Ramalinga Reddy",
+        "D": "Satish Jarkiholi"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. J. George holds the Energy and Tourism portfolios.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q067",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Large and Medium Industries and Infrastructure Development portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "M. B. Patil",
+        "B": "K. J. George",
+        "C": "D. K. Shivakumar",
+        "D": "Vijayananda Kashappanavar"
+      },
+      "correctAnswer": "A",
+      "explanation": "M. B. Patil holds Large and Medium Industries and Infrastructure Development.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q068",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Forest, Ecology and Environment portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Ramalinga Reddy",
+        "B": "Eshwar Khandre",
+        "C": "Satish Jarkiholi",
+        "D": "K. J. George"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ramalinga Reddy holds the Forest, Ecology and Environment portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q069",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Public Works portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Satish Jarkiholi",
+        "B": "Ramalinga Reddy",
+        "C": "Eshwar Khandre",
+        "D": "Byrathi Suresh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Satish Jarkiholi holds the Public Works portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q070",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Rural Development and Panchayat Raj portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Eshwar Khandre",
+        "B": "Priyank Kharge",
+        "C": "K. H. Muniyappa",
+        "D": "H. C. Balakrishna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eshwar Khandre holds Rural Development and Panchayat Raj.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q071",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Urban Development portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Yathindra Siddaramaiah",
+        "B": "Byrathi Suresh",
+        "C": "Krishna Byre Gowda",
+        "D": "Ramalinga Reddy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yathindra Siddaramaiah holds the Urban Development portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q072",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Transport portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Byrathi Suresh",
+        "B": "Yathindra Siddaramaiah",
+        "C": "Ramalinga Reddy",
+        "D": "Satish Jarkiholi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Byrathi Suresh holds the Transport portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q073",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Medical Education and Skill Development portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Sharan Prakash Patil",
+        "B": "Dr. G. Parameshwara",
+        "C": "U. T. Khader",
+        "D": "K. Sudhakar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sharan Prakash Patil holds Medical Education and Skill Development.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q074",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Health and Family Welfare, Minority Welfare, Haj and Wakf portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "U. T. Khader",
+        "B": "Sharan Prakash Patil",
+        "C": "B. Z. Zameer Ahmed Khan",
+        "D": "Rizwan Arshad"
+      },
+      "correctAnswer": "A",
+      "explanation": "U. T. Khader holds Health and Family Welfare, Minority Welfare, Haj and Wakf.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q075",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Housing portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "B. Z. Zameer Ahmed Khan",
+        "B": "U. T. Khader",
+        "C": "Rizwan Arshad",
+        "D": "H. C. Balakrishna"
+      },
+      "correctAnswer": "A",
+      "explanation": "B. Z. Zameer Ahmed Khan holds the Housing portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q076",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Co-operation (excluding Agriculture Marketing) portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Lakshman Savadi",
+        "B": "Rudrappa Manappa Lamani",
+        "C": "K. N. Rajanna",
+        "D": "B. Z. Zameer Ahmed Khan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lakshman Savadi holds Co-operation, excluding Agriculture Marketing.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q077",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Sugar and Textiles portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Rudrappa Manappa Lamani",
+        "B": "Lakshman Savadi",
+        "C": "Shivaraj Tangadagi",
+        "D": "Santosh Lad"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rudrappa Manappa Lamani holds Sugar and Textiles.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q078",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Backward Classes Welfare and Kannada and Culture portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Shivaraj Tangadagi",
+        "B": "Rudrappa Manappa Lamani",
+        "C": "T. Raghumurthy",
+        "D": "Madhu Bangarappa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shivaraj Tangadagi holds Backward Classes Welfare and Kannada and Culture.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q079",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Scheduled Tribes Welfare portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "T. Raghumurthy",
+        "B": "Shivaraj Tangadagi",
+        "C": "Dr. Ajay Singh",
+        "D": "N. Chaluvarayaswamy"
+      },
+      "correctAnswer": "A",
+      "explanation": "T. Raghumurthy holds the Scheduled Tribes Welfare portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q080",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Minor Irrigation and Science and Technology portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Ajay Singh",
+        "B": "T. Raghumurthy",
+        "C": "N. Chaluvarayaswamy",
+        "D": "Puttaranga Shetty"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Ajay Singh holds Minor Irrigation and Science and Technology.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q081",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Major and Medium Irrigation portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "N. Chaluvarayaswamy",
+        "B": "Dr. Ajay Singh",
+        "C": "C. R. Patil",
+        "D": "Eshwar Khandre"
+      },
+      "correctAnswer": "A",
+      "explanation": "N. Chaluvarayaswamy holds Major and Medium Irrigation.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q082",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Primary and Secondary Education portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Madhu Bangarappa",
+        "B": "Basavaraj Raya Reddy",
+        "C": "Shivaraj Tangadagi",
+        "D": "Dr. Ajay Singh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madhu Bangarappa holds Primary and Secondary Education.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q083",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Higher Education portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Basavaraj Raya Reddy",
+        "B": "Madhu Bangarappa",
+        "C": "Dr. M. C. Sudhakar",
+        "D": "C. N. Ashwath Narayan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Basavaraj Raya Reddy holds the Higher Education portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q084",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Excise portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "K. M. Shivalinge Gowda",
+        "B": "R. B. Thimmapur",
+        "C": "Santosh Lad",
+        "D": "H. C. Balakrishna"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. M. Shivalinge Gowda holds the Excise portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q085",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Animal Husbandry and Sericulture portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Puttaranga Shetty",
+        "B": "K. Venkatesh",
+        "C": "R. Shankar",
+        "D": "Prabhu Chauhan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Puttaranga Shetty holds Animal Husbandry and Sericulture.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q086",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Small Scale Industries and Public Enterprises portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Vijayananda Kashappanavar",
+        "B": "Puttaranga Shetty",
+        "C": "M. B. Patil",
+        "D": "Priyank Kharge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayananda Kashappanavar holds Small Scale Industries and Public Enterprises.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+        {
+      "id": "Q087",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Labour and Employment portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Santosh Lad",
+        "B": "Vijayananda Kashappanavar",
+        "C": "K. M. Shivalinge Gowda",
+        "D": "Puttaranga Shetty"
+      },
+      "correctAnswer": "A",
+      "explanation": "Santosh Lad holds the Labour and Employment portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q088",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Muzrai, Fisheries, Ports and Inland Water portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "K. S. Basavanthappa",
+        "B": "Santosh Lad",
+        "C": "Puttaranga Shetty",
+        "D": "Rizwan Arshad"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. S. Basavanthappa holds Muzrai, Fisheries, Ports and Inland Water.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q089",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Mines and Geology and Horticulture portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "S. S. Mallikarjun",
+        "B": "K. S. Basavanthappa",
+        "C": "N. Chaluvarayaswamy",
+        "D": "P. M. Narendraswamy"
+      },
+      "correctAnswer": "A",
+      "explanation": "S. S. Mallikarjun holds Mines and Geology and Horticulture.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q090",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Food and Civil Supplies and Consumer Affairs portfolios in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "Rizwan Arshad",
+        "B": "S. S. Mallikarjun",
+        "C": "H. C. Balakrishna",
+        "D": "P. M. Narendraswamy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rizwan Arshad holds Food and Civil Supplies and Consumer Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q091",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Agriculture portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "P. M. Narendraswamy",
+        "B": "Rizwan Arshad",
+        "C": "N. Chaluvarayaswamy",
+        "D": "Madhu Bangarappa"
+      },
+      "correctAnswer": "A",
+      "explanation": "P. M. Narendraswamy holds the Agriculture portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q092",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Portfolios",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the Municipal Administration portfolio in the Karnataka Cabinet as of 30 October 2026?",
+      "options": {
+        "A": "H. C. Balakrishna",
+        "B": "Rizwan Arshad",
+        "C": "Yathindra Siddaramaiah",
+        "D": "Byrathi Suresh"
+      },
+      "correctAnswer": "A",
+      "explanation": "H. C. Balakrishna holds Municipal Administration.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3"
+    },
+    {
+      "id": "Q093",
+      "subject": "Current Affairs",
+      "topic": "Karnataka Council of Ministers",
+      "chapter": "Karnataka Resignations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Karnataka minister resigned on 28 August 2026, during the ministry expansion period?",
+      "options": {
+        "A": "B. Nagendra",
+        "B": "Priyank Kharge",
+        "C": "D. K. Shivakumar",
+        "D": "K. H. Muniyappa"
+      },
+      "correctAnswer": "A",
+      "explanation": "B. Nagendra resigned on 28 August 2026 and his resignation was accepted. He is not a serving minister as of the 30 October cutoff.",
+      "source": "Important_Persons_Appointments.pdf - Section 2.3 and 8"
+    },
+    {
+      "id": "Q094",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "RBI",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Governor of the Reserve Bank of India (RBI) as of 30 October 2026?",
+      "options": {
+        "A": "Shaktikanta Das",
+        "B": "Sanjay Malhotra",
+        "C": "Urjit Patel",
+        "D": "Raghuram Rajan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sanjay Malhotra is the 26th RBI Governor, having assumed office on 11 December 2024 for a three-year term.",
+      "source": "Important_Persons_Appointments.pdf - Section 3 and 9"
+    },
+    {
+      "id": "Q095",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "SEBI",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of the Securities and Exchange Board of India (SEBI) as of 30 October 2026?",
+      "options": {
+        "A": "Ajay Tyagi",
+        "B": "Tuhin Kanta Pandey",
+        "C": "Madhabi Puri Buch",
+        "D": "U. K. Sinha"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tuhin Kanta Pandey has been the SEBI Chairman since 1 March 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 3 and 9"
+    },
+    {
+      "id": "Q096",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "ISRO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chairman of ISRO and Secretary, Department of Space, as of 30 October 2026?",
+      "options": {
+        "A": "K. Sivan",
+        "B": "S. Somanath",
+        "C": "Dr. V. Narayanan",
+        "D": "A. S. Kiran Kumar"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dr. V. Narayanan assumed charge as Chairman ISRO, Chairman Space Commission, and Secretary, Department of Space.",
+      "source": "Important_Persons_Appointments.pdf - Section 3 and 9"
+    },
+    {
+      "id": "Q097",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "DRDO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who holds the additional charge as Chairman of DRDO as of 30 October 2026?",
+      "options": {
+        "A": "Dr. V. Narayanan",
+        "B": "Rajesh Kumar Singh",
+        "C": "G. Satheesh Reddy",
+        "D": "Samir V. Kamat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rajesh Kumar Singh, IAS, Secretary, Department of Defence, holds additional charge as Secretary, Department of Defence R&D and Chairman DRDO.",
+      "source": "Important_Persons_Appointments.pdf - Section 3 and 9"
+    },
+    {
+      "id": "Q098",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "NITI Aayog",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Vice Chairperson of NITI Aayog as of 30 October 2026?",
+      "options": {
+        "A": "Rajiv Kumar",
+        "B": "Arvind Panagariya",
+        "C": "Ashok Kumar Lahiri",
+        "D": "Suman Bery"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ashok Kumar Lahiri is the NITI Aayog Vice Chairperson.",
+      "source": "Important_Persons_Appointments.pdf - Section 9"
+    },
+    {
+      "id": "Q099",
+      "subject": "Current Affairs",
+      "topic": "Institutional Heads",
+      "chapter": "NITI Aayog",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the CEO of NITI Aayog as of 30 October 2026?",
+      "options": {
+        "A": "Amitabh Kant",
+        "B": "B. V. R. Subrahmanyam",
+        "C": "Anurag Jain",
+        "D": "Parameswaran Iyer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anurag Jain assumed charge as NITI Aayog CEO on 17 August 2026, replacing the earlier leadership.",
+      "source": "Important_Persons_Appointments.pdf - Section 7 and 9"
+    },
+    {
+      "id": "Q100",
+      "subject": "Current Affairs",
+      "topic": "Other Institutional Leadership",
+      "chapter": "NHRC",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chairperson of the National Human Rights Commission (NHRC) as of 30 October 2026?",
+      "options": {
+        "A": "Justice V. Ramasubramanian",
+        "B": "Justice Arun Mishra",
+        "C": "Justice H. L. Dattu",
+        "D": "Justice K. G. Balakrishnan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Justice V. Ramasubramanian was appointed NHRC Chairperson in December 2024.",
+      "source": "Important_Persons_Appointments.pdf - Section 3.1"
+    },
+    {
+      "id": "Q101",
+      "subject": "Current Affairs",
+      "topic": "Other Institutional Leadership",
+      "chapter": "NCW",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chairperson of the National Commission for Women (NCW) as of 30 October 2026?",
+      "options": {
+        "A": "Rekha Sharma",
+        "B": "Vijaya Kishore Rahatkar",
+        "C": "Lalitha Kumaramangalam",
+        "D": "Mamta Sharma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vijaya Kishore Rahatkar was appointed NCW Chairperson in October 2024.",
+      "source": "Important_Persons_Appointments.pdf - Section 3.1"
+    },
+    {
+      "id": "Q102",
+      "subject": "Current Affairs",
+      "topic": "Other Institutional Leadership",
+      "chapter": "NGT",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chairperson of the National Green Tribunal (NGT) as of 30 October 2026?",
+      "options": {
+        "A": "Justice Adarsh Kumar Goel",
+        "B": "Justice Prakash Shrivastava",
+        "C": "Justice Swatanter Kumar",
+        "D": "Justice U. D. Salvi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Justice Prakash Shrivastava was appointed NGT Chairperson in 2023.",
+      "source": "Important_Persons_Appointments.pdf - Section 3.1"
+    },
+    {
+      "id": "Q103",
+      "subject": "Current Affairs",
+      "topic": "Other Institutional Leadership",
+      "chapter": "UIDAI",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Chief Executive Officer (CEO) of UIDAI as of 30 October 2026?",
+      "options": {
+        "A": "Ajay Bhushan Pandey",
+        "B": "Bhuvnesh Kumar",
+        "C": "Saurabh Garg",
+        "D": "Amit Agrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bhuvnesh Kumar was appointed UIDAI CEO in 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 3.1"
+    },
+    {
+      "id": "Q104",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Chief Justice of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief Justice of India (CJI) as of 30 October 2026?",
+      "options": {
+        "A": "Justice B. R. Gavai",
+        "B": "Justice Surya Kant",
+        "C": "Justice D. Y. Chandrachud",
+        "D": "Justice Sanjiv Khanna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Justice Surya Kant became the 53rd Chief Justice of India on 24 November 2025. He succeeded Justice B. R. Gavai.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.1 and 9"
+    },
+    {
+      "id": "Q105",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Chief Justice of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When is the scheduled retirement of the current Chief Justice of India, Justice Surya Kant?",
+      "options": {
+        "A": "24 November 2026",
+        "B": "9 February 2027",
+        "C": "31 December 2026",
+        "D": "15 August 2027"
+      },
+      "correctAnswer": "B",
+      "explanation": "Justice Surya Kant's tenure is scheduled to end on 9 February 2027.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.1"
+    },
+    {
+      "id": "Q106",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Supreme Court Judges 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which three High Court Chief Justices were appointed as Supreme Court judges in October 2026, as confirmed by the 5 October 2026 PIB announcement?",
+      "options": {
+        "A": "Justice Sunita Agarwal, Justice Devendra Kumar Upadhyaya, and Justice Aparesh Kumar Singh",
+        "B": "Justice Vipul Manubhai Panchal, Justice Sheel Nagu, and Justice Shree Chandrashekhar",
+        "C": "Justice Sanjeev Sachdeva, Justice Arun Palli, and Justice V. Mohana",
+        "D": "Justice V. Ramasubramanian, Justice Sanjiv Khanna, and Justice B. R. Gavai"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PIB announcement confirmed the appointment of Justice Sunita Agarwal, Justice Devendra Kumar Upadhyaya, and Justice Aparesh Kumar Singh as Supreme Court judges. Their assumption dates are recorded as 6 October 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.2"
+    },
+    {
+      "id": "Q107",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Supreme Court Judges 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which former position did Justice Sunita Agarwal hold before being elevated to the Supreme Court in October 2026?",
+      "options": {
+        "A": "Chief Justice, Gujarat High Court",
+        "B": "Chief Justice, Delhi High Court",
+        "C": "Chief Justice, Telangana High Court",
+        "D": "High Court judge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Justice Sunita Agarwal was the Chief Justice of the Gujarat High Court before her elevation.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.2"
+    },
+    {
+      "id": "Q108",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Supreme Court Judges 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which former position did Justice Devendra Kumar Upadhyay hold before being elevated to the Supreme Court?",
+      "options": {
+        "A": "Chief Justice, Gujarat High Court",
+        "B": "Chief Justice, Delhi High Court",
+        "C": "Chief Justice, Telangana High Court",
+        "D": "High Court judge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Justice Devendra Kumar Upadhyay was the Chief Justice of the Delhi High Court before his elevation.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.2"
+    },
+    {
+      "id": "Q109",
+      "subject": "Current Affairs",
+      "topic": "Judiciary",
+      "chapter": "Supreme Court Judges 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which former position did Justice Aparesh Kumar Singh hold before being elevated to the Supreme Court?",
+      "options": {
+        "A": "Chief Justice, Gujarat High Court",
+        "B": "Chief Justice, Delhi High Court",
+        "C": "Chief Justice, Telangana High Court",
+        "D": "High Court judge"
+      },
+      "correctAnswer": "C",
+      "explanation": "Justice Aparesh Kumar Singh was the Chief Justice of the Telangana High Court before his elevation.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.2"
+    },
+    {
+      "id": "Q110",
+      "subject": "Indian Constitution",
+      "topic": "Judiciary",
+      "chapter": "Judicial Appointments Process",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For judicial appointment questions, which three distinct stages must be distinguished according to the PDF?",
+      "options": {
+        "A": "Recommendation by the Supreme Court Collegium, government notification/Presidential warrant, and actual assumption of office",
+        "B": "Presidential nomination, Parliament approval, and oath-taking",
+        "C": "UPSC recommendation, Cabinet approval, and President's signature",
+        "D": "Chief Justice's nomination, Governor's approval, and Prime Minister's consent"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PDF explicitly notes that these three stages may have different dates and should be distinguished.",
+      "source": "Important_Persons_Appointments.pdf - Section 4.3"
+    },
+    {
+      "id": "Q111",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "CDS",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief of Defence Staff (CDS) of India as of 30 October 2026?",
+      "options": {
+        "A": "General Bipin Rawat",
+        "B": "General Anil Chauhan",
+        "C": "General N. S. Raja Subramani",
+        "D": "General Dhiraj Seth"
+      },
+      "correctAnswer": "C",
+      "explanation": "General N. S. Raja Subramani assumed charge as the third CDS on 31 May 2026. He also serves as Secretary, Department of Military Affairs.",
+      "source": "Important_Persons_Appointments.pdf - Section 5 and 9"
+    },
+    {
+      "id": "Q112",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "Army Chief",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief of the Army Staff (COAS) as of 30 October 2026?",
+      "options": {
+        "A": "General Manoj Pande",
+        "B": "General Upendra Dwivedi",
+        "C": "General Dhiraj Seth",
+        "D": "General N. S. Raja Subramani"
+      },
+      "correctAnswer": "C",
+      "explanation": "General Dhiraj Seth took over as the 31st COAS on 30 June 2026, succeeding General Upendra Dwivedi.",
+      "source": "Important_Persons_Appointments.pdf - Section 5 and 9"
+    },
+    {
+      "id": "Q113",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "Navy Chief",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Chief of the Naval Staff (CNS) as of 30 October 2026?",
+      "options": {
+        "A": "Admiral R. Hari Kumar",
+        "B": "Admiral Dinesh K. Tripathi",
+        "C": "Admiral Krishna Swaminathan",
+        "D": "Admiral Karambir Singh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Admiral Krishna Swaminathan assumed charge as the 27th CNS on 31 May 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 5 and 9"
+    },
+    {
+      "id": "Q114",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "Air Force Chief",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the serving Chief of the Air Staff (CAS) on 30 October 2026?",
+      "options": {
+        "A": "Air Chief Marshal V. R. Chaudhari",
+        "B": "Air Chief Marshal Amar Preet Singh",
+        "C": "Air Chief Marshal Ashutosh Dixit",
+        "D": "Air Chief Marshal R. K. S. Bhadauria"
+      },
+      "correctAnswer": "B",
+      "explanation": "Air Chief Marshal Amar Preet Singh is serving as the CAS on 30 October 2026. Ashutosh Dixit's appointment takes effect on 31 October 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 5, 6, and 9"
+    },
+    {
+      "id": "Q115",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "Air Force Chief Transition",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "From which date does Ashutosh Dixit's appointment as the next Chief of the Air Staff take effect?",
+      "options": {
+        "A": "Afternoon of 30 October 2026",
+        "B": "Afternoon of 31 October 2026",
+        "C": "Morning of 1 November 2026",
+        "D": "6 October 2026"
+      },
+      "correctAnswer": "B",
+      "explanation": "Air Marshal Ashutosh Dixit's appointment as the 29th CAS takes effect from the afternoon of 31 October 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 5, 6, and 9"
+    },
+    {
+      "id": "Q116",
+      "subject": "Current Affairs",
+      "topic": "Defence Leadership",
+      "chapter": "Air Force Chief Transition",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the 'Important date trap' in the PDF, if a question asks 'Who is the next CAS?' on 30 October 2026, what should the answer be?",
+      "options": {
+        "A": "Amar Preet Singh",
+        "B": "Ashutosh Dixit",
+        "C": "V. R. Chaudhari",
+        "D": "R. K. S. Bhadauria"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a question asking who is the *next* CAS as of 30 October, the answer is Ashutosh Dixit. For a question asking who *is serving* on 30 October, the answer is Amar Preet Singh.",
+      "source": "Important_Persons_Appointments.pdf - Section 6"
+    },
+    {
+      "id": "Q117",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Secretary-General of the United Nations as of 30 October 2026?",
+      "options": {
+        "A": "Ban Ki-moon",
+        "B": "Kofi Annan",
+        "C": "António Guterres",
+        "D": "Boutros Boutros-Ghali"
+      },
+      "correctAnswer": "C",
+      "explanation": "António Guterres is the ninth UN Secretary-General. His second term ends on 31 December 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q118",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When does the current UN Secretary-General António Guterres' term end?",
+      "options": {
+        "A": "31 December 2026",
+        "B": "1 January 2027",
+        "C": "15 August 2027",
+        "D": "31 October 2026"
+      },
+      "correctAnswer": "A",
+      "explanation": "António Guterres' second term ends on 31 December 2026. The next term starts on 1 January 2027.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 6.1"
+    },
+    {
+      "id": "Q119",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the PDF, as of 30 October 2026, which body must first recommend a candidate for the next UN Secretary-General before the General Assembly appoints them?",
+      "options": {
+        "A": "Security Council",
+        "B": "Economic and Social Council",
+        "C": "International Court of Justice",
+        "D": "Trusteeship Council"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 97 of the UN Charter, the Security Council recommends a candidate and the General Assembly appoints the Secretary-General.",
+      "source": "Important_Persons_Appointments.pdf - Section 6.1"
+    },
+    {
+      "id": "Q120",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WHO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Director-General of the World Health Organization (WHO) as of 30 October 2026?",
+      "options": {
+        "A": "Margaret Chan",
+        "B": "Tedros Adhanom Ghebreyesus",
+        "C": "Soumya Swaminathan",
+        "D": "Jane Ellison"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tedros Adhanom Ghebreyesus is the WHO Director-General. His second term runs from 16 August 2022 to 15 August 2027.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q121",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IMF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Managing Director of the International Monetary Fund (IMF) as of 30 October 2026?",
+      "options": {
+        "A": "Christine Lagarde",
+        "B": "Kristalina Georgieva",
+        "C": "Gita Gopinath",
+        "D": "David Lipton"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kristalina Georgieva is the IMF Managing Director.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q122",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "World Bank",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the President of the World Bank Group as of 30 October 2026?",
+      "options": {
+        "A": "David Malpass",
+        "B": "Ajay Banga",
+        "C": "Jim Yong Kim",
+        "D": "Kristalina Georgieva"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ajay Banga is the World Bank President; his five-year term began on 2 June 2023.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q123",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WTO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Director-General of the World Trade Organization (WTO) as of 30 October 2026?",
+      "options": {
+        "A": "Roberto Azevêdo",
+        "B": "Ngozi Okonjo-Iweala",
+        "C": "Pascal Lamy",
+        "D": "Mike Moore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ngozi Okonjo-Iweala is the WTO Director-General. Her second term began on 1 September 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q124",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNESCO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the Director-General of UNESCO as of 30 October 2026?",
+      "options": {
+        "A": "Audrey Azoulay",
+        "B": "Khaled El-Enany",
+        "C": "Irina Bokova",
+        "D": "Koichiro Matsuura"
+      },
+      "correctAnswer": "B",
+      "explanation": "Khaled El-Enany assumed office as the 12th UNESCO Director-General on 15 November 2025.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q125",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ADB",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the President of the Asian Development Bank (ADB) as of 30 October 2026?",
+      "options": {
+        "A": "Takehiko Nakao",
+        "B": "Masato Kanda",
+        "C": "Haruhiko Kuroda",
+        "D": "Asakawa Masatsugu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Masato Kanda is the ADB President, re-elected in September 2026 for a second five-year term beginning 24 November 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q126",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "NATO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Secretary-General of NATO as of 30 October 2026?",
+      "options": {
+        "A": "Jens Stoltenberg",
+        "B": "Mark Rutte",
+        "C": "Anders Fogh Rasmussen",
+        "D": "George Robertson"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mark Rutte took office as NATO Secretary-General on 1 October 2024.",
+      "source": "Important_Persons_Appointments.pdf - Section 6 and 9"
+    },
+    {
+      "id": "Q127",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IOC",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is the President of the International Olympic Committee (IOC) as of 30 October 2026?",
+      "options": {
+        "A": "Thomas Bach",
+        "B": "Kirsty Coventry",
+        "C": "Jacques Rogge",
+        "D": "Juan Antonio Samaranch"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kirsty Coventry is the first woman and first African elected IOC President.",
+      "source": "Important_Persons_Appointments.pdf - Section 6"
+    },
+        {
+      "id": "Q128",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was awarded the 2026 Nobel Peace Prize?",
+      "options": {
+        "A": "Narges Mohammadi",
+        "B": "Navanethem 'Navi' Pillay",
+        "C": "Maria Ressa",
+        "D": "Malala Yousafzai"
+      },
+      "correctAnswer": "B",
+      "explanation": "Navanethem 'Navi' Pillay was awarded the 2026 Nobel Peace Prize for efforts to promote peace, international law and human rights.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1 and 10"
+    },
+    {
+      "id": "Q129",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Who were the 2026 Nobel Prize laureates in Physiology or Medicine?",
+      "options": {
+        "A": "Karl Deisseroth, Peter Hegemann, and Dieter Oesterhelt",
+        "B": "Francis Halzen",
+        "C": "Henri B. Kagan and Kenso Soai",
+        "D": "Anne Carson"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karl Deisseroth, Peter Hegemann, and Dieter Oesterhelt won for discovering optogenetics and using light-sensitive proteins.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1"
+    },
+    {
+      "id": "Q130",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which physicist was awarded the 2026 Nobel Prize in Physics for contributions to the IceCube Neutrino Observatory?",
+      "options": {
+        "A": "Karl Deisseroth",
+        "B": "Francis Halzen",
+        "C": "Henri B. Kagan",
+        "D": "Robert E. Hall"
+      },
+      "correctAnswer": "B",
+      "explanation": "Francis Halzen received the 2026 Nobel Prize in Physics for contributions to the IceCube Neutrino Observatory and the discovery of astrophysical neutrinos.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1"
+    },
+    {
+      "id": "Q131",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Who won the 2026 Nobel Prize in Chemistry for methods of controlling reactions that produce molecular mirror-images?",
+      "options": {
+        "A": "Francis Halzen",
+        "B": "Henri B. Kagan and Kenso Soai",
+        "C": "Karl Deisseroth",
+        "D": "Michael Woodford"
+      },
+      "correctAnswer": "B",
+      "explanation": "Henri B. Kagan and Kenso Soai won the 2026 Nobel Prize in Chemistry for methods of controlling reactions that produce molecular mirror-images.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1"
+    },
+    {
+      "id": "Q132",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Who won the 2026 Nobel Prize in Literature?",
+      "options": {
+        "A": "Annie Ernaux",
+        "B": "Anne Carson",
+        "C": "Jon Fosse",
+        "D": "Abdulrazak Gurnah"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anne Carson won the 2026 Nobel Prize in Literature for literary work combining classical and contemporary forms, poetry, and prose.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1"
+    },
+    {
+      "id": "Q133",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Nobel Prize 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Who won the 2026 Nobel Prize in Economic Sciences for their work on models of economic fluctuations and monetary policy?",
+      "options": {
+        "A": "Abhijit Banerjee, Esther Duflo, and Michael Kremer",
+        "B": "Robert E. Hall and Michael Woodford",
+        "C": "Ben Bernanke, Douglas Diamond, and Philip Dybvig",
+        "D": "Paul Krugman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Robert E. Hall and Michael Woodford won the 2026 Nobel Prize in Economic Sciences for their work on models of economic fluctuations and monetary policy.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.1"
+    },
+    {
+      "id": "Q134",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Padma Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many total Padma Awards were approved by the President for 2026?",
+      "options": {
+        "A": "119",
+        "B": "131",
+        "C": "141",
+        "D": "151"
+      },
+      "correctAnswer": "B",
+      "explanation": "The President approved 131 Padma Awards for 2026: 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.2"
+    },
+    {
+      "id": "Q135",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Padma Awards 2026",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which notable recipients received the Padma Vibhushan in 2026?",
+      "options": {
+        "A": "Dharmendra Singh Deol (posthumous); K. T. Thomas; N. Rajam; P. Narayanan; V. S. Achuthanandan",
+        "B": "Alka Yagnik; Mammootty; Uday Kotak; Vijay Amritraj",
+        "C": "Amaresh Nugadoni; M. S. G. Susheelamma; Prabhakar Basavaprabhu Kore",
+        "D": "N. S. Raja Subramani; Dhiraj Seth; Krishna Swaminathan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 2026 Padma Vibhushan recipients included Dharmendra Singh Deol (posthumous), K. T. Thomas, N. Rajam, P. Narayanan, and V. S. Achuthanandan.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.2"
+    },
+    {
+      "id": "Q136",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "National Film Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which film won the Best Feature Film award at the 72nd National Film Awards?",
+      "options": {
+        "A": "Bramayugam",
+        "B": "Article 370",
+        "C": "Chandu Champion",
+        "D": "Amaran"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 370 won the Best Feature Film award at the 72nd National Film Awards.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.3"
+    },
+    {
+      "id": "Q137",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "National Film Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who shared the Best Actor award at the 72nd National Film Awards?",
+      "options": {
+        "A": "Mammootty and Kartik Aaryan",
+        "B": "Shah Rukh Khan and Ranbir Kapoor",
+        "C": "Vicky Kaushal and Ayushmann Khurrana",
+        "D": "Dulquer Salmaan and Fahadh Faasil"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mammootty (for Bramayugam) and Kartik Aaryan (for Chandu Champion) shared the Best Actor award.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.3"
+    },
+    {
+      "id": "Q138",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "National Film Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who won the Best Actress award at the 72nd National Film Awards?",
+      "options": {
+        "A": "Alia Bhatt",
+        "B": "Yami Gautam",
+        "C": "Kangana Ranaut",
+        "D": "Deepika Padukone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yami Gautam won the Best Actress award for Article 370.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.3"
+    },
+    {
+      "id": "Q139",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "National Film Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who won the Best Director award at the 72nd National Film Awards?",
+      "options": {
+        "A": "Rajkumar Periasamy",
+        "B": "Vetrimaaran",
+        "C": "S. S. Rajamouli",
+        "D": "Anurag Kashyap"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rajkumar Periasamy won the Best Director award for Amaran.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.3"
+    },
+    {
+      "id": "Q140",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "National Film Awards 2026",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who received the Dadasaheb Phalke Award for 2024, announced at the 72nd National Film Awards?",
+      "options": {
+        "A": "Rajnikanth",
+        "B": "Anant Nag",
+        "C": "Mohanlal",
+        "D": "Chiranjeevi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Veteran Kannada actor Anant Nag received the Dadasaheb Phalke Award for 2024.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.3 and 10"
+    },
+    {
+      "id": "Q141",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Sahitya Akademi 2025",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who won the Sahitya Akademi Award 2025 in Kannada for the short-story collection 'Dada Seerisu Tande'?",
+      "options": {
+        "A": "Amaresh Nugadoni",
+        "B": "Chandrashekhara Kambara",
+        "C": "K. V. Tirumalesh",
+        "D": "Devanur Mahadeva"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amaresh Nugadoni won the Sahitya Akademi Award 2025 in Kannada for 'Dada Seerisu Tande'.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.4 and 10"
+    },
+    {
+      "id": "Q142",
+      "subject": "Current Affairs",
+      "topic": "Awards",
+      "chapter": "Karnataka Ratna",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who were announced as posthumous recipients of the Karnataka Ratna award as of 30 October 2026?",
+      "options": {
+        "A": "Dr. Vishnuvardhan and B. Saroja Devi",
+        "B": "Puneeth Rajkumar and Ambareesh",
+        "C": "Rajkumar and Gubbi Veeranna",
+        "D": "Siddaganga Swamiji and Dr. Devi Shetty"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Vishnuvardhan and B. Saroja Devi were announced as posthumous recipients; the ceremony was scheduled for 19 November 2026, so it had not yet been presented by the cutoff.",
+      "source": "Important_Persons_Appointments.pdf - Section 7.4"
+    },
+    {
+      "id": "Q143",
+      "subject": "Current Affairs",
+      "topic": "Resignations and Appointments",
+      "chapter": "Union Council Resignations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Union Minister resigned on 25 July 2026, leading to Pralhad Joshi receiving additional charge of the Education Ministry?",
+      "options": {
+        "A": "Dharmendra Pradhan",
+        "B": "George Kurian",
+        "C": "Ravneet Singh Bittu",
+        "D": "B. Nagendra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dharmendra Pradhan resigned from the Union Council of Ministers on 25 July 2026. Pralhad Joshi received additional charge of the Education portfolio.",
+      "source": "Important_Persons_Appointments.pdf - Section 8 and 11"
+    },
+    {
+      "id": "Q144",
+      "subject": "Current Affairs",
+      "topic": "Resignations and Appointments",
+      "chapter": "Union Council Resignations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which two other Union Ministers resigned in 2026 besides Dharmendra Pradhan, according to the PDF?",
+      "options": {
+        "A": "George Kurian (23 June) and Ravneet Singh Bittu (24 July)",
+        "B": "Nitin Gadkari and Amit Shah",
+        "C": "Nirmala Sitharaman and S. Jaishankar",
+        "D": "Rajnath Singh and Piyush Goyal"
+      },
+      "correctAnswer": "A",
+      "explanation": "George Kurian resigned on 23 June 2026 and Ravneet Singh Bittu resigned on 24 July 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 8"
+    },
+    {
+      "id": "Q145",
+      "subject": "Current Affairs",
+      "topic": "Resignations and Appointments",
+      "chapter": "Reappointments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For how long was Attorney General R. Venkataramani reappointed from 1 October 2025?",
+      "options": {
+        "A": "One year",
+        "B": "Two years",
+        "C": "Three years",
+        "D": "Five years"
+      },
+      "correctAnswer": "B",
+      "explanation": "R. Venkataramani was reappointed for a further two-year term through 30 September 2027.",
+      "source": "Important_Persons_Appointments.pdf - Section 8.1"
+    },
+    {
+      "id": "Q146",
+      "subject": "Current Affairs",
+      "topic": "Resignations and Appointments",
+      "chapter": "Reappointments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who received a one-year extension as CBI Director in May 2026?",
+      "options": {
+        "A": "Praveen Sood",
+        "B": "Subodh Kumar Jaiswal",
+        "C": "Rishi Kumar Shukla",
+        "D": "Alok Verma"
+      },
+      "correctAnswer": "A",
+      "explanation": "CBI Director Praveen Sood received a one-year extension in May 2026, extending his tenure beyond 24 May 2026 to May 2027.",
+      "source": "Important_Persons_Appointments.pdf - Section 8.1"
+    },
+    {
+      "id": "Q147",
+      "subject": "Current Affairs",
+      "topic": "Resignations and Appointments",
+      "chapter": "Reappointments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When does Masato Kanda's second five-year term as ADB President begin?",
+      "options": {
+        "A": "1 September 2026",
+        "B": "24 November 2026",
+        "C": "1 January 2027",
+        "D": "31 October 2026"
+      },
+      "correctAnswer": "B",
+      "explanation": "Masato Kanda was re-elected on 1 September 2026 for a second five-year term beginning 24 November 2026.",
+      "source": "Important_Persons_Appointments.pdf - Section 8.1 and 10"
+    },
+    {
+      "id": "Q148",
+      "subject": "Current Affairs",
+      "topic": "Exam Traps",
+      "chapter": "Common Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the 'Common exam traps' section, which of the following is NOT a constitutional body?",
+      "options": {
+        "A": "Comptroller and Auditor General (CAG)",
+        "B": "Union Public Service Commission (UPSC)",
+        "C": "Securities and Exchange Board of India (SEBI)",
+        "D": "Election Commission"
+      },
+      "correctAnswer": "C",
+      "explanation": "SEBI and CBI are not constitutional bodies. The CAG, UPSC and Election Commission are constitutional authorities.",
+      "source": "Important_Persons_Appointments.pdf - Section 11"
+    },
+    {
+      "id": "Q149",
+      "subject": "Current Affairs",
+      "topic": "Exam Traps",
+      "chapter": "Common Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the Attorney General of India a member of the Union Cabinet?",
+      "options": {
+        "A": "Yes, he is a Cabinet Minister",
+        "B": "No, he is a constitutional law officer, not a minister",
+        "C": "Yes, but only during Parliamentary sessions",
+        "D": "No, he is a civil servant"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Attorney General is a constitutional law officer, not a minister or member of the Union Cabinet.",
+      "source": "Important_Persons_Appointments.pdf - Section 11"
+    },
+    {
+      "id": "Q150",
+      "subject": "Current Affairs",
+      "topic": "Exam Traps",
+      "chapter": "Common Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key distinction between the CDS and the Chief of the Army Staff?",
+      "options": {
+        "A": "They are the same office",
+        "B": "The CDS promotes jointness across the three services, while the COAS heads the Army",
+        "C": "The CDS is senior only during wartime",
+        "D": "The CDS reports to the COAS"
+      },
+      "correctAnswer": "B",
+      "explanation": "The CDS is not the same office as the Chief of the Army Staff. The CDS promotes jointness across the three services.",
+      "source": "Important_Persons_Appointments.pdf - Section 11"
+    }
+  ]
+}

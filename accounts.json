@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "135707d2-90de-4bf5-aa55-85cacdba0c00",
+      "name": "Bharat",
+      "email": "bharatp0316@gmail.com",
+      "passwordSalt": "e6MxQwsfT3E/bCLJH6COxA==",
+      "passwordHash": "dW8IzUT3X8Vsez/nhwp2OBxhHCCeflwZQOBb9wjSAKVx4PV4f4nYHvfHJjS2jxLKsevqM5+qEXAAT91t+2Risg==",
+      "createdAt": "2026-11-01T11:47:42.448Z",
+      "history": []
+    }
+  ],
+  "scores": []
+}

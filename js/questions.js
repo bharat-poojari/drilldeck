@@ -195,11 +195,12 @@ export async function loadQuestionBank() {
 export function filterQuestions(questions, filters) {
   const selectedCategories = new Set(filters.categories);
   const selectedDatasets = new Set(filters.datasets);
+  const selectedTopics = new Set(Array.isArray(filters.topics) ? filters.topics : [filters.topic ?? "all"]);
   return questions.filter(question =>
     question.paper === filters.paper &&
     selectedCategories.has(question.subject) &&
     selectedDatasets.has(question.datasetId) &&
-    (filters.topic === "all" || question.topic === filters.topic) &&
+    (selectedTopics.has("all") || selectedTopics.has(question.topic)) &&
     (filters.difficulty === "Mixed" || question.difficulty === filters.difficulty)
   );
 }

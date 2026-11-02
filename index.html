@@ -130,15 +130,11 @@
         <div class="setup-grid">
           <section class="panel setup-panel">
             <div class="panel-heading">
-              <div><span class="step-label">STEP 01</span><h2>Configure your test</h2></div>
+              <div><span class="step-label" id="setup-step-label">STEP 01 OF 04</span><h2 id="setup-step-title">Choose your paper</h2></div>
               <span class="panel-icon">⚙</span>
             </div>
             <form id="setup-form">
-              <div class="field-grid">
-                <div class="field">
-                  <label>Exam focus</label>
-                  <div class="fixed-value">Karnataka state-level exams</div>
-                </div>
+              <div class="setup-step" data-setup-step="1">
                 <div class="field">
                   <label for="paper-select">Paper</label>
                   <select id="paper-select">
@@ -146,32 +142,31 @@
                     <option value="combined">General Kannada, English &amp; Computer Knowledge</option>
                   </select>
                 </div>
+                <fieldset class="field selection-field" id="category-field">
+                  <legend id="category-label">General Knowledge category</legend>
+                  <div class="selection-options" id="category-options"></div>
+                </fieldset>
+                <div class="step-actions"><span></span><button class="button button-primary" type="button" data-next-step="2">Next <span>→</span></button></div>
               </div>
-              <div class="field" id="general-category-field">
-                <label for="general-category-select">General Knowledge category</label>
-                <select id="general-category-select"><option value="all">All General Knowledge</option></select>
-              </div>
-              <fieldset class="field subject-field hidden" id="combined-subject-field">
-                <legend>Choose subjects <span class="label-hint">All three are included by default</span></legend>
-                <div class="subject-options" id="combined-subject-options"></div>
-              </fieldset>
-              <div class="field">
-                <label>Question datasets <span class="label-hint">Choose one or more files</span></label>
-                <div class="dataset-options" id="dataset-options"><p class="empty-datasets">Loading datasets…</p></div>
-              </div>
-              <div class="field-grid">
-                <div class="field">
-                  <label for="topic-select">Subcategory</label>
-                  <select id="topic-select"><option value="all">All subcategories</option></select>
+              <div class="setup-step hidden" data-setup-step="2">
+                <div class="field dataset-field">
+                  <label>Question datasets <span class="label-hint">Choose one or more files</span></label>
+                  <div class="dataset-options" id="dataset-options"><p class="empty-datasets">Loading datasets…</p></div>
                 </div>
+                <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="1">← Back</button><button class="button button-primary" type="button" data-next-step="3">Next <span>→</span></button></div>
+              </div>
+              <div class="setup-step hidden" data-setup-step="3">
+                <fieldset class="field selection-field">
+                  <legend>Subcategory</legend>
+                  <div class="selection-options topic-options" id="topic-options"><p class="empty-datasets">Choose datasets first.</p></div>
+                </fieldset>
                 <div class="field">
                   <label for="difficulty-select">Difficulty</label>
                   <select id="difficulty-select">
                     <option value="Mixed">Mixed difficulty</option><option>Easy</option><option>Medium</option><option>Hard</option>
                   </select>
                 </div>
-              </div>
-              <div class="field-grid">
+                <div class="field-grid">
                 <div class="field">
                   <label for="count-input">Questions</label>
                   <input id="count-input" type="number" min="1" max="1000" value="25" required>
@@ -180,46 +175,34 @@
                   <label for="duration-input">Duration <span class="label-hint">minutes</span></label>
                   <div class="duration-wrap"><input id="duration-input" type="number" min="1" max="600" value="30"><span>minutes</span></div>
                 </div>
+                </div>
+                <div class="availability" id="availability-note">Loading question bank…</div>
+                <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="2">← Back</button><button class="button button-primary" type="button" data-next-step="4">Next <span>→</span></button></div>
               </div>
-              <div class="availability" id="availability-note">Loading question bank…</div>
-              <div class="field">
-                <label id="leaderboard-name-label" for="leaderboard-name">Name on public scores <span class="label-hint">optional for guests</span></label>
-                <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">
-                <small class="field-help" id="leaderboard-name-help">Your name, score, paper and subjects are public. Your email is never shown.</small>
-              </div>
-              <div class="marking-note">
-                <div class="marking-title">MARKING SCHEME</div>
-                <div class="marking-items"><span><b class="positive">+1</b> Correct</span><span><b class="negative">−0.25</b> Incorrect</span><span><b>0</b> Unanswered</span></div>
+              <div class="setup-step hidden" data-setup-step="4">
+                <div class="field">
+                  <label id="leaderboard-name-label" for="leaderboard-name">Name on public scores <span class="label-hint">optional for guests</span></label>
+                  <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">
+                  <small class="field-help" id="leaderboard-name-help">Your name, score, paper and subjects are public. Your email is never shown.</small>
+                </div>
+                <div class="marking-note">
+                  <div class="marking-title">MARKING SCHEME</div>
+                  <div class="marking-items"><span><b class="positive">+1</b> Correct</span><span><b class="negative">−0.25</b> Incorrect</span><span><b>0</b> Unanswered</span></div>
+                </div>
+                <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="3">← Back</button><button class="button button-primary" id="start-button" type="submit">Start mock test <span>→</span></button></div>
               </div>
               <p class="form-error" id="setup-error" role="alert"></p>
-              <button class="button button-primary button-wide" id="start-button" type="submit">Start mock test <span>→</span></button>
             </form>
           </section>
           <aside class="setup-aside">
             <div class="panel bank-panel">
-              <div class="bank-top"><span class="bank-icon">▤</span><span class="bank-tag">QUESTION BANK</span></div>
+              <div class="bank-top"><span class="bank-tag">TOTAL QUESTIONS</span><span class="bank-icon">▤</span></div>
               <div class="bank-count" id="bank-count">—</div>
-              <div class="bank-caption">questions available</div>
-              <div class="bank-divider"></div>
-              <div class="bank-meta"><span>Source</span><strong>Question datasets</strong></div>
-              <div class="bank-meta"><span>Selection</span><strong>Balanced random · No repeats</strong></div>
-              <div class="bank-meta"><span>Active test</span><strong>Session memory only</strong></div>
-            </div>
-            <div class="info-card">
-              <div class="info-icon">✦</div>
-              <h3>Designed for focused practice</h3>
-              <p>Move freely between questions, flag items for review and submit when you are ready. Your answers stay in memory only.</p>
             </div>
             <section class="creator-card" aria-labelledby="creator-name">
-              <div class="creator-card-top">
-                <img class="creator-monogram" src="/assets/perfect.png" alt="Bharat Poojari logo" width="48" height="48">
-                <span class="creator-badge"><span></span> INDEPENDENT CREATOR</span>
-              </div>
-              <p class="creator-eyebrow">MADE WITH PURPOSE</p>
-              <h2 id="creator-name">Hi, I’m Bharat Poojari.</h2>
-              <p class="creator-description">I built DrillDeck to make focused Karnataka state-level exam practice easier to access. Explore my work or share your ideas.</p>
+              <div class="creator-card-top"><img class="creator-monogram" src="/assets/perfect.png" alt="" width="36" height="36"><div><p class="creator-eyebrow">CREATED BY</p><h2 id="creator-name">Bharat Poojari</h2></div></div>
               <a class="creator-portfolio" href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer">
-                <span>Explore my portfolio</span><span aria-hidden="true">↗</span>
+                <span>Portfolio</span><span aria-hidden="true">↗</span>
               </a>
               <nav class="creator-social-links" aria-label="Bharat Poojari social profiles">
                 <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on GitHub">GitHub</a>
@@ -228,18 +211,24 @@
                 <a href="mailto:bharatp0316@gmail.com" aria-label="Email Bharat Poojari">Email</a>
               </nav>
             </section>
+            <section class="panel community-panel" aria-labelledby="community-title">
+              <div class="section-heading"><div><span class="step-label">COMMUNITY</span><h2 id="community-title">Chat</h2></div></div>
+              <p class="community-note">A shared space for everyone. Keep messages kind and relevant.</p>
+              <div class="community-messages" id="community-messages" aria-live="polite"><p class="empty-datasets">Loading messages…</p></div>
+              <form class="community-form" id="community-form">
+                <label class="sr-only" for="community-name">Name (optional)</label>
+                <input id="community-name" type="text" maxlength="40" placeholder="Your name (optional)">
+                <label class="sr-only" for="community-message">Message</label>
+                <textarea id="community-message" maxlength="500" rows="3" placeholder="Write a message…" required></textarea>
+                <button class="button button-primary button-wide" type="submit">Send message</button>
+                <p class="community-status" id="community-status" role="status"></p>
+              </form>
+            </section>
             <section class="panel leaderboard-panel">
               <div class="section-heading"><div><span class="step-label">GLOBAL SCORES</span><h2>Top scores</h2></div></div>
               <p class="leaderboard-note">Published scores are visible to everyone. Emails are kept private.</p>
               <div id="leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
             </section>
-            <div class="mini-legend">
-              <div class="mini-legend-title">HOW QUESTION STATUS WORKS</div>
-              <div><i class="legend-dot answered"></i> Answered</div>
-              <div><i class="legend-dot unanswered"></i> Visited · unanswered</div>
-              <div><i class="legend-dot review"></i> Marked for review</div>
-              <div><i class="legend-dot not-visited"></i> Not visited</div>
-            </div>
           </aside>
         </div>
         <footer class="page-footer">

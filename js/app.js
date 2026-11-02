@@ -3,7 +3,7 @@ import { createExamState, getQuestionStatus, answerQuestion, visitQuestion, togg
 import { createTimer, formatTime } from "./timer.js";
 import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
-import { initializeAccounts, publishScore } from "./accounts.js";
+import { initializeAccounts, initializeCommunityChat, publishScore } from "./accounts.js";
 
 const $ = id => document.getElementById(id);
 const views = { setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -15,6 +15,8 @@ let examStartedAt = null;
 let submitInProgress = false;
 let examContext = null;
 let toastTimeout = null;
+let currentSetupStep = 1;
+const setupStepTitles = ["Choose your paper","Choose question datasets","Set test preferences","Review and start"];
 
 function showView(name) {
   Object.entries(views).forEach(([key, node]) => node.classList.toggle("hidden", key !== name));
@@ -30,24 +32,46 @@ function toast(message) {
 function getSelectedCount() {
   return Number($("count-input").value);
 }
-function populateSelect(select, values, allLabel) {
-  const previous = select.value;
+function renderCheckboxOptions(container, name, values, allLabel) {
   const options = [...new Set(values)].sort((a,b)=>a.localeCompare(b));
-  select.innerHTML = `<option value="all">${allLabel}</option>` + options.map(v=>`<option value="${escapeHtml(v)}">${escapeHtml(v)}</option>`).join("");
-  if (options.includes(previous)) select.value = previous;
+  container.innerHTML = options.length
+    ? `<label class="selection-option selection-all"><input type="checkbox" data-select-all checked><span>${escapeHtml(allLabel)}</span></label>
+      ${options.map(value => `<label class="selection-option"><input type="checkbox" name="${name}" value="${escapeHtml(value)}" checked><span>${escapeHtml(value)}</span></label>`).join("")}`
+    : '<p class="empty-datasets">No options available.</p>';
+}
+function checkedValues(container, name) {
+  return [...container.querySelectorAll(`input[name="${name}"]:checked`)].map(input=>input.value);
+}
+function syncSelectAll(container) {
+  const all = container.querySelector("[data-select-all]");
+  const options = [...container.querySelectorAll('input[type="checkbox"][name]')];
+  if (!all) return;
+  all.checked = options.length > 0 && options.every(option=>option.checked);
+  all.indeterminate = !all.checked && options.some(option=>option.checked);
+}
+function handleSelectionChange(container, callback) {
+  container.addEventListener("change", event => {
+    if (event.target.matches("[data-select-all]")) {
+      container.querySelectorAll('input[type="checkbox"][name]').forEach(option=>option.checked=event.target.checked);
+    }
+    syncSelectAll(container);
+    callback();
+  });
+}
+function showSetupStep(step) {
+  currentSetupStep = step;
+  document.querySelectorAll("[data-setup-step]").forEach(section =>
+    section.classList.toggle("hidden", Number(section.dataset.setupStep) !== step)
+  );
+  $("setup-step-label").textContent = `STEP ${String(step).padStart(2,"0")} OF 04`;
+  $("setup-step-title").textContent = setupStepTitles[step-1];
+  $("setup-error").textContent = "";
 }
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
 }
 function selectedCategories() {
-  const paper = $("paper-select").value;
-  if (paper === "general-knowledge") {
-    const category = $("general-category-select").value;
-    return [...new Set(bank.datasets.filter(dataset =>
-      dataset.paper === paper && (category === "all" || dataset.subject === category)
-    ).map(dataset => dataset.subject))];
-  }
-  return [...$("combined-subject-options").querySelectorAll('input[name="combined-subject"]:checked')].map(input => input.value);
+  return checkedValues($("category-options"), "category");
 }
 function selectedDatasets() {
   return [...$("dataset-options").querySelectorAll('input[name="dataset"]:checked')].map(input => input.value);
@@ -57,7 +81,7 @@ function currentFilters() {
     paper:$("paper-select").value,
     categories:selectedCategories(),
     datasets:selectedDatasets(),
-    topic:$("topic-select").value,
+    topics:checkedValues($("topic-options"), "topic"),
     difficulty:$("difficulty-select").value,
   };
 }
@@ -75,35 +99,27 @@ function renderDatasets() {
     dataset.paper === $("paper-select").value && categories.has(dataset.subject)
   );
   $("dataset-options").innerHTML = datasets.length
-    ? datasets.map(dataset => `
-      <label class="dataset-option">
-        <input type="checkbox" name="dataset" value="${escapeHtml(dataset.id)}" checked>
-        <span><strong>${escapeHtml(dataset.title)}</strong><small>${escapeHtml([dataset.subject, dataset.subcategory].filter(Boolean).join(" / "))} · ${dataset.questions.length} questions</small></span>
-      </label>`).join("")
+    ? `<label class="selection-option dataset-select-all"><input type="checkbox" data-select-all checked><span>Select all datasets</span></label>
+      ${datasets.map(dataset => `
+        <label class="dataset-option">
+          <input type="checkbox" name="dataset" value="${escapeHtml(dataset.id)}" checked>
+          <span><strong>${escapeHtml(dataset.title)}</strong><small>${escapeHtml([dataset.subject, dataset.subcategory].filter(Boolean).join(" / "))} · ${dataset.questions.length} questions</small></span>
+        </label>`).join("")}`
     : '<p class="empty-datasets">No question datasets found for this selection yet.</p>';
+  $("dataset-options").scrollTop = 0;
   updateTopics();
 }
 function updateTopics() {
   const datasetIds = new Set(selectedDatasets());
   const topics = bank.questions.filter(question => datasetIds.has(question.datasetId)).map(question => question.topic);
-  populateSelect($("topic-select"), topics, "All subcategories");
+  renderCheckboxOptions($("topic-options"), "topic", topics, "All subcategories");
   updateAvailability();
 }
 async function initialize() {
   try {
     bank = await loadQuestionBank();
     $("bank-count").textContent = bank.questions.length.toLocaleString();
-    const generalSubjects = [...new Set(bank.datasets.filter(dataset => dataset.paper === "general-knowledge").map(dataset => dataset.subject))];
-    populateSelect($("general-category-select"), generalSubjects, "All General Knowledge");
-    $("combined-subject-options").innerHTML = ["Kannada","English","Computer"].map(subject => `
-      <label class="subject-option">
-        <input type="checkbox" name="combined-subject" value="${subject}" checked>
-        <span>${subject}</span>
-      </label>`).join("");
     updatePaperOptions();
-    $("availability-note").textContent = bank.warnings.length
-      ? `${bank.questions.length} questions loaded with ${bank.warnings.length} dataset warning(s).`
-      : `${bank.questions.length} questions loaded successfully.`;
   } catch (error) {
     $("bank-count").textContent = "Error";
     $("availability-note").textContent = "Question bank could not be loaded.";
@@ -113,16 +129,18 @@ async function initialize() {
 }
 
 function updatePaperOptions() {
-  const general = $("paper-select").value === "general-knowledge";
-  $("general-category-field").classList.toggle("hidden", !general);
-  $("combined-subject-field").classList.toggle("hidden", general);
+  const paper = $("paper-select").value;
+  const subjects = [...new Set(bank.datasets.filter(dataset=>dataset.paper===paper).map(dataset=>dataset.subject))];
+  $("category-label").textContent = paper === "general-knowledge" ? "General Knowledge category" : "Choose subjects";
+  renderCheckboxOptions($("category-options"), "category", subjects,
+    paper === "general-knowledge" ? "All General Knowledge" : "All subjects");
   renderDatasets();
 }
 
 function startExam(event) {
   event.preventDefault();
   $("setup-error").textContent = "";
-  if (!bank) return;
+  if (!bank || currentSetupStep !== 4) return;
   const count = getSelectedCount();
   if (!Number.isInteger(count) || count < 1 || count > 1000) {
     $("setup-error").textContent = "Enter a question count between 1 and 1,000.";
@@ -271,17 +289,50 @@ function resetToSetup() {
   timer = null;
   examState = null;
   closeSubmitModal();
+  showSetupStep(1);
   showView("setup");
   updateAvailability();
 }
 
 $("setup-form").addEventListener("submit",startExam);
 $("paper-select").addEventListener("change",updatePaperOptions);
-$("general-category-select").addEventListener("change",renderDatasets);
-$("combined-subject-options").addEventListener("change",renderDatasets);
-$("dataset-options").addEventListener("change",updateTopics);
-$("topic-select").addEventListener("change",updateAvailability);
-["difficulty-select","count-input"].forEach(id=>$(id).addEventListener("input",updateAvailability));
+handleSelectionChange($("category-options"),renderDatasets);
+handleSelectionChange($("dataset-options"),updateTopics);
+handleSelectionChange($("topic-options"),updateAvailability);
+document.querySelectorAll("[data-next-step]").forEach(button=>button.addEventListener("click",()=>{
+  const nextStep = Number(button.dataset.nextStep);
+  $("setup-error").textContent = "";
+  if (nextStep === 2 && !selectedCategories().length) {
+    $("setup-error").textContent = "Choose at least one category or subject.";
+    return;
+  }
+  if (nextStep === 3 && !selectedDatasets().length) {
+    $("setup-error").textContent = "Choose at least one question dataset.";
+    return;
+  }
+  if (nextStep === 4) {
+    const count = getSelectedCount();
+    const duration = Number($("duration-input").value);
+    if (!Number.isInteger(count) || count < 1 || count > 1000) {
+      $("setup-error").textContent = "Enter a question count between 1 and 1,000.";
+      return;
+    }
+    if (!Number.isInteger(duration) || duration < 1 || duration > 600) {
+      $("setup-error").textContent = "Enter a duration between 1 and 600 minutes.";
+      return;
+    }
+    const matches = filterQuestions(bank.questions,currentFilters()).length;
+    if (matches < count) {
+      $("setup-error").textContent = `Only ${matches} matching questions are available. Select fewer questions or broaden the filters.`;
+      return;
+    }
+  }
+  showSetupStep(nextStep);
+}));
+document.querySelectorAll("[data-previous-step]").forEach(button=>button.addEventListener("click",()=>{
+  showSetupStep(Number(button.dataset.previousStep));
+}));
+["difficulty-select","count-input","duration-input"].forEach(id=>$(id).addEventListener("input",updateAvailability));
 $("previous-button").addEventListener("click",()=>{if(examState.currentIndex>0)moveTo(examState.currentIndex-1)});
 $("next-button").addEventListener("click",()=>{
   if(examState.currentIndex<examState.questions.length-1) moveTo(examState.currentIndex+1);
@@ -336,6 +387,7 @@ window.addEventListener("beforeunload",event=>{
 });
 
 initialize();
+initializeCommunityChat();
 initializeAccounts().catch(error => {
   $("account-message").textContent = `Account and leaderboard service is unavailable: ${error.message}`;
   $("account-message").classList.add("error-message");

@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createQuestionId, selectRandomQuestions, validateDataset } from "./questions.js";
+import { createQuestionId, filterQuestions, selectRandomQuestions, validateDataset } from "./questions.js";
 
 const dataset = {
   id: "General_Knowledge/Current_Affairs/Current_Economy.json",
@@ -80,4 +80,26 @@ test("selection fills from valid questions after malformed records are skipped",
   const selected = selectRandomQuestions(available, 2, () => 0);
   assert.equal(selected.length, 2);
   assert.deepEqual(new Set(selected.map(question => question.id)), new Set(["Q023", "Q025"]));
+});
+
+test("question filters accept multiple subcategories and preserve the all-subcategories option", () => {
+  const questions = ["Government", "Economy", "History"].map((topic, index) => ({
+    id: `Q00${index + 1}`,
+    paper: "general-knowledge",
+    subject: "Current Affairs",
+    datasetId: dataset.id,
+    topic,
+    difficulty: "Easy"
+  }));
+  const baseFilters = {
+    paper: "general-knowledge",
+    categories: ["Current Affairs"],
+    datasets: [dataset.id],
+    difficulty: "Mixed"
+  };
+  assert.deepEqual(
+    filterQuestions(questions, { ...baseFilters, topics: ["Government", "Economy"] }).map(question => question.topic),
+    ["Government", "Economy"]
+  );
+  assert.equal(filterQuestions(questions, { ...baseFilters, topics: ["all"] }).length, 3);
 });

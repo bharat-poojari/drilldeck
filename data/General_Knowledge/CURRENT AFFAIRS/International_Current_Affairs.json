@@ -1,0 +1,2707 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Comprehensive question bank derived from International Current Affairs 2026 compendium (cut-off: 30 October 2026). Verify and expand questions before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "G20",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which country hosted the 2026 G20 Presidency?",
+      "options": {
+        "A": "India",
+        "B": "Brazil",
+        "C": "United States",
+        "D": "South Africa"
+      },
+      "correctAnswer": "C",
+      "explanation": "The United States held the G20 Presidency in 2026. The G20 brings together major advanced and emerging economies and the European Union and African Union.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q002",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "IMF-World Bank",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where and when were the 2026 IMF-World Bank Group Annual Meetings held?",
+      "options": {
+        "A": "New Delhi, India, 12-18 October 2026",
+        "B": "Bangkok, Thailand, 12-18 October 2026",
+        "C": "Washington D.C., USA, 12-18 October 2026",
+        "D": "Geneva, Switzerland, 12-18 October 2026"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Annual Meetings were held in Bangkok, Thailand, from 12 to 18 October 2026.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q003",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "CBD COP17",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where and when was the 17th Conference of the Parties to the Convention on Biological Diversity (CBD COP17) scheduled?",
+      "options": {
+        "A": "19-30 October 2026, Yerevan, Armenia",
+        "B": "19-30 October 2026, Antalya, Turkiye",
+        "C": "9-20 November 2026, Yerevan, Armenia",
+        "D": "9-20 November 2026, Antalya, Turkiye"
+      },
+      "correctAnswer": "A",
+      "explanation": "CBD COP17 was scheduled for 19-30 October 2026 in Yerevan, Armenia. Its theme was 'Taking Action for Nature'.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q004",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "CBD COP17",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was the theme of CBD COP17 held in 2026?",
+      "options": {
+        "A": "Investing in the Future",
+        "B": "Taking Action for Nature",
+        "C": "Power in Partnership",
+        "D": "Resilience Under Strain"
+      },
+      "correctAnswer": "B",
+      "explanation": "The theme of CBD COP17 was 'Taking Action for Nature'. The meeting reviewed implementation of the Kunming-Montreal Global Biodiversity Framework.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q005",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "UN Climate Change Conference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where and when was the 31st UN Climate Change Conference (COP31) scheduled?",
+      "options": {
+        "A": "9-20 November 2026, Antalya, Turkiye",
+        "B": "11-12 November 2026, Antalya, Turkiye",
+        "C": "9-20 November 2026, Yerevan, Armenia",
+        "D": "19-30 October 2026, Antalya, Turkiye"
+      },
+      "correctAnswer": "A",
+      "explanation": "COP31 is scheduled for 9-20 November 2026 at the Antalya Expo Center in Antalya, Turkiye.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q006",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "COP31 Pre-COP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which countries partnered to deliver the official COP31 Pre-COP ministerial meeting and leaders' event from 5-8 October 2026?",
+      "options": {
+        "A": "Australia, New Zealand and Fiji",
+        "B": "Fiji, Tuvalu and Australia",
+        "C": "Tuvalu, Samoa and Australia",
+        "D": "Fiji, Papua New Guinea and Australia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fiji, Tuvalu and Australia partnered to deliver the official Pre-COP31 ministerial meeting and leaders' event from 5-8 October 2026, highlighting Pacific island perspectives.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q007",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "International Booker Prize",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where was the 2026 International Booker Prize ceremony held?",
+      "options": {
+        "A": "Royal Festival Hall, London",
+        "B": "Tate Modern, London",
+        "C": "British Museum, London",
+        "D": "Barbican Centre, London"
+      },
+      "correctAnswer": "B",
+      "explanation": "The award ceremony was held at Tate Modern in London on 19 May 2026.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q008",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "Brazilian Presidential Election",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the outcome of the 2026 Brazilian presidential election?",
+      "options": {
+        "A": "Jair Bolsonaro won a fourth term",
+        "B": "Flávio Bolsonaro won with 51.8 per cent",
+        "C": "Luiz Inacio Lula da Silva won a fourth four-year presidential term",
+        "D": "The election was postponed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Luiz Inacio Lula da Silva won a fourth four-year presidential term in the second round on 25 October 2026, defeating Senator Flávio Bolsonaro with 51.8 per cent to 48.2 per cent.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q009",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "Brazilian Presidential Election",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the reported final result of the 2026 Brazilian presidential election runoff?",
+      "options": {
+        "A": "51.8 per cent to 48.2 per cent",
+        "B": "52.5 per cent to 47.5 per cent",
+        "C": "50.1 per cent to 49.9 per cent",
+        "D": "55.0 per cent to 45.0 per cent"
+      },
+      "correctAnswer": "A",
+      "explanation": "The reported final result was 51.8 per cent to 48.2 per cent in favour of Luiz Inacio Lula da Silva.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q010",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "Israeli Election",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major Israeli election took place in October 2026?",
+      "options": {
+        "A": "Presidential election on 27 October 2026",
+        "B": "Legislative election on 27 October 2026 to elect the 120 members of the 26th Knesset",
+        "C": "Municipal election on 27 October 2026",
+        "D": "Prime ministerial election on 27 October 2026"
+      },
+      "correctAnswer": "B",
+      "explanation": "Israel held a legislative election on 27 October 2026 to elect the 120 members of the 26th Knesset.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q011",
+      "subject": "Current Affairs",
+      "topic": "Major International Events",
+      "chapter": "UN General Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the significance of the 81st session of the UN General Assembly?",
+      "options": {
+        "A": "It began in September 2026 and its high-level General Debate brought heads of state and government to New York",
+        "B": "It began in October 2026 and focused only on climate change",
+        "C": "It was held in Geneva and focused on trade",
+        "D": "It was cancelled due to the pandemic"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 81st session began in September 2026. Its high-level General Debate brought heads of state and government to New York to discuss international peace and security, development, climate risks, health preparedness and other global issues.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q012",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the United Nations?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "New York City, United States",
+        "C": "Vienna, Austria",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "B",
+      "explanation": "The UN headquarters is in New York City, United States. The UN also has major offices in Geneva, Vienna and Nairobi.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q013",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the United Nations established?",
+      "options": {
+        "A": "24 October 1945",
+        "B": "26 June 1945",
+        "C": "1 January 1942",
+        "D": "10 December 1948"
+      },
+      "correctAnswer": "A",
+      "explanation": "The United Nations came into existence on 24 October 1945, when the UN Charter entered into force.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q014",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many member states does the United Nations have?",
+      "options": {
+        "A": "191",
+        "B": "192",
+        "C": "193",
+        "D": "195"
+      },
+      "correctAnswer": "C",
+      "explanation": "The United Nations has 193 Member States.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q015",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "United Nations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two countries are UN non-member observer States?",
+      "options": {
+        "A": "Taiwan and Kosovo",
+        "B": "The Holy See and the State of Palestine",
+        "C": "Switzerland and Vatican City",
+        "D": "Palestine and Western Sahara"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Holy See and the State of Palestine are non-member observer States.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q016",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WHO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Health Organization (WHO)?",
+      "options": {
+        "A": "New York, United States",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "Rome, Italy"
+      },
+      "correctAnswer": "B",
+      "explanation": "WHO headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q017",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNESCO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of UNESCO?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Rome, Italy",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "B",
+      "explanation": "UNESCO headquarters is in Paris, France.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q018",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "FAO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Food and Agriculture Organization (FAO)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Rome, Italy",
+        "C": "Paris, France",
+        "D": "Vienna, Austria"
+      },
+      "correctAnswer": "B",
+      "explanation": "FAO headquarters is in Rome, Italy.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q019",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ILO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Labour Organization (ILO)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Rome, Italy",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "ILO headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q020",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IMF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Monetary Fund (IMF)?",
+      "options": {
+        "A": "New York, United States",
+        "B": "Washington, D.C., United States",
+        "C": "Geneva, Switzerland",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "B",
+      "explanation": "IMF headquarters is in Washington, D.C., United States.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q021",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "World Bank Group",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Bank Group?",
+      "options": {
+        "A": "New York, United States",
+        "B": "Washington, D.C., United States",
+        "C": "Geneva, Switzerland",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "B",
+      "explanation": "World Bank Group headquarters is in Washington, D.C., United States.",
+      "source": "International Current Affairs 2026, Page 2"
+    },
+    {
+      "id": "Q022",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WTO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Trade Organization (WTO)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Rome, Italy",
+        "D": "Vienna, Austria"
+      },
+      "correctAnswer": "A",
+      "explanation": "WTO headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q023",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IAEA",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Atomic Energy Agency (IAEA)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Vienna, Austria",
+        "C": "Paris, France",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "B",
+      "explanation": "IAEA headquarters is in Vienna, Austria.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q024",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ICJ",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the International Court of Justice (ICJ) based?",
+      "options": {
+        "A": "The Hague, Netherlands",
+        "B": "Geneva, Switzerland",
+        "C": "New York, United States",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ICJ is based at the Peace Palace in The Hague, Netherlands.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q025",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ICC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the International Criminal Court (ICC) based?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "The Hague, Netherlands",
+        "C": "New York, United States",
+        "D": "Rome, Italy"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ICC is based in The Hague, Netherlands.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q026",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "INTERPOL",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of INTERPOL?",
+      "options": {
+        "A": "Lyon, France",
+        "B": "Paris, France",
+        "C": "Geneva, Switzerland",
+        "D": "Brussels, Belgium"
+      },
+      "correctAnswer": "A",
+      "explanation": "INTERPOL headquarters is in Lyon, France.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q027",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ICAO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Civil Aviation Organization (ICAO)?",
+      "options": {
+        "A": "Montreal, Canada",
+        "B": "Geneva, Switzerland",
+        "C": "New York, United States",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "A",
+      "explanation": "ICAO headquarters is in Montreal, Canada.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q028",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IMO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Maritime Organization (IMO)?",
+      "options": {
+        "A": "London, United Kingdom",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "Brussels, Belgium"
+      },
+      "correctAnswer": "A",
+      "explanation": "IMO headquarters is in London, United Kingdom.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q029",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WIPO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Intellectual Property Organization (WIPO)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Vienna, Austria",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "WIPO headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q030",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ITU",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Telecommunication Union (ITU)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Vienna, Austria",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "ITU headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q031",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WMO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Meteorological Organization (WMO)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Paris, France",
+        "C": "Vienna, Austria",
+        "D": "Nairobi, Kenya"
+      },
+      "correctAnswer": "A",
+      "explanation": "WMO headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q032",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNEP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the United Nations Environment Programme (UNEP)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "Nairobi, Kenya",
+        "C": "Paris, France",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "B",
+      "explanation": "UNEP headquarters is in Nairobi, Kenya.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q033",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNDP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the United Nations Development Programme (UNDP)?",
+      "options": {
+        "A": "New York, United States",
+        "B": "Geneva, Switzerland",
+        "C": "Nairobi, Kenya",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNDP headquarters is in New York, United States.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q034",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNICEF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the United Nations Children's Fund (UNICEF)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "New York, United States",
+        "C": "Paris, France",
+        "D": "Rome, Italy"
+      },
+      "correctAnswer": "B",
+      "explanation": "UNICEF headquarters is in New York, United States.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q035",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "UNHCR",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the United Nations High Commissioner for Refugees (UNHCR)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "New York, United States",
+        "C": "Paris, France",
+        "D": "Rome, Italy"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNHCR headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q036",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IOM",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Organization for Migration (IOM)?",
+      "options": {
+        "A": "Geneva, Switzerland",
+        "B": "New York, United States",
+        "C": "Paris, France",
+        "D": "Rome, Italy"
+      },
+      "correctAnswer": "A",
+      "explanation": "IOM headquarters is in Geneva, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q037",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IFAD",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Fund for Agricultural Development (IFAD)?",
+      "options": {
+        "A": "Rome, Italy",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "IFAD headquarters is in Rome, Italy.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q038",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "WFP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the World Food Programme (WFP)?",
+      "options": {
+        "A": "Rome, Italy",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "WFP headquarters is in Rome, Italy.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q039",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "OECD",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Organisation for Economic Co-operation and Development (OECD)?",
+      "options": {
+        "A": "Paris, France",
+        "B": "Geneva, Switzerland",
+        "C": "Brussels, Belgium",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "OECD headquarters is in Paris, France.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q040",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "NATO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the North Atlantic Treaty Organization (NATO)?",
+      "options": {
+        "A": "Brussels, Belgium",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "London, United Kingdom"
+      },
+      "correctAnswer": "A",
+      "explanation": "NATO headquarters is in Brussels, Belgium.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q041",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "European Union",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where are the main institutions of the European Union based?",
+      "options": {
+        "A": "The European Commission and Council of the European Union are based in Brussels; the European Parliament has seats in Strasbourg and Brussels, while the Court of Justice is in Luxembourg",
+        "B": "All EU institutions are based in Strasbourg",
+        "C": "The European Commission is in Paris and the Parliament in Brussels",
+        "D": "All EU institutions are based in Brussels"
+      },
+      "correctAnswer": "A",
+      "explanation": "The European Commission and Council of the European Union are based in Brussels, Belgium; the European Parliament has seats in Strasbourg and Brussels, while the Court of Justice of the European Union is in Luxembourg.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q042",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "ASEAN",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Association of Southeast Asian Nations (ASEAN)?",
+      "options": {
+        "A": "Jakarta, Indonesia",
+        "B": "Bangkok, Thailand",
+        "C": "Singapore",
+        "D": "Kuala Lumpur, Malaysia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ASEAN Secretariat is in Jakarta, Indonesia.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q043",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "African Union",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the African Union?",
+      "options": {
+        "A": "Addis Ababa, Ethiopia",
+        "B": "Nairobi, Kenya",
+        "C": "Cairo, Egypt",
+        "D": "Johannesburg, South Africa"
+      },
+      "correctAnswer": "A",
+      "explanation": "The African Union headquarters is in Addis Ababa, Ethiopia.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q044",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "Arab League",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Arab League?",
+      "options": {
+        "A": "Cairo, Egypt",
+        "B": "Jeddah, Saudi Arabia",
+        "C": "Riyadh, Saudi Arabia",
+        "D": "Amman, Jordan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The League of Arab States headquarters is in Cairo, Egypt.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q045",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "OIC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Organisation of Islamic Cooperation (OIC)?",
+      "options": {
+        "A": "Jeddah, Saudi Arabia",
+        "B": "Cairo, Egypt",
+        "C": "Riyadh, Saudi Arabia",
+        "D": "Istanbul, Turkiye"
+      },
+      "correctAnswer": "A",
+      "explanation": "The OIC headquarters is in Jeddah, Saudi Arabia.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q046",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "SCO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Shanghai Cooperation Organisation (SCO)?",
+      "options": {
+        "A": "Beijing, China",
+        "B": "Shanghai, China",
+        "C": "Moscow, Russia",
+        "D": "Tashkent, Uzbekistan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SCO Secretariat is in Beijing, China.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q047",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "Commonwealth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the Commonwealth Secretariat?",
+      "options": {
+        "A": "London, United Kingdom",
+        "B": "Geneva, Switzerland",
+        "C": "Paris, France",
+        "D": "New York, United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Commonwealth Secretariat is in London, United Kingdom.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+        {
+      "id": "Q048",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "IOC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of the International Olympic Committee (IOC)?",
+      "options": {
+        "A": "Lausanne, Switzerland",
+        "B": "Zurich, Switzerland",
+        "C": "Geneva, Switzerland",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IOC headquarters is in Lausanne, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q049",
+      "subject": "Current Affairs",
+      "topic": "International Organisations",
+      "chapter": "FIFA",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the headquarters of FIFA?",
+      "options": {
+        "A": "Zurich, Switzerland",
+        "B": "Geneva, Switzerland",
+        "C": "Lausanne, Switzerland",
+        "D": "Paris, France"
+      },
+      "correctAnswer": "A",
+      "explanation": "FIFA headquarters is in Zurich, Switzerland.",
+      "source": "International Current Affairs 2026, Page 3"
+    },
+    {
+      "id": "Q050",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "BRICS",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which countries are the original BRICS members?",
+      "options": {
+        "A": "Brazil, Russia, India, China and South Africa",
+        "B": "Brazil, Russia, India, China and Saudi Arabia",
+        "C": "Brazil, Russia, Indonesia, China and South Africa",
+        "D": "Brazil, Romania, India, China and South Africa"
+      },
+      "correctAnswer": "A",
+      "explanation": "The original BRICS members are Brazil, Russia, India, China and South Africa. BRICS expanded its membership from 2024; for current membership, use the official BRICS member list.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q051",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "G7",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which countries are members of the G7?",
+      "options": {
+        "A": "Canada, France, Germany, Italy, Japan, the United Kingdom and the United States",
+        "B": "Canada, France, Germany, Italy, Japan, Russia and the United States",
+        "C": "Canada, France, Germany, India, Japan, the United Kingdom and the United States",
+        "D": "Canada, China, Germany, Italy, Japan, the United Kingdom and the United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "The G7 members are Canada, France, Germany, Italy, Japan, the United Kingdom and the United States. The European Union participates in G7 meetings but is not counted as one of the seven countries.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q052",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "G20",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many countries are members of the G20?",
+      "options": {
+        "A": "19 countries plus the European Union and African Union",
+        "B": "20 countries plus the European Union",
+        "C": "18 countries plus the European Union",
+        "D": "20 countries only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The G20 comprises 19 countries plus the European Union and African Union. Its country members are Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Mexico, Russia, Saudi Arabia, South Africa, South Korea, Turkiye, the United Kingdom and the United States.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q053",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "G20",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a country member of the G20?",
+      "options": {
+        "A": "Saudi Arabia",
+        "B": "South Korea",
+        "C": "New Zealand",
+        "D": "Turkiye"
+      },
+      "correctAnswer": "C",
+      "explanation": "New Zealand is not a G20 member. The G20 country members include Argentina, Australia, Brazil, Canada, China, France, Germany, India, Indonesia, Italy, Japan, Mexico, Russia, Saudi Arabia, South Africa, South Korea, Turkiye, the United Kingdom and the United States.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q054",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "ASEAN",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main purpose of ASEAN?",
+      "options": {
+        "A": "To promote regional cooperation in political-security, economic and socio-cultural fields among Southeast Asian states",
+        "B": "To coordinate petroleum policies among member countries",
+        "C": "To provide collective defence against external threats",
+        "D": "To promote European integration"
+      },
+      "correctAnswer": "A",
+      "explanation": "ASEAN promotes regional cooperation in political-security, economic and socio-cultural fields among Southeast Asian states.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q055",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "SCO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main purpose of the Shanghai Cooperation Organisation (SCO)?",
+      "options": {
+        "A": "To promote cooperation on regional security, counter-terrorism, economic and cultural matters among its members",
+        "B": "To coordinate oil production among major producers",
+        "C": "To provide collective defence under Article 5",
+        "D": "To promote democracy and human rights globally"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SCO promotes cooperation on regional security, counter-terrorism, economic and cultural matters among its members.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q056",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "NATO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the collective-defence principle of NATO contained in?",
+      "options": {
+        "A": "Article 5 of the North Atlantic Treaty",
+        "B": "Article 1 of the North Atlantic Treaty",
+        "C": "Article 10 of the North Atlantic Treaty",
+        "D": "Article 51 of the UN Charter"
+      },
+      "correctAnswer": "A",
+      "explanation": "NATO is a political and military alliance founded in 1949. Its collective-defence principle is contained in Article 5 of the North Atlantic Treaty.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q057",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "African Union",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main purpose of the African Union?",
+      "options": {
+        "A": "To promote unity, peace, security, integration and socio-economic development among African countries",
+        "B": "To coordinate petroleum policies among African producers",
+        "C": "To provide collective defence against external threats",
+        "D": "To promote trade only among North African states"
+      },
+      "correctAnswer": "A",
+      "explanation": "The African Union promotes unity, peace, security, integration and socio-economic development among African countries.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q058",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "OPEC",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main purpose of OPEC?",
+      "options": {
+        "A": "To coordinate and unify the petroleum policies of its member countries and seek to stabilise oil markets",
+        "B": "To promote regional security cooperation",
+        "C": "To provide development finance to poor countries",
+        "D": "To regulate international trade in goods and services"
+      },
+      "correctAnswer": "A",
+      "explanation": "OPEC coordinates and unifies the petroleum policies of its member countries and seeks to stabilise oil markets.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q059",
+      "subject": "Current Affairs",
+      "topic": "Important Groupings",
+      "chapter": "Commonwealth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main purpose of the Commonwealth of Nations?",
+      "options": {
+        "A": "It is a voluntary association of independent and equal sovereign states that cooperate on democracy, development, education, trade and shared institutional values",
+        "B": "It is a military alliance with a collective-defence clause",
+        "C": "It is a free trade area with a common external tariff",
+        "D": "It is a monetary union with a single currency"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Commonwealth is a voluntary association of independent and equal sovereign states that cooperate on democracy, development, education, trade and shared institutional values.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q060",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Secretary-General",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the UN Secretary-General as of 30 October 2026?",
+      "options": {
+        "A": "Ban Ki-moon of South Korea",
+        "B": "Antonio Guterres of Portugal",
+        "C": "Kofi Annan of Ghana",
+        "D": "Boutros Boutros-Ghali of Egypt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Antonio Guterres of Portugal remained Secretary-General during the period covered. His term was due to end on 31 December 2026.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q061",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "General Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was the President of the 81st session of the UN General Assembly?",
+      "options": {
+        "A": "Annalena Baerbock",
+        "B": "Khalilur Rahman",
+        "C": "Antonio Guterres",
+        "D": "Csaba Korosi"
+      },
+      "correctAnswer": "B",
+      "explanation": "H.E. Khalilur Rahman was President of the 81st session, following the 80th-session presidency of Annalena Baerbock.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q062",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Secretary-General Appointment",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article of the UN Charter is the UN Secretary-General appointed?",
+      "options": {
+        "A": "Article 97",
+        "B": "Article 99",
+        "C": "Article 100",
+        "D": "Article 101"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 97 of the UN Charter, the Security Council recommends a candidate and the General Assembly appoints the Secretary-General.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q063",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Secretary-General Selection",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was important about the 2026 UN Secretary-General selection process?",
+      "options": {
+        "A": "The selection process for the term beginning 1 January 2027 was under way, with candidates nominated by Member States and considered by the Security Council through private informal straw polls",
+        "B": "The process was completed and a new Secretary-General was appointed by 30 October 2026",
+        "C": "The process was postponed indefinitely",
+        "D": "The Secretary-General was elected by popular vote"
+      },
+      "correctAnswer": "A",
+      "explanation": "The selection process for the term beginning 1 January 2027 was under way. As of 30 October 2026, the Security Council recommendation and General Assembly appointment had not yet been completed.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q064",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Secretary-General Selection",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which candidates were listed on the UN's official 2026 Secretary-General selection page by 30 October?",
+      "options": {
+        "A": "Ivonne A-Baki, Maria Fernanda Espinosa Garces, Rafael Mariano Grossi, Rebeca Grynspan Mayufis, Lana Zaki Nusseibeh, Olara Otunnu and Carolyn Rodrigues Birkett",
+        "B": "Michelle Bachelet, Macky Sall, Virginia Gamba and Antonio Guterres",
+        "C": "Ban Ki-moon, Kofi Annan and Boutros Boutros-Ghali",
+        "D": "Annalena Baerbock, Khalilur Rahman and Csaba Korosi"
+      },
+      "correctAnswer": "A",
+      "explanation": "The official page listed Ivonne A-Baki, Maria Fernanda Espinosa Garces, Rafael Mariano Grossi, Rebeca Grynspan Mayufis, Lana Zaki Nusseibeh, Olara Otunnu and Carolyn Rodrigues Birkett. The nominations of Michelle Bachelet and Macky Sall had been withdrawn; Virginia Gamba's nomination had also been withdrawn.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q065",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Security Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the composition of the UN Security Council?",
+      "options": {
+        "A": "15 members: five permanent members and ten non-permanent members elected for two-year terms",
+        "B": "10 members: five permanent members and five non-permanent members",
+        "C": "20 members: five permanent members and fifteen non-permanent members",
+        "D": "15 members: three permanent members and twelve non-permanent members"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Security Council has 15 members: five permanent members and ten non-permanent members elected for two-year terms.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q066",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Security Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which countries are the five permanent members of the UN Security Council?",
+      "options": {
+        "A": "China, France, Russia, the United Kingdom and the United States",
+        "B": "China, France, Germany, Russia and the United States",
+        "C": "China, India, Russia, the United Kingdom and the United States",
+        "D": "China, France, Japan, Russia and the United States"
+      },
+      "correctAnswer": "A",
+      "explanation": "The five permanent members of the UN Security Council are China, France, Russia, the United Kingdom and the United States.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q067",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Security Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the veto power in the UN Security Council?",
+      "options": {
+        "A": "Each of the five permanent members can block the adoption of a substantive resolution by voting against it",
+        "B": "Any member of the Security Council can block a resolution by voting against it",
+        "C": "The Secretary-General can veto any resolution",
+        "D": "A veto requires the support of at least three permanent members"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each of the five permanent members can block the adoption of a substantive resolution by voting against it. A permanent member's abstention does not count as a veto.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q068",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Security Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does a permanent member's abstention count as a veto in the UN Security Council?",
+      "options": {
+        "A": "Yes, abstention is equivalent to a veto",
+        "B": "No, a permanent member's abstention does not count as a veto",
+        "C": "Only if three or more permanent members abstain",
+        "D": "Only in matters of international peace and security"
+      },
+      "correctAnswer": "B",
+      "explanation": "A permanent member's abstention does not count as a veto.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q069",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Principal Organs",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many principal organs does the UN Charter establish?",
+      "options": {
+        "A": "Five",
+        "B": "Six",
+        "C": "Seven",
+        "D": "Eight"
+      },
+      "correctAnswer": "B",
+      "explanation": "The UN Charter establishes six principal organs: the General Assembly, Security Council, Economic and Social Council, International Court of Justice, Secretariat and Trusteeship Council.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q070",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Principal Organs",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a principal organ of the United Nations?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "World Health Organization",
+        "D": "Trusteeship Council"
+      },
+      "correctAnswer": "C",
+      "explanation": "The six principal organs are the General Assembly, Security Council, Economic and Social Council, International Court of Justice, Secretariat and Trusteeship Council. WHO is a specialised agency, not a principal organ.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q071",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "ICJ",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where does the International Court of Justice fit within the UN system?",
+      "options": {
+        "A": "It is the principal judicial organ of the United Nations, settling legal disputes submitted by States and giving advisory opinions",
+        "B": "It is a subsidiary body of the Security Council",
+        "C": "It is an autonomous specialised agency outside the UN system",
+        "D": "It is part of the Secretariat"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ICJ is the principal judicial organ of the United Nations. It settles legal disputes submitted by States and gives advisory opinions on legal questions referred by authorised UN organs and agencies.",
+      "source": "International Current Affairs 2026, Page 4"
+    },
+    {
+      "id": "Q072",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the UN Sustainable Development Agenda?",
+      "options": {
+        "A": "The 2030 Agenda for Sustainable Development, adopted in 2015, containing 17 Sustainable Development Goals and 169 targets",
+        "B": "The 2025 Agenda for Sustainable Development, containing 15 goals and 150 targets",
+        "C": "The 2030 Agenda for Sustainable Development, adopted in 2000, containing 8 goals and 21 targets",
+        "D": "The 2050 Agenda for Sustainable Development, containing 20 goals and 200 targets"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 2030 Agenda for Sustainable Development, adopted in 2015, contains 17 Sustainable Development Goals and 169 targets.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q073",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Peace and Security",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the UN's principal role in international peace and security?",
+      "options": {
+        "A": "The UN Charter gives the Security Council primary responsibility for maintaining international peace and security",
+        "B": "The General Assembly has primary responsibility for maintaining international peace and security",
+        "C": "The Secretariat has primary responsibility for maintaining international peace and security",
+        "D": "The ICJ has primary responsibility for maintaining international peace and security"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UN Charter gives the Security Council primary responsibility for maintaining international peace and security. The Council can adopt resolutions, impose sanctions and authorise certain collective measures.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q074",
+      "subject": "Current Affairs",
+      "topic": "United Nations",
+      "chapter": "Resolutions vs Treaties",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a UN resolution and an international treaty?",
+      "options": {
+        "A": "A UN resolution is a formal decision or recommendation of a UN organ; a treaty is an agreement governed by international law and binds States that have consented to be bound",
+        "B": "A UN resolution is legally binding on all States; a treaty is only a political declaration",
+        "C": "A UN resolution is a treaty; a treaty is a resolution",
+        "D": "There is no difference between a UN resolution and a treaty"
+      },
+      "correctAnswer": "A",
+      "explanation": "A UN resolution is a formal decision or recommendation of a UN organ. A treaty is an agreement governed by international law and binds States that have consented to be bound, subject to its terms and entry-into-force rules.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q075",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WHO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is WHO and what does it do?",
+      "options": {
+        "A": "The World Health Organization is the UN specialised agency for international public health, coordinating health emergencies, developing standards and guidance, supporting health systems and monitoring disease threats",
+        "B": "The World Health Organization is the UN specialised agency for labour rights",
+        "C": "The World Health Organization is the UN specialised agency for education",
+        "D": "The World Health Organization is the UN specialised agency for trade"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Health Organization is the UN specialised agency for international public health. It coordinates health emergencies, develops standards and guidance, supports health systems and monitors disease threats.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q076",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WHO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the WHO Director-General in 2026?",
+      "options": {
+        "A": "Dr. Tedros Adhanom Ghebreyesus",
+        "B": "Dr. Margaret Chan",
+        "C": "Dr. Soumya Swaminathan",
+        "D": "Dr. Anthony Fauci"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dr. Tedros Adhanom Ghebreyesus was the WHO Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q077",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNESCO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is UNESCO responsible for?",
+      "options": {
+        "A": "UNESCO works in education, science, culture, communication and information, including the protection of world heritage and promotion of international scientific and educational cooperation",
+        "B": "UNESCO works only in the field of education",
+        "C": "UNESCO works only in the field of culture",
+        "D": "UNESCO works only in the field of science"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNESCO works in education, science, culture, communication and information, including the protection of world heritage and promotion of international scientific and educational cooperation.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q078",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNESCO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who became UNESCO Director-General in November 2025 and continued in office in 2026?",
+      "options": {
+        "A": "Khaled El-Enany of Egypt",
+        "B": "Audrey Azoulay of France",
+        "C": "Irina Bokova of Bulgaria",
+        "D": "Koichiro Matsuura of Japan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Khaled El-Enany of Egypt became the 12th Director-General on 15 November 2025 for a four-year term.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q079",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "FAO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does FAO do?",
+      "options": {
+        "A": "The Food and Agriculture Organization leads international efforts to defeat hunger, improve nutrition, increase agricultural productivity and promote sustainable food systems",
+        "B": "The Food and Agriculture Organization leads international efforts to promote education",
+        "C": "The Food and Agriculture Organization leads international efforts to promote health",
+        "D": "The Food and Agriculture Organization leads international efforts to promote trade"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Food and Agriculture Organization leads international efforts to defeat hunger, improve nutrition, increase agricultural productivity and promote sustainable food systems.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q080",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "FAO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was FAO Director-General in 2026?",
+      "options": {
+        "A": "Qu Dongyu",
+        "B": "José Graziano da Silva",
+        "C": "Jacques Diouf",
+        "D": "Edouard Saouma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Qu Dongyu was the FAO Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q081",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "ILO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does ILO do?",
+      "options": {
+        "A": "The International Labour Organization promotes social justice, labour rights, decent work and international labour standards",
+        "B": "The International Labour Organization promotes free trade",
+        "C": "The International Labour Organization promotes environmental protection",
+        "D": "The International Labour Organization promotes health security"
+      },
+      "correctAnswer": "A",
+      "explanation": "The International Labour Organization promotes social justice, labour rights, decent work and international labour standards.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q082",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "ILO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was ILO Director-General in 2026?",
+      "options": {
+        "A": "Gilbert F. Houngbo",
+        "B": "Guy Ryder",
+        "C": "Juan Somavia",
+        "D": "Michelle Bachelet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gilbert F. Houngbo was the ILO Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q083",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNICEF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UNICEF do?",
+      "options": {
+        "A": "UNICEF works for children's rights, health, nutrition, education, protection, water and sanitation, and emergency assistance",
+        "B": "UNICEF works only for refugee protection",
+        "C": "UNICEF works only for environmental protection",
+        "D": "UNICEF works only for trade facilitation"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNICEF works for children's rights, health, nutrition, education, protection, water and sanitation, and emergency assistance.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q084",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNICEF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was UNICEF Executive Director in 2026?",
+      "options": {
+        "A": "Catherine Russell",
+        "B": "Henrietta Fore",
+        "C": "Anthony Lake",
+        "D": "Carol Bellamy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Catherine Russell was the UNICEF Executive Director in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q085",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNHCR",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UNHCR do?",
+      "options": {
+        "A": "The UN Refugee Agency protects refugees, asylum-seekers, stateless people and internally displaced persons within its mandate",
+        "B": "The UN Refugee Agency provides food assistance only",
+        "C": "The UN Refugee Agency coordinates international trade",
+        "D": "The UN Refugee Agency promotes labour rights"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UN Refugee Agency protects refugees, asylum-seekers, stateless people and internally displaced persons within its mandate.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q086",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNHCR",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was listed as UN High Commissioner for Refugees in 2026?",
+      "options": {
+        "A": "Barham Salih",
+        "B": "Filippo Grandi",
+        "C": "António Guterres",
+        "D": "Sadako Ogata"
+      },
+      "correctAnswer": "A",
+      "explanation": "Barham Salih was listed as UN High Commissioner for Refugees in the UN leadership information available in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q087",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNDP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UNDP do?",
+      "options": {
+        "A": "The United Nations Development Programme supports poverty reduction, governance, crisis resilience, sustainable development and climate action",
+        "B": "The United Nations Development Programme provides only emergency food aid",
+        "C": "The United Nations Development Programme regulates international trade",
+        "D": "The United Nations Development Programme monitors human rights treaties"
+      },
+      "correctAnswer": "A",
+      "explanation": "The United Nations Development Programme supports poverty reduction, governance, crisis resilience, sustainable development and climate action.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q088",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNDP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was UNDP Administrator in 2026?",
+      "options": {
+        "A": "Alexander De Croo",
+        "B": "Achim Steiner",
+        "C": "Helen Clark",
+        "D": "Kemal Dervis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alexander De Croo was the UNDP Administrator in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+        {
+      "id": "Q089",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNEP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UNEP do?",
+      "options": {
+        "A": "The United Nations Environment Programme coordinates environmental work within the UN system and supports action on climate change, biodiversity, pollution and sustainable development",
+        "B": "The United Nations Environment Programme provides food assistance",
+        "C": "The United Nations Environment Programme regulates international trade",
+        "D": "The United Nations Environment Programme monitors labour standards"
+      },
+      "correctAnswer": "A",
+      "explanation": "The United Nations Environment Programme coordinates environmental work within the UN system and supports action on climate change, biodiversity, pollution and sustainable development.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q090",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "UNEP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was UNEP Executive Director in 2026?",
+      "options": {
+        "A": "Inger Andersen",
+        "B": "Achim Steiner",
+        "C": "Klaus Töpfer",
+        "D": "Elizabeth Dowdeswell"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inger Andersen was the UNEP Executive Director in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q091",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WFP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does WFP do?",
+      "options": {
+        "A": "The World Food Programme provides food assistance and emergency nutrition support and works to improve food security and resilience",
+        "B": "The World Food Programme regulates international food trade",
+        "C": "The World Food Programme monitors agricultural productivity only",
+        "D": "The World Food Programme provides development loans"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Food Programme provides food assistance and emergency nutrition support and works to improve food security and resilience.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q092",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WFP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was listed as WFP Executive Director in the 2026 UN leadership directory?",
+      "options": {
+        "A": "Luke J. Lindberg",
+        "B": "David Beasley",
+        "C": "Ertharin Cousin",
+        "D": "Josette Sheeran"
+      },
+      "correctAnswer": "A",
+      "explanation": "Luke J. Lindberg was listed as Executive Director in the 2026 UN leadership directory.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q093",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "IAEA",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does IAEA do?",
+      "options": {
+        "A": "The International Atomic Energy Agency promotes the safe, secure and peaceful use of nuclear science and technology and verifies compliance with nuclear safeguards agreements",
+        "B": "The International Atomic Energy Agency regulates international trade in nuclear weapons",
+        "C": "The International Atomic Energy Agency provides development finance",
+        "D": "The International Atomic Energy Agency monitors climate change"
+      },
+      "correctAnswer": "A",
+      "explanation": "The International Atomic Energy Agency promotes the safe, secure and peaceful use of nuclear science and technology and verifies compliance with nuclear safeguards agreements.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q094",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "IAEA",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was IAEA Director-General in 2026?",
+      "options": {
+        "A": "Rafael Mariano Grossi",
+        "B": "Yukiya Amano",
+        "C": "Mohamed ElBaradei",
+        "D": "Hans Blix"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rafael Mariano Grossi was the IAEA Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q095",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WTO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does WTO do?",
+      "options": {
+        "A": "The World Trade Organization administers multilateral trade agreements, provides a forum for trade negotiations, monitors trade policies and operates a dispute-settlement framework",
+        "B": "The World Trade Organization provides development loans",
+        "C": "The World Trade Organization monitors human rights",
+        "D": "The World Trade Organization coordinates environmental policy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Trade Organization administers multilateral trade agreements, provides a forum for trade negotiations, monitors trade policies and operates a dispute-settlement framework.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q096",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WTO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was WTO Director-General in 2026?",
+      "options": {
+        "A": "Ngozi Okonjo-Iweala",
+        "B": "Roberto Azevêdo",
+        "C": "Pascal Lamy",
+        "D": "Supachai Panitchpakdi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ngozi Okonjo-Iweala was the WTO Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 5"
+    },
+    {
+      "id": "Q097",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WIPO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does WIPO do?",
+      "options": {
+        "A": "The World Intellectual Property Organization promotes protection and effective use of intellectual property through international cooperation",
+        "B": "The World Intellectual Property Organization regulates international trade in goods",
+        "C": "The World Intellectual Property Organization monitors patents only",
+        "D": "The World Intellectual Property Organization provides development loans"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Intellectual Property Organization promotes protection and effective use of intellectual property through international cooperation.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q098",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WIPO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was appointed for a second term as WIPO Director-General in April 2026?",
+      "options": {
+        "A": "Daren Tang of Singapore",
+        "B": "Francis Gurry of Australia",
+        "C": "Kamil Idris of Sudan",
+        "D": "Arpad Bogsch of Hungary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daren Tang of Singapore was appointed to a second six-year term, running from 1 October 2026 to 30 September 2032.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q099",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "WIPO",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When did Daren Tang's second term as WIPO Director-General begin and end?",
+      "options": {
+        "A": "1 October 2026 to 30 September 2032",
+        "B": "1 January 2026 to 31 December 2031",
+        "C": "1 April 2026 to 31 March 2032",
+        "D": "1 October 2026 to 30 September 2031"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daren Tang's second six-year term runs from 1 October 2026 to 30 September 2032.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q100",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "IOM",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does IOM do?",
+      "options": {
+        "A": "The International Organization for Migration works on migration governance, migrant protection, displacement, humanitarian response and orderly, safe and regular migration",
+        "B": "The International Organization for Migration provides food assistance only",
+        "C": "The International Organization for Migration regulates international trade",
+        "D": "The International Organization for Migration monitors human rights treaties"
+      },
+      "correctAnswer": "A",
+      "explanation": "The International Organization for Migration works on migration governance, migrant protection, displacement, humanitarian response and orderly, safe and regular migration.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q101",
+      "subject": "Current Affairs",
+      "topic": "UN Agencies",
+      "chapter": "IOM",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was IOM Director-General in 2026?",
+      "options": {
+        "A": "Amy E. Pope",
+        "B": "António Vitorino",
+        "C": "William Lacy Swing",
+        "D": "Peter Sutherland"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amy E. Pope was the IOM Director-General in 2026.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q102",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "G20 Summit",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the G20 Summit?",
+      "options": {
+        "A": "A forum for international economic cooperation involving major advanced and emerging economies, the European Union and the African Union",
+        "B": "A formal military alliance",
+        "C": "A UN principal organ",
+        "D": "A treaty organisation with binding decisions"
+      },
+      "correctAnswer": "A",
+      "explanation": "The G20 is a forum for international economic cooperation involving major advanced and emerging economies, the European Union and the African Union. It discusses global growth, financial stability, trade, development, climate and other international policy issues.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q103",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "G20 Summit",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a G20 Leaders' Summit and a G20 ministerial meeting?",
+      "options": {
+        "A": "A Leaders' Summit brings together heads of state or government; ministerial meetings bring together ministers responsible for specific portfolios",
+        "B": "A Leaders' Summit brings together ministers; ministerial meetings bring together heads of state",
+        "C": "There is no difference between the two",
+        "D": "A Leaders' Summit is held annually; ministerial meetings are held every five years"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Leaders' Summit brings together heads of state or government. Ministerial meetings bring together ministers responsible for specific portfolios, such as finance, foreign affairs, trade or climate.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q104",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "IMF-World Bank",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the IMF-World Bank Annual Meetings?",
+      "options": {
+        "A": "They bring together finance ministers, central-bank governors, development ministers, private-sector representatives and civil society to discuss global economic conditions, financial stability, poverty reduction and development finance",
+        "B": "They are held to elect the UN Secretary-General",
+        "C": "They negotiate international trade agreements",
+        "D": "They review human rights records of member countries"
+      },
+      "correctAnswer": "A",
+      "explanation": "They bring together finance ministers, central-bank governors, development ministers, private-sector representatives and civil society to discuss global economic conditions, financial stability, poverty reduction and development finance.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q105",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "COP31",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the 2026 COP31 Leaders' Summit scheduled?",
+      "options": {
+        "A": "11-12 November 2026 in Antalya, Turkiye",
+        "B": "9-20 November 2026 in Antalya, Turkiye",
+        "C": "11-12 November 2026 in Yerevan, Armenia",
+        "D": "5-8 October 2026 in Antalya, Turkiye"
+      },
+      "correctAnswer": "A",
+      "explanation": "The World Leaders' Summit is scheduled for 11-12 November 2026 in Antalya, Turkiye, during COP31.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q106",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "AI Summit",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the 2026 International AI Summit in Dublin about?",
+      "options": {
+        "A": "It focused on AI applications, digital infrastructure, innovation, competitiveness, AI governance, quantum-enabled systems and workforce transformation",
+        "B": "It focused only on AI military applications",
+        "C": "It focused only on AI in healthcare",
+        "D": "It focused on banning AI development"
+      },
+      "correctAnswer": "A",
+      "explanation": "The summit scheduled in Dublin, Ireland, in October 2026 focused on AI applications, digital infrastructure, innovation, competitiveness, AI governance, quantum-enabled systems and workforce transformation.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q107",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "Russia-Africa Summit",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the 3rd Russia-Africa Summit scheduled to discuss?",
+      "options": {
+        "A": "Economic cooperation, AI, digital economy, alternative payment systems, food security and investment",
+        "B": "Military cooperation only",
+        "C": "Cultural exchange only",
+        "D": "Climate change only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The summit scheduled in Moscow on 28-29 October 2026 focused on economic cooperation, AI, digital economy, alternative payment systems, food security and investment.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q108",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "EU-Canada Summit",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the purpose of the EU-Canada Summit scheduled for 29-30 October 2026?",
+      "options": {
+        "A": "To advance trade, investment, security and defence cooperation, digital and AI collaboration, and energy cooperation",
+        "B": "To negotiate Canada's accession to the EU",
+        "C": "To discuss only climate change",
+        "D": "To establish a military alliance"
+      },
+      "correctAnswer": "A",
+      "explanation": "The summit in Montreal was intended to advance trade, investment, security and defence cooperation, digital and AI collaboration, and energy cooperation.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q109",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "UNCTAD",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the 9th UNCTAD World Investment Forum 2026?",
+      "options": {
+        "A": "It was scheduled for 25-27 October 2026 in Doha, Qatar, under the theme 'Investing in the Future'",
+        "B": "It was scheduled for 25-27 October 2026 in Geneva, Switzerland",
+        "C": "It was held in Bangkok, Thailand",
+        "D": "It was held in Antalya, Turkiye"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 9th UNCTAD World Investment Forum 2026 was scheduled for 25-27 October 2026 in Doha, Qatar, under the theme 'Investing in the Future'.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q110",
+      "subject": "Current Affairs",
+      "topic": "International Summits",
+      "chapter": "CHOGM",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the Commonwealth Heads of Government Meeting (CHOGM)?",
+      "options": {
+        "A": "CHOGM brings together leaders of Commonwealth member countries to discuss shared political, economic, social and development priorities",
+        "B": "CHOGM is a military alliance meeting",
+        "C": "CHOGM negotiates trade agreements only",
+        "D": "CHOGM elects the UN Secretary-General"
+      },
+      "correctAnswer": "A",
+      "explanation": "CHOGM brings together leaders of Commonwealth member countries to discuss shared political, economic, social and development priorities. The 2026 meeting is scheduled for 1-4 November in St. John's, Antigua and Barbuda, after the cut-off date.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q111",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Paris Agreement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Paris Agreement?",
+      "options": {
+        "A": "A legally binding international climate treaty adopted at COP21 in Paris in 2015, aiming to hold the increase in global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit it to 1.5°C",
+        "B": "A non-binding political declaration adopted in 2015",
+        "C": "A trade agreement adopted in 2015",
+        "D": "A biodiversity agreement adopted in 1992"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Paris Agreement is a legally binding international climate treaty adopted at COP21 in Paris in 2015. Its central temperature goal is to hold the increase in global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit it to 1.5°C.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q112",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Paris Agreement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Nationally Determined Contributions (NDCs) under the Paris Agreement?",
+      "options": {
+        "A": "National climate action plans communicated by Parties, setting out each country's mitigation and, where relevant, adaptation commitments",
+        "B": "Financial contributions to the UN budget",
+        "C": "Military contributions to peacekeeping missions",
+        "D": "Trade concessions offered to developing countries"
+      },
+      "correctAnswer": "A",
+      "explanation": "NDCs are national climate action plans communicated by Parties. They set out each country's mitigation and, where relevant, adaptation commitments and are updated periodically.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q113",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Biodiversity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Kunming-Montreal Global Biodiversity Framework?",
+      "options": {
+        "A": "The global biodiversity framework adopted at CBD COP15 in December 2022, including 4 goals for 2050 and 23 targets for 2030, including the target to conserve at least 30 per cent of land and sea areas by 2030",
+        "B": "A climate treaty adopted at COP21 in Paris",
+        "C": "A trade agreement on biological resources",
+        "D": "A UN Security Council resolution on biodiversity"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is the global biodiversity framework adopted at CBD COP15 in December 2022. It includes 4 goals for 2050 and 23 targets for 2030, including the target to conserve at least 30 per cent of land and sea areas by 2030.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q114",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "CBD",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Convention on Biological Diversity (CBD)?",
+      "options": {
+        "A": "An international treaty adopted in 1992 with objectives of conservation of biological diversity, sustainable use of its components, and fair and equitable sharing of benefits arising from genetic resources",
+        "B": "A climate treaty adopted in 2015",
+        "C": "A trade agreement adopted in 1994",
+        "D": "A UN General Assembly resolution adopted in 2000"
+      },
+      "correctAnswer": "A",
+      "explanation": "The CBD is an international treaty adopted in 1992. Its objectives are conservation of biological diversity, sustainable use of its components, and fair and equitable sharing of benefits arising from genetic resources.",
+      "source": "International Current Affairs 2026, Page 6"
+    },
+    {
+      "id": "Q115",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "UNCCD",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the UN Convention to Combat Desertification (UNCCD)?",
+      "options": {
+        "A": "A legally binding international agreement linking environment and development to sustainable land management, addressing desertification, land degradation and drought",
+        "B": "A climate treaty adopted in 2015",
+        "C": "A biodiversity treaty adopted in 1992",
+        "D": "A trade agreement on agricultural products"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNCCD is a legally binding international agreement linking environment and development to sustainable land management. It addresses desertification, land degradation and drought.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q116",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Montreal Protocol",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Montreal Protocol?",
+      "options": {
+        "A": "The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987 and controls the production and consumption of ozone-depleting substances",
+        "B": "A climate treaty adopted in 2015",
+        "C": "A biodiversity treaty adopted in 1992",
+        "D": "A trade agreement adopted in 1994"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987 and controls the production and consumption of ozone-depleting substances.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q117",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Kigali Amendment",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Kigali Amendment?",
+      "options": {
+        "A": "The Kigali Amendment to the Montreal Protocol, adopted in 2016, provides for the phasedown of hydrofluorocarbons (HFCs), powerful greenhouse gases",
+        "B": "An amendment to the Paris Agreement on carbon markets",
+        "C": "An amendment to the CBD on genetic resources",
+        "D": "An amendment to the UN Charter on Security Council reform"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kigali Amendment to the Montreal Protocol, adopted in 2016, provides for the phasedown of hydrofluorocarbons (HFCs), powerful greenhouse gases.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q118",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Sendai Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Sendai Framework for Disaster Risk Reduction?",
+      "options": {
+        "A": "The Sendai Framework 2015-2030 is a voluntary, non-binding international framework to prevent new disaster risks and reduce existing risks through four priorities for action",
+        "B": "A legally binding treaty on disaster response",
+        "C": "A UN Security Council resolution on disaster relief",
+        "D": "A trade agreement on disaster insurance"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sendai Framework 2015-2030 is a voluntary, non-binding international framework to prevent new disaster risks and reduce existing risks through four priorities for action.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q119",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Migration Compact",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Global Compact for Safe, Orderly and Regular Migration?",
+      "options": {
+        "A": "A non-legally binding cooperative framework adopted by the UN General Assembly in 2018, setting out 23 objectives to improve migration governance and international cooperation",
+        "B": "A legally binding treaty on migration adopted in 2018",
+        "C": "A UN Security Council resolution on migration",
+        "D": "A trade agreement on labour mobility"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is a non-legally binding cooperative framework adopted by the UN General Assembly in 2018. It sets out 23 objectives to improve migration governance and international cooperation.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q120",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Refugee Compact",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Global Compact on Refugees?",
+      "options": {
+        "A": "A framework adopted by the UN General Assembly in 2018 to improve responsibility-sharing and support for refugees and host countries",
+        "B": "A legally binding treaty on refugee protection adopted in 1951",
+        "C": "A UN Security Council resolution on refugees",
+        "D": "A trade agreement on refugee labour"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is a framework adopted by the UN General Assembly in 2018 to improve responsibility-sharing and support for refugees and host countries.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q121",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "NPT",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Treaty on the Non-Proliferation of Nuclear Weapons (NPT)?",
+      "options": {
+        "A": "The NPT entered into force in 1970 and seeks to prevent the spread of nuclear weapons, promote peaceful uses of nuclear energy and advance nuclear disarmament",
+        "B": "The NPT entered into force in 1996 and prohibits all nuclear explosions",
+        "C": "The NPT entered into force in 2017 and prohibits nuclear weapons",
+        "D": "The NPT entered into force in 1987 and regulates nuclear trade"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NPT entered into force in 1970 and seeks to prevent the spread of nuclear weapons, promote peaceful uses of nuclear energy and advance nuclear disarmament.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q122",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "CTBT",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Comprehensive Nuclear-Test-Ban Treaty (CTBT)?",
+      "options": {
+        "A": "The CTBT prohibits all nuclear explosions, whether for military or civilian purposes, but has not entered into force because the required Annex 2 States have not all ratified it",
+        "B": "The CTBT entered into force in 1996",
+        "C": "The CTBT prohibits only military nuclear explosions",
+        "D": "The CTBT regulates the peaceful use of nuclear energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The CTBT prohibits all nuclear explosions, whether for military or civilian purposes. It has not entered into force because the required Annex 2 States have not all ratified it.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q123",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Arms Trade Treaty",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Arms Trade Treaty (ATT)?",
+      "options": {
+        "A": "The ATT regulates international trade in conventional arms and seeks to prevent and eradicate illicit trade and diversion of conventional weapons",
+        "B": "The ATT prohibits all trade in conventional arms",
+        "C": "The ATT regulates trade in nuclear weapons",
+        "D": "The ATT regulates trade in chemical weapons"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ATT regulates international trade in conventional arms and seeks to prevent and eradicate illicit trade and diversion of conventional weapons.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q124",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Convention against Torture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the UN Convention against Torture adopted and when did it enter into force?",
+      "options": {
+        "A": "Adopted in 1984 and entered into force in 1987",
+        "B": "Adopted in 1948 and entered into force in 1950",
+        "C": "Adopted in 1966 and entered into force in 1976",
+        "D": "Adopted in 1998 and entered into force in 2002"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UN Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment was adopted in 1984 and entered into force in 1987.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q125",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "Rome Statute",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Rome Statute?",
+      "options": {
+        "A": "The Rome Statute is the treaty that established the International Criminal Court, adopted in 1998 and entered into force on 1 July 2002",
+        "B": "The Rome Statute established the International Court of Justice",
+        "C": "The Rome Statute established the World Trade Organization",
+        "D": "The Rome Statute established the European Union"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Rome Statute is the treaty that established the International Criminal Court. It was adopted in 1998 and entered into force on 1 July 2002.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q126",
+      "subject": "Current Affairs",
+      "topic": "International Agreements",
+      "chapter": "UNCLOS",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the United Nations Convention on the Law of the Sea (UNCLOS)?",
+      "options": {
+        "A": "UNCLOS, adopted in 1982 and in force since 1994, establishes the legal framework for oceans, including territorial seas, exclusive economic zones, continental shelves, navigation and marine environmental protection",
+        "B": "UNCLOS, adopted in 1958 and in force since 1960, regulates fishing only",
+        "C": "UNCLOS, adopted in 1994 and in force since 2000, regulates maritime trade only",
+        "D": "UNCLOS, adopted in 1970 and in force since 1982, regulates naval warfare only"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNCLOS, adopted in 1982 and in force since 1994, establishes the legal framework for oceans, including territorial seas, exclusive economic zones, continental shelves, navigation and marine environmental protection.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+        {
+      "id": "Q127",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Russia-Ukraine",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the Russia-Ukraine development reported on 23 October 2026?",
+      "options": {
+        "A": "Russia and Ukraine agreed to a temporary ceasefire in the Russian-occupied town of Oleshky, effective 27 October, to allow humanitarian aid deliveries and civilian evacuations",
+        "B": "Russia and Ukraine signed a comprehensive peace treaty",
+        "C": "Russia and Ukraine agreed to a permanent ceasefire across the entire front line",
+        "D": "Russia and Ukraine agreed to exchange all prisoners of war"
+      },
+      "correctAnswer": "A",
+      "explanation": "Russia and Ukraine agreed to a temporary ceasefire in the Russian-occupied town of Oleshky, effective 27 October, to allow humanitarian aid deliveries and civilian evacuations through safe corridors. The two sides also agreed to resume technical-level peace talks with US participation in Abu Dhabi or Switzerland during the first half of November.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q128",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Russia-Ukraine",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Was the October 2026 Oleshky ceasefire a comprehensive end to the Russia-Ukraine war?",
+      "options": {
+        "A": "Yes, it ended the war permanently",
+        "B": "No, it was a temporary, geographically limited humanitarian ceasefire and did not amount to a comprehensive peace agreement",
+        "C": "Yes, it was a comprehensive peace agreement",
+        "D": "No, it was a full-scale military offensive"
+      },
+      "correctAnswer": "B",
+      "explanation": "It was reported as a temporary, geographically limited humanitarian ceasefire and did not amount to a comprehensive peace agreement or settlement of the war.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q129",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Russia-Ukraine",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the central international-law issue in the Russia-Ukraine war?",
+      "options": {
+        "A": "The conflict raises issues concerning the prohibition on the use of force, territorial integrity, sovereignty, the law of armed conflict, civilian protection, occupation, war crimes accountability and international sanctions",
+        "B": "The conflict raises only trade-related issues",
+        "C": "The conflict raises only environmental issues",
+        "D": "The conflict raises only maritime boundary issues"
+      },
+      "correctAnswer": "A",
+      "explanation": "The conflict raises issues concerning the prohibition on the use of force, territorial integrity, sovereignty, the law of armed conflict, civilian protection, occupation, war crimes accountability and international sanctions.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q130",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between a ceasefire and a peace treaty?",
+      "options": {
+        "A": "A ceasefire is an agreement or arrangement to stop or pause hostilities, often temporarily or in a limited area; a peace treaty is a formal agreement intended to settle a state of war or establish peace terms",
+        "B": "A ceasefire is a formal peace treaty; a peace treaty is a temporary pause in hostilities",
+        "C": "There is no difference between a ceasefire and a peace treaty",
+        "D": "A ceasefire is legally binding; a peace treaty is non-binding"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ceasefire is an agreement or arrangement to stop or pause hostilities, often temporarily or in a limited area. A peace treaty is a formal agreement intended to settle a state of war or establish peace terms.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q131",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Israel-Palestine",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the status of the Israel-Palestine conflict as a current-affairs subject?",
+      "options": {
+        "A": "It remains a major international security and humanitarian issue involving Israel, Palestinians, Gaza, the West Bank, hostages and detainees, civilian protection, humanitarian access, security arrangements and the political status of Palestinian territories",
+        "B": "It was resolved by a final peace agreement in 2026",
+        "C": "It is no longer considered a major international issue",
+        "D": "It is purely a bilateral trade dispute"
+      },
+      "correctAnswer": "A",
+      "explanation": "It remains a major international security and humanitarian issue involving Israel, Palestinians, Gaza, the West Bank, hostages and detainees, civilian protection, humanitarian access, security arrangements and the political status of Palestinian territories.",
+      "source": "International Current Affairs 2026, Page 7"
+    },
+    {
+      "id": "Q132",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "UN Security Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the UN Security Council in conflict situations?",
+      "options": {
+        "A": "The Security Council may call for ceasefires, authorise peacekeeping or other measures, impose sanctions and establish investigative or monitoring mechanisms under the UN Charter",
+        "B": "The Security Council may only issue non-binding recommendations",
+        "C": "The Security Council has no role in conflict situations",
+        "D": "The Security Council may only deploy military forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Security Council may call for ceasefires, authorise peacekeeping or other measures, impose sanctions and establish investigative or monitoring mechanisms under the UN Charter.",
+      "source": "International Current Affairs 2026, Page 7-8"
+    },
+    {
+      "id": "Q133",
+      "subject": "Current Affairs",
+      "topic": "International Conflicts",
+      "chapter": "Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between an interstate war and a civil war?",
+      "options": {
+        "A": "An interstate war is armed conflict between States; a civil war is an armed conflict primarily between organised groups within one State, although foreign States may become involved",
+        "B": "An interstate war is within one State; a civil war is between States",
+        "C": "There is no difference between the two",
+        "D": "An interstate war involves only naval forces; a civil war involves only land forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "An interstate war is armed conflict between States. A civil war is an armed conflict primarily between organised groups within one State, although foreign States may become involved.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q134",
+      "subject": "Current Affairs",
+      "topic": "Refugees and Migration",
+      "chapter": "Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a refugee and an internally displaced person?",
+      "options": {
+        "A": "A refugee has crossed an internationally recognised State border and meets the applicable refugee definition; an internally displaced person has been forced to flee their home but remains within their own country",
+        "B": "A refugee remains within their own country; an internally displaced person crosses an international border",
+        "C": "There is no difference between the two",
+        "D": "A refugee is a migrant worker; an internally displaced person is a stateless person"
+      },
+      "correctAnswer": "A",
+      "explanation": "A refugee has crossed an internationally recognised State border and meets the applicable refugee definition. An internally displaced person has been forced to flee their home but remains within their own country.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q135",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "WIPO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was Daren Tang appointed for a second term as WIPO Director-General and when did his term begin?",
+      "options": {
+        "A": "Appointed on 21 April 2026; second six-year term began on 1 October 2026 and ends on 30 September 2032",
+        "B": "Appointed on 1 October 2026; term began on 21 April 2026",
+        "C": "Appointed on 21 April 2026; term began on 1 January 2026",
+        "D": "Appointed on 1 April 2026; term began on 1 October 2026"
+      },
+      "correctAnswer": "A",
+      "explanation": "WIPO Member States appointed Daren Tang on 21 April 2026; his second six-year term began on 1 October 2026 and ends on 30 September 2032.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q136",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "UN General Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the 81st UN General Assembly?",
+      "options": {
+        "A": "Khalilur Rahman",
+        "B": "Annalena Baerbock",
+        "C": "Antonio Guterres",
+        "D": "Csaba Korosi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Khalilur Rahman was the President of the 81st UN General Assembly.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q137",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "UNESCO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Director-General of UNESCO in 2026?",
+      "options": {
+        "A": "Khaled El-Enany of Egypt",
+        "B": "Audrey Azoulay of France",
+        "C": "Irina Bokova of Bulgaria",
+        "D": "Koichiro Matsuura of Japan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Khaled El-Enany of Egypt took office on 15 November 2025 and continued in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q138",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "World Bank Group",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the World Bank Group in 2026?",
+      "options": {
+        "A": "Ajay Banga",
+        "B": "David Malpass",
+        "C": "Jim Yong Kim",
+        "D": "Robert Zoellick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ajay Banga was the President of the World Bank Group in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q139",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "IMF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Managing Director of the IMF in 2026?",
+      "options": {
+        "A": "Kristalina Georgieva",
+        "B": "Christine Lagarde",
+        "C": "Dominique Strauss-Kahn",
+        "D": "Rodrigo Rato"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kristalina Georgieva was the Managing Director of the IMF in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q140",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "WTO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Director-General of the WTO in 2026?",
+      "options": {
+        "A": "Ngozi Okonjo-Iweala",
+        "B": "Roberto Azevêdo",
+        "C": "Pascal Lamy",
+        "D": "Supachai Panitchpakdi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ngozi Okonjo-Iweala was the Director-General of the WTO in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q141",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "WHO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Director-General of WHO in 2026?",
+      "options": {
+        "A": "Tedros Adhanom Ghebreyesus",
+        "B": "Margaret Chan",
+        "C": "Soumya Swaminathan",
+        "D": "Anthony Fauci"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tedros Adhanom Ghebreyesus was the Director-General of WHO in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+        {
+      "id": "Q142",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "NATO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Secretary-General of NATO in 2026?",
+      "options": {
+        "A": "Mark Rutte",
+        "B": "Jens Stoltenberg",
+        "C": "Anders Fogh Rasmussen",
+        "D": "Jaap de Hoop Scheffer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mark Rutte was the Secretary-General of NATO in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q143",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "European Commission",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the European Commission in 2026?",
+      "options": {
+        "A": "Ursula von der Leyen",
+        "B": "Jean-Claude Juncker",
+        "C": "José Manuel Barroso",
+        "D": "Romano Prodi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ursula von der Leyen was the President of the European Commission in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q144",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "European Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the European Council in 2026?",
+      "options": {
+        "A": "Antonio Costa",
+        "B": "Charles Michel",
+        "C": "Donald Tusk",
+        "D": "Herman Van Rompuy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antonio Costa was the President of the European Council in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q145",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "European Parliament",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the European Parliament in 2026?",
+      "options": {
+        "A": "Roberta Metsola",
+        "B": "David Sassoli",
+        "C": "Antonio Tajani",
+        "D": "Martin Schulz"
+      },
+      "correctAnswer": "A",
+      "explanation": "Roberta Metsola was the President of the European Parliament in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q146",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "France",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of France in 2026?",
+      "options": {
+        "A": "Emmanuel Macron",
+        "B": "François Hollande",
+        "C": "Nicolas Sarkozy",
+        "D": "Jacques Chirac"
+      },
+      "correctAnswer": "A",
+      "explanation": "Emmanuel Macron was the President of France in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+        {
+      "id": "Q147",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "Germany",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was the Chancellor of Germany in 2026?",
+      "options": {
+        "A": "Friedrich Merz",
+        "B": "Olaf Scholz",
+        "C": "Angela Merkel",
+        "D": "Gerhard Schröder"
+      },
+      "correctAnswer": "A",
+      "explanation": "Friedrich Merz was the Chancellor of Germany in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q148",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "United Kingdom",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the Prime Minister of the United Kingdom in 2026?",
+      "options": {
+        "A": "Keir Starmer",
+        "B": "Rishi Sunak",
+        "C": "Liz Truss",
+        "D": "Boris Johnson"
+      },
+      "correctAnswer": "A",
+      "explanation": "Keir Starmer was the Prime Minister of the United Kingdom in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q149",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "United States",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of the United States in 2026?",
+      "options": {
+        "A": "Donald Trump",
+        "B": "Joe Biden",
+        "C": "Barack Obama",
+        "D": "Kamala Harris"
+      },
+      "correctAnswer": "A",
+      "explanation": "Donald Trump was the President of the United States in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    },
+    {
+      "id": "Q150",
+      "subject": "Current Affairs",
+      "topic": "Important International Appointments",
+      "chapter": "Russia",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the President of Russia in 2026?",
+      "options": {
+        "A": "Vladimir Putin",
+        "B": "Dmitry Medvedev",
+        "C": "Boris Yeltsin",
+        "D": "Mikhail Gorbachev"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vladimir Putin was the President of Russia in 2026.",
+      "source": "International Current Affairs 2026, Page 8"
+    }
+]
+}

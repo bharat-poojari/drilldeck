@@ -20,7 +20,9 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
 - Search metadata for Karnataka state exam preparation, creator profile links and structured data, social sharing previews, a branded SVG favicon, Google Search Console verification, robots.txt and XML image sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
-- Automatic global score publishing with email addresses kept private, plus a global top-score list.
+- Four-step test setup with multiple category, dataset and subcategory selection.
+- Automatic global score publishing with email addresses kept private; the global score list shows newest submissions first.
+- Public shared chat messages stored in GitHub-backed JSON, with optional display names.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
 
 ## Run locally
@@ -49,7 +51,7 @@ Then open:
 http://localhost:8000
 ```
 
-No npm packages are required. Account and leaderboard APIs need the Vercel serverless runtime and environment variables described below; a plain static server can run the question practice UI but cannot save accounts or scores.
+No npm packages are required. Account, leaderboard and chat APIs need the Vercel serverless runtime and environment variables described below; a plain static server can run the question practice UI but cannot save accounts, scores or chat messages.
 
 ## Deploy accounts and score sharing to Vercel
 
@@ -67,7 +69,7 @@ No npm packages are required. Account and leaderboard APIs need the Vercel serve
 
 The `drilldeck_*` environment variable names are retained for deployment compatibility; keep using these names when configuring DrillDeck.
 
-4. Redeploy after setting the variables. The first registration or score submission creates `accounts.json` in the private repository.
+4. Redeploy after setting the variables. The first score submission creates `accounts.json`, and the first chat message creates `chat-messages.json`, in the private repository.
 
 Generate a session secret with `node -e "console.log(require('node:crypto').randomBytes(48).toString('base64url'))"`. Never put the GitHub token or session secret in frontend code, `index.html`, or a committed file. If a token is exposed, revoke it and create a replacement.
 
@@ -75,7 +77,7 @@ Account creation and sign-in are optional. Passwords are stored as salted scrypt
 
 If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Password recovery and account deletion are not currently available.
 
-For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. A plain Python/Live Server instance has no `/api` functions, so account and leaderboard requests will report that the service is unavailable.
+For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. A plain Python/Live Server instance has no `/api` functions, so account, leaderboard and chat requests will report that the service is unavailable.
 
 ## Add question datasets
 
@@ -154,7 +156,8 @@ mock-test-platform/
 ├── api/
 │   ├── account.js
 │   ├── history.js
-│   └── leaderboard.js
+│   ├── leaderboard.js
+│   └── chat.js
 ├── lib/server/
 │   ├── accounts.js
 │   ├── github-json.js
@@ -189,7 +192,7 @@ The active test remains in JavaScript memory only. Refreshing, closing the tab, 
 
 GitHub-backed JSON is a lightweight prototype store, not a production database. Each update creates a Git commit, repository history retains previous versions, and GitHub API limits, file growth and concurrent writes can restrict scale. Keep the data repository private, use a narrowly scoped token, and switch to a database with proper retention and deletion controls before handling sensitive data or a large audience. These client-calculated scores are not tamper-proof.
 
-Before opening registration to a large public audience, configure Vercel Firewall or another server-side rate limiter for account and score API routes. This prototype does not have durable rate-limit storage or email verification.
+Before opening registration or public chat to a large audience, configure Vercel Firewall or another server-side rate limiter for account, score and chat API routes. Chat messages are public and have no moderation workflow. This prototype does not have durable rate-limit storage or email verification.
 
 Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The build copies the Google Search Console verification file to the public site root. After deployment, open `https://drilldeck.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://drilldeck.vercel.app/sitemap.xml`.
 

@@ -98,6 +98,70 @@ export async function refreshLeaderboard() {
   }
 }
 
+function renderCommunityMessages(messages) {
+  const container = $("community-messages");
+  if (!messages.length) {
+    container.innerHTML = '<p class="empty-datasets">No messages yet. Start the conversation.</p>';
+    return;
+  }
+  container.innerHTML = messages.map(message => `
+    <article class="community-message">
+      <div class="community-message-heading"><strong>${escapeHtml(message.name)}</strong><time datetime="${escapeHtml(message.createdAt)}">${escapeHtml(new Date(message.createdAt).toLocaleString())}</time></div>
+      <p>${escapeHtml(message.message)}</p>
+    </article>`).join("");
+}
+
+async function refreshCommunityMessages() {
+  const { messages } = await requestJson("/api/chat");
+  renderCommunityMessages(messages);
+}
+
+export function initializeCommunityChat() {
+  const form = $("community-form");
+  form.addEventListener("submit", async event => {
+    event.preventDefault();
+    const submit = form.querySelector('button[type="submit"]');
+    const status = $("community-status");
+    submit.disabled = true;
+    status.textContent = "Sending…";
+    status.classList.remove("error-message");
+    try {
+      await requestJson("/api/chat", {
+        method:"POST",
+        body:JSON.stringify({
+          name:$("community-name").value.trim(),
+          message:$("community-message").value
+        })
+      });
+      $("community-message").value = "";
+      try {
+        await refreshCommunityMessages();
+        status.textContent = "Message shared with everyone.";
+      } catch (error) {
+        status.textContent = `Message sent, but chat could not be refreshed: ${error.message}`;
+        status.classList.add("error-message");
+      }
+    } catch (error) {
+      status.textContent = `Message could not be sent: ${error.message}`;
+      status.classList.add("error-message");
+    } finally {
+      submit.disabled = false;
+    }
+  });
+
+  refreshCommunityMessages().catch(error => {
+    $("community-messages").innerHTML = `<p class="empty-datasets">Community chat is unavailable: ${escapeHtml(error.message)}</p>`;
+  });
+  window.setInterval(() => {
+    if (document.visibilityState === "visible") {
+      refreshCommunityMessages().catch(error => {
+        $("community-status").textContent = `Could not refresh chat: ${error.message}`;
+        $("community-status").classList.add("error-message");
+      });
+    }
+  }, 30000);
+}
+
 function renderAccount() {
   const signedIn = Boolean(currentAccount);
   $("account-open").textContent = signedIn ? currentAccount.name : "Account (optional)";

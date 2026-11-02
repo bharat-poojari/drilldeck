@@ -44,9 +44,9 @@ function validateScore(input) {
 
 function sortScores(scores) {
   return scores.sort((left, right) =>
+    right.createdAt.localeCompare(left.createdAt) ||
     right.scorePercentage - left.scorePercentage ||
-    right.score - left.score ||
-    left.createdAt.localeCompare(right.createdAt)
+    right.score - left.score
   );
 }
 

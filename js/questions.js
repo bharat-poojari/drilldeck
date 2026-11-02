@@ -196,11 +196,14 @@ export function filterQuestions(questions, filters) {
   const selectedCategories = new Set(filters.categories);
   const selectedDatasets = new Set(filters.datasets);
   const selectedTopics = new Set(Array.isArray(filters.topics) ? filters.topics : [filters.topic ?? "all"]);
+  const topicsByDataset = filters.topicsByDataset;
   return questions.filter(question =>
     question.paper === filters.paper &&
     selectedCategories.has(question.subject) &&
     selectedDatasets.has(question.datasetId) &&
-    (selectedTopics.has("all") || selectedTopics.has(question.topic)) &&
+    (topicsByDataset
+      ? Array.isArray(topicsByDataset[question.datasetId]) && topicsByDataset[question.datasetId].includes(question.topic)
+      : selectedTopics.has("all") || selectedTopics.has(question.topic)) &&
     (filters.difficulty === "Mixed" || question.difficulty === filters.difficulty)
   );
 }

@@ -1,0 +1,3571 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank derived from Earth.pdf covering all sections: Origin and Evolution, Theories, Age, Shape and Geoid, Size and Dimensions, Land and Water Distribution, Hemispheres, Important Parallels, Great and Small Circles, Latitude, Longitude, Quick Reference, Exam Traps, and Numerical Facts. Designed for KEA examination preparation.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's position from the Sun?",
+      "options": {
+        "A": "First planet",
+        "B": "Second planet",
+        "C": "Third planet",
+        "D": "Fourth planet"
+      },
+      "correctAnswer": "C",
+      "explanation": "Earth is the third planet from the Sun.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which planet is presently known to support life?",
+      "options": {
+        "A": "Mars",
+        "B": "Venus",
+        "C": "Earth",
+        "D": "Jupiter"
+      },
+      "correctAnswer": "C",
+      "explanation": "Earth is the only planet presently known to support life.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What type of planet is Earth?",
+      "options": {
+        "A": "Gas giant",
+        "B": "Terrestrial (rocky) planet",
+        "C": "Ice giant",
+        "D": "Dwarf planet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth is a terrestrial (rocky) planet with a solid surface.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did Earth begin to form?",
+      "options": {
+        "A": "About 4.54 billion years ago",
+        "B": "About 13.8 billion years ago",
+        "C": "About 3.5 billion years ago",
+        "D": "About 4.6 million years ago"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth began forming about 4.54 billion years ago from material in the early Solar System.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the modern scientific explanation, how did Earth form?",
+      "options": {
+        "A": "By a giant impact with another planet",
+        "B": "By accretion of dust and small rocky and metallic bodies",
+        "C": "By condensation of a passing star's material",
+        "D": "By volcanic eruption from the Sun"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth formed by accretion: dust and small rocky and metallic bodies in the solar nebula collided and gradually combined under gravity.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is accretion in planetary formation?",
+      "options": {
+        "A": "The gradual growth of a body as smaller particles and bodies collide and stick together",
+        "B": "The splitting of a large body into smaller pieces",
+        "C": "The melting of a planet's core",
+        "D": "The evaporation of gases from a planet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accretion is the gradual growth of a body as smaller particles and bodies collide and stick together under gravitational attraction and other physical forces.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the early Earth like?",
+      "options": {
+        "A": "Cold and icy",
+        "B": "Extremely hot with much material molten or partially molten",
+        "C": "Covered entirely by water",
+        "D": "Composed mainly of gases"
+      },
+      "correctAnswer": "B",
+      "explanation": "The early Earth was extremely hot because of accretion impacts, gravitational compression and radioactive decay; much of its material was molten or partially molten.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is planetary differentiation?",
+      "options": {
+        "A": "The process by which dense materials sank towards Earth's centre while lighter materials rose",
+        "B": "The process of continents drifting apart",
+        "C": "The formation of the atmosphere from volcanic gases",
+        "D": "The cooling of Earth's surface to form a crust"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planetary differentiation is the process by which dense materials, especially iron and nickel, sank towards Earth's centre while lighter silicate materials rose, helping form the core, mantle and crust.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q009",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did Earth's early atmosphere develop?",
+      "options": {
+        "A": "Through photosynthesis by plants",
+        "B": "Largely through volcanic outgassing and release of gases from the interior",
+        "C": "By capture of gases from the solar wind",
+        "D": "By condensation of water vapour"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's early atmosphere developed largely through volcanic outgassing and the release of gases from the interior; its composition changed over geological time.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did Earth's oceans form?",
+      "options": {
+        "A": "Water vapour in the atmosphere condensed and contributed to rainfall; water was also supplied by water-bearing materials",
+        "B": "Oceans formed from molten rock directly",
+        "C": "Oceans were created by meteorite impacts only",
+        "D": "Oceans formed from the Sun's heat"
+      },
+      "correctAnswer": "A",
+      "explanation": "As Earth cooled, water vapour in the atmosphere condensed and contributed to rainfall and the formation of early oceans; water was also supplied or supplemented by water-bearing materials delivered during the early history of the Solar System.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate age of the oldest evidence of life on Earth?",
+      "options": {
+        "A": "At least about 3.5 billion years ago",
+        "B": "At least about 4.54 billion years ago",
+        "C": "At least about 2 billion years ago",
+        "D": "At least about 1 billion years ago"
+      },
+      "correctAnswer": "A",
+      "explanation": "Evidence for life dates to at least about 3.5 billion years ago, although the precise timing and interpretation of the earliest evidence remain subjects of scientific research.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q012",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between the origin of Earth and the origin of the universe?",
+      "options": {
+        "A": "They are the same event",
+        "B": "The origin of the universe concerns the beginning and expansion of the universe, while the origin of Earth concerns the later formation of our planet within the Solar System",
+        "C": "The origin of Earth occurred before the origin of the universe",
+        "D": "The origin of the universe concerns only the Solar System"
+      },
+      "correctAnswer": "B",
+      "explanation": "The origin of the universe concerns the beginning and expansion of the universe, while the origin of Earth concerns the later formation of our planet within the Solar System about 4.54 billion years ago.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "Geography",
+      "topic": "Earth: Origin and Evolution",
+      "chapter": "Earth: Origin and Evolution",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the broad sequence of Earth's early formation?",
+      "options": {
+        "A": "Formation of gas-and-dust disk; accretion of planetesimals; growth of proto-Earth; heating and melting; core formation and differentiation; cooling and crust formation; development of oceans and atmosphere; later evolution of continents and life",
+        "B": "Formation of oceans; accretion of planetesimals; core formation; development of atmosphere; evolution of life; formation of continents",
+        "C": "Big Bang; formation of Sun; accretion of Earth; development of atmosphere; formation of oceans; evolution of life",
+        "D": "Core formation; accretion of planetesimals; formation of gas-and-dust disk; cooling and crust formation; development of oceans"
+      },
+      "correctAnswer": "A",
+      "explanation": "A useful simplified sequence is: formation of the Solar System's gas-and-dust disk; accretion of planetesimals; growth of the proto-Earth; heating and melting; core formation and differentiation; cooling and crust formation; development of oceans and atmosphere; and later evolution of continents and life.",
+      "source": "Earth.pdf - Section 1"
+    },
+    {
+      "id": "Q014",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major historical hypotheses traditionally discussed for the origin of the Earth and Solar System?",
+      "options": {
+        "A": "Nebular Hypothesis, Planetesimal Hypothesis and Tidal Hypothesis",
+        "B": "Big Bang Theory, Steady State Theory and Oscillating Universe Theory",
+        "C": "Plate Tectonics, Continental Drift and Seafloor Spreading",
+        "D": "Creationism, Intelligent Design and Evolution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The commonly taught historical hypotheses include the Nebular Hypothesis, Planetesimal Hypothesis and Tidal Hypothesis; modern science explains Solar System formation through a refined solar-nebula and accretion model.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q015",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Nebular Hypothesis?",
+      "options": {
+        "A": "The Sun and planets originated from a rotating cloud of gas and dust that contracted under gravity",
+        "B": "A passing star drew material from the Sun to form planets",
+        "C": "A massive star passed close to the Sun and raised tidal forces",
+        "D": "The universe began from a hot, dense state"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Nebular Hypothesis proposes that the Sun and planets originated from a rotating cloud of gas and dust (a nebula) that contracted under gravity and formed the Solar System.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q016",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who first proposed an early nebular or gaseous hypothesis in 1755?",
+      "options": {
+        "A": "Immanuel Kant",
+        "B": "Pierre-Simon Laplace",
+        "C": "Thomas C. Chamberlin",
+        "D": "James Jeans"
+      },
+      "correctAnswer": "A",
+      "explanation": "The German philosopher Immanuel Kant proposed an early version of the gaseous or nebular hypothesis in 1755.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q017",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who revised the Nebular Hypothesis in 1796?",
+      "options": {
+        "A": "Immanuel Kant",
+        "B": "Pierre-Simon Laplace",
+        "C": "Forest R. Moulton",
+        "D": "Harold Jeffreys"
+      },
+      "correctAnswer": "B",
+      "explanation": "The French mathematician and astronomer Pierre-Simon Laplace revised the nebular hypothesis in 1796.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q018",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What did Laplace's classical Nebular Hypothesis suggest?",
+      "options": {
+        "A": "A rotating, contracting gaseous nebula formed the Sun at its centre and shed rings of material from which planets gradually condensed",
+        "B": "A passing star drew material from the Sun to form planetesimals",
+        "C": "A massive star raised tidal forces that pulled out solar material",
+        "D": "The universe began from a singularity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Laplace proposed that a rotating, contracting gaseous nebula formed the Sun at its centre and shed rings of material from which planets gradually condensed.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q019",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the modern Solar Nebula Theory?",
+      "options": {
+        "A": "The Solar System formed about 4.6 billion years ago when a rotating cloud of gas and dust collapsed under gravity, forming the young Sun and a flattened protoplanetary disk",
+        "B": "The Solar System formed from a passing star's material",
+        "C": "The Solar System formed from tidal forces of a massive star",
+        "D": "The Solar System formed from the Big Bang directly"
+      },
+      "correctAnswer": "A",
+      "explanation": "The modern Solar Nebula Theory states that the Solar System formed about 4.6 billion years ago when a rotating cloud of gas and dust collapsed under gravity, forming the young Sun and a flattened protoplanetary disk from which planets grew by accretion.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q020",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a protoplanetary disk?",
+      "options": {
+        "A": "A rotating disk of gas and dust surrounding a young star, within which planets can form",
+        "B": "A disk of stars around a galaxy",
+        "C": "A ring of asteroids around a planet",
+        "D": "A layer of the Sun's atmosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "A protoplanetary disk is a rotating disk of gas and dust surrounding a young star, within which planets can form.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q021",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Planetesimal Hypothesis?",
+      "options": {
+        "A": "A passing star drew material from the Sun through gravitational attraction; the material cooled into small solid bodies called planetesimals, which later combined to form planets",
+        "B": "A rotating cloud of gas and dust contracted to form the Sun and planets",
+        "C": "A massive star passed close to the Sun and raised tidal forces",
+        "D": "The universe expanded from a hot, dense state"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Planetesimal Hypothesis proposed that a passing star drew material from the Sun through gravitational attraction; the material cooled into small solid bodies called planetesimals, which later combined to form planets.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q022",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed the Planetesimal Hypothesis?",
+      "options": {
+        "A": "Thomas C. Chamberlin and Forest R. Moulton",
+        "B": "Immanuel Kant and Pierre-Simon Laplace",
+        "C": "James Jeans and Harold Jeffreys",
+        "D": "Arno Penzias and Robert Wilson"
+      },
+      "correctAnswer": "A",
+      "explanation": "The American scientists Thomas C. Chamberlin and Forest R. Moulton developed the Planetesimal Hypothesis in the early twentieth century, commonly dated to 1904.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q023",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a planetesimal?",
+      "options": {
+        "A": "A small solid body formed from dust and rock in the early Solar System that can collide and accrete with other bodies to build planets",
+        "B": "A large gaseous planet",
+        "C": "A moon of a planet",
+        "D": "A star in the early universe"
+      },
+      "correctAnswer": "A",
+      "explanation": "A planetesimal is a small solid body formed from dust and rock in the early Solar System that can collide and accrete with other bodies to build planets.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q024",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Tidal Hypothesis?",
+      "options": {
+        "A": "A massive star passed close to the Sun and raised enormous tidal forces that pulled out solar material, which cooled and condensed into bodies that formed planets",
+        "B": "A rotating cloud of gas and dust contracted to form the Sun and planets",
+        "C": "A passing star drew material from the Sun to form planetesimals",
+        "D": "The universe began from a hot, dense state"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tidal Hypothesis proposed that a massive star passed close to the Sun and raised enormous tidal forces that pulled out solar material; this material was thought to cool and condense into bodies that formed planets.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q025",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed the Tidal Hypothesis?",
+      "options": {
+        "A": "James Jeans and Harold Jeffreys",
+        "B": "Thomas C. Chamberlin and Forest R. Moulton",
+        "C": "Immanuel Kant and Pierre-Simon Laplace",
+        "D": "Arno Penzias and Robert Wilson"
+      },
+      "correctAnswer": "A",
+      "explanation": "The British scientists James Jeans and Harold Jeffreys are associated with the Tidal Hypothesis, developed in the early twentieth century; Jeans presented a version in 1917-1919 and Jeffreys later modified and discussed it.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q026",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the main difference between the Planetesimal Hypothesis and the Tidal Hypothesis?",
+      "options": {
+        "A": "The Planetesimal Hypothesis emphasises the formation and accumulation of small solid planetesimals, whereas the Tidal Hypothesis emphasises long streams or filaments of material pulled from the Sun by tidal forces",
+        "B": "The Planetesimal Hypothesis involves a rotating nebula, whereas the Tidal Hypothesis involves a passing star",
+        "C": "The Planetesimal Hypothesis was proposed by Jeans, whereas the Tidal Hypothesis was proposed by Chamberlin",
+        "D": "The Planetesimal Hypothesis explains the origin of the universe, whereas the Tidal Hypothesis explains the origin of Earth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both historical hypotheses involve a close stellar encounter, but the Planetesimal Hypothesis emphasises the formation and accumulation of small solid planetesimals, whereas the Tidal Hypothesis emphasises long streams or filaments of material pulled from the Sun by tidal forces.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q027",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the main limitation of the classical passing-star hypotheses?",
+      "options": {
+        "A": "They do not adequately explain the observed angular-momentum distribution and the physical conditions needed to form the planets",
+        "B": "They cannot explain the existence of the Sun",
+        "C": "They do not account for the age of the universe",
+        "D": "They ignore the role of gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "They do not adequately explain the observed angular-momentum distribution and the physical conditions needed to form the planets; modern observations and models instead support formation within a protoplanetary disk.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q028",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which historical hypothesis is closest in broad outline to the accepted modern explanation?",
+      "options": {
+        "A": "The nebular family of ideas",
+        "B": "The Planetesimal Hypothesis",
+        "C": "The Tidal Hypothesis",
+        "D": "The Big Bang Theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "The nebular family of ideas is closest in broad outline, but the accepted modern explanation is a substantially revised solar-nebula model involving a disk, dust growth, planetesimals and accretion.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q029",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Big Bang Theory?",
+      "options": {
+        "A": "The leading scientific model explaining the evolution of the universe from an extremely hot, dense early state, followed by expansion and cooling",
+        "B": "The theory explaining the formation of Earth from a passing star",
+        "C": "The theory explaining the origin of the Solar System from a nebula",
+        "D": "The theory explaining the formation of continents"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Big Bang Theory is the leading scientific model explaining the evolution of the universe from an extremely hot, dense early state, followed by expansion and cooling.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q030",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Does the Big Bang Theory explain the direct formation of Earth?",
+      "options": {
+        "A": "Yes, it explains Earth's formation directly",
+        "B": "No, it explains the evolution of the universe; Earth formed billions of years later from material in the Solar System",
+        "C": "Yes, it explains both the universe and Earth's formation",
+        "D": "No, it explains only the formation of the Sun"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The Big Bang Theory explains the evolution of the universe. Earth formed billions of years later from material in the Solar System.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q031",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Approximately when did the Big Bang occur?",
+      "options": {
+        "A": "About 13.8 billion years ago",
+        "B": "About 4.54 billion years ago",
+        "C": "About 4.6 billion years ago",
+        "D": "About 3.5 billion years ago"
+      },
+      "correctAnswer": "A",
+      "explanation": "The universe began its expansion about 13.8 billion years ago according to current scientific estimates.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q032",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between the Big Bang and the formation of Earth?",
+      "options": {
+        "A": "The Big Bang produced the early universe; stars later formed and created heavier elements; much later, about 4.54 billion years ago, the Sun and planets formed from a gas-and-dust cloud enriched by earlier generations of stars",
+        "B": "The Big Bang directly created Earth at the same time",
+        "C": "The Big Bang occurred after Earth formed",
+        "D": "The Big Bang created the Sun but not Earth"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Big Bang produced the early universe, while stars later formed and created many heavier elements; much later, about 4.54 billion years ago, the Sun and planets formed from a gas-and-dust cloud enriched by earlier generations of stars.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q033",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between the age of the universe and the age of Earth?",
+      "options": {
+        "A": "The universe is about 13.8 billion years old, whereas Earth is about 4.54 billion years old",
+        "B": "The universe is about 4.54 billion years old, whereas Earth is about 13.8 billion years old",
+        "C": "Both are about 13.8 billion years old",
+        "D": "Both are about 4.54 billion years old"
+      },
+      "correctAnswer": "A",
+      "explanation": "The universe is about 13.8 billion years old, whereas Earth is about 4.54 billion years old.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q034",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the expanding-universe concept?",
+      "options": {
+        "A": "Space itself expands, so on large scales distant galaxies are generally observed to move away from one another",
+        "B": "The universe is static and unchanging",
+        "C": "The universe is contracting towards a single point",
+        "D": "Only the Solar System is expanding"
+      },
+      "correctAnswer": "A",
+      "explanation": "The expanding-universe concept states that space itself expands, so on large scales distant galaxies are generally observed to move away from one another.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q035",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is one major observational evidence supporting the Big Bang model?",
+      "options": {
+        "A": "The cosmic microwave background radiation",
+        "B": "The existence of the Solar System",
+        "C": "The presence of oceans on Earth",
+        "D": "The rotation of the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cosmic microwave background radiation, the redshift of distant galaxies and the observed abundance of light elements are major lines of evidence supporting the Big Bang model.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q036",
+      "subject": "Geography",
+      "topic": "Theories Regarding the Origin of Earth",
+      "chapter": "Theories Regarding the Origin of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who discovered the cosmic microwave background radiation in 1965?",
+      "options": {
+        "A": "Arno Penzias and Robert Wilson",
+        "B": "Immanuel Kant and Pierre-Simon Laplace",
+        "C": "Thomas C. Chamberlin and Forest R. Moulton",
+        "D": "James Jeans and Harold Jeffreys"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arno Penzias and Robert Wilson detected the cosmic microwave background radiation in 1965.",
+      "source": "Earth.pdf - Section 2"
+    },
+    {
+      "id": "Q037",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the accepted scientific age of Earth?",
+      "options": {
+        "A": "Approximately 4.54 billion years old",
+        "B": "Approximately 13.8 billion years old",
+        "C": "Approximately 3.5 billion years old",
+        "D": "Approximately 4.6 million years old"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth is approximately 4.54 billion years old, commonly rounded to 4.6 billion years in school-level textbooks.",
+      "source": "Earth.pdf - Section 3"
+    },
+    {
+      "id": "Q038",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the age of Earth estimated?",
+      "options": {
+        "A": "Mainly through radiometric dating of meteorites and ancient terrestrial and lunar materials",
+        "B": "By counting the number of rock layers",
+        "C": "By measuring the distance from the Sun",
+        "D": "By studying the motion of galaxies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scientists estimate Earth's age mainly through radiometric dating of meteorites and ancient terrestrial and lunar materials, using radioactive isotope decay systems such as uranium-lead dating.",
+      "source": "Earth.pdf - Section 3"
+    },
+    {
+      "id": "Q039",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is radiometric dating?",
+      "options": {
+        "A": "A method of determining the age of rocks or minerals by measuring the proportions of radioactive parent isotopes and their stable daughter products",
+        "B": "A method of measuring the distance to stars",
+        "C": "A method of measuring Earth's gravitational field",
+        "D": "A method of studying seismic waves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Radiometric dating is a method of determining the age of rocks or minerals by measuring the proportions of radioactive parent isotopes and their stable daughter products.",
+      "source": "Earth.pdf - Section 3"
+    },
+        {
+      "id": "Q041",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the exact age of Earth not determined simply by dating its oldest rocks?",
+      "options": {
+        "A": "Earth's earliest crust has largely been recycled or altered by geological processes, so the oldest surviving rocks are younger than the planet itself",
+        "B": "Rocks cannot be dated accurately",
+        "C": "The oldest rocks are on the Moon",
+        "D": "Earth's rocks are all the same age"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's earliest crust has largely been recycled or altered by geological processes, so the oldest surviving rocks are younger than the planet itself.",
+      "source": "Earth.pdf - Section 3"
+    },
+    {
+      "id": "Q042",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate age of the oldest known Earth minerals?",
+      "options": {
+        "A": "About 4.4 billion years old",
+        "B": "About 4.54 billion years old",
+        "C": "About 3.5 billion years old",
+        "D": "About 2 billion years old"
+      },
+      "correctAnswer": "A",
+      "explanation": "Some zircon crystals from Western Australia are about 4.4 billion years old, providing evidence that Earth's crust existed very early in its history.",
+      "source": "Earth.pdf - Section 3"
+    },
+    {
+      "id": "Q043",
+      "subject": "Geography",
+      "topic": "Age of Earth",
+      "chapter": "Age of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does 4.54 billion years mean in millions of years?",
+      "options": {
+        "A": "4,540 million years",
+        "B": "454 million years",
+        "C": "45,400 million years",
+        "D": "4.54 million years"
+      },
+      "correctAnswer": "A",
+      "explanation": "4.54 billion years is equal to 4,540 million years.",
+      "source": "Earth.pdf - Section 3"
+    },
+    {
+      "id": "Q044",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the general shape of Earth?",
+      "options": {
+        "A": "A perfect sphere",
+        "B": "Approximately spherical but slightly flattened at the poles and bulging at the Equator (oblate spheroid)",
+        "C": "A perfect cube",
+        "D": "A flat disk"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth is approximately spherical but is slightly flattened at the poles and bulging at the Equator; its reference geometric shape is commonly described as an oblate spheroid or oblate ellipsoid.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q045",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Earth not a perfect sphere?",
+      "options": {
+        "A": "Earth's rotation produces an equatorial bulge and polar flattening, while variations in topography and the gravity field make its actual figure more irregular",
+        "B": "Earth was formed from a cube-shaped nebula",
+        "C": "The Sun's gravity pulls Earth into an oval shape",
+        "D": "Earth's atmosphere distorts its shape"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's rotation produces an equatorial bulge and polar flattening, while variations in topography and the gravity field make its actual figure more irregular.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q046",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an oblate spheroid?",
+      "options": {
+        "A": "A three-dimensional shape that is flattened at the poles and bulges around the Equator",
+        "B": "A perfect sphere",
+        "C": "A shape that is flattened at the Equator and bulges at the poles",
+        "D": "A two-dimensional circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An oblate spheroid is a three-dimensional shape that is flattened at the poles and bulges around the Equator.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q047",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the equatorial bulge?",
+      "options": {
+        "A": "The greater radius of Earth at the Equator compared with the radius from the centre to either pole, largely associated with Earth's rotation",
+        "B": "The flattening of Earth at the Equator",
+        "C": "The rise of mountains at the Equator",
+        "D": "The expansion of the atmosphere at the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The equatorial bulge is the greater radius of Earth at the Equator compared with the radius from the centre to either pole, largely associated with Earth's rotation.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q048",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is polar flattening?",
+      "options": {
+        "A": "The reduction in Earth's radius at the poles compared with its equatorial radius",
+        "B": "The increase in Earth's radius at the poles",
+        "C": "The flattening of mountains at the poles",
+        "D": "The melting of ice at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polar flattening is the reduction in Earth's radius at the poles compared with its equatorial radius.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q049",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the geoid?",
+      "options": {
+        "A": "An irregular equipotential surface of Earth's gravity field that closely corresponds to mean sea level extended beneath the continents",
+        "B": "A perfect mathematical sphere",
+        "C": "The shape of Earth's solid crust only",
+        "D": "The boundary between Earth's atmosphere and space"
+      },
+      "correctAnswer": "A",
+      "explanation": "The geoid is an irregular equipotential surface of Earth's gravity field that closely corresponds to mean sea level extended beneath the continents; it is used as a physical reference surface for measuring heights.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q050",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the geoid a perfect mathematical shape?",
+      "options": {
+        "A": "Yes, it is a perfect sphere",
+        "B": "No, it is irregular because Earth's gravity field varies from place to place due to differences in mass distribution",
+        "C": "Yes, it is a perfect ellipsoid",
+        "D": "No, it is a flat surface"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The geoid is irregular because Earth's gravity field varies from place to place due to differences in mass distribution inside and on the planet.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q051",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a geoid and an ellipsoid?",
+      "options": {
+        "A": "An ellipsoid is a smooth mathematical reference shape used in geodesy, whereas the geoid is an irregular gravity-based reference surface that approximates mean sea level",
+        "B": "A geoid is a mathematical shape, whereas an ellipsoid is a physical surface",
+        "C": "Both are identical",
+        "D": "An ellipsoid is irregular, whereas a geoid is smooth"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ellipsoid is a smooth mathematical reference shape used in geodesy, whereas the geoid is an irregular gravity-based reference surface that approximates mean sea level.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q052",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is geodesy?",
+      "options": {
+        "A": "The science of measuring and monitoring Earth's shape, size, gravity field and the precise positions of points on its surface",
+        "B": "The study of rocks and minerals",
+        "C": "The study of stars and planets",
+        "D": "The study of oceans"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geodesy is the science of measuring and monitoring Earth's shape, size, gravity field and the precise positions of points on its surface.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q053",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the longest radius of Earth?",
+      "options": {
+        "A": "Equatorial radius",
+        "B": "Polar radius",
+        "C": "Mean radius",
+        "D": "Meridional radius"
+      },
+      "correctAnswer": "A",
+      "explanation": "The equatorial radius is the longest radius, approximately 6,378.137 kilometres.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q054",
+      "subject": "Geography",
+      "topic": "Shape of Earth and the Geoid",
+      "chapter": "Shape of Earth and the Geoid",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the shortest radius of Earth?",
+      "options": {
+        "A": "Equatorial radius",
+        "B": "Polar radius",
+        "C": "Mean radius",
+        "D": "Meridional radius"
+      },
+      "correctAnswer": "B",
+      "explanation": "The polar radius is the shortest radius, approximately 6,356.752 kilometres.",
+      "source": "Earth.pdf - Section 4"
+    },
+    {
+      "id": "Q055",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial diameter?",
+      "options": {
+        "A": "Approximately 12,756 kilometres",
+        "B": "Approximately 12,714 kilometres",
+        "C": "Approximately 12,742 kilometres",
+        "D": "Approximately 6,378 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial diameter is approximately 12,756 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q056",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's polar diameter?",
+      "options": {
+        "A": "Approximately 12,756 kilometres",
+        "B": "Approximately 12,714 kilometres",
+        "C": "Approximately 12,742 kilometres",
+        "D": "Approximately 6,357 kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's polar diameter is approximately 12,714 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q057",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Earth's equatorial diameter greater than its polar diameter?",
+      "options": {
+        "A": "Earth's rotation produces an equatorial bulge, making the equatorial diameter about 42 kilometres greater than the polar diameter",
+        "B": "The Sun's gravity pulls Earth into an oval shape",
+        "C": "The Moon's gravity distorts Earth's shape",
+        "D": "Earth's atmosphere adds to the equatorial diameter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's rotation produces an equatorial bulge, making the equatorial diameter about 42 kilometres greater than the polar diameter.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q058",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's mean diameter approximately?",
+      "options": {
+        "A": "Approximately 12,742 kilometres",
+        "B": "Approximately 12,756 kilometres",
+        "C": "Approximately 12,714 kilometres",
+        "D": "Approximately 6,371 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's mean diameter is approximately 12,742 kilometres; rounded school references may give about 12,700 or 12,750 kilometres depending on the convention used.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q059",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial radius?",
+      "options": {
+        "A": "Approximately 6,378.137 kilometres",
+        "B": "Approximately 6,356.752 kilometres",
+        "C": "Approximately 6,371 kilometres",
+        "D": "Approximately 12,756 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial radius is approximately 6,378.137 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q060",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's polar radius?",
+      "options": {
+        "A": "Approximately 6,378.137 kilometres",
+        "B": "Approximately 6,356.752 kilometres",
+        "C": "Approximately 6,371 kilometres",
+        "D": "Approximately 12,714 kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's polar radius is approximately 6,356.752 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q061",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's mean radius approximately?",
+      "options": {
+        "A": "Approximately 6,371 kilometres",
+        "B": "Approximately 6,378 kilometres",
+        "C": "Approximately 6,357 kilometres",
+        "D": "Approximately 12,742 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's mean radius is approximately 6,371 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q062",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial circumference?",
+      "options": {
+        "A": "Approximately 40,075 kilometres",
+        "B": "Approximately 40,008 kilometres",
+        "C": "Approximately 510.1 million kilometres",
+        "D": "Approximately 12,756 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial circumference is approximately 40,075 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q063",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's meridional or polar circumference approximately?",
+      "options": {
+        "A": "Approximately 40,075 kilometres",
+        "B": "Approximately 40,008 kilometres",
+        "C": "Approximately 510.1 million kilometres",
+        "D": "Approximately 12,714 kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "The circumference measured around Earth through the poles is approximately 40,008 kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q064",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the total surface area of Earth?",
+      "options": {
+        "A": "Approximately 510.1 million square kilometres",
+        "B": "Approximately 361.9 million square kilometres",
+        "C": "Approximately 148.9 million square kilometres",
+        "D": "Approximately 40,075 square kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's total surface area is approximately 510.1 million square kilometres.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q065",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the approximate area of Earth's water-covered surface?",
+      "options": {
+        "A": "Approximately 361.9 million square kilometres",
+        "B": "Approximately 510.1 million square kilometres",
+        "C": "Approximately 148.9 million square kilometres",
+        "D": "Approximately 40,075 square kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water covers approximately 361.9 million square kilometres, or about 70.9 per cent of Earth's surface.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q066",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the approximate area of Earth's land surface?",
+      "options": {
+        "A": "Approximately 148.9 million square kilometres",
+        "B": "Approximately 361.9 million square kilometres",
+        "C": "Approximately 510.1 million square kilometres",
+        "D": "Approximately 40,008 square kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Land covers approximately 148.9 million square kilometres, or about 29.1 per cent of Earth's surface.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q067",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between diameter and circumference?",
+      "options": {
+        "A": "Diameter is the straight-line distance through the centre from one side of a circle or sphere to the other, while circumference is the distance measured around the circle",
+        "B": "Diameter is the distance around the circle, while circumference is the distance through the centre",
+        "C": "They are the same measurement",
+        "D": "Diameter applies only to spheres, while circumference applies only to circles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diameter is the straight-line distance through the centre from one side of a circle or sphere to the other, while circumference is the distance measured around the circle.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q068",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the approximate mathematical relationship between a circle's circumference and diameter?",
+      "options": {
+        "A": "The circumference is π times its diameter; π is approximately 3.14159",
+        "B": "The circumference is twice its diameter",
+        "C": "The circumference is half its diameter",
+        "D": "The circumference is equal to its diameter"
+      },
+      "correctAnswer": "A",
+      "explanation": "The circumference of a circle is π times its diameter; π is approximately 3.14159.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q069",
+      "subject": "Geography",
+      "topic": "Size, Dimensions and Surface Area of Earth",
+      "chapter": "Size, Dimensions and Surface Area of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is greater, Earth's equatorial circumference or polar circumference?",
+      "options": {
+        "A": "Equatorial circumference",
+        "B": "Polar circumference",
+        "C": "They are equal",
+        "D": "It varies by season"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial circumference is greater because the equatorial radius is larger than the polar radius.",
+      "source": "Earth.pdf - Section 5"
+    },
+    {
+      "id": "Q070",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What percentage of Earth's surface is covered by water?",
+      "options": {
+        "A": "Approximately 71 per cent",
+        "B": "Approximately 29 per cent",
+        "C": "Approximately 50 per cent",
+        "D": "Approximately 90 per cent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approximately 71 per cent of Earth's surface is covered by water.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q071",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What percentage of Earth's surface is covered by land?",
+      "options": {
+        "A": "Approximately 29 per cent",
+        "B": "Approximately 71 per cent",
+        "C": "Approximately 50 per cent",
+        "D": "Approximately 10 per cent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approximately 29 per cent of Earth's surface is covered by land.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q072",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is Earth called the Blue Planet?",
+      "options": {
+        "A": "Because oceans and other water bodies cover about 71 per cent of its surface and make it appear predominantly blue from space",
+        "B": "Because its atmosphere is blue",
+        "C": "Because its land is blue",
+        "D": "Because it reflects blue light from the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth is called the Blue Planet because oceans and other water bodies cover about 71 per cent of its surface and make it appear predominantly blue from space.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q073",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest ocean on Earth?",
+      "options": {
+        "A": "Pacific Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Indian Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q074",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the smallest ocean on Earth?",
+      "options": {
+        "A": "Arctic Ocean",
+        "B": "Indian Ocean",
+        "C": "Atlantic Ocean",
+        "D": "Southern Ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Ocean is the smallest of the five recognised oceans.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q075",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest continent by area?",
+      "options": {
+        "A": "Asia",
+        "B": "Africa",
+        "C": "North America",
+        "D": "Europe"
+      },
+      "correctAnswer": "A",
+      "explanation": "Asia is the largest continent by area.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q076",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the smallest continent by area under the seven-continent model?",
+      "options": {
+        "A": "Australia",
+        "B": "Europe",
+        "C": "Antarctica",
+        "D": "South America"
+      },
+      "correctAnswer": "A",
+      "explanation": "Australia is the smallest continent under the commonly used seven-continent model.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q077",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is most of Earth's water fresh water?",
+      "options": {
+        "A": "No, about 97 per cent of Earth's water is saline and only about 3 per cent is freshwater",
+        "B": "Yes, about 97 per cent is freshwater",
+        "C": "Yes, all of Earth's water is fresh",
+        "D": "No, all of Earth's water is saline"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. About 97 per cent of Earth's water is saline, mainly in oceans, and only about 3 per cent is freshwater; much of the freshwater is stored in glaciers, ice caps and groundwater.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q078",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the water hemisphere?",
+      "options": {
+        "A": "The half of Earth centred approximately in the South Pacific in which the greatest possible proportion of the surface is water",
+        "B": "The half of Earth centred near western Europe",
+        "C": "The Northern Hemisphere",
+        "D": "The Southern Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The water hemisphere is the half of Earth centred approximately in the South Pacific in which the greatest possible proportion of the surface is water; it is not an official latitude-longitude hemisphere.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q079",
+      "subject": "Geography",
+      "topic": "Land and Water Distribution",
+      "chapter": "Land and Water Distribution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the land hemisphere?",
+      "options": {
+        "A": "The half of Earth centred approximately near western Europe in which the greatest possible proportion of land is concentrated",
+        "B": "The half of Earth centred in the South Pacific",
+        "C": "The Southern Hemisphere",
+        "D": "The Eastern Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The land hemisphere is the half of Earth centred approximately near western Europe in which the greatest possible proportion of land is concentrated; it is not identical to the Northern Hemisphere.",
+      "source": "Earth.pdf - Section 6"
+    },
+    {
+      "id": "Q080",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a hemisphere?",
+      "options": {
+        "A": "One half of a sphere or globe",
+        "B": "A quarter of a sphere",
+        "C": "The entire sphere",
+        "D": "A flat circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hemisphere is one half of a sphere or globe.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q081",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What divides Earth into the Northern and Southern Hemispheres?",
+      "options": {
+        "A": "The Equator at 0° latitude",
+        "B": "The Prime Meridian at 0° longitude",
+        "C": "The 180° meridian",
+        "D": "The Tropic of Cancer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator at 0° latitude divides Earth into the Northern and Southern Hemispheres.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q082",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Northern Hemisphere?",
+      "options": {
+        "A": "The half of Earth located north of the Equator, extending from 0° to 90° N",
+        "B": "The half of Earth located south of the Equator",
+        "C": "The half of Earth between 0° and 180° east longitude",
+        "D": "The half of Earth between 0° and 180° west longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Northern Hemisphere is the half of Earth located north of the Equator, extending from 0° to 90° N.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q083",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Southern Hemisphere?",
+      "options": {
+        "A": "The half of Earth located south of the Equator, extending from 0° to 90° S",
+        "B": "The half of Earth located north of the Equator",
+        "C": "The half of Earth between 0° and 180° east longitude",
+        "D": "The half of Earth between 0° and 180° west longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Southern Hemisphere is the half of Earth located south of the Equator, extending from 0° to 90° S.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q084",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere contains the greater proportion of Earth's land area?",
+      "options": {
+        "A": "Northern Hemisphere",
+        "B": "Southern Hemisphere",
+        "C": "Eastern Hemisphere",
+        "D": "Western Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Northern Hemisphere contains a greater proportion of Earth's land area than the Southern Hemisphere.",
+      "source": "Earth.pdf - Section 7"
+    },
+        {
+      "id": "Q086",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere contains most of Earth's ocean area?",
+      "options": {
+        "A": "Southern Hemisphere",
+        "B": "Northern Hemisphere",
+        "C": "Eastern Hemisphere",
+        "D": "Western Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Southern Hemisphere contains a greater proportion of Earth's ocean area than the Northern Hemisphere.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q087",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major continents lie wholly in the Northern Hemisphere?",
+      "options": {
+        "A": "Europe and North America",
+        "B": "Africa and South America",
+        "C": "Australia and Antarctica",
+        "D": "Asia and Africa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Europe and North America lie wholly in the Northern Hemisphere; Asia is also wholly north of the Equator, while Africa and South America extend across the Equator.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q088",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continent lies wholly in the Southern Hemisphere?",
+      "options": {
+        "A": "Antarctica",
+        "B": "Europe",
+        "C": "North America",
+        "D": "Asia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antarctica lies wholly in the Southern Hemisphere; Australia also lies wholly in the Southern Hemisphere.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q089",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What divides Earth into the Eastern and Western Hemispheres in the conventional system?",
+      "options": {
+        "A": "The Prime Meridian at 0° longitude and the 180° meridian, taken together",
+        "B": "The Equator",
+        "C": "The Tropic of Cancer",
+        "D": "The Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Prime Meridian at 0° longitude and the 180° meridian, taken together, form the conventional division between the Eastern and Western Hemispheres.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q090",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Eastern Hemisphere in the conventional division?",
+      "options": {
+        "A": "The half of Earth between 0° longitude and 180° east longitude",
+        "B": "The half of Earth between 0° longitude and 180° west longitude",
+        "C": "The half of Earth north of the Equator",
+        "D": "The half of Earth south of the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the conventional division, the Eastern Hemisphere is the half of Earth between 0° longitude and 180° east longitude.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q091",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Western Hemisphere in the conventional division?",
+      "options": {
+        "A": "The half of Earth between 0° longitude and 180° west longitude",
+        "B": "The half of Earth between 0° longitude and 180° east longitude",
+        "C": "The half of Earth north of the Equator",
+        "D": "The half of Earth south of the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the conventional division, the Western Hemisphere is the half of Earth between 0° longitude and 180° west longitude.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q092",
+      "subject": "Geography",
+      "topic": "Hemispheres of Earth",
+      "chapter": "Hemispheres of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Is the Eastern-Western Hemisphere division uniquely fixed by nature?",
+      "options": {
+        "A": "No, unlike the Equator-based Northern and Southern division, the choice of the 0° and 180° meridians as the boundary is a conventional geographic reference",
+        "B": "Yes, it is fixed by Earth's rotation",
+        "C": "Yes, it is determined by the Sun's position",
+        "D": "No, it is determined by the Moon's orbit"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. Unlike the Equator-based Northern and Southern division, the choice of the 0° and 180° meridians as the boundary is a conventional geographic reference.",
+      "source": "Earth.pdf - Section 7"
+    },
+    {
+      "id": "Q093",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Equator?",
+      "options": {
+        "A": "The imaginary great circle at 0° latitude, equidistant from the North and South Poles, that divides Earth into the Northern and Southern Hemispheres",
+        "B": "The line at 23.5° N latitude",
+        "C": "The line at 66.5° N latitude",
+        "D": "The line at 0° longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is the imaginary great circle at 0° latitude, equidistant from the North and South Poles, that divides Earth into the Northern and Southern Hemispheres.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q094",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the Equator?",
+      "options": {
+        "A": "0°",
+        "B": "23.5° N",
+        "C": "66.5° N",
+        "D": "90° N"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is located at 0° latitude.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q095",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Tropic of Cancer?",
+      "options": {
+        "A": "The important parallel located approximately 23.5° north of the Equator; the overhead Sun reaches this latitude around the June solstice",
+        "B": "The important parallel located approximately 23.5° south of the Equator",
+        "C": "The important parallel located approximately 66.5° north of the Equator",
+        "D": "The important parallel located at 0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer is the important parallel located approximately 23.5° north of the Equator; the overhead Sun reaches this latitude around the June solstice.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q096",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the Tropic of Cancer?",
+      "options": {
+        "A": "Approximately 23°26' N, commonly rounded to 23.5° N",
+        "B": "Approximately 23°26' S, commonly rounded to 23.5° S",
+        "C": "Approximately 66°34' N, commonly rounded to 66.5° N",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer is approximately 23°26' N, commonly rounded to 23.5° N.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q097",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Tropic of Capricorn?",
+      "options": {
+        "A": "The important parallel located approximately 23.5° south of the Equator; the overhead Sun reaches this latitude around the December solstice",
+        "B": "The important parallel located approximately 23.5° north of the Equator",
+        "C": "The important parallel located approximately 66.5° south of the Equator",
+        "D": "The important parallel located at 0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn is the important parallel located approximately 23.5° south of the Equator; the overhead Sun reaches this latitude around the December solstice.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q098",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the Tropic of Capricorn?",
+      "options": {
+        "A": "Approximately 23°26' S, commonly rounded to 23.5° S",
+        "B": "Approximately 23°26' N, commonly rounded to 23.5° N",
+        "C": "Approximately 66°34' S, commonly rounded to 66.5° S",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn is approximately 23°26' S, commonly rounded to 23.5° S.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q099",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Arctic Circle?",
+      "options": {
+        "A": "The important parallel located approximately 66.5° north of the Equator and marks the southern limit of the Arctic polar day and polar night phenomena",
+        "B": "The important parallel located approximately 66.5° south of the Equator",
+        "C": "The important parallel located approximately 23.5° north of the Equator",
+        "D": "The important parallel located at 0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Circle is the important parallel located approximately 66.5° north of the Equator and marks the southern limit of the Arctic polar day and polar night phenomena.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q100",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the Arctic Circle?",
+      "options": {
+        "A": "Approximately 66°34' N, commonly rounded to 66.5° N",
+        "B": "Approximately 66°34' S, commonly rounded to 66.5° S",
+        "C": "Approximately 23°26' N, commonly rounded to 23.5° N",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Circle is approximately 66°34' N, commonly rounded to 66.5° N.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q101",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Antarctic Circle?",
+      "options": {
+        "A": "The important parallel located approximately 66.5° south of the Equator and marks the northern limit of the Antarctic polar day and polar night phenomena",
+        "B": "The important parallel located approximately 66.5° north of the Equator",
+        "C": "The important parallel located approximately 23.5° south of the Equator",
+        "D": "The important parallel located at 0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Antarctic Circle is the important parallel located approximately 66.5° south of the Equator and marks the northern limit of the Antarctic polar day and polar night phenomena.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q102",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the Antarctic Circle?",
+      "options": {
+        "A": "Approximately 66°34' S, commonly rounded to 66.5° S",
+        "B": "Approximately 66°34' N, commonly rounded to 66.5° N",
+        "C": "Approximately 23°26' S, commonly rounded to 23.5° S",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Antarctic Circle is approximately 66°34' S, commonly rounded to 66.5° S.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q103",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the North Pole?",
+      "options": {
+        "A": "90° N",
+        "B": "90° S",
+        "C": "0°",
+        "D": "66.5° N"
+      },
+      "correctAnswer": "A",
+      "explanation": "The North Pole is located at 90° N latitude.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q104",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the latitude of the South Pole?",
+      "options": {
+        "A": "90° S",
+        "B": "90° N",
+        "C": "0°",
+        "D": "66.5° S"
+      },
+      "correctAnswer": "A",
+      "explanation": "The South Pole is located at 90° S latitude.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q105",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which five major parallels are most commonly identified on a globe?",
+      "options": {
+        "A": "Arctic Circle (66.5° N), Tropic of Cancer (23.5° N), Equator (0°), Tropic of Capricorn (23.5° S) and Antarctic Circle (66.5° S)",
+        "B": "Prime Meridian (0°), 180° meridian, Arctic Circle, Tropic of Cancer, Tropic of Capricorn",
+        "C": "North Pole (90° N), Arctic Circle (66.5° N), Equator (0°), Antarctic Circle (66.5° S), South Pole (90° S)",
+        "D": "Tropic of Cancer (23.5° N), Equator (0°), Tropic of Capricorn (23.5° S), Prime Meridian (0°), 180° meridian"
+      },
+      "correctAnswer": "A",
+      "explanation": "The five major parallels are the Arctic Circle (66.5° N), Tropic of Cancer (23.5° N), Equator (0°), Tropic of Capricorn (23.5° S) and Antarctic Circle (66.5° S).",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q106",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which parallel is the longest on Earth?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Tropic of Cancer",
+        "C": "The Arctic Circle",
+        "D": "The Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is the longest parallel of latitude and is the only parallel that is a great circle.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q107",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which parallel receives the overhead Sun around 21 June?",
+      "options": {
+        "A": "The Tropic of Cancer",
+        "B": "The Tropic of Capricorn",
+        "C": "The Equator",
+        "D": "The Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer receives the overhead midday Sun around the June solstice, usually on or about 21 June.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q108",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which parallel receives the overhead Sun around 22 December?",
+      "options": {
+        "A": "The Tropic of Capricorn",
+        "B": "The Tropic of Cancer",
+        "C": "The Equator",
+        "D": "The Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn receives the overhead midday Sun around the December solstice, usually on or about 21 or 22 December.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q109",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Arctic and Antarctic Circles?",
+      "options": {
+        "A": "They mark the approximate boundaries poleward of which at least one day each year can have continuous daylight and at least one day can have continuous darkness, due to Earth's axial tilt",
+        "B": "They mark the boundaries of the Tropics",
+        "C": "They mark the Equator",
+        "D": "They mark the Prime Meridian"
+      },
+      "correctAnswer": "A",
+      "explanation": "They mark the approximate boundaries poleward of which at least one day each year can have continuous daylight and at least one day can have continuous darkness, due to Earth's axial tilt.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q110",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Torrid Zone?",
+      "options": {
+        "A": "The region between the Tropic of Cancer and the Tropic of Capricorn, where the Sun can be directly overhead at noon at least once during the year",
+        "B": "The region between the Arctic Circle and the North Pole",
+        "C": "The region between the Antarctic Circle and the South Pole",
+        "D": "The region between the Tropic of Cancer and the Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Torrid Zone is the region between the Tropic of Cancer and the Tropic of Capricorn, where the Sun can be directly overhead at noon at least once during the year.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q111",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Temperate Zones?",
+      "options": {
+        "A": "The zones that lie between the tropics and the polar circles in each hemisphere",
+        "B": "The zones between the Arctic and Antarctic Circles",
+        "C": "The zones between the Tropic of Cancer and the Tropic of Capricorn",
+        "D": "The zones poleward of the polar circles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Temperate Zones lie between the tropics and the polar circles in each hemisphere.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q112",
+      "subject": "Geography",
+      "topic": "Important Parallels of Latitude",
+      "chapter": "Important Parallels of Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Frigid Zones?",
+      "options": {
+        "A": "The zones that lie between the Arctic Circle and the North Pole in the north, and between the Antarctic Circle and the South Pole in the south",
+        "B": "The zones between the Tropics",
+        "C": "The zones between the Tropics and the polar circles",
+        "D": "The zones around the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Frigid Zones lie between the Arctic Circle and the North Pole in the north, and between the Antarctic Circle and the South Pole in the south.",
+      "source": "Earth.pdf - Section 8"
+    },
+    {
+      "id": "Q113",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a great circle?",
+      "options": {
+        "A": "A circle on a sphere whose plane passes through the centre of the sphere, dividing it into two equal hemispheres",
+        "B": "A circle on a sphere whose plane does not pass through the centre",
+        "C": "A circle that is parallel to the Equator",
+        "D": "A circle that passes through the poles only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A great circle is a circle on a sphere whose plane passes through the centre of the sphere, dividing it into two equal hemispheres.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q114",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the most important example of a great circle on Earth?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Tropic of Cancer",
+        "C": "The Arctic Circle",
+        "D": "The Prime Meridian alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is the most important parallel that is a great circle; every complete meridian paired with its opposite meridian also forms a great circle.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q115",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a small circle?",
+      "options": {
+        "A": "A circle on a sphere whose plane does not pass through the centre and which divides the sphere into two unequal parts",
+        "B": "A circle on a sphere whose plane passes through the centre",
+        "C": "A circle that divides the sphere into two equal hemispheres",
+        "D": "A circle that passes through both poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "A small circle is a circle on a sphere whose plane does not pass through the centre and which divides the sphere into two unequal parts.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q116",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are all parallels of latitude great circles?",
+      "options": {
+        "A": "No, the Equator is the only parallel of latitude that is a great circle; all other parallels are small circles",
+        "B": "Yes, all parallels are great circles",
+        "C": "No, all parallels are small circles",
+        "D": "Yes, except the Tropics"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. The Equator is the only parallel of latitude that is a great circle; all other parallels are small circles.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q117",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are meridians of longitude great circles?",
+      "options": {
+        "A": "A single meridian is a semicircle from pole to pole; a meridian and its opposite meridian together form a great circle",
+        "B": "Yes, every single meridian is a great circle",
+        "C": "No, meridians are small circles",
+        "D": "Only the Prime Meridian is a great circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "A single meridian is a semicircle from pole to pole; a meridian and its opposite meridian together form a great circle.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q118",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are great circles important in navigation?",
+      "options": {
+        "A": "The shortest route between two points on a sphere, measured along the surface, follows an arc of a great circle, which is why great-circle routes are important in long-distance navigation and aviation",
+        "B": "They are the only circles that appear on maps",
+        "C": "They are easier to draw than small circles",
+        "D": "They divide Earth into equal hemispheres"
+      },
+      "correctAnswer": "A",
+      "explanation": "The shortest route between two points on a sphere, measured along the surface, follows an arc of a great circle, which is why great-circle routes are important in long-distance navigation and aviation.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q119",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a meridian?",
+      "options": {
+        "A": "A line of longitude running from the North Pole to the South Pole",
+        "B": "A line of latitude running east-west",
+        "C": "A circle parallel to the Equator",
+        "D": "A line that divides Earth into Northern and Southern Hemispheres"
+      },
+      "correctAnswer": "A",
+      "explanation": "A meridian is a line of longitude running from the North Pole to the South Pole.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q120",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a parallel?",
+      "options": {
+        "A": "A circle of latitude running east-west and joining all places that have the same latitude",
+        "B": "A line of longitude running north-south",
+        "C": "A line that passes through the poles",
+        "D": "A line that divides Earth into Eastern and Western Hemispheres"
+      },
+      "correctAnswer": "A",
+      "explanation": "A parallel is a circle of latitude running east-west and joining all places that have the same latitude.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q121",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Do meridians meet?",
+      "options": {
+        "A": "Yes, all meridians converge at the North Pole and South Pole",
+        "B": "No, they never meet",
+        "C": "Yes, they meet at the Equator",
+        "D": "Only some meridians meet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yes. All meridians converge at the North Pole and South Pole.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q122",
+      "subject": "Geography",
+      "topic": "Great Circles and Small Circles",
+      "chapter": "Great Circles and Small Circles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Do parallels meet?",
+      "options": {
+        "A": "No, parallels of latitude remain parallel to one another and do not meet, except that they shrink to points at the poles",
+        "B": "Yes, they meet at the poles",
+        "C": "Yes, they meet at the Equator",
+        "D": "Yes, they meet at the Prime Meridian"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. Parallels of latitude remain parallel to one another and do not meet, except that they shrink to points at the poles.",
+      "source": "Earth.pdf - Section 9"
+    },
+    {
+      "id": "Q123",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is latitude?",
+      "options": {
+        "A": "The angular distance of a place north or south of the Equator, measured at the centre of Earth along a meridian",
+        "B": "The angular distance of a place east or west of the Prime Meridian",
+        "C": "The distance around Earth's circumference",
+        "D": "The height of a place above sea level"
+      },
+      "correctAnswer": "A",
+      "explanation": "Latitude is the angular distance of a place north or south of the Equator, measured at the centre of Earth along a meridian.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q124",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the range of latitude?",
+      "options": {
+        "A": "From 0° at the Equator to 90° N at the North Pole and 90° S at the South Pole",
+        "B": "From 0° to 180° east and west",
+        "C": "From 0° to 360°",
+        "D": "From 23.5° N to 23.5° S"
+      },
+      "correctAnswer": "A",
+      "explanation": "Latitude ranges from 0° at the Equator to 90° N at the North Pole and 90° S at the South Pole.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q125",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which units is latitude measured?",
+      "options": {
+        "A": "Degrees (°), minutes (') and seconds (\"), or in decimal degrees",
+        "B": "Metres and kilometres only",
+        "C": "Hours and minutes",
+        "D": "Radians only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Latitude is measured in degrees (°), minutes (') and seconds (\"), or in decimal degrees.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q126",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many degrees are there in a full circle of latitude measurement?",
+      "options": {
+        "A": "The angular measurement from the South Pole to the North Pole along a meridian is 180 degrees, comprising 90° north and 90° south of the Equator",
+        "B": "360 degrees",
+        "C": "90 degrees",
+        "D": "270 degrees"
+      },
+      "correctAnswer": "A",
+      "explanation": "The angular measurement from the South Pole to the North Pole along a meridian is 180 degrees, comprising 90° north and 90° south of the Equator.",
+      "source": "Earth.pdf - Section 10"
+    },
+        {
+      "id": "Q128",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate ground distance represented by one degree of latitude?",
+      "options": {
+        "A": "Approximately 111 kilometres",
+        "B": "Approximately 1.85 kilometres",
+        "C": "Approximately 31 metres",
+        "D": "Approximately 4 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "One degree of latitude is approximately 111 kilometres, although the exact distance varies slightly with latitude because Earth is not a perfect sphere.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q129",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate ground distance represented by one minute of latitude?",
+      "options": {
+        "A": "Approximately 1.85 kilometres, close to one nautical mile",
+        "B": "Approximately 111 kilometres",
+        "C": "Approximately 31 metres",
+        "D": "Approximately 4 kilometres"
+      },
+      "correctAnswer": "A",
+      "explanation": "One minute of latitude is approximately 1.85 kilometres, close to one nautical mile.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q130",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate ground distance represented by one second of latitude?",
+      "options": {
+        "A": "Approximately 31 metres",
+        "B": "Approximately 1.85 kilometres",
+        "C": "Approximately 111 kilometres",
+        "D": "Approximately 4 metres"
+      },
+      "correctAnswer": "A",
+      "explanation": "One second of latitude is approximately 31 metres.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q131",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the distance between adjacent parallels of latitude vary greatly?",
+      "options": {
+        "A": "No, the north-south ground distance between one-degree parallels is nearly constant, at about 111 kilometres, with small variations due to Earth's shape",
+        "B": "Yes, it varies from 0 to 111 kilometres",
+        "C": "Yes, it doubles towards the poles",
+        "D": "Yes, it is greatest at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The north-south ground distance between one-degree parallels is nearly constant, at about 111 kilometres, with small variations due to Earth's shape.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q132",
+      "subject": "Geography",
+      "topic": "Latitude",
+      "chapter": "Latitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of latitude?",
+      "options": {
+        "A": "Latitude helps locate places north or south of the Equator and influences solar angle, day length, temperature patterns and broad climatic zones",
+        "B": "Latitude helps determine time zones",
+        "C": "Latitude determines the length of a year",
+        "D": "Latitude determines the shape of Earth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Latitude helps locate places north or south of the Equator and influences solar angle, day length, temperature patterns and broad climatic zones.",
+      "source": "Earth.pdf - Section 10"
+    },
+    {
+      "id": "Q133",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is longitude?",
+      "options": {
+        "A": "The angular distance of a place east or west of the Prime Meridian, measured in degrees along the Equator or an equivalent reference plane",
+        "B": "The angular distance of a place north or south of the Equator",
+        "C": "The height of a place above sea level",
+        "D": "The distance around Earth's circumference"
+      },
+      "correctAnswer": "A",
+      "explanation": "Longitude is the angular distance of a place east or west of the Prime Meridian, measured in degrees along the Equator or an equivalent reference plane.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q134",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Prime Meridian?",
+      "options": {
+        "A": "The reference meridian at 0° longitude, passing through Greenwich in London, United Kingdom",
+        "B": "The meridian at 180° longitude",
+        "C": "The Equator",
+        "D": "The International Date Line"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Prime Meridian is the reference meridian at 0° longitude, passing through Greenwich in London, United Kingdom.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q135",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the range of longitude?",
+      "options": {
+        "A": "Longitude is measured from 0° to 180° east and from 0° to 180° west of the Prime Meridian",
+        "B": "From 0° to 90° north and south",
+        "C": "From 0° to 360° east",
+        "D": "From 0° to 180° north and south"
+      },
+      "correctAnswer": "A",
+      "explanation": "Longitude is measured from 0° to 180° east and from 0° to 180° west of the Prime Meridian.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q136",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the 180° meridian?",
+      "options": {
+        "A": "The meridian opposite the Prime Meridian and forms the other half of the great circle through the 0° meridian",
+        "B": "The meridian passing through Greenwich",
+        "C": "The Equator",
+        "D": "The Tropic of Cancer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 180° meridian is the meridian opposite the Prime Meridian and forms the other half of the great circle through the 0° meridian.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q137",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the International Date Line?",
+      "options": {
+        "A": "A conventional, irregular line that follows roughly the 180° meridian and marks the place where the calendar date changes by one day when crossed",
+        "B": "The Prime Meridian at 0° longitude",
+        "C": "The Equator at 0° latitude",
+        "D": "A line that divides Earth into Northern and Southern Hemispheres"
+      },
+      "correctAnswer": "A",
+      "explanation": "The International Date Line is a conventional, irregular line that follows roughly the 180° meridian and marks the place where the calendar date changes by one day when crossed.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q138",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the International Date Line follow the 180° meridian exactly?",
+      "options": {
+        "A": "No, it deviates from the 180° meridian in several places to avoid dividing countries and island groups into different calendar dates",
+        "B": "Yes, it follows the 180° meridian exactly",
+        "C": "No, it follows the Prime Meridian",
+        "D": "Yes, it follows the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It deviates from the 180° meridian in several places to avoid dividing countries and island groups into different calendar dates.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q139",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the angular difference between successive meridians if the globe is divided into 360 equal degrees?",
+      "options": {
+        "A": "1° of longitude",
+        "B": "15° of longitude",
+        "C": "4° of longitude",
+        "D": "0.5° of longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The angular difference between successive whole-degree meridians is 1° of longitude.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q140",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does the ground distance represented by one degree of longitude vary with latitude?",
+      "options": {
+        "A": "It is greatest at the Equator, about 111 kilometres, and decreases towards the poles, becoming zero at the poles where all meridians meet",
+        "B": "It is greatest at the poles and decreases towards the Equator",
+        "C": "It is constant everywhere",
+        "D": "It is zero at the Equator and greatest at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is greatest at the Equator, about 111 kilometres, and decreases towards the poles, becoming zero at the poles where all meridians meet.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q141",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate time difference corresponding to 1° of longitude?",
+      "options": {
+        "A": "4 minutes of local solar time",
+        "B": "1 hour of local solar time",
+        "C": "4 seconds of local solar time",
+        "D": "15 minutes of local solar time"
+      },
+      "correctAnswer": "A",
+      "explanation": "One degree of longitude corresponds to 4 minutes of local solar time because Earth rotates through 360° in approximately 24 hours.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q142",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the time difference corresponding to 15° of longitude?",
+      "options": {
+        "A": "Approximately one hour of local solar time",
+        "B": "Approximately 4 minutes of local solar time",
+        "C": "Approximately 15 minutes of local solar time",
+        "D": "Approximately 30 minutes of local solar time"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fifteen degrees of longitude correspond to approximately one hour of local solar time.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q143",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the time difference corresponding to 1 minute of longitude?",
+      "options": {
+        "A": "4 seconds of local solar time",
+        "B": "4 minutes of local solar time",
+        "C": "1 minute of local solar time",
+        "D": "15 seconds of local solar time"
+      },
+      "correctAnswer": "A",
+      "explanation": "One minute of longitude corresponds to 4 seconds of local solar time.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q144",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does longitude help determine time?",
+      "options": {
+        "A": "Earth rotates 360° in about 24 hours, so places at different longitudes experience local solar noon at different times; this relationship forms the basis of time zones",
+        "B": "Longitude determines the length of a day",
+        "C": "Longitude determines the seasons",
+        "D": "Longitude determines the year"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth rotates 360° in about 24 hours, so places at different longitudes experience local solar noon at different times; this relationship forms the basis of time zones.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q145",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which meridian is used as the reference for Indian Standard Time?",
+      "options": {
+        "A": "82°30' E meridian, which passes near Mirzapur in Uttar Pradesh",
+        "B": "0° Prime Meridian",
+        "C": "180° meridian",
+        "D": "90° E meridian"
+      },
+      "correctAnswer": "A",
+      "explanation": "Indian Standard Time is based on the 82°30' E meridian, which passes near Mirzapur in Uttar Pradesh.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q146",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the time difference between Indian Standard Time and Greenwich Mean Time or UTC?",
+      "options": {
+        "A": "Indian Standard Time is UTC plus 5 hours 30 minutes",
+        "B": "Indian Standard Time is UTC minus 5 hours 30 minutes",
+        "C": "Indian Standard Time is UTC plus 4 hours",
+        "D": "Indian Standard Time is UTC plus 6 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Indian Standard Time is UTC plus 5 hours 30 minutes.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q147",
+      "subject": "Geography",
+      "topic": "Longitude",
+      "chapter": "Longitude",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between local time and standard time?",
+      "options": {
+        "A": "Local time is based on the Sun's apparent position at a particular longitude, while standard time is the uniform time adopted by a country or region for practical use",
+        "B": "Local time is uniform across a country, while standard time varies with longitude",
+        "C": "Local time is based on the Moon, while standard time is based on the Sun",
+        "D": "There is no difference"
+      },
+      "correctAnswer": "A",
+      "explanation": "Local time is based on the Sun's apparent position at a particular longitude, while standard time is the uniform time adopted by a country or region for practical use.",
+      "source": "Earth.pdf - Section 11"
+    },
+    {
+      "id": "Q148",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Equator is located at which latitude?",
+      "options": {
+        "A": "0° latitude",
+        "B": "23.5° N latitude",
+        "C": "66.5° N latitude",
+        "D": "90° N latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is located at 0° latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q149",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tropic of Cancer is located at which latitude?",
+      "options": {
+        "A": "Approximately 23.5° N latitude",
+        "B": "Approximately 23.5° S latitude",
+        "C": "Approximately 66.5° N latitude",
+        "D": "0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer is located at approximately 23.5° N latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q150",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tropic of Capricorn is located at which latitude?",
+      "options": {
+        "A": "Approximately 23.5° S latitude",
+        "B": "Approximately 23.5° N latitude",
+        "C": "Approximately 66.5° S latitude",
+        "D": "0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn is located at approximately 23.5° S latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q151",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Arctic Circle is located at which latitude?",
+      "options": {
+        "A": "Approximately 66.5° N latitude",
+        "B": "Approximately 66.5° S latitude",
+        "C": "Approximately 23.5° N latitude",
+        "D": "0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Circle is located at approximately 66.5° N latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q152",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Antarctic Circle is located at which latitude?",
+      "options": {
+        "A": "Approximately 66.5° S latitude",
+        "B": "Approximately 66.5° N latitude",
+        "C": "Approximately 23.5° S latitude",
+        "D": "0° latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Antarctic Circle is located at approximately 66.5° S latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q153",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The North Pole is located at which latitude?",
+      "options": {
+        "A": "90° N latitude",
+        "B": "90° S latitude",
+        "C": "0° latitude",
+        "D": "66.5° N latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The North Pole is located at 90° N latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q154",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The South Pole is located at which latitude?",
+      "options": {
+        "A": "90° S latitude",
+        "B": "90° N latitude",
+        "C": "0° latitude",
+        "D": "66.5° S latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The South Pole is located at 90° S latitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q155",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Prime Meridian is located at which longitude?",
+      "options": {
+        "A": "0° longitude, passing through Greenwich, London",
+        "B": "180° longitude",
+        "C": "82°30' E longitude",
+        "D": "90° E longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Prime Meridian is located at 0° longitude, passing through Greenwich, London.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q156",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the opposite meridian to the Prime Meridian?",
+      "options": {
+        "A": "180° longitude",
+        "B": "90° longitude",
+        "C": "82°30' E longitude",
+        "D": "0° longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The opposite meridian to the Prime Meridian is 180° longitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q157",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the conventional boundary used to divide the Eastern and Western Hemispheres?",
+      "options": {
+        "A": "The 0° and 180° meridians",
+        "B": "The Equator",
+        "C": "The Tropic of Cancer and Tropic of Capricorn",
+        "D": "The Arctic and Antarctic Circles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The conventional boundary used to divide the Eastern and Western Hemispheres is the 0° and 180° meridians.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q158",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the conventional meridian used for Indian Standard Time?",
+      "options": {
+        "A": "82°30' E longitude",
+        "B": "0° longitude",
+        "C": "180° longitude",
+        "D": "90° E longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The conventional meridian used for Indian Standard Time is 82°30' E longitude.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q159",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the standard time difference of India from UTC?",
+      "options": {
+        "A": "UTC + 5 hours 30 minutes",
+        "B": "UTC - 5 hours 30 minutes",
+        "C": "UTC + 4 hours",
+        "D": "UTC + 6 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard time difference of India from UTC is UTC + 5 hours 30 minutes.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q160",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the only parallel of latitude that is a great circle?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Tropic of Cancer",
+        "C": "The Arctic Circle",
+        "D": "The Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The only parallel of latitude that is a great circle is the Equator.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q161",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A pair of opposite meridians together forms what?",
+      "options": {
+        "A": "A great circle",
+        "B": "A small circle",
+        "C": "A parallel",
+        "D": "The Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pair of opposite meridians together forms a great circle.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q162",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The shortest surface route between two points on a sphere follows what?",
+      "options": {
+        "A": "An arc of a great circle",
+        "B": "An arc of a small circle",
+        "C": "A straight line through the sphere",
+        "D": "A parallel of latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The shortest surface route between two points on a sphere follows an arc of a great circle.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q163",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the longest parallel of latitude?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Tropic of Cancer",
+        "C": "The Arctic Circle",
+        "D": "The Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The longest parallel of latitude is the Equator.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q164",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The latitude of a place is measured north or south of what?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Prime Meridian",
+        "C": "The 180° meridian",
+        "D": "The Tropic of Cancer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The latitude of a place is measured north or south of the Equator.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q165",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The longitude of a place is measured east or west of what?",
+      "options": {
+        "A": "The Prime Meridian",
+        "B": "The Equator",
+        "C": "The 180° meridian",
+        "D": "The Tropic of Capricorn"
+      },
+      "correctAnswer": "A",
+      "explanation": "The longitude of a place is measured east or west of the Prime Meridian.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q166",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The approximate angular distance of the Tropics from the Equator is equal to what?",
+      "options": {
+        "A": "Earth's axial tilt, approximately 23.5°",
+        "B": "Earth's axial tilt, approximately 66.5°",
+        "C": "90° minus Earth's axial tilt",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The approximate angular distance of the Tropics from the Equator is equal to Earth's axial tilt, approximately 23.5°.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q167",
+      "subject": "Geography",
+      "topic": "Important Parallels and Meridians: Quick Reference",
+      "chapter": "Important Parallels and Meridians: Quick Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The approximate latitude of the polar circles is equal to what?",
+      "options": {
+        "A": "90° minus Earth's axial tilt, approximately 66.5°",
+        "B": "Earth's axial tilt, approximately 23.5°",
+        "C": "90° plus Earth's axial tilt",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The approximate latitude of the polar circles is equal to 90° minus Earth's axial tilt, approximately 66.5°.",
+      "source": "Earth.pdf - Section 12"
+    },
+    {
+      "id": "Q168",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is Earth a perfect sphere?",
+      "options": {
+        "A": "No, Earth is an oblate spheroid in simplified geometric description and has a more irregular gravity-defined geoid",
+        "B": "Yes, Earth is a perfect sphere",
+        "C": "No, Earth is a perfect cube",
+        "D": "Yes, Earth is a perfect ellipsoid"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. Earth is an oblate spheroid in simplified geometric description and has a more irregular gravity-defined geoid.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q169",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the Big Bang theory the theory of Earth's formation?",
+      "options": {
+        "A": "No, it explains the evolution of the universe; Earth formed much later within the Solar System",
+        "B": "Yes, it explains Earth's formation directly",
+        "C": "Yes, it explains both the universe and Earth's formation",
+        "D": "No, it explains only the formation of the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It explains the evolution of the universe; Earth formed much later within the Solar System.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q170",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is Earth's age 13.8 billion years?",
+      "options": {
+        "A": "No, about 13.8 billion years is the age of the universe; Earth's age is about 4.54 billion years",
+        "B": "Yes, Earth is 13.8 billion years old",
+        "C": "No, Earth is about 3.5 billion years old",
+        "D": "Yes, Earth and the universe are the same age"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. About 13.8 billion years is the age of the universe; Earth's age is about 4.54 billion years.",
+      "source": "Earth.pdf - Section 13"
+    },
+        {
+      "id": "Q172",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are all meridians small circles?",
+      "options": {
+        "A": "No, a meridian by itself is a semicircle; a meridian and its opposite meridian together form a great circle",
+        "B": "Yes, all meridians are small circles",
+        "C": "Yes, all meridians are great circles",
+        "D": "No, meridians are straight lines"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. A meridian by itself is a semicircle; a meridian and its opposite meridian together form a great circle.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q173",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does one degree of longitude always equal about 111 kilometres?",
+      "options": {
+        "A": "No, that approximate distance applies at the Equator and decreases towards the poles",
+        "B": "Yes, it is constant everywhere",
+        "C": "No, it increases towards the poles",
+        "D": "Yes, except at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. That approximate distance applies at the Equator and decreases towards the poles.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q174",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does one degree of latitude equal exactly 111 kilometres everywhere?",
+      "options": {
+        "A": "No, it is approximately 111 kilometres, with small variations depending on latitude",
+        "B": "Yes, it is exactly 111 kilometres everywhere",
+        "C": "No, it varies from 0 to 111 kilometres",
+        "D": "Yes, except at the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It is approximately 111 kilometres, with small variations depending on latitude.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q175",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the International Date Line coincide exactly with 180° longitude?",
+      "options": {
+        "A": "No, it broadly follows 180° longitude but deviates to accommodate political and administrative boundaries",
+        "B": "Yes, it coincides exactly with 180° longitude",
+        "C": "No, it coincides with the Prime Meridian",
+        "D": "Yes, except at the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It broadly follows 180° longitude but deviates to accommodate political and administrative boundaries.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q176",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Northern Hemisphere contain more ocean than land?",
+      "options": {
+        "A": "No, it contains more land than the Southern Hemisphere, while the Southern Hemisphere has a larger proportion of ocean",
+        "B": "Yes, it contains more ocean than land",
+        "C": "No, it contains no ocean",
+        "D": "Yes, it is entirely ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It contains more land than the Southern Hemisphere, while the Southern Hemisphere has a larger proportion of ocean.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q177",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the Tropic of Cancer at 66.5° N?",
+      "options": {
+        "A": "No, the Tropic of Cancer is at about 23.5° N; the Arctic Circle is at about 66.5° N",
+        "B": "Yes, the Tropic of Cancer is at 66.5° N",
+        "C": "No, the Tropic of Cancer is at 23.5° S",
+        "D": "Yes, the Tropic of Cancer is at 66.5° S"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. The Tropic of Cancer is at about 23.5° N; the Arctic Circle is at about 66.5° N.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q178",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the Tropic of Capricorn at 23.5° N?",
+      "options": {
+        "A": "No, it is at about 23.5° S",
+        "B": "Yes, it is at 23.5° N",
+        "C": "No, it is at 66.5° S",
+        "D": "Yes, it is at 66.5° N"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. It is at about 23.5° S.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q179",
+      "subject": "Geography",
+      "topic": "Common Exam Traps and Corrections",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the Prime Meridian the same as the International Date Line?",
+      "options": {
+        "A": "No, the Prime Meridian is 0° longitude; the International Date Line lies roughly near 180° longitude",
+        "B": "Yes, they are the same",
+        "C": "No, the Prime Meridian is at 180° longitude",
+        "D": "Yes, except at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. The Prime Meridian is 0° longitude; the International Date Line lies roughly near 180° longitude.",
+      "source": "Earth.pdf - Section 13"
+    },
+    {
+      "id": "Q180",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the accepted age of Earth?",
+      "options": {
+        "A": "Approximately 4.54 billion years",
+        "B": "Approximately 13.8 billion years",
+        "C": "Approximately 3.5 billion years",
+        "D": "Approximately 4.6 million years"
+      },
+      "correctAnswer": "A",
+      "explanation": "The accepted age of Earth is approximately 4.54 billion years.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q181",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the approximate age of the universe?",
+      "options": {
+        "A": "Approximately 13.8 billion years",
+        "B": "Approximately 4.54 billion years",
+        "C": "Approximately 3.5 billion years",
+        "D": "Approximately 4.6 billion years"
+      },
+      "correctAnswer": "A",
+      "explanation": "The approximate age of the universe is approximately 13.8 billion years.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q182",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial diameter?",
+      "options": {
+        "A": "Approximately 12,756 km",
+        "B": "Approximately 12,714 km",
+        "C": "Approximately 12,742 km",
+        "D": "Approximately 6,378 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial diameter is approximately 12,756 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q183",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's polar diameter?",
+      "options": {
+        "A": "Approximately 12,714 km",
+        "B": "Approximately 12,756 km",
+        "C": "Approximately 12,742 km",
+        "D": "Approximately 6,357 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's polar diameter is approximately 12,714 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q184",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's mean diameter?",
+      "options": {
+        "A": "Approximately 12,742 km",
+        "B": "Approximately 12,756 km",
+        "C": "Approximately 12,714 km",
+        "D": "Approximately 6,371 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's mean diameter is approximately 12,742 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q185",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial radius?",
+      "options": {
+        "A": "Approximately 6,378 km",
+        "B": "Approximately 6,357 km",
+        "C": "Approximately 6,371 km",
+        "D": "Approximately 12,756 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial radius is approximately 6,378 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q186",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's polar radius?",
+      "options": {
+        "A": "Approximately 6,357 km",
+        "B": "Approximately 6,378 km",
+        "C": "Approximately 6,371 km",
+        "D": "Approximately 12,714 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's polar radius is approximately 6,357 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q187",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's mean radius?",
+      "options": {
+        "A": "Approximately 6,371 km",
+        "B": "Approximately 6,378 km",
+        "C": "Approximately 6,357 km",
+        "D": "Approximately 12,742 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's mean radius is approximately 6,371 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q188",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's equatorial circumference?",
+      "options": {
+        "A": "Approximately 40,075 km",
+        "B": "Approximately 40,008 km",
+        "C": "Approximately 510.1 million km²",
+        "D": "Approximately 12,756 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's equatorial circumference is approximately 40,075 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q189",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's polar circumference?",
+      "options": {
+        "A": "Approximately 40,008 km",
+        "B": "Approximately 40,075 km",
+        "C": "Approximately 510.1 million km²",
+        "D": "Approximately 12,714 km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's polar circumference is approximately 40,008 km.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q190",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's total surface area?",
+      "options": {
+        "A": "Approximately 510.1 million km²",
+        "B": "Approximately 361.9 million km²",
+        "C": "Approximately 148.9 million km²",
+        "D": "Approximately 40,075 km²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's total surface area is approximately 510.1 million km².",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q191",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What percentage of Earth's surface is covered by water?",
+      "options": {
+        "A": "Approximately 70.9%, usually rounded to 71%",
+        "B": "Approximately 29.1%, usually rounded to 29%",
+        "C": "Approximately 50%",
+        "D": "Approximately 97%"
+      },
+      "correctAnswer": "A",
+      "explanation": "The percentage of Earth's surface covered by water is approximately 70.9%, usually rounded to 71%.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q192",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What percentage of Earth's surface is covered by land?",
+      "options": {
+        "A": "Approximately 29.1%, usually rounded to 29%",
+        "B": "Approximately 70.9%, usually rounded to 71%",
+        "C": "Approximately 50%",
+        "D": "Approximately 3%"
+      },
+      "correctAnswer": "A",
+      "explanation": "The percentage of Earth's surface covered by land is approximately 29.1%, usually rounded to 29%.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q193",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Equator is at which latitude?",
+      "options": {
+        "A": "0°",
+        "B": "23.5° N",
+        "C": "23.5° S",
+        "D": "66.5° N"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is at 0° latitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q194",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tropic of Cancer is at which latitude?",
+      "options": {
+        "A": "23.5° N",
+        "B": "23.5° S",
+        "C": "66.5° N",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer is at 23.5° N latitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q195",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tropic of Capricorn is at which latitude?",
+      "options": {
+        "A": "23.5° S",
+        "B": "23.5° N",
+        "C": "66.5° S",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn is at 23.5° S latitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q196",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Arctic Circle is at which latitude?",
+      "options": {
+        "A": "66.5° N",
+        "B": "66.5° S",
+        "C": "23.5° N",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Circle is at 66.5° N latitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q197",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Antarctic Circle is at which latitude?",
+      "options": {
+        "A": "66.5° S",
+        "B": "66.5° N",
+        "C": "23.5° S",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Antarctic Circle is at 66.5° S latitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q198",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Prime Meridian is at which longitude?",
+      "options": {
+        "A": "0°",
+        "B": "180°",
+        "C": "82°30' E",
+        "D": "90° E"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Prime Meridian is at 0° longitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q199",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The opposite meridian is at which longitude?",
+      "options": {
+        "A": "180°",
+        "B": "0°",
+        "C": "90° E",
+        "D": "82°30' E"
+      },
+      "correctAnswer": "A",
+      "explanation": "The opposite meridian is at 180° longitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q200",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Indian Standard Time meridian is at which longitude?",
+      "options": {
+        "A": "82°30' E",
+        "B": "0°",
+        "C": "180°",
+        "D": "90° E"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Indian Standard Time meridian is at 82°30' E longitude.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q201",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "One degree of longitude corresponds to approximately how much time?",
+      "options": {
+        "A": "4 minutes of local solar time",
+        "B": "1 hour of local solar time",
+        "C": "4 seconds of local solar time",
+        "D": "15 minutes of local solar time"
+      },
+      "correctAnswer": "A",
+      "explanation": "One degree of longitude corresponds to approximately 4 minutes of local solar time.",
+      "source": "Earth.pdf - Section 14"
+    },
+    {
+      "id": "Q202",
+      "subject": "Geography",
+      "topic": "High-Value Numerical Facts for Revision",
+      "chapter": "High-Value Numerical Facts for Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Fifteen degrees of longitude correspond to approximately how much time?",
+      "options": {
+        "A": "1 hour of local solar time",
+        "B": "4 minutes of local solar time",
+        "C": "15 minutes of local solar time",
+        "D": "30 minutes of local solar time"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fifteen degrees of longitude correspond to approximately 1 hour of local solar time.",
+      "source": "Earth.pdf - Section 14"
+    }
+  ]
+}

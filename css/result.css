@@ -2,7 +2,36 @@
 @media(max-width:750px){.score-hero{grid-template-columns:1fr 120px;padding:20px}.score-details{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:15px 0 0}.score-ring{width:105px;height:105px}.metric-grid{grid-template-columns:repeat(2,1fr)}.analysis-grid{grid-template-columns:1fr}.result-topline{align-items:flex-start;flex-direction:column}.result-topline h1{font-size:29px}.result-topline>.button{align-self:flex-start}.subject-row{grid-template-columns:105px 1fr 55px}}
 @media(max-width:450px){.score-hero{grid-template-columns:1fr 95px;gap:8px;padding:17px}.score-value strong{font-size:34px}.score-ring{width:88px;height:88px}.score-ring strong{font-size:18px}.metric-card{padding:13px}.metric-card>strong{font-size:22px}.analysis-panel,.subject-panel,.review-panel{padding:18px 15px}.distribution-legend{gap:4px}.review-body{padding-left:14px}.review-q-title{font-size:10px}.review-header{flex-direction:column}.result-actions{flex-direction:column}.result-actions .button{width:100%}}
 @media(max-width:560px){
-  .result-topline{gap:10px;margin:0 0 12px}
+  .result-topline{gap:10px;margin:0 0 12px  }
+  .result-view{max-width:1180px;margin:0 auto}
+  .result-topline{margin:0 0 17px}
+  .score-hero{padding:21px 24px;gap:15px;margin-bottom:12px}
+  .metric-grid{gap:10px;margin-bottom:12px}
+  .metric-card{padding:14px}
+  .analysis-grid{gap:12px;margin-bottom:12px}
+  .analysis-panel,.subject-panel,.review-panel{padding:18px 20px}
+  .subject-panel,.review-panel{margin-bottom:12px}
+  .section-heading{margin-bottom:14px}
+  .review-filters{margin:14px 0 10px}
+  .answer-review-list{gap:8px}
+  @media(max-width:760px){
+    .result-topline{margin-bottom:13px}
+    .score-hero{padding:16px;gap:10px}
+    .analysis-panel,.subject-panel,.review-panel{padding:15px}
+    .metric-grid{gap:8px}
+  }
+  @media(max-width:520px){
+    .result-view{padding-bottom:14px}
+    .result-topline{gap:9px}
+    .score-hero{padding:11px;margin-bottom:9px}
+    .metric-grid{gap:7px;margin-bottom:9px}
+    .analysis-grid{gap:9px;margin-bottom:9px}
+    .analysis-panel,.subject-panel,.review-panel{padding:12px}
+    .section-heading{margin-bottom:10px}
+    .subject-analysis{gap:10px}
+    .review-filters{gap:5px;margin:11px 0 8px}
+    .filter-button{padding:6px 8px;font-size:9px}
+  }
   .result-topline h1{margin:6px 0;font-size:22px;letter-spacing:-.8px}
   .result-topline p{font-size:10px;line-height:1.45}
   .result-topline>.button{min-height:36px;font-size:10px}

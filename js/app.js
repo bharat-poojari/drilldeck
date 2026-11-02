@@ -5,13 +5,18 @@ import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
 import { getCurrentAccount, initializeAccounts, initializeCommunityChat, managePublishedScore, publishScore } from "./accounts.js";
 import { createResultsStore } from "./results-store.js";
+import { createTopicSelection } from "./topic-selector.js";
 
 const $ = id => document.getElementById(id);
-const views = { setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
+const views = { home:$("home-view"), "quick-test":$("quick-test-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
 const resultsStore = createResultsStore({
   getItem:key => window.localStorage.getItem(key),
   setItem:(key, value) => window.localStorage.setItem(key, value)
 });
+const topicSelection = createTopicSelection();
+const openTopicGroups = new Set();
+const knownSubcategories = new Set();
+const selectedSubcategories = new Set();
 let bank = null;
 let examState = null;
 let timer = null;
@@ -21,8 +26,15 @@ let submitInProgress = false;
 let examContext = null;
 let examTestId = null;
 let toastTimeout = null;
+let configurationCheckInProgress = false;
 let currentSetupStep = 1;
-const setupStepTitles = ["Choose your paper","Choose question datasets","Set test preferences","Review and start"];
+const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
+const setupStepIcons = [
+  '<svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none"><path d="M4 7.5 12 3l8 4.5v9L12 21l-8-4.5v-9Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m4.5 7.8 7.5 4.3 7.5-4.3M12 12.2V21" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.64 5.64l1.42 1.42m9.88 9.88 1.42 1.42m0-12.72-1.42 1.42m-9.88 9.88-1.42 1.42" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.8"/></svg>',
+  '<svg viewBox="0 0 24 24" fill="none"><path d="M12 3 19 6v5c0 4.6-2.9 7.8-7 10-4.1-2.2-7-5.4-7-10V6l7-3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+];
 
 function showView(name) {
   Object.entries(views).forEach(([key, node]) => node.classList.toggle("hidden", key !== name));
@@ -71,7 +83,9 @@ function showSetupStep(step) {
   );
   $("setup-step-label").textContent = `STEP ${String(step).padStart(2,"0")} OF 04`;
   $("setup-step-title").textContent = setupStepTitles[step-1];
+  $("setup-step-icon").innerHTML = setupStepIcons[step-1];
   $("setup-error").textContent = "";
+  if (step === 4) renderConfigurationReview();
   $("setup-panel").scrollIntoView({ behavior:"smooth", block:"start" });
 }
 function escapeHtml(value) {
@@ -195,57 +209,259 @@ function selectedCategories() {
   return checkedValues($("category-options"), "category");
 }
 function selectedDatasets() {
-  return [...$("dataset-options").querySelectorAll('input[name="dataset"]:checked')].map(input => input.value);
+  return topicSelection.getGroups()
+    .map(group => group.parent)
+    .filter(id => selectedSubcategories.has(id));
 }
 function currentFilters() {
+  const configuration = currentTestConfiguration();
+  return {
+    paper:configuration.paper,
+    categories:configuration.categories,
+    datasets:configuration.datasets,
+    topics:configuration.topics,
+    topicsByDataset:configuration.topicsByDataset,
+    difficulty:configuration.difficulty
+  };
+}
+function currentTestConfiguration() {
   return {
     paper:$("paper-select").value,
     categories:selectedCategories(),
     datasets:selectedDatasets(),
-    topics:checkedValues($("topic-options"), "topic"),
+    topics:topicSelection.getSelectedTopics(),
+    topicsByDataset:topicSelection.getSelectedTopicsByGroup(),
     difficulty:$("difficulty-select").value,
+    questionCount:getSelectedCount(),
+    durationMinutes:Number($("duration-input").value),
+    markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
   };
+}
+function getQuickTestConfiguration(type) {
+  const paper = type === "gk" ? "general-knowledge" : "combined";
+  const categories = type === "gk"
+    ? [...new Set((bank?.datasets || []).filter(dataset => dataset.paper === paper).map(dataset => dataset.subject))]
+    : [...document.querySelectorAll('input[name="quick-subject"]:checked')].map(input => input.value);
+  const datasets = (bank?.datasets || []).filter(dataset =>
+    dataset.paper === paper && categories.includes(dataset.subject)
+  );
+  const topicsByDataset = Object.fromEntries(datasets.map(dataset => [
+    dataset.id,
+    [...new Set(dataset.questions.map(question => question.topic).filter(Boolean))]
+  ]));
+  const topics = [...new Set(Object.values(topicsByDataset).flat())];
+  return {
+    paper,
+    categories,
+    datasets:datasets.map(dataset => dataset.id),
+    topics,
+    topicsByDataset,
+    difficulty:"Mixed",
+    questionCount:Number($(`quick-${type}-count`).value),
+    durationMinutes:Number($(`quick-${type}-duration`).value),
+    markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
+  };
+}
+function updateQuickAvailability(type) {
+  const formType = type === "gk" ? "gk" : "combined";
+  const configuration = getQuickTestConfiguration(formType);
+  const validation = getConfigurationValidation(configuration);
+  const status = $(`quick-${formType}-availability`);
+  const button = document.querySelector(`[data-quick-submit="${formType}"]`);
+  const marks = $(`quick-${formType}-marks`);
+  marks.textContent = Number.isInteger(configuration.questionCount) && configuration.questionCount > 0
+    ? String(configuration.questionCount)
+    : "—";
+  if (!bank) {
+    status.textContent = "Question bank could not be loaded.";
+    status.classList.add("error-message");
+    button.disabled = true;
+    return;
+  }
+  const missingSubjects = type === "combined"
+    ? configuration.categories.filter(subject => !bank.datasets.some(dataset =>
+      dataset.paper === "combined" && dataset.subject === subject
+    ))
+    : [];
+  if (missingSubjects.length) {
+    status.textContent = `No question sets are available for ${missingSubjects.join(", ")} yet.`;
+    status.classList.add("error-message");
+    button.disabled = true;
+    return;
+  }
+  status.textContent = validation.valid
+    ? `${validation.availableQuestions.toLocaleString()} questions available · ${configuration.questionCount} selected · ${configuration.questionCount} maximum marks`
+    : validation.errors.join(" ");
+  status.classList.toggle("error-message", !validation.valid);
+  button.disabled = !validation.valid || configurationCheckInProgress;
+}
+function updateQuickTestAvailability() {
+  updateQuickAvailability("gk");
+  updateQuickAvailability("combined");
+}
+function getConfigurationValidation(configuration = currentTestConfiguration()) {
+  const errors = [];
+  if (!["general-knowledge", "combined"].includes(configuration.paper)) errors.push("Choose a valid exam paper.");
+  if (!configuration.categories.length) errors.push("Choose at least one category or subject.");
+  if (!configuration.datasets.length) errors.push("Choose at least one subcategory.");
+  if (!configuration.topics.length) errors.push("Select at least one topic.");
+  if (!["Easy", "Medium", "Hard", "Mixed"].includes(configuration.difficulty)) errors.push("Choose a valid difficulty.");
+  if (!Number.isInteger(configuration.questionCount) || configuration.questionCount < 1 || configuration.questionCount > 1000) {
+    errors.push("Enter a question count between 1 and 1,000.");
+  }
+  if (!Number.isInteger(configuration.durationMinutes) || configuration.durationMinutes < 1 || configuration.durationMinutes > 600) {
+    errors.push("Enter a duration between 1 and 600 minutes.");
+  }
+  if (configuration.markingScheme.correct !== 1 ||
+      configuration.markingScheme.incorrect !== -0.25 ||
+      configuration.markingScheme.unanswered !== 0) {
+    errors.push("The marking scheme is invalid.");
+  }
+  const availableQuestions = bank
+    ? filterQuestions(bank.questions, configuration).length
+    : 0;
+  if (!errors.length && availableQuestions < configuration.questionCount) {
+    errors.push(`Only ${availableQuestions} matching questions are available. Select fewer questions or broaden the filters.`);
+  }
+  return { valid:errors.length === 0, errors, availableQuestions };
 }
 function updateAvailability() {
   if (!bank) return;
-  const matches = filterQuestions(bank.questions, currentFilters()).length;
-  const requested = getSelectedCount();
-  $("availability-note").textContent = `${matches} matching question${matches===1?"":"s"} available · ${requested} requested`;
-  $("availability-note").style.color = matches < requested ? "var(--red)" : "var(--muted)";
-  $("start-button").disabled = !Number.isInteger(requested) || requested < 1 || matches < requested;
+  const configuration = currentTestConfiguration();
+  const validation = getConfigurationValidation(configuration);
+  $("availability-note").textContent = `${validation.availableQuestions} matching question${validation.availableQuestions===1?"":"s"} available · ${configuration.questionCount} requested`;
+  $("availability-note").style.color = validation.valid ? "var(--muted)" : "var(--red)";
+  $("start-button").disabled = !validation.valid || configurationCheckInProgress;
+  if (currentSetupStep === 4) renderConfigurationReview(configuration, validation);
 }
 function renderDatasets() {
+  updateTopics();
+}
+function updateTopics() {
   const categories = new Set(selectedCategories());
   const datasets = bank.datasets.filter(dataset =>
     dataset.paper === $("paper-select").value && categories.has(dataset.subject)
   );
-  $("dataset-options").innerHTML = datasets.length
-    ? `<label class="selection-option dataset-select-all"><input type="checkbox" data-select-all checked><span>Select all datasets</span></label>
-      ${datasets.map(dataset => `
-        <label class="dataset-option">
-          <input type="checkbox" name="dataset" value="${escapeHtml(dataset.id)}" checked>
-          <span><strong>${escapeHtml(dataset.title)}</strong><small>${escapeHtml([dataset.subject, dataset.subcategory].filter(Boolean).join(" / "))} · ${dataset.questions.length} questions</small></span>
-        </label>`).join("")}`
-    : '<p class="empty-datasets">No question datasets found for this selection yet.</p>';
-  $("dataset-options").scrollTop = 0;
-  updateTopics();
-}
-function updateTopics() {
-  const datasetIds = new Set(selectedDatasets());
-  const topics = bank.questions.filter(question => datasetIds.has(question.datasetId)).map(question => question.topic);
-  renderCheckboxOptions($("topic-options"), "topic", topics, "All subcategories");
+  const availableIds = new Set(datasets.map(dataset => dataset.id));
+  for (const id of selectedSubcategories) {
+    if (!availableIds.has(id)) selectedSubcategories.delete(id);
+  }
+  datasets.forEach(dataset => {
+    if (!knownSubcategories.has(dataset.id)) {
+      selectedSubcategories.add(dataset.id);
+      knownSubcategories.add(dataset.id);
+    }
+  });
+  const groups = datasets.map(dataset => ({
+    parent:dataset.id,
+    topics:bank.questions
+      .filter(question => question.datasetId === dataset.id)
+      .map(question => question.topic)
+  }));
+  topicSelection.setGroups(groups);
+  renderTopicGroups();
   updateAvailability();
+}
+function renderTopicGroups() {
+  const container = $("topic-groups");
+  const search = $("topic-search").value;
+  const hasSearch = Boolean(search.trim());
+  const groups = topicSelection.getGroups(search);
+  const allGroups = topicSelection.getGroups();
+  if (!hasSearch && groups.length && ![...openTopicGroups].some(parent => groups.some(group => group.parent === parent))) {
+    openTopicGroups.add(groups[0].parent);
+  }
+  container.innerHTML = groups.length
+    ? groups.map(group => {
+      const allTopics = allGroups.find(item => item.parent === group.parent).topics;
+      const dataset = bank.datasets.find(item => item.id === group.parent);
+      const selectedCount = allTopics.filter(topic => topicSelection.isSelected(topic, group.parent)).length;
+      const checked = selectedCount === allTopics.length;
+      const indeterminate = selectedCount > 0 && !checked;
+      const isOpen = hasSearch || openTopicGroups.has(group.parent);
+      return `<details class="topic-group" data-topic-group-panel="${escapeHtml(group.parent)}" ${isOpen ? "open" : ""}>
+        <summary>
+          <span class="topic-group-title">${escapeHtml(dataset?.title || group.parent)}</span>
+          <span class="topic-group-count">Subcategory · ${escapeHtml([dataset?.subject, dataset?.subcategory].filter(Boolean).join(" / "))} · ${allTopics.length} ${allTopics.length === 1 ? "topic" : "topics"}</span>
+          <input type="checkbox" data-subcategory="${escapeHtml(group.parent)}" aria-label="Select all topics in ${escapeHtml(dataset?.title || group.parent)}" ${checked ? "checked" : ""} ${indeterminate ? "data-indeterminate" : ""}>
+        </summary>
+        <div class="topic-group-options"><p class="topic-group-label">Topics in this subcategory</p>${group.topics.map(topic => `
+          <label class="selection-option topic-option">
+            <input type="checkbox" data-topic-name="${escapeHtml(topic)}" data-topic-parent="${escapeHtml(group.parent)}" ${topicSelection.isSelected(topic, group.parent) ? "checked" : ""}>
+            <span>${escapeHtml(topic)}</span>
+          </label>`).join("")}
+        </div>
+      </details>`;
+    }).join("")
+    : `<p class="empty-datasets">${hasSearch
+      ? `No topics match “${escapeHtml(search)}”. Try another search.`
+      : "No subcategories available. Choose a category or subject in Step 1."}</p>`;
+  container.querySelectorAll("[data-subcategory]").forEach(input => {
+    input.indeterminate = input.hasAttribute("data-indeterminate");
+  });
+  $("topic-selected-count").textContent =
+    `${topicSelection.selectedCount()} topic${topicSelection.selectedCount() === 1 ? "" : "s"} selected`;
+  $("topic-select-all").disabled = allGroups.length === 0;
+  $("topic-clear").disabled = topicSelection.selectedCount() === 0;
+}
+function syncTopicSelection() {
+  $("topic-groups").querySelectorAll("[data-topic-name]").forEach(input => {
+    input.checked = topicSelection.isSelected(input.dataset.topicName, input.dataset.topicParent);
+  });
+  $("topic-groups").querySelectorAll("[data-subcategory]").forEach(input => {
+    const group = topicSelection.getGroups().find(item => item.parent === input.dataset.subcategory);
+    if (!group) return;
+    const selectedCount = group.topics.filter(topic => topicSelection.isSelected(topic, group.parent)).length;
+    input.checked = selectedCount === group.topics.length;
+    input.indeterminate = selectedCount > 0 && !input.checked;
+    if (selectedCount) selectedSubcategories.add(group.parent);
+    else selectedSubcategories.delete(group.parent);
+  });
+  $("topic-selected-count").textContent =
+    `${topicSelection.selectedCount()} topic${topicSelection.selectedCount() === 1 ? "" : "s"} selected`;
+  $("topic-clear").disabled = topicSelection.selectedCount() === 0;
+  updateAvailability();
+}
+function renderConfigurationReview(configuration = currentTestConfiguration(), validation = getConfigurationValidation(configuration)) {
+  const paperName = configuration.paper === "general-knowledge"
+    ? "General Knowledge"
+    : "General Kannada, English & Computer Knowledge";
+  const selectedDatasets = bank
+    ? bank.datasets.filter(dataset => configuration.datasets.includes(dataset.id))
+    : [];
+  $("review-paper").textContent = paperName;
+  $("review-datasets").innerHTML = selectedDatasets.length
+    ? selectedDatasets.map(dataset => `
+      <li><strong>${escapeHtml(dataset.title)}</strong><small>${escapeHtml([dataset.subject, dataset.subcategory].filter(Boolean).join(" / "))}</small></li>`
+    ).join("")
+    : "<li>No datasets selected</li>";
+  $("review-topics").innerHTML = configuration.topics.length
+    ? configuration.topics.map(topic => `<span class="review-topic-chip">${escapeHtml(topic)}</span>`).join("")
+    : '<span class="review-empty">No topics selected</span>';
+  $("review-difficulty").textContent = configuration.difficulty;
+  $("review-question-count").textContent = `${configuration.questionCount} questions`;
+  $("review-duration").textContent = `${configuration.durationMinutes} minutes`;
+  $("review-maximum-score").textContent = String(configuration.questionCount);
+  $("review-marking-maximum").textContent = `${configuration.questionCount} marks`;
+  const availability = $("review-availability");
+  availability.textContent = validation.valid
+    ? `${validation.availableQuestions.toLocaleString()} matching questions available. Your test will contain ${configuration.questionCount} questions.`
+    : validation.errors.join(" ");
+  availability.classList.toggle("error-message", !validation.valid);
+  $("start-button").disabled = !validation.valid || configurationCheckInProgress;
 }
 async function initialize() {
   try {
     bank = await loadQuestionBank();
     $("bank-count").textContent = bank.questions.length.toLocaleString();
     updatePaperOptions();
+    updateQuickTestAvailability();
   } catch (error) {
     $("bank-count").textContent = "Error";
     $("availability-note").textContent = "Question bank could not be loaded.";
     $("setup-error").textContent = `${error.message} Rebuild the dataset index with "npm run build" after adding JSON files, and run the site through a local web server or Vercel.`;
     $("start-button").disabled = true;
+    updateQuickTestAvailability();
   }
 }
 
@@ -258,40 +474,75 @@ function updatePaperOptions() {
   renderDatasets();
 }
 
-function startExam(event) {
-  event.preventDefault();
-  $("setup-error").textContent = "";
-  if (!bank || currentSetupStep !== 4) return;
-  const count = getSelectedCount();
-  if (!Number.isInteger(count) || count < 1 || count > 1000) {
-    $("setup-error").textContent = "Enter a question count between 1 and 1,000.";
-    return;
+function closeMainMenu() {
+  $("main-nav").classList.remove("is-open");
+  $("menu-toggle").setAttribute("aria-expanded", "false");
+  $("menu-toggle").setAttribute("aria-label", "Open navigation menu");
+}
+
+async function validateConfigurationOnServer(configuration) {
+  const response = await fetch("/api/configuration", {
+    method:"POST",
+    credentials:"same-origin",
+    cache:"no-store",
+    headers:{ "Content-Type":"application/json" },
+    body:JSON.stringify(configuration)
+  });
+  if (response.status === 501) {
+    throw new Error("This server does not provide the configuration API. Run the app with `vercel dev` or deploy it to Vercel before starting a test.");
   }
-  const duration = Number($("duration-input").value);
-  if (!Number.isInteger(duration) || duration < 1 || duration > 600) {
-    $("setup-error").textContent = "Enter a duration between 1 and 600 minutes.";
-    return;
-  }
-  const matching = filterQuestions(bank.questions, currentFilters());
-  if (matching.length < count) {
-    $("setup-error").textContent = `Only ${matching.length} matching questions are available. Select fewer questions or broaden the filters.`;
-    return;
-  }
+  let data;
   try {
+    data = await response.json();
+  } catch {
+    throw new Error(`The configuration service returned an invalid response (${response.status}).`);
+  }
+  if (!response.ok) throw new Error(data.error || `Configuration validation failed (${response.status}).`);
+  if (!data.configuration || !Number.isInteger(data.configuration.availableQuestions)) {
+    throw new Error("The configuration service returned incomplete validation data.");
+  }
+  return data.configuration;
+}
+
+async function startExam(event, configuration = currentTestConfiguration(), button = $("start-button"), errorNode = $("setup-error")) {
+  event.preventDefault();
+  errorNode.textContent = "";
+  if (!bank) {
+    errorNode.textContent = "The question bank is still loading. Please try again in a moment.";
+    return;
+  }
+  if (button === $("start-button") && currentSetupStep !== 4) return;
+  if (configurationCheckInProgress) return;
+  const validation = getConfigurationValidation(configuration);
+  if (!validation.valid) {
+    errorNode.textContent = validation.errors.join(" ");
+    return;
+  }
+  const originalButtonContent = button.innerHTML;
+  configurationCheckInProgress = true;
+  button.disabled = true;
+  button.textContent = "Validating configuration…";
+  try {
+    const serverConfiguration = await validateConfigurationOnServer(configuration);
+    if (serverConfiguration.availableQuestions !== validation.availableQuestions) {
+      throw new Error("The question bank changed since this configuration was reviewed. Return to your settings and try again.");
+    }
+    const count = configuration.questionCount;
+    const duration = configuration.durationMinutes;
+    const matching = filterQuestions(bank.questions, configuration);
     const selected = selectRandomQuestions(matching, count);
     examState = createExamState(selected);
     examTestId = createId();
-    const filters = currentFilters();
     examContext = {
-      paper:$("paper-select").value === "general-knowledge"
+      paper:configuration.paper === "general-knowledge"
         ? "General Knowledge"
         : "General Kannada, English & Computer Knowledge",
       subjects:[...new Set(selected.map(question => question.subject))],
-      paperId:filters.paper,
-      categories:filters.categories,
-      datasets:filters.datasets,
-      topics:filters.topics,
-      difficulty:filters.difficulty
+      paperId:configuration.paper,
+      categories:configuration.categories,
+      datasets:configuration.datasets,
+      topics:configuration.topics,
+      difficulty:configuration.difficulty
     };
     durationSeconds = duration * 60;
     examStartedAt = Date.now();
@@ -310,7 +561,13 @@ function startExam(event) {
     });
     timer.start();
   } catch (error) {
-    $("setup-error").textContent = error.message;
+    errorNode.textContent = error.message;
+  } finally {
+    configurationCheckInProgress = false;
+    button.innerHTML = originalButtonContent;
+    if (!views.exam.classList.contains("hidden")) return;
+    if (button === $("start-button")) updateAvailability();
+    else updateQuickTestAvailability();
   }
 }
 
@@ -495,10 +752,71 @@ function resetToSetup() {
 }
 
 $("setup-form").addEventListener("submit",startExam);
+$("quick-gk-form").addEventListener("submit",event =>
+  startExam(event, getQuickTestConfiguration("gk"), document.querySelector('[data-quick-submit="gk"]'), $("quick-gk-error"))
+);
+$("quick-combined-form").addEventListener("submit",event =>
+  startExam(event, getQuickTestConfiguration("combined"), document.querySelector('[data-quick-submit="combined"]'), $("quick-combined-error"))
+);
+["quick-gk-count","quick-gk-duration","quick-combined-count","quick-combined-duration"].forEach(id =>
+  $(id).addEventListener("input", updateQuickTestAvailability)
+);
+$("quick-combined-form").addEventListener("change",event=>{
+  if(event.target.matches('input[name="quick-subject"]')) updateQuickAvailability("combined");
+});
 $("paper-select").addEventListener("change",updatePaperOptions);
 handleSelectionChange($("category-options"),renderDatasets);
-handleSelectionChange($("dataset-options"),updateTopics);
-handleSelectionChange($("topic-options"),updateAvailability);
+$("topic-search").addEventListener("input", renderTopicGroups);
+$("topic-select-all").addEventListener("click", () => {
+  topicSelection.selectAll();
+  topicSelection.getGroups().forEach(group => selectedSubcategories.add(group.parent));
+  syncTopicSelection();
+});
+$("topic-clear").addEventListener("click", () => {
+  topicSelection.clear();
+  selectedSubcategories.clear();
+  syncTopicSelection();
+});
+$("topic-groups").addEventListener("click", event => {
+  const subcategory = event.target.closest("[data-subcategory]");
+  if (subcategory) event.stopPropagation();
+}, true);
+$("topic-groups").addEventListener("change", event => {
+  const groupInput = event.target.closest("[data-subcategory]");
+  const topicInput = event.target.closest("[data-topic-name]");
+  if (groupInput) {
+    const id = groupInput.dataset.subcategory;
+    topicSelection.setGroupSelected(id, groupInput.checked);
+    if (groupInput.checked) selectedSubcategories.add(id);
+    else selectedSubcategories.delete(id);
+  } else if (topicInput) {
+    const id = topicInput.dataset.topicParent;
+    topicSelection.setSelected(topicInput.dataset.topicName, topicInput.checked, id);
+    const group = topicSelection.getGroups().find(item => item.parent === id);
+    if (group.topics.some(topic => topicSelection.isSelected(topic, id))) selectedSubcategories.add(id);
+    else selectedSubcategories.delete(id);
+  }
+  else return;
+  syncTopicSelection();
+});
+$("topic-groups").addEventListener("toggle", event => {
+  const group = event.target.closest("details[data-topic-group-panel]");
+  if (!group) return;
+  const parent = group.dataset.topicGroupPanel;
+  if (!group.open) {
+    openTopicGroups.delete(parent);
+    return;
+  }
+  openTopicGroups.add(parent);
+  if (window.matchMedia("(max-width: 560px)").matches) {
+    $("topic-groups").querySelectorAll("details[open]").forEach(other => {
+      if (other !== group) {
+        openTopicGroups.delete(other.dataset.topicGroupPanel);
+        other.open = false;
+      }
+    });
+  }
+}, true);
 document.querySelectorAll("[data-next-step]").forEach(button=>button.addEventListener("click",()=>{
   const nextStep = Number(button.dataset.nextStep);
   $("setup-error").textContent = "";
@@ -506,24 +824,20 @@ document.querySelectorAll("[data-next-step]").forEach(button=>button.addEventLis
     $("setup-error").textContent = "Choose at least one category or subject.";
     return;
   }
-  if (nextStep === 3 && !selectedDatasets().length) {
-    $("setup-error").textContent = "Choose at least one question dataset.";
-    return;
+  if (nextStep === 3) {
+    if (!selectedDatasets().length) {
+      $("setup-error").textContent = "Choose at least one subcategory.";
+      return;
+    }
+    if (!topicSelection.getSelectedTopics().length) {
+      $("setup-error").textContent = "Select at least one topic.";
+      return;
+    }
   }
   if (nextStep === 4) {
-    const count = getSelectedCount();
-    const duration = Number($("duration-input").value);
-    if (!Number.isInteger(count) || count < 1 || count > 1000) {
-      $("setup-error").textContent = "Enter a question count between 1 and 1,000.";
-      return;
-    }
-    if (!Number.isInteger(duration) || duration < 1 || duration > 600) {
-      $("setup-error").textContent = "Enter a duration between 1 and 600 minutes.";
-      return;
-    }
-    const matches = filterQuestions(bank.questions,currentFilters()).length;
-    if (matches < count) {
-      $("setup-error").textContent = `Only ${matches} matching questions are available. Select fewer questions or broaden the filters.`;
+    const validation = getConfigurationValidation();
+    if (!validation.valid) {
+      $("setup-error").textContent = validation.errors.join(" ");
       return;
     }
   }
@@ -531,6 +845,9 @@ document.querySelectorAll("[data-next-step]").forEach(button=>button.addEventLis
 }));
 document.querySelectorAll("[data-previous-step]").forEach(button=>button.addEventListener("click",()=>{
   showSetupStep(Number(button.dataset.previousStep));
+}));
+document.querySelectorAll("[data-edit-step]").forEach(button=>button.addEventListener("click",()=>{
+  showSetupStep(Number(button.dataset.editStep));
 }));
 ["difficulty-select","count-input","duration-input"].forEach(id=>$(id).addEventListener("input",updateAvailability));
 $("previous-button").addEventListener("click",()=>{if(examState.currentIndex>0)moveTo(examState.currentIndex-1)});
@@ -611,7 +928,44 @@ $("theme-toggle").addEventListener("click",()=>{
   $("theme-toggle").setAttribute("aria-pressed",String(document.body.classList.contains("dark")));
 });
 $("brand-home").addEventListener("click",event=>{
-  if(!views.exam.classList.contains("hidden")){event.preventDefault();toast("Submit or finish the current test before leaving.");}
+  event.preventDefault();
+  if(!views.exam.classList.contains("hidden")){toast("Submit or finish the current test before leaving.");return;}
+  showView("home");
+});
+$("menu-toggle").addEventListener("click",()=>{
+  const open = $("main-nav").classList.toggle("is-open");
+  $("menu-toggle").setAttribute("aria-expanded",String(open));
+  $("menu-toggle").setAttribute("aria-label",open?"Close navigation menu":"Open navigation menu");
+});
+document.addEventListener("click",event=>{
+  const link = event.target.closest("[data-menu-target]");
+  if (!link) return;
+  event.preventDefault();
+  closeMainMenu();
+  if (!views.exam.classList.contains("hidden")) {
+    toast("Finish or submit the active test before navigating away.");
+    return;
+  }
+  const target = link.dataset.menuTarget;
+  if (target === "home" || target === "quick-test") {
+    showView(target);
+    return;
+  }
+  if (target === "about-dev") {
+    showView("home");
+    requestAnimationFrame(() => $("about-dev").scrollIntoView({ behavior:"smooth", block:"start" }));
+    return;
+  }
+  if (target === "custom-test") {
+    showView("setup");
+    showSetupStep(1);
+  }
+});
+document.addEventListener("keydown",event=>{
+  if(event.key==="Escape") closeMainMenu();
+});
+document.addEventListener("click",event=>{
+  if(!event.target.closest(".topbar")) closeMainMenu();
 });
 document.addEventListener("keydown",event=>{
   if(views.exam.classList.contains("hidden")||!examState||examState.submitted||!$("submit-modal").classList.contains("hidden"))return;

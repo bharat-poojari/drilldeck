@@ -117,10 +117,19 @@
 <body>
   <div class="app-shell">
     <header class="topbar">
-      <a class="brand" href="#" aria-label="DrillDeck home" id="brand-home">
+      <a class="brand" href="#home-view" aria-label="DrillDeck home" id="brand-home">
         <img class="brand-mark" src="/assets/drilldeck-mark.svg" alt="" width="38" height="38">
         <span>Drill<span class="brand-light">Deck</span></span>
       </a>
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Open navigation menu" aria-controls="main-nav" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="main-nav" id="main-nav" aria-label="Main navigation">
+        <a href="#home-view" data-menu-target="home">Home</a>
+        <a href="#quick-test-view" data-menu-target="quick-test">Quick test</a>
+        <a href="#setup-panel" data-menu-target="custom-test">Custom test</a>
+        <a href="#about-dev" data-menu-target="about-dev">About the creator</a>
+      </nav>
       <div class="topbar-right">
         <span class="status-pill"><span class="status-dot"></span> Flexible practice</span>
         <button class="button button-outline account-open" id="account-open" type="button">Account (optional)</button>
@@ -129,19 +138,159 @@
     </header>
 
     <main>
-      <section id="setup-view" class="view setup-view">
-        <div class="hero-copy">
-          <div class="eyebrow"><span class="eyebrow-line"></span> KARNATAKA STATE-LEVEL EXAM PRACTICE</div>
-          <div class="hero-keywords"><span>BUILD YOUR OWN MOCK TEST</span><span>GENERAL KNOWLEDGE</span><span>KANNADA · ENGLISH · COMPUTER</span></div>
-          <h1>Prepare for your next <span>Karnataka state exam.</span></h1>
-          <p>Choose your subjects, question sets and time. Practice General Knowledge, current affairs, Kannada, English and Computer.</p>
+      <section id="home-view" class="view home-view">
+        <div class="home-hero">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="eyebrow-line"></span> MADE FOR KARNATAKA STATE-LEVEL EXAMS <span class="eyebrow-line"></span></div>
+            <div class="hero-keywords"><span>GENERAL KNOWLEDGE</span><span>CURRENT AFFAIRS</span><span>KANNADA · ENGLISH · COMPUTER</span></div>
+            <h1>Make every practice session <span>count.</span></h1>
+            <p>Build a mock exam around your goals, explore the subjects that matter, and see how you improve—one focused session at a time.</p>
+          </div>
+          <div class="home-subjects" aria-label="Available subjects">
+            <span class="home-subjects-label">PRACTICE YOUR WAY THROUGH</span>
+            <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">01</span> General Knowledge</span>
+            <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">02</span> Current Affairs</span>
+            <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">03</span> Kannada</span>
+            <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">04</span> English</span>
+            <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">05</span> Computer</span>
+          </div>
         </div>
+        <section class="mode-cards" aria-label="Choose an exam mode">
+          <article class="mode-card quick-mode-card">
+            <div class="mode-card-topline"><span class="mode-card-icon quick-mode-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M13.2 2.8 5.7 13h5.1l-.5 8.2L18.3 11h-5.2l.1-8.2Z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg>
+            </span><span class="mode-card-index">01 / QUICK START</span></div>
+            <span class="mode-card-kicker">FOR A FOCUSED REVISION BREAK</span>
+            <h2>Quick test</h2>
+            <p>Get straight to a short, focused practice session. Quick Test is being prepared—this space will take you to it as soon as it’s ready.</p>
+            <div class="mode-card-note"><span class="status-pulse"></span> QUICK PRACTICE · COMING SOON</div>
+            <a class="button button-outline" href="#quick-test-view" data-menu-target="quick-test">Explore quick test <span aria-hidden="true">↗</span></a>
+          </article>
+          <article class="mode-card custom-mode-card">
+            <div class="mode-card-topline"><span class="mode-card-icon custom-mode-icon" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+            </span><span class="mode-card-index">02 / FULL CONTROL</span></div>
+            <span class="mode-card-kicker">TAILOR EVERY DETAIL</span>
+            <h2>Custom exam mode</h2>
+            <p>Choose a paper and topics, set your difficulty and time, then take a mock test built around your preparation.</p>
+            <div class="mode-card-note"><span class="mode-note-check" aria-hidden="true">✓</span> TOPIC-LEVEL · TIMED · YOUR PACE</div>
+            <a class="button button-primary" href="#setup-view" data-menu-target="custom-test">Build your mock test <span aria-hidden="true">↗</span></a>
+          </article>
+        </section>
+        <section class="home-benefits" aria-label="Practice features">
+          <div class="home-section-heading"><span class="step-label">A BETTER WAY TO PREPARE</span><h2>Made for focused progress.</h2></div>
+          <div class="benefit-grid">
+            <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg></span><div><h3>Your topics, your test</h3><p>Choose the subjects and topics you want to focus on, instead of settling for a one-size-fits-all paper.</p></div></article>
+            <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.7"/><path d="M12 7v5l3.5 2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span><div><h3>Practice at your pace</h3><p>Set a question count and time limit that fit your revision plan, from a quick review to a full mock test.</p></div></article>
+            <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M5 19V9m7 10V5m7 14v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M3 19.5h18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></span><div><h3>Learn from every attempt</h3><p>Review your answers, understand your score, and keep a private history of completed tests on this device.</p></div></article>
+          </div>
+        </section>
+        <section class="creator-card home-creator" id="about-dev" aria-labelledby="creator-name">
+          <div class="creator-card-top"><img class="creator-monogram" src="/assets/bharat-poojari.png" alt="Bharat Poojari" width="54" height="54"><div><p class="creator-eyebrow">A LITTLE ABOUT THE CREATOR</p><h2 id="creator-name">Built with purpose by Bharat Poojari.</h2><p class="creator-bio">Creating thoughtful, practical tools to help Karnataka’s exam aspirants prepare with more confidence.</p></div></div>
+          <div class="creator-card-links">
+            <a class="creator-portfolio" href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer"><span>Visit portfolio</span><span aria-hidden="true">↗</span></a>
+            <nav class="creator-social-links" aria-label="Bharat Poojari social profiles">
+              <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on GitHub">GitHub <span aria-hidden="true">↗</span></a>
+              <a href="https://www.linkedin.com/in/bharat-poojari-397618359/" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on LinkedIn">LinkedIn <span aria-hidden="true">↗</span></a>
+              <a href="https://www.instagram.com/bharat_x_16/" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on Instagram">Instagram <span aria-hidden="true">↗</span></a>
+              <a href="mailto:bharatp0316@gmail.com" aria-label="Email Bharat Poojari">Email <span aria-hidden="true">↗</span></a>
+            </nav>
+          </div>
+        </section>
+        <footer class="home-footer">
+          <div class="home-footer-brand"><a class="brand" href="#home-view" aria-label="DrillDeck home"><img class="brand-mark" src="/assets/drilldeck-mark.svg" alt="" width="34" height="34"><span>Drill<span class="brand-light">Deck</span></span></a><p>Make every practice session count.</p></div>
+          <nav class="home-footer-nav" aria-label="Footer navigation">
+            <a href="#home-view" data-menu-target="home">Home</a>
+            <a href="#quick-test-view" data-menu-target="quick-test">Quick test</a>
+            <a href="#setup-panel" data-menu-target="custom-test">Custom exam</a>
+            <a href="#about-dev" data-menu-target="about-dev">About the creator</a>
+          </nav>
+          <div class="home-footer-bottom"><span>Free Karnataka state-level exam practice.</span><span>Your detailed results stay on this device unless you choose to publish a score.</span><span>© 2026 DrillDeck</span></div>
+        </footer>
+      </section>
+
+      <section id="quick-test-view" class="view quick-test-view hidden" aria-labelledby="quick-test-page-title">
+        <div class="quick-page-heading">
+          <a class="quick-back-link" href="#home-view" data-menu-target="home"><span aria-hidden="true">←</span> Back to home</a>
+          <div class="eyebrow"><span class="eyebrow-line"></span> QUICK PRACTICE, YOUR WAY <span class="eyebrow-line"></span></div>
+          <h1 id="quick-test-page-title">Choose a paper. <span>Get started.</span></h1>
+          <p>Pick your subjects, set your question count and time, then jump right into a timed mock test.</p>
+        </div>
+        <div class="quick-exam-grid">
+          <form class="quick-exam-card quick-gk-card" id="quick-gk-form" novalidate>
+            <div class="quick-exam-card-heading">
+              <span class="quick-exam-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M12 3.5a8.5 8.5 0 1 0 0 17 8.5 8.5 0 0 0 0-17Z" stroke="currentColor" stroke-width="1.7"/><path d="M9.6 9a2.45 2.45 0 1 1 4.1 1.8c-1.1.9-1.7 1.2-1.7 2.7m0 2.8v.1" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg></span>
+              <span class="quick-default-badge"><span aria-hidden="true">✓</span> DEFAULT PAPER</span>
+            </div>
+            <span class="quick-exam-kicker">GENERAL KNOWLEDGE</span>
+            <h2>Sharpen your GK</h2>
+            <p class="quick-exam-description">Revise across General Knowledge and current affairs with a mixed set drawn from the available GK question bank.</p>
+            <div class="quick-settings-grid">
+              <div class="field">
+                <label for="quick-gk-count">Questions <span class="label-hint">1 mark each</span></label>
+                <input id="quick-gk-count" type="number" min="1" max="1000" value="10" inputmode="numeric">
+                <small class="quick-setting-hint">Maximum marks: <strong id="quick-gk-marks">10</strong></small>
+              </div>
+              <div class="field">
+                <label for="quick-gk-duration">Duration <span class="label-hint">minutes</span></label>
+                <input id="quick-gk-duration" type="number" min="1" max="600" value="10" inputmode="numeric">
+                <small class="quick-setting-hint">Time limit for this test</small>
+              </div>
+            </div>
+            <div class="quick-exam-footer">
+              <p class="quick-availability" id="quick-gk-availability" role="status" aria-live="polite">Loading GK questions…</p>
+              <button class="button button-primary quick-start-button" type="submit" data-quick-submit="gk">Start GK test <span aria-hidden="true">→</span></button>
+            </div>
+            <p class="quick-form-error" id="quick-gk-error" role="alert"></p>
+          </form>
+
+          <form class="quick-exam-card quick-combined-card" id="quick-combined-form" novalidate>
+            <div class="quick-exam-card-heading">
+              <span class="quick-exam-icon combined-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4.5 5.5h15m-15 6h15m-15 6h15" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="8" cy="5.5" r="2" fill="var(--surface)" stroke="currentColor" stroke-width="1.7"/><circle cx="15.5" cy="11.5" r="2" fill="var(--surface)" stroke="currentColor" stroke-width="1.7"/><circle cx="10.5" cy="17.5" r="2" fill="var(--surface)" stroke="currentColor" stroke-width="1.7"/></svg></span>
+              <span class="quick-default-badge combined-badge"><span aria-hidden="true">＋</span> MIX YOUR SUBJECTS</span>
+            </div>
+            <span class="quick-exam-kicker">GENERAL KANNADA, ENGLISH &amp; COMPUTER</span>
+            <h2>Build a combined test</h2>
+            <p class="quick-exam-description">Pick one subject, combine any two, or include Kannada, English and Computer together.</p>
+            <fieldset class="quick-subject-field">
+              <legend>Select subjects <span>Choose one or more</span></legend>
+              <div class="quick-subject-options">
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Kannada" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Kannada</strong><small>Language practice</small></span><span class="quick-subject-tag">KN</span></label>
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="English" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>English</strong><small>Grammar &amp; usage</small></span><span class="quick-subject-tag">EN</span></label>
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Computer" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Computer Knowledge</strong><small>Digital fundamentals</small></span><span class="quick-subject-tag">IT</span></label>
+              </div>
+            </fieldset>
+            <div class="quick-settings-grid">
+              <div class="field">
+                <label for="quick-combined-count">Questions <span class="label-hint">1 mark each</span></label>
+                <input id="quick-combined-count" type="number" min="1" max="1000" value="10" inputmode="numeric">
+                <small class="quick-setting-hint">Maximum marks: <strong id="quick-combined-marks">10</strong></small>
+              </div>
+              <div class="field">
+                <label for="quick-combined-duration">Duration <span class="label-hint">minutes</span></label>
+                <input id="quick-combined-duration" type="number" min="1" max="600" value="10" inputmode="numeric">
+                <small class="quick-setting-hint">Time limit for this test</small>
+              </div>
+            </div>
+            <div class="quick-exam-footer">
+              <p class="quick-availability" id="quick-combined-availability" role="status" aria-live="polite">Loading subject questions…</p>
+              <button class="button button-primary quick-start-button" type="submit" data-quick-submit="combined">Start combined test <span aria-hidden="true">→</span></button>
+            </div>
+            <p class="quick-form-error" id="quick-combined-error" role="alert"></p>
+          </form>
+        </div>
+        <p class="quick-marking-note"><span aria-hidden="true">i</span> Marking scheme: <strong>+1</strong> for a correct answer, <strong>−0.25</strong> for an incorrect answer, and <strong>0</strong> for unanswered questions.</p>
+      </section>
+
+      <section id="setup-view" class="view setup-view hidden">
         <div class="setup-grid">
           <div class="setup-main-column">
           <section class="panel setup-panel" id="setup-panel">
             <div class="panel-heading">
               <div><span class="step-label" id="setup-step-label">STEP 01 OF 04</span><h2 id="setup-step-title">Choose your paper</h2></div>
-              <span class="panel-icon">⚙</span>
+              <span class="panel-icon" id="setup-step-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+              </span>
             </div>
             <form id="setup-form">
               <div class="setup-step" data-setup-step="1">
@@ -159,17 +308,27 @@
                 <div class="step-actions"><span></span><button class="button button-primary" type="button" data-next-step="2">Next <span>→</span></button></div>
               </div>
               <div class="setup-step hidden" data-setup-step="2">
-                <div class="field dataset-field">
-                  <label>Question datasets <span class="label-hint">Choose one or more files</span></label>
-                  <div class="dataset-options" id="dataset-options"><p class="empty-datasets">Loading datasets…</p></div>
-                </div>
+                <fieldset class="field selection-field topic-builder-section">
+                  <legend>
+                    <span class="builder-section-icon" aria-hidden="true">
+                      <svg viewBox="0 0 24 24" fill="none"><circle cx="10.8" cy="10.8" r="6.8" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.5 4.5M8.2 10.8h5.2M10.8 8.2v5.2" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+                    </span>
+                    <span><b>Select subcategories and topics</b><small>Expand a subcategory to choose its topics.</small></span>
+                  </legend>
+                  <label class="sr-only" for="topic-search">Search topics</label>
+                  <input id="topic-search" class="topic-search" type="search" placeholder="Search subcategories and topics" autocomplete="off">
+                  <div class="topic-selection-toolbar">
+                    <span id="topic-selected-count" role="status" aria-live="polite">0 topics selected</span>
+                    <div>
+                      <button class="button button-outline" id="topic-select-all" type="button">Select all</button>
+                      <button class="button button-outline" id="topic-clear" type="button">Clear selection</button>
+                    </div>
+                  </div>
+                  <div class="topic-options" id="topic-groups" aria-label="Subcategories and their topics"><p class="empty-datasets">Choose datasets first.</p></div>
+                </fieldset>
                 <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="1">← Back</button><button class="button button-primary" type="button" data-next-step="3">Next <span>→</span></button></div>
               </div>
               <div class="setup-step hidden" data-setup-step="3">
-                <fieldset class="field selection-field">
-                  <legend>Subcategory</legend>
-                  <div class="selection-options topic-options" id="topic-options"><p class="empty-datasets">Choose datasets first.</p></div>
-                </fieldset>
                 <div class="field">
                   <label for="difficulty-select">Difficulty</label>
                   <select id="difficulty-select">
@@ -190,6 +349,53 @@
                 <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="2">← Back</button><button class="button button-primary" type="button" data-next-step="4">Next <span>→</span></button></div>
               </div>
               <div class="setup-step hidden" data-setup-step="4">
+                <section class="configuration-review" aria-labelledby="configuration-review-title">
+                  <div class="configuration-review-heading">
+                    <span class="configuration-review-icon" aria-hidden="true">
+                      <svg viewBox="0 0 24 24" fill="none"><path d="M12 3 19 6v5c0 4.6-2.9 7.8-7 10-4.1-2.2-7-5.4-7-10V6l7-3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                    </span>
+                    <div><span class="step-label">READY TO START</span><h3 id="configuration-review-title">Review your mock test</h3><p>Verify your configuration before beginning the timed examination.</p></div>
+                  </div>
+                  <div class="configuration-review-grid">
+                    <article class="configuration-review-card">
+                      <div class="configuration-review-card-heading"><h4>Paper</h4><button type="button" class="review-edit" data-edit-step="1">Edit</button></div>
+                      <p id="review-paper">—</p>
+                    </article>
+                    <article class="configuration-review-card">
+                      <div class="configuration-review-card-heading"><h4>Selected subcategories</h4><button type="button" class="review-edit" data-edit-step="2">Edit</button></div>
+                      <ul id="review-datasets" class="review-value-list"></ul>
+                    </article>
+                    <article class="configuration-review-card review-card-wide">
+                      <div class="configuration-review-card-heading"><h4>Selected topics</h4><button type="button" class="review-edit" data-edit-step="2">Edit</button></div>
+                      <div id="review-topics" class="review-topic-list"></div>
+                    </article>
+                    <article class="configuration-review-card">
+                      <div class="configuration-review-card-heading"><h4>Difficulty</h4><button type="button" class="review-edit" data-edit-step="3">Edit</button></div>
+                      <p id="review-difficulty">—</p>
+                    </article>
+                    <article class="configuration-review-card">
+                      <div class="configuration-review-card-heading"><h4>Questions</h4><button type="button" class="review-edit" data-edit-step="3">Edit</button></div>
+                      <p id="review-question-count">—</p>
+                    </article>
+                    <article class="configuration-review-card">
+                      <div class="configuration-review-card-heading"><h4>Duration</h4><button type="button" class="review-edit" data-edit-step="3">Edit</button></div>
+                      <p id="review-duration">—</p>
+                    </article>
+                    <article class="configuration-review-card review-card-score">
+                      <div class="configuration-review-card-heading"><h4>Maximum marks</h4><span class="review-score-icon" aria-hidden="true">✓</span></div>
+                      <p><strong id="review-maximum-score">—</strong><span> marks</span></p>
+                    </article>
+                  </div>
+                  <section class="review-marking-scheme" aria-labelledby="review-marking-title">
+                    <div><h4 id="review-marking-title">Marking scheme</h4><p>Maximum possible score: <strong id="review-marking-maximum">—</strong></p></div>
+                    <div class="review-marking-items">
+                      <span><b>Correct answer</b><strong>+1 mark</strong></span>
+                      <span><b>Incorrect answer</b><strong>−0.25 marks</strong></span>
+                      <span><b>Unanswered</b><strong>0 marks</strong></span>
+                    </div>
+                  </section>
+                  <p id="review-availability" class="review-availability" role="status" aria-live="polite"></p>
+                </section>
                 <div class="field">
                   <label id="leaderboard-name-label" for="leaderboard-name">Public display name <span class="label-hint">optional</span></label>
                   <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">
@@ -204,8 +410,7 @@
                   <small class="field-help">Unchecked by default. If selected, your chosen display name, score, paper, subjects and submission date are public. Your email is never displayed. Your detailed result remains in your private test history either way.</small>
                 </fieldset>
                 <div class="marking-note">
-                  <div class="marking-title">MARKING SCHEME</div>
-                  <div class="marking-items"><span><b class="positive">+1</b> Correct</span><span><b class="negative">−0.25</b> Incorrect</span><span><b>0</b> Unanswered</span></div>
+                  <div class="marking-title">YOUR RESULT REMAINS PRIVATE UNLESS YOU OPT IN ABOVE</div>
                 </div>
                 <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="3">← Back</button><button class="button button-primary" id="start-button" type="submit">Start mock test <span>→</span></button></div>
               </div>
@@ -231,18 +436,6 @@
               <div class="bank-top"><span class="bank-tag">TOTAL QUESTIONS</span><span class="bank-icon">▤</span></div>
               <div class="bank-count" id="bank-count">—</div>
             </div>
-            <section class="creator-card" aria-labelledby="creator-name">
-              <div class="creator-card-top"><img class="creator-monogram" src="/assets/bharat-poojari.png" alt="" width="36" height="36"><div><p class="creator-eyebrow">CREATED BY</p><h2 id="creator-name">Bharat Poojari</h2></div></div>
-              <a class="creator-portfolio" href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer">
-                <span>Portfolio</span><span aria-hidden="true">↗</span>
-              </a>
-              <nav class="creator-social-links" aria-label="Bharat Poojari social profiles">
-                <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on GitHub">GitHub</a>
-                <a href="https://www.linkedin.com/in/bharat-poojari-397618359/" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on LinkedIn">LinkedIn</a>
-                <a href="https://www.instagram.com/bharat_x_16/" target="_blank" rel="noopener noreferrer" aria-label="Bharat Poojari on Instagram">Instagram</a>
-                <a href="mailto:bharatp0316@gmail.com" aria-label="Email Bharat Poojari">Email</a>
-              </nav>
-            </section>
             <section class="panel community-panel" aria-labelledby="community-title">
               <div class="section-heading"><div><span class="step-label">COMMUNITY</span><h2 id="community-title">Chat</h2></div></div>
               <p class="community-note">A shared space for everyone. Keep messages kind and relevant.</p>
@@ -263,20 +456,6 @@
             </section>
           </aside>
         </div>
-        <footer class="page-footer">
-          <div class="footer-caption">DRILLDECK <span>•</span> CUSTOM PRACTICE</div>
-          <div class="creator-contact">
-            <span>Created by <a href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer">Bharat Poojari</a></span>
-            <span class="contact-prompt">Questions or ideas? Get in touch:</span>
-            <nav class="contact-links" aria-label="Contact and creator profiles">
-              <a href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer">Portfolio</a>
-              <a href="https://github.com/bharat-poojari" target="_blank" rel="noopener noreferrer">GitHub</a>
-              <a href="https://www.linkedin.com/in/bharat-poojari-397618359/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-              <a href="https://www.instagram.com/bharat_x_16/" target="_blank" rel="noopener noreferrer">Instagram</a>
-              <a href="mailto:bharatp0316@gmail.com">Email</a>
-            </nav>
-          </div>
-        </footer>
       </section>
 
       <section id="exam-view" class="view exam-view hidden">

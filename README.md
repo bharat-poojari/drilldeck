@@ -4,7 +4,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 
 ## Features
 
-- Configure a custom practice test by paper, subject/category, dataset, subcategory, difficulty, question count and duration.
+- Configure a custom practice test by paper, subject/category, subcategory and its topics, difficulty, question count and duration.
 - Discover JSON question datasets from the `data/` folder hierarchy automatically.
 - Balance questions randomly across selected datasets, shuffle questions within each dataset and avoid repeats.
 - Dataset- and subject-scoped question IDs; repeated IDs are disambiguated by occurrence, and gaps in source numbering are allowed.
@@ -22,7 +22,9 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
 - Search metadata and structured data for Karnataka exam practice, creator profile links, a branded social preview, SVG/PNG/ICO browser and mobile icons, Google Search Console verification, robots.txt and an XML image sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
-- Four-step test setup with multiple category, dataset and subcategory selection.
+- Four-step test setup with a unified, expandable subcategory-and-topic selector.
+- Searchable, collapsible topic groups with per-category and global selection controls.
+- Final configuration review with editable sections and server-side validation against the available question bank before a test starts.
 - Explicit opt-in before publishing a score; the global score list shows newest submissions first and never displays email addresses.
 - Public shared chat messages stored in GitHub-backed JSON, with optional display names.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
@@ -38,22 +40,22 @@ The app loads the generated `data/datasets.json` index, so it works on Vercel wi
 3. Install/enable the **Live Server** extension.
 4. Right-click `index.html` and choose **Open with Live Server**.
 
-### Option B: Python static server
+### Option B: Local development server
 
 From the extracted project directory, run:
 
 ```bash
 npm run build
-python -m http.server 8000
+npm run dev
 ```
 
 Then open:
 
 ```text
-http://localhost:8000
+http://127.0.0.1:8000
 ```
 
-No npm packages are required. Account, leaderboard and chat APIs need the Vercel serverless runtime and environment variables described below; a plain static server can run the question practice UI but cannot save accounts, scores or chat messages.
+This server provides the configuration-validation API needed to start a test and serves only public app files. It does not provide account, chat or leaderboard APIs. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
 
 ## Deploy accounts and score sharing to Vercel
 
@@ -81,7 +83,7 @@ Full submitted results, including the questions and answers needed to recover th
 
 If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Password recovery and account deletion are not currently available.
 
-For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. A plain Python/Live Server instance has no `/api` functions, so account, leaderboard and chat requests will report that the service is unavailable.
+For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. The configuration endpoint validates the selected datasets, topics, question count, duration and marking scheme against the server-side question bank before generating the test. `vercel.json` includes the data files in that function. A plain Python/Live Server instance has no `/api` functions, so test creation, account, leaderboard and chat requests will report that the service is unavailable; an HTTP 501 when starting a test means it must be run through `vercel dev` or a Vercel deployment.
 
 ## Add question datasets
 

@@ -66,6 +66,7 @@ function showSetupStep(step) {
   $("setup-step-label").textContent = `STEP ${String(step).padStart(2,"0")} OF 04`;
   $("setup-step-title").textContent = setupStepTitles[step-1];
   $("setup-error").textContent = "";
+  $("setup-panel").scrollIntoView({ behavior:"smooth", block:"start" });
 }
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));

@@ -18,7 +18,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
-- Search metadata for Karnataka state exam preparation, creator profile links and structured data, social sharing previews, a branded SVG favicon, Google Search Console verification, robots.txt and XML image sitemap.
+- Search metadata and structured data for Karnataka exam practice, creator profile links, a branded social preview, SVG/PNG/ICO browser and mobile icons, Google Search Console verification, robots.txt and an XML image sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Four-step test setup with multiple category, dataset and subcategory selection.
 - Automatic global score publishing with email addresses kept private; the global score list shows newest submissions first.
@@ -171,7 +171,14 @@ mock-test-platform/
 │   ├── scoring.js
 │   └── results.js
 ├── assets/
-│   └── drilldeck-mark.svg
+│   ├── drilldeck-mark.svg
+│   ├── favicon-32.png
+│   ├── apple-touch-icon.png
+│   ├── icon-192.png
+│   ├── icon-512.png
+│   ├── drilldeck-social.png
+│   └── bharat-poojari.png
+├── favicon.ico
 ├── site.webmanifest
 ├── robots.txt
 ├── sitemap.xml
@@ -194,7 +201,7 @@ GitHub-backed JSON is a lightweight prototype store, not a production database. 
 
 Before opening registration or public chat to a large audience, configure Vercel Firewall or another server-side rate limiter for account, score and chat API routes. Chat messages are public and have no moderation workflow. This prototype does not have durable rate-limit storage or email verification.
 
-Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The build copies the Google Search Console verification file to the public site root. After deployment, open `https://drilldeck.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://drilldeck.vercel.app/sitemap.xml`.
+Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The canonical URL, robots rules, sitemap, social preview, and square browser/PWA icons use `https://drilldeck.vercel.app/`. The build copies the root favicon and Google Search Console verification file to the public site root. After deployment, open `https://drilldeck.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://drilldeck.vercel.app/sitemap.xml`.
 
 ## Sample question bank
 

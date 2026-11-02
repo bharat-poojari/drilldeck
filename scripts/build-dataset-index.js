@@ -48,6 +48,7 @@ await Promise.all([
   "robots.txt",
   "sitemap.xml",
   "site.webmanifest",
+  "favicon.ico",
   "googlef225cee30a4b6859.html"
 ].map(entry =>
   cp(join(projectRoot, entry), join(outputRoot, entry), {

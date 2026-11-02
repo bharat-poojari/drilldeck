@@ -1,18 +1,4 @@
 {
   "users": [],
-  "scores": [
-    {
-      "id": "777770ba-2eda-4108-a070-85809171d962",
-      "name": "Guest",
-      "score": 0,
-      "maximum": 25,
-      "scorePercentage": 0,
-      "paper": "General Knowledge",
-      "subjects": [
-        "Current Affairs"
-      ],
-      "createdAt": "2026-11-01T14:30:24.859Z",
-      "accountId": null
-    }
-  ]
+  "scores": []
 }

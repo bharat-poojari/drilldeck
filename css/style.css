@@ -183,7 +183,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outl
 .community-panel{padding:18px}
 .community-panel .section-heading h2{font-size:17px}
 .community-note{font-size:10px;color:var(--muted);margin:7px 0 11px}
-.community-messages{max-height:240px;overflow:auto;border:1px solid var(--line);border-radius:10px;padding:9px;overscroll-behavior:contain}
+.community-messages{height:280px;max-height:280px;overflow-y:auto;overflow-x:hidden;border:1px solid var(--line);border-radius:10px;padding:9px;overscroll-behavior:contain}
 .community-message{padding:8px 2px;border-bottom:1px solid var(--line)}
 .community-message:last-child{border-bottom:0}
 .community-message-heading{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
@@ -208,6 +208,6 @@ a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outl
   .setup-panel .step-actions .button{position:static}
   .leaderboard-panel{max-height:390px}
   #leaderboard-list{max-height:260px}
-  .community-messages{max-height:220px}
+  .community-messages{height:256px;max-height:256px}
   .bank-panel{padding:15px 17px}
 }

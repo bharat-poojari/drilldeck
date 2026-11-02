@@ -104,11 +104,12 @@ function renderCommunityMessages(messages) {
     container.innerHTML = '<p class="empty-datasets">No messages yet. Start the conversation.</p>';
     return;
   }
-  container.innerHTML = messages.map(message => `
+  container.innerHTML = [...messages].reverse().map(message => `
     <article class="community-message">
       <div class="community-message-heading"><strong>${escapeHtml(message.name)}</strong><time datetime="${escapeHtml(message.createdAt)}">${escapeHtml(new Date(message.createdAt).toLocaleString())}</time></div>
       <p>${escapeHtml(message.message)}</p>
     </article>`).join("");
+  container.scrollTop = container.scrollHeight;
 }
 
 async function refreshCommunityMessages() {

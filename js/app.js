@@ -3,10 +3,15 @@ import { createExamState, getQuestionStatus, answerQuestion, visitQuestion, togg
 import { createTimer, formatTime } from "./timer.js";
 import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
-import { initializeAccounts, initializeCommunityChat, publishScore } from "./accounts.js";
+import { getCurrentAccount, initializeAccounts, initializeCommunityChat, managePublishedScore, publishScore } from "./accounts.js";
+import { createResultsStore } from "./results-store.js";
 
 const $ = id => document.getElementById(id);
 const views = { setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
+const resultsStore = createResultsStore({
+  getItem:key => window.localStorage.getItem(key),
+  setItem:(key, value) => window.localStorage.setItem(key, value)
+});
 let bank = null;
 let examState = null;
 let timer = null;
@@ -14,6 +19,7 @@ let durationSeconds = 0;
 let examStartedAt = null;
 let submitInProgress = false;
 let examContext = null;
+let examTestId = null;
 let toastTimeout = null;
 let currentSetupStep = 1;
 const setupStepTitles = ["Choose your paper","Choose question datasets","Set test preferences","Review and start"];
@@ -70,6 +76,120 @@ function showSetupStep(step) {
 }
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
+}
+function createId() {
+  return globalThis.crypto?.randomUUID
+    ? globalThis.crypto.randomUUID()
+    : "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, character => {
+      const value = Math.floor(Math.random() * 16);
+      return (character === "x" ? value : (value & 3) | 8).toString(16);
+    });
+}
+function setResultUrl(id) {
+  const url = new URL(window.location.href);
+  if (id) url.searchParams.set("result", id);
+  else url.searchParams.delete("result");
+  window.history.replaceState({}, "", url);
+}
+function renderLocalHistory() {
+  const container = $("local-test-history");
+  const status = $("local-data-status");
+  try {
+    const { results } = resultsStore.getData();
+    if (status.classList.contains("error-message")) status.textContent = "";
+    status.classList.remove("error-message");
+    if (!results.length) {
+      container.innerHTML = '<p class="empty-datasets">Your completed tests will appear here. Results stay on this device unless you export a backup.</p>';
+      return;
+    }
+    container.innerHTML = `<ol class="score-list">${results.map(result => {
+      const canManage = result.userId === null
+        ? Boolean(result.guestId)
+        : getCurrentAccount()?.id === result.userId;
+      const controls = result.leaderboard?.published
+        ? `<div class="local-score-controls">
+            ${canManage
+              ? `<label class="sr-only" for="public-name-${escapeHtml(result.id)}">Public display name</label>
+                 <input id="public-name-${escapeHtml(result.id)}" data-public-name type="text" maxlength="60" value="${escapeHtml(result.leaderboard.name)}">
+                 <button class="button button-outline" type="button" data-score-action="rename" data-result-id="${escapeHtml(result.id)}">Save name</button>
+                 <button class="button button-outline" type="button" data-score-action="remove" data-result-id="${escapeHtml(result.id)}">Remove from leaderboard</button>`
+              : '<span class="field-help">Sign in to manage this published score.</span>'}
+          </div>`
+        : "";
+      return `
+      <li class="score-entry local-history-entry">
+        <div class="local-result-details">
+          <span class="local-result-date">${escapeHtml(new Date(result.submittedAt).toLocaleString())}</span>
+          <span class="score-name">${escapeHtml(result.paper)}<small>${escapeHtml(result.selectedCategories.join(", "))} · ${result.totalQuestions} questions</small></span>
+        </div>
+        <button class="button button-outline local-result-open" type="button" data-result-id="${escapeHtml(result.id)}" aria-label="Open result from ${escapeHtml(new Date(result.submittedAt).toLocaleDateString())}">${escapeHtml(result.totalScore.toFixed(2))} / ${escapeHtml(result.metrics.maximum.toFixed(2))}<span>Open</span></button>
+        ${controls}
+      </li>`;
+    }).join("")}</ol>`;
+  } catch (error) {
+    container.innerHTML = '<p class="empty-datasets">Saved test history could not be loaded.</p>';
+    status.textContent = error.message;
+    status.classList.add("error-message");
+  }
+}
+function showSavedResult(id) {
+  try {
+    const result = resultsStore.getData().results.find(item => item.id === id);
+    if (!result) {
+      $("local-data-status").textContent = "That saved result was not found on this device. Import the backup that contains it.";
+      $("local-data-status").classList.add("error-message");
+      showView("setup");
+      return;
+    }
+    renderResults({
+      questions:result.questions,
+      answers:result.answers,
+      metrics:result.metrics,
+      examName:result.examName,
+      submittedAt:new Date(result.submittedAt),
+      onNewTest:resetToSetup
+    });
+    $("local-save-status").textContent = "This result is saved on this device. Export a backup to move it to another browser.";
+    $("score-publish-status").textContent = "Viewing a saved local result. This result is not republished.";
+    $("retry-publish").classList.add("hidden");
+    setResultUrl(result.id);
+    showView("result");
+  } catch (error) {
+    $("local-data-status").textContent = `Saved result could not be opened: ${error.message}`;
+    $("local-data-status").classList.add("error-message");
+    showView("setup");
+  }
+}
+function restoreResultFromUrl() {
+  const id = new URL(window.location.href).searchParams.get("result");
+  if (id) showSavedResult(id);
+}
+function downloadLocalData() {
+  try {
+    const backup = resultsStore.exportData();
+    const url = URL.createObjectURL(new Blob([backup], { type:"application/json" }));
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = `drilldeck-results-${new Date().toISOString().slice(0, 10)}.json`;
+    link.click();
+    URL.revokeObjectURL(url);
+    $("local-data-status").textContent = "Your local results backup has been downloaded.";
+    $("local-data-status").classList.remove("error-message");
+  } catch (error) {
+    $("local-data-status").textContent = `Backup could not be exported: ${error.message}`;
+    $("local-data-status").classList.add("error-message");
+  }
+}
+async function importLocalData(file) {
+  try {
+    const restored = resultsStore.importData(await file.text());
+    $("local-data-status").textContent = `Imported ${restored.results.length} saved test${restored.results.length === 1 ? "" : "s"}. Existing results were kept.`;
+    $("local-data-status").classList.remove("error-message");
+    renderLocalHistory();
+  } catch (error) {
+    $("local-data-status").textContent = `Backup could not be imported: ${error.message}`;
+    $("local-data-status").classList.add("error-message");
+  }
 }
 function selectedCategories() {
   return checkedValues($("category-options"), "category");
@@ -160,11 +280,18 @@ function startExam(event) {
   try {
     const selected = selectRandomQuestions(matching, count);
     examState = createExamState(selected);
+    examTestId = createId();
+    const filters = currentFilters();
     examContext = {
       paper:$("paper-select").value === "general-knowledge"
         ? "General Knowledge"
         : "General Kannada, English & Computer Knowledge",
-      subjects:[...new Set(selected.map(question => question.subject))]
+      subjects:[...new Set(selected.map(question => question.subject))],
+      paperId:filters.paper,
+      categories:filters.categories,
+      datasets:filters.datasets,
+      topics:filters.topics,
+      difficulty:filters.difficulty
     };
     durationSeconds = duration * 60;
     examStartedAt = Date.now();
@@ -267,29 +394,101 @@ async function finalizeExam(autoSubmitted = false) {
   if (timer) timer.stop();
   const elapsed = autoSubmitted ? durationSeconds : Math.min(durationSeconds, Math.floor((Date.now()-examStartedAt)/1000));
   const metrics = calculateResults(examState.questions,examState.answers,durationSeconds,elapsed,autoSubmitted);
+  const submittedAt = new Date();
+  const submissionId = createId();
+  const account = getCurrentAccount();
+  const publishConsent = $("publish-score-consent").checked;
+  const displayName = $("leaderboard-name").value.trim();
+  const result = {
+    id:submissionId,
+    testId:examTestId,
+    userId:account?.id || null,
+    guestId:null,
+    paperId:examContext.paperId,
+    paper:examContext.paper,
+    examName:$("exam-title").textContent,
+    selectedCategories:examContext.categories,
+    selectedDatasets:examContext.datasets,
+    selectedTopics:examContext.topics,
+    difficulty:examContext.difficulty,
+    totalQuestions:metrics.total,
+    correctAnswers:metrics.correct,
+    incorrectAnswers:metrics.wrong,
+    unansweredQuestions:metrics.unanswered,
+    totalScore:metrics.score,
+    accuracyPercentage:metrics.accuracy,
+    timeTakenSeconds:metrics.elapsedSeconds,
+    submittedAt:submittedAt.toISOString(),
+    leaderboard:{ consented:publishConsent, published:false, name:displayName },
+    metrics,
+    questions:examState.questions,
+    answers:examState.answers.map(answer => ({ selected:answer.selected }))
+  };
+  let localSaved = false;
+  try {
+    if (!result.userId) result.guestId = resultsStore.ensureGuestId();
+    resultsStore.saveResult(result);
+    localSaved = true;
+    setResultUrl(result.id);
+    renderLocalHistory();
+  } catch (error) {
+    $("local-save-status").textContent = `This result could not be saved locally: ${error.message}`;
+    $("local-save-status").classList.add("error-message");
+  }
   renderResults({
     questions:examState.questions,
     answers:examState.answers,
     metrics,
     examName:$("exam-title").textContent,
-    submittedAt:new Date(),
+    submittedAt,
     onNewTest:resetToSetup
   });
+  $("local-save-status").textContent = localSaved
+    ? "Saved on this device. Export a backup to keep a copy or move your history to another browser."
+    : $("local-save-status").textContent;
+  $("local-save-status").classList.toggle("error-message", !localSaved);
   showView("result");
-  await publishScore({
+  if (!publishConsent) {
+    $("score-publish-status").textContent = "Private result. Saved in My Test History on this device; nothing was published.";
+    $("score-publish-status").classList.remove("error-message");
+    $("retry-publish").classList.add("hidden");
+    submitInProgress = false;
+    return;
+  }
+  $("score-publish-status").textContent = "You opted in to publish this result. Publishing now…";
+  const published = await publishScore({
+    id:submissionId,
     score:metrics.score,
     maximum:metrics.maximum,
     scorePercentage:metrics.scorePercentage,
     paper:examContext.paper,
-    subjects:examContext.subjects
+    subjects:examContext.subjects,
+    ownerKey:result.userId ? null : result.guestId
   });
+  if (published) {
+    try {
+      resultsStore.updateLeaderboard(submissionId, {
+        consented:true,
+        published:true,
+        name:published.name
+      });
+      renderLocalHistory();
+      $("local-save-status").textContent = "Saved on this device. You can rename or remove its public leaderboard entry from My Test History.";
+    } catch (error) {
+      $("local-data-status").textContent = `The published score could not be linked to local history: ${error.message}`;
+      $("local-data-status").classList.add("error-message");
+    }
+  }
   submitInProgress = false;
 }
 function resetToSetup() {
   if (timer) timer.stop();
   timer = null;
   examState = null;
+  examTestId = null;
+  $("publish-score-consent").checked = false;
   closeSubmitModal();
+  setResultUrl(null);
   showSetupStep(1);
   showView("setup");
   updateAvailability();
@@ -365,6 +564,48 @@ $("palette-toggle").addEventListener("click",()=>{
   $("palette-toggle").textContent=collapsed?"⌄":"⌃";
 });
 $("print-button").addEventListener("click",()=>window.print());
+$("local-test-history").addEventListener("click", event => {
+  const actionButton = event.target.closest("[data-score-action]");
+  if (actionButton) {
+    const result = resultsStore.getData().results.find(item => item.id === actionButton.dataset.resultId);
+    if (!result?.leaderboard?.published) return;
+    const action = actionButton.dataset.scoreAction;
+    const nameInput = actionButton.closest(".local-history-entry").querySelector("[data-public-name]");
+    if (action === "remove" && !window.confirm("Remove this score from the public leaderboard? Your private test history will remain saved.")) return;
+    actionButton.disabled = true;
+    managePublishedScore({
+      id:result.id,
+      action,
+      name:nameInput?.value.trim(),
+      ownerKey:result.userId ? null : result.guestId
+    }).then(score => {
+      resultsStore.updateLeaderboard(result.id, {
+        consented:true,
+        published:action !== "remove",
+        name:action === "remove" ? result.leaderboard.name : score.name
+      });
+      renderLocalHistory();
+      $("local-data-status").textContent = action === "remove"
+        ? "The score was removed from the public leaderboard. Your private result remains saved."
+        : "The public display name was updated.";
+      $("local-data-status").classList.remove("error-message");
+    }).catch(error => {
+      $("local-data-status").textContent = `The public score could not be updated: ${error.message}`;
+      $("local-data-status").classList.add("error-message");
+      actionButton.disabled = false;
+    });
+    return;
+  }
+  const button = event.target.closest("[data-result-id]");
+  if (button) showSavedResult(button.dataset.resultId);
+});
+$("export-local-data").addEventListener("click",downloadLocalData);
+$("import-local-data").addEventListener("click",()=>$("local-data-file").click());
+$("local-data-file").addEventListener("change",event=>{
+  const [file] = event.target.files;
+  if (file) importLocalData(file);
+  event.target.value = "";
+});
 $("theme-toggle").addEventListener("click",()=>{
   document.body.classList.toggle("dark");
   $("theme-toggle").setAttribute("aria-pressed",String(document.body.classList.contains("dark")));
@@ -388,8 +629,11 @@ window.addEventListener("beforeunload",event=>{
 });
 
 initialize();
+renderLocalHistory();
+restoreResultFromUrl();
 initializeCommunityChat();
 initializeAccounts().catch(error => {
   $("account-message").textContent = `Account and leaderboard service is unavailable: ${error.message}`;
   $("account-message").classList.add("error-message");
-});
+}).finally(renderLocalHistory);
+window.addEventListener("popstate",restoreResultFromUrl);

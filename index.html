@@ -137,6 +137,7 @@
           <p>Choose your subjects, question sets and time. Practice General Knowledge, current affairs, Kannada, English and Computer.</p>
         </div>
         <div class="setup-grid">
+          <div class="setup-main-column">
           <section class="panel setup-panel" id="setup-panel">
             <div class="panel-heading">
               <div><span class="step-label" id="setup-step-label">STEP 01 OF 04</span><h2 id="setup-step-title">Choose your paper</h2></div>
@@ -190,10 +191,18 @@
               </div>
               <div class="setup-step hidden" data-setup-step="4">
                 <div class="field">
-                  <label id="leaderboard-name-label" for="leaderboard-name">Name on public scores <span class="label-hint">optional for guests</span></label>
+                  <label id="leaderboard-name-label" for="leaderboard-name">Public display name <span class="label-hint">optional</span></label>
                   <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">
-                  <small class="field-help" id="leaderboard-name-help">Your name, score, paper and subjects are public. Your email is never shown.</small>
+                  <small class="field-help" id="leaderboard-name-help">This name is used only if you choose to publish this result. You can change or remove a published score later.</small>
                 </div>
+                <fieldset class="field selection-field leaderboard-consent">
+                  <legend>Public leaderboard</legend>
+                  <label class="selection-option">
+                    <input id="publish-score-consent" type="checkbox">
+                    <span>Publish my score on the public leaderboard.</span>
+                  </label>
+                  <small class="field-help">Unchecked by default. If selected, your chosen display name, score, paper, subjects and submission date are public. Your email is never displayed. Your detailed result remains in your private test history either way.</small>
+                </fieldset>
                 <div class="marking-note">
                   <div class="marking-title">MARKING SCHEME</div>
                   <div class="marking-items"><span><b class="positive">+1</b> Correct</span><span><b class="negative">−0.25</b> Incorrect</span><span><b>0</b> Unanswered</span></div>
@@ -203,6 +212,20 @@
               <p class="form-error" id="setup-error" role="alert"></p>
             </form>
           </section>
+          <section class="panel local-history-panel" aria-labelledby="local-history-title">
+            <div class="section-heading local-history-heading">
+              <div><span class="step-label">SAVED ON THIS DEVICE</span><h2 id="local-history-title">My Test History</h2></div>
+              <div class="local-data-actions">
+                <button class="button button-outline" id="import-local-data" type="button">Import JSON</button>
+                <button class="button button-outline" id="export-local-data" type="button">Export JSON</button>
+                <input id="local-data-file" class="hidden" type="file" accept="application/json,.json" aria-label="Choose a DrillDeck JSON backup">
+              </div>
+            </div>
+            <p class="leaderboard-note">Detailed results are stored only in this browser. Export a JSON backup to keep or move your history; importing adds results without replacing existing ones.</p>
+            <p class="local-data-status" id="local-data-status" role="status" aria-live="polite"></p>
+            <div id="local-test-history" aria-live="polite"><p class="empty-datasets">Loading saved tests…</p></div>
+          </section>
+          </div>
           <aside class="setup-aside">
             <div class="panel bank-panel">
               <div class="bank-top"><span class="bank-tag">TOTAL QUESTIONS</span><span class="bank-icon">▤</span></div>
@@ -331,14 +354,15 @@
         </section>
         <section class="panel leaderboard-panel result-leaderboard">
           <div class="section-heading"><div><span class="step-label">GLOBAL SCORES</span><h2>Top scores</h2></div></div>
-          <p class="leaderboard-note">Your result is published automatically. Public entries show a name, score, paper and subjects only.</p>
+          <p class="leaderboard-note">Public leaderboard participation is optional. Only results you explicitly choose to publish are shown; public entries display a name, score, paper, subjects and date, never your email.</p>
           <p id="score-publish-status" class="score-publish-status" role="status">Preparing your score…</p>
+          <p id="local-save-status" class="local-save-status" role="status" aria-live="polite"></p>
           <button class="button button-outline retry-publish hidden" id="retry-publish" type="button">Retry publishing score</button>
           <div id="result-leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
         </section>
         <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another mock test</button><button class="button button-outline" id="print-button">Print result</button></div>
         <footer class="page-footer">
-          <div class="footer-caption">YOUR RESULTS ARE TEMPORARY AND WILL BE CLEARED WHEN YOU LEAVE OR RELOAD THIS PAGE.</div>
+          <div class="footer-caption">YOUR DETAILED RESULTS ARE SAVED LOCALLY ON THIS DEVICE.</div>
           <div class="creator-contact">
             <span>Created by <a href="https://bharat-poojari.vercel.app" target="_blank" rel="me noopener noreferrer">Bharat Poojari</a></span>
             <span class="contact-prompt">Questions or ideas? Get in touch:</span>
@@ -360,7 +384,7 @@
       <button class="modal-close" id="account-dialog-close" type="button" aria-label="Close account dialog">×</button>
       <span class="step-label">OPTIONAL ACCOUNT</span>
       <h2 id="account-dialog-title">Your score history</h2>
-      <p class="account-privacy-note">Accounts are optional. Emails are private; only your chosen account name and scores appear on the public leaderboard.</p>
+      <p class="account-privacy-note">Accounts are optional. Email addresses and test history are private. A score appears publicly only when you opt in for that test; you can change its display name or remove it later.</p>
       <p class="field-help">Password recovery is not available yet, so keep your password somewhere safe.</p>
       <div id="account-auth-forms">
         <div class="account-tabs" role="tablist" aria-label="Account action">

@@ -58,10 +58,16 @@ function renderHistory(history) {
     return;
   }
   container.innerHTML = `<ol class="score-list">${history.slice(0,20).map(item => `
-    <li class="score-entry">
+    <li class="score-entry account-score-entry">
       <span class="score-rank">${escapeHtml(new Date(item.createdAt).toLocaleDateString())}</span>
       <span class="score-name">${escapeHtml(item.paper)}<small>${escapeHtml((item.subjects || []).join(", "))}</small></span>
       <strong class="score-value-small">${escapeHtml(formatScore(item))}</strong>
+      <div class="account-score-controls">
+        <label class="sr-only" for="account-public-name-${escapeHtml(item.id)}">Public display name</label>
+        <input id="account-public-name-${escapeHtml(item.id)}" data-account-public-name type="text" maxlength="60" value="${escapeHtml(item.name || currentAccount.name)}">
+        <button class="button button-outline" type="button" data-account-score-action="rename" data-score-id="${escapeHtml(item.id)}">Save name</button>
+        <button class="button button-outline" type="button" data-account-score-action="remove" data-score-id="${escapeHtml(item.id)}">Remove</button>
+      </div>
     </li>`).join("")}</ol>`;
 }
 
@@ -169,13 +175,9 @@ function renderAccount() {
   $("account-open").setAttribute("aria-label", signedIn ? `Account for ${currentAccount.name}` : "Sign in or create an optional account");
   $("account-auth-forms").classList.toggle("hidden", signedIn);
   $("account-signed-in").classList.toggle("hidden", !signedIn);
-  $("leaderboard-name").disabled = signedIn;
-  $("leaderboard-name-label").textContent = signedIn
-    ? "Name on public scores (your account name)"
-    : "Name on public scores (optional for guests)";
-  $("leaderboard-name-help").textContent = signedIn
-    ? "Your account name, score, paper and subjects are public. Your email is never shown."
-    : "Your name, score, paper and subjects are public. Your email is never shown.";
+  $("leaderboard-name").disabled = false;
+  $("leaderboard-name-label").textContent = "Public display name (optional)";
+  $("leaderboard-name-help").textContent = "This name is used only if you choose to publish this result. You can change or remove a published score later.";
   if (signedIn) {
     $("account-profile-name").textContent = currentAccount.name;
     $("account-profile-email").textContent = currentAccount.email;
@@ -237,7 +239,7 @@ export function getCurrentAccount() {
 }
 
 async function sendPendingScore() {
-  if (!pendingScore) return;
+  if (!pendingScore) return null;
   $("score-publish-status").textContent = "Publishing this score to the global list…";
   $("score-publish-status").classList.remove("error-message");
   try {
@@ -245,7 +247,7 @@ async function sendPendingScore() {
       method:"POST",
       body:JSON.stringify({
         ...pendingScore,
-        name:currentAccount ? currentAccount.name : pendingScore.name
+        publishConsent:true
       })
     });
     pendingScore = null;
@@ -261,10 +263,12 @@ async function sendPendingScore() {
         $("score-publish-status").textContent += ` Account history could not be refreshed: ${error.message}`;
       }
     }
+    return published;
   } catch (error) {
     $("score-publish-status").textContent = `Score could not be published: ${error.message}. Your result is still available on this page.`;
     $("score-publish-status").classList.add("error-message");
     $("retry-publish").classList.remove("hidden");
+    return null;
   }
 }
 
@@ -272,9 +276,25 @@ export async function publishScore(score) {
   pendingScore = {
     ...score,
     id:score.id || createSubmissionId(),
-    name:currentAccount ? currentAccount.name : $("leaderboard-name").value.trim()
+    name:$("leaderboard-name").value.trim()
   };
-  await sendPendingScore();
+  return sendPendingScore();
+}
+
+export async function managePublishedScore({ id, action, name, ownerKey }) {
+  const options = action === "remove"
+    ? { method:"DELETE", body:JSON.stringify({ id, ownerKey }) }
+    : { method:"PATCH", body:JSON.stringify({ id, name, ownerKey }) };
+  const response = await requestJson("/api/leaderboard", options);
+  await refreshLeaderboard();
+  if (currentAccount) {
+    try {
+      await refreshHistory();
+    } catch (error) {
+      showAccountMessage(`The public score changed, but account history could not be refreshed: ${error.message}`, true);
+    }
+  }
+  return response.score || null;
 }
 
 export async function initializeAccounts() {
@@ -286,6 +306,23 @@ export async function initializeAccounts() {
   $("account-login-tab").addEventListener("click", () => setAccountMode("login"));
   $("account-register-tab").addEventListener("click", () => setAccountMode("register"));
   $("retry-publish").addEventListener("click", sendPendingScore);
+  $("account-history").addEventListener("click", async event => {
+    const button = event.target.closest("[data-account-score-action]");
+    if (!button) return;
+    if (button.dataset.accountScoreAction === "remove" &&
+        !window.confirm("Remove this score from the public leaderboard?")) return;
+    button.disabled = true;
+    try {
+      await managePublishedScore({
+        id:button.dataset.scoreId,
+        action:button.dataset.accountScoreAction,
+        name:button.closest(".account-score-entry").querySelector("[data-account-public-name]").value.trim()
+      });
+    } catch (error) {
+      showAccountMessage(`The public score could not be updated: ${error.message}`, true);
+      button.disabled = false;
+    }
+  });
   $("account-signout").addEventListener("click", async () => {
     try {
       await requestJson("/api/account", { method:"DELETE" });

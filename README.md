@@ -16,12 +16,14 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Submission confirmation and a second browser confirmation.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
+- Complete submitted test results saved locally for guests and signed-in students, with refresh recovery and a **My Test History** section.
+- Import/export of versioned JSON backups to transfer local test history between browsers or devices.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
 - Search metadata and structured data for Karnataka exam practice, creator profile links, a branded social preview, SVG/PNG/ICO browser and mobile icons, Google Search Console verification, robots.txt and an XML image sitemap.
 - Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Four-step test setup with multiple category, dataset and subcategory selection.
-- Automatic global score publishing with email addresses kept private; the global score list shows newest submissions first.
+- Explicit opt-in before publishing a score; the global score list shows newest submissions first and never displays email addresses.
 - Public shared chat messages stored in GitHub-backed JSON, with optional display names.
 - HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
 
@@ -73,7 +75,9 @@ The older `drilldeck_*` environment variable names are also accepted for deploym
 
 Generate a session secret with `node -e "console.log(require('node:crypto').randomBytes(48).toString('base64url'))"`. Never put the GitHub token or session secret in frontend code, `index.html`, or a committed file. If a token is exposed, revoke it and create a replacement.
 
-Account creation and sign-in are optional. Passwords are stored as salted scrypt hashes, not plaintext. Email addresses and account history stay in the private repository; the public score list includes only a display name, score, paper, subjects and date. Scores are published automatically after each completed test; signed-in users also get up to 100 entries of account history. Guests are listed as `Guest` unless they enter a public name.
+Account creation and sign-in are optional. Passwords are stored as salted scrypt hashes, not plaintext. Email addresses and account score history stay in the private repository; the public score list includes only a chosen display name, score, paper, subjects and date. Scores are private by default and are published only after selecting **Publish my score on the public leaderboard**. Signed-in users also get up to 100 published score summaries in account history. Guests are listed as `Guest` unless they enter a public name. Published scores can be renamed or removed from the leaderboard in **My Test History** or account history.
+
+Full submitted results, including the questions and answers needed to recover the review, are saved in the browser's local storage independently of leaderboard consent and are not uploaded to GitHub. Private attempts therefore remain in **My Test History** without a public entry. Guests receive a local guest identifier; signed-in attempts also record the account ID in that browser's saved result. Use **My Test History** to reopen a result, or export/import a JSON backup to move history to another browser. Browser storage is device- and browser-specific; clearing site data removes local results, so keep an exported backup. The server requires an explicit consent flag before accepting a public score and checks score-management requests against the signed-in account or a private guest owner key.
 
 If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Password recovery and account deletion are not currently available.
 
@@ -195,7 +199,7 @@ The separate private GitHub storage repository receives the generated `accounts.
 
 The question experience remains client-side and is suitable for practice tests using a question bank whose answers are delivered to the browser. It is not a secure proctored examination system: users can inspect the downloaded JSON and alter client-side scores. Treat public leaderboard scores as practice results, not verified exam results.
 
-The active test remains in JavaScript memory only. Refreshing, closing the tab, navigating away or losing the page discards the active test. Signed-in score history is stored server-side and can be accessed across devices.
+The active, unsubmitted test remains in JavaScript memory only. Refreshing or closing the tab discards that in-progress attempt. After submission, the detailed result and answer review are saved locally and recoverable from the results URL or **My Test History**. Local results are not synced across devices; use a JSON backup to transfer them. Signed-in score summaries are also stored server-side and can be accessed across devices.
 
 GitHub-backed JSON is a lightweight prototype store, not a production database. Each update creates a Git commit, repository history retains previous versions, and GitHub API limits, file growth and concurrent writes can restrict scale. Keep the data repository private, use a narrowly scoped token, and switch to a database with proper retention and deletion controls before handling sensitive data or a large audience. These client-calculated scores are not tamper-proof.
 

@@ -1,3 +1,4 @@
+import { createHash, timingSafeEqual } from "node:crypto";
 import { getAccount, getSessionAccountId } from "../lib/server/accounts.js";
 import { readJsonFile, updateJsonFile } from "../lib/server/github-json.js";
 import { handleApiError, HttpError, readJsonBody, requireSameOrigin, sendJson } from "../lib/server/http.js";
@@ -5,8 +6,24 @@ import { handleApiError, HttpError, readJsonBody, requireSameOrigin, sendJson } 
 const SCORES_FILE = "accounts.json";
 const EMPTY_SCORES = { users: [], scores: [] };
 const MAX_SCORES = 1000;
+const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+
+function hashOwnerKey(ownerKey) {
+  return createHash("sha256").update(ownerKey).digest("hex");
+}
+
+function validateDisplayName(value, required = false) {
+  const name = typeof value === "string" ? value.trim() : "";
+  if ((required && !name) || name.length > 60 || /[\u0000-\u001f\u007f]/.test(name)) {
+    throw new HttpError(400, "Leaderboard name must be between 1 and 60 characters.");
+  }
+  return name;
+}
 
 function validateScore(input) {
+  if (input.publishConsent !== true) {
+    throw new HttpError(403, "Explicit consent is required to publish a score.");
+  }
   const id = typeof input.id === "string" ? input.id : "";
   const scoreValue = Number(input.score);
   const maximum = Number(input.maximum);
@@ -27,10 +44,6 @@ function validateScore(input) {
       input.subjects.some(subject => typeof subject !== "string" || !subject.trim() || subject.length > 80 || /[\u0000-\u001f\u007f]/.test(subject))) {
     throw new HttpError(400, "The selected subject list is invalid.");
   }
-  const name = typeof input.name === "string" ? input.name.trim() : "";
-  if (name.length > 60 || /[\u0000-\u001f\u007f]/.test(name)) {
-    throw new HttpError(400, "Leaderboard name must be 60 characters or fewer.");
-  }
   return {
     id,
     score: Math.round(scoreValue * 100) / 100,
@@ -38,8 +51,23 @@ function validateScore(input) {
     scorePercentage: Math.round(percentageValue * 100) / 100,
     paper: input.paper,
     subjects: [...new Set(input.subjects)],
-    guestName: name || "Guest"
+    name: validateDisplayName(input.name)
   };
+}
+
+function getScoreId(input) {
+  if (typeof input.id !== "string" || !UUID_PATTERN.test(input.id)) {
+    throw new HttpError(400, "The score submission ID is invalid.");
+  }
+  return input.id;
+}
+
+function canManageScore(score, accountId, ownerKey) {
+  if (accountId && score.accountId === accountId) return true;
+  if (score.accountId || typeof score.ownerKeyHash !== "string" || !ownerKey) return false;
+  const expected = Buffer.from(score.ownerKeyHash, "hex");
+  const actual = Buffer.from(hashOwnerKey(ownerKey), "hex");
+  return expected.length === actual.length && timingSafeEqual(expected, actual);
 }
 
 function sortScores(scores) {
@@ -73,27 +101,71 @@ export default async function handler(req, res) {
       return sendJson(res, 200, { scores });
     }
 
-    if (req.method !== "POST") {
-      res.setHeader("Allow", "GET, POST");
+    if (!["POST", "PATCH", "DELETE"].includes(req.method)) {
+      res.setHeader("Allow", "GET, POST, PATCH, DELETE");
       throw new HttpError(405, "Method not allowed.");
     }
     requireSameOrigin(req);
     const body = readJsonBody(req);
-    const values = validateScore(body);
     const accountId = getSessionAccountId(req);
     const account = accountId ? await getAccount(accountId) : null;
+    if (accountId && !account) throw new HttpError(401, "Sign in again before managing your public scores.");
+
+    if (req.method === "PATCH" || req.method === "DELETE") {
+      const id = getScoreId(body);
+      const ownerKey = typeof body.ownerKey === "string" && UUID_PATTERN.test(body.ownerKey)
+        ? body.ownerKey
+        : null;
+      const name = req.method === "PATCH" ? validateDisplayName(body.name, true) : null;
+      let updatedScore = null;
+      await updateJsonFile(SCORES_FILE, EMPTY_SCORES, data => {
+        if (!data || !Array.isArray(data.scores) || !Array.isArray(data.users)) {
+          throw new Error("GitHub account storage must contain users and scores arrays.");
+        }
+        const index = data.scores.findIndex(item => item.id === id);
+        if (index < 0 || !canManageScore(data.scores[index], accountId, ownerKey)) {
+          throw new HttpError(404, "This public score could not be found for your account.");
+        }
+        if (req.method === "DELETE") {
+          data.scores.splice(index, 1);
+          for (const user of data.users) {
+            if (Array.isArray(user.history)) user.history = user.history.filter(item => item.id !== id);
+          }
+          return data;
+        }
+        data.scores[index].name = name;
+        updatedScore = data.scores[index];
+        for (const user of data.users) {
+          const historyEntry = Array.isArray(user.history)
+            ? user.history.find(item => item.id === id)
+            : null;
+          if (historyEntry) historyEntry.name = name;
+        }
+        return data;
+      });
+      return sendJson(res, 200, req.method === "DELETE"
+        ? { removed: true }
+        : { score: publicScore(updatedScore) });
+    }
+
+    const values = validateScore(body);
     if (accountId && !account) throw new HttpError(401, "Sign in again before publishing this score.");
+    const ownerKey = account ? null : body.ownerKey;
+    if (!account && (typeof ownerKey !== "string" || !UUID_PATTERN.test(ownerKey))) {
+      throw new HttpError(400, "A valid private owner key is required to manage a guest score.");
+    }
 
     const score = {
       id: values.id,
-      name: account ? account.name : values.guestName,
+      name: values.name || (account ? account.name : "Guest"),
       score: values.score,
       maximum: values.maximum,
       scorePercentage: values.scorePercentage,
       paper: values.paper,
       subjects: values.subjects,
       createdAt: new Date().toISOString(),
-      accountId
+      accountId,
+      ...(account ? {} : { ownerKeyHash: hashOwnerKey(ownerKey) })
     };
     let savedScore = score;
 
@@ -103,7 +175,8 @@ export default async function handler(req, res) {
       }
       const existing = data.scores.find(item => item.id === score.id);
       if (existing) {
-        if ((existing.accountId || null) !== accountId) {
+        if ((existing.accountId || null) !== accountId ||
+            (!account && !canManageScore(existing, null, ownerKey))) {
           throw new HttpError(409, "This score submission was already used.");
         }
         savedScore = existing;
@@ -116,8 +189,7 @@ export default async function handler(req, res) {
         if (!owner) throw new HttpError(401, "Sign in again before saving this score to your account.");
         if (!Array.isArray(owner.history)) owner.history = [];
         if (!owner.history.some(item => item.id === score.id)) {
-          const { id, name, ...historyEntry } = score;
-          owner.history.unshift({ id, ...historyEntry });
+          owner.history.unshift({ ...score });
           owner.history = owner.history.slice(0, 100);
         }
       }

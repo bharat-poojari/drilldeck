@@ -61,13 +61,13 @@ No npm packages are required. Account, leaderboard and chat APIs need the Vercel
 
    | Variable | Value |
    | --- | --- |
-   | `drilldeck_GITHUB_TOKEN` | Fine-grained token for the private data repository |
-   | `drilldeck_GITHUB_OWNER` | GitHub owner or organization for the private repository |
-   | `drilldeck_GITHUB_REPO` | Private repository name |
-   | `drilldeck_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
-   | `drilldeck_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
+   | `EXAMDESK_GITHUB_TOKEN` | Fine-grained token for the private data repository |
+   | `EXAMDESK_GITHUB_OWNER` | GitHub owner or organization for the private repository |
+   | `EXAMDESK_GITHUB_REPO` | Private repository name |
+   | `EXAMDESK_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
+   | `EXAMDESK_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
 
-The `drilldeck_*` environment variable names are retained for deployment compatibility; keep using these names when configuring DrillDeck.
+The older `drilldeck_*` environment variable names are also accepted for deployments that already use them.
 
 4. Redeploy after setting the variables. The first score submission creates `accounts.json`, and the first chat message creates `chat-messages.json`, in the private repository.
 

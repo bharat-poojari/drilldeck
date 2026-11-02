@@ -6,6 +6,6 @@
   },
   "scripts": {
     "build": "node scripts/build-dataset-index.js",
-    "test": "node --test js/questions.test.js"
+    "test": "node --test js/questions.test.js api/chat.test.js"
   }
 }

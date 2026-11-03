@@ -217,6 +217,16 @@ export function shuffledCopy(items, random = Math.random) {
   return copy;
 }
 
+export function shuffleAnswerOptions(question, random = Math.random) {
+  const keys = shuffledCopy(["A", "B", "C", "D"], random);
+  const correctIndex = keys.indexOf(question.correctAnswer);
+  return {
+    ...question,
+    options: Object.fromEntries(keys.map((key, index) => [["A", "B", "C", "D"][index], question.options[key]])),
+    correctAnswer: ["A", "B", "C", "D"][correctIndex]
+  };
+}
+
 export function selectRandomQuestions(questions, count, random = Math.random) {
   if (questions.length < count) {
     throw new Error(`Only ${questions.length} questions match these filters. Choose fewer questions or broaden your selection.`);

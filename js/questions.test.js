@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createQuestionId, filterQuestions, selectRandomQuestions, validateDataset } from "./questions.js";
+import { createQuestionId, filterQuestions, selectRandomQuestions, shuffleAnswerOptions, validateDataset } from "./questions.js";
+import { calculateResults } from "./scoring.js";
 
 const dataset = {
   id: "General_Knowledge/Current_Affairs/Current_Economy.json",
@@ -80,6 +81,25 @@ test("selection fills from valid questions after malformed records are skipped",
   const selected = selectRandomQuestions(available, 2, () => 0);
   assert.equal(selected.length, 2);
   assert.deepEqual(new Set(selected.map(question => question.id)), new Set(["Q023", "Q025"]));
+});
+
+test("shuffled answer options remap the correct answer without mutating the question bank", () => {
+  const original = makeQuestion("Q026");
+  const shuffled = shuffleAnswerOptions(original, () => 0);
+
+  assert.deepEqual(shuffled.options, { A: "Two", B: "Three", C: "Four", D: "One" });
+  assert.equal(shuffled.correctAnswer, "D");
+  assert.equal(original.correctAnswer, "A");
+  assert.deepEqual(original.options, { A: "One", B: "Two", C: "Three", D: "Four" });
+});
+
+test("scoring recognizes the remapped correct option", () => {
+  const question = shuffleAnswerOptions(makeQuestion("Q027"), () => 0);
+  const result = calculateResults([question], [{ selected: question.correctAnswer }], 60, 30);
+
+  assert.equal(result.correct, 1);
+  assert.equal(result.wrong, 0);
+  assert.equal(result.score, 1);
 });
 
 test("question filters accept multiple subcategories and preserve the all-subcategories option", () => {

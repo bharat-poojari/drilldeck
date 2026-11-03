@@ -1,4 +1,4 @@
-import { loadQuestionBank, filterQuestions, selectRandomQuestions } from "./questions.js";
+import { loadQuestionBank, filterQuestions, selectRandomQuestions, shuffleAnswerOptions } from "./questions.js";
 import { createExamState, getQuestionStatus, answerQuestion, visitQuestion, toggleReview, clearAnswer } from "./exam.js";
 import { createTimer, formatTime } from "./timer.js";
 import { calculateResults } from "./scoring.js";
@@ -540,7 +540,7 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
     const count = configuration.questionCount;
     const duration = configuration.durationMinutes;
     const matching = filterQuestions(bank.questions, configuration);
-    const selected = selectRandomQuestions(matching, count);
+    const selected = selectRandomQuestions(matching, count).map(question => shuffleAnswerOptions(question));
     examState = createExamState(selected);
     examTestId = createId();
     examReturnView = button.dataset.quickSubmit ? "quick-test" : "setup";

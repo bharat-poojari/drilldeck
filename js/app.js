@@ -3,12 +3,12 @@ import { createExamState, getQuestionStatus, answerQuestion, visitQuestion, togg
 import { createTimer, formatTime } from "./timer.js";
 import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
-import { getCurrentAccount, initializeAccounts, initializeCommunityChat, managePublishedScore, publishScore } from "./accounts.js";
+import { initializeCommunityChat, initializeLeaderboard, managePublishedScore, publishScore } from "./community.js";
 import { createResultsStore } from "./results-store.js";
 import { createTopicSelection } from "./topic-selector.js";
 
 const $ = id => document.getElementById(id);
-const views = { home:$("home-view"), "quick-test":$("quick-test-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
+const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
 const resultsStore = createResultsStore({
   getItem:key => window.localStorage.getItem(key),
   setItem:(key, value) => window.localStorage.setItem(key, value)
@@ -25,6 +25,7 @@ let examStartedAt = null;
 let submitInProgress = false;
 let examContext = null;
 let examTestId = null;
+let examReturnView = "setup";
 let toastTimeout = null;
 let configurationCheckInProgress = false;
 let currentSetupStep = 1;
@@ -36,7 +37,17 @@ const setupStepIcons = [
   '<svg viewBox="0 0 24 24" fill="none"><path d="M12 3 19 6v5c0 4.6-2.9 7.8-7 10-4.1-2.2-7-5.4-7-10V6l7-3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 ];
 
+function moveSharedPanels(name) {
+  if (name === "quick-test") {
+    $("quick-history-slot").append($("local-history-panel"));
+    $("quick-aside-slot").append($("setup-aside"));
+  } else if (name === "setup") {
+    $("setup-history-anchor").before($("local-history-panel"));
+    $("setup-aside-anchor").before($("setup-aside"));
+  }
+}
 function showView(name) {
+  moveSharedPanels(name);
   Object.entries(views).forEach(([key, node]) => node.classList.toggle("hidden", key !== name));
   window.scrollTo({ top:0, behavior:"instant" });
 }
@@ -76,7 +87,7 @@ function handleSelectionChange(container, callback) {
     callback();
   });
 }
-function showSetupStep(step) {
+function showSetupStep(step, scrollToPanel = true) {
   currentSetupStep = step;
   document.querySelectorAll("[data-setup-step]").forEach(section =>
     section.classList.toggle("hidden", Number(section.dataset.setupStep) !== step)
@@ -86,7 +97,7 @@ function showSetupStep(step) {
   $("setup-step-icon").innerHTML = setupStepIcons[step-1];
   $("setup-error").textContent = "";
   if (step === 4) renderConfigurationReview();
-  $("setup-panel").scrollIntoView({ behavior:"smooth", block:"start" });
+  if (scrollToPanel) $("setup-panel").scrollIntoView({ behavior:"smooth", block:"start" });
 }
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
@@ -117,9 +128,7 @@ function renderLocalHistory() {
       return;
     }
     container.innerHTML = `<ol class="score-list">${results.map(result => {
-      const canManage = result.userId === null
-        ? Boolean(result.guestId)
-        : getCurrentAccount()?.id === result.userId;
+      const canManage = result.userId === null && Boolean(result.guestId);
       const controls = result.leaderboard?.published
         ? `<div class="local-score-controls">
             ${canManage
@@ -127,7 +136,7 @@ function renderLocalHistory() {
                  <input id="public-name-${escapeHtml(result.id)}" data-public-name type="text" maxlength="60" value="${escapeHtml(result.leaderboard.name)}">
                  <button class="button button-outline" type="button" data-score-action="rename" data-result-id="${escapeHtml(result.id)}">Save name</button>
                  <button class="button button-outline" type="button" data-score-action="remove" data-result-id="${escapeHtml(result.id)}">Remove from leaderboard</button>`
-              : '<span class="field-help">Sign in to manage this published score.</span>'}
+              : '<span class="field-help">This older score cannot be managed from this browser.</span>'}
           </div>`
         : "";
       return `
@@ -163,6 +172,7 @@ function showSavedResult(id) {
       submittedAt:new Date(result.submittedAt),
       onNewTest:resetToSetup
     });
+    examReturnView = "setup";
     $("local-save-status").textContent = "This result is saved on this device. Export a backup to move it to another browser.";
     $("score-publish-status").textContent = "Viewing a saved local result. This result is not republished.";
     $("retry-publish").classList.add("hidden");
@@ -533,6 +543,7 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
     const selected = selectRandomQuestions(matching, count);
     examState = createExamState(selected);
     examTestId = createId();
+    examReturnView = button.dataset.quickSubmit ? "quick-test" : "setup";
     examContext = {
       paper:configuration.paper === "general-knowledge"
         ? "General Knowledge"
@@ -653,14 +664,13 @@ async function finalizeExam(autoSubmitted = false) {
   const metrics = calculateResults(examState.questions,examState.answers,durationSeconds,elapsed,autoSubmitted);
   const submittedAt = new Date();
   const submissionId = createId();
-  const account = getCurrentAccount();
   const publishConsent = $("publish-score-consent").checked;
   const displayName = $("leaderboard-name").value.trim();
   const result = {
     id:submissionId,
     testId:examTestId,
-    userId:account?.id || null,
-    guestId:null,
+    userId:null,
+    guestId:createId(),
     paperId:examContext.paperId,
     paper:examContext.paper,
     examName:$("exam-title").textContent,
@@ -683,7 +693,6 @@ async function finalizeExam(autoSubmitted = false) {
   };
   let localSaved = false;
   try {
-    if (!result.userId) result.guestId = resultsStore.ensureGuestId();
     resultsStore.saveResult(result);
     localSaved = true;
     setResultUrl(result.id);
@@ -720,7 +729,7 @@ async function finalizeExam(autoSubmitted = false) {
     scorePercentage:metrics.scorePercentage,
     paper:examContext.paper,
     subjects:examContext.subjects,
-    ownerKey:result.userId ? null : result.guestId
+    ownerKey:result.guestId
   });
   if (published) {
     try {
@@ -746,9 +755,14 @@ function resetToSetup() {
   $("publish-score-consent").checked = false;
   closeSubmitModal();
   setResultUrl(null);
-  showSetupStep(1);
-  showView("setup");
-  updateAvailability();
+  if (examReturnView === "quick-test") {
+    showView("quick-test");
+    updateQuickTestAvailability();
+  } else {
+    showSetupStep(1, false);
+    showView("setup");
+    updateAvailability();
+  }
 }
 
 $("setup-form").addEventListener("submit",startExam);
@@ -894,7 +908,7 @@ $("local-test-history").addEventListener("click", event => {
       id:result.id,
       action,
       name:nameInput?.value.trim(),
-      ownerKey:result.userId ? null : result.guestId
+      ownerKey:result.guestId
     }).then(score => {
       resultsStore.updateLeaderboard(result.id, {
         consented:true,
@@ -951,14 +965,13 @@ document.addEventListener("click",event=>{
     showView(target);
     return;
   }
-  if (target === "about-dev") {
-    showView("home");
-    requestAnimationFrame(() => $("about-dev").scrollIntoView({ behavior:"smooth", block:"start" }));
+  if (target === "about") {
+    showView("about");
     return;
   }
   if (target === "custom-test") {
     showView("setup");
-    showSetupStep(1);
+    showSetupStep(1, false);
   }
 });
 document.addEventListener("keydown",event=>{
@@ -986,8 +999,5 @@ initialize();
 renderLocalHistory();
 restoreResultFromUrl();
 initializeCommunityChat();
-initializeAccounts().catch(error => {
-  $("account-message").textContent = `Account and leaderboard service is unavailable: ${error.message}`;
-  $("account-message").classList.add("error-message");
-}).finally(renderLocalHistory);
+initializeLeaderboard();
 window.addEventListener("popstate",restoreResultFromUrl);

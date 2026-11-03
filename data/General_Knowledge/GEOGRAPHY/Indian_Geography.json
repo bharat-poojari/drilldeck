@@ -1,0 +1,870 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank derived from Indian_Geography.pdf (Sections 3.5.1–3.5.22). All questions are unique, exam-oriented, and structured for KEA examination use.",
+  "questions": [
+    {
+      "id": "QD001",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "India lies in which hemispheres?",
+      "options": {
+        "A": "Northern and Western",
+        "B": "Southern and Eastern",
+        "C": "Northern and Eastern",
+        "D": "Southern and Western"
+      },
+      "correctAnswer": "C",
+      "explanation": "India lies in the northern and eastern hemispheres, in South Asia.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD002",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the approximate latitudinal extents of India's mainland?",
+      "options": {
+        "A": "6°45'N to 37°6'N",
+        "B": "8°4'N to 37°6'N",
+        "C": "8°4'N to 35°N",
+        "D": "6°45'N to 35°N"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mainland extends approximately from 8°4'N to 37°6'N latitude.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD003",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the approximate longitudinal extents of India's mainland?",
+      "options": {
+        "A": "68°7'E to 97°25'E",
+        "B": "68°7'E to 97°25'W",
+        "C": "68°7'W to 97°25'E",
+        "D": "68°7'E to 97°25'E"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mainland extends approximately from 68°7'E to 97°25'E longitude.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD004",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Including islands, what is the latitude of India's southernmost point, Indira Point?",
+      "options": {
+        "A": "8°4'N",
+        "B": "6°45'N",
+        "C": "10°N",
+        "D": "8°N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Indira Point on Great Nicobar is at about 6°45'N.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD005",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The longitudinal span of India produces a local-time difference of roughly how many hours between the eastern and western extremities?",
+      "options": {
+        "A": "One hour",
+        "B": "Two hours",
+        "C": "Three hours",
+        "D": "Four hours"
+      },
+      "correctAnswer": "B",
+      "explanation": "The longitudinal span produces a local-time difference of roughly two hours.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD006",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is India's total geographical area?",
+      "options": {
+        "A": "3.287 million km²",
+        "B": "2.4 million km²",
+        "C": "3.5 million km²",
+        "D": "4.1 million km²"
+      },
+      "correctAnswer": "A",
+      "explanation": "India covers approximately 3.287 million km² (3,287,263 km²).",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD007",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is India's rank in the world by geographical area?",
+      "options": {
+        "A": "Fifth",
+        "B": "Sixth",
+        "C": "Seventh",
+        "D": "Eighth"
+      },
+      "correctAnswer": "C",
+      "explanation": "India is the seventh-largest country in the world by area.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD008",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What percentage of the world's land area does India account for?",
+      "options": {
+        "A": "2.4%",
+        "B": "3.2%",
+        "C": "1.8%",
+        "D": "4.0%"
+      },
+      "correctAnswer": "A",
+      "explanation": "India accounts for about 2.4% of the world's land area.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+        {
+      "id": "QD009",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Standard Meridian of India?",
+      "options": {
+        "A": "75°E",
+        "B": "82°30'E",
+        "C": "90°E",
+        "D": "68°7'E"
+      },
+      "correctAnswer": "B",
+      "explanation": "82°30'E longitude is India's Standard Meridian.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD010",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Standard Meridian of India passes near which town in Uttar Pradesh?",
+      "options": {
+        "A": "Varanasi",
+        "B": "Mirzapur",
+        "C": "Prayagraj",
+        "D": "Lucknow"
+      },
+      "correctAnswer": "B",
+      "explanation": "82°30'E passes near Mirzapur in Uttar Pradesh.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD011",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Indian Standard Time (IST) is set at which UTC offset?",
+      "options": {
+        "A": "UTC + 5:00",
+        "B": "UTC + 5:30",
+        "C": "UTC + 6:00",
+        "D": "UTC + 6:30"
+      },
+      "correctAnswer": "B",
+      "explanation": "IST is UTC + 5 hours 30 minutes.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD012",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does India use a single standard time despite its large east-west extent?",
+      "options": {
+        "A": "To avoid confusion in international trade only",
+        "B": "To facilitate administration, transport, broadcasting, commerce and coordination",
+        "C": "Because local solar time does not vary across India",
+        "D": "Because the Constitution mandates a single time zone"
+      },
+      "correctAnswer": "B",
+      "explanation": "A single standard time facilitates administration, transport, broadcasting, commerce and coordination.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD013",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tropic of Cancer is located at which latitude?",
+      "options": {
+        "A": "23°30'N",
+        "B": "23°30'S",
+        "C": "22°30'N",
+        "D": "24°30'N"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Cancer is at 23°30'N.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD014",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Tropic of Cancer crosses how many Indian states?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "C",
+      "explanation": "It crosses eight states from Gujarat to Mizoram.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+        {
+      "id": "QD015",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following states is NOT crossed by the Tropic of Cancer?",
+      "options": {
+        "A": "Gujarat",
+        "B": "Chhattisgarh",
+        "C": "Odisha",
+        "D": "Tripura"
+      },
+      "correctAnswer": "C",
+      "explanation": "The eight states are Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. Odisha is not among them.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD016",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the southernmost point of mainland India?",
+      "options": {
+        "A": "Indira Point",
+        "B": "Kanyakumari",
+        "C": "Rameswaram",
+        "D": "Minicoy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kanyakumari is the southernmost point of mainland India.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD017",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is India's southernmost point including islands?",
+      "options": {
+        "A": "Kanyakumari",
+        "B": "Rameswaram",
+        "C": "Indira Point",
+        "D": "Minicoy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Indira Point on Great Nicobar Island is India's southernmost point including islands.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD018",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which countries share land borders with India?",
+      "options": {
+        "A": "Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and Afghanistan",
+        "B": "Pakistan, China, Nepal, Bhutan, Bangladesh and Sri Lanka",
+        "C": "Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and Maldives",
+        "D": "Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and Thailand"
+      },
+      "correctAnswer": "A",
+      "explanation": "India shares land borders with Pakistan, Afghanistan (in India's official territorial claim), China, Nepal, Bhutan, Bangladesh and Myanmar.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD019",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are India's maritime neighbours?",
+      "options": {
+        "A": "Nepal and Bhutan",
+        "B": "Sri Lanka and Maldives",
+        "C": "Afghanistan and Pakistan",
+        "D": "China and Myanmar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sri Lanka and the Maldives are maritime neighbours of India.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD020",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Pakistan is located to which direction of India?",
+      "options": {
+        "A": "East",
+        "B": "West/Northwest",
+        "C": "South",
+        "D": "Northeast"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pakistan is to the west/northwest of India.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD021",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Bangladesh is located to which direction of India?",
+      "options": {
+        "A": "West",
+        "B": "East",
+        "C": "North",
+        "D": "South"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bangladesh is to the east of India.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+        {
+      "id": "QD022",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a land boundary and a maritime boundary?",
+      "options": {
+        "A": "A land boundary separates national territories on land; a maritime boundary delimits sea areas and associated rights between states",
+        "B": "A land boundary is always disputed; a maritime boundary is always settled",
+        "C": "A land boundary is defined by UNCLOS; a maritime boundary is defined by the Survey of India",
+        "D": "There is no difference"
+      },
+      "correctAnswer": "A",
+      "explanation": "A land boundary separates national territories on land, while a maritime boundary delimits sea areas and associated rights between states.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD023",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under UNCLOS, up to how many nautical miles can a coastal state claim a territorial sea from its baseline?",
+      "options": {
+        "A": "6 nautical miles",
+        "B": "12 nautical miles",
+        "C": "24 nautical miles",
+        "D": "200 nautical miles"
+      },
+      "correctAnswer": "B",
+      "explanation": "A coastal state may claim a territorial sea up to 12 nautical miles from its baseline.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD024",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under UNCLOS, up to how many nautical miles may an Exclusive Economic Zone (EEZ) extend?",
+      "options": {
+        "A": "12 nautical miles",
+        "B": "24 nautical miles",
+        "C": "100 nautical miles",
+        "D": "200 nautical miles"
+      },
+      "correctAnswer": "D",
+      "explanation": "An EEZ may extend up to 200 nautical miles from the baseline.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD025",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the Exclusive Economic Zone, what rights does the coastal state have?",
+      "options": {
+        "A": "Full sovereignty over all activities",
+        "B": "Sovereign rights over natural resources but not full national territory",
+        "C": "No rights whatsoever",
+        "D": "Only military rights"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the EEZ, the coastal state has sovereign rights over natural resources, but it is not full national territory.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD026",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the continental shelf under UNCLOS?",
+      "options": {
+        "A": "The submerged natural prolongation of the land territory",
+        "B": "The territorial sea up to 12 nautical miles",
+        "C": "The high seas beyond the EEZ",
+        "D": "The internal waters landward of the baseline"
+      },
+      "correctAnswer": "A",
+      "explanation": "The continental shelf is the submerged natural prolongation of the land territory, as defined under UNCLOS.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD027",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the continental shelf for a coastal state?",
+      "options": {
+        "A": "The state has sovereign rights over seabed and subsoil resources",
+        "B": "The state has no rights over the shelf",
+        "C": "The shelf is part of the high seas",
+        "D": "The shelf is limited to 12 nautical miles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coastal states have sovereign rights over seabed and subsoil resources on the continental shelf.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD028",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the revised coastline length of India promulgated in April 2025?",
+      "options": {
+        "A": "7,516.6 km",
+        "B": "8,200 km",
+        "C": "11,098.81 km",
+        "D": "12,500 km"
+      },
+      "correctAnswer": "C",
+      "explanation": "The revised Survey of India/National Hydrographic Office figure is 11,098.81 km, promulgated in April 2025.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+        {
+      "id": "QD029",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the revised coastline figure of 11,098.81 km differ from the older figure of 7,516.6 km?",
+      "options": {
+        "A": "A physical sudden change in India's coastline occurred",
+        "B": "It reflects measurement scale and method, including mainland and island coastlines",
+        "C": "The older figure excluded islands",
+        "D": "The revised figure includes maritime boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "The revised figure reflects measurement scale and method, not a physical sudden change.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD030",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Radcliffe Line divided British India into which two countries in 1947?",
+      "options": {
+        "A": "India and China",
+        "B": "India and Pakistan",
+        "C": "India and Bangladesh",
+        "D": "India and Myanmar"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Radcliffe Line divided British India into India and Pakistan in 1947 and was also used in the partition of Bengal.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD031",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Line of Control (LoC) is the military control line between India and which country?",
+      "options": {
+        "A": "China",
+        "B": "Pakistan",
+        "C": "Nepal",
+        "D": "Bangladesh"
+      },
+      "correctAnswer": "B",
+      "explanation": "The LoC is the military control line in Jammu and Kashmir between India and Pakistan.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD032",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Line of Actual Control (LAC) refers to the contested boundary alignment between India and which country?",
+      "options": {
+        "A": "Pakistan",
+        "B": "China",
+        "C": "Nepal",
+        "D": "Bhutan"
+      },
+      "correctAnswer": "B",
+      "explanation": "The LAC refers to the contested boundary alignment between India and China.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD033",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The McMahon Line is associated with which sector of the India-China boundary?",
+      "options": {
+        "A": "Western sector",
+        "B": "Middle sector",
+        "C": "Eastern sector",
+        "D": "Southern sector"
+      },
+      "correctAnswer": "C",
+      "explanation": "The McMahon Line is the boundary line proposed in the 1914 Simla Convention for the eastern sector.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD034",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Durand Line?",
+      "options": {
+        "A": "The India-Pakistan boundary",
+        "B": "The Afghanistan-Pakistan boundary",
+        "C": "The India-China boundary",
+        "D": "The India-Bangladesh boundary"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Durand Line is the Afghanistan-Pakistan boundary, not an India border.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+    {
+      "id": "QD035",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "India: Location and Extent",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an important Himalayan pass?",
+      "options": {
+        "A": "Zoji La",
+        "B": "Khyber Pass",
+        "C": "Bolan Pass",
+        "D": "Salang Pass"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zoji La is an important Himalayan pass. Khyber and Bolan are in Pakistan; Salang is in Afghanistan.",
+      "source": "Indian_Geography.pdf, 3.5.1"
+    },
+        {
+      "id": "QD036",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the six major physiographic divisions of India?",
+      "options": {
+        "A": "Himalayas, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains, Islands",
+        "B": "Himalayas, Deccan Plateau, Thar Desert, Coastal Plains, Islands, Ghats",
+        "C": "Himalayas, Indo-Gangetic Plain, Central Highlands, Thar Desert, Eastern Ghats, Andaman Islands",
+        "D": "Northern Mountains, Northern Plains, Peninsular Plateau, Coastal Plains, Islands, Rann of Kachchh"
+      },
+      "correctAnswer": "A",
+      "explanation": "The six divisions are Himalayas, Northern Plains, Peninsular Plateau, Indian Desert, Coastal Plains and Islands.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD037",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which physiographic division is described as 'young fold mountains with high peaks, glaciers and deep valleys'?",
+      "options": {
+        "A": "Peninsular Plateau",
+        "B": "Himalayas",
+        "C": "Northern Plains",
+        "D": "Coastal Plains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Himalayas are young fold mountains with high peaks, glaciers, deep valleys and major river sources.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD038",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which physiographic division is formed by vast alluvial lowlands deposited by the Indus-Ganga-Brahmaputra river systems?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Peninsular Plateau",
+        "C": "Northern Plains",
+        "D": "Coastal Plains"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Northern Plains are vast alluvial lowlands formed by the Indus-Ganga-Brahmaputra river systems.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD039",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which physiographic division is an ancient stable shield of igneous and metamorphic rocks, rich in minerals?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Peninsular Plateau",
+        "C": "Northern Plains",
+        "D": "Islands"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Peninsular Plateau is an ancient stable shield of igneous and metamorphic rocks, mineral-rich uplands.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD040",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Indian Desert is also known as which region?",
+      "options": {
+        "A": "Thar",
+        "B": "Rann",
+        "C": "Deccan",
+        "D": "Doab"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Indian Desert is the arid Thar region with sparse rainfall, dunes and ephemeral streams.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD041",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physiographic Divisions of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which physiographic division includes the Andaman-Nicobar volcanic/tectonic island arc and Lakshadweep coral islands?",
+      "options": {
+        "A": "Coastal Plains",
+        "B": "Islands",
+        "C": "Peninsular Plateau",
+        "D": "Northern Plains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Islands division includes the Andaman-Nicobar volcanic/tectonic island arc and Lakshadweep coral islands.",
+      "source": "Indian_Geography.pdf, 3.5.2"
+    },
+    {
+      "id": "QD042",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How were the Himalayas formed?",
+      "options": {
+        "A": "By volcanic eruptions in the Indian Ocean",
+        "B": "By convergence and collision of the Indian Plate with the Eurasian Plate after closure of the Tethys Ocean",
+        "C": "By glacial deposition",
+        "D": "By wind erosion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Himalayas are young fold mountains formed by convergence and collision of the Indian Plate with the Eurasian Plate after closure of the Tethys Ocean.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    {
+      "id": "QD043",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happened to the sediments deposited in the former ocean basin during the formation of the Himalayas?",
+      "options": {
+        "A": "They were compressed, folded, faulted and uplifted",
+        "B": "They were subducted into the mantle",
+        "C": "They were eroded away completely",
+        "D": "They remained undisturbed"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sediments were compressed, folded, faulted and uplifted, making the region tectonically active.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    {
+      "id": "QD044",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major longitudinal divisions of the Himalayas from north to south?",
+      "options": {
+        "A": "Shiwalik, Lesser Himalaya, Greater Himalaya, Trans-Himalaya",
+        "B": "Trans-Himalaya, Greater Himalaya, Lesser Himalaya, Shiwalik",
+        "C": "Greater Himalaya, Trans-Himalaya, Shiwalik, Lesser Himalaya",
+        "D": "Lesser Himalaya, Greater Himalaya, Trans-Himalaya, Shiwalik"
+      },
+      "correctAnswer": "B",
+      "explanation": "From north to south, the belts are Trans-Himalaya, Greater Himalaya (Himadri), Lesser Himalaya (Himachal) and Shiwalik.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+        {
+      "id": "QD045",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Himalayan range includes the Karakoram, Ladakh and Zanskar ranges?",
+      "options": {
+        "A": "Greater Himalaya",
+        "B": "Lesser Himalaya",
+        "C": "Trans-Himalaya",
+        "D": "Shiwalik"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Trans-Himalaya lies north of the Great Himalaya and includes the Karakoram, Ladakh and Zanskar ranges.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    {
+      "id": "QD046",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Himalayan range is the highest and most continuous, with snow-covered peaks and major glaciers?",
+      "options": {
+        "A": "Trans-Himalaya",
+        "B": "Greater Himalaya (Himadri)",
+        "C": "Lesser Himalaya (Himachal)",
+        "D": "Shiwalik"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Greater Himalaya (Himadri) is the highest and most continuous range, with average heights commonly above 6,000 m.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    {
+      "id": "QD047",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Himalayan range is the outermost and youngest, composed of unconsolidated sediments?",
+      "options": {
+        "A": "Trans-Himalaya",
+        "B": "Greater Himalaya",
+        "C": "Lesser Himalaya",
+        "D": "Shiwalik"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Shiwalik is the outermost and youngest foothill range, with unconsolidated sediments and longitudinal valleys called duns.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    {
+      "id": "QD048",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Himalayan Mountains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Himalayan range includes the Pir Panjal and Dhauladhar ranges, with valleys and hill stations?",
+      "options": {
+        "A": "Trans-Himalaya",
+        "B": "Greater Himalaya",
+        "C": "Lesser Himalaya (Himachal)",
+        "D": "Shiwalik"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Lesser Himalaya (Himachal) includes the Pir Panjal and Dhauladhar ranges, valleys and hill stations.",
+      "source": "Indian_Geography.pdf, 3.5.3"
+    },
+    

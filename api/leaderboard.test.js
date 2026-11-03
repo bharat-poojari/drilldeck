@@ -8,7 +8,8 @@ test("leaderboard requires explicit consent and supports private owner controls"
     owner:process.env.EXAMDESK_GITHUB_OWNER,
     repo:process.env.EXAMDESK_GITHUB_REPO,
     branch:process.env.EXAMDESK_GITHUB_BRANCH,
-    secret:process.env.EXAMDESK_SESSION_SECRET
+    secret:process.env.EXAMDESK_SESSION_SECRET,
+    legacySecret:process.env.drilldeck_SESSION_SECRET
   };
   const originalFetch = globalThis.fetch;
   const ownerKey = "9424ee19-2c2d-40c1-bc1a-298624ba0a2e";
@@ -21,9 +22,9 @@ test("leaderboard requires explicit consent and supports private owner controls"
     EXAMDESK_GITHUB_TOKEN:"test-token",
     EXAMDESK_GITHUB_OWNER:"test-owner",
     EXAMDESK_GITHUB_REPO:"test-storage",
-    EXAMDESK_GITHUB_BRANCH:"test-branch",
-    EXAMDESK_SESSION_SECRET:"test-session-secret-with-at-least-32-characters"
+    EXAMDESK_GITHUB_BRANCH:"test-branch"
   });
+  delete process.env.EXAMDESK_SESSION_SECRET;
   delete process.env.drilldeck_SESSION_SECRET;
 
   globalThis.fetch = async (url, options) => {
@@ -104,6 +105,7 @@ test("leaderboard requires explicit consent and supports private owner controls"
     restoreEnvironment("EXAMDESK_GITHUB_REPO", previousEnvironment.repo);
     restoreEnvironment("EXAMDESK_GITHUB_BRANCH", previousEnvironment.branch);
     restoreEnvironment("EXAMDESK_SESSION_SECRET", previousEnvironment.secret);
+    restoreEnvironment("drilldeck_SESSION_SECRET", previousEnvironment.legacySecret);
   }
 });
 

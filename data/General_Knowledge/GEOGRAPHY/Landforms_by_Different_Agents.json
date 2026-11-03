@@ -1,0 +1,870 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank on Landforms Created by Different Agents (FDA/SDA Exam Notes). Extracted comprehensively from the provided PDF, covering River, Glacial, Wind, Coastal, and Karst landforms, formation processes, characteristics, comparisons, Indian and world examples, exam traps, revision facts, and MCQs.",
+  "questions": [
+    {
+      "id": "L001",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a landform?",
+      "options": {
+        "A": "A natural physical feature of the Earth's surface",
+        "B": "A man-made structure on the Earth's surface",
+        "C": "A type of rock formation only",
+        "D": "A weather phenomenon"
+      },
+      "correctAnswer": "A",
+      "explanation": "A landform is a natural physical feature of the Earth's surface, such as a valley, mountain, plain, dune, cliff or delta.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L002",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Landforms develop through the interaction of which two types of processes?",
+      "options": {
+        "A": "Internal (endogenic) and external (exogenic) processes",
+        "B": "Chemical and biological processes only",
+        "C": "Wind and water processes only",
+        "D": "Volcanic and seismic processes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Landforms develop through the interaction of internal (endogenic) and external (exogenic) processes.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L003",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are geomorphic agents?",
+      "options": {
+        "A": "Natural media or forces that erode, transport and deposit material",
+        "B": "Only rivers and glaciers",
+        "C": "Only wind and waves",
+        "D": "Only groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geomorphic agents are natural media or forces that erode, transport and deposit material, thereby shaping the Earth's surface. Major agents include running water, glaciers, wind, sea waves and groundwater.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L004",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is NOT a major geomorphic agent mentioned in the text?",
+      "options": {
+        "A": "Running water",
+        "B": "Glaciers",
+        "C": "Wind",
+        "D": "Volcanic eruptions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Major agents include running water, glaciers, wind, sea waves and groundwater. Volcanic eruptions are endogenic processes, not listed as a geomorphic agent in this context.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L005",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How are landforms classified by their dominant agent?",
+      "options": {
+        "A": "Fluvial, glacial, aeolian, coastal/marine and karst",
+        "B": "Igneous, sedimentary and metamorphic",
+        "C": "Endogenic and exogenic only",
+        "D": "Erosional and depositional only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Landforms are classified as fluvial (river), glacial, aeolian (wind), coastal/marine and karst (groundwater solution) landforms.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L006",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by a polygenetic landform?",
+      "options": {
+        "A": "A landform formed by more than one process",
+        "B": "A landform formed by only one process",
+        "C": "A landform formed only by wind",
+        "D": "A landform formed only by water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Some landforms are polygenetic, meaning that more than one process contributed to their development.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L007",
+      "subject": "Geography",
+      "topic": "Geomorphology",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between erosional and depositional landforms?",
+      "options": {
+        "A": "Erosional landforms are carved by removal of material; depositional landforms are built by accumulation of sediment",
+        "B": "Erosional landforms are built by accumulation; depositional landforms are carved by removal",
+        "C": "Both are formed only by wind",
+        "D": "Both are formed only by glaciers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Erosional landforms are carved or produced mainly by removal of material; depositional landforms are built by accumulation of transported sediment. Some features involve both processes at different stages.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L008",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are fluvial landforms?",
+      "options": {
+        "A": "Landforms produced by running water in rivers and streams",
+        "B": "Landforms produced by glaciers",
+        "C": "Landforms produced by wind",
+        "D": "Landforms produced by groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluvial landforms are landforms produced by running water in rivers and streams through erosion, transportation and deposition.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L009",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The dominant process in a river changes with which of the following factors?",
+      "options": {
+        "A": "Gradient, discharge, sediment load, channel form and geology",
+        "B": "Only temperature",
+        "C": "Only wind direction",
+        "D": "Only tidal range"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dominant process changes with gradient, discharge, sediment load, channel form and geology.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L010",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The upper course of a river commonly has:",
+      "options": {
+        "A": "A steep gradient and strong vertical erosion",
+        "B": "A gentle gradient and extensive deposition",
+        "C": "Greater lateral erosion and meandering",
+        "D": "No erosion at all"
+      },
+      "correctAnswer": "A",
+      "explanation": "The upper course commonly has a steep gradient and strong vertical erosion.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L011",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The middle course of a river often shows:",
+      "options": {
+        "A": "Greater lateral erosion and meandering",
+        "B": "Only vertical erosion",
+        "C": "Only deposition",
+        "D": "No meandering"
+      },
+      "correctAnswer": "A",
+      "explanation": "The middle course often shows greater lateral erosion and meandering.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L012",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The lower course of a river commonly has:",
+      "options": {
+        "A": "A gentler gradient and extensive deposition",
+        "B": "A steep gradient and strong vertical erosion",
+        "C": "Only lateral erosion",
+        "D": "No deposition"
+      },
+      "correctAnswer": "A",
+      "explanation": "The lower course commonly has a gentler gradient and extensive deposition.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L013",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is a V-shaped valley formed?",
+      "options": {
+        "A": "A river cuts downwards into its bed while weathering and mass movement weaken the valley sides",
+        "B": "A glacier widens and deepens a valley",
+        "C": "Wind erodes the valley floor",
+        "D": "Groundwater dissolves the valley sides"
+      },
+      "correctAnswer": "A",
+      "explanation": "A river cuts downwards into its bed, while weathering and mass movement weaken the valley sides. Material moves downslope and is carried away, leaving a narrow valley with steep sides and a V-shaped cross-section.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L014",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are interlocking spurs?",
+      "options": {
+        "A": "Projecting ridges of resistant land that alternate from side to side in the upper course of a river",
+        "B": "Depositional features on the inner bank of a meander",
+        "C": "Sand dunes formed by wind",
+        "D": "Caves formed by groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interlocking spurs are projecting ridges of resistant land that alternate from side to side in the upper course of a river. A young river follows the path of least resistance around them rather than cutting straight through.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L015",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does a waterfall form?",
+      "options": {
+        "A": "Where resistant rock overlies or adjoins less resistant rock, softer rock erodes more rapidly forming a step",
+        "B": "Where a river enters a standing body of water",
+        "C": "Where a glacier melts",
+        "D": "Where wind deposits sand"
+      },
+      "correctAnswer": "A",
+      "explanation": "A waterfall commonly develops where resistant rock overlies or adjoins less resistant rock. Softer rock is eroded more rapidly, forming a step. Hydraulic action and abrasion deepen a plunge pool and undercut the hard-rock ledge; collapse and retreat may leave a gorge.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L016",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a plunge pool?",
+      "options": {
+        "A": "A deep basin at the foot of a waterfall formed by the force of falling water and abrasion",
+        "B": "A shallow lake on a floodplain",
+        "C": "A type of sand dune",
+        "D": "A cave formed by groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "A plunge pool is a deep basin at the foot of a waterfall formed by the force of falling water and the abrasion of rock fragments carried in the turbulent water.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L017",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a gorge?",
+      "options": {
+        "A": "A narrow, steep-sided valley",
+        "B": "A broad, flat valley",
+        "C": "A crescent-shaped lake",
+        "D": "A ridge of sand"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gorge is a narrow, steep-sided valley. It may form through river incision or through the upstream retreat of a waterfall as undercut rock collapses.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L018",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a meander?",
+      "options": {
+        "A": "A winding bend or loop in a river channel",
+        "B": "A straight section of a river",
+        "C": "A waterfall",
+        "D": "A delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "A meander is a winding bend or loop in a river channel. Faster flow and greater erosion commonly occur near the outer bank (cut bank), while slower flow and deposition occur near the inner bank (point bar).",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L019",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does a river meander?",
+      "options": {
+        "A": "Small irregularities in the channel produce variations in velocity and pressure, promoting erosion on the outer bank and deposition on the inner bank",
+        "B": "Because of glacial erosion",
+        "C": "Because of wind deposition",
+        "D": "Because of groundwater solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Small irregularities in the channel produce variations in velocity and pressure. Helicoidal flow and the concentration of faster flow near the outer bank promote erosion there, while sediment accumulates on the inner bank. The bend can enlarge and migrate.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 1"
+    },
+    {
+      "id": "L020",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cut bank?",
+      "options": {
+        "A": "The eroding outer bank of a meander",
+        "B": "The depositional inner bank of a meander",
+        "C": "A ridge of sand deposited by longshore drift",
+        "D": "A cave formed by waves"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cut bank is the eroding outer bank of a meander.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L021",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a point bar?",
+      "options": {
+        "A": "A depositional feature on the inner bank of a meander where sand and gravel accumulate",
+        "B": "The eroding outer bank of a meander",
+        "C": "A ridge of glacial debris",
+        "D": "A type of sand dune"
+      },
+      "correctAnswer": "A",
+      "explanation": "A point bar is a depositional feature on the inner bank of a meander where sand and gravel accumulate.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L022",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does an ox-bow lake form?",
+      "options": {
+        "A": "Continued lateral erosion narrows the neck of a meander; during a flood, the river cuts through the narrow neck, abandoning the old loop",
+        "B": "A glacier melts and leaves a hollow",
+        "C": "Wind erodes a depression",
+        "D": "Groundwater dissolves limestone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continued lateral erosion narrows the neck of a meander. During a flood, the river may cut through the narrow neck and adopt a straighter course. Deposition seals the ends of the abandoned loop, leaving a crescent-shaped ox-bow lake.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L023",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a floodplain?",
+      "options": {
+        "A": "A broad, relatively flat area beside a river built by repeated overbank deposition during floods",
+        "B": "A deep narrow valley",
+        "C": "A crescent-shaped lake",
+        "D": "A hill formed by glacial deposition"
+      },
+      "correctAnswer": "A",
+      "explanation": "A floodplain is a broad, relatively flat area beside a river built by repeated overbank deposition during floods, together with channel migration and associated sedimentation.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L024",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a natural levee?",
+      "options": {
+        "A": "A low ridge of sediment along a river bank built by overbank flood deposition",
+        "B": "An artificial embankment",
+        "C": "A ridge of glacial debris",
+        "D": "A sand dune"
+      },
+      "correctAnswer": "A",
+      "explanation": "A natural levee is a low ridge of sediment along a river bank. During floods, water spills out of the channel, loses velocity and deposits relatively coarse material near the banks, building raised margins.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L025",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an alluvial fan?",
+      "options": {
+        "A": "A fan- or cone-shaped deposit of alluvium formed where a stream emerges from a steep mountain valley onto a flatter plain",
+        "B": "A deposit at a river mouth in the sea",
+        "C": "A ridge of glacial debris",
+        "D": "A sand dune"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alluvial fan is a fan- or cone-shaped deposit of alluvium formed where a stream emerges from a steep mountain valley onto a flatter plain, loses velocity and spreads across a wider area. Coarser material is often deposited near the apex.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L026",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does an alluvial fan differ from a delta?",
+      "options": {
+        "A": "An alluvial fan forms where a stream leaves a steep confined valley for a flatter plain; a delta forms where a river enters a standing body of water",
+        "B": "An alluvial fan forms at a river mouth; a delta forms at a mountain front",
+        "C": "An alluvial fan is glacial; a delta is aeolian",
+        "D": "They are the same feature"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alluvial fan forms where a stream leaves a steep confined valley for a flatter plain; a delta forms where a river enters a standing body of water and deposits sediment at its mouth.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L027",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a delta?",
+      "options": {
+        "A": "A depositional landform at a river mouth where sediment accumulates as the river enters a standing body of water",
+        "B": "A fan-shaped deposit at a mountain front",
+        "C": "A ridge of glacial debris",
+        "D": "A cave formed by groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "A delta is a depositional landform at a river mouth where sediment accumulates as the river enters a sea, lake or other standing water and loses velocity. Its shape depends on river sediment supply, waves, tides and currents.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L028",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are common descriptive forms of deltas?",
+      "options": {
+        "A": "Arcuate, bird-foot, cuspate",
+        "B": "Barchan, seif, star",
+        "C": "Cirque, arete, horn",
+        "D": "Stalactite, stalagmite, column"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common descriptive forms include arcuate (fan-shaped), bird-foot or digitate, and cuspate deltas.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L029",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Process-based classifications of deltas distinguish which types?",
+      "options": {
+        "A": "River-dominated, wave-dominated and tide-dominated deltas",
+        "B": "Hot and cold deltas",
+        "C": "Wet and dry deltas",
+        "D": "High and low deltas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Process-based classifications distinguish river-dominated, wave-dominated and tide-dominated deltas.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L030",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a distributary?",
+      "options": {
+        "A": "A channel that branches away from the main river and carries water and sediment across a delta",
+        "B": "A tributary that joins the main river",
+        "C": "A type of sand dune",
+        "D": "A cave passage"
+      },
+      "correctAnswer": "A",
+      "explanation": "A distributary is a channel that branches away from the main river and carries water and sediment across a delta towards the sea or lake.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L031",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is an important example of river landforms in India?",
+      "options": {
+        "A": "The Ganga–Brahmaputra delta and Sundarbans",
+        "B": "The Thar Desert barchan dunes",
+        "C": "The Chilika Lake lagoon",
+        "D": "The Meghalaya limestone caves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important examples of river landforms in India include the Ganga–Brahmaputra delta and Sundarbans; the Indo-Gangetic floodplain; alluvial fans along Himalayan foothills; meanders and ox-bow lakes in parts of the Ganga and Brahmaputra plains; and deeply incised valleys in Himalayan rivers.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L032",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where in India are meanders and ox-bow lakes commonly found?",
+      "options": {
+        "A": "In parts of the Ganga and Brahmaputra plains",
+        "B": "In the Thar Desert",
+        "C": "In the Meghalaya hills",
+        "D": "Along the Kerala coast"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meanders and ox-bow lakes occur in parts of the Ganga and Brahmaputra plains.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L033",
+      "subject": "Geography",
+      "topic": "Fluvial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Deeply incised valleys in Himalayan rivers are examples of which type of landform?",
+      "options": {
+        "A": "Fluvial landforms",
+        "B": "Glacial landforms",
+        "C": "Aeolian landforms",
+        "D": "Karst landforms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deeply incised valleys in Himalayan rivers are given as examples of river (fluvial) landforms in India.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L034",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are glacial landforms?",
+      "options": {
+        "A": "Landforms created by moving glacier ice and associated meltwater through erosion, transportation and deposition",
+        "B": "Landforms created by rivers",
+        "C": "Landforms created by wind",
+        "D": "Landforms created by groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glacial landforms are landforms created by moving glacier ice and associated meltwater through erosion, transportation and deposition.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L035",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cirque, corrie or cwm?",
+      "options": {
+        "A": "A steep-sided, armchair-shaped hollow at the head of a glacial valley",
+        "B": "A sharp ridge between two cirques",
+        "C": "A ridge of glacial debris",
+        "D": "A long winding ridge of sand and gravel"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cirque, corrie or cwm is a steep-sided, armchair-shaped hollow at the head of a glacial valley. Plucking, abrasion, freeze–thaw weathering and nivation may enlarge it; a tarn may occupy the hollow after the ice melts.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L036",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a tarn?",
+      "options": {
+        "A": "A small mountain lake occupying a cirque or corrie after glacier retreat",
+        "B": "A deep narrow sea inlet",
+        "C": "A ridge of glacial debris",
+        "D": "A sand dune"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tarn is a small mountain lake occupying a cirque or corrie after glacier retreat.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L037",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are moraines?",
+      "options": {
+        "A": "Ridges or accumulations of debris transported and deposited by glacier ice",
+        "B": "Ridges of sand and gravel deposited by meltwater",
+        "C": "Streamlined hills of glacial sediment",
+        "D": "Crescent-shaped sand dunes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Moraines are ridges or accumulations of debris transported and deposited by glacier ice. They consist of till and may contain a wide range of particle sizes, from clay to boulders.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L038",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a lateral moraine?",
+      "options": {
+        "A": "A ridge of glacial debris deposited along the side of a valley glacier",
+        "B": "A ridge of debris near the middle of a glacier",
+        "C": "A ridge deposited at the farthest advance of a glacier",
+        "D": "A widespread layer of till beneath the glacier"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lateral moraine is a ridge of glacial debris deposited along the side of a valley glacier.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L039",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a medial moraine?",
+      "options": {
+        "A": "A debris ridge near the middle of a glacier, commonly formed when the lateral moraines of two tributary glaciers join",
+        "B": "A ridge deposited along the side of a valley glacier",
+        "C": "A ridge deposited at the farthest advance of a glacier",
+        "D": "A widespread layer of till"
+      },
+      "correctAnswer": "A",
+      "explanation": "A medial moraine is a debris ridge near the middle of a glacier, commonly formed when the lateral moraines of two tributary glaciers join.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L040",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a terminal or end moraine?",
+      "options": {
+        "A": "A ridge of debris deposited at the farthest advance of a glacier, marking its maximum extent",
+        "B": "A ridge deposited during a temporary pause or minor readvance while a glacier is retreating",
+        "C": "A ridge along the side of a glacier",
+        "D": "A ridge near the middle of a glacier"
+      },
+      "correctAnswer": "A",
+      "explanation": "A terminal or end moraine is a ridge of debris deposited at the farthest advance of a glacier, marking its maximum extent during that advance.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+        {
+      "id": "L042",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a ground moraine?",
+      "options": {
+        "A": "A widespread layer of till deposited beneath or left behind by glacier ice, often forming gently undulating terrain",
+        "B": "A ridge deposited at the farthest advance of a glacier",
+        "C": "A ridge along the side of a glacier",
+        "D": "A long winding ridge of sand and gravel"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ground moraine is a widespread layer of till deposited beneath or left behind by glacier ice, often forming gently undulating terrain.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 2"
+    },
+    {
+      "id": "L043",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a drumlin?",
+      "options": {
+        "A": "An elongated, streamlined hill composed mainly of glacial sediment, commonly aligned with former ice flow",
+        "B": "A long winding ridge of stratified sand and gravel",
+        "C": "A sharp pyramidal peak",
+        "D": "A deep narrow sea inlet"
+      },
+      "correctAnswer": "A",
+      "explanation": "A drumlin is an elongated, streamlined hill composed mainly of glacial sediment, commonly aligned with former ice flow. Its precise formation mechanisms are complex and may involve subglacial deposition and deformation.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+    {
+      "id": "L044",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an esker?",
+      "options": {
+        "A": "A long, winding ridge of stratified sand and gravel deposited by meltwater streams flowing within or beneath a glacier",
+        "B": "An elongated streamlined hill of glacial sediment",
+        "C": "A sharp ridge between adjacent cirques",
+        "D": "A deep narrow sea inlet"
+      },
+      "correctAnswer": "A",
+      "explanation": "An esker is a long, winding ridge of stratified sand and gravel deposited by meltwater streams flowing within or beneath a glacier. It remains as a ridge after the ice melts.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+        {
+      "id": "L045",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a U-shaped valley or glacial trough?",
+      "options": {
+        "A": "A broad valley with steep sides and a relatively flat floor, formed when a glacier widens, deepens and straightens a pre-existing river valley",
+        "B": "A narrow valley with steep sides and a V-shaped cross-section formed by river downcutting",
+        "C": "A deep narrow sea inlet flooded by seawater",
+        "D": "A sharp ridge between adjacent cirques"
+      },
+      "correctAnswer": "A",
+      "explanation": "A U-shaped valley or glacial trough is a broad valley with steep sides and a relatively flat floor, formed when a glacier widens, deepens and straightens a pre-existing river valley.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+    {
+      "id": "L046",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does a U-shaped valley differ from a V-shaped valley?",
+      "options": {
+        "A": "A V-shaped valley is commonly produced by river downcutting and slope processes; a U-shaped valley is produced mainly by glacial erosion and has a broader floor and steep sides",
+        "B": "A V-shaped valley is produced by glaciers; a U-shaped valley by rivers",
+        "C": "Both are produced by wind erosion",
+        "D": "Both are produced by groundwater solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "A V-shaped valley is commonly produced by river downcutting and slope processes; a U-shaped valley is produced mainly by glacial erosion and has a broader floor and steep sides.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+        {
+      "id": "L047",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an arete?",
+      "options": {
+        "A": "A sharp ridge between adjacent cirques or glacial valleys",
+        "B": "A sharp pyramidal peak formed when several cirques erode back towards one another",
+        "C": "A tributary glacial valley left at a higher elevation than the main trough",
+        "D": "A deep, narrow, steep-sided glacial valley flooded by seawater"
+      },
+      "correctAnswer": "A",
+      "explanation": "An arete is a sharp ridge between adjacent cirques or glacial valleys.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+    {
+      "id": "L048",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a horn?",
+      "options": {
+        "A": "A sharp pyramidal peak formed when several cirques erode back towards one another",
+        "B": "A sharp ridge between adjacent cirques",
+        "C": "A tributary glacial valley left at a higher elevation",
+        "D": "A long winding ridge of sand and gravel"
+      },
+      "correctAnswer": "A",
+      "explanation": "A horn is a sharp pyramidal peak formed when several cirques erode back towards one another.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+    {
+      "id": "L049",
+      "subject": "Geography",
+      "topic": "Glacial Landforms",
+      "chapter": "Landforms by Different Agents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a hanging valley?",
+      "options": {
+        "A": "A tributary glacial valley left at a higher elevation than the main glacial trough because the main glacier eroded more deeply",
+        "B": "A U-shaped valley with a broad floor",
+        "C": "A deep narrow sea inlet flooded by seawater",
+        "D": "A sharp ridge between two cirques"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hanging valley is a tributary glacial valley left at a higher elevation than the main glacial trough because the main glacier eroded more deeply. Waterfalls may occur at its outlet.",
+      "source": "Landforms_by_Different_Agents.pdf, Page 3"
+    },
+    

@@ -1,6 +1,6 @@
 # DrillDeck — Karnataka State Exam Practice
 
-DrillDeck is a customizable mock test application for Karnataka state-level exam preparation, built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Practice General Knowledge, Kannada, English and Computer using question sets loaded from JSON files under `data/`. Optional accounts and score history, plus the public score list, are stored as JSON through GitHub's Contents API.
+DrillDeck is a customizable mock test application for Karnataka state-level exam preparation, built with **HTML5, CSS3, Vanilla JavaScript modules and Vercel Node.js functions**. Practice General Knowledge, Kannada, English and Computer using question sets loaded from JSON files under `data/`. Shared chat messages and opt-in leaderboard scores are stored as JSON through GitHub's Contents API; no user accounts are required.
 
 ## Features
 
@@ -16,18 +16,18 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Submission confirmation and a second browser confirmation.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
-- Complete submitted test results saved locally for guests and signed-in students, with refresh recovery and a **My Test History** section.
+- Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
 - Import/export of versioned JSON backups to transfer local test history between browsers or devices.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
+- Dedicated About page explaining DrillDeck's practice modes, privacy model, question library and creator.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
 - Search metadata and structured data for Karnataka exam practice, creator profile links, a branded social preview, SVG/PNG/ICO browser and mobile icons, Google Search Console verification, robots.txt and an XML image sitemap.
-- Optional email/password accounts, salted password hashes and up to 100 saved scores per account.
 - Four-step test setup with a unified, expandable subcategory-and-topic selector.
 - Searchable, collapsible topic groups with per-category and global selection controls.
 - Final configuration review with editable sections and server-side validation against the available question bank before a test starts.
 - Explicit opt-in before publishing a score; the global score list shows newest submissions first and never displays email addresses.
 - Public shared chat messages stored in GitHub-backed JSON, with optional display names.
-- HttpOnly, SameSite session cookies; GitHub credentials stay in server-side Vercel environment variables.
+- Anonymous shared chat and leaderboard publishing; GitHub credentials stay in server-side Vercel environment variables.
 
 ## Run locally
 
@@ -55,11 +55,11 @@ Then open:
 http://127.0.0.1:8000
 ```
 
-This server provides the configuration-validation API needed to start a test and serves only public app files. It does not provide account, chat or leaderboard APIs. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
+This server provides the configuration-validation API needed to start a test and serves only public app files. It does not provide chat or leaderboard APIs. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
 
-## Deploy accounts and score sharing to Vercel
+## Deploy chat and score sharing to Vercel
 
-1. Create a **separate private GitHub repository** for DrillDeck's JSON records. Do not use the public website repository: it will contain account email addresses and password hashes.
+1. Create a **separate private GitHub repository** for DrillDeck's JSON records. Keep it private; an existing `accounts.json` may contain legacy account records from an earlier version.
 2. Create a fine-grained personal access token limited to that private repository. Grant **Contents: Read and write** (Metadata read access is required by GitHub); no other repository permissions are needed.
 3. In Vercel, add these environment variables for the project:
 
@@ -69,21 +69,20 @@ This server provides the configuration-validation API needed to start a test and
    | `EXAMDESK_GITHUB_OWNER` | GitHub owner or organization for the private repository |
    | `EXAMDESK_GITHUB_REPO` | Private repository name |
    | `EXAMDESK_GITHUB_BRANCH` | Branch for JSON updates, normally `main` |
-   | `EXAMDESK_SESSION_SECRET` | Random secret of at least 32 characters, used to sign sessions |
 
-The older `drilldeck_*` environment variable names are also accepted for deployments that already use them.
+The older `drilldeck_*` GitHub storage variable names are also accepted for existing deployments.
 
-4. Redeploy after setting the variables. The first score submission creates `accounts.json`, and the first chat message creates `chat-messages.json`, in the private repository.
+4. Redeploy after setting the variables. The first score submission updates the legacy `accounts.json` storage file, and the first chat message creates `chat-messages.json`, in the private repository. New score submissions do not create or update user accounts.
 
-Generate a session secret with `node -e "console.log(require('node:crypto').randomBytes(48).toString('base64url'))"`. Never put the GitHub token or session secret in frontend code, `index.html`, or a committed file. If a token is exposed, revoke it and create a replacement.
+Never put the GitHub token in frontend code, `index.html`, or a committed file. If a token is exposed, revoke it and create a replacement.
 
-Account creation and sign-in are optional. Passwords are stored as salted scrypt hashes, not plaintext. Email addresses and account score history stay in the private repository; the public score list includes only a chosen display name, score, paper, subjects and date. Scores are private by default and are published only after selecting **Publish my score on the public leaderboard**. Signed-in users also get up to 100 published score summaries in account history. Guests are listed as `Guest` unless they enter a public name. Published scores can be renamed or removed from the leaderboard in **My Test History** or account history.
+Individual account creation, sign-in and online account history are disabled. The legacy `/api/account` and `/api/history` endpoints return `410 Gone`. The public score list includes only a display name, score, paper, subjects and date. Scores are published only after selecting **Publish my score on the public leaderboard**. A private browser key allows that browser to rename or remove its score from **My Test History**; it is never returned in the public score list.
 
-Full submitted results, including the questions and answers needed to recover the review, are saved in the browser's local storage independently of leaderboard consent and are not uploaded to GitHub. Private attempts therefore remain in **My Test History** without a public entry. Guests receive a local guest identifier; signed-in attempts also record the account ID in that browser's saved result. Use **My Test History** to reopen a result, or export/import a JSON backup to move history to another browser. Browser storage is device- and browser-specific; clearing site data removes local results, so keep an exported backup. The server requires an explicit consent flag before accepting a public score and checks score-management requests against the signed-in account or a private guest owner key.
+Full submitted results, including the questions and answers needed to recover the review, are saved in the browser's local storage independently of leaderboard consent and are not uploaded to GitHub. Private attempts therefore remain in **My Test History** without a public entry. Use **My Test History** to reopen a result, or export/import a JSON backup to move history to another browser. Browser storage is device- and browser-specific; clearing site data removes local results, so keep an exported backup. The server requires explicit consent before accepting a public score and checks score-management requests against a private browser owner key.
 
-If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Password recovery and account deletion are not currently available.
+If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Shared chat and global rankings do not require individual accounts.
 
-For local serverless testing, use the Vercel CLI (`vercel dev`) with the same environment variables. The configuration endpoint validates the selected datasets, topics, question count, duration and marking scheme against the server-side question bank before generating the test. `vercel.json` includes the data files in that function. A plain Python/Live Server instance has no `/api` functions, so test creation, account, leaderboard and chat requests will report that the service is unavailable; an HTTP 501 when starting a test means it must be run through `vercel dev` or a Vercel deployment.
+For local serverless testing, use the Vercel CLI (`vercel dev`) with the same GitHub storage environment variables. The configuration endpoint validates the selected datasets, topics, question count, duration and marking scheme against the server-side question bank before generating the test. `vercel.json` includes the data files in that function. A plain Python/Live Server instance has no `/api` functions, so test creation, leaderboard and chat requests will report that the service is unavailable; an HTTP 501 when starting a test means it must be run through `vercel dev` or a Vercel deployment.
 
 ## Add question datasets
 
@@ -165,13 +164,12 @@ mock-test-platform/
 │   ├── leaderboard.js
 │   └── chat.js
 ├── lib/server/
-│   ├── accounts.js
 │   ├── github-json.js
 │   └── http.js
 ├── js/
 │   ├── app.js
 │   ├── questions.js
-│   ├── accounts.js
+│   ├── community.js
 │   ├── exam.js
 │   ├── timer.js
 │   ├── scoring.js
@@ -195,17 +193,17 @@ mock-test-platform/
 └── README.md
 ```
 
-The separate private GitHub storage repository receives the generated `accounts.json`.
+The separate private GitHub storage repository uses the legacy-named `accounts.json` for leaderboard scores; it may also contain older account records that are no longer served by the application.
 
 ## Important production limitations
 
 The question experience remains client-side and is suitable for practice tests using a question bank whose answers are delivered to the browser. It is not a secure proctored examination system: users can inspect the downloaded JSON and alter client-side scores. Treat public leaderboard scores as practice results, not verified exam results.
 
-The active, unsubmitted test remains in JavaScript memory only. Refreshing or closing the tab discards that in-progress attempt. After submission, the detailed result and answer review are saved locally and recoverable from the results URL or **My Test History**. Local results are not synced across devices; use a JSON backup to transfer them. Signed-in score summaries are also stored server-side and can be accessed across devices.
+The active, unsubmitted test remains in JavaScript memory only. Refreshing or closing the tab discards that in-progress attempt. After submission, the detailed result and answer review are saved locally and recoverable from the results URL or **My Test History**. Local results are not synced across devices; use a JSON backup to transfer them. Only opted-in public score summaries and shared chat messages are stored server-side.
 
 GitHub-backed JSON is a lightweight prototype store, not a production database. Each update creates a Git commit, repository history retains previous versions, and GitHub API limits, file growth and concurrent writes can restrict scale. Keep the data repository private, use a narrowly scoped token, and switch to a database with proper retention and deletion controls before handling sensitive data or a large audience. These client-calculated scores are not tamper-proof.
 
-Before opening registration or public chat to a large audience, configure Vercel Firewall or another server-side rate limiter for account, score and chat API routes. Chat messages are public and have no moderation workflow. This prototype does not have durable rate-limit storage or email verification.
+Before opening public chat or leaderboard publishing to a large audience, configure Vercel Firewall or another server-side rate limiter for score and chat API routes. Chat messages are public and have no moderation workflow. This prototype does not have durable rate-limit storage.
 
 Search engines choose rankings and snippets independently; metadata, structured data, a sitemap and useful page content help discovery but cannot guarantee placement for broad searches. The canonical URL, robots rules, sitemap, social preview, and square browser/PWA icons use `https://drilldeck.vercel.app/`. The build copies the root favicon and Google Search Console verification file to the public site root. After deployment, open `https://drilldeck.vercel.app/googlef225cee30a4b6859.html` to confirm it is publicly served, then add the site to Google Search Console and Bing Webmaster Tools and submit `https://drilldeck.vercel.app/sitemap.xml`.
 

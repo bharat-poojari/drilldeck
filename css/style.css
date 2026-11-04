@@ -300,6 +300,8 @@ a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outl
   .setup-step[data-setup-step="4"] .step-actions .button-primary{min-width:0}
 }
 .setup-main-column{display:grid;gap:16px;min-width:0}
+.setup-aside{align-items:start}
+.setup-aside > *{align-self:start}
 .local-history-panel{padding:18px 20px}
 .local-history-heading{align-items:center;gap:12px}
 .local-history-heading h2{font-size:18px}
@@ -451,14 +453,15 @@ input[type="radio"]:not(.choice-card input):focus-visible{
 .setup-grid{grid-template-columns:minmax(0,1.65fr) minmax(260px,.78fr);gap:18px}
 .setup-main-column{gap:13px}
 .setup-panel{padding:22px 24px}
-.setup-aside{gap:12px}
+.setup-aside{gap:12px;align-items:start}
+.setup-aside > *{align-self:start}
+.bank-panel{display:flex;flex-direction:column;justify-content:center;height:128px;min-height:128px;max-height:128px;box-sizing:border-box;padding:17px 19px}
+.bank-count{font-size:clamp(28px,2vw,33px);line-height:1;margin-top:8px}
 .field{margin-top:16px}
 .selection-options{max-height:230px}
 .topic-builder-section{margin-top:14px}
 .step-actions{margin-top:18px}
 .setup-panel .step-actions .button-primary{height:44px}
-.bank-panel{padding:17px 19px}
-.bank-count{font-size:33px;margin-top:8px}
 .creator-card,.info-card{padding:18px}
 .community-panel,.leaderboard-panel,.local-history-panel{padding:17px}
 .community-messages{height:220px;max-height:220px}
@@ -474,6 +477,7 @@ input[type="radio"]:not(.choice-card input):focus-visible{
   .status-pill{font-size:10px}
   .account-open{padding:0 10px;font-size:10px}
   .setup-grid{grid-template-columns:minmax(0,1fr) minmax(235px,.72fr);gap:14px}
+  .bank-panel{height:122px;min-height:122px;max-height:122px}
 }
 @media(max-width:760px){
   .topbar{grid-template-columns:minmax(0,1fr) auto auto;gap:8px;min-height:62px;margin-bottom:17px}
@@ -496,6 +500,7 @@ input[type="radio"]:not(.choice-card input):focus-visible{
   .setup-grid{grid-template-columns:minmax(0,1fr);gap:12px}
   .setup-aside{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}
   .bank-panel,.creator-card{min-height:100%}
+  .bank-panel{height:110px;min-height:110px;max-height:110px}
   .community-panel,.leaderboard-panel{grid-column:span 1}
 }
 @media(max-width:520px){
@@ -528,6 +533,7 @@ input[type="radio"]:not(.choice-card input):focus-visible{
   .setup-panel .step-actions .button-primary{position:static;height:40px;margin-top:0;box-shadow:none}
   .setup-aside{grid-template-columns:minmax(0,1fr);gap:10px}
   .bank-panel,.creator-card,.community-panel,.leaderboard-panel,.local-history-panel{padding:13px}
+  .bank-panel{height:96px;min-height:96px;max-height:96px}
   .bank-count{font-size:29px}
   .local-history-heading{align-items:flex-start}
   .local-history-panel .section-heading h2{font-size:16px}

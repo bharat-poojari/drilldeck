@@ -1,7 +1,7 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Question bank on Landforms Created by Different Agents (FDA/SDA Exam Notes). Extracted comprehensively from the provided PDF, covering River, Glacial, Wind, Coastal, and Karst landforms, formation processes, characteristics, comparisons, Indian and world examples, exam traps, revision facts, and MCQs.",
+  "description": "Available question set on landforms created by different agents for FDA/SDA practice. Coverage has not been verified against the complete source material; check and expand it before formal use.",
   "questions": [
     {
       "id": "L001",
@@ -866,5 +866,7 @@
       "correctAnswer": "A",
       "explanation": "A hanging valley is a tributary glacial valley left at a higher elevation than the main glacial trough because the main glacier eroded more deeply. Waterfalls may occur at its outlet.",
       "source": "Landforms_by_Different_Agents.pdf, Page 3"
-    },
+    }
+  ]
+}
     

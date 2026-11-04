@@ -21,8 +21,8 @@ const MIME_TYPES = {
   ".webp":"image/webp",
   ".xml":"application/xml; charset=utf-8"
 };
-const PUBLIC_DIRECTORIES = new Set(["assets", "css", "data", "js", "public"]);
-const PUBLIC_FILES = new Set(["favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
+const PUBLIC_DIRECTORIES = new Set(["assets", "css", "data", "exams", "js", "mock-tests", "public", "subjects"]);
+const PUBLIC_FILES = new Set(["browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
 
 function sendJson(res, status, body) {
   res.writeHead(status, {
@@ -79,7 +79,11 @@ async function handleStatic(req, res, pathname) {
     res.end("Bad request");
     return;
   }
-  const relativePath = decodedPath === "/" ? "index.html" : decodedPath.replace(/^[/\\]+/, "");
+  const relativePath = decodedPath === "/"
+    ? "index.html"
+    : decodedPath.endsWith("/")
+      ? `${decodedPath.replace(/^[/\\]+|[/\\]+$/g, "")}/index.html`
+      : decodedPath.replace(/^[/\\]+/, "");
   const filePath = resolve(ROOT, relativePath);
   const fromRoot = relative(ROOT, filePath);
   const [first, ...rest] = fromRoot.split(sep);

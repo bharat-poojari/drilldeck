@@ -6,6 +6,7 @@ import { renderResults } from "./results.js";
 import { initializeCommunityChat, initializeLeaderboard, managePublishedScore, publishScore } from "./community.js";
 import { createResultsStore } from "./results-store.js";
 import { createTopicSelection } from "./topic-selector.js";
+import { resolveAppRoute } from "./route-utils.js";
 
 const $ = id => document.getElementById(id);
 const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -460,7 +461,26 @@ function renderConfigurationReview(configuration = currentTestConfiguration(), v
   availability.classList.toggle("error-message", !validation.valid);
   $("start-button").disabled = !validation.valid || configurationCheckInProgress;
 }
+function applyAppRoute() {
+  const route = resolveAppRoute();
+  if (route.view === "quick-test") {
+    showView("quick-test");
+    return;
+  }
+  if (route.view === "setup") {
+    showView("setup");
+    showSetupStep(1, false);
+    return;
+  }
+  if (route.view === "about") {
+    showView("about");
+    return;
+  }
+  showView("home");
+}
+
 async function initialize() {
+  applyAppRoute();
   try {
     bank = await loadQuestionBank();
     $("bank-count").textContent = bank.questions.length.toLocaleString();
@@ -993,6 +1013,16 @@ document.addEventListener("keydown",event=>{
 });
 window.addEventListener("beforeunload",event=>{
   if(examState&&!examState.submitted){event.preventDefault();event.returnValue="Your active test will be lost if you leave this page.";}
+});
+window.addEventListener("hashchange", () => {
+  const route = resolveAppRoute();
+  if (route.view === "quick-test") showView("quick-test");
+  if (route.view === "setup") {
+    showView("setup");
+    showSetupStep(1, false);
+  }
+  if (route.view === "about") showView("about");
+  if (route.view === "home") showView("home");
 });
 
 initialize();

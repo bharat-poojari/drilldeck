@@ -10,9 +10,9 @@
   "theme_color": "#3544bb",
   "icons": [
     {
-      "src": "/assets/drilldeck-mark.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon",
       "purpose": "any"
     },
     {
@@ -32,6 +32,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    },
+    {
+      "src": "/assets/drilldeck-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
     }
   ]
 }

@@ -9,6 +9,7 @@ import { createActiveExamStore } from "./active-exam-store.js";
 import { createTopicSelection } from "./topic-selector.js";
 import { resolveAppRoute } from "./route-utils.js";
 import { selectQuestionOfTheDay } from "./daily-challenge.js";
+import { createBookmarkStore } from "./practice.js";
 
 const $ = id => document.getElementById(id);
 const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -21,6 +22,10 @@ const activeExamStore = createActiveExamStore({
   setItem:(key, value) => window.localStorage.setItem(key, value),
   removeItem:key => window.localStorage.removeItem(key)
 });
+const bookmarkStore = createBookmarkStore({
+  getItem:key => window.localStorage.getItem(key),
+  setItem:(key, value) => window.localStorage.setItem(key, value)
+});
 const topicSelection = createTopicSelection();
 const openTopicGroups = new Set();
 const knownSubcategories = new Set();
@@ -32,6 +37,7 @@ let durationSeconds = 0;
 let examStartedAt = null;
 let submitInProgress = false;
 let examContext = null;
+let activeMode = "exam";
 let examTestId = null;
 let examReturnView = "setup";
 let toastTimeout = null;
@@ -180,6 +186,7 @@ function showSavedResult(id) {
       answers:result.answers,
       metrics:result.metrics,
       examName:result.examName,
+      mode:result.mode || "exam",
       submittedAt:new Date(result.submittedAt),
       onNewTest:resetToSetup,
       onPracticeIncorrect:questions => startIncorrectPractice(questions, {
@@ -255,7 +262,9 @@ function currentFilters() {
   };
 }
 function currentTestConfiguration() {
+  const mode = $("practice-mode").checked ? "practice" : "exam";
   return {
+    mode,
     paper:$("paper-select").value,
     categories:selectedCategories(),
     datasets:selectedDatasets(),
@@ -263,7 +272,7 @@ function currentTestConfiguration() {
     topicsByDataset:topicSelection.getSelectedTopicsByGroup(),
     difficulty:$("difficulty-select").value,
     questionCount:getSelectedCount(),
-    durationMinutes:Number($("duration-input").value),
+    durationMinutes:mode === "practice" ? 1 : Number($("duration-input").value),
     markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
   };
 }
@@ -281,6 +290,7 @@ function getQuickTestConfiguration(type) {
   ]));
   const topics = [...new Set(Object.values(topicsByDataset).flat())];
   return {
+    mode:"exam",
     paper,
     categories,
     datasets:datasets.map(dataset => dataset.id),
@@ -358,6 +368,44 @@ function renderDailyChallenge() {
     `${dailyChallengeQuestion.subject} · ${dailyChallengeQuestion.topic || dailyChallengeQuestion.chapter || "General"}`;
   button.disabled = false;
 }
+function updateBookmarkAvailability() {
+  const button = $("practice-bookmarks-button");
+  try {
+    const savedIds = new Set(bookmarkStore.getIds());
+    const count = (bank?.questions || []).filter(question => savedIds.has(question.id)).length;
+    $("bookmark-count").textContent = count;
+    button.classList.toggle("hidden", count === 0);
+    $("bookmark-status").textContent = "";
+  } catch (error) {
+    button.classList.add("hidden");
+    $("bookmark-status").textContent = error.message;
+  }
+}
+function startBookmarkedPractice() {
+  if (!bank) return;
+  try {
+    const savedIds = new Set(bookmarkStore.getIds());
+    const questions = bank.questions.filter(question => savedIds.has(question.id));
+    if (!questions.length) {
+      updateBookmarkAvailability();
+      toast("No bookmarked questions are available.");
+      return;
+    }
+    const subjects = [...new Set(questions.map(question => question.subject).filter(Boolean))];
+    const context = {
+      paper:"Bookmarked Questions",
+      paperId:questions[0].paper || "general-knowledge",
+      subjects,
+      categories:subjects,
+      datasets:[...new Set(questions.map(question => question.datasetId).filter(Boolean))],
+      topics:[...new Set(questions.map(question => question.topic).filter(Boolean))],
+      difficulty:"Mixed"
+    };
+    beginExam(questions, context, 0, "quick-test", "Bookmarked Practice", "practice");
+  } catch (error) {
+    $("bookmark-status").textContent = error.message;
+  }
+}
 async function startDailyChallenge() {
   if (!dailyChallengeQuestion || dailyChallengeStarting) return;
   dailyChallengeStarting = true;
@@ -411,7 +459,8 @@ function getConfigurationValidation(configuration = currentTestConfiguration()) 
   if (!Number.isInteger(configuration.questionCount) || configuration.questionCount < 1 || configuration.questionCount > 1000) {
     errors.push("Enter a question count between 1 and 1,000.");
   }
-  if (!Number.isInteger(configuration.durationMinutes) || configuration.durationMinutes < 1 || configuration.durationMinutes > 600) {
+  if (configuration.mode !== "practice" &&
+      (!Number.isInteger(configuration.durationMinutes) || configuration.durationMinutes < 1 || configuration.durationMinutes > 600)) {
     errors.push("Enter a duration between 1 and 600 minutes.");
   }
   if (configuration.markingScheme.correct !== 1 ||
@@ -542,7 +591,16 @@ function renderConfigurationReview(configuration = currentTestConfiguration(), v
     : '<span class="review-empty">No topics selected</span>';
   $("review-difficulty").textContent = configuration.difficulty;
   $("review-question-count").textContent = `${configuration.questionCount} questions`;
-  $("review-duration").textContent = `${configuration.durationMinutes} minutes`;
+  const practice = configuration.mode === "practice";
+  $("configuration-review-title").textContent = practice ? "Review your practice" : "Review your mock test";
+  $("configuration-review-description").textContent = practice
+    ? "Practise without a timer, with feedback and explanations after each answer."
+    : "Verify your configuration before beginning the timed examination.";
+  $("review-duration").textContent = practice ? "No time limit" : `${configuration.durationMinutes} minutes`;
+  $("review-marking-scheme").classList.toggle("hidden", practice);
+  $("leaderboard-consent-field").classList.toggle("hidden", practice);
+  $("marking-note").classList.toggle("hidden", practice);
+  $("start-button").innerHTML = practice ? "Start practice <span>→</span>" : "Start mock test <span>→</span>";
   $("review-maximum-score").textContent = String(configuration.questionCount);
   $("review-marking-maximum").textContent = `${configuration.questionCount} marks`;
   const availability = $("review-availability");
@@ -551,6 +609,14 @@ function renderConfigurationReview(configuration = currentTestConfiguration(), v
     : validation.errors.join(" ");
   availability.classList.toggle("error-message", !validation.valid);
   $("start-button").disabled = !validation.valid || configurationCheckInProgress;
+}
+
+function updateSessionModeUI() {
+  const practice = $("practice-mode").checked;
+  $("duration-field").classList.toggle("hidden", practice);
+  $("leaderboard-consent-field").classList.toggle("hidden", practice);
+  $("marking-note").classList.toggle("hidden", practice);
+  updateAvailability();
 }
 function applyAppRoute() {
   const route = resolveAppRoute();
@@ -584,7 +650,7 @@ function getActiveExamSnapshot() {
   };
 }
 function persistActiveExam(immediate = false) {
-  if (!examState || examState.submitted || !examTestId) return;
+  if (activeMode !== "exam" || !examState || examState.submitted || !examTestId) return;
   clearTimeout(activeExamSaveTimeout);
   const save = () => {
     try {
@@ -624,12 +690,18 @@ function restoreActiveExam() {
     submitted:false
   };
   examTestId = snapshot.testId;
+  activeMode = "exam";
   examReturnView = snapshot.returnView;
   examStartedAt = snapshot.startedAt;
   durationSeconds = snapshot.durationSeconds;
   examContext = snapshot.context;
   submitInProgress = false;
   $("exam-title").textContent = `${examContext.paper} Mock Test`;
+  $("exam-mode-label").textContent = "EXAM MODE";
+  $("exam-view").classList.remove("learning-mode");
+  $("timer-box").classList.remove("hidden");
+  $("submit-side").classList.remove("hidden");
+  $("submit-top").textContent = "Submit test ↗";
   $("exam-total").textContent = examState.questions.length;
   $("exam-max").textContent = examState.questions.length;
   $("timer-box").classList.remove("warning","critical");
@@ -651,6 +723,7 @@ async function initialize() {
     $("bank-count").textContent = bank.questions.length.toLocaleString();
     updatePaperOptions();
     updateQuickTestAvailability();
+    updateBookmarkAvailability();
     renderDailyChallenge();
     restoreActiveExam();
   } catch (error) {
@@ -740,8 +813,9 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
       topics:configuration.topics,
       difficulty:configuration.difficulty
     };
-    beginExam(selected, context, configuration.durationMinutes * 60,
-      button.dataset.quickSubmit ? "quick-test" : "setup");
+      const mode = configuration.mode || "exam";
+      beginExam(selected, context, mode === "practice" ? 0 : configuration.durationMinutes * 60,
+        button.dataset.quickSubmit ? "quick-test" : "setup", "Mock Test", mode);
   } catch (error) {
     errorNode.textContent = error.message;
   } finally {
@@ -753,31 +827,45 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
   }
 }
 
-function beginExam(questions, context, duration, returnView, title = "Mock Test") {
+function beginExam(questions, context, duration, returnView, title = "Mock Test", mode = "exam") {
   if (timer) timer.stop();
   setResultUrl(null);
   examState = createExamState(questions);
   examTestId = createId();
   examReturnView = returnView;
   examContext = context;
-  durationSeconds = duration;
+  activeMode = mode;
+  durationSeconds = mode === "exam" ? duration : 0;
   examStartedAt = Date.now();
   submitInProgress = false;
   $("publish-score-consent").checked = false;
   $("exam-title").textContent = `${examContext.paper} ${title}`;
+  $("exam-mode-label").textContent = mode === "revision" ? "REVISION MODE" : mode === "practice" ? "PRACTICE MODE" : "EXAM MODE";
+  $("exam-view").classList.toggle("learning-mode", mode !== "exam");
+  $("timer-box").classList.toggle("hidden", mode !== "exam");
+  $("submit-side").classList.toggle("hidden", mode !== "exam");
+  $("submit-top").textContent = mode === "exam" ? "Submit test ↗" : "Finish practice";
   $("exam-total").textContent = questions.length;
   $("exam-max").textContent = questions.length;
   $("timer-box").classList.remove("warning","critical");
   showView("exam");
   visitQuestion(examState, 0);
   renderQuestion();
-  timer = createTimer({
-    durationSeconds,
-    onTick:updateTimer,
-    onExpire:() => finalizeExam(true)
-  });
-  timer.start();
-  persistActiveExam(true);
+  if (mode === "exam") {
+    timer = createTimer({
+      durationSeconds,
+      onTick:updateTimer,
+      onExpire:() => finalizeExam(true)
+    });
+    timer.start();
+    persistActiveExam(true);
+  } else {
+    try {
+      activeExamStore.clear();
+    } catch (error) {
+      $("exam-save-status").textContent = error.message;
+    }
+  }
 }
 
 function startIncorrectPractice(questions, context) {
@@ -790,8 +878,7 @@ function startIncorrectPractice(questions, context) {
     subject:question.subject || subjects[0]
   }));
   const practiceContext = { ...context, subjects };
-  const duration = Math.min(600 * 60, practiceQuestions.length * 60);
-  beginExam(practiceQuestions, practiceContext, duration, "setup", "Incorrect Questions Revision");
+  beginExam(practiceQuestions, practiceContext, 0, "setup", "Revision Practice", "revision");
 }
 
 function updateTimer(remaining) {
@@ -823,9 +910,30 @@ function renderQuestion() {
       renderQuestion();
     });
   });
+  const feedback = $("practice-feedback");
+  if (activeMode !== "exam" && answer.selected) {
+    const correct = answer.selected === q.correctAnswer;
+    const sourceUrl = typeof q.source === "string" && /^https?:\/\//i.test(q.source) ? q.source : "";
+    feedback.classList.toggle("incorrect", !correct);
+    feedback.innerHTML = `<strong>${correct ? "Correct" : `Not quite. The correct answer is ${q.correctAnswer}.`}</strong><p>${escapeHtml(q.explanation || "No explanation is available for this question.")}</p>${q.source ? `<small>Source: ${sourceUrl ? `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(q.source)}</a>` : escapeHtml(q.source)}</small>` : ""}`;
+    feedback.classList.remove("hidden");
+  } else {
+    feedback.innerHTML = "";
+    feedback.classList.add("hidden");
+    feedback.classList.remove("incorrect");
+  }
+  try {
+    const bookmarked = bookmarkStore.has(q.id);
+    $("bookmark-question-button").setAttribute("aria-pressed", String(bookmarked));
+    $("bookmark-question-button").textContent = bookmarked ? "★ Bookmarked" : "☆ Bookmark";
+  } catch (error) {
+    $("bookmark-status").textContent = error.message;
+  }
   $("previous-button").disabled = index === 0;
   $("previous-button").style.opacity = index === 0 ? ".45" : "1";
-  $("next-button").textContent = index === examState.questions.length-1 ? "Save & Finish →" : "Save & Next →";
+  $("next-button").textContent = index === examState.questions.length-1
+    ? activeMode === "exam" ? "Save & Finish →" : "Finish practice →"
+    : activeMode === "exam" ? "Save & Next →" : "Next question →";
   $("review-button").classList.toggle("active",answer.review);
   $("review-button").textContent = answer.review ? "★ Remove review" : "☆ Mark for review";
   renderPalette();
@@ -858,7 +966,14 @@ function openSubmitModal() {
   $("modal-answered").textContent = answered;
   $("modal-unanswered").textContent = unanswered;
   $("modal-review").textContent = review;
-  $("modal-warning").textContent = unanswered
+  $("modal-title").textContent = activeMode === "exam" ? "Submit your test?" : "Finish this practice?";
+  $("modal-description").textContent = activeMode === "exam"
+    ? "Once submitted, your answers will be locked and your result will be calculated."
+    : "Finish when you are ready. You can still return to any question before confirming.";
+  $("modal-confirm").textContent = activeMode === "exam" ? "Confirm submission" : "Finish practice";
+  $("modal-warning").textContent = activeMode !== "exam"
+    ? "You can return to any question and change your answers before finishing."
+    : unanswered
     ? `You have ${unanswered} unanswered question${unanswered===1?"":"s"}. Marked-for-review questions may also contain saved answers. You can return to the test or submit now.`
     : "All questions have an answer. Confirm when you are ready to finish.";
   $("submit-modal").classList.remove("hidden");
@@ -880,17 +995,22 @@ async function finalizeExam(autoSubmitted = false) {
     $("exam-save-status").classList.add("error-message");
   }
   if (timer) timer.stop();
-  const elapsed = autoSubmitted ? durationSeconds : Math.min(durationSeconds, Math.floor((Date.now()-examStartedAt)/1000));
-  const metrics = calculateResults(examState.questions,examState.answers,durationSeconds,elapsed,autoSubmitted);
+  const elapsed = activeMode === "exam"
+    ? autoSubmitted ? durationSeconds : Math.min(durationSeconds, Math.floor((Date.now()-examStartedAt)/1000))
+    : Math.floor((Date.now()-examStartedAt)/1000);
+  const metrics = calculateResults(examState.questions, examState.answers, durationSeconds, elapsed, autoSubmitted, {
+    negativeMarking:activeMode === "exam"
+  });
   const submittedAt = new Date();
   const submissionId = createId();
-  const publishConsent = $("publish-score-consent").checked;
+  const publishConsent = activeMode === "exam" && $("publish-score-consent").checked;
   const displayName = $("leaderboard-name").value.trim();
   const result = {
     id:submissionId,
     testId:examTestId,
     userId:null,
     guestId:createId(),
+    mode:activeMode,
     paperId:examContext.paperId,
     paper:examContext.paper,
     examName:$("exam-title").textContent,
@@ -909,7 +1029,7 @@ async function finalizeExam(autoSubmitted = false) {
     leaderboard:{ consented:publishConsent, published:false, name:displayName },
     metrics,
     questions:examState.questions,
-    answers:examState.answers.map(answer => ({ selected:answer.selected }))
+    answers:examState.answers.map(answer => ({ selected:answer.selected, review:answer.review }))
   };
   let localSaved = false;
   try {
@@ -926,6 +1046,7 @@ async function finalizeExam(autoSubmitted = false) {
     answers:examState.answers,
     metrics,
     examName:$("exam-title").textContent,
+    mode:activeMode,
     submittedAt,
     onNewTest:resetToSetup,
     onPracticeIncorrect:questions => startIncorrectPractice(questions, examContext)
@@ -973,6 +1094,8 @@ function resetToSetup() {
   timer = null;
   examState = null;
   examTestId = null;
+  activeMode = $("practice-mode").checked ? "practice" : "exam";
+  $("exam-view").classList.remove("learning-mode");
   clearTimeout(activeExamSaveTimeout);
   try {
     activeExamStore.clear();
@@ -1096,12 +1219,28 @@ document.querySelectorAll("[data-edit-step]").forEach(button=>button.addEventLis
   showSetupStep(Number(button.dataset.editStep));
 }));
 ["difficulty-select","count-input","duration-input"].forEach(id=>$(id).addEventListener("input",updateAvailability));
+document.querySelectorAll('input[name="session-mode"]').forEach(input =>
+  input.addEventListener("change", updateSessionModeUI)
+);
 $("previous-button").addEventListener("click",()=>{if(examState.currentIndex>0)moveTo(examState.currentIndex-1)});
 $("next-button").addEventListener("click",()=>{
   if(examState.currentIndex<examState.questions.length-1) moveTo(examState.currentIndex+1);
   else openSubmitModal();
 });
 $("review-button").addEventListener("click",()=>{toggleReview(examState,examState.currentIndex);renderQuestion()});
+$("bookmark-question-button").addEventListener("click",()=>{
+  const question = examState?.questions[examState.currentIndex];
+  if (!question) return;
+  try {
+    const bookmarked = bookmarkStore.toggle(question.id);
+    updateBookmarkAvailability();
+    renderQuestion();
+    toast(bookmarked ? "Question bookmarked." : "Bookmark removed.");
+  } catch (error) {
+    $("bookmark-status").textContent = error.message;
+  }
+});
+$("practice-bookmarks-button").addEventListener("click",startBookmarkedPractice);
 $("clear-button").addEventListener("click",()=>{clearAnswer(examState,examState.currentIndex);renderQuestion();toast("Response cleared.")});
 $("question-palette").addEventListener("click",event=>{
   const button=event.target.closest("[data-index]");
@@ -1118,7 +1257,7 @@ $("modal-close").addEventListener("click",closeSubmitModal);
 $("modal-return").addEventListener("click",closeSubmitModal);
 $("submit-modal").addEventListener("click",event=>{if(event.target===$("submit-modal"))closeSubmitModal()});
 $("modal-confirm").addEventListener("click",()=>{
-  if(window.confirm("Final confirmation: submit this test and lock all answers?")) finalizeExam(false);
+  if(activeMode !== "exam" || window.confirm("Final confirmation: submit this test and lock all answers?")) finalizeExam(false);
 });
 $("palette-toggle").addEventListener("click",()=>{
   const panel=$("palette-toggle").closest(".palette-panel");
@@ -1203,6 +1342,11 @@ document.addEventListener("click",event=>{
     return;
   }
   if (target === "custom-test") {
+    if (link.dataset.sessionMode) {
+      $("practice-mode").checked = link.dataset.sessionMode === "practice";
+      $("exam-mode").checked = !$("practice-mode").checked;
+      updateSessionModeUI();
+    }
     showView("setup");
     showSetupStep(1, false);
   }
@@ -1238,7 +1382,9 @@ window.addEventListener("beforeunload",event=>{
   if(examState&&!examState.submitted){
     persistActiveExam(true);
     event.preventDefault();
-    event.returnValue="Your test is saved in this browser and can be resumed later.";
+    event.returnValue=activeMode === "exam"
+      ? "Your test is saved in this browser and can be resumed later."
+      : "Your practice progress will be lost if you leave this page.";
   }
 });
 window.addEventListener("hashchange", () => {

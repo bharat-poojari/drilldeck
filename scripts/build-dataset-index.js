@@ -1,6 +1,7 @@
 import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
+import { validateDataset } from "../js/questions.js";
 
 const projectRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 const dataRoot = join(projectRoot, "data");
@@ -44,6 +45,25 @@ await Promise.all(datasets.map(async relativePath => {
   }
   if (!data || !Array.isArray(data.questions) || !data.questions.length) {
     throw new Error(`Question dataset "${relativePath}" must contain a non-empty questions array.`);
+  }
+  const validation = validateDataset(data, { path: relativePath, title: relativePath });
+  if (validation.invalidQuestions.length) {
+    const issues = validation.invalidQuestions.slice(0, 5)
+      .flatMap(question => question.errors)
+      .join(" ");
+    throw new Error(
+      `Question dataset "${relativePath}" has ${validation.invalidQuestions.length} invalid question(s). ${issues}`
+    );
+  }
+  if (validation.duplicateIds.length || validation.duplicateQuestions.length) {
+    const samples = validation.duplicateQuestions.slice(0, 3)
+      .map(({ firstId, duplicateId }) => `${firstId}/${duplicateId}`)
+      .join(", ");
+    console.warn(
+      `Question dataset "${relativePath}" contains ${validation.duplicateIds.length} duplicate ID(s) ` +
+      `and ${validation.duplicateQuestions.length} repeated prompt(s).` +
+      (samples ? ` Sample repeated-prompt ID pairs: ${samples}.` : "")
+    );
   }
 }));
 

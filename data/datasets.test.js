@@ -1,6 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
+import { validateDataset } from "../js/questions.js";
 
 const dataRoot = new URL("./", import.meta.url);
 const manifest = JSON.parse(await readFile(new URL("datasets.json", dataRoot), "utf8"));
@@ -17,6 +18,12 @@ test("all indexed datasets are valid JSON question banks", async () => {
     assert.ok(
       Array.isArray(dataset?.questions) && dataset.questions.length > 0,
       `Question dataset "${relativePath}" must contain a non-empty questions array.`
+    );
+    const validation = validateDataset(dataset, { path: relativePath, title: relativePath });
+    assert.deepEqual(
+      validation.invalidQuestions,
+      [],
+      `Question dataset "${relativePath}" contains invalid question records.`
     );
   }));
 });

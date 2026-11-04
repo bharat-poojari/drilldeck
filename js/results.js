@@ -1,9 +1,10 @@
 import { formatTime } from "./timer.js";
+import { selectRevisionQuestions } from "./practice.js";
 
 const $ = (id) => document.getElementById(id);
 const safe = (value) => String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
 
-export function renderResults({ questions, answers, metrics, examName, submittedAt, onNewTest }) {
+export function renderResults({ questions, answers, metrics, examName, submittedAt, onNewTest, mode = "exam" }) {
   $("final-score").textContent = metrics.score.toFixed(2);
   $("score-out-of").textContent = `/ ${metrics.maximum}`;
   $("score-percentage").textContent = `${metrics.scorePercentage.toFixed(1)}% of maximum marks`;
@@ -21,7 +22,11 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("metric-attempt-rate").textContent = `${metrics.attemptRate.toFixed(1)}% attempt rate`;
   $("result-subtitle").textContent = metrics.autoSubmitted
     ? "Time expired. Your test was submitted automatically."
-    : "Your mock test has been evaluated.";
+    : mode === "practice"
+      ? "Practice complete. Review any answer or revise questions you missed."
+      : mode === "revision"
+        ? "Revision complete. Review these questions and retry them whenever you need."
+        : "Your mock test has been evaluated.";
 
   const total = metrics.total || 1;
   $("distribution-bar").innerHTML = `
@@ -31,11 +36,16 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("distribution-legend").innerHTML = [
     ["Correct",metrics.correct,"answered"],["Incorrect",metrics.wrong,"unanswered"],["Unanswered",metrics.unanswered,"not-visited"]
   ].map(([name,count,cls]) => `<div><b>${count}</b><span><i class="legend-dot ${cls}"></i>${name}</span></div>`).join("");
-  $("calculation-text").textContent = `${metrics.correct} − (${metrics.wrong} × 0.25) = ${metrics.score.toFixed(2)}`;
-  $("time-available").textContent = formatTime(metrics.durationSeconds);
+  $("calculation-text").textContent = metrics.negativeMarks
+    ? `${metrics.correct} − (${metrics.wrong} × 0.25) = ${metrics.score.toFixed(2)}`
+    : `${metrics.correct} − 0 = ${metrics.score.toFixed(2)}`;
+  $("time-available").textContent = mode === "exam" ? formatTime(metrics.durationSeconds) : "No time limit";
   $("time-taken").textContent = formatTime(metrics.elapsedSeconds);
   $("time-average").textContent = metrics.attempted ? `${formatTime(metrics.averageSeconds)} per attempted question` : "—";
-  $("time-remaining").textContent = metrics.autoSubmitted ? "00:00:00 (time expired)" : formatTime(metrics.remainingSeconds);
+  $("time-remaining").textContent = mode !== "exam"
+    ? "—"
+    : metrics.autoSubmitted ? "00:00:00 (time expired)" : formatTime(metrics.remainingSeconds);
+  $("result-leaderboard").classList.toggle("hidden", mode !== "exam");
 
   $("subject-analysis").innerHTML = metrics.subjects.map(item => {
     const pct = item.total ? item.correct / item.total * 100 : 0;
@@ -45,9 +55,7 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   const strongest = metrics.subjects[0];
   const weakest = [...metrics.subjects].sort((a,b) => (a.correct/a.total) - (b.correct/b.total))[0];
   const weakTopics = metrics.topics.filter(t => t.wrong > 0).sort((a,b) => b.wrong-a.wrong).slice(0,3);
-  const incorrectQuestions = questions.filter((question, index) =>
-    answers[index].selected && answers[index].selected !== question.correctAnswer
-  );
+  const revisionQuestions = selectRevisionQuestions(questions, answers);
   let insight = "";
   if (strongest) insight += `<strong>Strongest subject:</strong> ${safe(strongest.name)} (${Math.round(strongest.correct/strongest.total*100)}% correct). `;
   if (weakest) insight += `<strong>Focus area:</strong> ${safe(weakest.name)} (${Math.round(weakest.correct/weakest.total*100)}% correct). `;
@@ -66,8 +74,8 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("retake-button").onclick = onNewTest;
   $("new-test-button").onclick = onNewTest;
   const revisionButton = $("wrong-revision-button");
-  revisionButton.classList.toggle("hidden", !incorrectQuestions.length || !onPracticeIncorrect);
-  revisionButton.onclick = () => onPracticeIncorrect(incorrectQuestions);
+  revisionButton.classList.toggle("hidden", !revisionQuestions.length || !onPracticeIncorrect);
+  revisionButton.onclick = () => onPracticeIncorrect(revisionQuestions);
 }
 
 function renderAnswerReview(questions, answers, filter) {

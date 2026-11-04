@@ -223,6 +223,7 @@
           <div class="eyebrow"><span class="eyebrow-line"></span> QUICK PRACTICE, YOUR WAY <span class="eyebrow-line"></span></div>
           <h1 id="quick-test-page-title">Choose a paper. <span>Get started.</span></h1>
           <p>Pick your subjects, set your question count, difficulty and time, then jump right into a timed mock test.</p>
+          <a class="button button-outline" href="#setup-view" data-menu-target="custom-test" data-session-mode="practice">Practice by topic</a>
         </div>
         <div class="quick-layout">
           <div class="quick-main-column">
@@ -298,6 +299,7 @@
           </form>
           </div>
           <p class="quick-marking-note"><span aria-hidden="true">i</span> Marking scheme: <strong>+1</strong> for a correct answer, <strong>−0.25</strong> for an incorrect answer, and <strong>0</strong> for unanswered questions.</p>
+          <div class="bookmark-launcher"><button class="button button-outline hidden" id="practice-bookmarks-button" type="button">Practice bookmarked questions (<span id="bookmark-count">0</span>)</button><p id="bookmark-status" role="status" aria-live="polite"></p></div>
           <div id="quick-history-slot"></div>
           </div>
           <div id="quick-aside-slot"></div>
@@ -410,6 +412,13 @@
                 <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="1">← Back</button><button class="button button-primary" type="button" data-next-step="3">Next <span>→</span></button></div>
               </div>
               <div class="setup-step hidden" data-setup-step="3">
+                <fieldset class="field mode-field">
+                  <legend>Session mode</legend>
+                  <div class="mode-segmented">
+                    <label><input id="exam-mode" type="radio" name="session-mode" value="exam" checked><span>Exam</span></label>
+                    <label><input id="practice-mode" type="radio" name="session-mode" value="practice"><span>Practice</span></label>
+                  </div>
+                </fieldset>
                 <div class="field">
                   <label for="difficulty-select">Difficulty</label>
                   <select id="difficulty-select">
@@ -421,7 +430,7 @@
                   <label for="count-input">Questions</label>
                   <input id="count-input" type="number" min="1" max="1000" value="25" required>
                 </div>
-                <div class="field">
+                <div class="field" id="duration-field">
                   <label for="duration-input">Duration <span class="label-hint">minutes</span></label>
                   <div class="duration-wrap"><input id="duration-input" type="number" min="1" max="600" value="30"><span>minutes</span></div>
                 </div>
@@ -435,7 +444,7 @@
                     <span class="configuration-review-icon" aria-hidden="true">
                       <svg viewBox="0 0 24 24" fill="none"><path d="M12 3 19 6v5c0 4.6-2.9 7.8-7 10-4.1-2.2-7-5.4-7-10V6l7-3Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m9 12 2 2 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
                     </span>
-                    <div><span class="step-label">READY TO START</span><h3 id="configuration-review-title">Review your mock test</h3><p>Verify your configuration before beginning the timed examination.</p></div>
+                    <div><span class="step-label">READY TO START</span><h3 id="configuration-review-title">Review your mock test</h3><p id="configuration-review-description">Verify your configuration before beginning the timed examination.</p></div>
                   </div>
                   <div class="configuration-review-grid">
                     <article class="configuration-review-card">
@@ -467,7 +476,7 @@
                       <p><strong id="review-maximum-score">—</strong><span> marks</span></p>
                     </article>
                   </div>
-                  <section class="review-marking-scheme" aria-labelledby="review-marking-title">
+                  <section class="review-marking-scheme" id="review-marking-scheme" aria-labelledby="review-marking-title">
                     <div><h4 id="review-marking-title">Marking scheme</h4><p>Maximum possible score: <strong id="review-marking-maximum">—</strong></p></div>
                     <div class="review-marking-items">
                       <span><b>Correct answer</b><strong>+1 mark</strong></span>
@@ -482,7 +491,7 @@
                   <input id="leaderboard-name" type="text" maxlength="60" placeholder="Guest">
                   <small class="field-help" id="leaderboard-name-help">This name is used only if you choose to publish this result. You can change or remove a published score later.</small>
                 </div>
-                <fieldset class="field selection-field leaderboard-consent">
+                <fieldset class="field selection-field leaderboard-consent" id="leaderboard-consent-field">
                   <legend>Public leaderboard</legend>
                   <label class="selection-option">
                     <input id="publish-score-consent" type="checkbox">
@@ -490,7 +499,7 @@
                   </label>
                   <small class="field-help">Unchecked by default. If selected, your chosen display name, score, paper, subjects and submission date are public. Your email is never displayed. Your detailed result remains in your private test history either way.</small>
                 </fieldset>
-                <div class="marking-note">
+                <div class="marking-note" id="marking-note">
                   <div class="marking-title">YOUR RESULT REMAINS PRIVATE UNLESS YOU OPT IN ABOVE</div>
                 </div>
                 <div class="step-actions"><button class="button button-ghost" type="button" data-previous-step="3">← Back</button><button class="button button-primary" id="start-button" type="submit">Start mock test <span>→</span></button></div>
@@ -543,7 +552,7 @@
 
       <section id="exam-view" class="view exam-view hidden">
         <div class="exam-header panel">
-          <div class="exam-title-wrap"><div class="exam-avatar">E</div><div><div class="exam-kicker">CUSTOM PRACTICE SESSION</div><h2 id="exam-title">Mock Test</h2></div></div>
+          <div class="exam-title-wrap"><div class="exam-avatar">E</div><div><div class="exam-kicker" id="exam-mode-label">EXAM MODE</div><h2 id="exam-title">Mock Test</h2></div></div>
           <div class="exam-meta"><span><small>QUESTIONS</small><b id="exam-total">25</b></span><span><small>MAX MARKS</small><b id="exam-max">25</b></span></div>
           <div class="timer-box" id="timer-box"><span class="timer-label">TIME REMAINING</span><strong id="timer-display">00:30:00</strong></div>
           <button class="button button-submit" id="submit-top">Submit test <span>↗</span></button>
@@ -557,10 +566,11 @@
               <div class="question-tags"><span id="question-topic">Indian Geography</span><span id="question-difficulty">Easy</span></div>
               <h3 id="question-text">Question text appears here.</h3>
               <div class="options-list" id="options-list"></div>
+              <div class="practice-feedback hidden" id="practice-feedback" role="status" aria-live="polite"></div>
             </div>
             <div class="question-actions">
               <button class="button button-ghost" id="previous-button" type="button">← Previous</button>
-              <div class="action-middle"><button class="button button-review" id="review-button" type="button">☆ Mark for review</button><button class="button button-ghost clear-button" id="clear-button" type="button">Clear response</button></div>
+              <div class="action-middle"><button class="button button-review" id="review-button" type="button">☆ Mark for review</button><button class="button button-bookmark" id="bookmark-question-button" type="button" aria-pressed="false">☆ Bookmark</button><button class="button button-ghost clear-button" id="clear-button" type="button">Clear response</button></div>
               <button class="button button-primary" id="next-button" type="button">Save &amp; Next →</button>
             </div>
           </section>
@@ -615,7 +625,7 @@
           </div>
           <div id="answer-review-list" class="answer-review-list"></div>
         </section>
-        <section class="panel leaderboard-panel result-leaderboard">
+        <section class="panel leaderboard-panel result-leaderboard" id="result-leaderboard">
           <div class="section-heading"><div><span class="step-label">GLOBAL SCORES</span><h2>Top scores</h2></div></div>
           <p class="leaderboard-note">Public leaderboard participation is optional. Only results you explicitly choose to publish are shown; public entries display a name, score, paper, subjects and date, never your email.</p>
           <p id="score-publish-status" class="score-publish-status" role="status">Preparing your score…</p>
@@ -623,7 +633,7 @@
           <button class="button button-outline retry-publish hidden" id="retry-publish" type="button">Retry publishing score</button>
           <div id="result-leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
         </section>
-        <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another mock test</button><button class="button button-outline hidden" id="wrong-revision-button" type="button">Practice incorrect questions</button><button class="button button-outline" id="print-button">Print result</button></div>
+        <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another test</button><button class="button button-outline hidden" id="wrong-revision-button" type="button">Revise incorrect / marked</button><button class="button button-outline" id="print-button">Print result</button></div>
         <footer class="page-footer">
           <div class="footer-caption">YOUR DETAILED RESULTS ARE SAVED LOCALLY ON THIS DEVICE.</div>
           <div class="creator-contact">

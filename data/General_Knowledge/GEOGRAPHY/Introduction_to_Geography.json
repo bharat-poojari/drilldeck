@@ -1,0 +1,3751 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank on Introduction to Geography based on the supplied PDF. Verify and expand questions before formal examination use.",
+  "questions": [
+    {
+      "id": "GEO001",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "From which Greek words is the word 'Geography' derived?",
+      "options": {
+        "A": "Geo (Earth) and Graphia (description or writing)",
+        "B": "Geo (Earth) and Logos (study)",
+        "C": "Graphia (writing) and Metron (measure)",
+        "D": "Geo (Earth) and Metron (measure)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word Geography is derived from the Greek words Geo (Earth) and Graphia (description or writing); therefore, its literal meaning is description of the Earth.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO002",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the literal meaning of the word 'Geography'?",
+      "options": {
+        "A": "Study of the universe",
+        "B": "Description of the Earth",
+        "C": "Measurement of land",
+        "D": "Study of human societies"
+      },
+      "correctAnswer": "B",
+      "explanation": "The literal meaning of Geography is description of the Earth, derived from Geo (Earth) and Graphia (description or writing).",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO003",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is traditionally credited with coining the term 'Geographika'?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Homer"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Greek scholar Eratosthenes (c. 276-194 BCE) is traditionally credited with coining the term Geographika and is widely known as the Father of Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO004",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is widely known as the Father of Geography?",
+      "options": {
+        "A": "Eratosthenes",
+        "B": "Strabo",
+        "C": "Aristotle",
+        "D": "Ptolemy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eratosthenes of ancient Greece is traditionally known as the Father of Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 1 & Page 6"
+    },
+    {
+      "id": "GEO005",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best defines Geography?",
+      "options": {
+        "A": "The study of only physical landforms",
+        "B": "The systematic study of the Earth's surface, places, environments, spatial patterns, and the relationships between human societies and the natural environment",
+        "C": "The study of political boundaries only",
+        "D": "The description of countries and their capitals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography is the systematic study of the Earth's surface, places, environments, spatial patterns, and the relationships between human societies and the natural environment.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO006",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the central concern of Geography?",
+      "options": {
+        "A": "Only mapping physical features",
+        "B": "Understanding what is located where, why it is located there, how places and environments differ, and how people, places and natural processes interact",
+        "C": "Studying only human societies",
+        "D": "Measuring the Earth's circumference"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography seeks to understand what is located where, why it is located there, how places and environments differ, and how people, places and natural processes interact.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO007",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did Richard Hartshorne describe Geography?",
+      "options": {
+        "A": "As the study of environmental determinism",
+        "B": "As a discipline concerned with the areal differentiation of the Earth's surface",
+        "C": "As the study of spatial interaction only",
+        "D": "As the science of map making"
+      },
+      "correctAnswer": "B",
+      "explanation": "Richard Hartshorne described Geography as a discipline concerned with the areal differentiation of the Earth's surface, meaning the study of how geographical phenomena vary from one area to another.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO008",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is modern Geography different from mere description of places?",
+      "options": {
+        "A": "Modern Geography only describes places",
+        "B": "Modern Geography does not merely describe places; it also explains spatial distributions, patterns, processes, causes, interactions and changes over time",
+        "C": "Modern Geography only studies physical features",
+        "D": "Modern Geography only studies human activities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Modern Geography does not merely describe places; it also explains spatial distributions, patterns, processes, causes, interactions and changes over time.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO009",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography called an integrating or synthesising discipline?",
+      "options": {
+        "A": "Because it only integrates physical sciences",
+        "B": "Because it integrates knowledge from natural sciences, social sciences and technical fields to understand the Earth as a system and the relationships among its physical and human components",
+        "C": "Because it integrates only social sciences",
+        "D": "Because it integrates only technical fields"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography integrates knowledge from natural sciences, social sciences and technical fields to understand the Earth as a system and the relationships among its physical and human components.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO010",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography called a spatial science?",
+      "options": {
+        "A": "Because it studies only outer space",
+        "B": "Because it studies the location, distribution, arrangement, movement, interaction and spatial relationships of physical and human phenomena on the Earth",
+        "C": "Because it studies only maps",
+        "D": "Because it studies only physical features"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography studies the location, distribution, arrangement, movement, interaction and spatial relationships of physical and human phenomena on the Earth.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO011",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad dimensions studied by Geography?",
+      "options": {
+        "A": "Physical or natural environment and human or cultural environment, together with their interactions",
+        "B": "Only landforms and water bodies",
+        "C": "Only population and settlements",
+        "D": "Only climate and vegetation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two broad dimensions are the physical or natural environment and the human or cultural environment, together with their interactions.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO012",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by the nature of Geography?",
+      "options": {
+        "A": "Its characteristics as a discipline: spatial, integrative, dynamic, interdisciplinary, scientific and concerned with both natural and human phenomena",
+        "B": "Its history only",
+        "C": "Its branches only",
+        "D": "Its methods only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The nature of Geography refers to its characteristics as a discipline: it is spatial, integrative, dynamic, interdisciplinary, scientific and concerned with both natural and human phenomena.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO013",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography considered a dynamic subject?",
+      "options": {
+        "A": "Because it studies only static features",
+        "B": "Because geographical phenomena change continuously through natural processes, human activities, technological development, climate variations, migration, urbanisation and environmental change",
+        "C": "Because it studies only historical events",
+        "D": "Because it studies only the present"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical phenomena change continuously through natural processes, human activities, technological development, climate variations, migration, urbanisation and environmental change.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO014",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography both a natural science and a social science?",
+      "options": {
+        "A": "Because Physical Geography uses concepts and methods from natural sciences to study the natural environment, while Human Geography uses social-science approaches to study people, societies, economies and cultures",
+        "B": "Because it studies only natural phenomena",
+        "C": "Because it studies only human phenomena",
+        "D": "Because it studies only technical fields"
+      },
+      "correctAnswer": "A",
+      "explanation": "Physical Geography uses concepts and methods from natural sciences to study the natural environment, while Human Geography uses social-science approaches to study people, societies, economies and cultures.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO015",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the scope of Geography include?",
+      "options": {
+        "A": "Only landforms and climate",
+        "B": "The study of landforms, climate, water, soils, vegetation, animals, population, settlements, culture, resources, agriculture, industries, transport, trade, political areas and environmental relationships",
+        "C": "Only population and settlements",
+        "D": "Only maps and globes"
+      },
+      "correctAnswer": "B",
+      "explanation": "The scope of Geography includes the study of landforms, climate, water, soils, vegetation, animals, population, settlements, culture, resources, agriculture, industries, transport, trade, political areas and environmental relationships.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO016",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the systematic approach in Geography?",
+      "options": {
+        "A": "It studies one geographical phenomenon or theme, such as climate, population or agriculture, across different parts of the world",
+        "B": "It studies the physical and human characteristics of a defined area as an integrated whole",
+        "C": "It studies only maps",
+        "D": "It studies only historical changes"
+      },
+      "correctAnswer": "A",
+      "explanation": "The systematic approach studies one geographical phenomenon or theme, such as climate, population or agriculture, across different parts of the world.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO017",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the regional approach in Geography?",
+      "options": {
+        "A": "It studies one phenomenon across different areas",
+        "B": "It studies the physical and human characteristics of a defined area or region as an integrated whole",
+        "C": "It studies only physical features",
+        "D": "It studies only human features"
+      },
+      "correctAnswer": "B",
+      "explanation": "The regional approach studies the physical and human characteristics of a defined area or region as an integrated whole.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO018",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between systematic and regional Geography?",
+      "options": {
+        "A": "Systematic Geography studies a particular topic across different areas, whereas Regional Geography studies several interconnected geographical features within a particular area",
+        "B": "Systematic Geography studies regions, whereas Regional Geography studies topics",
+        "C": "Both study the same thing",
+        "D": "Systematic Geography is only physical, Regional Geography is only human"
+      },
+      "correctAnswer": "A",
+      "explanation": "Systematic Geography studies a particular topic across different areas, whereas Regional Geography studies several interconnected geographical features within a particular area.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO019",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by spatial distribution?",
+      "options": {
+        "A": "The way a geographical phenomenon is arranged or spread across the Earth's surface",
+        "B": "The movement of people between places",
+        "C": "The relationship between humans and environment",
+        "D": "The level at which an issue is studied"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spatial distribution refers to the way a geographical phenomenon is arranged or spread across the Earth's surface, such as the distribution of population, rainfall or mineral resources.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO020",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by spatial interaction?",
+      "options": {
+        "A": "The arrangement of phenomena across the Earth",
+        "B": "The movement and exchange of people, goods, services, information or ideas between different places",
+        "C": "The relationship between humans and environment",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spatial interaction refers to the movement and exchange of people, goods, services, information or ideas between different places.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO021",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by human-environment interaction?",
+      "options": {
+        "A": "The movement of people between places",
+        "B": "The mutual relationship in which the natural environment influences human activities and human activities modify the environment",
+        "C": "The arrangement of phenomena across the Earth",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human-environment interaction refers to the mutual relationship in which the natural environment influences human activities and human activities modify the environment.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO022",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by geographical scale?",
+      "options": {
+        "A": "The size of a map",
+        "B": "The level at which a geographical issue is studied, commonly local, regional, national or global",
+        "C": "The distance between two places",
+        "D": "The height of a landform"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical scale is the level at which a geographical issue is studied, commonly local, regional, national or global.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO023",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by temporal change in Geography?",
+      "options": {
+        "A": "The arrangement of phenomena across space",
+        "B": "The way geographical features, patterns and processes change over time",
+        "C": "The movement of people between places",
+        "D": "The relationship between humans and environment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Temporal change refers to the way geographical features, patterns and processes change over time.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO024",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is the study of Geography important?",
+      "options": {
+        "A": "It helps people understand the Earth, natural resources, climate, ecosystems, population, economic activities, regional differences, environmental problems and the connections between places",
+        "B": "It helps only in map making",
+        "C": "It helps only in studying history",
+        "D": "It helps only in agriculture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography helps people understand the Earth, natural resources, climate, ecosystems, population, economic activities, regional differences, environmental problems and the connections between places.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO025",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in understanding natural hazards?",
+      "options": {
+        "A": "By identifying hazard-prone areas and studying the causes, distribution, impacts and management of floods, droughts, cyclones, earthquakes, landslides and volcanic eruptions",
+        "B": "By only mapping hazard zones",
+        "C": "By only studying historical hazards",
+        "D": "By only predicting earthquakes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography identifies hazard-prone areas and studies the causes, distribution, impacts and management of floods, droughts, cyclones, earthquakes, landslides and volcanic eruptions.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO026",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography contribute to disaster management?",
+      "options": {
+        "A": "By only providing maps",
+        "B": "Geographical information supports hazard mapping, vulnerability assessment, evacuation planning, land-use regulation, emergency response and post-disaster recovery",
+        "C": "By only studying past disasters",
+        "D": "By only predicting disasters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical information supports hazard mapping, vulnerability assessment, evacuation planning, land-use regulation, emergency response and post-disaster recovery.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO027",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in resource management?",
+      "options": {
+        "A": "By studying only mineral resources",
+        "B": "By studying the distribution, availability, use and conservation of land, water, forests, minerals, energy and other resources",
+        "C": "By studying only water resources",
+        "D": "By studying only energy resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography studies the distribution, availability, use and conservation of land, water, forests, minerals, energy and other resources.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO028",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography support environmental protection?",
+      "options": {
+        "A": "By only studying pollution",
+        "B": "It helps identify pollution, deforestation, soil degradation, biodiversity loss and climate-related risks, and supports conservation and sustainable resource use",
+        "C": "By only studying deforestation",
+        "D": "By only studying climate change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography helps identify pollution, deforestation, soil degradation, biodiversity loss and climate-related risks, and supports conservation and sustainable resource use.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO029",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in agriculture?",
+      "options": {
+        "A": "By only studying crops",
+        "B": "It helps identify suitable crops and farming practices by analysing climate, soil, relief, water availability, growing seasons and market access",
+        "C": "By only studying soils",
+        "D": "By only studying markets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography helps identify suitable crops and farming practices by analysing climate, soil, relief, water availability, growing seasons and market access.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO030",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in transport and communication planning?",
+      "options": {
+        "A": "By only studying roads",
+        "B": "Geographical analysis helps select routes, locate infrastructure, assess accessibility, understand travel flows and reduce the cost and environmental impact of networks",
+        "C": "By only studying communication networks",
+        "D": "By only studying travel flows"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical analysis helps select routes, locate infrastructure, assess accessibility, understand travel flows and reduce the cost and environmental impact of networks.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO031",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in urban and regional planning?",
+      "options": {
+        "A": "By only studying cities",
+        "B": "Geography supports decisions about land use, housing, transport, public services, infrastructure, settlement growth and balanced regional development",
+        "C": "By only studying housing",
+        "D": "By only studying transport"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography supports decisions about land use, housing, transport, public services, infrastructure, settlement growth and balanced regional development.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO032",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in understanding population problems?",
+      "options": {
+        "A": "By only counting people",
+        "B": "Population Geography examines population size, density, distribution, growth, age structure, migration and settlement patterns to support planning for health, education, employment and housing",
+        "C": "By only studying migration",
+        "D": "By only studying age structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Population Geography examines population size, density, distribution, growth, age structure, migration and settlement patterns to support planning for health, education, employment and housing.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO033",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography relevant to national security and administration?",
+      "options": {
+        "A": "By only studying boundaries",
+        "B": "Geographical knowledge helps understand boundaries, terrain, strategic locations, transport corridors, resource regions, border management and regional development",
+        "C": "By only studying terrain",
+        "D": "By only studying transport corridors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical knowledge helps understand boundaries, terrain, strategic locations, transport corridors, resource regions, border management and regional development.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO034",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography contribute to sustainable development?",
+      "options": {
+        "A": "By only studying environmental protection",
+        "B": "Geography connects environmental protection, economic activity and social well-being by examining how resources can be used without undermining the needs of future generations",
+        "C": "By only studying economic activity",
+        "D": "By only studying social well-being"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography connects environmental protection, economic activity and social well-being by examining how resources can be used without undermining the needs of future generations.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO035",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major branches of Geography?",
+      "options": {
+        "A": "Physical Geography, Human Geography and Regional Geography; Economic Geography and Environmental Geography are important specialised or cross-cutting branches",
+        "B": "Only Physical Geography and Human Geography",
+        "C": "Only Regional Geography",
+        "D": "Only Economic Geography"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major branches commonly include Physical Geography, Human Geography and Regional Geography; Economic Geography and Environmental Geography are important specialised or cross-cutting branches. Geography also includes geographical techniques and methods.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO036",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Physical Geography?",
+      "options": {
+        "A": "The branch that studies people and societies",
+        "B": "The branch that studies the natural features, processes and systems of the Earth, including landforms, atmosphere, climate, water, soils, vegetation and natural ecosystems",
+        "C": "The branch that studies economic activities",
+        "D": "The branch that studies political boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Physical Geography is the branch of Geography that studies the natural features, processes and systems of the Earth, including landforms, atmosphere, climate, water, soils, vegetation and natural ecosystems.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO037",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Human Geography?",
+      "options": {
+        "A": "The branch that studies natural features",
+        "B": "The branch that studies people, societies, cultures, population, settlements, economic activities and their spatial relationships with the environment",
+        "C": "The branch that studies landforms",
+        "D": "The branch that studies climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human Geography studies people, societies, cultures, population, settlements, economic activities and their spatial relationships with the environment.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO038",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Economic Geography?",
+      "options": {
+        "A": "The study of natural features",
+        "B": "The study of the location, distribution and spatial organisation of economic activities such as agriculture, mining, manufacturing, trade, transport, tourism and services",
+        "C": "The study of political boundaries",
+        "D": "The study of cultures"
+      },
+      "correctAnswer": "B",
+      "explanation": "Economic Geography studies the location, distribution and spatial organisation of economic activities such as agriculture, mining, manufacturing, trade, transport, tourism and services.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO039",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Regional Geography?",
+      "options": {
+        "A": "The study of one phenomenon across the world",
+        "B": "The study of the distinctive physical and human characteristics of a particular region and the relationships among those characteristics",
+        "C": "The study of only physical features",
+        "D": "The study of only human features"
+      },
+      "correctAnswer": "B",
+      "explanation": "Regional Geography studies the distinctive physical and human characteristics of a particular region and the relationships among those characteristics.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO040",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Environmental Geography?",
+      "options": {
+        "A": "The study of only natural systems",
+        "B": "The study of the relationships between human societies and the natural environment, including environmental change, resource use, pollution, conservation and sustainability",
+        "C": "The study of only pollution",
+        "D": "The study of only conservation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental Geography studies the relationships between human societies and the natural environment, including environmental change, resource use, pollution, conservation and sustainability.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO041",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Geomorphology?",
+      "options": {
+        "A": "The study of climate",
+        "B": "The scientific study of landforms, their origin, development, distribution and the processes that shape the Earth's surface",
+        "C": "The study of water",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geomorphology is the scientific study of landforms, their origin, development, distribution and the processes that shape the Earth's surface.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO001",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "From which Greek words is the word 'Geography' derived?",
+      "options": {
+        "A": "Geo (Earth) and Graphia (description or writing)",
+        "B": "Geo (Earth) and Logos (study)",
+        "C": "Graphia (writing) and Metron (measure)",
+        "D": "Geo (Earth) and Metron (measure)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word Geography is derived from the Greek words Geo (Earth) and Graphia (description or writing); therefore, its literal meaning is description of the Earth.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO002",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the literal meaning of the word 'Geography'?",
+      "options": {
+        "A": "Study of the universe",
+        "B": "Description of the Earth",
+        "C": "Measurement of land",
+        "D": "Study of human societies"
+      },
+      "correctAnswer": "B",
+      "explanation": "The literal meaning of Geography is description of the Earth, derived from Geo (Earth) and Graphia (description or writing).",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO003",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is traditionally credited with coining the term 'Geographika'?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Homer"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Greek scholar Eratosthenes (c. 276-194 BCE) is traditionally credited with coining the term Geographika and is widely known as the Father of Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO004",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is widely known as the Father of Geography?",
+      "options": {
+        "A": "Eratosthenes",
+        "B": "Strabo",
+        "C": "Aristotle",
+        "D": "Ptolemy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eratosthenes of ancient Greece is traditionally known as the Father of Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 1 & Page 6"
+    },
+    {
+      "id": "GEO005",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best defines Geography?",
+      "options": {
+        "A": "The study of only physical landforms",
+        "B": "The systematic study of the Earth's surface, places, environments, spatial patterns, and the relationships between human societies and the natural environment",
+        "C": "The study of political boundaries only",
+        "D": "The description of countries and their capitals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography is the systematic study of the Earth's surface, places, environments, spatial patterns, and the relationships between human societies and the natural environment.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO006",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the central concern of Geography?",
+      "options": {
+        "A": "Only mapping physical features",
+        "B": "Understanding what is located where, why it is located there, how places and environments differ, and how people, places and natural processes interact",
+        "C": "Studying only human societies",
+        "D": "Measuring the Earth's circumference"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography seeks to understand what is located where, why it is located there, how places and environments differ, and how people, places and natural processes interact.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO007",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did Richard Hartshorne describe Geography?",
+      "options": {
+        "A": "As the study of environmental determinism",
+        "B": "As a discipline concerned with the areal differentiation of the Earth's surface",
+        "C": "As the study of spatial interaction only",
+        "D": "As the science of map making"
+      },
+      "correctAnswer": "B",
+      "explanation": "Richard Hartshorne described Geography as a discipline concerned with the areal differentiation of the Earth's surface, meaning the study of how geographical phenomena vary from one area to another.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO008",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is modern Geography different from mere description of places?",
+      "options": {
+        "A": "Modern Geography only describes places",
+        "B": "Modern Geography does not merely describe places; it also explains spatial distributions, patterns, processes, causes, interactions and changes over time",
+        "C": "Modern Geography only studies physical features",
+        "D": "Modern Geography only studies human activities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Modern Geography does not merely describe places; it also explains spatial distributions, patterns, processes, causes, interactions and changes over time.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO009",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography called an integrating or synthesising discipline?",
+      "options": {
+        "A": "Because it only integrates physical sciences",
+        "B": "Because it integrates knowledge from natural sciences, social sciences and technical fields to understand the Earth as a system and the relationships among its physical and human components",
+        "C": "Because it integrates only social sciences",
+        "D": "Because it integrates only technical fields"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography integrates knowledge from natural sciences, social sciences and technical fields to understand the Earth as a system and the relationships among its physical and human components.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO010",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography called a spatial science?",
+      "options": {
+        "A": "Because it studies only outer space",
+        "B": "Because it studies the location, distribution, arrangement, movement, interaction and spatial relationships of physical and human phenomena on the Earth",
+        "C": "Because it studies only maps",
+        "D": "Because it studies only physical features"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography studies the location, distribution, arrangement, movement, interaction and spatial relationships of physical and human phenomena on the Earth.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO011",
+      "subject": "Geography",
+      "topic": "Meaning and Definition of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad dimensions studied by Geography?",
+      "options": {
+        "A": "Physical or natural environment and human or cultural environment, together with their interactions",
+        "B": "Only landforms and water bodies",
+        "C": "Only population and settlements",
+        "D": "Only climate and vegetation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two broad dimensions are the physical or natural environment and the human or cultural environment, together with their interactions.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO012",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by the nature of Geography?",
+      "options": {
+        "A": "Its characteristics as a discipline: spatial, integrative, dynamic, interdisciplinary, scientific and concerned with both natural and human phenomena",
+        "B": "Its history only",
+        "C": "Its branches only",
+        "D": "Its methods only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The nature of Geography refers to its characteristics as a discipline: it is spatial, integrative, dynamic, interdisciplinary, scientific and concerned with both natural and human phenomena.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO013",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography considered a dynamic subject?",
+      "options": {
+        "A": "Because it studies only static features",
+        "B": "Because geographical phenomena change continuously through natural processes, human activities, technological development, climate variations, migration, urbanisation and environmental change",
+        "C": "Because it studies only historical events",
+        "D": "Because it studies only the present"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical phenomena change continuously through natural processes, human activities, technological development, climate variations, migration, urbanisation and environmental change.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO014",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Geography both a natural science and a social science?",
+      "options": {
+        "A": "Because Physical Geography uses concepts and methods from natural sciences to study the natural environment, while Human Geography uses social-science approaches to study people, societies, economies and cultures",
+        "B": "Because it studies only natural phenomena",
+        "C": "Because it studies only human phenomena",
+        "D": "Because it studies only technical fields"
+      },
+      "correctAnswer": "A",
+      "explanation": "Physical Geography uses concepts and methods from natural sciences to study the natural environment, while Human Geography uses social-science approaches to study people, societies, economies and cultures.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO015",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the scope of Geography include?",
+      "options": {
+        "A": "Only landforms and climate",
+        "B": "The study of landforms, climate, water, soils, vegetation, animals, population, settlements, culture, resources, agriculture, industries, transport, trade, political areas and environmental relationships",
+        "C": "Only population and settlements",
+        "D": "Only maps and globes"
+      },
+      "correctAnswer": "B",
+      "explanation": "The scope of Geography includes the study of landforms, climate, water, soils, vegetation, animals, population, settlements, culture, resources, agriculture, industries, transport, trade, political areas and environmental relationships.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO016",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the systematic approach in Geography?",
+      "options": {
+        "A": "It studies one geographical phenomenon or theme, such as climate, population or agriculture, across different parts of the world",
+        "B": "It studies the physical and human characteristics of a defined area as an integrated whole",
+        "C": "It studies only maps",
+        "D": "It studies only historical changes"
+      },
+      "correctAnswer": "A",
+      "explanation": "The systematic approach studies one geographical phenomenon or theme, such as climate, population or agriculture, across different parts of the world.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO017",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the regional approach in Geography?",
+      "options": {
+        "A": "It studies one phenomenon across different areas",
+        "B": "It studies the physical and human characteristics of a defined area or region as an integrated whole",
+        "C": "It studies only physical features",
+        "D": "It studies only human features"
+      },
+      "correctAnswer": "B",
+      "explanation": "The regional approach studies the physical and human characteristics of a defined area or region as an integrated whole.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO018",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between systematic and regional Geography?",
+      "options": {
+        "A": "Systematic Geography studies a particular topic across different areas, whereas Regional Geography studies several interconnected geographical features within a particular area",
+        "B": "Systematic Geography studies regions, whereas Regional Geography studies topics",
+        "C": "Both study the same thing",
+        "D": "Systematic Geography is only physical, Regional Geography is only human"
+      },
+      "correctAnswer": "A",
+      "explanation": "Systematic Geography studies a particular topic across different areas, whereas Regional Geography studies several interconnected geographical features within a particular area.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO019",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by spatial distribution?",
+      "options": {
+        "A": "The way a geographical phenomenon is arranged or spread across the Earth's surface",
+        "B": "The movement of people between places",
+        "C": "The relationship between humans and environment",
+        "D": "The level at which an issue is studied"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spatial distribution refers to the way a geographical phenomenon is arranged or spread across the Earth's surface, such as the distribution of population, rainfall or mineral resources.",
+      "source": "Introduction_to_Geography.pdf, Page 1"
+    },
+    {
+      "id": "GEO020",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by spatial interaction?",
+      "options": {
+        "A": "The arrangement of phenomena across the Earth",
+        "B": "The movement and exchange of people, goods, services, information or ideas between different places",
+        "C": "The relationship between humans and environment",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spatial interaction refers to the movement and exchange of people, goods, services, information or ideas between different places.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO021",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by human-environment interaction?",
+      "options": {
+        "A": "The movement of people between places",
+        "B": "The mutual relationship in which the natural environment influences human activities and human activities modify the environment",
+        "C": "The arrangement of phenomena across the Earth",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human-environment interaction refers to the mutual relationship in which the natural environment influences human activities and human activities modify the environment.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO022",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by geographical scale?",
+      "options": {
+        "A": "The size of a map",
+        "B": "The level at which a geographical issue is studied, commonly local, regional, national or global",
+        "C": "The distance between two places",
+        "D": "The height of a landform"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical scale is the level at which a geographical issue is studied, commonly local, regional, national or global.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO023",
+      "subject": "Geography",
+      "topic": "Nature and Scope of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by temporal change in Geography?",
+      "options": {
+        "A": "The arrangement of phenomena across space",
+        "B": "The way geographical features, patterns and processes change over time",
+        "C": "The movement of people between places",
+        "D": "The relationship between humans and environment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Temporal change refers to the way geographical features, patterns and processes change over time.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO024",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is the study of Geography important?",
+      "options": {
+        "A": "It helps people understand the Earth, natural resources, climate, ecosystems, population, economic activities, regional differences, environmental problems and the connections between places",
+        "B": "It helps only in map making",
+        "C": "It helps only in studying history",
+        "D": "It helps only in agriculture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography helps people understand the Earth, natural resources, climate, ecosystems, population, economic activities, regional differences, environmental problems and the connections between places.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO025",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in understanding natural hazards?",
+      "options": {
+        "A": "By identifying hazard-prone areas and studying the causes, distribution, impacts and management of floods, droughts, cyclones, earthquakes, landslides and volcanic eruptions",
+        "B": "By only mapping hazard zones",
+        "C": "By only studying historical hazards",
+        "D": "By only predicting earthquakes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography identifies hazard-prone areas and studies the causes, distribution, impacts and management of floods, droughts, cyclones, earthquakes, landslides and volcanic eruptions.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO026",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography contribute to disaster management?",
+      "options": {
+        "A": "By only providing maps",
+        "B": "Geographical information supports hazard mapping, vulnerability assessment, evacuation planning, land-use regulation, emergency response and post-disaster recovery",
+        "C": "By only studying past disasters",
+        "D": "By only predicting disasters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical information supports hazard mapping, vulnerability assessment, evacuation planning, land-use regulation, emergency response and post-disaster recovery.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO027",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in resource management?",
+      "options": {
+        "A": "By studying only mineral resources",
+        "B": "By studying the distribution, availability, use and conservation of land, water, forests, minerals, energy and other resources",
+        "C": "By studying only water resources",
+        "D": "By studying only energy resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography studies the distribution, availability, use and conservation of land, water, forests, minerals, energy and other resources.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO028",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography support environmental protection?",
+      "options": {
+        "A": "By only studying pollution",
+        "B": "It helps identify pollution, deforestation, soil degradation, biodiversity loss and climate-related risks, and supports conservation and sustainable resource use",
+        "C": "By only studying deforestation",
+        "D": "By only studying climate change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography helps identify pollution, deforestation, soil degradation, biodiversity loss and climate-related risks, and supports conservation and sustainable resource use.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO029",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in agriculture?",
+      "options": {
+        "A": "By only studying crops",
+        "B": "It helps identify suitable crops and farming practices by analysing climate, soil, relief, water availability, growing seasons and market access",
+        "C": "By only studying soils",
+        "D": "By only studying markets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography helps identify suitable crops and farming practices by analysing climate, soil, relief, water availability, growing seasons and market access.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO030",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in transport and communication planning?",
+      "options": {
+        "A": "By only studying roads",
+        "B": "Geographical analysis helps select routes, locate infrastructure, assess accessibility, understand travel flows and reduce the cost and environmental impact of networks",
+        "C": "By only studying communication networks",
+        "D": "By only studying travel flows"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical analysis helps select routes, locate infrastructure, assess accessibility, understand travel flows and reduce the cost and environmental impact of networks.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO031",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography useful in urban and regional planning?",
+      "options": {
+        "A": "By only studying cities",
+        "B": "Geography supports decisions about land use, housing, transport, public services, infrastructure, settlement growth and balanced regional development",
+        "C": "By only studying housing",
+        "D": "By only studying transport"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography supports decisions about land use, housing, transport, public services, infrastructure, settlement growth and balanced regional development.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO032",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography help in understanding population problems?",
+      "options": {
+        "A": "By only counting people",
+        "B": "Population Geography examines population size, density, distribution, growth, age structure, migration and settlement patterns to support planning for health, education, employment and housing",
+        "C": "By only studying migration",
+        "D": "By only studying age structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Population Geography examines population size, density, distribution, growth, age structure, migration and settlement patterns to support planning for health, education, employment and housing.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO033",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography relevant to national security and administration?",
+      "options": {
+        "A": "By only studying boundaries",
+        "B": "Geographical knowledge helps understand boundaries, terrain, strategic locations, transport corridors, resource regions, border management and regional development",
+        "C": "By only studying terrain",
+        "D": "By only studying transport corridors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geographical knowledge helps understand boundaries, terrain, strategic locations, transport corridors, resource regions, border management and regional development.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO034",
+      "subject": "Geography",
+      "topic": "Importance and Uses of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Geography contribute to sustainable development?",
+      "options": {
+        "A": "By only studying environmental protection",
+        "B": "Geography connects environmental protection, economic activity and social well-being by examining how resources can be used without undermining the needs of future generations",
+        "C": "By only studying economic activity",
+        "D": "By only studying social well-being"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geography connects environmental protection, economic activity and social well-being by examining how resources can be used without undermining the needs of future generations.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO035",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major branches of Geography?",
+      "options": {
+        "A": "Physical Geography, Human Geography and Regional Geography; Economic Geography and Environmental Geography are important specialised or cross-cutting branches",
+        "B": "Only Physical Geography and Human Geography",
+        "C": "Only Regional Geography",
+        "D": "Only Economic Geography"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major branches commonly include Physical Geography, Human Geography and Regional Geography; Economic Geography and Environmental Geography are important specialised or cross-cutting branches. Geography also includes geographical techniques and methods.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO036",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Physical Geography?",
+      "options": {
+        "A": "The branch that studies people and societies",
+        "B": "The branch that studies the natural features, processes and systems of the Earth, including landforms, atmosphere, climate, water, soils, vegetation and natural ecosystems",
+        "C": "The branch that studies economic activities",
+        "D": "The branch that studies political boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Physical Geography is the branch of Geography that studies the natural features, processes and systems of the Earth, including landforms, atmosphere, climate, water, soils, vegetation and natural ecosystems.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO037",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Human Geography?",
+      "options": {
+        "A": "The branch that studies natural features",
+        "B": "The branch that studies people, societies, cultures, population, settlements, economic activities and their spatial relationships with the environment",
+        "C": "The branch that studies landforms",
+        "D": "The branch that studies climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human Geography studies people, societies, cultures, population, settlements, economic activities and their spatial relationships with the environment.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO038",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Economic Geography?",
+      "options": {
+        "A": "The study of natural features",
+        "B": "The study of the location, distribution and spatial organisation of economic activities such as agriculture, mining, manufacturing, trade, transport, tourism and services",
+        "C": "The study of political boundaries",
+        "D": "The study of cultures"
+      },
+      "correctAnswer": "B",
+      "explanation": "Economic Geography studies the location, distribution and spatial organisation of economic activities such as agriculture, mining, manufacturing, trade, transport, tourism and services.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO039",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Regional Geography?",
+      "options": {
+        "A": "The study of one phenomenon across the world",
+        "B": "The study of the distinctive physical and human characteristics of a particular region and the relationships among those characteristics",
+        "C": "The study of only physical features",
+        "D": "The study of only human features"
+      },
+      "correctAnswer": "B",
+      "explanation": "Regional Geography studies the distinctive physical and human characteristics of a particular region and the relationships among those characteristics.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO040",
+      "subject": "Geography",
+      "topic": "Branches of Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Environmental Geography?",
+      "options": {
+        "A": "The study of only natural systems",
+        "B": "The study of the relationships between human societies and the natural environment, including environmental change, resource use, pollution, conservation and sustainability",
+        "C": "The study of only pollution",
+        "D": "The study of only conservation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental Geography studies the relationships between human societies and the natural environment, including environmental change, resource use, pollution, conservation and sustainability.",
+      "source": "Introduction_to_Geography.pdf, Page 2"
+    },
+    {
+      "id": "GEO041",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Geomorphology?",
+      "options": {
+        "A": "The study of climate",
+        "B": "The scientific study of landforms, their origin, development, distribution and the processes that shape the Earth's surface",
+        "C": "The study of water",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geomorphology is the scientific study of landforms, their origin, development, distribution and the processes that shape the Earth's surface.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO043",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Meteorology?",
+      "options": {
+        "A": "The study of long-term climate patterns",
+        "B": "The scientific study of the atmosphere and short-term weather processes, including temperature, pressure, wind, clouds and precipitation",
+        "C": "The study of landforms",
+        "D": "The study of oceans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Meteorology is the scientific study of the atmosphere and short-term weather processes, including temperature, pressure, wind, clouds and precipitation.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO044",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Hydrology?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of water on, above and below the Earth's surface, including its occurrence, movement, distribution and properties",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrology is the study of water on, above and below the Earth's surface, including its occurrence, movement, distribution and properties.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO045",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Oceanography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The scientific study of oceans and seas, including their physical, chemical, biological and geological characteristics",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oceanography is the scientific study of oceans and seas, including their physical, chemical, biological and geological characteristics.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO046",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Pedology?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The scientific study of soils as natural bodies, including soil formation, classification, morphology and distribution",
+        "C": "The study of water",
+        "D": "The study of climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pedology is the scientific study of soils as natural bodies, including soil formation, classification, morphology and distribution.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO047",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Biogeography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the geographical distribution of plants, animals and ecosystems and the factors controlling their distribution",
+        "C": "The study of water",
+        "D": "The study of climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biogeography studies the geographical distribution of plants, animals and ecosystems and the factors controlling their distribution.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO048",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Glaciology?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of glaciers, ice sheets, ice caps, frozen water and their effects on landscapes and climate",
+        "C": "The study of water",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Glaciology is the study of glaciers, ice sheets, ice caps, frozen water and their effects on landscapes and climate.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO049",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Edaphology?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of soil in relation to plant growth and its practical use, especially in agriculture",
+        "C": "The study of water",
+        "D": "The study of climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Edaphology studies soil in relation to plant growth and its practical use, especially in agriculture.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO050",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Cartography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The science, art and practice of designing, producing and interpreting maps",
+        "C": "The study of water",
+        "D": "The study of climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cartography is the science, art and practice of designing, producing and interpreting maps.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO051",
+      "subject": "Geography",
+      "topic": "Sub-branches of Physical Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Hydrogeography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the geographical distribution and spatial characteristics of water bodies and water resources",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogeography studies the geographical distribution and spatial characteristics of water bodies and water resources.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO052",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Population Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the spatial distribution, density, growth, composition, characteristics and migration of human populations",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Population Geography studies the spatial distribution, density, growth, composition, characteristics and migration of human populations.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO053",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Settlement Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the location, pattern, size, functions, structure and development of rural and urban settlements",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Settlement Geography studies the location, pattern, size, functions, structure and development of rural and urban settlements.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO054",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Urban Geography?",
+      "options": {
+        "A": "The study of rural areas",
+        "B": "The study of the location, growth, structure, functions, land use and problems of towns and cities",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Urban Geography studies the location, growth, structure, functions, land use and problems of towns and cities.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO055",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Rural Geography?",
+      "options": {
+        "A": "The study of urban areas",
+        "B": "The study of rural settlements, rural population, agriculture, livelihoods, services and the changing character of countryside areas",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rural Geography studies rural settlements, rural population, agriculture, livelihoods, services and the changing character of countryside areas.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO056",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Social Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the spatial organisation of society and the geographical patterns of social groups, inequality, health, education and welfare",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social Geography studies the spatial organisation of society and the geographical patterns of social groups, inequality, health, education and welfare.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO057",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Cultural Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the spatial distribution and landscape effects of language, religion, customs, traditions, beliefs and other cultural practices",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cultural Geography studies the spatial distribution and landscape effects of language, religion, customs, traditions, beliefs and other cultural practices.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO058",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Political Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the spatial aspects of political organisation, states, territories, boundaries, elections, power and relations between political units",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Political Geography studies the spatial aspects of political organisation, states, territories, boundaries, elections, power and relations between political units.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO059",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Historical Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of how geographical features, places, landscapes and spatial patterns have changed through historical periods",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Historical Geography studies how geographical features, places, landscapes and spatial patterns have changed through historical periods.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO060",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Agricultural Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the location, distribution, types, patterns and development of agricultural activities and their relationship with physical and human factors",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agricultural Geography studies the location, distribution, types, patterns and development of agricultural activities and their relationship with physical and human factors.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO061",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Industrial Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the location, distribution, organisation and development of industries and the factors influencing industrial location",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Industrial Geography studies the location, distribution, organisation and development of industries and the factors influencing industrial location.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO062",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Transport Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of transport networks, accessibility, movement of people and goods, transport flows and the spatial organisation of transport systems",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transport Geography studies transport networks, accessibility, movement of people and goods, transport flows and the spatial organisation of transport systems.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO063",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Medical or Health Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the spatial distribution of diseases, health services, health inequalities and the geographical factors affecting health",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Medical Geography or Health Geography studies the spatial distribution of diseases, health services, health inequalities and the geographical factors affecting health.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO064",
+      "subject": "Geography",
+      "topic": "Sub-branches of Human and Economic Geography",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Tourism Geography?",
+      "options": {
+        "A": "The study of landforms",
+        "B": "The study of the location and distribution of tourist destinations, tourist flows, tourism impacts and the relationship between tourism and places",
+        "C": "The study of climate",
+        "D": "The study of soils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tourism Geography studies the location and distribution of tourist destinations, tourist flows, tourism impacts and the relationship between tourism and places.",
+      "source": "Introduction_to_Geography.pdf, Page 3"
+    },
+    {
+      "id": "GEO065",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a place in Geography?",
+      "options": {
+        "A": "Any location on Earth",
+        "B": "A specific part of the Earth's surface that has a distinctive identity based on its physical and human characteristics",
+        "C": "A region defined by boundaries",
+        "D": "A point on a map"
+      },
+      "correctAnswer": "B",
+      "explanation": "A place is a specific part of the Earth's surface that has a distinctive identity based on its physical and human characteristics.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO066",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is location in Geography?",
+      "options": {
+        "A": "The physical characteristics of a place",
+        "B": "The position of a geographical feature or place on the Earth's surface",
+        "C": "The relationship between humans and environment",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Location refers to the position of a geographical feature or place on the Earth's surface.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO067",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is absolute location?",
+      "options": {
+        "A": "The position of a place relative to other places",
+        "B": "The exact position of a place, usually expressed through latitude and longitude coordinates or a precise address",
+        "C": "The physical characteristics of the land",
+        "D": "The relationship to surrounding areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Absolute location is the exact position of a place, usually expressed through latitude and longitude coordinates or a precise address.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO068",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is relative location?",
+      "options": {
+        "A": "The exact position expressed in coordinates",
+        "B": "The position of a place in relation to other places or geographical features",
+        "C": "The physical characteristics of the land",
+        "D": "The internal structure of a settlement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Relative location describes the position of a place in relation to other places or geographical features.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO069",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is 'site' in Geography?",
+      "options": {
+        "A": "The location of a place in relation to surrounding areas",
+        "B": "The actual physical characteristics of the land on which a settlement or other feature is located, such as relief, soil and water supply",
+        "C": "The exact coordinates of a place",
+        "D": "The boundary of a region"
+      },
+      "correctAnswer": "B",
+      "explanation": "Site refers to the actual physical characteristics of the land on which a settlement or other feature is located, such as relief, soil and water supply.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO070",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is 'situation' in Geography?",
+      "options": {
+        "A": "The physical characteristics of the land",
+        "B": "The location of a place in relation to its surrounding areas, routes, markets and other places",
+        "C": "The exact coordinates of a place",
+        "D": "The internal structure of a settlement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Situation refers to the location of a place in relation to its surrounding areas, routes, markets and other places.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO071",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a region?",
+      "options": {
+        "A": "A specific point on the Earth's surface",
+        "B": "An area of the Earth's surface identified by one or more shared characteristics or by functional relationships",
+        "C": "A line separating two areas",
+        "D": "A map projection"
+      },
+      "correctAnswer": "B",
+      "explanation": "A region is an area of the Earth's surface identified by one or more shared characteristics or by functional relationships.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO072",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a formal or uniform region?",
+      "options": {
+        "A": "An area organised around a central node",
+        "B": "An area in which one or more selected characteristics are relatively uniform, such as a language region or climatic region",
+        "C": "An area recognised through people's feelings and beliefs",
+        "D": "An area defined by political boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "A formal region is an area in which one or more selected characteristics are relatively uniform, such as a language region or climatic region.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO073",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a functional or nodal region?",
+      "options": {
+        "A": "An area with uniform characteristics",
+        "B": "An area organised around a central node or focal point and connected through flows, such as a city and its commuting zone",
+        "C": "An area recognised through people's feelings",
+        "D": "An area defined by language"
+      },
+      "correctAnswer": "B",
+      "explanation": "A functional region is an area organised around a central node or focal point and connected through flows, such as a city and its commuting zone.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO074",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a perceptual or vernacular region?",
+      "options": {
+        "A": "An area with uniform characteristics",
+        "B": "An area recognised through people's feelings, beliefs or commonly held ideas, such as the concept of the American Midwest",
+        "C": "An area organised around a central node",
+        "D": "An area defined by political boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "A perceptual region is an area recognised through people's feelings, beliefs or commonly held ideas, such as the concept of the American Midwest.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO075",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is distance in Geography?",
+      "options": {
+        "A": "The direction of one place from another",
+        "B": "The amount of separation between two locations; it may be measured in units such as kilometres or expressed as travel time or cost",
+        "C": "The arrangement of features across an area",
+        "D": "The ease of reaching a place"
+      },
+      "correctAnswer": "B",
+      "explanation": "Distance is the amount of separation between two locations; it may be measured in units such as kilometres or expressed as travel time or cost.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO076",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is direction in Geography?",
+      "options": {
+        "A": "The amount of separation between two places",
+        "B": "The position of one place relative to another, commonly using the cardinal directions north, south, east and west and their intermediate directions",
+        "C": "The arrangement of features across an area",
+        "D": "The ease of reaching a place"
+      },
+      "correctAnswer": "B",
+      "explanation": "Direction indicates the position of one place relative to another, commonly using the cardinal directions north, south, east and west and their intermediate directions.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO077",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is spatial pattern?",
+      "options": {
+        "A": "The movement of people between places",
+        "B": "The arrangement of geographical features across an area; common patterns include clustered, dispersed and linear patterns",
+        "C": "The relationship between humans and environment",
+        "D": "The change of features over time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spatial pattern is the arrangement of geographical features across an area; common patterns include clustered, dispersed and linear patterns.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO078",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is spatial association?",
+      "options": {
+        "A": "The movement of people between places",
+        "B": "The degree to which two or more geographical phenomena are distributed in similar or related ways",
+        "C": "The arrangement of features across an area",
+        "D": "The ease of reaching a place"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spatial association refers to the degree to which two or more geographical phenomena are distributed in similar or related ways.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO079",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is accessibility?",
+      "options": {
+        "A": "The degree to which places are linked through networks",
+        "B": "The ease with which a place, service or activity can be reached from another location",
+        "C": "The spread of an idea from one place to another",
+        "D": "The visible character of an area"
+      },
+      "correctAnswer": "B",
+      "explanation": "Accessibility is the ease with which a place, service or activity can be reached from another location.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO080",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is connectivity?",
+      "options": {
+        "A": "The ease of reaching a place",
+        "B": "The degree to which places or nodes are linked through transport, communication or other networks",
+        "C": "The spread of an idea from one place to another",
+        "D": "The visible character of an area"
+      },
+      "correctAnswer": "B",
+      "explanation": "Connectivity refers to the degree to which places or nodes are linked through transport, communication or other networks.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO081",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is diffusion in Geography?",
+      "options": {
+        "A": "The arrangement of features across an area",
+        "B": "The spread of an idea, innovation, disease, cultural trait or other phenomenon from one place to another",
+        "C": "The ease of reaching a place",
+        "D": "The visible character of an area"
+      },
+      "correctAnswer": "B",
+      "explanation": "Diffusion is the spread of an idea, innovation, disease, cultural trait or other phenomenon from one place to another.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO082",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is relocation diffusion?",
+      "options": {
+        "A": "The spread of a phenomenon outward from its origin while remaining strong at the source",
+        "B": "Diffusion that occurs when people or groups move to a new location and carry an idea, practice or cultural trait with them",
+        "C": "The hierarchical spread of an idea",
+        "D": "The spread of an idea through stimulus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Relocation diffusion occurs when people or groups move to a new location and carry an idea, practice or cultural trait with them.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO083",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is expansion diffusion?",
+      "options": {
+        "A": "Diffusion that occurs when people move and carry ideas with them",
+        "B": "Diffusion that occurs when a phenomenon spreads outward from its origin while remaining strong at the source; it includes contagious, hierarchical and stimulus diffusion",
+        "C": "The spread of an idea through physical contact only",
+        "D": "The spread of an idea through media only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Expansion diffusion occurs when a phenomenon spreads outward from its origin while remaining strong at the source; it includes contagious, hierarchical and stimulus diffusion.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO084",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a landscape?",
+      "options": {
+        "A": "A specific point on the Earth's surface",
+        "B": "The visible character of an area formed by the combined influence of natural features and human activities",
+        "C": "A region defined by boundaries",
+        "D": "A map projection"
+      },
+      "correctAnswer": "B",
+      "explanation": "A landscape is the visible character of an area formed by the combined influence of natural features and human activities.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO085",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cultural landscape?",
+      "options": {
+        "A": "A landscape formed only by natural features",
+        "B": "A landscape shaped or modified by human activity, reflecting the interaction between people and their natural environment",
+        "C": "A landscape with no human influence",
+        "D": "A landscape defined by political boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cultural landscape is a landscape shaped or modified by human activity, reflecting the interaction between people and their natural environment.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO086",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an ecosystem?",
+      "options": {
+        "A": "A specific part of the Earth's surface with a distinctive identity",
+        "B": "A functional unit in which living organisms interact with one another and with the non-living components of their environment",
+        "C": "The visible character of an area formed by natural and human features",
+        "D": "The totality of living and non-living surroundings"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ecosystem is a functional unit in which living organisms interact with one another and with the non-living components of their environment.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO087",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an environment?",
+      "options": {
+        "A": "The visible character of an area",
+        "B": "The totality of living and non-living surroundings and conditions that influence organisms and human activities",
+        "C": "A functional unit of interacting organisms",
+        "D": "The position of a place relative to other places"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environment refers to the totality of living and non-living surroundings and conditions that influence organisms and human activities.",
+      "source": "Introduction_to_Geography.pdf, Page 4"
+    },
+    {
+      "id": "GEO088",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is scale in map reading?",
+      "options": {
+        "A": "The relationship between a distance on a map and the corresponding distance on the ground",
+        "B": "The level at which a geographical issue is studied",
+        "C": "The size of the map sheet",
+        "D": "The height of a landform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Map scale expresses the relationship between a distance on a map and the corresponding distance on the ground.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO089",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are latitude and longitude?",
+      "options": {
+        "A": "Latitude measures angular distance north or south of the Equator, while longitude measures angular distance east or west of the Prime Meridian",
+        "B": "Latitude measures east-west distance, while longitude measures north-south distance",
+        "C": "Both measure distance from the poles",
+        "D": "Both measure distance from the Prime Meridian"
+      },
+      "correctAnswer": "A",
+      "explanation": "Latitude measures angular distance north or south of the Equator, while longitude measures angular distance east or west of the Prime Meridian.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO090",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Equator?",
+      "options": {
+        "A": "The imaginary great circle at 0° latitude that divides the Earth into the Northern and Southern Hemispheres",
+        "B": "The reference line at 0° longitude passing through Greenwich",
+        "C": "The line at 23.5° north latitude",
+        "D": "The line at 66.5° south latitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator is the imaginary great circle at 0° latitude that divides the Earth into the Northern and Southern Hemispheres.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO091",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Prime Meridian?",
+      "options": {
+        "A": "The imaginary great circle at 0° latitude",
+        "B": "The reference line at 0° longitude passing through Greenwich, England, and the basis for measuring longitude and modern standard time zones",
+        "C": "The line at 23.5° south latitude",
+        "D": "The line at 66.5° north latitude"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Prime Meridian is the reference line at 0° longitude passing through Greenwich, England, and is the basis for measuring longitude and modern standard time zones.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO092",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a map projection?",
+      "options": {
+        "A": "A method of representing the curved surface of the Earth or part of it on a flat surface; every projection involves some form of distortion",
+        "B": "A method of measuring distance on a map",
+        "C": "A technique for collecting satellite data",
+        "D": "A computer system for storing geographic data"
+      },
+      "correctAnswer": "A",
+      "explanation": "A map projection is a method of representing the curved surface of the Earth or part of it on a flat surface; every projection involves some form of distortion.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO093",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is remote sensing?",
+      "options": {
+        "A": "The collection of information about the Earth's surface or atmosphere without direct physical contact, commonly using aircraft or satellites",
+        "B": "A computer-based system for capturing and analysing geographic data",
+        "C": "A satellite-based radio-navigation system",
+        "D": "The science of designing and producing maps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Remote sensing is the collection of information about the Earth's surface or atmosphere without direct physical contact, commonly using aircraft or satellites.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO094",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is GIS?",
+      "options": {
+        "A": "A satellite-based radio-navigation system",
+        "B": "A computer-based system used to capture, store, manage, analyse and display geographically referenced data",
+        "C": "The collection of information without direct physical contact",
+        "D": "The science of designing and producing maps"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Geographic Information System (GIS) is a computer-based system used to capture, store, manage, analyse and display geographically referenced data.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO095",
+      "subject": "Geography",
+      "topic": "Geographical Concepts and Terminology",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is GPS?",
+      "options": {
+        "A": "A computer-based system for analysing geographic data",
+        "B": "A satellite-based radio-navigation system operated by the United States that provides positioning, navigation and timing information",
+        "C": "The collection of information without direct physical contact",
+        "D": "The science of designing and producing maps"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Global Positioning System (GPS) is a satellite-based radio-navigation system operated by the United States that provides positioning, navigation and timing information.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO096",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Geology?",
+      "options": {
+        "A": "Geography uses Geology to understand the Earth's materials, structure, rocks, minerals, geological history and processes responsible for landforms",
+        "B": "Geography uses Geology to study atmospheric processes",
+        "C": "Geography uses Geology to study water cycles",
+        "D": "Geography uses Geology to study ecosystems"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Geology to understand the Earth's materials, structure, rocks, minerals, geological history and processes responsible for landforms.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO097",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Meteorology?",
+      "options": {
+        "A": "Geography uses Meteorology to understand atmospheric processes, weather systems, rainfall, winds, storms and other short-term atmospheric conditions",
+        "B": "Geography uses Meteorology to understand landforms",
+        "C": "Geography uses Meteorology to understand oceans",
+        "D": "Geography uses Meteorology to understand soils"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Meteorology to understand atmospheric processes, weather systems, rainfall, winds, storms and other short-term atmospheric conditions.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO098",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Climatology?",
+      "options": {
+        "A": "Geography and Climatology overlap in the study of long-term climate patterns, climatic regions, climate variability and climate change",
+        "B": "Geography and Climatology overlap in the study of landforms",
+        "C": "Geography and Climatology overlap in the study of oceans",
+        "D": "Geography and Climatology overlap in the study of soils"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography and Climatology overlap in the study of long-term climate patterns, climatic regions, climate variability and climate change.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO099",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Hydrology?",
+      "options": {
+        "A": "Geography uses Hydrology to study rivers, groundwater, lakes, water cycles, drainage basins, floods and water-resource distribution",
+        "B": "Geography uses Hydrology to study landforms",
+        "C": "Geography uses Hydrology to study climate",
+        "D": "Geography uses Hydrology to study soils"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Hydrology to study rivers, groundwater, lakes, water cycles, drainage basins, floods and water-resource distribution.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO100",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Biology?",
+      "options": {
+        "A": "Geography uses Biology to understand the distribution of organisms, biodiversity, ecosystems, vegetation and the relationship between living organisms and their environments",
+        "B": "Geography uses Biology to understand landforms",
+        "C": "Geography uses Biology to understand climate",
+        "D": "Geography uses Biology to understand water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Biology to understand the distribution of organisms, biodiversity, ecosystems, vegetation and the relationship between living organisms and their environments.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO101",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Ecology?",
+      "options": {
+        "A": "Geography and Ecology jointly examine ecosystems, habitat distribution, human impacts on ecosystems and environmental conservation",
+        "B": "Geography and Ecology jointly examine landforms",
+        "C": "Geography and Ecology jointly examine climate",
+        "D": "Geography and Ecology jointly examine water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography and Ecology jointly examine ecosystems, habitat distribution, human impacts on ecosystems and environmental conservation.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO102",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Physics?",
+      "options": {
+        "A": "Geography uses Physics to explain energy transfer, gravity, atmospheric pressure, radiation, heat balance, tides and physical processes of the Earth",
+        "B": "Geography uses Physics to explain social inequality",
+        "C": "Geography uses Physics to explain economic activities",
+        "D": "Geography uses Physics to explain cultural practices"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Physics to explain energy transfer, gravity, atmospheric pressure, radiation, heat balance, tides and physical processes of the Earth.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO103",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Chemistry?",
+      "options": {
+        "A": "Geography uses Chemistry to understand soil composition, rock weathering, water quality, atmospheric composition, pollution and biogeochemical cycles",
+        "B": "Geography uses Chemistry to understand social groups",
+        "C": "Geography uses Chemistry to understand economic activities",
+        "D": "Geography uses Chemistry to understand political boundaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Chemistry to understand soil composition, rock weathering, water quality, atmospheric composition, pollution and biogeochemical cycles.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO104",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Mathematics and Statistics?",
+      "options": {
+        "A": "Mathematics and Statistics help Geography measure distances, calculate areas and densities, analyse spatial data, model geographical processes and interpret quantitative patterns",
+        "B": "Mathematics and Statistics help Geography study cultural practices",
+        "C": "Mathematics and Statistics help Geography study political systems",
+        "D": "Mathematics and Statistics help Geography study social inequality"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mathematics and Statistics help Geography measure distances, calculate areas and densities, analyse spatial data, model geographical processes and interpret quantitative patterns.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO105",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Economics?",
+      "options": {
+        "A": "Geography and Economics are connected through the study of resources, production, consumption, trade, transport, markets, regional development and the location of economic activities",
+        "B": "Geography and Economics are connected through the study of landforms",
+        "C": "Geography and Economics are connected through the study of climate",
+        "D": "Geography and Economics are connected through the study of water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography and Economics are connected through the study of resources, production, consumption, trade, transport, markets, regional development and the location of economic activities.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO106",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Sociology?",
+      "options": {
+        "A": "Geography uses Sociology to study the spatial organisation of society, social groups, inequality, migration, communities and social change",
+        "B": "Geography uses Sociology to study landforms",
+        "C": "Geography uses Sociology to study climate",
+        "D": "Geography uses Sociology to study water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography uses Sociology to study the spatial organisation of society, social groups, inequality, migration, communities and social change.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO107",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to History?",
+      "options": {
+        "A": "Geography provides the spatial context for historical events, while History explains how places, landscapes, boundaries and human-environment relationships have changed over time",
+        "B": "Geography provides the spatial context for landforms",
+        "C": "Geography provides the spatial context for climate",
+        "D": "Geography provides the spatial context for water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography provides the spatial context for historical events, while History explains how places, landscapes, boundaries and human-environment relationships have changed over time.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO108",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Political Science?",
+      "options": {
+        "A": "Geography and Political Science overlap in the study of states, territories, borders, geopolitics, elections, political regions and the spatial organisation of power",
+        "B": "Geography and Political Science overlap in the study of landforms",
+        "C": "Geography and Political Science overlap in the study of climate",
+        "D": "Geography and Political Science overlap in the study of water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography and Political Science overlap in the study of states, territories, borders, geopolitics, elections, political regions and the spatial organisation of power.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO109",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Anthropology?",
+      "options": {
+        "A": "Geography and Anthropology examine human societies, cultures, livelihoods, settlement patterns and the relationship between culture and environment",
+        "B": "Geography and Anthropology examine landforms",
+        "C": "Geography and Anthropology examine climate",
+        "D": "Geography and Anthropology examine water cycles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Geography and Anthropology examine human societies, cultures, livelihoods, settlement patterns and the relationship between culture and environment.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO110",
+      "subject": "Geography",
+      "topic": "Relationship Between Geography and Other Sciences",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Geography related to Computer Science and Information Technology?",
+      "options": {
+        "A": "Computer Science supports Geography through GIS, spatial databases, digital mapping, satellite-data processing, modelling and geographic visualisation",
+        "B": "Computer Science supports Geography through landform analysis",
+        "C": "Computer Science supports Geography through climate analysis",
+        "D": "Computer Science supports Geography through water cycle analysis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Computer Science supports Geography through GIS, spatial databases, digital mapping, satellite-data processing, modelling and geographic visualisation.",
+      "source": "Introduction_to_Geography.pdf, Page 5"
+    },
+    {
+      "id": "GEO111",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which ancient Greek scholar is traditionally credited with coining the term Geography?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Herodotus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Eratosthenes, who lived in the third century BCE, is traditionally credited with introducing the term Geographika.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO112",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who calculated the circumference of the Earth in antiquity with remarkable accuracy?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Aristotle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Eratosthenes estimated the Earth's circumference in the third century BCE using the difference in the Sun's angle at Syene and Alexandria and the distance between the two locations.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO113",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who led the first expedition to circumnavigate the Earth?",
+      "options": {
+        "A": "Christopher Columbus",
+        "B": "Vasco da Gama",
+        "C": "Ferdinand Magellan (initiated in 1519 and completed in 1522 under Juan Sebastian Elcano)",
+        "D": "James Cook"
+      },
+      "correctAnswer": "C",
+      "explanation": "The expedition that completed the first circumnavigation was initiated by Ferdinand Magellan in 1519 and completed in 1522 under the command of Juan Sebastian Elcano after Magellan was killed in the Philippines in 1521.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO114",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who reached the Americas in 1492 on a Spanish-sponsored voyage?",
+      "options": {
+        "A": "Vasco da Gama",
+        "B": "Christopher Columbus",
+        "C": "Ferdinand Magellan",
+        "D": "Bartolomeu Dias"
+      },
+      "correctAnswer": "B",
+      "explanation": "Christopher Columbus reached the Caribbean in 1492 while seeking a westward route to Asia; he did not reach the mainland of the present-day United States on that first voyage.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO115",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was the first European to reach India by sailing around the Cape of Good Hope?",
+      "options": {
+        "A": "Christopher Columbus",
+        "B": "Vasco da Gama",
+        "C": "Ferdinand Magellan",
+        "D": "Bartolomeu Dias"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vasco da Gama reached Calicut (Kozhikode) on the Malabar Coast of India in May 1498 by sailing around the southern tip of Africa.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO116",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who rounded the southern tip of Africa in 1488?",
+      "options": {
+        "A": "Vasco da Gama",
+        "B": "Bartolomeu Dias",
+        "C": "Ferdinand Magellan",
+        "D": "Christopher Columbus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Portuguese navigator Bartolomeu Dias rounded the Cape of Good Hope in 1488.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO117",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who gave the name America to the newly described continent in a widely influential early map?",
+      "options": {
+        "A": "Christopher Columbus",
+        "B": "Amerigo Vespucci",
+        "C": "Martin Waldseemuller",
+        "D": "Ferdinand Magellan"
+      },
+      "correctAnswer": "C",
+      "explanation": "The German cartographer Martin Waldseemuller used the name America on his 1507 world map, honouring Amerigo Vespucci.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO118",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who explored the Pacific coast of the Americas and sighted the Pacific Ocean from the Isthmus of Panama in 1513?",
+      "options": {
+        "A": "Ferdinand Magellan",
+        "B": "Vasco Nunez de Balboa",
+        "C": "Christopher Columbus",
+        "D": "James Cook"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Spanish explorer Vasco Nunez de Balboa crossed the Isthmus of Panama and sighted the Pacific Ocean in 1513.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO119",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who led the expedition that first sailed through the strait at the southern tip of South America now named after him?",
+      "options": {
+        "A": "Christopher Columbus",
+        "B": "Ferdinand Magellan",
+        "C": "Vasco da Gama",
+        "D": "James Cook"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ferdinand Magellan led the expedition that navigated the Strait of Magellan in 1520.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO120",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the European exploration and mapping of the eastern coast of Australia in 1770?",
+      "options": {
+        "A": "Ferdinand Magellan",
+        "B": "James Cook",
+        "C": "Vasco da Gama",
+        "D": "Christopher Columbus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The British navigator James Cook charted the eastern coast of Australia in 1770; he was not the first human to reach Australia, which had long been inhabited by Aboriginal peoples.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO121",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who mapped much of the coast of New Zealand during his first Pacific voyage?",
+      "options": {
+        "A": "Ferdinand Magellan",
+        "B": "James Cook",
+        "C": "Vasco da Gama",
+        "D": "Christopher Columbus"
+      },
+      "correctAnswer": "B",
+      "explanation": "James Cook charted much of New Zealand's coastline during his first Pacific voyage in 1769-1770.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO122",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Portuguese prince is closely associated with the early phase of Portuguese maritime exploration?",
+      "options": {
+        "A": "Prince Henry the Navigator (Infante Dom Henrique)",
+        "B": "Prince Ferdinand",
+        "C": "Prince John",
+        "D": "Prince Alfonso"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prince Henry the Navigator (Infante Dom Henrique) is associated with the promotion and organisation of Portuguese voyages along the west coast of Africa during the fifteenth century.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO123",
+      "subject": "Geography",
+      "topic": "Major Geographical Discoveries and Explorations",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the significance of the Age of Exploration?",
+      "options": {
+        "A": "It expanded long-distance maritime contacts and European geographic knowledge, increased global trade and exchange, and also facilitated conquest, colonisation, forced labour and major disruptions to Indigenous societies",
+        "B": "It only increased global trade",
+        "C": "It only expanded geographic knowledge",
+        "D": "It only facilitated colonisation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Age of Exploration expanded long-distance maritime contacts and European geographic knowledge, increased global trade and exchange, and also facilitated conquest, colonisation, forced labour and major disruptions to Indigenous societies.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO124",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is known as the Father of Mathematical Geography?",
+      "options": {
+        "A": "Strabo",
+        "B": "Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Aristotle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Eratosthenes is frequently associated with the foundations of mathematical Geography because of his measurement of the Earth's circumference.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO125",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote the work Geographica in 17 books?",
+      "options": {
+        "A": "Ptolemy",
+        "B": "Strabo",
+        "C": "Eratosthenes",
+        "D": "Herodotus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strabo, the Greek geographer and historian, wrote Geographica, a 17-book work describing the known world of his time.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO126",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote the ancient work Geographia and developed systematic methods of geographical mapping?",
+      "options": {
+        "A": "Strabo",
+        "B": "Claudius Ptolemy",
+        "C": "Eratosthenes",
+        "D": "Aristotle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Claudius Ptolemy, the Greco-Roman scholar, wrote Geographia and explained the use of latitude and longitude in locating places and representing the known world.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO127",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is known for the work Kitab-ul-Hind?",
+      "options": {
+        "A": "Al-Biruni",
+        "B": "Ibn Battuta",
+        "C": "Al-Idrisi",
+        "D": "Ibn Khaldun"
+      },
+      "correctAnswer": "A",
+      "explanation": "Al-Biruni, the Persian polymath, wrote Kitab al-Hind, a detailed study of Indian society, knowledge systems, religions and sciences.",
+      "source": "Introduction_to_Geography.pdf, Page 6"
+    },
+    {
+      "id": "GEO128",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote the book Geographia Generalis?",
+      "options": {
+        "A": "Bernhardus Varenius (Bernhard Varen)",
+        "B": "Alexander von Humboldt",
+        "C": "Carl Ritter",
+        "D": "Richard Hartshorne"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bernhardus Varenius (Bernhard Varen) wrote Geographia Generalis, published in 1650, and helped distinguish general or systematic Geography from special or regional Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO129",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is commonly called the Father of Modern Physical Geography?",
+      "options": {
+        "A": "Carl Ritter",
+        "B": "Alexander von Humboldt",
+        "C": "Friedrich Ratzel",
+        "D": "Paul Vidal de la Blache"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alexander von Humboldt is commonly called the Father of Modern Physical Geography because of his systematic, comparative and scientific study of natural phenomena and their interrelationships.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO130",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which German geographer wrote Cosmos?",
+      "options": {
+        "A": "Carl Ritter",
+        "B": "Alexander von Humboldt",
+        "C": "Friedrich Ratzel",
+        "D": "Alfred Hettner"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alexander von Humboldt wrote Kosmos (Cosmos), a major work presenting a unified view of the physical universe and the natural world.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO131",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is regarded as a founder of modern regional Geography?",
+      "options": {
+        "A": "Alexander von Humboldt",
+        "B": "Carl Ritter",
+        "C": "Friedrich Ratzel",
+        "D": "Paul Vidal de la Blache"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carl Ritter is widely regarded as one of the founders of modern regional Geography; his major work was Die Erdkunde.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO132",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with environmental determinism in modern geographical thought?",
+      "options": {
+        "A": "Paul Vidal de la Blache",
+        "B": "Friedrich Ratzel",
+        "C": "Carl Ritter",
+        "D": "Richard Hartshorne"
+      },
+      "correctAnswer": "B",
+      "explanation": "Friedrich Ratzel is a major figure associated with environmental determinism and the development of Anthropogeography.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO133",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the concept of possibilism in Geography?",
+      "options": {
+        "A": "Friedrich Ratzel",
+        "B": "Paul Vidal de la Blache",
+        "C": "Carl Ritter",
+        "D": "Alfred Hettner"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paul Vidal de la Blache, the French geographer, is strongly associated with possibilism and the concept of genre de vie, or ways of life.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO134",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who developed the concept of chorology and emphasised areal differentiation?",
+      "options": {
+        "A": "Richard Hartshorne",
+        "B": "Alfred Hettner",
+        "C": "Fred K. Schaefer",
+        "D": "Carl Ritter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alfred Hettner emphasised Geography as a chorological or areal science concerned with the study of places and regions.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO135",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote The Nature of Geography?",
+      "options": {
+        "A": "Alfred Hettner",
+        "B": "Richard Hartshorne",
+        "C": "Fred K. Schaefer",
+        "D": "Carl Ritter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Richard Hartshorne published The Nature of Geography in 1939 and discussed Geography's concern with areal differentiation.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO136",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who criticised exceptionalism in Geography and argued for a law-seeking spatial science?",
+      "options": {
+        "A": "Richard Hartshorne",
+        "B": "Fred K. Schaefer",
+        "C": "Alfred Hettner",
+        "D": "Carl Ritter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fred K. Schaefer criticised exceptionalism in his 1953 paper and argued that Geography should seek systematic laws and spatial regularities.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO137",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the Central Place Theory?",
+      "options": {
+        "A": "Walter Christaller",
+        "B": "Johann Heinrich von Thunen",
+        "C": "Alfred Weber",
+        "D": "Halford J. Mackinder"
+      },
+      "correctAnswer": "A",
+      "explanation": "Walter Christaller developed the Central Place Theory in 1933 to explain the size, spacing and distribution of settlements and service centres.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO138",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who developed the model of agricultural land use known as the Isolated State model?",
+      "options": {
+        "A": "Walter Christaller",
+        "B": "Johann Heinrich von Thunen",
+        "C": "Alfred Weber",
+        "D": "Halford J. Mackinder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Johann Heinrich von Thunen developed the Isolated State model, published in 1826, to explain agricultural land-use patterns around a market.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO139",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who developed the least-cost theory of industrial location?",
+      "options": {
+        "A": "Walter Christaller",
+        "B": "Johann Heinrich von Thunen",
+        "C": "Alfred Weber",
+        "D": "Halford J. Mackinder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alfred Weber developed the least-cost theory of industrial location, explaining how transport costs, labour costs and agglomeration influence industrial location.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO140",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the concept of the Heartland Theory?",
+      "options": {
+        "A": "Walter Christaller",
+        "B": "Halford J. Mackinder",
+        "C": "Alfred Weber",
+        "D": "Johann Heinrich von Thunen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halford J. Mackinder proposed the Heartland Theory in 1904, arguing that control of the central Eurasian landmass had major geopolitical significance.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO141",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed the concept of Topophilia?",
+      "options": {
+        "A": "Yi-Fu Tuan",
+        "B": "Richard Hartshorne",
+        "C": "Fred K. Schaefer",
+        "D": "Alfred Hettner"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yi-Fu Tuan popularised the concept of Topophilia, meaning the affective bond or love that people develop for places and environments.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO142",
+      "subject": "Geography",
+      "topic": "Important Geographers and Their Contributions",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the quantitative revolution in Geography?",
+      "options": {
+        "A": "A single individual",
+        "B": "A broad movement involving many geographers during the 1950s and 1960s",
+        "C": "Only Fred K. Schaefer",
+        "D": "Only Richard Hartshorne"
+      },
+      "correctAnswer": "B",
+      "explanation": "The quantitative revolution was a broad movement involving many geographers during the 1950s and 1960s; it promoted statistical methods, mathematical models and spatial analysis rather than being the work of one individual.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO143",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is environmental determinism?",
+      "options": {
+        "A": "The view that human beings use culture and technology to select among environmental possibilities",
+        "B": "The view that the natural environment, especially climate and physical conditions, strongly determines or controls human activities, cultures and societal development",
+        "C": "The view that people can use the environment but must respect ecological limits",
+        "D": "The view that Geography should seek systematic laws"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental determinism is the view that the natural environment, especially climate and physical conditions, strongly determines or controls human activities, cultures and societal development. It is a historically influential approach but is widely criticised for oversimplifying human-environment relationships.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO144",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is commonly associated with environmental determinism?",
+      "options": {
+        "A": "Paul Vidal de la Blache",
+        "B": "Friedrich Ratzel and, in a more extreme form, Ellen Churchill Semple and Ellsworth Huntington",
+        "C": "Griffith Taylor",
+        "D": "Alfred Hettner"
+      },
+      "correctAnswer": "B",
+      "explanation": "Friedrich Ratzel and, in a more extreme form, Ellen Churchill Semple and Ellsworth Huntington are commonly associated with environmental determinist thought.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO145",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is possibilism?",
+      "options": {
+        "A": "The view that the natural environment strongly determines human activities",
+        "B": "The view that the natural environment offers opportunities and constraints, but human beings use culture, technology and choice to select among the possibilities available",
+        "C": "The view that people must respect environmental limits",
+        "D": "The view that Geography should seek spatial laws"
+      },
+      "correctAnswer": "B",
+      "explanation": "Possibilism is the view that the natural environment offers opportunities and constraints, but human beings use culture, technology and choice to select among the possibilities available.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO146",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with possibilism?",
+      "options": {
+        "A": "Friedrich Ratzel",
+        "B": "Paul Vidal de la Blache",
+        "C": "Griffith Taylor",
+        "D": "Ellen Churchill Semple"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paul Vidal de la Blache is the leading scholar associated with possibilism in French Geography.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO147",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is neo-determinism?",
+      "options": {
+        "A": "The view that the environment completely controls human activities",
+        "B": "The view that people can use the environment and technology to pursue development, but must respect environmental limits and ecological conditions",
+        "C": "The view that human beings can overcome all environmental constraints",
+        "D": "The view that Geography should seek spatial laws"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neo-determinism, also called stop-and-go determinism, argues that people can use the environment and technology to pursue development, but must respect environmental limits and ecological conditions.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO148",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed neo-determinism or stop-and-go determinism?",
+      "options": {
+        "A": "Friedrich Ratzel",
+        "B": "Griffith Taylor",
+        "C": "Paul Vidal de la Blache",
+        "D": "Ellen Churchill Semple"
+      },
+      "correctAnswer": "B",
+      "explanation": "Griffith Taylor is commonly credited with developing the concept of neo-determinism or stop-and-go determinism.",
+      "source": "Introduction_to_Geography.pdf, Page 7"
+    },
+    {
+      "id": "GEO149",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is regionalism in Geography?",
+      "options": {
+        "A": "An approach that emphasises the distinctive character of regions and the study of their physical, human and functional relationships",
+        "B": "The study of spatial distributions across the world",
+        "C": "The study of human-environment interaction",
+        "D": "The study of maps and map projections"
+      },
+      "correctAnswer": "A",
+      "explanation": "Regionalism is an approach that emphasises the distinctive character of regions and the study of their physical, human and functional relationships.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO150",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the quantitative revolution in Geography?",
+      "options": {
+        "A": "A major mid-twentieth-century shift towards statistical analysis, mathematical modelling, hypothesis testing and the search for spatial patterns and generalisations",
+        "B": "A shift towards qualitative research methods",
+        "C": "A shift towards environmental determinism",
+        "D": "A shift towards regional description"
+      },
+      "correctAnswer": "A",
+      "explanation": "The quantitative revolution was a major mid-twentieth-century shift towards statistical analysis, mathematical modelling, hypothesis testing and the search for spatial patterns and generalisations.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO151",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is behavioural Geography?",
+      "options": {
+        "A": "The study of how people's perceptions, knowledge, decisions and behaviour influence their use of space and their geographical choices",
+        "B": "The study of spatial distributions",
+        "C": "The study of human-environment interaction",
+        "D": "The study of maps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Behavioural Geography studies how people's perceptions, knowledge, decisions and behaviour influence their use of space and their geographical choices.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO152",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is humanistic Geography?",
+      "options": {
+        "A": "A focus on human experience, meaning, values, attachment to place and the subjective ways people understand their environments",
+        "B": "A focus on spatial distributions",
+        "C": "A focus on environmental determinism",
+        "D": "A focus on quantitative methods"
+      },
+      "correctAnswer": "A",
+      "explanation": "Humanistic Geography focuses on human experience, meaning, values, attachment to place and the subjective ways people understand their environments.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO153",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is radical Geography?",
+      "options": {
+        "A": "An approach that examines the spatial dimensions of power, inequality, capitalism, class relations and social justice, often drawing on Marxist and critical approaches",
+        "B": "An approach that focuses on environmental determinism",
+        "C": "An approach that focuses on map making",
+        "D": "An approach that focuses on quantitative methods"
+      },
+      "correctAnswer": "A",
+      "explanation": "Radical Geography examines the spatial dimensions of power, inequality, capitalism, class relations and social justice, often drawing on Marxist and critical approaches.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO154",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is possibilism's key difference from determinism?",
+      "options": {
+        "A": "Determinism gives the natural environment a controlling role in human life, whereas possibilism recognises environmental limits but emphasises human choice, culture and technology",
+        "B": "Determinism emphasises human choice, whereas possibilism gives the environment a controlling role",
+        "C": "Both give the environment a controlling role",
+        "D": "Both emphasise human choice"
+      },
+      "correctAnswer": "A",
+      "explanation": "Determinism gives the natural environment a controlling role in human life, whereas possibilism recognises environmental limits but emphasises human choice, culture and technology.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO155",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Central Place Theory?",
+      "options": {
+        "A": "A theory that explains the number, size, spacing and distribution of settlements that provide goods and services to surrounding areas; developed by Walter Christaller in 1933",
+        "B": "A theory that explains agricultural land use around a market",
+        "C": "A theory that explains industrial location",
+        "D": "A theory that explains geopolitical strategy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Place Theory explains the number, size, spacing and distribution of settlements that provide goods and services to surrounding areas; it was developed by Walter Christaller in 1933.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO156",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the basic idea of von Thunen's model?",
+      "options": {
+        "A": "It explains how agricultural land uses may form concentric rings around a central market according to transport costs, land rent and the perishability or value of products, under simplified assumptions",
+        "B": "It explains the size and spacing of settlements",
+        "C": "It explains industrial location",
+        "D": "It explains geopolitical strategy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Von Thunen's model explains how agricultural land uses may form concentric rings around a central market according to transport costs, land rent and the perishability or value of products, under simplified assumptions.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO157",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Weber's least-cost theory?",
+      "options": {
+        "A": "A theory that explains industrial location by seeking to minimise total costs, especially transport and labour costs, while also considering agglomeration economies",
+        "B": "A theory that explains agricultural land use",
+        "C": "A theory that explains settlement patterns",
+        "D": "A theory that explains geopolitical strategy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Weber's theory explains industrial location by seeking to minimise total costs, especially transport and labour costs, while also considering agglomeration economies.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO158",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Heartland Theory?",
+      "options": {
+        "A": "Mackinder's theory that argues the central landmass of Eurasia has major strategic importance in global geopolitics; it is a geopolitical theory, not a physical law",
+        "B": "A theory that explains agricultural land use",
+        "C": "A theory that explains settlement patterns",
+        "D": "A theory that explains industrial location"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mackinder's Heartland Theory argues that the central landmass of Eurasia has major strategic importance in global geopolitics; it is a geopolitical theory, not a physical law.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO159",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the concept of continental drift?",
+      "options": {
+        "A": "The hypothesis that continents have moved over geological time; Alfred Wegener proposed the hypothesis in 1912 and argued that the continents were once joined in a supercontinent called Pangaea",
+        "B": "The theory that explains the movement of lithospheric plates",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "The model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continental drift is the hypothesis that continents have moved over geological time; Alfred Wegener proposed the hypothesis in 1912 and argued that the continents were once joined in a supercontinent called Pangaea.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO160",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed the continental drift hypothesis?",
+      "options": {
+        "A": "Alfred Wegener",
+        "B": "James Hutton",
+        "C": "Charles Lyell",
+        "D": "William Morris Davis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alfred Wegener, a German meteorologist and geophysicist, proposed the continental drift hypothesis in 1912.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO161",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is plate tectonic theory?",
+      "options": {
+        "A": "A theory that explains the movement and interaction of large lithospheric plates over the semi-fluid or ductile asthenosphere and provides a framework for understanding earthquakes, volcanoes, mountain building and ocean-basin development",
+        "B": "A hypothesis that continents have moved over geological time",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "A model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plate tectonic theory explains the movement and interaction of large lithospheric plates over the semi-fluid or ductile asthenosphere and provides a framework for understanding earthquakes, volcanoes, mountain building and ocean-basin development.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO162",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the theory of uniformitarianism?",
+      "options": {
+        "A": "The principle that the natural processes operating today have also operated throughout Earth's history, although their rates and intensity may vary; it is commonly summarised as the present is the key to the past",
+        "B": "The hypothesis that continents have moved over geological time",
+        "C": "The theory that explains the movement of lithospheric plates",
+        "D": "The model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uniformitarianism is the principle that the natural processes operating today have also operated throughout Earth's history, although their rates and intensity may vary; it is commonly summarised as the present is the key to the past.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO163",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is closely associated with the principle of uniformitarianism?",
+      "options": {
+        "A": "Alfred Wegener",
+        "B": "James Hutton and Charles Lyell",
+        "C": "William Morris Davis",
+        "D": "Walter Christaller"
+      },
+      "correctAnswer": "B",
+      "explanation": "James Hutton is regarded as a foundational figure in uniformitarian thought, and Charles Lyell helped popularise it in the nineteenth century.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO164",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the concept of the geographical cycle of erosion?",
+      "options": {
+        "A": "A model associated with William Morris Davis that explains landscape development through idealised stages of youth, maturity and old age under specified conditions",
+        "B": "The hypothesis that continents have moved over geological time",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "The theory that explains the movement of lithospheric plates"
+      },
+      "correctAnswer": "A",
+      "explanation": "The geographical cycle of erosion, or cycle of erosion, is a model associated with William Morris Davis that explains landscape development through idealised stages of youth, maturity and old age under specified conditions.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO165",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who proposed the geographical cycle of erosion?",
+      "options": {
+        "A": "Alfred Wegener",
+        "B": "William Morris Davis",
+        "C": "James Hutton",
+        "D": "Charles Lyell"
+      },
+      "correctAnswer": "B",
+      "explanation": "William Morris Davis proposed the geographical cycle of erosion.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO166",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the concept of isostasy?",
+      "options": {
+        "A": "The state of gravitational balance in which the Earth's lithosphere is supported by the underlying mantle, with variations in crustal thickness and density affecting elevation",
+        "B": "The hypothesis that continents have moved over geological time",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "The model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Isostasy is the state of gravitational balance in which the Earth's lithosphere is supported by the underlying mantle, with variations in crustal thickness and density affecting elevation.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO167",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the hydrological cycle?",
+      "options": {
+        "A": "The continuous circulation of water among the atmosphere, land and oceans through processes such as evaporation, transpiration, condensation, precipitation, infiltration, runoff and groundwater flow",
+        "B": "The hypothesis that continents have moved over geological time",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "The model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hydrological or water cycle is the continuous circulation of water among the atmosphere, land and oceans through processes such as evaporation, transpiration, condensation, precipitation, infiltration, runoff and groundwater flow.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    },
+    {
+      "id": "GEO168",
+      "subject": "Geography",
+      "topic": "Important Geographical Theories and Concepts",
+      "chapter": "Introduction to Geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the concept of ecosystem interdependence?",
+      "options": {
+        "A": "The idea that organisms and physical components such as water, soil, air and climate interact and depend on one another through energy flows and nutrient cycles",
+        "B": "The hypothesis that continents have moved over geological time",
+        "C": "The principle that natural processes operating today have also operated throughout Earth's history",
+        "D": "The model that explains landscape development through stages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ecosystem interdependence means that organisms and physical components such as water, soil, air and climate interact and depend on one another through energy flows and nutrient cycles.",
+      "source": "Introduction_to_Geography.pdf, Page 8"
+    }
+  ]
+}

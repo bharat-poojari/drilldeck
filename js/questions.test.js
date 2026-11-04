@@ -16,7 +16,10 @@ function makeQuestion(id) {
     difficulty: "Easy",
     question: "Sample question?",
     options: { A: "One", B: "Two", C: "Three", D: "Four" },
-    correctAnswer: "A"
+    correctAnswer: "A",
+    topic: "Sample topic",
+    explanation: "Option A is correct.",
+    source: "Sample reference"
   };
 }
 
@@ -46,14 +49,31 @@ test("reused IDs within a dataset receive distinct stable identities", () => {
 test("duplicate source IDs are reported without rejecting a dataset", () => {
   assert.deepEqual(
     validateDataset({ questions: [makeQuestion("Q178"), makeQuestion("Q178")] }, dataset),
-    { questions: [makeQuestion("Q178"), makeQuestion("Q178")], duplicateIds: ["Q178"], invalidQuestions: [] }
+    {
+      questions: [makeQuestion("Q178"), makeQuestion("Q178")],
+      duplicateIds: ["Q178"],
+      duplicateQuestions: [{ firstId: "Q178", duplicateId: "Q178", question: "sample question?" }],
+      invalidQuestions: []
+    }
   );
 });
 
+test("repeated prompts are normalized and reported without dropping either question", () => {
+  const first = makeQuestion("Q001");
+  const second = { ...makeQuestion("Q002"), question: "  SAMPLE   QUESTION? " };
+  const result = validateDataset({ questions: [first, second] }, dataset);
+
+  assert.equal(result.questions.length, 2);
+  assert.deepEqual(result.duplicateQuestions, [
+    { firstId: "Q001", duplicateId: "Q002", question: "sample question?" }
+  ]);
+});
+
 test("question numbering gaps are valid", () => {
+  const secondQuestion = { ...makeQuestion("Q025"), question: "Another sample question?" };
   assert.deepEqual(
-    validateDataset({ questions: [makeQuestion("Q023"), makeQuestion("Q025")] }, dataset),
-    { questions: [makeQuestion("Q023"), makeQuestion("Q025")], duplicateIds: [], invalidQuestions: [] }
+    validateDataset({ questions: [makeQuestion("Q023"), secondQuestion] }, dataset),
+    { questions: [makeQuestion("Q023"), secondQuestion], duplicateIds: [], duplicateQuestions: [], invalidQuestions: [] }
   );
 });
 
@@ -62,6 +82,30 @@ test("missing and unusable IDs remain validation errors", () => {
   assert.equal(result.questions.length, 0);
   assert.equal(result.invalidQuestions.length, 1);
   assert.match(result.invalidQuestions[0].errors.join(" "), /must have a non-empty string or number ID/);
+});
+
+test("explanation, source and topic or chapter are required", () => {
+  const question = makeQuestion("Q028");
+  delete question.explanation;
+  delete question.source;
+  delete question.topic;
+  const result = validateDataset({ questions: [question] }, dataset);
+
+  assert.equal(result.questions.length, 0);
+  assert.match(result.invalidQuestions[0].errors.join(" "), /missing explanation/);
+  assert.match(result.invalidQuestions[0].errors.join(" "), /missing source/);
+  assert.match(result.invalidQuestions[0].errors.join(" "), /must have a topic or chapter/);
+});
+
+test("incomplete options and invalid answer references are rejected", () => {
+  const question = makeQuestion("Q029");
+  question.options.D = " ";
+  question.correctAnswer = "E";
+  const result = validateDataset({ questions: [question] }, dataset);
+
+  assert.equal(result.questions.length, 0);
+  assert.match(result.invalidQuestions[0].errors.join(" "), /four non-empty A–D options/);
+  assert.match(result.invalidQuestions[0].errors.join(" "), /invalid correctAnswer/);
 });
 
 test("invalid records are isolated so valid questions remain available", () => {

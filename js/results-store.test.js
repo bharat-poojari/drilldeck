@@ -50,6 +50,18 @@ test("saving the same submission ID does not create duplicate history entries", 
   assert.equal(store.getData().results.length, 1);
 });
 
+test("practice mode and review markers survive local result persistence", () => {
+  const store = createResultsStore(createMemoryStorage());
+  const result = makeResult("result-practice");
+  result.mode = "practice";
+  result.answers[0].review = true;
+
+  store.saveResult(result);
+
+  assert.equal(store.getData().results[0].mode, "practice");
+  assert.equal(store.getData().results[0].answers[0].review, true);
+});
+
 test("private results persist without leaderboard consent and publication status can change", () => {
   const store = createResultsStore(createMemoryStorage());
   const result = makeResult("result-private");

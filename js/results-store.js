@@ -28,6 +28,7 @@ function isResultRecord(result) {
     typeof result.paperId === "string" &&
     typeof result.paper === "string" &&
     typeof result.examName === "string" &&
+    (result.mode === undefined || ["exam", "practice", "revision"].includes(result.mode)) &&
     isStringArray(result.selectedCategories) &&
     isStringArray(result.selectedDatasets) &&
     isStringArray(result.selectedTopics) &&
@@ -43,7 +44,8 @@ function isResultRecord(result) {
       question.options && ["A", "B", "C", "D"].every(key => typeof question.options[key] === "string")) &&
     Array.isArray(result.answers) && result.answers.length === result.totalQuestions &&
     result.answers.every(answer => answer && (answer.selected === null ||
-      ["A", "B", "C", "D"].includes(answer.selected))) &&
+      ["A", "B", "C", "D"].includes(answer.selected)) &&
+      (answer.review === undefined || typeof answer.review === "boolean")) &&
     result.metrics && typeof result.metrics === "object" &&
     numericFields.every(key => isFiniteNumber(result.metrics[key])) &&
     typeof result.metrics.autoSubmitted === "boolean" &&

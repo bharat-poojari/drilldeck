@@ -137,7 +137,7 @@ Each dataset file must contain a `questions` array. Every question must have a u
 
 Valid difficulty values: `Easy`, `Medium`, `Hard`.
 `correctAnswer` must be exactly one of `A`, `B`, `C` or `D`.
-All four options must be non-empty strings.
+All four options must be non-empty strings. Each question must also include a non-empty `topic` or `chapter`, `explanation` and `source`; the build and dataset tests validate these fields. The build reports duplicate IDs and repeated prompts with sample IDs but does not remove them automatically. Add `examRelevance` and `lastVerified` when a question has been checked against a specific official notification and reference date; topic counts alone are not syllabus coverage percentages.
 
 The setup screen displays the number of questions matching the selected filters. If there are fewer matching questions than requested, the test cannot start. The old `data/questions.json` starter bank is ignored; place new datasets in a subject folder. The deployment build regenerates `data/datasets.json` from supported dataset folders automatically and copies the runtime files into the `public/` deployment output.
 

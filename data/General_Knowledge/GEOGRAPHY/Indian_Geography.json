@@ -867,4 +867,723 @@
       "explanation": "The Lesser Himalaya (Himachal) includes the Pir Panjal and Dhauladhar ranges, valleys and hill stations.",
       "source": "Indian_Geography.pdf, 3.5.3"
     },
-    
+    {
+    "id": "Q171",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which of the following rivers form major deltas along the Eastern Coastal Plain of India?",
+    "options": {
+      "A": "Narmada, Tapi, and Mahi",
+      "B": "Mahanadi, Godavari, Krishna, and Kaveri",
+      "C": "Luni, Sabarmati, and Periyar",
+      "D": "Indus, Jhelum, and Chenab"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Eastern Coastal Plain contains large deltas formed by the Mahanadi, Godavari, Krishna, and Kaveri rivers.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q172",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which of the following is a lagoon located along the Eastern Coastal Plain of India?",
+    "options": {
+      "A": "Chilika Lake",
+      "B": "Dal Lake",
+      "C": "Wular Lake",
+      "D": "Sambhar Lake"
+    },
+    "correctAnswer": "A",
+    "explanation": "Chilika is a lagoon on the Eastern Coastal Plain. The PDF also identifies Pulicat as an important eastern coastal lagoon.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q173",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Pulicat Lake is identified in the PDF as which type of coastal feature?",
+    "options": {
+      "A": "Glacial lake",
+      "B": "Volcanic lake",
+      "C": "Lagoon",
+      "D": "Artificial reservoir"
+    },
+    "correctAnswer": "C",
+    "explanation": "Pulicat is one of the important lagoons situated along India's Eastern Coastal Plain.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q174",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What is a delta?",
+    "options": {
+      "A": "A deep valley formed by glacial erosion",
+      "B": "A landform formed by the accumulation of river sediments at the river mouth",
+      "C": "A coastal cliff formed by wave erosion",
+      "D": "A mountain formed by volcanic activity"
+    },
+    "correctAnswer": "B",
+    "explanation": "A delta develops when a river deposits sediments at its mouth. Such deposits may be associated with the formation of distributary channels.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q175",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which feature is commonly associated with the formation of a river delta?",
+    "options": {
+      "A": "Distributaries",
+      "B": "Cirques",
+      "C": "Moraines",
+      "D": "Volcanic craters"
+    },
+    "correctAnswer": "A",
+    "explanation": "River sediment accumulation at the river mouth may lead to the formation of distributaries, which are channels branching away from the main river.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q176",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What is an estuary?",
+    "options": {
+      "A": "A freshwater lake surrounded by mountains",
+      "B": "A tidal river mouth where freshwater mixes with seawater",
+      "C": "A river channel that originates from a glacier",
+      "D": "A freshwater wetland found only in deserts"
+    },
+    "correctAnswer": "B",
+    "explanation": "An estuary is a tidal river mouth where freshwater mixes with seawater. Sediments may be flushed seaward by tidal and river processes.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q177",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which statement correctly describes the general difference between the eastern and western coastal river mouths of India?",
+    "options": {
+      "A": "Eastern rivers commonly form deltas, while many west-flowing rivers form estuaries",
+      "B": "Eastern rivers commonly form estuaries, while western rivers form large deltas",
+      "C": "Both coasts have only inland drainage",
+      "D": "Neither coast has river mouths"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF explains that east-flowing rivers commonly form deltas, whereas many west-flowing rivers enter the sea through estuaries.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q178",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a characteristic coastal feature of the Western Coastal Plain?",
+    "options": {
+      "A": "Large river deltas along its entire length",
+      "B": "Estuaries, creeks, lagoons, and natural harbours",
+      "C": "Extensive glacial valleys",
+      "D": "Inland salt lakes throughout the coast"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Western Coastal Plain is associated with estuaries, creeks, lagoons, and natural harbours, particularly along the Konkan and Malabar coasts.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q179",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which coastal region of India is particularly known for its backwater lagoon and canal system?",
+    "options": {
+      "A": "Konkan Coast",
+      "B": "Malabar Coast",
+      "C": "Northern Circars",
+      "D": "Coromandel Coast"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Malabar Coast of Kerala is known for its backwater system consisting of lagoons and canals.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q180",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following combinations consists entirely of ports listed in the PDF?",
+    "options": {
+      "A": "Mumbai, Kochi, Chennai, and Visakhapatnam",
+      "B": "Delhi, Jaipur, Bhopal, and Lucknow",
+      "C": "Shimla, Srinagar, Dehradun, and Gangtok",
+      "D": "Patna, Ranchi, Raipur, and Bhopal"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mumbai, Kochi, Chennai, and Visakhapatnam are among the major ports listed in the PDF.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q181",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Deendayal Port, formerly known as Kandla Port, is located in which state?",
+    "options": {
+      "A": "Gujarat",
+      "B": "Maharashtra",
+      "C": "Kerala",
+      "D": "Tamil Nadu"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF lists Deendayal Port, formerly known as Kandla, among India's major ports. It is located in Gujarat.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q182",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Jawaharlal Nehru Port is included in the list of major ports of which country?",
+    "options": {
+      "A": "Sri Lanka",
+      "B": "India",
+      "C": "Bangladesh",
+      "D": "Myanmar"
+    },
+    "correctAnswer": "B",
+    "explanation": "Jawaharlal Nehru Port is listed in the PDF among India's major ports.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q183",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which port is also known as Ennore Port?",
+    "options": {
+      "A": "Kamarajar Port",
+      "B": "Deendayal Port",
+      "C": "Mormugao Port",
+      "D": "Paradip Port"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF identifies Kamarajar Port by its earlier or commonly used name, Ennore Port.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q184",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "V.O. Chidambaranar Port is associated with which place?",
+    "options": {
+      "A": "Tuticorin",
+      "B": "Kochi",
+      "C": "Mormugao",
+      "D": "Paradip"
+    },
+    "correctAnswer": "A",
+    "explanation": "V.O. Chidambaranar Port, also identified with Tuticorin, is listed among the major ports of India.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q185",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified as a natural or sheltered harbour on the Indian coast?",
+    "options": {
+      "A": "Kochi",
+      "B": "Bikaner",
+      "C": "Jodhpur",
+      "D": "Agra"
+    },
+    "correctAnswer": "A",
+    "explanation": "Kochi is among the natural or sheltered harbours mentioned in the PDF, along with Mumbai, Marmagao, and Visakhapatnam.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q186",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a major ecological function of coastal ecosystems such as mangroves, coral reefs, and seagrass beds?",
+    "options": {
+      "A": "Supporting fisheries and biodiversity",
+      "B": "Increasing desertification",
+      "C": "Preventing all rainfall",
+      "D": "Creating mountain ranges"
+    },
+    "correctAnswer": "A",
+    "explanation": "Coastal ecosystems, including mangroves, coral reefs, seagrass beds, estuaries, and salt marshes, support fisheries and biodiversity.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q187",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Coastal Plains of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified in the PDF as a threat to India's coastal ecosystems?",
+    "options": {
+      "A": "Unplanned tourism",
+      "B": "Formation of mountain glaciers",
+      "C": "Expansion of polar ice sheets",
+      "D": "Formation of continental interiors"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF lists unplanned tourism among coastal ecosystem threats, along with coastal erosion, cyclones, sea-level rise, ports, sand mining, pollution, and wetland reclamation.",
+    "source": "Indian_Geography.pdf, Section 3.5.7, Page 4"
+  },
+  {
+    "id": "Q188",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "The Andaman and Nicobar Islands are located in which water body?",
+    "options": {
+      "A": "Arabian Sea",
+      "B": "Bay of Bengal",
+      "C": "Gulf of Khambhat",
+      "D": "Gulf of Mannar"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Andaman and Nicobar Islands are located in the Bay of Bengal.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q189",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "The Lakshadweep Islands are located in which sea?",
+    "options": {
+      "A": "Bay of Bengal",
+      "B": "Arabian Sea",
+      "C": "Red Sea",
+      "D": "Andaman Sea"
+    },
+    "correctAnswer": "B",
+    "explanation": "Lakshadweep is an island group located in the Arabian Sea.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q190",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Andaman and Nicobar Islands are mainly associated with which type of geological formation?",
+    "options": {
+      "A": "Volcanic and tectonic island-arc formations",
+      "B": "Continental sand-dune formations",
+      "C": "Glacial moraine formations",
+      "D": "River delta formations"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Andaman and Nicobar Islands are mainly associated with tectonic and volcanic island-arc formations.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q191",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Lakshadweep Islands are mainly composed of which type of island formations?",
+    "options": {
+      "A": "Coral atolls and reefs",
+      "B": "Volcanic mountain peaks",
+      "C": "River-created islands",
+      "D": "Glacial islands"
+    },
+    "correctAnswer": "A",
+    "explanation": "Lakshadweep consists mainly of low-lying coral atolls and reefs, with sand cays formed through coral-related processes.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q192",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which island is identified as India's only confirmed active volcano?",
+    "options": {
+      "A": "Narcondam Island",
+      "B": "Barren Island",
+      "C": "Minicoy Island",
+      "D": "Great Nicobar Island"
+    },
+    "correctAnswer": "B",
+    "explanation": "Barren Island, located in the Andaman Sea, is identified in the PDF as India's only confirmed active volcano.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q193",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which statement about Narcondam Island is consistent with the PDF?",
+    "options": {
+      "A": "It is generally classified as dormant or inactive",
+      "B": "It is India's only confirmed active volcano",
+      "C": "It is a coral atoll in Lakshadweep",
+      "D": "It is located in the Gulf of Mannar"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF describes Narcondam as volcanic but generally classified as dormant or inactive in standard references.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q194",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which channel separates the Andaman group of islands from the Nicobar group?",
+    "options": {
+      "A": "Nine Degree Channel",
+      "B": "Ten Degree Channel",
+      "C": "Eight Degree Channel",
+      "D": "Duncan Passage"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Ten Degree Channel, located approximately along 10°N latitude, separates the Andaman group from the Nicobar group.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q195",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Nine Degree Channel separates which island from the main Lakshadweep group?",
+    "options": {
+      "A": "Minicoy",
+      "B": "Great Nicobar",
+      "C": "Little Andaman",
+      "D": "Barren Island"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Nine Degree Channel separates Minicoy Island from the main Lakshadweep group.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q196",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which channel separates Minicoy Island from the Maldives?",
+    "options": {
+      "A": "Ten Degree Channel",
+      "B": "Nine Degree Channel",
+      "C": "Eight Degree Channel",
+      "D": "Duncan Passage"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Eight Degree Channel separates Minicoy Island from the Maldives.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q197",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Duncan Passage is located between which two islands?",
+    "options": {
+      "A": "North Andaman and Middle Andaman",
+      "B": "South Andaman and Little Andaman",
+      "C": "Minicoy and Great Nicobar",
+      "D": "Barren Island and Narcondam Island"
+    },
+    "correctAnswer": "B",
+    "explanation": "Duncan Passage separates South Andaman from Little Andaman.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q198",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Palk Strait separates southeastern India from which country?",
+    "options": {
+      "A": "Maldives",
+      "B": "Myanmar",
+      "C": "Sri Lanka",
+      "D": "Bangladesh"
+    },
+    "correctAnswer": "C",
+    "explanation": "Palk Strait separates southeastern India from the northern part of Sri Lanka.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q199",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Gulf of Mannar is situated between which two regions?",
+    "options": {
+      "A": "Southern Tamil Nadu and western Sri Lanka",
+      "B": "Gujarat and Pakistan",
+      "C": "Odisha and Bangladesh",
+      "D": "Kerala and the Maldives"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Gulf of Mannar lies south of Tamil Nadu and west of Sri Lanka. It contains coral reef and seagrass habitats.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q200",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which point is identified as the southernmost point of India?",
+    "options": {
+      "A": "Kanyakumari",
+      "B": "Indira Point",
+      "C": "Rameswaram",
+      "D": "Minicoy"
+    },
+    "correctAnswer": "B",
+    "explanation": "Indira Point, situated on Great Nicobar Island, is identified in the PDF as India's southernmost point.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q201",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Indira Point was severely affected by which natural disaster in 2004?",
+    "options": {
+      "A": "Cyclone",
+      "B": "Indian Ocean tsunami",
+      "C": "Volcanic eruption",
+      "D": "Drought"
+    },
+    "correctAnswer": "B",
+    "explanation": "The PDF states that Indira Point was severely affected by the 2004 Indian Ocean tsunami and subsequent subsidence.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q202",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Islands of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified as an ecological concern affecting India's islands?",
+    "options": {
+      "A": "Freshwater scarcity",
+      "B": "Expansion of permanent glaciers",
+      "C": "Formation of large inland deserts",
+      "D": "Development of continental coal basins"
+    },
+    "correctAnswer": "A",
+    "explanation": "The PDF lists freshwater scarcity among island-related ecological concerns, along with coral bleaching, sea-level rise, coastal erosion, invasive species, habitat fragmentation, tourism pressure, and cyclone or tsunami vulnerability.",
+    "source": "Indian_Geography.pdf, Section 3.5.8, Page 5"
+  },
+  {
+    "id": "Q203",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Indian Drainage System",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a major difference between Himalayan and Peninsular river systems?",
+    "options": {
+      "A": "Himalayan rivers are generally perennial, while Peninsular rivers are mostly rain-fed",
+      "B": "Peninsular rivers are generally snow-fed, while Himalayan rivers are entirely rain-fed",
+      "C": "Both systems are entirely seasonal",
+      "D": "Himalayan rivers have no tributaries"
+    },
+    "correctAnswer": "A",
+    "explanation": "Himalayan rivers are generally perennial because they receive water from snow and rainfall. Peninsular rivers are older and mostly rain-fed, with greater seasonal variation.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q204",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Indian Drainage System",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which of the following groups consists of the three major Himalayan river systems?",
+    "options": {
+      "A": "Godavari, Krishna, and Kaveri",
+      "B": "Indus, Ganga, and Brahmaputra",
+      "C": "Narmada, Tapi, and Mahi",
+      "D": "Mahanadi, Pennar, and Periyar"
+    },
+    "correctAnswer": "B",
+    "explanation": "The three major Himalayan river systems identified in the PDF are the Indus, Ganga, and Brahmaputra.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q205",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Indus River System",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "The Indus River rises near which lake in the Tibetan region?",
+    "options": {
+      "A": "Dal Lake",
+      "B": "Lake Manasarovar",
+      "C": "Wular Lake",
+      "D": "Chilika Lake"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Indus River rises near Lake Manasarovar in the Tibetan region before flowing through Ladakh and Pakistan towards the Arabian Sea.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q206",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Indus River System",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a tributary of the Indus River?",
+    "options": {
+      "A": "Beas",
+      "B": "Kaveri",
+      "C": "Godavari",
+      "D": "Mahanadi"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Beas is one of the tributaries of the Indus system. Other tributaries listed in the PDF are Jhelum, Chenab, Ravi, and Sutlej.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q207",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Indus River System",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which treaty governs the sharing of the waters of the Indus river system between India and Pakistan?",
+    "options": {
+      "A": "Ganga Water Treaty",
+      "B": "Indus Waters Treaty",
+      "C": "Mahakali Treaty",
+      "D": "Teesta Water Agreement"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Indus Waters Treaty was signed in 1960. The PDF states that the eastern rivers—Ravi, Beas, and Sutlej—are allocated primarily to India, while the western rivers—Indus, Jhelum, and Chenab—are allocated primarily to Pakistan, subject to treaty provisions.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q208",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Ganga River System",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which glacier is the source of the Bhagirathi River?",
+    "options": {
+      "A": "Siachen Glacier",
+      "B": "Gangotri Glacier",
+      "C": "Zemu Glacier",
+      "D": "Pindari Glacier"
+    },
+    "correctAnswer": "B",
+    "explanation": "The Bhagirathi River rises from the Gangotri Glacier at Gaumukh in Uttarakhand.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q209",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Ganga River System",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "At which place do the Bhagirathi and Alaknanda rivers meet to form the Ganga?",
+    "options": {
+      "A": "Rudraprayag",
+      "B": "Karnaprayag",
+      "C": "Devprayag",
+      "D": "Prayagraj"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Bhagirathi and Alaknanda meet at Devprayag in Uttarakhand, where the river is known as the Ganga.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  },
+  {
+    "id": "Q210",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Ganga River System",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "By which name does the Ganga enter Bangladesh?",
+    "options": {
+      "A": "Jamuna",
+      "B": "Padma",
+      "C": "Meghna",
+      "D": "Siang"
+    },
+    "correctAnswer": "B",
+    "explanation": "After flowing through India, the Ganga enters Bangladesh as the Padma.",
+    "source": "Indian_Geography.pdf, Section 3.5.9, Page 5"
+  }

@@ -1,0 +1,4662 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank derived from 'Movements of Earth' PDF. Covers rotation, revolution, Coriolis effect, seasons, solstices, equinoxes, perihelion/aphelion, axial tilt, leap year, day/night length, polar day/night, and common exam traps. No duplicate questions; every key point from the source is represented.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two principal movements of Earth?",
+      "options": {
+        "A": "Rotation and revolution",
+        "B": "Precession and nutation",
+        "C": "Tilt and wobble",
+        "D": "Orbit and spin",
+        "E": "Axial shift and orbital drift"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two principal movements of Earth are rotation on its axis and revolution in its orbit around the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q002",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is rotation of Earth?",
+      "options": {
+        "A": "The orbital movement around the Sun",
+        "B": "The spinning movement around its imaginary axis",
+        "C": "The slow change in axis direction",
+        "D": "The elliptical path around the Sun",
+        "E": "The wobble of the axis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rotation is the spinning movement of Earth around its imaginary axis, which passes through the North Pole and South Pole.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q003",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is revolution of Earth?",
+      "options": {
+        "A": "The spinning movement on its axis",
+        "B": "The orbital movement around the Sun along a slightly elliptical path",
+        "C": "The change in axial tilt",
+        "D": "The daily cycle of day and night",
+        "E": "The precession of the equinoxes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Revolution is the orbital movement of Earth around the Sun along a slightly elliptical path.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q004",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main difference between rotation and revolution?",
+      "options": {
+        "A": "Rotation causes seasons; revolution causes day and night",
+        "B": "Rotation is spinning on its axis and produces day/night; revolution is orbital movement around the Sun and with axial tilt produces seasons",
+        "C": "Rotation is orbital movement; revolution is spinning on its axis",
+        "D": "Both cause day and night",
+        "E": "Rotation causes seasons; revolution causes precession"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rotation is Earth's spinning on its own axis and produces the daily cycle of day and night; revolution is Earth's orbital movement around the Sun and, together with axial tilt, produces the annual cycle of seasons.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q005",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's axis?",
+      "options": {
+        "A": "An imaginary line passing through the geographic North Pole and South Pole",
+        "B": "The plane of Earth's orbit",
+        "C": "The apparent path of the Sun",
+        "D": "The line connecting Earth and the Sun",
+        "E": "The equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axis is an imaginary line passing through the geographic North Pole and South Pole, around which Earth rotates.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q006",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is Earth's axis fixed in space?",
+      "options": {
+        "A": "Yes, it never changes",
+        "B": "It maintains an approximately constant direction over one year but slowly changes orientation over long periods due to precession and other motions",
+        "C": "No, it changes direction every day",
+        "D": "It rotates 360 degrees every year",
+        "E": "It is fixed relative to the Sun"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's axis maintains an approximately constant direction over the course of one year, but it slowly changes orientation over long periods due to precession and other motions.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q007",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the orbital plane of Earth?",
+      "options": {
+        "A": "The plane of Earth's rotation",
+        "B": "The imaginary flat plane containing Earth's path around the Sun",
+        "C": "The plane of the equator",
+        "D": "The plane of the celestial equator",
+        "E": "The plane passing through the poles"
+      },
+      "correctAnswer": "B",
+      "explanation": "The orbital plane is the imaginary flat plane containing Earth's path around the Sun; it is also called the plane of the ecliptic.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q008",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the ecliptic?",
+      "options": {
+        "A": "The apparent annual path of the Sun against the background stars",
+        "B": "The path of the Moon around Earth",
+        "C": "The plane of Earth's equator",
+        "D": "The axis of rotation",
+        "E": "The path of Earth around the Moon"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ecliptic is the apparent annual path of the Sun against the background stars as viewed from Earth and corresponds to the plane of Earth's orbit projected onto the celestial sphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q009",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which direction does Earth rotate?",
+      "options": {
+        "A": "East to west",
+        "B": "West to east",
+        "C": "North to south",
+        "D": "South to north",
+        "E": "Clockwise when viewed from above the North Pole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth rotates from west to east, which is counterclockwise when viewed from above the North Pole.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q010",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How long does Earth take to complete one rotation relative to distant stars?",
+      "options": {
+        "A": "24 hours",
+        "B": "23 hours 56 minutes 4 seconds",
+        "C": "23 hours 56 minutes 40 seconds",
+        "D": "24 hours 4 minutes",
+        "E": "23 hours 4 minutes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth takes approximately 23 hours, 56 minutes and 4 seconds to complete one rotation relative to distant stars; this is called a sidereal day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q011",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How long is a mean solar day on Earth?",
+      "options": {
+        "A": "Approximately 24 hours",
+        "B": "Approximately 23 hours 56 minutes",
+        "C": "Approximately 25 hours",
+        "D": "Approximately 23 hours",
+        "E": "Exactly 24 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mean solar day is approximately 24 hours, which is the average time between successive passages of the mean Sun across a local meridian.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q012",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is a solar day longer than a sidereal day?",
+      "options": {
+        "A": "Because Earth rotates faster than it revolves",
+        "B": "Because while rotating, Earth also moves forward in its orbit, so it must rotate slightly more than 360° for the Sun to return to the same meridian",
+        "C": "Because the Moon slows Earth's rotation",
+        "D": "Because the Sun moves around Earth",
+        "E": "Because of atmospheric refraction"
+      },
+      "correctAnswer": "B",
+      "explanation": "While Earth rotates on its axis, it also moves forward along its orbit around the Sun; it must rotate slightly more than 360° for the Sun to return to the same apparent meridian position.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q013",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the angular speed of Earth's rotation?",
+      "options": {
+        "A": "About 15° per hour",
+        "B": "About 1° per hour",
+        "C": "About 30° per hour",
+        "D": "About 360° per hour",
+        "E": "About 15° per minute"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth rotates through approximately 360° in 24 hours, giving an average angular speed of about 15° per hour or 15 arcminutes per minute.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q014",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the linear rotational speed at the Equator?",
+      "options": {
+        "A": "Approximately 1,670 km/h",
+        "B": "Approximately 1,000 km/h",
+        "C": "Approximately 465 km/h",
+        "D": "Approximately 2,000 km/h",
+        "E": "Approximately 1,670 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "The linear rotational speed at the Equator is approximately 1,670 kilometres per hour, or about 465 metres per second.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q015",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does the linear speed of rotation change from the Equator towards the poles?",
+      "options": {
+        "A": "It increases towards the poles",
+        "B": "It decreases with increasing latitude and becomes zero at the geographic poles",
+        "C": "It remains constant at all latitudes",
+        "D": "It becomes maximum at the poles",
+        "E": "It increases then decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "The linear speed of Earth's surface due to rotation decreases with increasing latitude and becomes zero at the geographic poles, although angular rotation rate is the same at all latitudes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q016",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is rotational linear speed greatest at the Equator?",
+      "options": {
+        "A": "Because gravity is strongest there",
+        "B": "Because the Equator has the largest circular path around Earth's axis, so a point there travels the greatest distance in the same rotation period",
+        "C": "Because the Equator is closest to the Moon",
+        "D": "Because the angular speed is highest there",
+        "E": "Because the Equator is tilted towards the Sun"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Equator has the largest circular path around Earth's axis, so a point there travels the greatest distance in the same rotation period.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q017",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the rotational speed at the geographic poles?",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Same as the Equator",
+        "D": "1,670 km/h",
+        "E": "465 m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "The linear speed due to rotation is effectively zero at the exact poles because the poles lie on the axis of rotation.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q018",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the direction of Earth's rotation when viewed from above the South Pole?",
+      "options": {
+        "A": "Counterclockwise",
+        "B": "Clockwise",
+        "C": "West to east",
+        "D": "East to west",
+        "E": "Same as from North Pole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth appears to rotate clockwise when viewed from above the South Pole.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q019",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between angular speed and linear speed of Earth's rotation?",
+      "options": {
+        "A": "Angular speed is the same for all points; linear speed is greatest at the Equator and zero at the poles",
+        "B": "Angular speed is greatest at the Equator; linear speed is the same everywhere",
+        "C": "Both are the same everywhere",
+        "D": "Angular speed varies with latitude; linear speed is constant",
+        "E": "Angular speed is zero at the poles; linear speed is maximum there"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angular speed measures the angle turned per unit time and is essentially the same for all points on Earth; linear speed measures distance travelled per unit time and is greatest at the Equator and zero at the poles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q020",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the most important effect of Earth's rotation?",
+      "options": {
+        "A": "Seasons",
+        "B": "The regular alternation of day and night",
+        "C": "Precession",
+        "D": "Leap years",
+        "E": "Tides"
+      },
+      "correctAnswer": "B",
+      "explanation": "The most familiar effect of Earth's rotation is the regular alternation of day and night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q021",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does Earth's rotation cause day and night?",
+      "options": {
+        "A": "The Sun moves around Earth",
+        "B": "The half of Earth facing the Sun experiences daylight, while the half turned away experiences night; rotation carries places alternately into and out of sunlight",
+        "C": "Earth's orbit brings it closer to and farther from the Sun",
+        "D": "Axial tilt causes day and night",
+        "E": "The Moon blocks sunlight"
+      },
+      "correctAnswer": "B",
+      "explanation": "At any moment, the half of Earth facing the Sun experiences daylight, while the half turned away from the Sun experiences night; rotation carries places alternately into and out of sunlight.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q022",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why does the Sun appear to rise in the east and set in the west?",
+      "options": {
+        "A": "Because the Sun moves east to west",
+        "B": "Because Earth rotates from west to east, making the Sun and other celestial objects appear to move from east to west",
+        "C": "Because Earth revolves around the Sun",
+        "D": "Because of atmospheric refraction",
+        "E": "Because the Sun orbits Earth"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth rotates from west to east, making the Sun and other celestial objects appear to move across the sky from east to west.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q023",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Earth's rotation affect the apparent daily movement of stars?",
+      "options": {
+        "A": "Stars appear to move from east to west, completing an apparent daily circuit around the celestial poles",
+        "B": "Stars appear to move from west to east",
+        "C": "Stars appear stationary",
+        "D": "Stars move north-south",
+        "E": "Stars move only during the day"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's rotation makes stars appear to move from east to west across the sky, completing an apparent daily circuit around the celestial poles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q024",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Earth's rotation contribute to the difference in local time between longitudes?",
+      "options": {
+        "A": "Local solar time changes by approximately one hour for every 15° of longitude, or four minutes for every one degree",
+        "B": "Local time changes by one hour per 30° of longitude",
+        "C": "Local time is the same at all longitudes",
+        "D": "Local time changes by two hours per 15°",
+        "E": "Local time changes by four minutes per 15°"
+      },
+      "correctAnswer": "A",
+      "explanation": "As Earth rotates 360° in about 24 hours, local solar time changes by approximately one hour for every 15° of longitude, or four minutes for every one degree.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q025",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Earth's rotation contribute to the development of time zones?",
+      "options": {
+        "A": "Differences in local solar time led to standard time zones, generally based on bands of longitude, with political adjustments",
+        "B": "Time zones are based on latitude",
+        "C": "Time zones are based on the Moon's position",
+        "D": "Time zones are based on axial tilt",
+        "E": "Time zones are based on revolution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Differences in local solar time caused by Earth's rotation led to the adoption of standard time zones, generally based on bands of longitude, with political adjustments.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q026",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Earth's rotation affect the shape of Earth?",
+      "options": {
+        "A": "It makes Earth a perfect sphere",
+        "B": "It contributes to the equatorial bulge and polar flattening, making Earth an oblate spheroid",
+        "C": "It makes Earth a prolate spheroid",
+        "D": "It has no effect on shape",
+        "E": "It makes Earth perfectly flat at the equator"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rotation contributes to the equatorial bulge and polar flattening, making Earth an oblate spheroid rather than a perfect sphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q027",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does Earth's rotation influence ocean currents and winds?",
+      "options": {
+        "A": "It produces the Coriolis effect, which deflects large-scale moving air and water and helps shape global wind and ocean-current patterns",
+        "B": "It has no effect on ocean currents",
+        "C": "It causes tides only",
+        "D": "It causes El Niño",
+        "E": "It causes seasons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's rotation produces the Coriolis effect, which deflects large-scale moving air and water relative to Earth's surface and helps shape global wind and ocean-current patterns.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q028",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's rotation cause the seasons?",
+      "options": {
+        "A": "Yes",
+        "B": "No, axial tilt combined with revolution causes seasons",
+        "C": "Yes, along with revolution",
+        "D": "Yes, but only in the Northern Hemisphere",
+        "E": "No, only revolution causes seasons"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Earth's axial tilt combined with its revolution around the Sun causes the seasons; rotation causes the daily cycle of day and night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q029",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's rotation cause the annual change in the Sun's overhead position?",
+      "options": {
+        "A": "Yes",
+        "B": "No, the annual north-south shift is caused by Earth's axial tilt as Earth revolves around the Sun",
+        "C": "Yes, along with revolution",
+        "D": "Yes, but only at the Equator",
+        "E": "No, it is caused by perihelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The annual north-south shift in the Sun's apparent overhead position is caused by Earth's axial tilt as Earth revolves around the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q030",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Coriolis effect?",
+      "options": {
+        "A": "The apparent deflection of moving objects when their motion is observed in a rotating reference frame such as Earth",
+        "B": "The bending of light in the atmosphere",
+        "C": "The change in Earth's rotation speed",
+        "D": "The gravitational pull of the Moon",
+        "E": "The change in seasons"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis effect is the apparent deflection of moving objects, including air and water, when their motion is observed in a rotating reference frame such as Earth.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q031",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the Coriolis effect produced on Earth?",
+      "options": {
+        "A": "Because Earth rotates and different latitudes have different eastward linear velocities",
+        "B": "Because Earth revolves around the Sun",
+        "C": "Because of Earth's axial tilt",
+        "D": "Because of the Moon's gravity",
+        "E": "Because of atmospheric pressure"
+      },
+      "correctAnswer": "A",
+      "explanation": "It arises because Earth rotates and different latitudes have different eastward linear velocities; moving air and water retain momentum as they move across latitudes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q032",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Coriolis effect named after?",
+      "options": {
+        "A": "Gaspard-Gustave de Coriolis",
+        "B": "Isaac Newton",
+        "C": "Galileo Galilei",
+        "D": "Johannes Kepler",
+        "E": "Nicolaus Copernicus"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is named after the French mathematician and engineer Gaspard-Gustave de Coriolis, who described the effect mathematically in 1835.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q033",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which direction are moving objects deflected in the Northern Hemisphere by the Coriolis effect?",
+      "options": {
+        "A": "To the right of their direction of motion",
+        "B": "To the left of their direction of motion",
+        "C": "Upwards",
+        "D": "Downwards",
+        "E": "No deflection"
+      },
+      "correctAnswer": "A",
+      "explanation": "They are deflected to the right of their direction of motion in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q034",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which direction are moving objects deflected in the Southern Hemisphere by the Coriolis effect?",
+      "options": {
+        "A": "To the right",
+        "B": "To the left",
+        "C": "Upwards",
+        "D": "Downwards",
+        "E": "No deflection"
+      },
+      "correctAnswer": "B",
+      "explanation": "They are deflected to the left of their direction of motion in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q035",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "At which latitude is the horizontal Coriolis effect zero?",
+      "options": {
+        "A": "At the Equator",
+        "B": "At the Tropic of Cancer",
+        "C": "At the poles",
+        "D": "At 45° latitude",
+        "E": "At the Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The horizontal Coriolis effect is zero at the Equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q036",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the Coriolis effect strongest for horizontal motion?",
+      "options": {
+        "A": "At the poles",
+        "B": "At the Equator",
+        "C": "At the Tropics",
+        "D": "At 45° latitude",
+        "E": "At the Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "For horizontal motion, the Coriolis effect is strongest at the poles and zero at the Equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q037",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does the Coriolis effect influence winds?",
+      "options": {
+        "A": "It deflects large-scale moving air, helping shape prevailing winds, global atmospheric circulation and the rotation of weather systems",
+        "B": "It has no effect on winds",
+        "C": "It causes winds to blow straight from pole to equator",
+        "D": "It only affects ocean currents",
+        "E": "It causes the seasons"
+      },
+      "correctAnswer": "A",
+      "explanation": "It deflects large-scale moving air, helping shape prevailing winds, global atmospheric circulation and the rotation of weather systems.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q038",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does the Coriolis effect influence ocean currents?",
+      "options": {
+        "A": "It deflects large-scale ocean currents and helps determine their directions and circulation patterns",
+        "B": "It has no effect on ocean currents",
+        "C": "It causes tides",
+        "D": "It only affects winds",
+        "E": "It causes El Niño"
+      },
+      "correctAnswer": "A",
+      "explanation": "It deflects large-scale ocean currents and helps determine their directions and circulation patterns, together with winds, pressure gradients, coastlines and other factors.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q039",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do large low-pressure cyclones rotate in the Northern Hemisphere?",
+      "options": {
+        "A": "Counterclockwise",
+        "B": "Clockwise",
+        "C": "They do not rotate",
+        "D": "North to south",
+        "E": "East to west"
+      },
+      "correctAnswer": "A",
+      "explanation": "Large low-pressure cyclones generally rotate counterclockwise in the Northern Hemisphere because of the pressure-gradient force combined with the Coriolis effect and friction.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q040",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do large low-pressure cyclones rotate in the Southern Hemisphere?",
+      "options": {
+        "A": "Counterclockwise",
+        "B": "Clockwise",
+        "C": "They do not rotate",
+        "D": "South to north",
+        "E": "West to east"
+      },
+      "correctAnswer": "B",
+      "explanation": "Large low-pressure cyclones generally rotate clockwise in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q041",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why do tropical cyclones rarely form very close to the Equator?",
+      "options": {
+        "A": "The Coriolis effect is too weak near the Equator to provide the necessary initial rotation",
+        "B": "The temperature is too high",
+        "C": "The ocean is too salty",
+        "D": "The winds are too strong",
+        "E": "There is no moisture"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis effect is too weak near the Equator to provide the necessary initial rotation for typical tropical cyclone development.",
+      "source": "Movements_of_Earth.pdf"
+    },
+        {
+      "id": "Q043",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Coriolis effect determine the direction water drains from an ordinary household sink?",
+      "options": {
+        "A": "Yes, always counterclockwise in the Northern Hemisphere",
+        "B": "Yes, always clockwise in the Southern Hemisphere",
+        "C": "No, at household scale basin shape, water motion, plumbing and other local conditions dominate; the Coriolis effect is far too weak to reliably determine the direction",
+        "D": "Yes, but only in the Southern Hemisphere",
+        "E": "Yes, but only at the Equator"
+      },
+      "correctAnswer": "C",
+      "explanation": "At household scale, basin shape, water motion, plumbing and other local conditions dominate; the Coriolis effect is far too weak to reliably determine the direction.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q044",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the Coriolis force a real force in an inertial reference frame?",
+      "options": {
+        "A": "Yes, it is a fundamental force",
+        "B": "No, it is a fictitious or apparent force introduced when motion is described from a rotating reference frame",
+        "C": "Yes, it is a gravitational force",
+        "D": "Yes, it is an electromagnetic force",
+        "E": "No, it does not exist at all"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Coriolis force is a fictitious or apparent force introduced when motion is described from a rotating reference frame; it is useful in equations for motion relative to Earth.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q045",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the formula for the magnitude of the horizontal Coriolis parameter?",
+      "options": {
+        "A": "f = 2Ω sin φ",
+        "B": "f = Ω cos φ",
+        "C": "f = 2Ω cos φ",
+        "D": "f = Ω sin φ",
+        "E": "f = 2Ω tan φ"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis parameter is f = 2Ω sin φ, where Ω is Earth's angular rotation rate and φ is latitude; it is zero at the Equator and has maximum magnitude at the poles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q046",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the shape of Earth's orbit around the Sun?",
+      "options": {
+        "A": "A perfect circle",
+        "B": "A slightly elliptical orbit with the Sun at one focus",
+        "C": "A parabola",
+        "D": "A hyperbola",
+        "E": "A straight line"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth follows a slightly elliptical orbit around the Sun, with the Sun located at one focus of the ellipse.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q047",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which direction does Earth revolve around the Sun when viewed from above the North Pole?",
+      "options": {
+        "A": "Clockwise",
+        "B": "Counterclockwise",
+        "C": "North to south",
+        "D": "South to north",
+        "E": "East to west"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth revolves around the Sun in a counterclockwise direction when viewed from above the North Pole.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q048",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How long does Earth take to complete one sidereal revolution around the Sun?",
+      "options": {
+        "A": "365 days",
+        "B": "365 days, 6 hours, 9 minutes and 10 seconds",
+        "C": "365 days, 5 hours, 48 minutes and 45 seconds",
+        "D": "366 days",
+        "E": "365 days and 6 hours"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth takes approximately 365 days, 6 hours, 9 minutes and 10 seconds to complete one sidereal revolution around the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q049",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a tropical year?",
+      "options": {
+        "A": "The time between successive passages of the Sun across the Equator",
+        "B": "The average interval between successive occurrences of the same seasonal reference point, such as the March equinox",
+        "C": "The time for one sidereal revolution",
+        "D": "The time between perihelion and aphelion",
+        "E": "The time for one rotation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A tropical year is the average interval between successive occurrences of the same seasonal reference point, such as the March equinox; it is approximately 365 days, 5 hours, 48 minutes and 45 seconds.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q050",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the average orbital speed of Earth around the Sun?",
+      "options": {
+        "A": "Approximately 29.8 km/s",
+        "B": "Approximately 1,670 km/h",
+        "C": "Approximately 465 m/s",
+        "D": "Approximately 107 km/s",
+        "E": "Approximately 300,000 km/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's average orbital speed is approximately 29.8 kilometres per second, or about 107,000 kilometres per hour.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q051",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's orbital speed remain constant throughout the year?",
+      "options": {
+        "A": "Yes, it is constant",
+        "B": "No, it increases as Earth approaches the Sun and decreases as it moves farther away",
+        "C": "No, it is random",
+        "D": "Yes, except during equinoxes",
+        "E": "No, it is faster in July"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's orbital speed increases as it approaches the Sun and decreases as it moves farther away, in accordance with Kepler's second law.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q052",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the plane of Earth's orbit around the Sun called?",
+      "options": {
+        "A": "The ecliptic plane",
+        "B": "The equatorial plane",
+        "C": "The celestial plane",
+        "D": "The orbital axis",
+        "E": "The solstice plane"
+      },
+      "correctAnswer": "A",
+      "explanation": "The plane of Earth's orbit around the Sun is called the ecliptic plane.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q053",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main geographical significance of Earth's revolution?",
+      "options": {
+        "A": "It causes day and night",
+        "B": "Together with the tilt of its axis, it causes the annual cycle of seasons and changes in the length of daylight at different latitudes",
+        "C": "It causes the Coriolis effect",
+        "D": "It causes the equatorial bulge",
+        "E": "It causes leap years"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's revolution, together with the tilt of its axis, causes the annual cycle of seasons and changes in the length of daylight at different latitudes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q054",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's revolution alone cause seasons?",
+      "options": {
+        "A": "Yes",
+        "B": "No, seasons occur because Earth revolves around the Sun while its rotational axis is tilted and maintains nearly the same direction in space",
+        "C": "Yes, along with distance from the Sun",
+        "D": "Yes, but only in the Southern Hemisphere",
+        "E": "No, only rotation causes seasons"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Seasons occur because Earth revolves around the Sun while its rotational axis is tilted and maintains nearly the same direction in space during the annual orbit.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q055",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major effects of Earth's revolution combined with axial tilt?",
+      "options": {
+        "A": "The annual cycle of seasons, changing apparent position of the overhead Sun between the tropics, variation in day and night length, solstices, equinoxes and polar day and polar night",
+        "B": "Only the alternation of day and night",
+        "C": "Only the Coriolis effect",
+        "D": "Only leap years",
+        "E": "Only perihelion and aphelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major effects include the annual cycle of seasons, the changing apparent position of the overhead Sun between the tropics, variation in day and night length, solstices, equinoxes and polar day and polar night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q056",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the apparent position of the overhead Sun shift during the year?",
+      "options": {
+        "A": "Because Earth's axis is tilted, so the Sun's direct rays shift northward and southward between the Tropics",
+        "B": "Because Earth's orbit is circular",
+        "C": "Because Earth's rotation speed changes",
+        "D": "Because the Sun moves around Earth",
+        "E": "Because of the Coriolis effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because Earth's axis is tilted, the Sun's direct rays shift northward and southward between the Tropic of Cancer and the Tropic of Capricorn during the annual revolution.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q057",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the apparent annual movement of the Sun?",
+      "options": {
+        "A": "The apparent north-south movement between approximately 23½° N and 23½° S latitude during the year",
+        "B": "The apparent east-west movement between longitudes",
+        "C": "The apparent daily movement across the sky",
+        "D": "The apparent movement around the celestial poles",
+        "E": "The apparent movement from perihelion to aphelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is the apparent north-south movement of the Sun's overhead position between approximately 23½° N and 23½° S latitude during the year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q058",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the June solstice?",
+      "options": {
+        "A": "Around 20 or 21 June, the Northern Hemisphere is tilted most directly towards the Sun, the Sun is overhead near the Tropic of Cancer, and the Northern Hemisphere has its longest daylight period",
+        "B": "Around 21 or 22 December, the Southern Hemisphere is tilted towards the Sun",
+        "C": "The Sun is directly overhead at the Equator",
+        "D": "Day and night are equal everywhere",
+        "E": "Earth is closest to the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "Around 20 or 21 June, the Northern Hemisphere is tilted most directly towards the Sun, the Sun is overhead near the Tropic of Cancer, and the Northern Hemisphere has its longest daylight period of the year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q059",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the December solstice?",
+      "options": {
+        "A": "Around 20 or 21 June, the Northern Hemisphere is tilted towards the Sun",
+        "B": "Around 21 or 22 December, the Southern Hemisphere is tilted most directly towards the Sun, the Sun is overhead near the Tropic of Capricorn, and the Northern Hemisphere has its shortest daylight period",
+        "C": "The Sun is directly overhead at the Equator",
+        "D": "Day and night are equal everywhere",
+        "E": "Earth is farthest from the Sun"
+      },
+      "correctAnswer": "B",
+      "explanation": "Around 21 or 22 December, the Southern Hemisphere is tilted most directly towards the Sun, the Sun is overhead near the Tropic of Capricorn, and the Northern Hemisphere has its shortest daylight period of the year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q060",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the equinoxes?",
+      "options": {
+        "A": "The Sun is directly overhead at the Equator and day and night are approximately equal in length across much of Earth",
+        "B": "The Sun is directly overhead at the Tropic of Cancer",
+        "C": "The Sun is directly overhead at the Tropic of Capricorn",
+        "D": "Earth is closest to the Sun",
+        "E": "Earth is farthest from the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the equinoxes, the Sun is directly overhead at the Equator and day and night are approximately equal in length across much of Earth.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q061",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are the seasons opposite in the two hemispheres?",
+      "options": {
+        "A": "Because Earth's distance from the Sun changes",
+        "B": "When one hemisphere is tilted towards the Sun and receives more direct sunlight and longer days, the other is tilted away and receives less direct sunlight and shorter days",
+        "C": "Because the Sun moves around Earth",
+        "D": "Because of the Coriolis effect",
+        "E": "Because Earth rotates in opposite directions in the two hemispheres"
+      },
+      "correctAnswer": "B",
+      "explanation": "When the Northern Hemisphere is tilted towards the Sun and receives more direct sunlight and longer days, the Southern Hemisphere is tilted away and receives less direct sunlight and shorter days, and vice versa.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q062",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth become significantly closer to the Sun during summer in the Northern Hemisphere?",
+      "options": {
+        "A": "Yes, significantly closer",
+        "B": "No, Northern Hemisphere summer occurs near aphelion, when Earth is farthest from the Sun; axial tilt is the main cause of seasons",
+        "C": "Yes, but only slightly",
+        "D": "No, Earth is closest during Northern Hemisphere summer",
+        "E": "Yes, this is why summers are hot"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Northern Hemisphere summer occurs near aphelion, when Earth is farthest from the Sun; axial tilt, not Earth-Sun distance, is the main cause of seasons.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q063",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What causes the seasons on Earth?",
+      "options": {
+        "A": "Earth's distance from the Sun",
+        "B": "Earth's axial tilt of about 23.4° together with Earth's revolution around the Sun",
+        "C": "The Coriolis effect",
+        "D": "Changes in Earth's rotation speed",
+        "E": "The Moon's gravity"
+      },
+      "correctAnswer": "B",
+      "explanation": "The seasons are caused primarily by Earth's axial tilt of about 23.4° relative to the perpendicular to its orbital plane, together with Earth's revolution around the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q064",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the angle of Earth's axial tilt?",
+      "options": {
+        "A": "Approximately 23.4° from the perpendicular to the orbital plane",
+        "B": "Approximately 66.6° from the perpendicular to the orbital plane",
+        "C": "Approximately 45° from the perpendicular",
+        "D": "Approximately 0° from the perpendicular",
+        "E": "Approximately 90° from the perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axis is tilted approximately 23.4° from the perpendicular to the plane of its orbit, equivalent to about 66.6° from the orbital plane itself.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q065",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between axial tilt measured from the perpendicular and from the orbital plane?",
+      "options": {
+        "A": "The tilt is about 23.4° from the perpendicular and about 66.6° from the plane of the orbit; these are complementary angles",
+        "B": "Both are 23.4°",
+        "C": "Both are 66.6°",
+        "D": "The tilt is 45° from both",
+        "E": "The tilt is 90° from the perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "The tilt is about 23.4° from the perpendicular to the orbital plane and about 66.6° from the plane of the orbit; these are complementary angles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q066",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why does a hemisphere experience summer when it is tilted towards the Sun?",
+      "options": {
+        "A": "It receives more direct solar rays and generally has longer daylight hours, increasing the amount of solar energy received per day",
+        "B": "It is closer to the Sun",
+        "C": "The Coriolis effect is stronger",
+        "D": "Earth rotates faster",
+        "E": "The Moon reflects more light"
+      },
+      "correctAnswer": "A",
+      "explanation": "It receives more direct solar rays and generally has longer daylight hours, increasing the amount of solar energy received per day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q067",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why does a hemisphere experience winter when it is tilted away from the Sun?",
+      "options": {
+        "A": "It is farther from the Sun",
+        "B": "It receives less direct solar rays and generally has shorter daylight hours, reducing the amount of solar energy received per day",
+        "C": "The Coriolis effect is weaker",
+        "D": "Earth rotates slower",
+        "E": "The Moon blocks sunlight"
+      },
+      "correctAnswer": "B",
+      "explanation": "It receives less direct solar rays and generally has shorter daylight hours, reducing the amount of solar energy received per day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q068",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the four astronomical seasons in the Northern Hemisphere?",
+      "options": {
+        "A": "Spring, summer, autumn (fall) and winter",
+        "B": "Wet, dry, hot and cold",
+        "C": "Spring, monsoon, autumn and winter",
+        "D": "Summer, monsoon, winter and spring",
+        "E": "Equinox, solstice, perihelion and aphelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The four astronomical seasons are spring, summer, autumn (fall) and winter.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q069",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the four astronomical seasons in the Southern Hemisphere?",
+      "options": {
+        "A": "Spring, summer, autumn and winter, but they occur at opposite times of the year compared with the Northern Hemisphere",
+        "B": "Only wet and dry seasons",
+        "C": "The same seasons at the same times as the Northern Hemisphere",
+        "D": "Only summer and winter",
+        "E": "No distinct seasons"
+      },
+      "correctAnswer": "A",
+      "explanation": "The four astronomical seasons are also spring, summer, autumn and winter, but they occur at opposite times of the year compared with the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q070",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does spring begin astronomically in the Northern Hemisphere?",
+      "options": {
+        "A": "At the March or vernal equinox, usually around 20 March",
+        "B": "At the June solstice, usually around 21 June",
+        "C": "At the September equinox, usually around 22 September",
+        "D": "At the December solstice, usually around 21 December",
+        "E": "In early January"
+      },
+      "correctAnswer": "A",
+      "explanation": "Northern Hemisphere spring begins at the March or vernal equinox, usually around 20 March.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q071",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does summer begin astronomically in the Northern Hemisphere?",
+      "options": {
+        "A": "At the March equinox",
+        "B": "At the June or summer solstice, usually around 20 or 21 June",
+        "C": "At the September equinox",
+        "D": "At the December solstice",
+        "E": "In early July"
+      },
+      "correctAnswer": "B",
+      "explanation": "Northern Hemisphere summer begins at the June or summer solstice, usually around 20 or 21 June.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q072",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does autumn begin astronomically in the Northern Hemisphere?",
+      "options": {
+        "A": "At the March equinox",
+        "B": "At the June solstice",
+        "C": "At the September or autumnal equinox, usually around 22 or 23 September",
+        "D": "At the December solstice",
+        "E": "In early October"
+      },
+      "correctAnswer": "C",
+      "explanation": "Northern Hemisphere autumn begins at the September or autumnal equinox, usually around 22 or 23 September.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q073",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does winter begin astronomically in the Northern Hemisphere?",
+      "options": {
+        "A": "At the March equinox",
+        "B": "At the June solstice",
+        "C": "At the September equinox",
+        "D": "At the December or winter solstice, usually around 21 or 22 December",
+        "E": "In early January"
+      },
+      "correctAnswer": "D",
+      "explanation": "Northern Hemisphere winter begins at the December or winter solstice, usually around 21 or 22 December.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q074",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When does summer occur in the Southern Hemisphere?",
+      "options": {
+        "A": "Approximately from the December solstice to the March equinox",
+        "B": "Approximately from the June solstice to the September equinox",
+        "C": "Approximately from the March equinox to the June solstice",
+        "D": "Approximately from the September equinox to the December solstice",
+        "E": "In early July"
+      },
+      "correctAnswer": "A",
+      "explanation": "Southern Hemisphere summer occurs approximately from the December solstice to the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q075",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When does winter occur in the Southern Hemisphere?",
+      "options": {
+        "A": "Approximately from the December solstice to the March equinox",
+        "B": "Approximately from the June solstice to the September equinox",
+        "C": "Approximately from the March equinox to the June solstice",
+        "D": "Approximately from the September equinox to the December solstice",
+        "E": "In early January"
+      },
+      "correctAnswer": "B",
+      "explanation": "Southern Hemisphere winter occurs approximately from the June solstice to the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q076",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Do all parts of Earth experience four sharply defined seasons?",
+      "options": {
+        "A": "Yes, everywhere",
+        "B": "No, the four-season model is most applicable to temperate regions; tropical regions often describe wet and dry seasons, while polar regions have extreme seasonal daylight changes",
+        "C": "Yes, except at the Equator",
+        "D": "Yes, except at the poles",
+        "E": "No, only the Northern Hemisphere has seasons"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The four-season model is most applicable to temperate regions; tropical regions often describe wet and dry seasons, while polar regions have extreme seasonal daylight changes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q077",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a solstice?",
+      "options": {
+        "A": "One of the two annual moments when the Sun reaches its greatest apparent angular distance north or south of the celestial equator, producing the longest or shortest daylight period for a hemisphere",
+        "B": "When the Sun crosses the celestial equator",
+        "C": "When Earth is closest to the Sun",
+        "D": "When Earth is farthest from the Sun",
+        "E": "When day and night are equal everywhere"
+      },
+      "correctAnswer": "A",
+      "explanation": "A solstice is one of the two annual moments when the Sun reaches its greatest apparent angular distance north or south of the celestial equator, producing the longest or shortest daylight period for a hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q078",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many solstices occur in a year?",
+      "options": {
+        "A": "One",
+        "B": "Two (June solstice and December solstice)",
+        "C": "Three",
+        "D": "Four",
+        "E": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two solstices occur each year: the June solstice and the December solstice.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q079",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the summer solstice in the Northern Hemisphere?",
+      "options": {
+        "A": "The June solstice, usually around 20 or 21 June, when the Northern Hemisphere is tilted most towards the Sun and experiences its longest day and shortest night",
+        "B": "The December solstice",
+        "C": "The March equinox",
+        "D": "The September equinox",
+        "E": "The day of perihelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The summer solstice is the June solstice, usually around 20 or 21 June, when the Northern Hemisphere is tilted most towards the Sun and experiences its longest day and shortest night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q080",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the winter solstice in the Northern Hemisphere?",
+      "options": {
+        "A": "The June solstice",
+        "B": "The December solstice, usually around 21 or 22 December, when the Northern Hemisphere is tilted most away from the Sun and experiences its shortest day and longest night",
+        "C": "The March equinox",
+        "D": "The September equinox",
+        "E": "The day of aphelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The winter solstice is the December solstice, usually around 21 or 22 December, when the Northern Hemisphere is tilted most away from the Sun and experiences its shortest day and longest night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+        {
+      "id": "Q082",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "On which latitude is the Sun directly overhead at noon on the December solstice?",
+      "options": {
+        "A": "The Equator",
+        "B": "The Tropic of Cancer, approximately 23½° N",
+        "C": "The Tropic of Capricorn, approximately 23½° S",
+        "D": "The Arctic Circle",
+        "E": "The Antarctic Circle"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Sun is directly overhead at the Tropic of Capricorn, approximately 23½° S at the December solstice.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q083",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which hemisphere experiences its longest day at the June solstice?",
+      "options": {
+        "A": "The Northern Hemisphere, while the Southern Hemisphere experiences its shortest day",
+        "B": "The Southern Hemisphere, while the Northern Hemisphere experiences its shortest day",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Northern Hemisphere experiences its longest day at the June solstice, while the Southern Hemisphere experiences its shortest day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q084",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which hemisphere experiences its longest day at the December solstice?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere, while the Northern Hemisphere experiences its shortest day",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Southern Hemisphere experiences its longest day at the December solstice, while the Northern Hemisphere experiences its shortest day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q085",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the solstice always occur on the same calendar date and at the same time?",
+      "options": {
+        "A": "Yes, always on 21 June and 21 December",
+        "B": "No, the exact date and time vary slightly from year to year because of the calendar system, leap years and orbital variations",
+        "C": "Yes, always at noon",
+        "D": "No, it occurs only every four years",
+        "E": "Yes, always on 20 March and 22 September"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The exact date and time vary slightly from year to year because of the calendar system, leap years and orbital variations.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q086",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the origin of the word solstice?",
+      "options": {
+        "A": "From Latin roots meaning 'Sun' and 'standing still', referring to the apparent pause in the Sun's north-south movement",
+        "B": "From Greek meaning 'equal night'",
+        "C": "From Latin meaning 'close to Earth'",
+        "D": "From Arabic meaning 'turning point'",
+        "E": "From Sanskrit meaning 'midday'"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word solstice comes from Latin roots meaning 'Sun' and 'standing still', referring to the apparent pause in the Sun's north-south movement at the solstices.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q087",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an equinox?",
+      "options": {
+        "A": "One of the two annual moments when the Sun crosses the celestial equator, so the Sun is directly overhead at the Earth's Equator and day and night are approximately equal in length",
+        "B": "When the Sun reaches its greatest distance from the celestial equator",
+        "C": "When Earth is closest to the Sun",
+        "D": "When Earth is farthest from the Sun",
+        "E": "When the poles are tilted most towards the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "An equinox is one of the two annual moments when the Sun crosses the celestial equator, so the Sun is directly overhead at the Earth's Equator and day and night are approximately equal in length.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q088",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many equinoxes occur in a year?",
+      "options": {
+        "A": "One",
+        "B": "Two (March equinox and September equinox)",
+        "C": "Three",
+        "D": "Four",
+        "E": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two equinoxes occur each year: the March equinox and the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q089",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the vernal equinox in the Northern Hemisphere?",
+      "options": {
+        "A": "The March equinox, usually around 20 March, when the Sun crosses the celestial equator moving northward and spring begins astronomically",
+        "B": "The September equinox",
+        "C": "The June solstice",
+        "D": "The December solstice",
+        "E": "The day of perihelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The vernal or spring equinox is the March equinox, usually around 20 March, when the Sun crosses the celestial equator moving northward and spring begins astronomically in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q090",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the autumnal equinox in the Northern Hemisphere?",
+      "options": {
+        "A": "The March equinox",
+        "B": "The September equinox, usually around 22 or 23 September, when the Sun crosses the celestial equator moving southward and autumn begins astronomically",
+        "C": "The June solstice",
+        "D": "The December solstice",
+        "E": "The day of aphelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The autumnal equinox is the September equinox, usually around 22 or 23 September, when the Sun crosses the celestial equator moving southward and autumn begins astronomically in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q091",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "On which latitude is the Sun directly overhead at an equinox?",
+      "options": {
+        "A": "The Tropic of Cancer",
+        "B": "The Tropic of Capricorn",
+        "C": "The Equator",
+        "D": "The Arctic Circle",
+        "E": "The Antarctic Circle"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Sun is directly overhead at the Equator at the March and September equinoxes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q092",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are day and night exactly 12 hours everywhere on an equinox?",
+      "options": {
+        "A": "Yes, exactly 12 hours everywhere",
+        "B": "Not exactly; atmospheric refraction and the apparent size of the Sun make daylight slightly longer than darkness at many locations",
+        "C": "No, day is always longer than night",
+        "D": "No, night is always longer than day",
+        "E": "Yes, except at the poles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not exactly. Day and night are approximately equal, but atmospheric refraction and the apparent size of the Sun make daylight slightly longer than darkness at many locations; local conditions and latitude also matter.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q093",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the meaning of the term vernal?",
+      "options": {
+        "A": "Relating to spring",
+        "B": "Relating to autumn",
+        "C": "Relating to winter",
+        "D": "Relating to summer",
+        "E": "Relating to the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vernal means relating to spring.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q094",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the meaning of the term autumnal?",
+      "options": {
+        "A": "Relating to spring",
+        "B": "Relating to autumn or fall",
+        "C": "Relating to winter",
+        "D": "Relating to summer",
+        "E": "Relating to the poles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Autumnal means relating to autumn or fall.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q095",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which hemisphere experiences spring at the March equinox?",
+      "options": {
+        "A": "The Northern Hemisphere experiences spring, while the Southern Hemisphere experiences autumn",
+        "B": "The Southern Hemisphere experiences spring, while the Northern Hemisphere experiences autumn",
+        "C": "Both experience spring",
+        "D": "Both experience autumn",
+        "E": "Neither experiences spring"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Northern Hemisphere experiences spring, while the Southern Hemisphere experiences autumn at the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q096",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which hemisphere experiences spring at the September equinox?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere experiences spring, while the Northern Hemisphere experiences autumn",
+        "C": "Both experience spring",
+        "D": "Both experience autumn",
+        "E": "Neither experiences spring"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Southern Hemisphere experiences spring, while the Northern Hemisphere experiences autumn at the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q097",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is perihelion?",
+      "options": {
+        "A": "The point in Earth's orbit at which Earth is closest to the Sun",
+        "B": "The point in Earth's orbit at which Earth is farthest from the Sun",
+        "C": "The point where the Sun crosses the celestial equator",
+        "D": "The point where Earth's axis is most tilted",
+        "E": "The point where day and night are equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perihelion is the point in Earth's orbit at which Earth is closest to the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q098",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does Earth generally reach perihelion?",
+      "options": {
+        "A": "Early January, usually around 3 or 4 January",
+        "B": "Early July, usually around 4 or 5 July",
+        "C": "Around 20 March",
+        "D": "Around 22 September",
+        "E": "Around 21 June"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth generally reaches perihelion in early January, usually around 3 or 4 January; the exact date and time vary from year to year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q099",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's approximate distance from the Sun at perihelion?",
+      "options": {
+        "A": "147.1 million km",
+        "B": "152.1 million km",
+        "C": "149.6 million km",
+        "D": "150 million km",
+        "E": "145 million km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's centre is approximately 147.1 million kilometres from the Sun at perihelion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q100",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is aphelion?",
+      "options": {
+        "A": "The point in Earth's orbit at which Earth is closest to the Sun",
+        "B": "The point in Earth's orbit at which Earth is farthest from the Sun",
+        "C": "The point where the Sun crosses the celestial equator",
+        "D": "The point where Earth's axis is most tilted",
+        "E": "The point where day and night are equal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aphelion is the point in Earth's orbit at which Earth is farthest from the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q101",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does Earth generally reach aphelion?",
+      "options": {
+        "A": "Early January",
+        "B": "Early July, usually around 4 or 5 July",
+        "C": "Around 20 March",
+        "D": "Around 22 September",
+        "E": "Around 21 December"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth generally reaches aphelion in early July, usually around 4 or 5 July; the exact date and time vary from year to year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q102",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's approximate distance from the Sun at aphelion?",
+      "options": {
+        "A": "147.1 million km",
+        "B": "152.1 million km",
+        "C": "149.6 million km",
+        "D": "150 million km",
+        "E": "155 million km"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's centre is approximately 152.1 million kilometres from the Sun at aphelion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q103",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is greater, Earth's distance from the Sun at perihelion or aphelion?",
+      "options": {
+        "A": "Distance at perihelion",
+        "B": "Distance at aphelion",
+        "C": "They are equal",
+        "D": "Distance at perihelion is greater in summer",
+        "E": "Distance at aphelion is greater in winter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's distance from the Sun is greater at aphelion than at perihelion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q104",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does perihelion cause summer in the Northern Hemisphere?",
+      "options": {
+        "A": "Yes",
+        "B": "No, perihelion occurs in early January, during Northern Hemisphere winter; seasons are caused mainly by axial tilt",
+        "C": "Yes, but only slightly",
+        "D": "No, perihelion occurs in July",
+        "E": "Yes, this is why winters are mild"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Perihelion occurs in early January, during Northern Hemisphere winter; seasons are caused mainly by axial tilt.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q105",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does aphelion cause winter in the Northern Hemisphere?",
+      "options": {
+        "A": "Yes",
+        "B": "No, aphelion occurs in early July, during Northern Hemisphere summer; seasons are caused mainly by axial tilt",
+        "C": "Yes, but only slightly",
+        "D": "No, aphelion occurs in January",
+        "E": "Yes, this is why summers are cool"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Aphelion occurs in early July, during Northern Hemisphere summer; seasons are caused mainly by axial tilt.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q106",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the difference in seasons between hemispheres not caused mainly by Earth-Sun distance?",
+      "options": {
+        "A": "Because both hemispheres are almost equally distant from the Sun at the same time; the opposite seasons result from the different directions in which the hemispheres are tilted",
+        "B": "Because Earth's distance from the Sun does not change",
+        "C": "Because the Sun's output varies",
+        "D": "Because the Moon affects seasons",
+        "E": "Because Earth's rotation speed changes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both hemispheres are almost equally distant from the Sun at the same time; the opposite seasons result from the different directions in which the hemispheres are tilted.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q107",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between perihelion and aphelion?",
+      "options": {
+        "A": "They are the two apsides of Earth's orbit: the closest and farthest points from the Sun, respectively",
+        "B": "They are the same point",
+        "C": "They are the two equinoxes",
+        "D": "They are the two solstices",
+        "E": "They are the two tropics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perihelion and aphelion are the two apsides of Earth's orbit: the closest and farthest points from the Sun, respectively.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q108",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Earth's axial tilt?",
+      "options": {
+        "A": "The angle between its rotational axis and a line perpendicular to the plane of its orbit; approximately 23.4°",
+        "B": "The angle between its rotational axis and the plane of its orbit; approximately 23.4°",
+        "C": "The angle between the equator and the ecliptic; approximately 66.6°",
+        "D": "The angle between the magnetic axis and the geographic axis",
+        "E": "The angle between Earth's orbit and the Sun's equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axial tilt, or obliquity, is the angle between its rotational axis and a line perpendicular to the plane of its orbit; its present value is approximately 23.4°.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q109",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the approximate angle between Earth's axis and the plane of its orbit?",
+      "options": {
+        "A": "23.4°",
+        "B": "66.6°",
+        "C": "45°",
+        "D": "90°",
+        "E": "0°"
+      },
+      "correctAnswer": "B",
+      "explanation": "The angle is approximately 66.6° because the axial tilt of about 23.4° is measured from the perpendicular to the orbital plane.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q110",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is another name for Earth's axial tilt?",
+      "options": {
+        "A": "Obliquity",
+        "B": "Eccentricity",
+        "C": "Precession",
+        "D": "Nutation",
+        "E": "Inclination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axial tilt is also called obliquity.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q111",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What would happen to the seasons if Earth's axis had no tilt?",
+      "options": {
+        "A": "There would be no major annual seasonal shift in solar angle and daylight length caused by axial tilt; the present strong seasonal contrasts would be greatly reduced",
+        "B": "Seasons would be more extreme",
+        "C": "There would be no day and night",
+        "D": "The Equator would be permanently dark",
+        "E": "There would be permanent winter everywhere"
+      },
+      "correctAnswer": "A",
+      "explanation": "If Earth's axis were perpendicular to its orbital plane, there would be no major annual seasonal shift in solar angle and daylight length caused by axial tilt; the present strong seasonal contrasts would be greatly reduced.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q112",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's axial tilt remain perfectly constant?",
+      "options": {
+        "A": "Yes, it never changes",
+        "B": "No, Earth's obliquity varies slowly over a cycle of roughly 41,000 years, between about 22.1° and 24.5°",
+        "C": "No, it changes every year",
+        "D": "Yes, except during ice ages",
+        "E": "No, it changes every 100 years"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Earth's obliquity varies slowly over a cycle of roughly 41,000 years, between about 22.1° and 24.5°.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q113",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Milankovitch cycles?",
+      "options": {
+        "A": "Long-term variations in Earth's orbital eccentricity, axial tilt and precession that change the distribution of solar energy received by Earth and influence long-term climate patterns, including glacial cycles",
+        "B": "Short-term changes in Earth's rotation speed",
+        "C": "The daily cycle of day and night",
+        "D": "The annual cycle of seasons",
+        "E": "The cycle of solar flares"
+      },
+      "correctAnswer": "A",
+      "explanation": "Milankovitch cycles are long-term variations in Earth's orbital eccentricity, axial tilt and precession that change the distribution of solar energy received by Earth and influence long-term climate patterns, including glacial cycles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q114",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is axial precession?",
+      "options": {
+        "A": "The slow change in the direction of Earth's rotational axis, tracing a cone-like motion over a period of roughly 26,000 years",
+        "B": "The change in Earth's orbital shape",
+        "C": "The daily rotation of Earth",
+        "D": "The annual revolution of Earth",
+        "E": "The change in Earth's rotation speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Axial precession is the slow change in the direction of Earth's rotational axis, tracing a cone-like motion over a period of roughly 26,000 years.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q115",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is nutation?",
+      "options": {
+        "A": "A small periodic wobble in the orientation of Earth's rotational axis, superimposed on the longer-term precession",
+        "B": "The change in Earth's orbital eccentricity",
+        "C": "The daily rotation of Earth",
+        "D": "The annual revolution of Earth",
+        "E": "The change in Earth's rotation speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nutation is a small periodic wobble in the orientation of Earth's rotational axis, superimposed on the longer-term precession.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q116",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a leap year?",
+      "options": {
+        "A": "A calendar year containing 366 days instead of the common 365 days, with an extra day added to February as 29 February",
+        "B": "A year with 365 days",
+        "C": "A year with 364 days",
+        "D": "A year with two extra days",
+        "E": "A year with no February"
+      },
+      "correctAnswer": "A",
+      "explanation": "A leap year is a calendar year containing 366 days instead of the common 365 days, with an extra day added to February as 29 February.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q117",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is a leap year needed?",
+      "options": {
+        "A": "A leap year keeps the calendar aligned with Earth's revolution around the Sun because the tropical year is about 365.2422 days, not exactly 365 days",
+        "B": "Because Earth's rotation slows down",
+        "C": "Because the Moon's orbit changes",
+        "D": "Because of axial tilt",
+        "E": "Because of the Coriolis effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "A leap year keeps the calendar aligned with Earth's revolution around the Sun because the tropical year is about 365.2422 days, not exactly 365 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q118",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many days are there in a common year?",
+      "options": {
+        "A": "365",
+        "B": "366",
+        "C": "364",
+        "D": "367",
+        "E": "360"
+      },
+      "correctAnswer": "A",
+      "explanation": "A common year has 365 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q119",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many days are there in a leap year?",
+      "options": {
+        "A": "365",
+        "B": "366",
+        "C": "364",
+        "D": "367",
+        "E": "360"
+      },
+      "correctAnswer": "B",
+      "explanation": "A leap year has 366 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q120",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Gregorian calendar rule for identifying a leap year?",
+      "options": {
+        "A": "A year divisible by 4 is generally a leap year, except that a century year must also be divisible by 400 to be a leap year",
+        "B": "Any year divisible by 4 is a leap year",
+        "C": "Any year divisible by 100 is a leap year",
+        "D": "Any year divisible by 400 is a leap year",
+        "E": "Any odd year is a leap year"
+      },
+      "correctAnswer": "A",
+      "explanation": "A year divisible by 4 is generally a leap year, except that a century year must also be divisible by 400 to be a leap year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q121",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the year 2024 a leap year?",
+      "options": {
+        "A": "Yes, 2024 is divisible by 4 and is a leap year",
+        "B": "No, 2024 is not divisible by 4",
+        "C": "Yes, because it is divisible by 100",
+        "D": "No, because it is a century year",
+        "E": "No, because it is divisible by 400"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yes. 2024 is divisible by 4 and is a leap year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+        {
+      "id": "Q123",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the year 2000 a leap year under the Gregorian calendar?",
+      "options": {
+        "A": "Yes, the year 2000 is divisible by 400 and is therefore a leap year",
+        "B": "No, because it is a century year",
+        "C": "No, because it is not divisible by 4",
+        "D": "Yes, because it is divisible by 100 only",
+        "E": "No, because it is an even year"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yes. The year 2000 is divisible by 400 and is therefore a leap year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q124",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is the year 2100 a leap year under the Gregorian calendar?",
+      "options": {
+        "A": "Yes",
+        "B": "No, the year 2100 is a century year and is not divisible by 400",
+        "C": "Yes, because it is divisible by 4",
+        "D": "No, because it is not divisible by 4",
+        "E": "Yes, because it is divisible by 100"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The year 2100 is a century year and is not divisible by 400.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q125",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many leap years are there in a typical 400-year Gregorian calendar cycle?",
+      "options": {
+        "A": "97",
+        "B": "100",
+        "C": "96",
+        "D": "99",
+        "E": "98"
+      },
+      "correctAnswer": "A",
+      "explanation": "There are 97 leap years in a 400-year Gregorian calendar cycle.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q126",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the Gregorian calendar omit three leap days every 400 years compared with adding one every four years?",
+      "options": {
+        "A": "The tropical year is slightly shorter than 365.25 days, so the Gregorian rule omits leap days in most century years to keep the calendar more accurately aligned with the seasons",
+        "B": "Because Earth's rotation is slowing down",
+        "C": "Because the Moon's orbit is changing",
+        "D": "Because of axial precession",
+        "E": "Because of the Coriolis effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "The tropical year is slightly shorter than 365.25 days, so the Gregorian rule omits leap days in most century years to keep the calendar more accurately aligned with the seasons.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q127",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the average length of a Gregorian calendar year?",
+      "options": {
+        "A": "365.2425 days",
+        "B": "365.25 days",
+        "C": "365.2422 days",
+        "D": "365 days",
+        "E": "366 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "The average Gregorian calendar year is 365.2425 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q128",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What determines the length of daylight at a place?",
+      "options": {
+        "A": "Latitude and the time of year, because Earth's axial tilt changes the apparent path of the Sun and the duration for which it remains above the horizon",
+        "B": "Longitude only",
+        "C": "Distance from the Sun only",
+        "D": "The Coriolis effect",
+        "E": "The phase of the Moon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daylight length is determined mainly by latitude and the time of year, because Earth's axial tilt changes the apparent path of the Sun and the duration for which it remains above the horizon.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q129",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "On which date or dates are day and night approximately equal across Earth?",
+      "options": {
+        "A": "At the March and September equinoxes",
+        "B": "At the June and December solstices",
+        "C": "At perihelion and aphelion",
+        "D": "At the Tropics",
+        "E": "At the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Day and night are approximately equal at the March and September equinoxes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q130",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where are day and night approximately 12 hours each throughout the year?",
+      "options": {
+        "A": "Near the Equator",
+        "B": "Near the poles",
+        "C": "At the Tropics",
+        "D": "At the Arctic Circle",
+        "E": "At the Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Near the Equator, day and night remain close to 12 hours each throughout the year, with small variations due to atmospheric refraction and the apparent size of the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q131",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why do day and night lengths vary more strongly at higher latitudes?",
+      "options": {
+        "A": "The effect of Earth's axial tilt on the Sun's daily path becomes more pronounced towards the poles, producing larger seasonal changes in daylight duration",
+        "B": "Because the Coriolis effect is stronger",
+        "C": "Because Earth rotates faster at higher latitudes",
+        "D": "Because the Sun is closer to the poles",
+        "E": "Because of atmospheric refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "The effect of Earth's axial tilt on the Sun's daily path becomes more pronounced towards the poles, producing larger seasonal changes in daylight duration.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q132",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are days longest in the Northern Hemisphere?",
+      "options": {
+        "A": "Around the June solstice",
+        "B": "Around the December solstice",
+        "C": "Around the March equinox",
+        "D": "Around the September equinox",
+        "E": "At perihelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Days are longest around the June solstice in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q133",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are nights longest in the Northern Hemisphere?",
+      "options": {
+        "A": "Around the June solstice",
+        "B": "Around the December solstice",
+        "C": "Around the March equinox",
+        "D": "Around the September equinox",
+        "E": "At aphelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nights are longest around the December solstice in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q134",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are days longest in the Southern Hemisphere?",
+      "options": {
+        "A": "Around the June solstice",
+        "B": "Around the December solstice",
+        "C": "Around the March equinox",
+        "D": "Around the September equinox",
+        "E": "At perihelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Days are longest around the December solstice in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q135",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are nights longest in the Southern Hemisphere?",
+      "options": {
+        "A": "Around the June solstice",
+        "B": "Around the December solstice",
+        "C": "Around the March equinox",
+        "D": "Around the September equinox",
+        "E": "At aphelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nights are longest around the June solstice in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q136",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the longest day not necessarily the hottest day of the year?",
+      "options": {
+        "A": "Land and oceans take time to heat and cool, so seasonal temperature lag means the hottest period often occurs weeks after the summer solstice",
+        "B": "Because Earth is farthest from the Sun at the solstice",
+        "C": "Because of the Coriolis effect",
+        "D": "Because the Sun's output varies",
+        "E": "Because of atmospheric refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Land and oceans take time to heat and cool, so seasonal temperature lag means the hottest period often occurs weeks after the summer solstice.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q137",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is seasonal lag?",
+      "options": {
+        "A": "The delay between the date of maximum or minimum solar input and the date of the highest or lowest average temperature, caused by the thermal inertia of land, oceans and the atmosphere",
+        "B": "The delay in Earth's rotation",
+        "C": "The delay in the Moon's orbit",
+        "D": "The delay in the equinoxes",
+        "E": "The delay in leap years"
+      },
+      "correctAnswer": "A",
+      "explanation": "Seasonal lag is the delay between the date of maximum or minimum solar input and the date of the highest or lowest average temperature, caused by the thermal inertia of land, oceans and the atmosphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q138",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why can the length of daylight differ between two places on the same date?",
+      "options": {
+        "A": "Places at different latitudes have different apparent solar paths and therefore different daylight durations on the same date",
+        "B": "Because of different longitudes",
+        "C": "Because of different altitudes",
+        "D": "Because of the Coriolis effect",
+        "E": "Because of different time zones"
+      },
+      "correctAnswer": "A",
+      "explanation": "Places at different latitudes have different apparent solar paths and therefore different daylight durations on the same date.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q139",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is polar day?",
+      "options": {
+        "A": "A period during which the Sun remains above the horizon for at least 24 consecutive hours in a polar region",
+        "B": "A period during which the Sun remains below the horizon for at least 24 consecutive hours in a polar region",
+        "C": "The day when day and night are equal at the poles",
+        "D": "The day when the Sun is directly overhead at the pole",
+        "E": "The day of the equinox"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polar day is a period during which the Sun remains above the horizon for at least 24 consecutive hours in a polar region.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q140",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the midnight sun?",
+      "options": {
+        "A": "The phenomenon in which the Sun remains visible at local midnight during the polar-day period",
+        "B": "The Sun appearing at midnight only at the Equator",
+        "C": "A solar eclipse at midnight",
+        "D": "The Sun appearing red at midnight",
+        "E": "The Sun disappearing at noon"
+      },
+      "correctAnswer": "A",
+      "explanation": "The midnight sun is the phenomenon in which the Sun remains visible at local midnight during the polar-day period.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q141",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is polar night?",
+      "options": {
+        "A": "A period during which the Sun remains above the horizon for at least 24 consecutive hours in a polar region",
+        "B": "A period during which the Sun remains below the horizon for at least 24 consecutive hours in a polar region",
+        "C": "The night when day and night are equal at the poles",
+        "D": "The night when the Sun is directly overhead at the pole",
+        "E": "The night of the equinox"
+      },
+      "correctAnswer": "B",
+      "explanation": "Polar night is a period during which the Sun remains below the horizon for at least 24 consecutive hours in a polar region.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q142",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where do polar day and polar night occur?",
+      "options": {
+        "A": "Within the Arctic Circle in the Northern Hemisphere and within the Antarctic Circle in the Southern Hemisphere",
+        "B": "Only at the Equator",
+        "C": "Only at the Tropics",
+        "D": "Everywhere on Earth",
+        "E": "Only at mid-latitudes"
+      },
+      "correctAnswer": "A",
+      "explanation": "They occur within the Arctic Circle in the Northern Hemisphere and within the Antarctic Circle in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q143",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why do polar day and polar night occur?",
+      "options": {
+        "A": "Because Earth's axis is tilted; during part of the year a polar region is tilted towards the Sun and remains in daylight, while the opposite polar region is tilted away and remains in darkness",
+        "B": "Because Earth's orbit is elliptical",
+        "C": "Because of the Coriolis effect",
+        "D": "Because of atmospheric refraction",
+        "E": "Because the Moon blocks the Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "They occur because Earth's axis is tilted; during part of the year a polar region is tilted towards the Sun and remains in daylight, while the opposite polar region is tilted away and remains in darkness.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q144",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does the North Pole experience continuous daylight?",
+      "options": {
+        "A": "Roughly six months, from around the March equinox to around the September equinox",
+        "B": "Roughly six months, from around the September equinox to around the March equinox",
+        "C": "Only on the June solstice",
+        "D": "Only on the March equinox",
+        "E": "All year round"
+      },
+      "correctAnswer": "A",
+      "explanation": "The North Pole experiences continuous daylight for roughly six months, from around the March equinox to around the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q145",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does the North Pole experience continuous darkness?",
+      "options": {
+        "A": "Roughly six months, from around the March equinox to around the September equinox",
+        "B": "Roughly six months, from around the September equinox to around the March equinox",
+        "C": "Only on the December solstice",
+        "D": "Only on the September equinox",
+        "E": "All year round"
+      },
+      "correctAnswer": "B",
+      "explanation": "The North Pole experiences continuous darkness for roughly six months, from around the September equinox to around the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q146",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does the South Pole experience continuous daylight?",
+      "options": {
+        "A": "Roughly six months, from around the March equinox to around the September equinox",
+        "B": "Roughly six months, from around the September equinox to around the March equinox",
+        "C": "Only on the June solstice",
+        "D": "Only on the December solstice",
+        "E": "All year round"
+      },
+      "correctAnswer": "B",
+      "explanation": "The South Pole experiences continuous daylight for roughly six months, from around the September equinox to around the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q147",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When does the South Pole experience continuous darkness?",
+      "options": {
+        "A": "Roughly six months, from around the March equinox to around the September equinox",
+        "B": "Roughly six months, from around the September equinox to around the March equinox",
+        "C": "Only on the June solstice",
+        "D": "Only on the December solstice",
+        "E": "All year round"
+      },
+      "correctAnswer": "A",
+      "explanation": "The South Pole experiences continuous darkness for roughly six months, from around the March equinox to around the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q148",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does every place inside the Arctic Circle experience exactly six months of daylight?",
+      "options": {
+        "A": "Yes, everywhere inside the Arctic Circle",
+        "B": "No, the duration of continuous daylight varies with latitude; only at the pole does it approach six months, while locations closer to the Arctic Circle experience much shorter periods",
+        "C": "No, only the North Pole experiences daylight",
+        "D": "Yes, except at the pole",
+        "E": "No, nowhere experiences continuous daylight"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The duration of continuous daylight varies with latitude; only at the pole does it approach six months, while locations closer to the Arctic Circle experience much shorter periods.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q149",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Sun remain equally high in the sky throughout polar day?",
+      "options": {
+        "A": "Yes, it remains at the same altitude",
+        "B": "No, the Sun's altitude changes during the polar day, often circling low above the horizon and reaching its highest daily altitude around the local summer solstice",
+        "C": "No, the Sun is always at the zenith",
+        "D": "Yes, except at the pole",
+        "E": "No, the Sun is always below the horizon"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The Sun's altitude changes during the polar day, often circling low above the horizon and reaching its highest daily altitude around the local summer solstice.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q150",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can polar night mean complete darkness at all times of day?",
+      "options": {
+        "A": "Yes, always completely dark",
+        "B": "Not necessarily; twilight may still illuminate the sky for part of the polar night, especially at locations closer to the polar circles",
+        "C": "No, the Sun is always visible",
+        "D": "Yes, except at the pole",
+        "E": "No, there is always daylight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not necessarily. Twilight may still illuminate the sky for part of the polar night, especially at locations closer to the polar circles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q151",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth rotates from which direction?",
+      "options": {
+        "A": "West to east",
+        "B": "East to west",
+        "C": "North to south",
+        "D": "South to north",
+        "E": "Clockwise from above the North Pole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth rotates from west to east.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q152",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "One mean solar day is approximately how long?",
+      "options": {
+        "A": "24 hours",
+        "B": "23 hours 56 minutes",
+        "C": "25 hours",
+        "D": "23 hours",
+        "E": "24 hours 4 minutes"
+      },
+      "correctAnswer": "A",
+      "explanation": "One mean solar day is approximately 24 hours.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q153",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "One sidereal day is approximately how long?",
+      "options": {
+        "A": "24 hours",
+        "B": "23 hours 56 minutes 4 seconds",
+        "C": "25 hours",
+        "D": "23 hours",
+        "E": "24 hours 4 minutes"
+      },
+      "correctAnswer": "B",
+      "explanation": "One sidereal day is approximately 23 hours, 56 minutes and 4 seconds.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q154",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's angular rotation rate is approximately what?",
+      "options": {
+        "A": "15° per hour",
+        "B": "1° per hour",
+        "C": "30° per hour",
+        "D": "360° per hour",
+        "E": "15° per minute"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's angular rotation rate is approximately 15° per hour.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q155",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's linear rotational speed at the Equator is approximately what?",
+      "options": {
+        "A": "1,670 km per hour",
+        "B": "1,000 km per hour",
+        "C": "465 km per hour",
+        "D": "29.8 km per second",
+        "E": "107,000 km per hour"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's linear rotational speed at the Equator is approximately 1,670 km per hour.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q156",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's average orbital speed is approximately what?",
+      "options": {
+        "A": "29.8 km per second",
+        "B": "1,670 km per hour",
+        "C": "465 m per second",
+        "D": "107 km per second",
+        "E": "300,000 km per second"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's average orbital speed is approximately 29.8 km per second.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q157",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's axial tilt is approximately what?",
+      "options": {
+        "A": "23.4° from the perpendicular to the orbital plane",
+        "B": "66.6° from the perpendicular to the orbital plane",
+        "C": "45° from the perpendicular",
+        "D": "0° from the perpendicular",
+        "E": "90° from the perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axial tilt is approximately 23.4° from the perpendicular to the orbital plane.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q158",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The June solstice occurs around which date?",
+      "options": {
+        "A": "20 or 21 June",
+        "B": "21 or 22 December",
+        "C": "20 March",
+        "D": "22 or 23 September",
+        "E": "3 or 4 January"
+      },
+      "correctAnswer": "A",
+      "explanation": "The June solstice occurs around 20 or 21 June.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q159",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The December solstice occurs around which date?",
+      "options": {
+        "A": "20 or 21 June",
+        "B": "21 or 22 December",
+        "C": "20 March",
+        "D": "22 or 23 September",
+        "E": "4 or 5 July"
+      },
+      "correctAnswer": "B",
+      "explanation": "The December solstice occurs around 21 or 22 December.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q160",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The March or vernal equinox occurs around which date?",
+      "options": {
+        "A": "20 March",
+        "B": "21 June",
+        "C": "22 September",
+        "D": "21 December",
+        "E": "3 January"
+      },
+      "correctAnswer": "A",
+      "explanation": "The March or vernal equinox occurs around 20 March.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q161",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The September or autumnal equinox occurs around which date?",
+      "options": {
+        "A": "20 March",
+        "B": "21 June",
+        "C": "22 or 23 September",
+        "D": "21 December",
+        "E": "4 July"
+      },
+      "correctAnswer": "C",
+      "explanation": "The September or autumnal equinox occurs around 22 or 23 September.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q162",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "At the June solstice, the overhead Sun is at which latitude?",
+      "options": {
+        "A": "The Tropic of Cancer, approximately 23½° N",
+        "B": "The Tropic of Capricorn, approximately 23½° S",
+        "C": "The Equator",
+        "D": "The Arctic Circle",
+        "E": "The Antarctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the June solstice, the overhead Sun is at the Tropic of Cancer, approximately 23½° N.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q163",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "At the December solstice, the overhead Sun is at which latitude?",
+      "options": {
+        "A": "The Tropic of Cancer, approximately 23½° N",
+        "B": "The Tropic of Capricorn, approximately 23½° S",
+        "C": "The Equator",
+        "D": "The Arctic Circle",
+        "E": "The Antarctic Circle"
+      },
+      "correctAnswer": "B",
+      "explanation": "At the December solstice, the overhead Sun is at the Tropic of Capricorn, approximately 23½° S.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q164",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "At the equinoxes, the overhead Sun is at which latitude?",
+      "options": {
+        "A": "The Tropic of Cancer",
+        "B": "The Tropic of Capricorn",
+        "C": "The Equator",
+        "D": "The Arctic Circle",
+        "E": "The Antarctic Circle"
+      },
+      "correctAnswer": "C",
+      "explanation": "At the equinoxes, the overhead Sun is at the Equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+        {
+      "id": "Q166",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth generally reaches perihelion in which month?",
+      "options": {
+        "A": "Early January, around 3 or 4 January",
+        "B": "Early July, around 4 or 5 July",
+        "C": "March",
+        "D": "September",
+        "E": "December"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth generally reaches perihelion in early January, around 3 or 4 January.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q167",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth generally reaches aphelion in which month?",
+      "options": {
+        "A": "Early January",
+        "B": "Early July, around 4 or 5 July",
+        "C": "March",
+        "D": "September",
+        "E": "December"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth generally reaches aphelion in early July, around 4 or 5 July.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q168",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's approximate distance from the Sun at perihelion is what?",
+      "options": {
+        "A": "147.1 million km",
+        "B": "152.1 million km",
+        "C": "149.6 million km",
+        "D": "150 million km",
+        "E": "145 million km"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's approximate distance from the Sun at perihelion is 147.1 million km.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q169",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Earth's approximate distance from the Sun at aphelion is what?",
+      "options": {
+        "A": "147.1 million km",
+        "B": "152.1 million km",
+        "C": "149.6 million km",
+        "D": "150 million km",
+        "E": "155 million km"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth's approximate distance from the Sun at aphelion is 152.1 million km.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q170",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Coriolis effect deflects moving objects to the right in which hemisphere?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only at the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis effect deflects moving objects to the right in the Northern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q171",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Coriolis effect deflects moving objects to the left in which hemisphere?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only at the Equator"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Coriolis effect deflects moving objects to the left in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q172",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Coriolis effect is zero at which location?",
+      "options": {
+        "A": "The Equator",
+        "B": "The poles",
+        "C": "The Tropics",
+        "D": "45° latitude",
+        "E": "The Arctic Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis effect is zero at the Equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q173",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A Gregorian leap year has how many days?",
+      "options": {
+        "A": "366 days",
+        "B": "365 days",
+        "C": "364 days",
+        "D": "367 days",
+        "E": "360 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Gregorian leap year has 366 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q174",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A common Gregorian year has how many days?",
+      "options": {
+        "A": "366 days",
+        "B": "365 days",
+        "C": "364 days",
+        "D": "367 days",
+        "E": "360 days"
+      },
+      "correctAnswer": "B",
+      "explanation": "A common Gregorian year has 365 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q175",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Gregorian century-year rule for a leap year?",
+      "options": {
+        "A": "A century year is a leap year only if it is divisible by 400",
+        "B": "A century year is always a leap year",
+        "C": "A century year is never a leap year",
+        "D": "A century year is a leap year if divisible by 100",
+        "E": "A century year is a leap year if divisible by 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "A century year is a leap year only if it is divisible by 400.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q176",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The North Pole experiences continuous daylight approximately from which period?",
+      "options": {
+        "A": "The March equinox to the September equinox",
+        "B": "The September equinox to the March equinox",
+        "C": "The June solstice to the December solstice",
+        "D": "The December solstice to the June solstice",
+        "E": "All year round"
+      },
+      "correctAnswer": "A",
+      "explanation": "The North Pole experiences continuous daylight approximately from the March equinox to the September equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q177",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The South Pole experiences continuous daylight approximately from which period?",
+      "options": {
+        "A": "The March equinox to the September equinox",
+        "B": "The September equinox to the March equinox",
+        "C": "The June solstice to the December solstice",
+        "D": "The December solstice to the June solstice",
+        "E": "All year round"
+      },
+      "correctAnswer": "B",
+      "explanation": "The South Pole experiences continuous daylight approximately from the September equinox to the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q178",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's rotation cause seasons?",
+      "options": {
+        "A": "Yes",
+        "B": "No, axial tilt combined with revolution causes seasons; rotation causes day and night",
+        "C": "Yes, along with revolution",
+        "D": "Yes, but only in the Northern Hemisphere",
+        "E": "No, only revolution causes seasons"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Axial tilt combined with revolution causes seasons; rotation causes day and night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q179",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does Earth's revolution alone cause seasons?",
+      "options": {
+        "A": "Yes",
+        "B": "No, axial tilt is essential; revolution carries the tilted Earth around the Sun during the year",
+        "C": "Yes, along with distance from the Sun",
+        "D": "Yes, but only in the Southern Hemisphere",
+        "E": "No, only rotation causes seasons"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Axial tilt is essential; revolution carries the tilted Earth around the Sun during the year.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q180",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is Earth closest to the Sun in July?",
+      "options": {
+        "A": "Yes",
+        "B": "No, Earth is generally closest to the Sun in early January at perihelion and farthest in early July at aphelion",
+        "C": "Yes, during Northern Hemisphere summer",
+        "D": "No, Earth is closest in March",
+        "E": "No, Earth is closest in September"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Earth is generally closest to the Sun in early January at perihelion and farthest in early July at aphelion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q181",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Northern Hemisphere have summer at perihelion?",
+      "options": {
+        "A": "Yes",
+        "B": "No, Northern Hemisphere winter occurs near perihelion; Northern Hemisphere summer occurs near aphelion",
+        "C": "Yes, but only slightly",
+        "D": "No, Northern Hemisphere summer occurs at the December solstice",
+        "E": "Yes, this is why summers are hot"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Northern Hemisphere winter occurs near perihelion; Northern Hemisphere summer occurs near aphelion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q182",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the June solstice mark summer in both hemispheres?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it marks summer in the Northern Hemisphere and winter in the Southern Hemisphere",
+        "C": "Yes, but only slightly",
+        "D": "No, it marks winter in both hemispheres",
+        "E": "Yes, along with the December solstice"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It marks summer in the Northern Hemisphere and winter in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q183",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the March equinox mark spring in both hemispheres?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it marks spring in the Northern Hemisphere and autumn in the Southern Hemisphere",
+        "C": "Yes, but only slightly",
+        "D": "No, it marks autumn in both hemispheres",
+        "E": "Yes, along with the September equinox"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It marks spring in the Northern Hemisphere and autumn in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q184",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is a sidereal day exactly 24 hours?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it is about 23 hours, 56 minutes and 4 seconds; the mean solar day is about 24 hours",
+        "C": "Yes, except during leap years",
+        "D": "No, it is about 25 hours",
+        "E": "Yes, at the Equator only"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It is about 23 hours, 56 minutes and 4 seconds; the mean solar day is about 24 hours.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q185",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is Earth's rotational linear speed the same at every latitude?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it is greatest at the Equator and decreases towards zero at the poles",
+        "C": "Yes, except at the poles",
+        "D": "No, it is greatest at the poles",
+        "E": "Yes, at all latitudes except the Tropics"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It is greatest at the Equator and decreases towards zero at the poles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q186",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Coriolis effect deflect motion to the left in the Northern Hemisphere?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it deflects motion to the right in the Northern Hemisphere and to the left in the Southern Hemisphere",
+        "C": "Yes, but only near the Equator",
+        "D": "No, it deflects motion to the right in both hemispheres",
+        "E": "Yes, except at the poles"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It deflects motion to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q187",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the Coriolis effect strongest at the Equator?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it is zero at the Equator and strongest at the poles for horizontal motion",
+        "C": "Yes, except at the poles",
+        "D": "No, it is strongest at the Tropics",
+        "E": "Yes, at all latitudes equally"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It is zero at the Equator and strongest at the poles for horizontal motion.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q188",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are day and night exactly equal at every location on an equinox?",
+      "options": {
+        "A": "Yes",
+        "B": "No, they are approximately equal; refraction and the apparent solar disc affect the observed duration",
+        "C": "Yes, except at the poles",
+        "D": "No, day is always longer",
+        "E": "Yes, at all latitudes except the Tropics"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. They are approximately equal; refraction and the apparent solar disc affect the observed duration.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q189",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is every year divisible by four a leap year?",
+      "options": {
+        "A": "Yes",
+        "B": "No, century years must also be divisible by 400 under the Gregorian calendar",
+        "C": "Yes, except during leap centuries",
+        "D": "No, only years divisible by 100 are leap years",
+        "E": "Yes, at all times"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Century years must also be divisible by 400 under the Gregorian calendar.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q190",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does every place inside a polar circle have six months of daylight?",
+      "options": {
+        "A": "Yes",
+        "B": "No, the duration depends on latitude and approaches six months only near the pole",
+        "C": "Yes, except at the pole",
+        "D": "No, nowhere has six months of daylight",
+        "E": "Yes, at all polar latitudes equally"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The duration depends on latitude and approaches six months only near the pole.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q191",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What causes the equatorial bulge and polar flattening of Earth?",
+      "options": {
+        "A": "Earth's rotation",
+        "B": "Earth's revolution",
+        "C": "Axial tilt",
+        "D": "The Coriolis effect",
+        "E": "Gravitational pull of the Moon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rotation contributes to the equatorial bulge and polar flattening, making Earth an oblate spheroid.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q192",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the shape of Earth due to its rotation called?",
+      "options": {
+        "A": "Oblate spheroid",
+        "B": "Perfect sphere",
+        "C": "Prolate spheroid",
+        "D": "Ellipsoid of revolution",
+        "E": "Geoid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rotation makes Earth an oblate spheroid rather than a perfect sphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q193",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Moving objects travelling long distances across Earth's surface appear deflected relative to the rotating surface. What is this called?",
+      "options": {
+        "A": "The Coriolis effect",
+        "B": "Refraction",
+        "C": "Diffraction",
+        "D": "The Doppler effect",
+        "E": "Precession"
+      },
+      "correctAnswer": "A",
+      "explanation": "This apparent deflection is described by the Coriolis effect.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q194",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the main cause of seasons on Earth?",
+      "options": {
+        "A": "Axial tilt combined with revolution",
+        "B": "Distance from the Sun",
+        "C": "Rotation speed",
+        "D": "The Coriolis effect",
+        "E": "The Moon's orbit"
+      },
+      "correctAnswer": "A",
+      "explanation": "The seasons are caused primarily by Earth's axial tilt together with Earth's revolution around the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q195",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the term for the point where the Sun crosses the celestial equator?",
+      "options": {
+        "A": "Equinox",
+        "B": "Solstice",
+        "C": "Perihelion",
+        "D": "Aphelion",
+        "E": "Zenith"
+      },
+      "correctAnswer": "A",
+      "explanation": "An equinox is the moment when the Sun crosses the celestial equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q196",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the term for the moment when the Sun reaches its greatest apparent angular distance north or south of the celestial equator?",
+      "options": {
+        "A": "Solstice",
+        "B": "Equinox",
+        "C": "Perihelion",
+        "D": "Aphelion",
+        "E": "Zenith"
+      },
+      "correctAnswer": "A",
+      "explanation": "A solstice is the moment when the Sun reaches its greatest apparent angular distance north or south of the celestial equator.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q197",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the present value of Earth's obliquity?",
+      "options": {
+        "A": "Approximately 23.4°",
+        "B": "Approximately 66.6°",
+        "C": "Approximately 45°",
+        "D": "Approximately 0°",
+        "E": "Approximately 90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axial tilt or obliquity is approximately 23.4°.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q198",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Over what cycle does Earth's obliquity vary between about 22.1° and 24.5°?",
+      "options": {
+        "A": "Roughly 41,000 years",
+        "B": "Roughly 26,000 years",
+        "C": "Roughly 100,000 years",
+        "D": "Roughly 1,000 years",
+        "E": "Roughly 400 years"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's obliquity varies slowly over a cycle of roughly 41,000 years, between about 22.1° and 24.5°.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q199",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Over what period does axial precession trace a cone-like motion?",
+      "options": {
+        "A": "Roughly 26,000 years",
+        "B": "Roughly 41,000 years",
+        "C": "Roughly 100,000 years",
+        "D": "Roughly 1,000 years",
+        "E": "Roughly 400 years"
+      },
+      "correctAnswer": "A",
+      "explanation": "Axial precession traces a cone-like motion over a period of roughly 26,000 years.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q200",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the tropical year length that necessitates leap years?",
+      "options": {
+        "A": "About 365.2422 days",
+        "B": "About 365.25 days",
+        "C": "About 365 days",
+        "D": "About 366 days",
+        "E": "About 365.2425 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "The tropical year is about 365.2422 days, not exactly 365 days, which is why leap years are needed.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q201",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the imaginary line passing through the North Pole and South Pole around which Earth rotates called?",
+      "options": {
+        "A": "Earth's axis",
+        "B": "The equator",
+        "C": "The ecliptic",
+        "D": "The orbital plane",
+        "E": "The celestial equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axis is an imaginary line passing through the geographic North Pole and South Pole, around which Earth rotates.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q202",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is another name for the plane of Earth's orbit?",
+      "options": {
+        "A": "The plane of the ecliptic",
+        "B": "The equatorial plane",
+        "C": "The celestial plane",
+        "D": "The solstice plane",
+        "E": "The polar plane"
+      },
+      "correctAnswer": "A",
+      "explanation": "The orbital plane is also called the plane of the ecliptic.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q203",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is longer: a sidereal day or a mean solar day?",
+      "options": {
+        "A": "Mean solar day",
+        "B": "Sidereal day",
+        "C": "Both are equal",
+        "D": "Sidereal day is longer in winter",
+        "E": "Mean solar day is longer only at the poles"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mean solar day (about 24 hours) is longer than a sidereal day (about 23 hours 56 minutes 4 seconds).",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q204",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much does local solar time change for every 15° of longitude due to Earth's rotation?",
+      "options": {
+        "A": "Approximately one hour",
+        "B": "Approximately four minutes",
+        "C": "Approximately 15 minutes",
+        "D": "Approximately two hours",
+        "E": "Approximately 30 minutes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Local solar time changes by approximately one hour for every 15° of longitude.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q205",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Rotation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much does local solar time change for every one degree of longitude due to Earth's rotation?",
+      "options": {
+        "A": "Approximately four minutes",
+        "B": "Approximately one hour",
+        "C": "Approximately 15 minutes",
+        "D": "Approximately two minutes",
+        "E": "Approximately 30 seconds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Local solar time changes by approximately four minutes for every one degree of longitude.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q206",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In the Coriolis parameter formula f = 2Ω sin φ, what does φ represent?",
+      "options": {
+        "A": "Latitude",
+        "B": "Longitude",
+        "C": "Angular velocity",
+        "D": "Time",
+        "E": "Altitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "In f = 2Ω sin φ, φ represents latitude; Ω is Earth's angular rotation rate.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q207",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the value of the Coriolis parameter at the Equator?",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Equal to 2Ω",
+        "D": "Equal to Ω",
+        "E": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis parameter is zero at the Equator because sin 0° = 0.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q208",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to Kepler's second law, how does Earth's orbital speed vary?",
+      "options": {
+        "A": "It increases as Earth approaches the Sun and decreases as it moves farther away",
+        "B": "It remains constant throughout the year",
+        "C": "It is fastest at aphelion",
+        "D": "It is slowest at perihelion",
+        "E": "It varies randomly"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's orbital speed increases as it approaches the Sun and decreases as it moves farther away, in accordance with Kepler's second law.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q209",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Effects of Revolution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What produces the annual cycle of seasons?",
+      "options": {
+        "A": "Earth's revolution together with its axial tilt",
+        "B": "Earth's rotation alone",
+        "C": "The Coriolis effect",
+        "D": "Perihelion and aphelion",
+        "E": "The Moon's orbit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's revolution, together with the tilt of its axis, causes the annual cycle of seasons and changes in the length of daylight at different latitudes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+        {
+      "id": "Q211",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "At which equinox does the Northern Hemisphere experience spring?",
+      "options": {
+        "A": "The March equinox",
+        "B": "The September equinox",
+        "C": "The June solstice",
+        "D": "The December solstice",
+        "E": "At perihelion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Northern Hemisphere experiences spring at the March equinox, while the Southern Hemisphere experiences autumn.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q212",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "At which equinox does the Southern Hemisphere experience spring?",
+      "options": {
+        "A": "The March equinox",
+        "B": "The September equinox",
+        "C": "The June solstice",
+        "D": "The December solstice",
+        "E": "At aphelion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Southern Hemisphere experiences spring at the September equinox, while the Northern Hemisphere experiences autumn.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q213",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere experiences its shortest day at the June solstice?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "B",
+      "explanation": "At the June solstice, the Northern Hemisphere has its longest day while the Southern Hemisphere has its shortest day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q214",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere experiences its shortest day at the December solstice?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the December solstice, the Southern Hemisphere has its longest day while the Northern Hemisphere has its shortest day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q215",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere experiences its longest night at the June solstice?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "B",
+      "explanation": "At the June solstice, the Southern Hemisphere has its shortest day and therefore its longest night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q216",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which hemisphere experiences its longest night at the December solstice?",
+      "options": {
+        "A": "The Northern Hemisphere",
+        "B": "The Southern Hemisphere",
+        "C": "Both hemispheres equally",
+        "D": "Neither hemisphere",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the December solstice, the Northern Hemisphere has its shortest day and therefore its longest night.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q217",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Sun remain at the same altitude throughout the polar day?",
+      "options": {
+        "A": "Yes, it is stationary",
+        "B": "No, the Sun's altitude changes and it often circles low above the horizon, reaching its highest daily altitude around the local summer solstice",
+        "C": "Yes, it is always at the zenith",
+        "D": "No, it is always below the horizon",
+        "E": "Yes, except at the pole"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Sun's altitude changes during the polar day, often circling low above the horizon and reaching its highest daily altitude around the local summer solstice.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q218",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is polar night always completely dark at all times of day?",
+      "options": {
+        "A": "Yes, always",
+        "B": "Not necessarily; twilight may still illuminate the sky for part of the polar night, especially closer to the polar circles",
+        "C": "No, the Sun is always visible",
+        "D": "Yes, except at the pole",
+        "E": "No, there is always daylight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not necessarily. Twilight may still illuminate the sky for part of the polar night, especially at locations closer to the polar circles.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q219",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Perihelion and Aphelion",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which point in Earth's orbit is called an apsis?",
+      "options": {
+        "A": "Both perihelion and aphelion",
+        "B": "Only perihelion",
+        "C": "Only aphelion",
+        "D": "The equinoxes",
+        "E": "The solstices"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perihelion and aphelion are the two apsides of Earth's orbit: the closest and farthest points from the Sun, respectively.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q220",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which month gets the extra day in a leap year?",
+      "options": {
+        "A": "February (29 February)",
+        "B": "January",
+        "C": "March",
+        "D": "December",
+        "E": "June"
+      },
+      "correctAnswer": "A",
+      "explanation": "A leap year has an extra day added to February as 29 February.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q221",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the year 2025 a leap year?",
+      "options": {
+        "A": "Yes",
+        "B": "No, 2025 is not divisible by 4",
+        "C": "Yes, because it is divisible by 400",
+        "D": "No, because it is a century year",
+        "E": "Yes, because it is divisible by 100"
+      },
+      "correctAnswer": "B",
+      "explanation": "2025 is not divisible by 4, so it is a common year with 365 days.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q222",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Near the Equator, approximately how long are day and night throughout the year?",
+      "options": {
+        "A": "Close to 12 hours each",
+        "B": "Close to 6 hours each",
+        "C": "Close to 18 hours each",
+        "D": "Close to 24 hours of daylight",
+        "E": "Highly variable, from 6 to 18 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Near the Equator, day and night remain close to 12 hours each throughout the year, with small variations due to atmospheric refraction and the apparent size of the Sun.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q223",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What causes seasonal lag?",
+      "options": {
+        "A": "The thermal inertia of land, oceans and the atmosphere",
+        "B": "Earth's elliptical orbit",
+        "C": "The Coriolis effect",
+        "D": "Axial precession",
+        "E": "Atmospheric refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Seasonal lag is caused by the thermal inertia of land, oceans and the atmosphere.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q224",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the approximate length of a tropical year?",
+      "options": {
+        "A": "365 days, 5 hours, 48 minutes and 45 seconds",
+        "B": "365 days, 6 hours, 9 minutes and 10 seconds",
+        "C": "365 days exactly",
+        "D": "366 days",
+        "E": "365 days, 6 hours exactly"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tropical year is approximately 365 days, 5 hours, 48 minutes and 45 seconds.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q225",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the difference between a sidereal year and a tropical year?",
+      "options": {
+        "A": "A sidereal year is measured relative to the stars and is about 365 days 6 hours 9 minutes 10 seconds; a tropical year is measured between seasonal reference points and is about 365 days 5 hours 48 minutes 45 seconds",
+        "B": "They are exactly the same",
+        "C": "A sidereal year is shorter than a tropical year",
+        "D": "A tropical year is measured relative to the stars",
+        "E": "A sidereal year is about 366 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sidereal year is the time for one revolution relative to the stars (about 365 days, 6 hours, 9 minutes and 10 seconds); a tropical year is the average interval between successive occurrences of the same seasonal reference point (about 365 days, 5 hours, 48 minutes and 45 seconds).",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q226",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many arcminutes per minute does Earth rotate on average?",
+      "options": {
+        "A": "15 arcminutes per minute",
+        "B": "1 arcminute per minute",
+        "C": "60 arcminutes per minute",
+        "D": "30 arcminutes per minute",
+        "E": "360 arcminutes per minute"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's average angular speed is about 15° per hour, which equals 15 arcminutes per minute.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q227",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Earth's linear rotational speed at the Equator in metres per second?",
+      "options": {
+        "A": "About 465 m/s",
+        "B": "About 1,670 m/s",
+        "C": "About 29.8 m/s",
+        "D": "About 107 m/s",
+        "E": "About 300,000 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "The linear rotational speed at the Equator is approximately 1,670 km/h, or about 465 m/s.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q228",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In which year did Gaspard-Gustave de Coriolis describe the Coriolis effect mathematically?",
+      "options": {
+        "A": "1835",
+        "B": "1687",
+        "C": "1543",
+        "D": "1905",
+        "E": "1750"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gaspard-Gustave de Coriolis described the effect mathematically in 1835.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q229",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What type of force is the Coriolis force when motion is described from a rotating reference frame?",
+      "options": {
+        "A": "A fictitious or apparent force",
+        "B": "A real force in an inertial frame",
+        "C": "A gravitational force",
+        "D": "An electromagnetic force",
+        "E": "A nuclear force"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis force is a fictitious or apparent force introduced when motion is described from a rotating reference frame.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q230",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the Coriolis effect affect large-scale moving air and water but not small-scale motions like a household sink?",
+      "options": {
+        "A": "At small scales, local conditions dominate and the Coriolis effect is far too weak to reliably determine direction",
+        "B": "The Coriolis effect only exists at the poles",
+        "C": "Water is not affected by the Coriolis effect",
+        "D": "The Coriolis effect only affects solid objects",
+        "E": "The Coriolis effect is stronger in sinks"
+      },
+      "correctAnswer": "A",
+      "explanation": "At household scale, basin shape, water motion, plumbing and other local conditions dominate; the Coriolis effect is far too weak to reliably determine the direction.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q231",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which statement about the Coriolis effect and tropical cyclones is correct?",
+      "options": {
+        "A": "Tropical cyclones rarely form very close to the Equator because the Coriolis effect is too weak there to provide initial rotation",
+        "B": "Tropical cyclones form only at the Equator because the Coriolis effect is strongest there",
+        "C": "The Coriolis effect is not relevant to tropical cyclones",
+        "D": "Tropical cyclones form only in the Northern Hemisphere",
+        "E": "Tropical cyclones form only in the Southern Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Coriolis effect is too weak near the Equator to provide the necessary initial rotation for typical tropical cyclone development.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q232",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the angle between Earth's axis and the perpendicular to its orbital plane called?",
+      "options": {
+        "A": "Axial tilt or obliquity",
+        "B": "Eccentricity",
+        "C": "Precession",
+        "D": "Nutation",
+        "E": "Inclination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's axial tilt, or obliquity, is the angle between its rotational axis and a line perpendicular to the plane of its orbit.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q233",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If Earth's axis were perpendicular to its orbital plane, what would happen to the seasons?",
+      "options": {
+        "A": "The present strong seasonal contrasts would be greatly reduced",
+        "B": "Seasons would become more extreme",
+        "C": "There would be permanent summer",
+        "D": "There would be permanent winter",
+        "E": "Seasons would remain exactly the same"
+      },
+      "correctAnswer": "A",
+      "explanation": "If Earth's axis were perpendicular to its orbital plane, there would be no major annual seasonal shift caused by axial tilt; the present strong seasonal contrasts would be greatly reduced.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q234",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Earth's Axial Tilt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the three components of Milankovitch cycles?",
+      "options": {
+        "A": "Orbital eccentricity, axial tilt and precession",
+        "B": "Rotation, revolution and tilt",
+        "C": "Perihelion, aphelion and equinox",
+        "D": "Solstice, equinox and precession",
+        "E": "Coriolis effect, albedo and greenhouse effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Milankovitch cycles are long-term variations in Earth's orbital eccentricity, axial tilt and precession.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q235",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Leap Year",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the Gregorian calendar omit three leap days every 400 years?",
+      "options": {
+        "A": "Because the tropical year is slightly shorter than 365.25 days, so omitting leap days in most century years keeps the calendar more accurately aligned with the seasons",
+        "B": "Because Earth's rotation is slowing down",
+        "C": "Because the Moon's orbit is changing",
+        "D": "Because of axial precession",
+        "E": "Because of the Coriolis effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "The tropical year is slightly shorter than 365.25 days, so the Gregorian rule omits leap days in most century years to keep the calendar more accurately aligned with the seasons.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q236",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the effect of atmospheric refraction on the observed length of daylight at an equinox?",
+      "options": {
+        "A": "It makes daylight slightly longer than darkness",
+        "B": "It makes darkness slightly longer than daylight",
+        "C": "It has no effect",
+        "D": "It makes day and night exactly equal",
+        "E": "It makes daylight much shorter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atmospheric refraction and the apparent size of the Sun make daylight slightly longer than darkness at many locations, so day and night are not exactly 12 hours at an equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q237",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "At which pole does continuous daylight occur from around the September equinox to around the March equinox?",
+      "options": {
+        "A": "The South Pole",
+        "B": "The North Pole",
+        "C": "Both poles equally",
+        "D": "Neither pole",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The South Pole experiences continuous daylight for roughly six months, from around the September equinox to around the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q238",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Polar Day and Polar Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "At which pole does continuous darkness occur from around the September equinox to around the March equinox?",
+      "options": {
+        "A": "The North Pole",
+        "B": "The South Pole",
+        "C": "Both poles equally",
+        "D": "Neither pole",
+        "E": "Only the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The North Pole experiences continuous darkness for roughly six months, from around the September equinox to around the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q239",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does the Northern Hemisphere experience summer when it is tilted towards the Sun?",
+      "options": {
+        "A": "It receives more direct solar rays and generally has longer daylight hours, increasing the amount of solar energy received per day",
+        "B": "It is closer to the Sun",
+        "C": "The Coriolis effect is stronger",
+        "D": "Earth rotates faster",
+        "E": "The Moon reflects more light"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hemisphere tilted towards the Sun receives more direct solar rays and generally has longer daylight hours, increasing the amount of solar energy received per day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q240",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Seasons",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does a hemisphere experience winter when it is tilted away from the Sun?",
+      "options": {
+        "A": "It is farther from the Sun",
+        "B": "It receives less direct solar rays and generally has shorter daylight hours, reducing the amount of solar energy received per day",
+        "C": "The Coriolis effect is weaker",
+        "D": "Earth rotates slower",
+        "E": "The Moon blocks sunlight"
+      },
+      "correctAnswer": "B",
+      "explanation": "A hemisphere tilted away from the Sun receives less direct solar rays and generally has shorter daylight hours, reducing the amount of solar energy received per day.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q241",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the approximate orbital speed of Earth in kilometres per hour?",
+      "options": {
+        "A": "About 107,000 km/h",
+        "B": "About 1,670 km/h",
+        "C": "About 465 km/h",
+        "D": "About 29.8 km/h",
+        "E": "About 300,000 km/h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Earth's average orbital speed is approximately 29.8 km/s, or about 107,000 km/h.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q242",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Coriolis Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does the Coriolis effect influence the rotation of large low-pressure weather systems?",
+      "options": {
+        "A": "It causes them to rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere",
+        "B": "It causes them to rotate clockwise in both hemispheres",
+        "C": "It causes them to rotate counterclockwise in both hemispheres",
+        "D": "It has no effect on weather systems",
+        "E": "It causes them to rotate clockwise in the Northern Hemisphere and counterclockwise in the Southern Hemisphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "Large low-pressure cyclones generally rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere, due to the pressure-gradient force combined with the Coriolis effect and friction.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q243",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about the angular rotation rate of Earth is correct?",
+      "options": {
+        "A": "It is essentially the same at all latitudes",
+        "B": "It is greatest at the Equator",
+        "C": "It is greatest at the poles",
+        "D": "It is zero at the Equator",
+        "E": "It varies with longitude"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angular speed measures the angle turned per unit time and is essentially the same for all points on Earth; linear speed varies with latitude.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q244",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Rotation of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the linear rotational speed zero at the geographic poles?",
+      "options": {
+        "A": "Because the poles lie on the axis of rotation",
+        "B": "Because gravity is zero at the poles",
+        "C": "Because the poles are farthest from the Sun",
+        "D": "Because the poles are covered in ice",
+        "E": "Because the poles are at the Equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "The linear speed due to rotation is effectively zero at the exact poles because the poles lie on the axis of rotation.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q245",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Equinoxes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the word equinox literally mean?",
+      "options": {
+        "A": "Equal night (day and night are approximately equal)",
+        "B": "Standing still Sun",
+        "C": "Close to Earth",
+        "D": "Turning point",
+        "E": "Midday Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equinox comes from Latin roots meaning 'equal night', referring to the approximately equal day and night at the equinoxes.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q246",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Solstices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the word solstice literally mean?",
+      "options": {
+        "A": "Sun standing still",
+        "B": "Equal night",
+        "C": "Close to Earth",
+        "D": "Turning point",
+        "E": "Midday Sun"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word solstice comes from Latin roots meaning 'Sun' and 'standing still', referring to the apparent pause in the Sun's north-south movement.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q247",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Revolution of Earth",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the average interval between successive occurrences of the same seasonal reference point called?",
+      "options": {
+        "A": "Tropical year",
+        "B": "Sidereal year",
+        "C": "Solar year",
+        "D": "Calendar year",
+        "E": "Leap year"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tropical year is the average interval between successive occurrences of the same seasonal reference point, such as the March equinox.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q248",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Length of Day and Night",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why do locations closer to the Arctic Circle experience much shorter periods of continuous daylight than the North Pole?",
+      "options": {
+        "A": "Because the duration of continuous daylight varies with latitude and approaches six months only at the pole",
+        "B": "Because the Coriolis effect is stronger there",
+        "C": "Because they are closer to the Sun",
+        "D": "Because they rotate faster",
+        "E": "Because of atmospheric refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "The duration of continuous daylight varies with latitude; only at the pole does it approach six months, while locations closer to the Arctic Circle experience much shorter periods.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q249",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements is a common exam trap about the Coriolis effect?",
+      "options": {
+        "A": "It is strongest at the Equator",
+        "B": "It deflects motion to the left in the Northern Hemisphere",
+        "C": "It determines the direction water drains from a household sink",
+        "D": "It is zero at the poles",
+        "E": "It causes the seasons"
+      },
+      "correctAnswer": "C",
+      "explanation": "A common trap is the claim that the Coriolis effect determines the direction water drains from a household sink; at that scale, local conditions dominate and the Coriolis effect is far too weak.",
+      "source": "Movements_of_Earth.pdf"
+    },
+    {
+      "id": "Q250",
+      "subject": "General Knowledge",
+      "topic": "Movements of Earth",
+      "chapter": "Common Objective-Exam Traps",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements is a common exam trap about Earth's distance from the Sun?",
+      "options": {
+        "A": "Earth is closest to the Sun in July",
+        "B": "Earth is farthest from the Sun in January",
+        "C": "Northern Hemisphere summer occurs at perihelion",
+        "D": "Earth is closest to the Sun in early January at perihelion",
+        "E": "Seasons are caused by Earth's distance from the Sun"
+      },
+      "correctAnswer": "D",
+      "explanation": "Earth is generally closest to the Sun in early January at perihelion and farthest in early July at aphelion; distance is not the main cause of seasons.",
+      "source": "Movements_of_Earth.pdf"
+    }
+  ]
+}

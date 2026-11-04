@@ -1,0 +1,3121 @@
+{
+  "exam": "KEA",
+  "version": "1.1.0",
+  "description": "Volcanoes question bank derived exhaustively from Volcanoes.pdf. Every syllabus point, definition, classification, example, exam trap and revision fact converted to unique MCQs. Verify before formal examination use.",
+  "questions": [
+    {
+      "id": "Q051",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a volcano?",
+      "options": {
+        "A": "A mountain made only of folded sedimentary rock",
+        "B": "An opening, vent or connected system of fractures in Earth's crust through which magma, gases and volcanic materials erupt or have erupted onto the surface",
+        "C": "A deep ocean trench formed by plate subduction",
+        "D": "A depression formed by glacial erosion"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcano is an opening, vent or connected system of fractures in Earth's crust through which magma, gases and volcanic materials erupt or have erupted onto the surface; accumulated products may build a volcanic landform.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q052",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is volcanism?",
+      "options": {
+        "A": "Only the eruption of lava at the surface",
+        "B": "The movement of magma from within Earth into the crust or onto the surface, together with release of volcanic gases and solid fragments, including both intrusive and extrusive activity",
+        "C": "The weathering of volcanic rock by wind",
+        "D": "The formation of coral reefs around volcanic islands"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanism includes intrusive activity below the surface and extrusive activity at the surface, together with release of gases and solid fragments.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q053",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What causes volcanic activity?",
+      "options": {
+        "A": "Only the addition of water to rocks",
+        "B": "Molten or partially molten rock forming in the mantle or crust, rising because of buoyancy and pressure, and finding pathways through fractures or conduits",
+        "C": "Only the cooling of the Earth's core",
+        "D": "Only meteorite impacts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic activity occurs when molten or partially molten rock forms in the mantle or crust, rises due to buoyancy and pressure, and finds pathways through fractures or conduits.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q054",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which processes can generate magma?",
+      "options": {
+        "A": "Only heat transfer",
+        "B": "Decompression melting, addition of water and other volatiles, and heat transfer",
+        "C": "Only addition of water",
+        "D": "Only radioactive decay"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decompression melting, addition of water and other volatiles, and heat transfer can generate magma.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q055",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the principal tectonic settings in which volcanoes form?",
+      "options": {
+        "A": "Only divergent plate boundaries",
+        "B": "Only convergent plate boundaries",
+        "C": "Divergent plate boundaries, convergent plate boundaries and intraplate hotspots",
+        "D": "Only intraplate hotspots"
+      },
+      "correctAnswer": "C",
+      "explanation": "Divergent boundaries, convergent boundaries and intraplate hotspots are the principal settings; volcanism also occurs in some continental rifts and zones of crustal weakness.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q056",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does volcanism occur at divergent plate boundaries?",
+      "options": {
+        "A": "Water released from a descending plate melts the mantle wedge",
+        "B": "Hot mantle rises as plates move apart and pressure decreases, causing decompression melting that produces magma erupting along mid-ocean ridges or continental rifts",
+        "C": "A mantle plume burns through a moving plate",
+        "D": "Friction between colliding plates melts the crust"
+      },
+      "correctAnswer": "B",
+      "explanation": "As plates move apart, hot mantle rises and pressure decreases; decompression causes partial melting, producing magma that erupts along mid-ocean ridges or continental rifts.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q057",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does volcanism occur at convergent plate boundaries?",
+      "options": {
+        "A": "Plates move apart and mantle decompresses",
+        "B": "Water and other volatiles released from the descending plate promote melting in the mantle wedge above it, and magma rises to produce volcanic arcs",
+        "C": "A hotspot burns through the plate",
+        "D": "The crust is stretched and thinned"
+      },
+      "correctAnswer": "B",
+      "explanation": "At subduction zones, volatiles from the descending plate promote melting in the mantle wedge, producing volcanic arcs commonly containing composite volcanoes.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q058",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is hotspot volcanism?",
+      "options": {
+        "A": "Volcanism caused only by subduction",
+        "B": "Volcanism where unusually hot mantle material or focused mantle upwelling produces melting beneath a moving plate, forming volcanic chains such as the Hawaiian Islands",
+        "C": "Volcanism caused by continental collision",
+        "D": "Volcanism caused by glacial melting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hotspot volcanism occurs where unusually hot mantle material or focused upwelling produces melting beneath a moving plate, forming chains like Hawaii. Origins and plume structures remain research subjects.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q059",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are all volcanoes located at plate boundaries?",
+      "options": {
+        "A": "Yes, without exception",
+        "B": "No; some form within plates above hotspots, such as Hawaii and Yellowstone",
+        "C": "Yes, but only at divergent boundaries",
+        "D": "No; all volcanoes form at hotspots"
+      },
+      "correctAnswer": "B",
+      "explanation": "Many volcanoes occur at plate boundaries, but some form within plates above hotspots, such as Hawaii and Yellowstone.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q060",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Meaning and Causes of Volcanic Activity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between intrusive and extrusive igneous activity?",
+      "options": {
+        "A": "Intrusive activity occurs at the surface; extrusive activity occurs underground",
+        "B": "Intrusive activity occurs when magma cools and solidifies beneath the surface forming dykes, sills, batholiths and laccoliths; extrusive activity occurs when lava or fragmented material erupts at the surface and cools there",
+        "C": "Both occur only at the surface",
+        "D": "Intrusive activity only forms volcanic cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intrusive activity forms bodies such as dykes, sills, batholiths and laccoliths below the surface; extrusive activity occurs when lava or fragmented material erupts and cools at the surface.",
+      "source": "Volcanoes.pdf, Section 1"
+    },
+    {
+      "id": "Q061",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is magma?",
+      "options": {
+        "A": "Molten rock that has erupted onto Earth's surface",
+        "B": "Molten or partially molten rock beneath Earth's surface, commonly containing liquid melt, crystals and dissolved gases",
+        "C": "Fine rock fragments ejected into the air",
+        "D": "A type of sedimentary rock"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magma is molten or partially molten rock beneath Earth's surface, commonly containing liquid melt, crystals and dissolved gases.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q062",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is lava?",
+      "options": {
+        "A": "Molten rock beneath the surface",
+        "B": "Magma that has reached and erupted onto Earth's surface, forming volcanic rocks as it cools",
+        "C": "Dissolved gases in magma",
+        "D": "Fragmented volcanic material ejected into the air"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lava is magma that has reached and erupted onto Earth's surface; as it cools and solidifies it forms volcanic rocks.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q063",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the main difference between magma and lava?",
+      "options": {
+        "A": "Magma is at the surface; lava is below the surface",
+        "B": "Magma is below the surface; lava is magma at the surface after eruption",
+        "C": "They are identical in all respects",
+        "D": "Lava contains no gases, but magma does"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magma is below the surface; lava is magma at the surface after eruption.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q064",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are volcanic gases?",
+      "options": {
+        "A": "Gases produced only by burning vegetation",
+        "B": "Gases dissolved in magma or released from it; water vapour is commonly most abundant, with carbon dioxide and sulphur dioxide also important",
+        "C": "Gases found only in the atmosphere",
+        "D": "Gases released only by weathering of basalt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic gases are dissolved in magma or released from it; water vapour is commonly most abundant, while carbon dioxide and sulphur dioxide are also important.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q065",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is tephra?",
+      "options": {
+        "A": "Only fine volcanic ash",
+        "B": "The general term for all fragments of volcanic material ejected into the air during an eruption, regardless of size",
+        "C": "Molten rock flowing at the surface",
+        "D": "A type of intrusive igneous body"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tephra is the general term for all fragments of volcanic material ejected into the air during an eruption; fine ash, lapilli, blocks and bombs are examples.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q066",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is volcanic ash?",
+      "options": {
+        "A": "Soft ash produced by burning wood",
+        "B": "Fragments of volcanic glass, minerals and rock smaller than 2 millimetres; abrasive rock material, not combustion ash",
+        "C": "Large molten fragments larger than 64 mm",
+        "D": "A type of lava flow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic ash consists of fragments of volcanic glass, minerals and rock smaller than 2 mm; it is abrasive rock material, not the soft ash from burning wood.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q067",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between lava and pyroclastic material?",
+      "options": {
+        "A": "Lava consists of fragmented particles; pyroclastic material is molten rock",
+        "B": "Lava is molten rock flowing or spreading at the surface; pyroclastic material consists of fragmented volcanic particles such as ash, lapilli, blocks and bombs ejected during explosive activity",
+        "C": "Both are identical",
+        "D": "Pyroclastic material is found only underground"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lava is molten rock flowing or spreading at the surface, whereas pyroclastic material consists of fragmented volcanic particles ejected during explosive activity.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q068",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is magma viscosity?",
+      "options": {
+        "A": "The temperature of magma",
+        "B": "A fluid's resistance to flow; high-viscosity magma is thick and flows less easily, low-viscosity magma is more fluid and can travel farther",
+        "C": "The gas content of magma",
+        "D": "The colour of magma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Viscosity is a fluid's resistance to flow; high-viscosity magma is thick and flows less easily, while low-viscosity magma is more fluid and travels farther.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q069",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does silica content affect magma viscosity?",
+      "options": {
+        "A": "Higher silica produces lower viscosity",
+        "B": "In general, higher silica content produces more polymerised melt structures and higher viscosity; basaltic magma is relatively low in silica and fluid, rhyolitic magma is high in silica and highly viscous",
+        "C": "Silica content has no effect on viscosity",
+        "D": "Lower silica always produces explosive eruptions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher silica produces more polymerised melt structures and higher viscosity; basaltic magma is usually low in silica and fluid, rhyolitic magma is high in silica and highly viscous. Temperature and crystal and gas content also affect viscosity.",
+      "source": "Volcanoes.pdf, Section 2"
+    },
+    {
+      "id": "Q070",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the typical composition and eruption tendency of basaltic magma?",
+      "options": {
+        "A": "High silica, highly viscous, often explosive",
+        "B": "Lower silica, generally hotter and less viscous, often effusive with extensive lava flows and shield volcanoes",
+        "C": "Intermediate silica, always explosive",
+        "D": "No silica, always forms lava domes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Basaltic magma is lower in silica, generally hotter and less viscous, and often effusive, producing extensive lava flows and shield volcanoes.",
+      "source": "Volcanoes.pdf, Section 2 (table)"
+    },
+    {
+      "id": "Q071",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the typical composition and eruption tendency of andesitic magma?",
+      "options": {
+        "A": "Lower silica, always effusive",
+        "B": "Intermediate silica and viscosity; can produce both lava flows and explosive eruptions, common in volcanic arcs",
+        "C": "High silica, always effusive",
+        "D": "No silica, only forms cinder cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Andesitic magma has intermediate silica and viscosity and can produce both lava flows and explosive eruptions; it is common in volcanic arcs.",
+      "source": "Volcanoes.pdf, Section 2 (table)"
+    },
+    {
+      "id": "Q072",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Magma and Lava",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the typical composition and eruption tendency of rhyolitic magma?",
+      "options": {
+        "A": "Lower silica, generally hotter, always effusive",
+        "B": "High silica, generally cooler and highly viscous, often explosive producing ash, pumice, domes and pyroclastic flows",
+        "C": "Intermediate silica, only produces lava plateaus",
+        "D": "No silica, only produces cinder cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhyolitic magma is high in silica, generally cooler and highly viscous, and often explosive, producing ash, pumice, domes and pyroclastic flows.",
+      "source": "Volcanoes.pdf, Section 2 (table)"
+    },
+    {
+      "id": "Q073",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an effusive eruption?",
+      "options": {
+        "A": "An eruption dominated by explosive ejection of ash and pumice",
+        "B": "An eruption dominated by relatively steady outpouring of lava, often because magma is sufficiently fluid and gas can escape without a major explosion",
+        "C": "An eruption that produces only pyroclastic flows",
+        "D": "An eruption that produces only lahars"
+      },
+      "correctAnswer": "B",
+      "explanation": "An effusive eruption is dominated by relatively steady outpouring of lava, often because magma is sufficiently fluid and gas can escape without a major explosion.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q074",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an explosive eruption?",
+      "options": {
+        "A": "An eruption dominated by steady lava outpouring",
+        "B": "An eruption where expanding gases fragment magma and eject ash, pumice, blocks and other material at high speed, producing ash columns, pyroclastic density currents and widespread tephra deposits",
+        "C": "An eruption that produces only lava plateaus",
+        "D": "An eruption that produces only volcanic plugs"
+      },
+      "correctAnswer": "B",
+      "explanation": "In an explosive eruption, expanding gases fragment magma and eject ash, pumice, blocks and other material at high speed; it can produce ash columns, pyroclastic density currents and widespread tephra deposits.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q075",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a pyroclastic flow or density current?",
+      "options": {
+        "A": "A slow-moving river of lava",
+        "B": "A fast-moving, ground-hugging current of hot gas, ash and volcanic fragments that moves down a volcano's slopes and across surrounding terrain; among the most dangerous volcanic hazards",
+        "C": "A mudflow made of water mixed with volcanic ash",
+        "D": "A type of intrusive igneous body"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pyroclastic flow or density current is a fast-moving, ground-hugging current of hot gas, ash and volcanic fragments moving down slopes and across terrain; it is among the most dangerous volcanic hazards.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q076",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a lahar?",
+      "options": {
+        "A": "A fast-moving current of hot gas and ash",
+        "B": "A volcanic mudflow or debris flow made of water mixed with volcanic ash, soil and rock fragments; can travel rapidly down valleys and river channels, sometimes long after an eruption",
+        "C": "A large fragment of molten lava ejected during an eruption",
+        "D": "A highly vesicular volcanic rock that can float on water"
+      },
+      "correctAnswer": "B",
+      "explanation": "A lahar is a volcanic mudflow or debris flow made of water mixed with volcanic ash, soil and rock fragments; it can travel rapidly down valleys and river channels, sometimes long after an eruption.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q077",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a volcanic bomb?",
+      "options": {
+        "A": "A fine ash particle smaller than 2 mm",
+        "B": "A large fragment of molten or semi-molten lava ejected during an eruption that solidifies while travelling through the air; generally larger than 64 mm in standard size classification",
+        "C": "A mudflow of volcanic ash and water",
+        "D": "A type of intrusive igneous body"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcanic bomb is a large fragment of molten or semi-molten lava ejected during an eruption that solidifies while travelling through the air; in standard size classification it is generally larger than 64 mm.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q078",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is pumice?",
+      "options": {
+        "A": "A dark, dense basaltic rock",
+        "B": "A highly vesicular volcanic rock formed when gas-rich, usually silica-rich magma cools rapidly; its abundant cavities can make it light enough to float on water",
+        "C": "A type of volcanic mudflow",
+        "D": "A large fragment of molten lava that solidifies in air"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pumice is a highly vesicular volcanic rock formed when gas-rich, usually silica-rich magma cools rapidly; its abundant cavities can make it light enough to float on water.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q079",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Causes and Styles of Volcanic Eruptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is scoria?",
+      "options": {
+        "A": "A light-coloured rock that floats on water",
+        "B": "A dark, vesicular volcanic rock, commonly basaltic or andesitic, with many gas cavities, generally denser than pumice",
+        "C": "A type of volcanic ash smaller than 2 mm",
+        "D": "A mudflow of volcanic ash and water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scoria is a dark, vesicular volcanic rock, commonly basaltic or andesitic, with many gas cavities; it is generally denser than pumice.",
+      "source": "Volcanoes.pdf, Section 3"
+    },
+    {
+      "id": "Q080",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an active volcano?",
+      "options": {
+        "A": "A volcano that has never erupted",
+        "B": "A volcano that is erupting now, has erupted in recent geological or historical time, or shows evidence of activity and is considered capable of erupting again",
+        "C": "A volcano that will certainly never erupt again",
+        "D": "A volcano that is always dormant"
+      },
+      "correctAnswer": "B",
+      "explanation": "An active volcano is one that is erupting now, has erupted in recent geological or historical time, or shows evidence of activity and is considered capable of erupting again; the exact time criterion varies among organisations.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q081",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a dormant volcano?",
+      "options": {
+        "A": "A volcano that has no magma system",
+        "B": "A volcano that is not currently erupting and may have remained quiet for a long period but has the potential to erupt again",
+        "C": "A volcano that will certainly never erupt again",
+        "D": "A volcano that is always erupting"
+      },
+      "correctAnswer": "B",
+      "explanation": "A dormant volcano is not currently erupting and may have remained quiet for a long period, but has the potential to erupt again.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q082",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an extinct volcano?",
+      "options": {
+        "A": "A volcano that erupts every year",
+        "B": "A volcano not expected to erupt again because its magma supply or volcanic system is considered inactive",
+        "C": "A volcano that is currently erupting",
+        "D": "A volcano with a confirmed future eruption date"
+      },
+      "correctAnswer": "B",
+      "explanation": "An extinct volcano is one not expected to erupt again because its magma supply or volcanic system is considered inactive; this classification can be uncertain because volcanic systems may have very long repose periods.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q083",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is there one universal time limit separating active, dormant and extinct volcanoes?",
+      "options": {
+        "A": "Yes, 100 years for all agencies",
+        "B": "No; definitions vary between agencies and textbooks, and classification depends on eruption history, geological setting, signs of unrest and assessment of whether it may erupt again",
+        "C": "Yes, 10,000 years for all agencies",
+        "D": "Yes, 1,000 years for all agencies"
+      },
+      "correctAnswer": "B",
+      "explanation": "No universal time limit exists; definitions vary between agencies and textbooks, and classification depends on eruption history, geological setting, signs of unrest and assessment of whether it may erupt again.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q084",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can a dormant volcano become active again?",
+      "options": {
+        "A": "No, dormancy is permanent",
+        "B": "Yes; dormancy means a period of inactivity, not permanent extinction, and a dormant volcano can erupt again if its magmatic system becomes active",
+        "C": "Only if it is located at a divergent boundary",
+        "D": "Only if it is classified as extinct first"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dormancy means a period of inactivity, not permanent extinction; a dormant volcano can erupt again if its magmatic system becomes active.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q085",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can an extinct volcano be identified with absolute certainty?",
+      "options": {
+        "A": "Yes, always",
+        "B": "Not always; volcanic systems have different lifespans, and a long period without eruption does not alone prove extinction; classifications are based on geological evidence and the state of the volcanic system",
+        "C": "Yes, if it has been quiet for 100 years",
+        "D": "Yes, if it is located in Iceland"
+      },
+      "correctAnswer": "B",
+      "explanation": "Extinct status cannot always be identified with absolute certainty; volcanic systems have different lifespans, and a long period without eruption does not alone prove extinction. Classifications are based on geological evidence and the state of the volcanic system.",
+      "source": "Volcanoes.pdf, Section 4"
+    },
+    {
+      "id": "Q086",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is an example of an active volcano in India?",
+      "options": {
+        "A": "Narcondam",
+        "B": "Barren Island",
+        "C": "Deccan Traps",
+        "D": "Dhindohar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Barren Island in the Andaman Sea is India's only confirmed historically active volcano. Narcondam is generally described as dormant or inactive.",
+      "source": "Volcanoes.pdf, Section 4 (table) and Section 10"
+    },
+    {
+      "id": "Q087",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Active, Dormant and Extinct Volcanoes",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Why is Mount Fuji sometimes described as dormant but sometimes classified as active?",
+      "options": {
+        "A": "Because it is located at a divergent boundary",
+        "B": "Because simplified textbooks may call it dormant, but scientific catalogues may classify it as active because it has erupted in the Holocene",
+        "C": "Because it has never erupted",
+        "D": "Because it is located in India"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Fuji is often called dormant in simplified textbooks, but scientific catalogues may classify it as active because it has erupted in the Holocene. Active/dormant/extinct labels are not unchanging facts.",
+      "source": "Volcanoes.pdf, Section 4 (exam caution) and Section 12"
+    },
+        {
+      "id": "Q088",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a shield volcano?",
+      "options": {
+        "A": "A steep-sided cone built of alternating lava and ash layers",
+        "B": "A broad, gently sloping volcanic mountain built mainly by repeated flows of fluid, usually basaltic lava, resembling a warrior's shield lying on the ground",
+        "C": "A small, steep cone of loose pyroclastic fragments",
+        "D": "A large collapse depression formed after magma withdrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A shield volcano is a broad, gently sloping volcanic mountain built mainly by repeated flows of fluid, usually basaltic lava; its profile resembles a warrior's shield lying on the ground.",
+      "source": "Volcanoes.pdf, Section 5.1"
+    },
+    {
+      "id": "Q089",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are shield volcanoes formed?",
+      "options": {
+        "A": "Explosive bursts eject molten fragments that fall around a vent",
+        "B": "Low-viscosity lava erupts from a central vent or flank fissures and spreads over wide areas; repeated flows accumulate in thin layers and gradually build a large, broad volcanic edifice",
+        "C": "Alternating layers of lava and pyroclastic material build a steep cone",
+        "D": "A magma reservoir collapses along ring faults"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low-viscosity lava erupts from a central vent or flank fissures and spreads over wide areas; repeated flows accumulate in thin layers and gradually build a large, broad volcanic edifice.",
+      "source": "Volcanoes.pdf, Section 5.1"
+    },
+    {
+      "id": "Q090",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the characteristics of shield volcanoes?",
+      "options": {
+        "A": "Steep slopes, layered structure, mainly andesitic magma",
+        "B": "Broad bases, gentle slopes, extensive lava flows, commonly basaltic compositions and generally effusive eruption styles; they can grow to very large sizes",
+        "C": "Small size, steep slopes, made mainly of loose pyroclastic fragments",
+        "D": "Formed only by collapse of a magma reservoir"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shield volcanoes have broad bases, gentle slopes, extensive lava flows, commonly basaltic compositions and generally effusive eruption styles; they can grow to very large sizes.",
+      "source": "Volcanoes.pdf, Section 5.1"
+    },
+    {
+      "id": "Q091",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are well-known shield volcanoes?",
+      "options": {
+        "A": "Mount Fuji and Mount Vesuvius",
+        "B": "Mauna Loa and Kilauea in Hawaii",
+        "C": "Paricutin and Sunset Crater",
+        "D": "Mount St. Helens and Mount Pinatubo"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mauna Loa and Kilauea in Hawaii are well-known shield volcanoes; Mauna Loa is among the largest active shield volcanoes on Earth.",
+      "source": "Volcanoes.pdf, Section 5.1"
+    },
+    {
+      "id": "Q092",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a composite volcano (stratovolcano)?",
+      "options": {
+        "A": "A broad, gently sloping dome built only of fluid lava flows",
+        "B": "A steep-sided volcanic cone built from alternating layers of lava flows and fragmented material such as ash, cinders and pyroclastic deposits",
+        "C": "A small cone made only of loose cinders and scoria",
+        "D": "A long crack in the crust from which lava emerges"
+      },
+      "correctAnswer": "B",
+      "explanation": "A composite volcano, or stratovolcano, is a steep-sided volcanic cone built from alternating layers of lava flows and fragmented material such as ash, cinders and pyroclastic deposits.",
+      "source": "Volcanoes.pdf, Section 5.2"
+    },
+    {
+      "id": "Q093",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are composite volcanoes formed?",
+      "options": {
+        "A": "Low-viscosity lava spreads over wide areas in thin layers",
+        "B": "Repeated eruptions deposit lava and pyroclastic material around a central vent and associated vents; alternating deposits build a high, steep volcanic cone over many eruptions",
+        "C": "A single explosive burst ejects fragments that fall around a vent",
+        "D": "A magma reservoir collapses along ring faults"
+      },
+      "correctAnswer": "B",
+      "explanation": "Repeated eruptions deposit lava and pyroclastic material around a central vent and associated vents; alternating deposits build a high, steep volcanic cone over many eruptions.",
+      "source": "Volcanoes.pdf, Section 5.2"
+    },
+    {
+      "id": "Q094",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the characteristics of composite volcanoes?",
+      "options": {
+        "A": "Broad, gently sloping, built only of basalt",
+        "B": "Often steep-sided and relatively symmetrical, with layered structures; may produce both lava flows and explosive eruptions; magma is commonly andesitic to dacitic, although compositions vary",
+        "C": "Small, steep cones made largely of loose pyroclastic fragments",
+        "D": "Long cracks in the crust rather than a central vent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Composite volcanoes are often steep-sided and relatively symmetrical, have layered structures, and may produce both lava flows and explosive eruptions; their magma is commonly andesitic to dacitic, although compositions vary.",
+      "source": "Volcanoes.pdf, Section 5.2"
+    },
+    {
+      "id": "Q095",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of composite volcanoes?",
+      "options": {
+        "A": "Mauna Loa and Kilauea",
+        "B": "Mount Fuji, Mount Vesuvius, Mount St. Helens, Mount Cotopaxi, Mount Pinatubo and Mount Mayon",
+        "C": "Paricutin and Sunset Crater",
+        "D": "Laki and the Deccan Traps"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Fuji (Japan), Mount Vesuvius (Italy), Mount St. Helens (USA), Mount Cotopaxi (Ecuador), Mount Pinatubo and Mount Mayon (Philippines) are examples of composite volcanoes.",
+      "source": "Volcanoes.pdf, Section 5.2"
+    },
+    {
+      "id": "Q096",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cinder cone volcano?",
+      "options": {
+        "A": "A broad, gently sloping dome built of fluid lava flows",
+        "B": "A relatively small, steep-sided cone formed when fragments of gas-rich lava, such as cinders and scoria, fall and accumulate around a volcanic vent",
+        "C": "A steep-sided cone built of alternating lava and pyroclastic layers",
+        "D": "A large collapse depression formed after magma withdrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cinder cone is a relatively small, steep-sided cone formed when fragments of gas-rich lava, such as cinders and scoria, fall and accumulate around a volcanic vent.",
+      "source": "Volcanoes.pdf, Section 5.3"
+    },
+    {
+      "id": "Q097",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are cinder cones formed?",
+      "options": {
+        "A": "Low-viscosity lava spreads over wide areas in thin layers",
+        "B": "Explosive bursts eject molten fragments into the air; the fragments cool, fall around the vent and accumulate to form a cone, commonly with a bowl-shaped summit crater; lava flows may also issue from the base or flank",
+        "C": "Alternating layers of lava and pyroclastic material build a steep cone",
+        "D": "A magma reservoir collapses along ring faults"
+      },
+      "correctAnswer": "B",
+      "explanation": "Explosive bursts eject molten fragments into the air; the fragments cool, fall around the vent and accumulate to form a cone, commonly with a bowl-shaped summit crater. Lava flows may also issue from the base or flank.",
+      "source": "Volcanoes.pdf, Section 5.3"
+    },
+    {
+      "id": "Q098",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the characteristics of cinder cones?",
+      "options": {
+        "A": "Broad bases, gentle slopes, extensive lava flows",
+        "B": "Usually smaller than shield and composite volcanoes, steep slopes, consisting mainly of loose or partly consolidated pyroclastic fragments, commonly possessing a summit crater",
+        "C": "Steep-sided, layered structure, andesitic to dacitic magma",
+        "D": "Formed only along long cracks in the crust"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cinder cones are usually smaller than shield and composite volcanoes, have steep slopes, consist mainly of loose or partly consolidated pyroclastic fragments and commonly possess a summit crater.",
+      "source": "Volcanoes.pdf, Section 5.3"
+    },
+    {
+      "id": "Q099",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are classic examples of cinder cones?",
+      "options": {
+        "A": "Mauna Loa and Kilauea",
+        "B": "Mount Fuji and Mount Vesuvius",
+        "C": "Paricutin in Mexico and Sunset Crater in Arizona, United States",
+        "D": "Laki and the Deccan Traps"
+      },
+      "correctAnswer": "C",
+      "explanation": "Paricutin in Mexico is a classic example of a cinder cone; Sunset Crater in Arizona, United States, is another well-known cinder cone.",
+      "source": "Volcanoes.pdf, Section 5.3"
+    },
+    {
+      "id": "Q100",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a fissure eruption?",
+      "options": {
+        "A": "An eruption from a single central vent building a steep cone",
+        "B": "A volcanic eruption in which lava emerges from long cracks or fractures in the Earth's crust rather than from a single central volcanic vent",
+        "C": "An eruption that produces only pyroclastic flows",
+        "D": "An eruption that occurs only at hotspots"
+      },
+      "correctAnswer": "B",
+      "explanation": "A fissure eruption is a volcanic eruption in which lava emerges from long cracks or fractures in the Earth's crust rather than from a single central volcanic vent.",
+      "source": "Volcanoes.pdf, Section 5.4"
+    },
+    {
+      "id": "Q101",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do fissure eruptions occur?",
+      "options": {
+        "A": "Magma rises through a single circular conduit and builds a steep cone",
+        "B": "Magma rises through an elongated fracture or series of cracks; lava may issue along an extended line, spread over broad areas and form extensive lava fields or plateaus",
+        "C": "A magma reservoir collapses along ring faults",
+        "D": "Explosive bursts eject fragments that fall around a vent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magma rises through an elongated fracture or series of cracks; lava may issue along an extended line, spread over broad areas and form extensive lava fields or plateaus.",
+      "source": "Volcanoes.pdf, Section 5.4"
+    },
+    {
+      "id": "Q102",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What type of lava commonly occurs in large fissure eruptions?",
+      "options": {
+        "A": "Rhyolitic lava, because it is highly viscous",
+        "B": "Basaltic lava, because its low viscosity allows it to flow over large distances, although eruption compositions can vary",
+        "C": "Andesitic lava only",
+        "D": "No lava occurs in fissure eruptions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Basaltic lava is common in large fissure eruptions because its low viscosity allows it to flow over large distances, although eruption compositions can vary.",
+      "source": "Volcanoes.pdf, Section 5.4"
+    },
+    {
+      "id": "Q103",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of fissure eruptions?",
+      "options": {
+        "A": "Mauna Loa and Kilauea",
+        "B": "The Deccan Traps of India and the Laki fissure eruption in Iceland in 1783–1784",
+        "C": "Paricutin and Sunset Crater",
+        "D": "Mount Fuji and Mount Vesuvius"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deccan Traps of India were produced by enormous episodes of flood-basalt volcanism involving fissure-fed eruptions; the Laki fissure eruption in Iceland in 1783–1784 is a famous historical example.",
+      "source": "Volcanoes.pdf, Section 5.4"
+    },
+    {
+      "id": "Q104",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Major Types of Volcanoes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are fissure eruptions the same as shield volcanoes?",
+      "options": {
+        "A": "Yes, they are identical",
+        "B": "No; a shield volcano is a broad volcanic edifice built mainly by repeated lava flows, while a fissure eruption describes the geometry of the eruptive opening and may produce extensive lava sheets or plateaus",
+        "C": "Yes, both form only at hotspots",
+        "D": "No; fissure eruptions form only cinder cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "A shield volcano is a broad volcanic edifice built mainly by repeated lava flows; a fissure eruption describes the geometry of the eruptive opening and may produce extensive lava sheets or plateaus.",
+      "source": "Volcanoes.pdf, Section 5.4"
+    },
+    {
+      "id": "Q105",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are volcanic landforms?",
+      "options": {
+        "A": "Only surface features formed by erosion",
+        "B": "Surface features formed by the eruption, accumulation, cooling and solidification of lava and pyroclastic material, or by the collapse and erosion of volcanic structures",
+        "C": "Only underground igneous bodies",
+        "D": "Only features formed by glaciers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic landforms are surface features formed by the eruption, accumulation, cooling and solidification of lava and pyroclastic material, or by the collapse and erosion of volcanic structures.",
+      "source": "Volcanoes.pdf, Section 6"
+    },
+    {
+      "id": "Q106",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are volcanic landforms classified?",
+      "options": {
+        "A": "Only as extrusive landforms",
+        "B": "As extrusive landforms formed at the surface (cones, craters, calderas, lava plateaus, volcanic islands) and intrusive landforms formed when magma solidifies below the surface (dykes, sills, batholiths, laccoliths, volcanic plugs)",
+        "C": "Only as intrusive landforms",
+        "D": "Only by their colour"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic landforms may be classified as extrusive landforms formed at the surface (such as cones, craters, calderas, lava plateaus and volcanic islands) and intrusive landforms formed when magma solidifies below the surface (such as dykes, sills, batholiths, laccoliths and volcanic plugs).",
+      "source": "Volcanoes.pdf, Section 6"
+    },
+    {
+      "id": "Q107",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a volcanic mountain?",
+      "options": {
+        "A": "A mountain formed only by folding",
+        "B": "An elevated landform built mainly by the accumulation of lava, ash and other volcanic products around a vent or along fissures",
+        "C": "A depression formed by collapse",
+        "D": "A long crack in the crust"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcanic mountain is an elevated landform built mainly by the accumulation of lava, ash and other volcanic products around a vent or along fissures.",
+      "source": "Volcanoes.pdf, Section 6.1"
+    },
+    {
+      "id": "Q108",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are volcanic mountains formed?",
+      "options": {
+        "A": "By glacial deposition",
+        "B": "Repeated eruptions deposit lava and fragmented material; as successive deposits accumulate and solidify, they build a volcanic cone or broad volcanic edifice",
+        "C": "By the collapse of a magma reservoir",
+        "D": "By the erosion of sedimentary layers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Repeated eruptions deposit lava and fragmented material; as successive deposits accumulate and solidify, they build a volcanic cone or broad volcanic edifice.",
+      "source": "Volcanoes.pdf, Section 6.1"
+    },
+    {
+      "id": "Q109",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are all volcanic mountains steep cones?",
+      "options": {
+        "A": "Yes, all volcanic mountains are steep cones",
+        "B": "No; shield volcanoes are broad and gently sloping, composite volcanoes are often steep, and some volcanic mountains have complex or irregular shapes; erosion and collapse can also modify their original form",
+        "C": "No; all volcanic mountains are broad and gentle",
+        "D": "Yes, all volcanic mountains are irregular in shape"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not all volcanic mountains are steep cones; shield volcanoes are broad and gently sloping, composite volcanoes are often steep, and some volcanic mountains have complex or irregular shapes. Erosion and collapse can also modify their original form.",
+      "source": "Volcanoes.pdf, Section 6.1"
+    },
+    {
+      "id": "Q110",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a lava plateau?",
+      "options": {
+        "A": "A steep-sided cone built of alternating lava and ash",
+        "B": "A broad, elevated region formed by repeated outpouring of fluid lava, commonly basaltic, from fissures; successive flows spread over large areas and solidify in layers",
+        "C": "A large collapse depression formed after magma withdrawal",
+        "D": "A small bowl-shaped depression around a vent"
+      },
+      "correctAnswer": "B",
+      "explanation": "A lava plateau is a broad, elevated region formed by repeated outpouring of fluid lava, commonly basaltic, from fissures; successive flows spread over large areas and solidify in layers.",
+      "source": "Volcanoes.pdf, Section 6.2"
+    },
+    {
+      "id": "Q111",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is a lava plateau formed?",
+      "options": {
+        "A": "A single explosive eruption ejects ash that falls around a vent",
+        "B": "Large volumes of fluid lava erupt through fissures or multiple vents, spread across extensive areas and cool; repeated eruptions stack successive lava sheets, creating a thick, wide plateau",
+        "C": "A magma reservoir collapses along ring faults",
+        "D": "Glaciers deposit rock debris over a broad area"
+      },
+      "correctAnswer": "B",
+      "explanation": "Large volumes of fluid lava erupt through fissures or multiple vents, spread across extensive areas and cool; repeated eruptions stack successive lava sheets, creating a thick, wide plateau.",
+      "source": "Volcanoes.pdf, Section 6.2"
+    },
+    {
+      "id": "Q112",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are flood basalts?",
+      "options": {
+        "A": "Small cinder cones formed by explosive bursts",
+        "B": "Very large accumulations of basaltic lava produced by extensive eruptions, often through fissure systems, over geologically short intervals",
+        "C": "Steep-sided composite volcanoes",
+        "D": "Large collapse depressions at volcanoes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flood basalts are very large accumulations of basaltic lava produced by extensive eruptions, often through fissure systems, over geologically short intervals.",
+      "source": "Volcanoes.pdf, Section 6.2"
+    },
+    {
+      "id": "Q113",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the volcanic significance of the Deccan Plateau?",
+      "options": {
+        "A": "It is a currently active composite volcano",
+        "B": "The Deccan Traps in western and central India are a major flood-basalt province formed by enormous volcanic eruptions near the end of the Cretaceous Period, around the Cretaceous–Paleogene boundary; an important example of plateau basalt",
+        "C": "It is a small cinder cone in the Andaman Sea",
+        "D": "It is a large caldera formed after magma withdrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deccan Traps in western and central India are a major flood-basalt province formed by enormous volcanic eruptions near the end of the Cretaceous Period, around the Cretaceous–Paleogene boundary; they are an important example of plateau basalt.",
+      "source": "Volcanoes.pdf, Section 6.2"
+    },
+    {
+      "id": "Q114",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are examples of large igneous provinces or lava plateaus?",
+      "options": {
+        "A": "Mount Fuji and Mount Vesuvius",
+        "B": "The Siberian Traps in Russia, the Columbia River Basalt Group in the northwestern United States, and the Paraná–Etendeka flood-basalt province in South America and Africa",
+        "C": "Paricutin and Sunset Crater",
+        "D": "Barren Island and Narcondam"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Siberian Traps in Russia, the Columbia River Basalt Group in the northwestern United States and the Paraná–Etendeka flood-basalt province in South America and Africa are examples of large igneous provinces or lava plateaus.",
+      "source": "Volcanoes.pdf, Section 6.2"
+    },
+    {
+      "id": "Q115",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a volcanic crater?",
+      "options": {
+        "A": "A large basin-shaped depression formed mainly by collapse of a volcanic edifice",
+        "B": "A relatively small, usually circular or bowl-shaped depression around a volcanic vent, formed through explosive excavation, collapse of material around a vent, or accumulation and modification of erupted deposits",
+        "C": "A long crack in the crust from which lava emerges",
+        "D": "A steep-sided mound formed by viscous lava"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is a relatively small, usually circular or bowl-shaped depression around a volcanic vent; it may form through explosive excavation, collapse of material around a vent, or accumulation and modification of erupted deposits.",
+      "source": "Volcanoes.pdf, Section 6.3"
+    },
+    {
+      "id": "Q116",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is a crater usually located?",
+      "options": {
+        "A": "Only at the base of a volcano",
+        "B": "Commonly near the summit of a volcanic cone, although craters can also occur on the flanks or around subsidiary vents",
+        "C": "Only in ocean trenches",
+        "D": "Only in continental rifts"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is commonly found near the summit of a volcanic cone, although craters can also occur on the flanks or around subsidiary vents.",
+      "source": "Volcanoes.pdf, Section 6.3"
+    },
+    {
+      "id": "Q117",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is a crater the same as a caldera?",
+      "options": {
+        "A": "Yes, they are identical",
+        "B": "No; a crater is generally smaller and closely associated with a vent, while a caldera is a much larger depression formed mainly by collapse of a volcanic edifice after substantial magma withdrawal",
+        "C": "Yes, both form only by explosive excavation",
+        "D": "No; a crater is always larger than a caldera"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is generally smaller and closely associated with a vent; a caldera is a much larger depression formed mainly by collapse of a volcanic edifice after substantial magma withdrawal, although other collapse processes can contribute.",
+      "source": "Volcanoes.pdf, Section 6.3 and 6.4"
+    },
+    {
+      "id": "Q118",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a caldera?",
+      "options": {
+        "A": "A small bowl-shaped depression around a vent",
+        "B": "A large basin-shaped volcanic depression formed when the roof of a magma reservoir or a substantial part of a volcanic edifice collapses, commonly after a large volume of magma has been erupted or withdrawn",
+        "C": "A steep-sided mound formed by viscous lava",
+        "D": "A sheet-like intrusive body parallel to rock layers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A caldera is a large basin-shaped volcanic depression formed when the roof of a magma reservoir or a substantial part of a volcanic edifice collapses, commonly after a large volume of magma has been erupted or withdrawn.",
+      "source": "Volcanoes.pdf, Section 6.4"
+    },
+    {
+      "id": "Q119",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is a caldera formed?",
+      "options": {
+        "A": "A single explosive burst excavates a small bowl-shaped depression",
+        "B": "A major eruption or magma withdrawal can leave a partially emptied reservoir; the overlying rock loses support and collapses along ring faults, creating a large depression; later eruptions, lakes or sedimentation may modify the caldera",
+        "C": "Low-viscosity lava spreads over wide areas in thin layers",
+        "D": "Explosive bursts eject fragments that fall around a vent"
+      },
+      "correctAnswer": "B",
+      "explanation": "A major eruption or magma withdrawal can leave a partially emptied reservoir; the overlying rock loses support and collapses along ring faults, creating a large depression. Later eruptions, lakes or sedimentation may modify the caldera.",
+      "source": "Volcanoes.pdf, Section 6.4"
+    },
+    {
+      "id": "Q120",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the characteristics of a caldera?",
+      "options": {
+        "A": "Generally much smaller than a typical volcanic crater",
+        "B": "Generally much larger than a typical volcanic crater, may be several kilometres or more across, and can contain lakes, smaller cones, lava domes or renewed volcanic centres",
+        "C": "Always perfectly circular and empty",
+        "D": "Always formed by explosive excavation only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A caldera is generally much larger than a typical volcanic crater, may be several kilometres or more across, and can contain lakes, smaller cones, lava domes or renewed volcanic centres.",
+      "source": "Volcanoes.pdf, Section 6.4"
+    },
+    {
+      "id": "Q121",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of calderas?",
+      "options": {
+        "A": "Paricutin and Sunset Crater",
+        "B": "Crater Lake in Oregon (caldera of Mount Mazama), Yellowstone in the United States, and Toba in Indonesia",
+        "C": "Mauna Loa and Kilauea",
+        "D": "Mount Fuji and Mount Vesuvius"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crater Lake in Oregon occupies the caldera of Mount Mazama; Yellowstone in the United States has large caldera systems; Toba in Indonesia is another major caldera system.",
+      "source": "Volcanoes.pdf, Section 6.4"
+    },
+    {
+      "id": "Q122",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can a caldera contain a lake?",
+      "options": {
+        "A": "No, calderas are always dry",
+        "B": "Yes; a caldera may fill with rainwater, groundwater or other water sources and form a caldera lake, such as Crater Lake in Oregon",
+        "C": "Only if it is located in Iceland",
+        "D": "Only if it is smaller than a crater"
+      },
+      "correctAnswer": "B",
+      "explanation": "A caldera may fill with rainwater, groundwater or other water sources and form a caldera lake, such as Crater Lake in Oregon.",
+      "source": "Volcanoes.pdf, Section 6.4"
+    },
+    {
+      "id": "Q123",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement correctly distinguishes a crater from a caldera?",
+      "options": {
+        "A": "A crater is usually much larger than a caldera",
+        "B": "A crater is usually smaller and vent-centred, while a caldera is a much larger collapse depression",
+        "C": "Both are formed only by explosive excavation",
+        "D": "A caldera is always bowl-shaped and small"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is usually smaller and vent-centred; a caldera is a much larger collapse depression.",
+      "source": "Volcanoes.pdf, Section 6.4 (table) and Section 12"
+    },
+        {
+      "id": "Q124",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a lava dome?",
+      "options": {
+        "A": "A broad, gently sloping dome built of fluid basaltic lava",
+        "B": "A steep-sided mound formed when very viscous lava is extruded slowly and accumulates near a vent rather than flowing far away; dome collapse can generate dangerous pyroclastic flows",
+        "C": "A large collapse depression formed after magma withdrawal",
+        "D": "A long crack in the crust from which lava emerges"
+      },
+      "correctAnswer": "B",
+      "explanation": "A lava dome is a steep-sided mound formed when very viscous lava is extruded slowly and accumulates near a vent rather than flowing far away. Dome collapse can generate dangerous pyroclastic flows.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q125",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a volcanic neck or plug?",
+      "options": {
+        "A": "A sheet-like intrusive body that cuts across rock layers",
+        "B": "Hardened magma that solidified within a volcanic conduit; after erosion removes the softer surrounding cone, the resistant plug may remain as a prominent landform",
+        "C": "A sheet-like intrusive body emplaced parallel to rock layers",
+        "D": "A very large intrusive body formed at depth"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcanic neck or plug is hardened magma that solidified within a volcanic conduit; after erosion removes the softer surrounding cone, the resistant plug may remain as a prominent landform.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q126",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a dyke?",
+      "options": {
+        "A": "A sheet-like intrusive igneous body emplaced parallel to existing rock layers",
+        "B": "A sheet-like intrusive igneous body that cuts across pre-existing rock layers, commonly occupying a fracture",
+        "C": "A very large intrusive body generally formed at depth",
+        "D": "A steep-sided mound formed by viscous lava"
+      },
+      "correctAnswer": "B",
+      "explanation": "A dyke is a sheet-like intrusive igneous body that cuts across pre-existing rock layers, commonly occupying a fracture.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q127",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a sill?",
+      "options": {
+        "A": "A sheet-like intrusive igneous body that cuts across pre-existing rock layers",
+        "B": "A sheet-like intrusive igneous body emplaced parallel to existing rock layers",
+        "C": "A very large intrusive body formed at depth",
+        "D": "Hardened magma that solidified within a volcanic conduit"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sill is a sheet-like intrusive igneous body emplaced parallel to existing rock layers.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q128",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a batholith?",
+      "options": {
+        "A": "A small, steep cone made of loose pyroclastic fragments",
+        "B": "A very large intrusive body of igneous rock, generally formed at depth and exposed after long-term uplift and erosion",
+        "C": "A sheet-like intrusive body parallel to rock layers",
+        "D": "A large collapse depression at a volcano"
+      },
+      "correctAnswer": "B",
+      "explanation": "A batholith is a very large intrusive body of igneous rock, generally formed at depth and exposed after long-term uplift and erosion.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q129",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Landforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a volcanic island?",
+      "options": {
+        "A": "An island made only of coral",
+        "B": "An island built partly or wholly by volcanic eruptions, either at an oceanic hotspot, a mid-ocean ridge or a volcanic island arc above a subduction zone",
+        "C": "An island formed only by glacial deposition",
+        "D": "An island formed only by river sedimentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcanic island is an island built partly or wholly by volcanic eruptions, either at an oceanic hotspot, a mid-ocean ridge or a volcanic island arc above a subduction zone.",
+      "source": "Volcanoes.pdf, Section 6.5"
+    },
+    {
+      "id": "Q130",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Pacific Ring of Fire?",
+      "options": {
+        "A": "A single continuous volcano encircling the Pacific Ocean",
+        "B": "A popular geographical term for the broad belt of frequent earthquakes and volcanic activity around much of the Pacific Ocean basin, associated largely with subduction zones and plate boundaries",
+        "C": "A chain of hotspot volcanoes in the Atlantic Ocean",
+        "D": "A mid-ocean ridge in the Indian Ocean"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Pacific Ring of Fire is a popular geographical term for the broad belt of frequent earthquakes and volcanic activity around much of the Pacific Ocean basin, associated largely with subduction zones and plate boundaries.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q131",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the Ring of Fire volcanically active?",
+      "options": {
+        "A": "Because it lies entirely over a single hotspot",
+        "B": "Because many oceanic plates around the Pacific are subducted beneath neighbouring plates; subduction promotes magma generation and volcanic arcs, while plate interactions also generate frequent earthquakes",
+        "C": "Because it is a continental rift zone",
+        "D": "Because it is located at a divergent boundary only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Many oceanic plates around the Pacific are subducted beneath neighbouring plates; subduction promotes magma generation and volcanic arcs, while plate interactions also generate frequent earthquakes.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q132",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which regions form parts of the Ring of Fire?",
+      "options": {
+        "A": "The Sahara, the Amazon Basin and the Indo-Gangetic Plain",
+        "B": "The western coasts of North and South America, Alaska and the Aleutian Islands, Kamchatka, Japan, the Philippines, Indonesia, Papua New Guinea, the Solomon Islands, Tonga and New Zealand",
+        "C": "The Ural Mountains and the Caspian Sea",
+        "D": "The Congo Basin and the Kalahari Desert"
+      },
+      "correctAnswer": "B",
+      "explanation": "The western coasts of North and South America, Alaska and the Aleutian Islands, Kamchatka, Japan, the Philippines, Indonesia, Papua New Guinea, the Solomon Islands, Tonga and New Zealand are among the regions associated with the broader Pacific belt.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q133",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the Ring of Fire a perfect continuous ring of volcanoes?",
+      "options": {
+        "A": "Yes, it is a single continuous volcanic structure",
+        "B": "No; it is a popular descriptive term, not a single continuous volcanic structure, and consists of separate volcanic regions and tectonic environments around the Pacific margin",
+        "C": "Yes, and it is caused by one connected magma system",
+        "D": "No; it is a formal scientific region defined by the Smithsonian"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Ring of Fire is a popular descriptive term, not a single continuous volcanic structure; it consists of separate volcanic regions and tectonic environments around the Pacific margin. The Smithsonian Global Volcanism Program describes it as a popular term rather than a formal scientific region.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q134",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are all volcanoes in the Ring of Fire caused by the same process?",
+      "options": {
+        "A": "Yes, all are caused by hotspot volcanism",
+        "B": "No; subduction is the dominant cause in many regions, but tectonic settings and volcanic processes vary around the Pacific, and some nearby volcanic systems may be associated with rifting or other processes",
+        "C": "Yes, all are caused by continental rifting",
+        "D": "Yes, all are caused by a single mantle plume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Subduction is the dominant cause in many regions, but tectonic settings and volcanic processes vary around the Pacific; some nearby volcanic systems may be associated with rifting or other processes.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q135",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Pacific Ring of Fire",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is the Ring of Fire important?",
+      "options": {
+        "A": "It contains no active volcanoes",
+        "B": "It contains a large proportion of the world's active and geologically young volcanoes and is a major global belt of earthquake and tsunami hazard",
+        "C": "It is the only place where volcanoes occur",
+        "D": "It is a single connected magma system"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Ring of Fire contains a large proportion of the world's active and geologically young volcanoes and is a major global belt of earthquake and tsunami hazard.",
+      "source": "Volcanoes.pdf, Section 7"
+    },
+    {
+      "id": "Q136",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are major volcanic regions of the world?",
+      "options": {
+        "A": "The Pacific Ring of Fire, the Mid-Atlantic Ridge and Iceland, the Mediterranean volcanic region, the Sunda–Banda arc of Indonesia, the East African Rift and Afar region, the Andes and Central American volcanic arcs, and hotspot regions such as Hawaii and Yellowstone",
+        "B": "Only the Pacific Ring of Fire",
+        "C": "Only the Mid-Atlantic Ridge",
+        "D": "Only hotspot regions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major volcanic regions include the Pacific Ring of Fire, the Mid-Atlantic Ridge and Iceland, the Mediterranean volcanic region, the Sunda–Banda arc of Indonesia, the East African Rift and Afar region, the Andes and Central American volcanic arcs, and hotspot regions such as Hawaii and Yellowstone.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q137",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are the Andes volcanic?",
+      "options": {
+        "A": "Because they lie over a single hotspot",
+        "B": "Because the Nazca Plate and other oceanic plates subduct beneath the South American Plate along the western margin of South America, generating magma and volcanic arcs along the Andes",
+        "C": "Because they lie at a divergent boundary",
+        "D": "Because they are part of a continental rift system"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Nazca Plate and other oceanic plates subduct beneath the South American Plate along the western margin of South America, generating magma and volcanic arcs along the Andes.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q138",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Indonesia highly volcanic?",
+      "options": {
+        "A": "Because it lies over a single hotspot",
+        "B": "Because it lies within a complex convergent region where the Indo-Australian Plate is subducted beneath parts of the Sunda and other plate systems, producing multiple volcanic arcs",
+        "C": "Because it lies at a divergent boundary",
+        "D": "Because it is part of the East African Rift"
+      },
+      "correctAnswer": "B",
+      "explanation": "Indonesia lies within a complex convergent region where the Indo-Australian Plate is subducted beneath parts of the Sunda and other plate systems, producing multiple volcanic arcs.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q139",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does Iceland have frequent volcanic activity?",
+      "options": {
+        "A": "Because it lies only at a convergent boundary",
+        "B": "Because it lies astride the divergent Mid-Atlantic Ridge and is also influenced by a hotspot or mantle plume, a combination that supports repeated magma generation and eruptions",
+        "C": "Because it lies only over a subduction zone",
+        "D": "Because it is part of the East African Rift"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iceland lies astride the divergent Mid-Atlantic Ridge and is also influenced by a hotspot or mantle plume; this combination supports repeated magma generation and eruptions.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q140",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are volcanoes found in East Africa?",
+      "options": {
+        "A": "Because of subduction of the Indo-Australian Plate",
+        "B": "Because the East African Rift is a continental rifting system where the lithosphere is being stretched and thinned; decompression melting and related mantle processes produce volcanic activity",
+        "C": "Because of a single hotspot only",
+        "D": "Because of a convergent boundary only"
+      },
+      "correctAnswer": "B",
+      "explanation": "The East African Rift is a continental rifting system where the lithosphere is being stretched and thinned; decompression melting and related mantle processes produce volcanic activity.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q141",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are all volcanic regions associated with subduction?",
+      "options": {
+        "A": "Yes, all volcanic regions are associated with subduction",
+        "B": "No; volcanoes also occur at divergent boundaries, continental rifts and intraplate hotspots",
+        "C": "No; volcanoes occur only at hotspots",
+        "D": "Yes, but only in the Pacific"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not all volcanic regions are associated with subduction; volcanoes also occur at divergent boundaries, continental rifts and intraplate hotspots.",
+      "source": "Volcanoes.pdf, Section 8"
+    },
+    {
+      "id": "Q142",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano is a huge active shield volcano in Hawaii, United States?",
+      "options": {
+        "A": "Mount Fuji",
+        "B": "Mauna Loa",
+        "C": "Mount Vesuvius",
+        "D": "Cotopaxi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mauna Loa in Hawaii, United States, is a huge active shield volcano.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q143",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in Hawaii is an active shield volcano known for frequent eruptions?",
+      "options": {
+        "A": "Mauna Loa",
+        "B": "Kilauea",
+        "C": "Mount St. Helens",
+        "D": "Mount Pinatubo"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kilauea in Hawaii, United States, is an active shield volcano known for frequent eruptions.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q144",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Mount Fuji in Japan is an example of which type of volcano?",
+      "options": {
+        "A": "Shield volcano",
+        "B": "Composite volcano (stratovolcano)",
+        "C": "Cinder cone",
+        "D": "Caldera"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Fuji in Japan is an iconic composite volcano (stratovolcano); it last erupted in 1707–08.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q145",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano's AD 79 eruption buried Pompeii and Herculaneum?",
+      "options": {
+        "A": "Mount Etna",
+        "B": "Mount Vesuvius",
+        "C": "Stromboli",
+        "D": "Mount Fuji"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Vesuvius in Italy is a composite volcano whose AD 79 eruption buried Pompeii and Herculaneum.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q146",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in Sicily, Italy, is a frequently active stratovolcano and one of Europe's best-known active volcanoes?",
+      "options": {
+        "A": "Mount Vesuvius",
+        "B": "Mount Etna",
+        "C": "Stromboli",
+        "D": "Vulcano"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Etna in Sicily, Italy, is a frequently active stratovolcano and one of Europe's best-known active volcanoes.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q147",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano is known for persistent or frequent explosive activity and classic Strombolian eruptions?",
+      "options": {
+        "A": "Mount Etna",
+        "B": "Stromboli",
+        "C": "Mount Vesuvius",
+        "D": "Mount Fuji"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stromboli in the Aeolian Islands, Italy, is known for persistent or frequent explosive activity and classic Strombolian eruptions.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q148",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which volcano in the United States had a major explosive eruption in 1980?",
+      "options": {
+        "A": "Mount Rainier",
+        "B": "Mount St. Helens",
+        "C": "Yellowstone",
+        "D": "Mauna Loa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount St. Helens in the United States is a composite volcano that had a major explosive eruption in 1980.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q149",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in the Philippines had a major explosive eruption in 1991?",
+      "options": {
+        "A": "Mayon",
+        "B": "Mount Pinatubo",
+        "C": "Taal",
+        "D": "Krakatau"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Pinatubo in the Philippines had a major explosive eruption in 1991.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q150",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in the Philippines is a steep, symmetrical composite volcano?",
+      "options": {
+        "A": "Mount Pinatubo",
+        "B": "Mayon",
+        "C": "Taal",
+        "D": "Krakatau"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mayon in the Philippines is a steep, symmetrical composite volcano.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q151",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano is famous for the 1883 eruption, after which Anak Krakatau later emerged in the caldera region?",
+      "options": {
+        "A": "Tambora",
+        "B": "Krakatau / Anak Krakatau",
+        "C": "Merapi",
+        "D": "Semeru"
+      },
+      "correctAnswer": "B",
+      "explanation": "Krakatau / Anak Krakatau in Indonesia is famous for the 1883 Krakatau eruption; Anak Krakatau later emerged in the caldera region.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q152",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Indonesian volcano's 1815 eruption had major historical climate effects?",
+      "options": {
+        "A": "Krakatau",
+        "B": "Tambora",
+        "C": "Merapi",
+        "D": "Semeru"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tambora in Indonesia is known for its 1815 eruption, which had major historical climate effects.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q153",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Indonesian volcano is an active stratovolcano with dangerous pyroclastic flows?",
+      "options": {
+        "A": "Tambora",
+        "B": "Merapi",
+        "C": "Krakatau",
+        "D": "Anak Krakatau"
+      },
+      "correctAnswer": "B",
+      "explanation": "Merapi in Indonesia is an active stratovolcano with dangerous pyroclastic flows.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q154",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in Ecuador is a high Andean stratovolcano?",
+      "options": {
+        "A": "Cotopaxi",
+        "B": "Popocatepetl",
+        "C": "Villarrica",
+        "D": "Mount Rainier"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cotopaxi in Ecuador is a high Andean stratovolcano.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q155",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in Mexico is an active stratovolcano near densely populated areas?",
+      "options": {
+        "A": "Cotopaxi",
+        "B": "Popocatepetl",
+        "C": "Villarrica",
+        "D": "Mount St. Helens"
+      },
+      "correctAnswer": "B",
+      "explanation": "Popocatepetl in Mexico is an active stratovolcano near densely populated areas.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q156",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Icelandic volcano's 2010 eruption disrupted European air traffic?",
+      "options": {
+        "A": "Hekla",
+        "B": "Eyjafjallajökull",
+        "C": "Grimsvötn",
+        "D": "Laki"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eyjafjallajökull in Iceland had a 2010 eruption that disrupted European air traffic.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q157",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which volcano in the Democratic Republic of the Congo is known for highly fluid lava and hazardous lava flows?",
+      "options": {
+        "A": "Erta Ale",
+        "B": "Nyiragongo",
+        "C": "Ol Doinyo Lengai",
+        "D": "Piton de la Fournaise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nyiragongo in the Democratic Republic of the Congo is known for highly fluid lava and hazardous lava flows.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q158",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which shield volcano in Ethiopia's Afar Rift is known for persistent lava-lake activity at various times?",
+      "options": {
+        "A": "Nyiragongo",
+        "B": "Erta Ale",
+        "C": "Ol Doinyo Lengai",
+        "D": "Piton de la Fournaise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Erta Ale in Ethiopia's Afar Rift is a shield volcano known for persistent lava-lake activity at various times.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q159",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which large caldera system in the United States is associated with hotspot-related volcanism?",
+      "options": {
+        "A": "Crater Lake",
+        "B": "Yellowstone",
+        "C": "Mount St. Helens",
+        "D": "Mount Rainier"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yellowstone in the United States is a large caldera system associated with hotspot-related volcanism.",
+      "source": "Volcanoes.pdf, Section 9 (table)"
+    },
+    {
+      "id": "Q160",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Regions of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is India's only confirmed historically active volcano?",
+      "options": {
+        "A": "Narcondam",
+        "B": "Barren Island",
+        "C": "Deccan Traps",
+        "D": "Dhindohar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Barren Island in the Andaman Sea, in the Andaman and Nicobar Islands, is India's only confirmed historically active volcano.",
+      "source": "Volcanoes.pdf, Section 9 (table) and Section 10"
+    },
+    {
+      "id": "Q161",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Does India have an active volcano?",
+      "options": {
+        "A": "No, India has no active volcanoes",
+        "B": "Yes; Barren Island in the Andaman Sea, in the Andaman and Nicobar Islands, is India's only confirmed historically active volcano",
+        "C": "Yes; the Deccan Traps are currently active",
+        "D": "Yes; Narcondam is confirmed historically active"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes; Barren Island in the Andaman Sea, in the Andaman and Nicobar Islands, is India's only confirmed historically active volcano.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q162",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is Barren Island located?",
+      "options": {
+        "A": "In the Arabian Sea, west of Mumbai",
+        "B": "In the Andaman Sea, northeast of Port Blair, within the Andaman and Nicobar Islands of India",
+        "C": "In the Bay of Bengal, off the coast of Odisha",
+        "D": "In the Indian Ocean, south of Sri Lanka"
+      },
+      "correctAnswer": "B",
+      "explanation": "Barren Island is in the Andaman Sea, northeast of Port Blair, within the Andaman and Nicobar Islands of India.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q163",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What type of volcano is Barren Island?",
+      "options": {
+        "A": "A shield volcano with no crater",
+        "B": "A volcanic island with a stratovolcanic cone and a central crater, part of the tectonically active Andaman volcanic region associated with the Indo-Burma subduction system",
+        "C": "A cinder cone in the Deccan Plateau",
+        "D": "A caldera with no volcanic cone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Barren Island is a volcanic island with a stratovolcanic cone and a central crater; it is part of the tectonically active Andaman volcanic region associated with the Indo-Burma subduction system.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+        {
+      "id": "Q164",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is Narcondam an active volcano?",
+      "options": {
+        "A": "Yes, it is India's only confirmed historically active volcano",
+        "B": "Narcondam is a volcanic island in the Andaman Sea generally described as dormant or inactive in many references; its status should not be confused with Barren Island, which has confirmed historical eruptions",
+        "C": "Yes, it erupted in 2010",
+        "D": "No, it is a coral island"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narcondam is a volcanic island in the Andaman Sea, generally described as dormant or inactive in many references; its status and classification should not be confused with Barren Island, which has confirmed historical eruptions.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q165",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the Deccan Traps?",
+      "options": {
+        "A": "A currently active composite volcano in the Andaman Sea",
+        "B": "An enormous flood-basalt province in western and central India formed by extensive fissure-fed volcanic eruptions near the end of the Cretaceous Period; ancient volcanic rocks, not a currently active volcano",
+        "C": "A small cinder cone in Karnataka",
+        "D": "A large caldera lake in Maharashtra"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deccan Traps are an enormous flood-basalt province in western and central India, formed by extensive fissure-fed volcanic eruptions near the end of the Cretaceous Period; they are ancient volcanic rocks, not a currently active volcano.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q166",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are the Deccan Traps called 'Traps'?",
+      "options": {
+        "A": "Because they trap volcanic gases",
+        "B": "The word comes from a term meaning stairs, referring to the step-like landscape formed by successive layers of basalt lava flows and their differential erosion",
+        "C": "Because they are located in a trapdoor fault zone",
+        "D": "Because they contain trapped fossils"
+      },
+      "correctAnswer": "B",
+      "explanation": "The word 'trap' comes from a term meaning stairs, referring to the step-like landscape formed by successive layers of basalt lava flows and their differential erosion.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q167",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanoes and Volcanic Features of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about volcanic features in India is correct?",
+      "options": {
+        "A": "India has no ancient volcanic rocks",
+        "B": "India contains ancient volcanic rocks and intrusive igneous bodies in several regions; the Deccan Traps are the best-known flood-basalt province, while Barren Island is the key example of a historically active volcano",
+        "C": "Barren Island is a flood-basalt province",
+        "D": "The Deccan Traps are India's only active volcano"
+      },
+      "correctAnswer": "B",
+      "explanation": "India contains ancient volcanic rocks and intrusive igneous bodies in several regions; the Deccan Traps are the best-known flood-basalt province, while Barren Island is the key example of a historically active volcano.",
+      "source": "Volcanoes.pdf, Section 10"
+    },
+    {
+      "id": "Q168",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the main hazards of volcanic eruptions?",
+      "options": {
+        "A": "Only lava flows",
+        "B": "Lava flows, ash fall, pyroclastic flows, lahars, volcanic gases, ballistic projectiles, landslides or sector collapse, volcanic earthquakes, tsunamis in some settings, and disruption to aviation and infrastructure",
+        "C": "Only ash fall and lahars",
+        "D": "Only volcanic gases"
+      },
+      "correctAnswer": "B",
+      "explanation": "The main hazards include lava flows, ash fall, pyroclastic flows, lahars, volcanic gases, ballistic projectiles, landslides or sector collapse, volcanic earthquakes, tsunamis in some settings and disruption to aviation and infrastructure.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q169",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the danger from volcanic ash?",
+      "options": {
+        "A": "It is harmless and beneficial",
+        "B": "Ash can cause respiratory irritation, reduce visibility, damage engines and machinery, contaminate water supplies, overload roofs when wet and disrupt aviation",
+        "C": "It only affects plants",
+        "D": "It only causes skin burns"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ash can cause respiratory irritation, reduce visibility, damage engines and machinery, contaminate water supplies, overload roofs when wet and disrupt aviation.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q170",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are pyroclastic flows especially dangerous?",
+      "options": {
+        "A": "Because they move very slowly",
+        "B": "Because they are fast-moving and extremely hot mixtures of gas, ash and rock that can travel rapidly down slopes and across valleys, causing severe burns, asphyxiation and destruction",
+        "C": "Because they only occur underwater",
+        "D": "Because they are cold and harmless"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pyroclastic flows are fast-moving and extremely hot mixtures of gas, ash and rock that can travel rapidly down slopes and across valleys, causing severe burns, asphyxiation and destruction.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q171",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the benefits of volcanic regions?",
+      "options": {
+        "A": "Only tourism",
+        "B": "Volcanic soils can become fertile after weathering; geothermal energy can be harnessed; volcanic landscapes attract tourism; eruptions create new land; and volcanic rocks and minerals provide construction materials and resources",
+        "C": "Only geothermal energy",
+        "D": "Only new land creation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Benefits include fertile volcanic soils after weathering, geothermal energy, tourism, creation of new land, and volcanic rocks and minerals as construction materials and resources.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q172",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are volcanic soils always fertile immediately after an eruption?",
+      "options": {
+        "A": "Yes, always",
+        "B": "No; fresh lava and ash may initially be barren or harmful, and soil development and nutrient availability take time and depend on climate, rock composition, weathering and ecological recovery",
+        "C": "Yes, but only for one year",
+        "D": "No; volcanic soils are never fertile"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fresh lava and ash may initially be barren or harmful; soil development and nutrient availability take time and depend on climate, rock composition, weathering and ecological recovery.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q173",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Volcanic Hazards and Benefits",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is geothermal energy?",
+      "options": {
+        "A": "Energy from burning volcanic rocks",
+        "B": "Heat from within Earth that can be used directly or to generate electricity, especially in regions with high subsurface temperatures and accessible geothermal fluids",
+        "C": "Energy from volcanic gases",
+        "D": "Energy from solar radiation on volcanoes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Geothermal energy is heat from within Earth that can be used directly or to generate electricity, especially in regions with high subsurface temperatures and accessible geothermal fluids.",
+      "source": "Volcanoes.pdf, Section 11"
+    },
+    {
+      "id": "Q174",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which statement correctly distinguishes magma and lava?",
+      "options": {
+        "A": "Magma is molten rock at the surface; lava is molten rock below the surface",
+        "B": "Magma is molten or partially molten rock below the surface; lava is magma erupted onto the surface",
+        "C": "Magma and lava are identical",
+        "D": "Lava is found only in space"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magma is molten or partially molten rock below the surface; lava is magma erupted onto the surface.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q175",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which statement about volcanic ash is correct?",
+      "options": {
+        "A": "Volcanic ash is soft ash from burning wood",
+        "B": "Volcanic ash is fine rock and glass fragments, not ash from combustion",
+        "C": "Volcanic ash is always larger than 64 mm",
+        "D": "Volcanic ash is a type of lava flow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic ash is fine rock and glass fragments, not ash from combustion.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q176",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are shield volcanoes broad and gently sloping?",
+      "options": {
+        "A": "Because they are built of viscous rhyolitic lava",
+        "B": "Because fluid lava spreads widely",
+        "C": "Because they are formed by caldera collapse",
+        "D": "Because they are made only of ash"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shield volcanoes are broad and gently sloping because fluid lava spreads widely.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q177",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about composite volcanoes is correct?",
+      "options": {
+        "A": "They are built only of fluid lava flows",
+        "B": "They are built from alternating lava and pyroclastic layers and can have explosive eruptions",
+        "C": "They are always small cinder cones",
+        "D": "They are formed only by fissure eruptions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Composite volcanoes are built from alternating lava and pyroclastic layers and can have explosive eruptions.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q178",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which statement about cinder cones is correct?",
+      "options": {
+        "A": "They are generally larger than shield volcanoes",
+        "B": "They are generally smaller, steep-sided cones made largely of loose pyroclastic fragments",
+        "C": "They are built of alternating lava and ash layers",
+        "D": "They are large collapse depressions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cinder cones are generally smaller, steep-sided cones made largely of loose pyroclastic fragments.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q179",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about fissure eruptions is correct?",
+      "options": {
+        "A": "Fissure eruption is simply another name for a shield volcano",
+        "B": "Fissure eruption refers to lava emerging along cracks; it is not simply another name for a shield volcano",
+        "C": "Fissure eruptions occur only at hotspots",
+        "D": "Fissure eruptions form only cinder cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fissure eruption refers to lava emerging along cracks; it is not simply another name for a shield volcano.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q180",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement correctly compares a crater and a caldera?",
+      "options": {
+        "A": "A crater is usually larger than a caldera",
+        "B": "A crater is usually smaller and vent-centred; a caldera is a much larger collapse depression",
+        "C": "Both are formed only by explosive excavation",
+        "D": "A caldera is always a small bowl-shaped depression"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is usually smaller and vent-centred; a caldera is a much larger collapse depression.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q181",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about active, dormant and extinct volcano categories is correct?",
+      "options": {
+        "A": "They have a single universal time threshold",
+        "B": "They have no single universal time threshold",
+        "C": "They are based only on colour",
+        "D": "They are based only on height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Active, dormant and extinct categories have no single universal time threshold.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q182",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about the Ring of Fire is correct?",
+      "options": {
+        "A": "It is a continuous ring-shaped volcano",
+        "B": "It is a popular belt description, not a continuous ring-shaped volcano or one connected magma system",
+        "C": "It is a single connected magma system",
+        "D": "It is a formal scientific region with fixed boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Ring of Fire is a popular belt description, not a continuous ring-shaped volcano or one connected magma system.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q183",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which statement about volcano locations is correct?",
+      "options": {
+        "A": "All volcanoes occur at plate boundaries",
+        "B": "Not all volcanoes occur at plate boundaries; Hawaii and Yellowstone are hotspot examples",
+        "C": "All volcanoes occur at hotspots",
+        "D": "No volcanoes occur at plate boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not all volcanoes occur at plate boundaries; Hawaii and Yellowstone are hotspot examples.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q184",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about subduction-related, rift and hotspot volcanoes is correct?",
+      "options": {
+        "A": "All volcanoes form volcanic arcs regardless of setting",
+        "B": "Subduction-related volcanoes commonly form volcanic arcs; rift and hotspot volcanoes have different tectonic settings",
+        "C": "Rift volcanoes form only at subduction zones",
+        "D": "Hotspot volcanoes form only at divergent boundaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Subduction-related volcanoes commonly form volcanic arcs; rift and hotspot volcanoes have different tectonic settings.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q185",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about India's volcanic features is correct?",
+      "options": {
+        "A": "Barren Island is a flood-basalt province and the Deccan Traps are an active volcano",
+        "B": "Barren Island is India's only confirmed historically active volcano; the Deccan Traps are ancient flood basalts",
+        "C": "Narcondam is India's only confirmed historically active volcano",
+        "D": "The Deccan Traps are currently erupting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Barren Island is India's only confirmed historically active volcano; the Deccan Traps are ancient flood basalts.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q186",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about Mount Fuji's status is correct?",
+      "options": {
+        "A": "Mount Fuji is universally classified as extinct",
+        "B": "Mount Fuji is often called dormant in simplified textbooks, but scientific catalogues may classify it as active because it has erupted in the Holocene",
+        "C": "Mount Fuji has never erupted",
+        "D": "Mount Fuji is a shield volcano in India"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Fuji is often called dormant in simplified textbooks, but scientific catalogues may classify it as active because it has erupted in the Holocene.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q187",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Common Exam Traps and Corrections",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about current eruption status is correct?",
+      "options": {
+        "A": "Current eruption status never changes",
+        "B": "Current eruption status is time-sensitive and should be checked against an observatory or recognised volcano database",
+        "C": "Current eruption status can be determined from old textbooks only",
+        "D": "Current eruption status is based only on volcano height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Current eruption status is time-sensitive and should be checked against an observatory or recognised volcano database.",
+      "source": "Volcanoes.pdf, Section 12"
+    },
+    {
+      "id": "Q188",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which one-line statement correctly defines a volcano?",
+      "options": {
+        "A": "A volcano is a folded mountain",
+        "B": "A volcano is an opening or system through which magma, gases and volcanic materials reach the surface",
+        "C": "A volcano is a glacial valley",
+        "D": "A volcano is a coral reef"
+      },
+      "correctAnswer": "B",
+      "explanation": "A volcano is an opening or system through which magma, gases and volcanic materials reach the surface.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q189",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which one-line statement correctly defines tephra?",
+      "options": {
+        "A": "Tephra is molten rock below the surface",
+        "B": "Tephra is all fragmented material ejected during an eruption",
+        "C": "Tephra is a type of lava plateau",
+        "D": "Tephra is a large collapse depression"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tephra is all fragmented material ejected during an eruption.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q190",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Volcanic ash particles are generally smaller than:",
+      "options": {
+        "A": "2 mm",
+        "B": "2 cm",
+        "C": "20 cm",
+        "D": "2 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volcanic ash particles are smaller than 2 mm.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q191",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Low-viscosity basaltic lava commonly builds which type of volcano?",
+      "options": {
+        "A": "Composite volcano",
+        "B": "Shield volcano",
+        "C": "Cinder cone",
+        "D": "Caldera"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low-viscosity basaltic lava commonly builds shield volcanoes.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q192",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which pair correctly matches a volcano type with its example?",
+      "options": {
+        "A": "Shield volcano — Mount Fuji",
+        "B": "Composite volcano — Mauna Loa",
+        "C": "Cinder cone — Paricutin",
+        "D": "Caldera — Vesuvius"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cinder cone — Paricutin is a correct match. Shield — Mauna Loa/Kilauea; Composite — Mount Fuji/Vesuvius.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q193",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Fissure eruptions are associated with which examples?",
+      "options": {
+        "A": "Paricutin and Sunset Crater",
+        "B": "Laki and Deccan flood basalts",
+        "C": "Mount Fuji and Vesuvius",
+        "D": "Mauna Loa and Kilauea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fissure eruption: lava emerges through elongated cracks; Laki and Deccan flood basalts are examples.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q194",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a lava plateau?",
+      "options": {
+        "A": "A small bowl-shaped depression around a vent",
+        "B": "A broad elevated region built by repeated lava sheets",
+        "C": "A steep cone of cinders and scoria",
+        "D": "A large collapse depression"
+      },
+      "correctAnswer": "B",
+      "explanation": "A lava plateau is a broad elevated region built by repeated lava sheets.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q195",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Deccan Traps are a major example of which feature?",
+      "options": {
+        "A": "Cinder cone",
+        "B": "Flood-basalt province",
+        "C": "Caldera",
+        "D": "Composite volcano"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deccan Traps are a major Indian flood-basalt province.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q196",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A caldera is best described as:",
+      "options": {
+        "A": "A relatively small depression around a vent",
+        "B": "A large depression caused mainly by collapse after magma withdrawal",
+        "C": "A steep cone of cinders",
+        "D": "A broad plateau of lava"
+      },
+      "correctAnswer": "B",
+      "explanation": "A caldera is a large depression caused mainly by collapse after magma withdrawal.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q197",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Pacific Ring of Fire is best described as:",
+      "options": {
+        "A": "A single connected magma system",
+        "B": "A broad volcanic and earthquake belt around the Pacific",
+        "C": "A mid-ocean ridge in the Atlantic",
+        "D": "A continental rift in Africa"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Pacific Ring of Fire is a broad volcanic and earthquake belt around the Pacific.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q198",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a major cause of volcanism around the Pacific margin?",
+      "options": {
+        "A": "Continental rifting",
+        "B": "Subduction",
+        "C": "Glacial melting",
+        "D": "Meteorite impacts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Subduction is a major cause of volcanism around the Pacific margin.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q199",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Iceland's volcanism is associated with which combination?",
+      "options": {
+        "A": "Subduction plus continental collision",
+        "B": "Mid-Atlantic Ridge plus hotspot influence",
+        "C": "Continental rifting only",
+        "D": "Oceanic trench only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iceland: Mid-Atlantic Ridge plus hotspot influence.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q200",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The East African Rift is associated with which type of volcanism?",
+      "options": {
+        "A": "Subduction-related volcanism",
+        "B": "Continental rifting and volcanism",
+        "C": "Hotspot volcanism only",
+        "D": "Mid-ocean ridge volcanism only"
+      },
+      "correctAnswer": "B",
+      "explanation": "East African Rift: continental rifting and volcanism.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q201",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which volcanic hazards can eruptions produce?",
+      "options": {
+        "A": "Only lava flows",
+        "B": "Ash, lava flows, pyroclastic flows and lahars",
+        "C": "Only ash",
+        "D": "Only lahars"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic eruptions can produce ash, lava flows, pyroclastic flows and lahars.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q202",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "One-line Revision Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are volcanic status classifications and current activity identical?",
+      "options": {
+        "A": "Yes, they are always identical",
+        "B": "No; volcanic status classifications and current activity are not identical",
+        "C": "Yes, both are based only on height",
+        "D": "No; status is based only on colour"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic status classifications and current activity are not identical.",
+      "source": "Volcanoes.pdf, Section 13"
+    },
+    {
+      "id": "Q203",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Molten rock below Earth's surface is called:",
+      "options": {
+        "A": "Lava",
+        "B": "Magma",
+        "C": "Tephra",
+        "D": "Ash"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molten rock below Earth's surface is called magma.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 1"
+    },
+    {
+      "id": "Q204",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Magma that reaches the Earth's surface is called:",
+      "options": {
+        "A": "Lava",
+        "B": "Tephra",
+        "C": "Ash",
+        "D": "Scoria"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magma that reaches the Earth's surface is called lava.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 2"
+    },
+    {
+      "id": "Q205",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which volcano has broad, gentle slopes?",
+      "options": {
+        "A": "Composite",
+        "B": "Shield",
+        "C": "Cinder cone",
+        "D": "Caldera"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shield volcanoes have broad, gentle slopes.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 3"
+    },
+    {
+      "id": "Q206",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A volcano built of alternating lava and pyroclastic layers is a:",
+      "options": {
+        "A": "Shield volcano",
+        "B": "Composite volcano",
+        "C": "Lava plateau",
+        "D": "Fissure only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A composite volcano is built of alternating lava and pyroclastic layers.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 4"
+    },
+        {
+      "id": "Q207",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Paricutin in Mexico is a classic example of a:",
+      "options": {
+        "A": "Cinder cone",
+        "B": "Shield volcano",
+        "C": "Caldera",
+        "D": "Mid-ocean ridge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Paricutin in Mexico is a classic example of a cinder cone.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 5"
+    },
+    {
+      "id": "Q208",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A fissure eruption occurs through:",
+      "options": {
+        "A": "A single circular crater only",
+        "B": "Long cracks in the crust",
+        "C": "River valleys",
+        "D": "Ocean trenches only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A fissure eruption occurs through long cracks in the crust.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 6"
+    },
+    {
+      "id": "Q209",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Deccan Traps are an example of:",
+      "options": {
+        "A": "Coral reef",
+        "B": "Flood-basalt province",
+        "C": "Glacial moraine",
+        "D": "Fold mountain"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deccan Traps are an example of a flood-basalt province.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 7"
+    },
+    {
+      "id": "Q210",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A large collapse depression at a volcano is called a:",
+      "options": {
+        "A": "Crater",
+        "B": "Caldera",
+        "C": "Dyke",
+        "D": "Sill"
+      },
+      "correctAnswer": "B",
+      "explanation": "A large collapse depression at a volcano is called a caldera.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 8"
+    },
+    {
+      "id": "Q211",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which volcano is a famous shield volcano in Hawaii?",
+      "options": {
+        "A": "Mauna Loa",
+        "B": "Vesuvius",
+        "C": "Fuji",
+        "D": "Cotopaxi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mauna Loa is a famous shield volcano in Hawaii.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 9"
+    },
+    {
+      "id": "Q212",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Pacific Ring of Fire is associated mainly with:",
+      "options": {
+        "A": "Divergent boundaries only",
+        "B": "Subduction zones and plate boundaries",
+        "C": "Hotspots only",
+        "D": "Continental rifts only"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Pacific Ring of Fire is associated mainly with subduction zones and plate boundaries.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 10"
+    },
+    {
+      "id": "Q213",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which region is associated with a divergent ridge and hotspot influence?",
+      "options": {
+        "A": "Iceland",
+        "B": "Sahara",
+        "C": "Amazon Basin",
+        "D": "Indo-Gangetic Plain"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iceland is associated with a divergent ridge (Mid-Atlantic Ridge) and hotspot influence.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 11"
+    },
+    {
+      "id": "Q214",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "India's only confirmed historically active volcano is:",
+      "options": {
+        "A": "Narcondam",
+        "B": "Barren Island",
+        "C": "Deccan Traps",
+        "D": "Dhindohar"
+      },
+      "correctAnswer": "B",
+      "explanation": "India's only confirmed historically active volcano is Barren Island.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 12"
+    },
+    {
+      "id": "Q215",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is a volcanic mudflow or debris flow?",
+      "options": {
+        "A": "Lahar",
+        "B": "Loess",
+        "C": "Moraine",
+        "D": "Delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lahar is a volcanic mudflow or debris flow.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 13"
+    },
+    {
+      "id": "Q216",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Volcanic ash consists of particles generally smaller than:",
+      "options": {
+        "A": "2 mm",
+        "B": "2 cm",
+        "C": "20 cm",
+        "D": "2 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volcanic ash consists of particles generally smaller than 2 mm.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 14"
+    },
+    {
+      "id": "Q217",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Practice MCQs",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which statement about dormant volcanoes is correct?",
+      "options": {
+        "A": "They can never erupt again",
+        "B": "They are quiet but may erupt again",
+        "C": "They are always erupting",
+        "D": "They contain no magma system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dormant volcanoes are quiet but may erupt again.",
+      "source": "Volcanoes.pdf, Section 14, MCQ 15"
+    },
+    {
+      "id": "Q218",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best defines volcanic activity and its major causes?",
+      "options": {
+        "A": "Volcanic activity is only surface lava flow caused by meteorites",
+        "B": "Volcanic activity is the movement of magma from within Earth into the crust or onto the surface, with gases and solid fragments; major causes include decompression melting, addition of water and other volatiles, and heat transfer",
+        "C": "Volcanic activity is only gas release caused by weathering",
+        "D": "Volcanic activity is only the collapse of calderas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volcanic activity is the movement of magma from within Earth into the crust or onto the surface, together with gases and solid fragments; major causes include decompression melting, addition of water and other volatiles, and heat transfer.",
+      "source": "Volcanoes.pdf, Section 14 (Short-answer practice), Sections 1–2"
+    },
+    {
+      "id": "Q219",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement best explains the role of viscosity in eruption style?",
+      "options": {
+        "A": "High-viscosity magma is always effusive; low-viscosity magma is always explosive",
+        "B": "Low-viscosity magma allows gas to escape and tends to produce effusive eruptions; high-viscosity magma traps gas and tends to produce explosive eruptions",
+        "C": "Viscosity has no effect on eruption style",
+        "D": "Viscosity depends only on volcano height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low-viscosity magma allows gas to escape and tends to produce effusive eruptions; high-viscosity magma traps gas and tends to produce explosive eruptions.",
+      "source": "Volcanoes.pdf, Sections 2–3, Section 14 (Short-answer practice)"
+    },
+    {
+      "id": "Q220",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement correctly distinguishes active, dormant and extinct volcanoes?",
+      "options": {
+        "A": "Active volcanoes never erupt; dormant volcanoes always erupt; extinct volcanoes erupt yearly",
+        "B": "Active volcanoes are erupting now, recently erupted, or show credible potential to erupt again; dormant volcanoes are currently quiet but capable of future eruption; extinct volcanoes are not expected to erupt again",
+        "C": "All three categories are identical",
+        "D": "Extinct volcanoes are always the most dangerous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Active volcanoes are erupting now, recently erupted, or show credible potential to erupt again; dormant volcanoes are currently quiet but capable of future eruption; extinct volcanoes are not expected to erupt again.",
+      "source": "Volcanoes.pdf, Section 4, Section 14 (Short-answer practice)"
+    },
+    {
+      "id": "Q221",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which comparison of shield, composite and cinder cone volcanoes is correct?",
+      "options": {
+        "A": "Shield: steep and layered; Composite: broad and gentle; Cinder cone: large and flat",
+        "B": "Shield: broad, gently sloping, fluid lava flows; Composite: steep-sided, alternating lava and pyroclastic layers; Cinder cone: small, steep, loose pyroclastic fragments",
+        "C": "All three are identical in shape and composition",
+        "D": "Shield: made only of ash; Composite: made only of cinders; Cinder cone: made only of lava"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shield volcanoes are broad and gently sloping with fluid lava flows; composite volcanoes are steep-sided with alternating lava and pyroclastic layers; cinder cones are small, steep cones of loose pyroclastic fragments.",
+      "source": "Volcanoes.pdf, Section 5, Section 14 (Short-answer practice)"
+    },
+    {
+      "id": "Q222",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement best explains fissure eruptions and the formation of lava plateaus?",
+      "options": {
+        "A": "Fissure eruptions occur from a single circular vent and never form plateaus",
+        "B": "Fissure eruptions occur when lava emerges from long cracks in the crust; large volumes of fluid lava spread over extensive areas and repeated flows stack successive lava sheets, forming a thick, wide lava plateau",
+        "C": "Lava plateaus form only by caldera collapse",
+        "D": "Fissure eruptions form only cinder cones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fissure eruptions occur when lava emerges from long cracks in the crust; large volumes of fluid lava spread over extensive areas and repeated flows stack successive lava sheets, forming a thick, wide lava plateau.",
+      "source": "Volcanoes.pdf, Sections 5.4 and 6.2, Section 14 (Short-answer practice)"
+    },
+    {
+      "id": "Q223",
+      "subject": "General Knowledge",
+      "topic": "Volcanoes",
+      "chapter": "Short-answer Practice",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement best differentiates a volcanic crater and a caldera?",
+      "options": {
+        "A": "A crater is larger than a caldera",
+        "B": "A crater is a relatively small, usually circular or bowl-shaped depression around a vent; a caldera is a much larger basin-shaped depression formed mainly by collapse of a volcanic edifice or reservoir roof after substantial magma withdrawal",
+        "C": "Both are formed only by glacial erosion",
+        "D": "A caldera is always smaller than a crater"
+      },
+      "correctAnswer": "B",
+      "explanation": "A crater is a relatively small, usually circular or bowl-shaped depression around a vent; a caldera is a much larger basin-shaped depression formed mainly by collapse of a volcanic edifice or reservoir roof after substantial magma withdrawal.",
+      "source": "Volcanoes.pdf, Sections 6.3–6.4, Section 14 (Short-answer practice)"
+    }
+  ]
+}

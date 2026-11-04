@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createBookmarkStore, selectRevisionQuestions } from "./practice.js";
+import { createBookmarkStore, selectRevisionQuestions, selectRevisionQuestionsFromResults } from "./practice.js";
 import { calculateResults } from "./scoring.js";
 
 function createMemoryStorage() {
@@ -26,6 +26,30 @@ test("revision selection includes wrong and marked answers exactly once", () => 
   ];
 
   assert.deepEqual(selectRevisionQuestions(questions, answers).map(question => question.id), ["Q1", "Q2", "Q3"]);
+});
+
+test("saved revision selection combines attempts and removes duplicate questions", () => {
+  const repeatedQuestion = { id:"Q1", correctAnswer:"A" };
+  const results = [
+    { questions:[repeatedQuestion], answers:[{ selected:"B" }] },
+    { questions:[repeatedQuestion, { id:"Q2", correctAnswer:"B" }], answers:[{ selected:"A" }, { selected:null, review:true }] }
+  ];
+
+  assert.deepEqual(selectRevisionQuestionsFromResults(results), [
+    repeatedQuestion,
+    { id:"Q2", correctAnswer:"B" }
+  ]);
+});
+
+test("saved revision selection keeps eligible questions without IDs", () => {
+  const questions = [
+    { question:"First?", correctAnswer:"A" },
+    { question:"Second?", correctAnswer:"B" }
+  ];
+  assert.deepEqual(selectRevisionQuestionsFromResults([{
+    questions,
+    answers:[{ selected:"B" }, { selected:"A" }]
+  }]), questions);
 });
 
 test("question bookmarks persist, toggle, and deduplicate", () => {

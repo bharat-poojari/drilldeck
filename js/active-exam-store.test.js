@@ -48,6 +48,20 @@ test("active exam snapshots persist and can be cleared", () => {
   assert.equal(store.load(), null);
 });
 
+test("active daily challenges retain their identity when an exam is resumed", () => {
+  const store = createActiveExamStore(createMemoryStorage());
+  const snapshot = {
+    ...makeSnapshot(),
+    challenge:{ type:"daily-drill", date:"2026-11-04" }
+  };
+  store.save(snapshot);
+  assert.deepEqual(store.load().challenge, snapshot.challenge);
+  assert.throws(() => store.save({
+    ...snapshot,
+    challenge:{ type:"daily-drill", date:"not-a-date" }
+  }), /unsupported format/);
+});
+
 test("invalid active exam snapshots are rejected", () => {
   const storage = createMemoryStorage();
   const store = createActiveExamStore(storage);

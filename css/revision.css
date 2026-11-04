@@ -1,0 +1,60 @@
+.my-revision-panel{width:min(100%,1240px);margin:0 auto 28px;padding:26px}
+.revision-section-heading{gap:12px}
+.revision-section-heading h2{font:800 25px Manrope,sans-serif;letter-spacing:-.7px}
+.revision-private-note{color:var(--muted);font-size:10px}
+.revision-intro{max-width:760px;margin:9px 0 17px;color:var(--muted);font-size:12px}
+.my-revision-status{min-height:0;margin:0;color:var(--red);font-size:11px}
+.my-revision-status:empty{display:none}
+.revision-category-tabs{display:flex;gap:7px;overflow-x:auto;padding:3px 1px 9px}
+.revision-category-tabs button{display:inline-flex;align-items:center;gap:7px;flex:0 0 auto;min-height:36px;padding:0 11px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--muted);font-size:11px;font-weight:700}
+.revision-category-tabs button.active{border-color:var(--primary);background:var(--primary-soft);color:var(--primary-dark)}
+.revision-category-tabs button span{display:grid;min-width:19px;height:19px;place-items:center;border-radius:999px;background:var(--surface-2);font-size:10px}
+.revision-filter-row{display:grid;grid-template-columns:repeat(3,minmax(130px,1fr)) minmax(180px,1.3fr);gap:10px;margin:10px 0}
+.revision-filter-row label,.revision-set-tools>label{display:grid;gap:4px;color:var(--muted);font-size:10px;font-weight:700}
+.revision-filter-row select,.revision-filter-row input,.revision-set-tools input,.saved-set-actions select{width:100%;min-width:0;height:38px;padding:0 10px;border:1px solid var(--line);border-radius:9px;background:var(--surface);color:var(--text);font:inherit;font-size:11px}
+.revision-actions{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.revision-actions .button{min-height:37px;font-size:11px}
+.revision-actions .button:disabled,.revision-set-tools .button:disabled{opacity:.5;cursor:not-allowed}
+.revision-set-tools{margin:13px 0;padding:14px;border:1px solid var(--line);border-radius:12px;background:var(--surface-2)}
+.revision-set-tools>div:first-of-type{display:flex;gap:8px;margin-top:7px}
+.revision-set-tools input{max-width:340px}
+.revision-set-tools .button{min-height:38px;font-size:10px}
+.saved-set-actions{display:grid;grid-template-columns:auto minmax(150px,1fr) auto auto;align-items:center;gap:8px;margin-top:11px}
+.saved-set-actions label{color:var(--muted);font-size:10px;font-weight:700}
+.revision-question-list{display:grid;gap:9px;margin-top:13px}
+.revision-question-card{padding:14px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.revision-question-card.mastered{opacity:.72}
+.revision-card-top{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:start;gap:10px}
+.revision-select-question{margin-top:4px}
+.revision-card-main{min-width:0}
+.revision-card-main summary{cursor:pointer;font-size:12px;font-weight:700;line-height:1.55;overflow-wrap:anywhere}
+.revision-question-meta{display:flex;flex-wrap:wrap;gap:5px 12px;margin-top:5px;color:var(--muted);font-size:10px}
+.revision-question-meta .review-due{color:var(--amber);font-weight:700}
+.revision-question-meta .review-later{color:var(--green)}
+.revision-card-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}
+.revision-card-actions button{min-height:29px;padding:0 9px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--text);font-size:10px;font-weight:700}
+.revision-card-actions button:hover{border-color:var(--primary)}
+.revision-answer{margin:11px 0 0;padding:10px;border-radius:9px;background:var(--surface-2);font-size:11px}
+.revision-answer strong,.revision-answer p{display:block;margin:0 0 5px}
+.revision-answer p{color:var(--muted)}
+.revision-answer a{overflow-wrap:anywhere}
+.revision-mastered-label{color:var(--green);font-size:10px;font-weight:700}
+#revision-load-more-button{display:flex;margin:12px auto 0}
+.revision-empty{padding:20px;text-align:center;color:var(--muted);font-size:12px}
+@media(max-width:700px){
+  .my-revision-panel{padding:18px}
+  .revision-filter-row{grid-template-columns:1fr 1fr}
+  .saved-set-actions{grid-template-columns:1fr 1fr}
+  .saved-set-actions label{grid-column:1/-1}
+}
+@media(max-width:460px){
+  .my-revision-panel{padding:14px}
+  .revision-section-heading{align-items:flex-start;flex-direction:column}
+  .revision-filter-row{grid-template-columns:1fr}
+  .revision-card-top{grid-template-columns:auto minmax(0,1fr)}
+  .revision-card-actions{grid-column:2;justify-content:flex-start}
+  .revision-set-tools>div:first-of-type{flex-direction:column}
+  .revision-set-tools input{max-width:none}
+  .saved-set-actions{grid-template-columns:1fr}
+  .saved-set-actions label{grid-column:auto}
+}

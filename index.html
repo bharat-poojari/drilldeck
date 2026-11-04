@@ -117,6 +117,9 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/exam.css">
   <link rel="stylesheet" href="css/result.css">
+  <link rel="stylesheet" href="css/performance-insights.css">
+  <link rel="stylesheet" href="css/daily-challenge.css">
+  <link rel="stylesheet" href="css/revision.css">
 </head>
 <body>
   <div class="app-shell">
@@ -131,6 +134,7 @@
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <a href="#home-view" data-menu-target="home">Home</a>
         <a href="#quick-test-view" data-menu-target="quick-test">Quick test</a>
+        <a href="#my-revision" data-menu-target="my-revision">My Revision</a>
         <a href="#setup-panel" data-menu-target="custom-test">Custom test</a>
         <a href="#about-view" data-menu-target="about">About</a>
       </nav>
@@ -158,17 +162,42 @@
           </div>
         </div>
         <section class="daily-challenge-card panel" aria-labelledby="daily-challenge-title">
-          <div class="daily-challenge-copy">
-            <span class="step-label">A FRESH QUESTION EVERY DAY</span>
-            <h2 id="daily-challenge-title">Question of the Day</h2>
-            <p id="daily-challenge-prompt" role="status" aria-live="polite">Loading today's question…</p>
-            <small id="daily-challenge-meta"></small>
+          <div class="daily-drill-heading">
+            <div class="daily-challenge-copy">
+              <span class="step-label">YOUR DAILY PRACTICE</span>
+              <h2 id="daily-challenge-title">Today's Daily Drill</h2>
+              <p>10 General Knowledge · 5 Karnataka · 5 General Science · 5 Current Affairs</p>
+              <small>25 questions · 20 minutes · Review each explanation and learn at your own pace. Consistency matters more than your score.</small>
+            </div>
+            <button class="button button-primary" id="daily-drill-start" type="button" disabled>Start today's drill <span aria-hidden="true">→</span></button>
           </div>
-          <div class="daily-challenge-action">
-            <span>1 question · 1 minute</span>
-            <button class="button button-primary" id="daily-challenge-start" type="button" disabled>Start today's challenge <span aria-hidden="true">→</span></button>
-            <p id="daily-challenge-error" role="alert"></p>
+          <p id="daily-challenge-error" role="alert"></p>
+          <div class="daily-challenge-options" aria-label="More daily challenges">
+            <button class="challenge-option" id="karnataka-challenge-start" type="button" disabled>
+              <span class="challenge-option-icon" aria-hidden="true">K</span>
+              <span><strong>Karnataka GK</strong><small>10 questions · 10 minutes</small></span>
+              <span aria-hidden="true">→</span>
+            </button>
+            <button class="challenge-option" id="current-affairs-challenge-start" type="button" disabled>
+              <span class="challenge-option-icon" aria-hidden="true">↗</span>
+              <span><strong>Current Affairs</strong><small>10 questions · 10 minutes</small></span>
+              <span aria-hidden="true">→</span>
+            </button>
+            <div class="question-of-day">
+              <span class="step-label">ONE QUICK QUESTION</span>
+              <p id="daily-challenge-prompt" role="status" aria-live="polite">Loading today's question…</p>
+              <small id="daily-challenge-meta"></small>
+              <button class="button button-outline" id="daily-challenge-start" type="button" disabled>Try Question of the Day</button>
+            </div>
           </div>
+          <section class="weekly-activity" aria-labelledby="weekly-activity-title">
+            <div class="weekly-activity-heading">
+              <div><span class="step-label">STEADY PRACTICE</span><h3 id="weekly-activity-title">Your weekly activity</h3></div>
+              <div class="streak-summary"><strong id="challenge-streak">0 day streak</strong><span id="challenge-month-progress">0 practice days this month</span></div>
+            </div>
+            <div id="challenge-week" class="challenge-week" aria-label="Weekly completed practice days"></div>
+            <p id="challenge-week-summary" class="challenge-week-summary" role="status" aria-live="polite">Complete a challenge to start your weekly activity.</p>
+          </section>
         </section>
         <section class="mode-cards" aria-label="Choose an exam mode">
           <article class="mode-card quick-mode-card">
@@ -191,6 +220,54 @@
             <div class="mode-card-note"><span class="mode-note-check" aria-hidden="true">✓</span> TOPIC-LEVEL · TIMED · YOUR PACE</div>
             <a class="button button-primary" href="#setup-view" data-menu-target="custom-test">Build your mock test <span aria-hidden="true">↗</span></a>
           </article>
+          <article class="mode-card revision-mode-card">
+            <div class="mode-card-topline"><span class="mode-card-icon revision-mode-icon" aria-hidden="true">↻</span><span class="mode-card-index">03 / LEARN FROM MISTAKES</span></div>
+            <span class="mode-card-kicker">YOUR PERSONAL REVIEW SET</span>
+            <h2>Revision mode</h2>
+            <p>Retry questions you answered incorrectly or marked for review in your saved tests. Untimed, with explanations after each answer.</p>
+            <div class="mode-card-note"><span class="mode-note-check" aria-hidden="true">✓</span> <span id="revision-mode-count">Loading revision questions…</span></div>
+            <button class="button button-outline" id="revision-mode-button" type="button" disabled>Start revision <span aria-hidden="true">→</span></button>
+            <p class="revision-mode-status" id="revision-mode-status" role="status" aria-live="polite"></p>
+          </article>
+        </section>
+        <section class="panel my-revision-panel" id="my-revision" aria-labelledby="my-revision-title">
+          <div class="section-heading revision-section-heading">
+            <div><span class="step-label">YOUR PERSONAL STUDY SPACE</span><h2 id="my-revision-title">My Revision</h2></div>
+            <span class="revision-private-note">Saved privately on this device</span>
+          </div>
+          <p class="revision-intro">Review questions you missed, left unanswered, bookmarked, or marked for extra attention. Correct answers return at longer intervals so you can focus on what needs practice.</p>
+          <p id="my-revision-status" class="my-revision-status" role="status" aria-live="polite"></p>
+          <div class="revision-category-tabs" id="revision-category-tabs" role="group" aria-label="Filter revision questions">
+            <button type="button" class="active" data-revision-category="all">All <span data-count="all">0</span></button>
+            <button type="button" data-revision-category="bookmarked">Bookmarked <span data-count="bookmarked">0</span></button>
+            <button type="button" data-revision-category="incorrect">Incorrect <span data-count="incorrect">0</span></button>
+            <button type="button" data-revision-category="unattempted">Unattempted <span data-count="unattempted">0</span></button>
+            <button type="button" data-revision-category="difficult">Difficult <span data-count="difficult">0</span></button>
+            <button type="button" data-revision-category="set">Custom sets <span data-count="sets">0</span></button>
+          </div>
+          <div class="revision-filter-row">
+            <label>Subject<select id="revision-subject-filter"><option value="all">All subjects</option></select></label>
+            <label>Topic<select id="revision-topic-filter"><option value="all">All topics</option></select></label>
+            <label>Sort by<select id="revision-sort"><option value="recent">Most recently attempted</option><option value="due">Next review due</option><option value="incorrect">Most incorrect</option></select></label>
+            <label class="revision-search-label">Search<input id="revision-search" type="search" placeholder="Find a question…" autocomplete="off"></label>
+          </div>
+          <div class="revision-actions">
+            <button class="button button-outline" id="retry-incorrect-button" type="button" disabled>Retry all incorrect</button>
+            <button class="button button-outline" id="practice-bookmarked-revision-button" type="button" disabled>Practise bookmarked</button>
+            <button class="button button-primary" id="practice-due-revision-button" type="button" disabled>Practise due questions</button>
+          </div>
+          <div class="revision-set-tools">
+            <label for="revision-set-name">Create a custom revision set from selected questions</label>
+            <div><input id="revision-set-name" type="text" maxlength="60" placeholder="Set name (e.g. Indian Geography)"><button class="button button-outline" id="create-revision-set-button" type="button" disabled>Save selected</button></div>
+            <div class="saved-set-actions">
+              <label for="revision-set-select">Saved set</label>
+              <select id="revision-set-select"><option value="">Choose a custom set</option></select>
+              <button class="button button-outline" id="practice-revision-set-button" type="button" disabled>Practise set</button>
+              <button class="button button-outline" id="delete-revision-set-button" type="button" disabled>Delete set</button>
+            </div>
+          </div>
+          <div id="revision-question-list" class="revision-question-list" aria-live="polite"></div>
+          <button class="button button-ghost hidden" id="revision-load-more-button" type="button">Load more questions</button>
         </section>
         <section class="home-benefits" aria-label="Practice features">
           <div class="home-section-heading"><span class="step-label">A BETTER WAY TO PREPARE</span><h2>Made for focused progress.</h2></div>
@@ -614,9 +691,25 @@
           </section>
         </div>
         <section class="panel subject-panel">
-          <div class="section-heading"><div><span class="step-label">PERFORMANCE INSIGHTS</span><h2>Subject-wise performance</h2></div></div>
+          <div class="section-heading"><div><span class="step-label">PREPARATION INSIGHTS</span><h2>Subject-wise performance</h2></div></div>
+          <p class="insight-sample-note">Strong/weak labels need at least 3 attempted questions. Accuracy and trends use your saved tests on this device.</p>
           <div id="subject-analysis" class="subject-analysis"></div>
           <div id="recommendations" class="recommendations"></div>
+        </section>
+        <section class="panel topic-insights-panel">
+          <div class="section-heading"><div><span class="step-label">TOPIC BREAKDOWN</span><h2>Topic-wise performance</h2></div></div>
+          <div id="topic-analysis" class="topic-analysis"></div>
+        </section>
+        <section class="panel progress-panel">
+          <div class="section-heading"><div><span class="step-label">YOUR PROGRESS</span><h2>Improvement over time</h2></div></div>
+          <div id="progress-summary" class="progress-summary"></div>
+          <div class="progress-columns">
+            <section><h3>Recent tests</h3><div id="test-progress-list"></div></section>
+            <section>
+              <h3>Repeatedly missed topics</h3><div id="repeated-topic-list"></div>
+              <h3 class="repeated-question-heading">Questions missed more than once</h3><div id="repeated-incorrect-list"></div>
+            </section>
+          </div>
         </section>
         <section class="panel review-panel">
           <div class="review-header"><div><span class="step-label">LEARN FROM EVERY QUESTION</span><h2>Answer review</h2><p>Check your selected answers against the correct answers and explanations.</p></div><span class="review-total" id="review-total">0 questions</span></div>
@@ -656,7 +749,7 @@
     <div class="modal-card">
       <button class="modal-close" id="modal-close" aria-label="Close">×</button>
       <div class="modal-symbol">?</div><span class="step-label">FINAL CHECK</span><h2 id="modal-title">Submit your test?</h2>
-      <p>Once submitted, your answers will be locked and your result will be calculated.</p>
+      <p id="modal-description">Once submitted, your answers will be locked and your result will be calculated.</p>
       <div class="modal-stats"><div><strong id="modal-answered">0</strong><span>Answered</span></div><div><strong id="modal-unanswered">0</strong><span>Unanswered</span></div><div><strong id="modal-review">0</strong><span>For review</span></div></div>
       <div class="modal-warning" id="modal-warning">You still have unanswered questions. You can return to the test or submit now.</div>
       <div class="modal-actions"><button class="button button-ghost" id="modal-return">Return to test</button><button class="button button-primary" id="modal-confirm">Confirm submission</button></div>

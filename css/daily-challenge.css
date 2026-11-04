@@ -1,0 +1,51 @@
+.daily-challenge-card{display:block;width:min(100%,1240px);padding:24px;margin-bottom:20px}
+.daily-drill-heading{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.daily-drill-heading .daily-challenge-copy h2{margin:5px 0;font:800 24px Manrope,sans-serif;letter-spacing:-.7px}
+.daily-drill-heading .daily-challenge-copy p{margin:0;color:var(--text);font-size:13px;font-weight:700}
+.daily-drill-heading .daily-challenge-copy small{display:block;margin-top:6px;color:var(--muted);font-size:11px}
+.daily-drill-heading>.button{flex:0 0 auto;min-height:48px}
+#daily-challenge-error{min-height:0;margin:8px 0 0;color:var(--red);font-size:11px}
+.daily-challenge-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:18px}
+.challenge-option{display:grid;grid-template-columns:34px minmax(0,1fr) 16px;align-items:center;gap:10px;min-width:0;padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--text);text-align:left}
+.challenge-option:not(:disabled):hover{border-color:var(--primary);background:var(--surface-2)}
+.challenge-option:disabled{opacity:.55;cursor:not-allowed}
+.challenge-option-icon{display:grid;width:32px;height:32px;place-items:center;border-radius:10px;background:var(--primary-soft);color:var(--primary-dark);font-weight:800}
+.challenge-option strong,.challenge-option small{display:block}
+.challenge-option strong{font-size:12px}
+.challenge-option small{margin-top:2px;color:var(--muted);font-size:10px}
+.question-of-day{grid-column:1/-1;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:4px 16px;padding:13px 15px;border-radius:12px;background:var(--surface-2)}
+.question-of-day .step-label,.question-of-day p,.question-of-day>small{grid-column:1}
+.question-of-day p{margin:0;font-size:12px;font-weight:600;line-height:1.5}
+.question-of-day>small{color:var(--muted);font-size:10px}
+.question-of-day .button{grid-column:2;grid-row:1/4;white-space:nowrap}
+.weekly-activity{margin-top:20px;padding-top:17px;border-top:1px solid var(--line)}
+.weekly-activity-heading{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.weekly-activity-heading h3{margin:3px 0 0;font:700 15px Manrope,sans-serif}
+.streak-summary{text-align:right}
+.streak-summary strong,.streak-summary span{display:block}
+.streak-summary strong{font-size:12px}
+.streak-summary span{color:var(--muted);font-size:10px}
+.challenge-week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:8px;margin-top:13px}
+.challenge-week-day{display:grid;justify-items:center;gap:4px;padding:8px 4px;border:1px solid var(--line);border-radius:10px;color:var(--muted)}
+.challenge-week-day>span{font-size:10px;font-weight:700}
+.challenge-week-day i{display:grid;width:24px;height:24px;place-items:center;border-radius:50%;background:var(--surface-2);color:var(--muted);font-size:12px;font-style:normal}
+.challenge-week-day.completed i{background:var(--green-soft);color:var(--green)}
+.challenge-week-day.today{border-color:var(--primary)}
+.challenge-week-day small{font-size:9px}
+.challenge-week-summary{margin:10px 0 0;color:var(--muted);font-size:10px}
+@media(max-width:700px){
+  .daily-challenge-card{padding:18px}
+  .daily-drill-heading{align-items:flex-start;flex-direction:column}
+  .daily-drill-heading .daily-challenge-copy h2{font-size:21px}
+  .daily-drill-heading>.button{width:100%;justify-content:center}
+  .daily-challenge-options{grid-template-columns:1fr}
+  .question-of-day{grid-column:auto}
+}
+@media(max-width:420px){
+  .daily-challenge-card{padding:14px}
+  .question-of-day{grid-template-columns:minmax(0,1fr)}
+  .question-of-day .step-label,.question-of-day p,.question-of-day>small,.question-of-day .button{grid-column:1;grid-row:auto}
+  .question-of-day .button{width:100%;margin-top:6px}
+  .challenge-week{gap:4px}
+  .challenge-week-day{padding:7px 2px}
+}

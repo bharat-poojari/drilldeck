@@ -17,9 +17,13 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Active-test autosave and resume after refresh, with the original timer deadline preserved.
 - Submission confirmation and a second browser confirmation.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
-- Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
-- Start a focused revision test from the questions answered incorrectly in any completed result.
-- Try a deterministic Question of the Day challenge, validated against the server question bank and saved with normal test history.
+- Dedicated Practice Mode with no timer or negative marking, immediate answer feedback and explanations, bookmarks, and free question navigation.
+- Revision Mode is available from the home screen and combines questions answered incorrectly or marked for review in saved test history; the result page also offers a focused revision set.
+- My Revision organizes saved questions into bookmarked, incorrect, unanswered and difficult collections, with subject/topic filters, recent/due/incorrect sorting, retry actions and custom sets saved privately in this browser.
+- Revision scheduling brings incorrect answers back after one day, then spaces correct answers at 1, 3, 7, 14 and 30 day intervals as correct streaks grow. Mark a question mastered to remove it from active revision categories; bookmarks remain until removed.
+- Score, accuracy, attempt rate, subject/topic insights, time analysis and answer review. Preparation insights use saved local test history to track correct/incorrect answers, average time per attempted question, test-to-test accuracy changes and repeatedly missed questions. Strong/weak classifications require at least three attempted questions; smaller samples are labeled insufficient.
+- Complete a date-stable 25-question Daily Drill (10 General Knowledge, 5 Karnataka GK, 5 General Science and 5 Current Affairs), plus focused Karnataka GK and Current Affairs challenges and a Question of the Day.
+- Track challenge practice days, a private daily streak, weekly activity and monthly practice milestones from locally saved results. A challenge counts as a practice day after attempting at least half its questions; scores and total question volume do not increase streaks.
 - Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
 - Import/export of versioned JSON backups to transfer local test history between browsers or devices.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.
@@ -161,7 +165,10 @@ mock-test-platform/
 ├── css/
 │   ├── style.css
 │   ├── exam.css
-│   └── result.css
+│   ├── result.css
+│   ├── performance-insights.css
+│   ├── revision.css
+│   └── daily-challenge.css
 ├── api/
 │   ├── account.js
 │   ├── history.js
@@ -177,6 +184,9 @@ mock-test-platform/
 │   ├── exam.js
 │   ├── timer.js
 │   ├── scoring.js
+│   ├── performance-insights.js
+│   ├── daily-challenge.js
+│   ├── revision.js
 │   └── results.js
 ├── assets/
 │   ├── drilldeck-mark.svg

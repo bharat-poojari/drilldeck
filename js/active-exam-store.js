@@ -15,6 +15,12 @@ function isQuestion(question) {
     typeof question.subject === "string";
 }
 
+function isChallenge(challenge) {
+  return challenge === null || (challenge && typeof challenge === "object" &&
+    ["daily-drill", "question-of-day", "karnataka", "current-affairs"].includes(challenge.type) &&
+    typeof challenge.date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(challenge.date));
+}
+
 function isSnapshot(snapshot) {
   return snapshot && typeof snapshot === "object" && !Array.isArray(snapshot) &&
     snapshot.version === VERSION &&
@@ -38,7 +44,8 @@ function isSnapshot(snapshot) {
     isStringArray(snapshot.context.categories) &&
     isStringArray(snapshot.context.datasets) &&
     isStringArray(snapshot.context.topics) &&
-    typeof snapshot.context.difficulty === "string";
+    typeof snapshot.context.difficulty === "string" &&
+    (snapshot.challenge === undefined || isChallenge(snapshot.challenge));
 }
 
 function validateSnapshot(snapshot) {

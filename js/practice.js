@@ -7,6 +7,22 @@ export function selectRevisionQuestions(questions, answers) {
   });
 }
 
+export function selectRevisionQuestionsFromResults(results) {
+  const selected = new Map();
+  for (const result of results) {
+    const questions = selectRevisionQuestions(result.questions || [], result.answers || []);
+    for (const question of questions) {
+      if (typeof question.id !== "string" && typeof question.id !== "number") {
+        selected.set(Symbol(), question);
+        continue;
+      }
+      const id = String(question.id);
+      if (!selected.has(id)) selected.set(id, question);
+    }
+  }
+  return [...selected.values()];
+}
+
 export function createBookmarkStore(storage) {
   function read() {
     let raw;

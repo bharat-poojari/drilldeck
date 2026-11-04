@@ -62,6 +62,21 @@ test("practice mode and review markers survive local result persistence", () => 
   assert.equal(store.getData().results[0].answers[0].review, true);
 });
 
+test("daily challenge metadata is preserved in local results and backups", () => {
+  const storage = createMemoryStorage();
+  const store = createResultsStore(storage);
+  const result = makeResult("result-daily");
+  result.challengeType = "daily-drill";
+  result.challengeDate = "2026-11-04";
+  store.saveResult(result);
+
+  const restored = createResultsStore(createMemoryStorage());
+  restored.importData(store.exportData());
+
+  assert.equal(restored.getData().results[0].challengeType, "daily-drill");
+  assert.equal(restored.getData().results[0].challengeDate, "2026-11-04");
+});
+
 test("private results persist without leaderboard consent and publication status can change", () => {
   const store = createResultsStore(createMemoryStorage());
   const result = makeResult("result-private");

@@ -8,8 +8,14 @@ import { createResultsStore } from "./results-store.js";
 import { createActiveExamStore } from "./active-exam-store.js";
 import { createTopicSelection } from "./topic-selector.js";
 import { resolveAppRoute } from "./route-utils.js";
-import { selectQuestionOfTheDay } from "./daily-challenge.js";
-import { createBookmarkStore } from "./practice.js";
+import {
+  challengeMeetsCompletionThreshold,
+  getChallengeActivity,
+  selectDailyDrill,
+  selectQuestionOfTheDay,
+  selectSpecialChallenge
+} from "./daily-challenge.js";
+import { createBookmarkStore, selectRevisionQuestionsFromResults } from "./practice.js";
 
 const $ = id => document.getElementById(id);
 const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -46,6 +52,7 @@ let currentSetupStep = 1;
 let activeExamSaveTimeout = null;
 let dailyChallengeQuestion = null;
 let dailyChallengeStarting = false;
+let activeChallenge = null;
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
   '<svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
@@ -142,8 +149,10 @@ function renderLocalHistory() {
     status.classList.remove("error-message");
     if (!results.length) {
       container.innerHTML = '<p class="empty-datasets">Your completed tests will appear here. Results stay on this device unless you export a backup.</p>';
+      updateRevisionAvailability(results);
       return;
     }
+    updateRevisionAvailability(results);
     container.innerHTML = `<ol class="score-list">${results.map(result => {
       const canManage = result.userId === null && Boolean(result.guestId);
       const controls = result.leaderboard?.published
@@ -170,11 +179,34 @@ function renderLocalHistory() {
     container.innerHTML = '<p class="empty-datasets">Saved test history could not be loaded.</p>';
     status.textContent = error.message;
     status.classList.add("error-message");
+    updateRevisionAvailability(null, error);
+  }
+}
+function updateRevisionAvailability(results, error = null) {
+  const button = $("revision-mode-button");
+  if (error) {
+    button.disabled = true;
+    $("revision-mode-count").textContent = "Revision set unavailable";
+    $("revision-mode-status").textContent = error.message;
+    return;
+  }
+  try {
+    const questions = selectRevisionQuestionsFromResults(results || []);
+    button.disabled = questions.length === 0;
+    $("revision-mode-count").textContent = `${questions.length} question${questions.length === 1 ? "" : "s"} ready`;
+    $("revision-mode-status").textContent = questions.length
+      ? ""
+      : "Complete a test and answer incorrectly or mark questions for review to build your revision set.";
+  } catch (revisionError) {
+    button.disabled = true;
+    $("revision-mode-count").textContent = "Revision set unavailable";
+    $("revision-mode-status").textContent = revisionError.message;
   }
 }
 function showSavedResult(id) {
   try {
-    const result = resultsStore.getData().results.find(item => item.id === id);
+    const historyResults = resultsStore.getData().results;
+    const result = historyResults.find(item => item.id === id);
     if (!result) {
       $("local-data-status").textContent = "That saved result was not found on this device. Import the backup that contains it.";
       $("local-data-status").classList.add("error-message");
@@ -186,6 +218,7 @@ function showSavedResult(id) {
       answers:result.answers,
       metrics:result.metrics,
       examName:result.examName,
+      historyResults,
       mode:result.mode || "exam",
       submittedAt:new Date(result.submittedAt),
       onNewTest:resetToSetup,
@@ -237,6 +270,7 @@ async function importLocalData(file) {
     $("local-data-status").textContent = `Imported ${restored.results.length} saved test${restored.results.length === 1 ? "" : "s"}. Existing results were kept.`;
     $("local-data-status").classList.remove("error-message");
     renderLocalHistory();
+    renderChallengeActivity(restored.results);
   } catch (error) {
     $("local-data-status").textContent = `Backup could not be imported: ${error.message}`;
     $("local-data-status").classList.add("error-message");
@@ -356,17 +390,71 @@ function updateQuickTestAvailability() {
 }
 function renderDailyChallenge() {
   const prompt = $("daily-challenge-prompt");
-  const button = $("daily-challenge-start");
+  const buttons = [
+    $("daily-drill-start"),
+    $("karnataka-challenge-start"),
+    $("current-affairs-challenge-start"),
+    $("daily-challenge-start")
+  ];
   if (!bank?.questions.length) {
     prompt.textContent = "Today's challenge is unavailable because no questions could be loaded.";
-    button.disabled = true;
+    buttons.forEach(button => button.disabled = true);
     return;
   }
-  dailyChallengeQuestion = selectQuestionOfTheDay(bank.questions);
+  const today = new Date();
+  const challengeOptions = [
+    {
+      button:$("daily-drill-start"),
+      select:() => selectDailyDrill(bank.questions, today)
+    },
+    {
+      button:$("karnataka-challenge-start"),
+      select:() => selectSpecialChallenge(bank.questions, "karnataka", today)
+    },
+    {
+      button:$("current-affairs-challenge-start"),
+      select:() => selectSpecialChallenge(bank.questions, "current-affairs", today)
+    }
+  ];
+  challengeOptions.forEach(({ button, select }) => {
+    try {
+      select();
+      button.disabled = false;
+      button.title = "";
+    } catch (error) {
+      button.disabled = true;
+      button.title = error.message;
+    }
+  });
+  dailyChallengeQuestion = selectQuestionOfTheDay(bank.questions, today);
   prompt.textContent = dailyChallengeQuestion.question;
   $("daily-challenge-meta").textContent =
     `${dailyChallengeQuestion.subject} · ${dailyChallengeQuestion.topic || dailyChallengeQuestion.chapter || "General"}`;
-  button.disabled = false;
+  $("daily-challenge-start").disabled = false;
+  try {
+    renderChallengeActivity(resultsStore.getData().results, today);
+  } catch (error) {
+    $("challenge-week-summary").textContent = `Weekly activity could not be loaded: ${error.message}`;
+  }
+}
+function renderChallengeActivity(results, today = new Date()) {
+  const activity = getChallengeActivity(results, today);
+  $("challenge-streak").textContent = `${activity.streak} day${activity.streak === 1 ? "" : "s"} streak`;
+  $("challenge-month-progress").textContent =
+    `${activity.monthDays} practice day${activity.monthDays === 1 ? "" : "s"} this month`;
+  $("challenge-week").innerHTML = activity.week.map(day =>
+    `<div class="challenge-week-day ${day.completed ? "completed" : ""} ${day.today ? "today" : ""}" aria-label="${escapeHtml(day.day)}: ${day.completed ? "practice completed" : "no completed challenge"}">
+      <span>${day.label}</span><i aria-hidden="true">${day.completed ? "✓" : ""}</i>
+      <small>${escapeHtml(day.day)}</small>
+    </div>`
+  ).join("");
+  $("challenge-week-summary").textContent = activity.weekCount
+    ? `${activity.weekCount} of 7 practice days this week · Weekly goal: 4 days · ${
+      activity.monthDays > 0 && activity.monthDays % 10 === 0
+        ? `${activity.monthDays}-day monthly milestone reached · Next: ${activity.nextMilestone} days`
+        : `${activity.milestoneProgress} of 10 days toward a monthly milestone`
+    }`
+    : "A completed challenge counts as a practice day. Aim for 4 days this week; scores and question volume don't affect your streak.";
 }
 function updateBookmarkAvailability() {
   const button = $("practice-bookmarks-button");
@@ -406,48 +494,79 @@ function startBookmarkedPractice() {
     $("bookmark-status").textContent = error.message;
   }
 }
-async function startDailyChallenge() {
-  if (!dailyChallengeQuestion || dailyChallengeStarting) return;
+async function startChallenge(type) {
+  if (!bank || dailyChallengeStarting) return;
   dailyChallengeStarting = true;
-  const button = $("daily-challenge-start");
+  const button = type === "daily-drill"
+    ? $("daily-drill-start")
+    : type === "karnataka"
+      ? $("karnataka-challenge-start")
+      : type === "current-affairs"
+        ? $("current-affairs-challenge-start")
+        : $("daily-challenge-start");
   const errorNode = $("daily-challenge-error");
   button.disabled = true;
   errorNode.textContent = "";
   try {
-    const question = dailyChallengeQuestion;
-    const topic = question.topic || question.chapter || question.datasetTitle || "General";
+    const challengeDate = new Date();
+    const questions = type === "daily-drill"
+      ? selectDailyDrill(bank.questions, challengeDate)
+      : type === "question-of-day"
+        ? [selectQuestionOfTheDay(bank.questions, challengeDate)]
+        : selectSpecialChallenge(bank.questions, type, challengeDate);
+    if (questions.some(question => !question)) throw new Error("Today's challenge could not be loaded. Please try again.");
+    const topicsByDataset = {};
+    for (const question of questions) {
+      if (!topicsByDataset[question.datasetId]) topicsByDataset[question.datasetId] = [];
+      if (!topicsByDataset[question.datasetId].includes(question.topic)) {
+        topicsByDataset[question.datasetId].push(question.topic);
+      }
+    }
+    const categories = [...new Set(questions.map(question => question.subject))];
+    const topics = [...new Set(Object.values(topicsByDataset).flat())];
     const configuration = {
-      paper:question.paper,
-      categories:[question.subject],
-      datasets:[question.datasetId],
-      topics:[topic],
-      topicsByDataset:{ [question.datasetId]:[topic] },
+      paper:questions[0].paper,
+      categories,
+      datasets:Object.keys(topicsByDataset),
+      topics,
+      topicsByDataset,
       difficulty:"Mixed",
-      questionCount:1,
-      durationMinutes:1,
+      questionCount:questions.length,
+      durationMinutes:type === "daily-drill" ? 20 : type === "question-of-day" ? 1 : 10,
       markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
     };
     const validation = await validateConfigurationOnServer(configuration);
-    if (validation.availableQuestions < 1) {
-      throw new Error("Today's question is no longer available. Please try again later.");
+    if (validation.availableQuestions < questions.length) {
+      throw new Error("Today's challenge is no longer available in the question bank. Please try again later.");
     }
-    beginExam([shuffleAnswerOptions(question)], {
-      paper:question.paper === "general-knowledge"
+    const paper = configuration.paper === "general-knowledge"
         ? "General Knowledge"
-        : "General Kannada, English & Computer Knowledge",
-      subjects:[question.subject],
-      paperId:question.paper,
-      categories:configuration.categories,
+        : "General Kannada, English & Computer Knowledge";
+    const challengeTitles = {
+      "daily-drill":"Daily Drill",
+      "question-of-day":"Question of the Day",
+      karnataka:"Karnataka GK Challenge",
+      "current-affairs":"Current Affairs Challenge"
+    };
+    activeChallenge = { type, date:localChallengeDate(challengeDate) };
+    beginExam(questions.map(question => shuffleAnswerOptions(question)), {
+      paper,
+      subjects:categories,
+      paperId:configuration.paper,
+      categories,
       datasets:configuration.datasets,
-      topics:configuration.topics,
+      topics,
       difficulty:"Mixed"
-    }, 60, "setup", "Daily Challenge");
+    }, configuration.durationMinutes * 60, "setup", challengeTitles[type], "exam", activeChallenge);
   } catch (error) {
     errorNode.textContent = error.message;
     button.disabled = false;
   } finally {
     dailyChallengeStarting = false;
   }
+}
+function localChallengeDate(date) {
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}-${String(date.getDate()).padStart(2, "0")}`;
 }
 function getConfigurationValidation(configuration = currentTestConfiguration()) {
   const errors = [];
@@ -646,7 +765,8 @@ function getActiveExamSnapshot() {
     currentIndex:examState.currentIndex,
     questions:examState.questions,
     answers:examState.answers,
-    context:examContext
+    context:examContext,
+    challenge:activeChallenge
   };
 }
 function persistActiveExam(immediate = false) {
@@ -695,9 +815,16 @@ function restoreActiveExam() {
   examStartedAt = snapshot.startedAt;
   durationSeconds = snapshot.durationSeconds;
   examContext = snapshot.context;
+  activeChallenge = snapshot.challenge || null;
   submitInProgress = false;
-  $("exam-title").textContent = `${examContext.paper} Mock Test`;
-  $("exam-mode-label").textContent = "EXAM MODE";
+  const challengeName = {
+    "daily-drill":"Daily Drill",
+    "question-of-day":"Question of the Day",
+    karnataka:"Karnataka GK Challenge",
+    "current-affairs":"Current Affairs Challenge"
+  }[activeChallenge?.type];
+  $("exam-title").textContent = `${examContext.paper} ${challengeName || "Mock Test"}`;
+  $("exam-mode-label").textContent = challengeName ? "DAILY CHALLENGE" : "EXAM MODE";
   $("exam-view").classList.remove("learning-mode");
   $("timer-box").classList.remove("hidden");
   $("submit-side").classList.remove("hidden");
@@ -733,6 +860,9 @@ async function initialize() {
     $("start-button").disabled = true;
     $("daily-challenge-prompt").textContent = "Today's challenge is unavailable because the question bank could not be loaded.";
     $("daily-challenge-start").disabled = true;
+    $("daily-drill-start").disabled = true;
+    $("karnataka-challenge-start").disabled = true;
+    $("current-affairs-challenge-start").disabled = true;
     updateQuickTestAvailability();
   }
 }
@@ -827,7 +957,7 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
   }
 }
 
-function beginExam(questions, context, duration, returnView, title = "Mock Test", mode = "exam") {
+function beginExam(questions, context, duration, returnView, title = "Mock Test", mode = "exam", challenge = null) {
   if (timer) timer.stop();
   setResultUrl(null);
   examState = createExamState(questions);
@@ -835,6 +965,7 @@ function beginExam(questions, context, duration, returnView, title = "Mock Test"
   examReturnView = returnView;
   examContext = context;
   activeMode = mode;
+  activeChallenge = challenge;
   durationSeconds = mode === "exam" ? duration : 0;
   examStartedAt = Date.now();
   submitInProgress = false;
@@ -879,6 +1010,35 @@ function startIncorrectPractice(questions, context) {
   }));
   const practiceContext = { ...context, subjects };
   beginExam(practiceQuestions, practiceContext, 0, "setup", "Revision Practice", "revision");
+}
+function startSavedRevision() {
+  try {
+    const { results } = resultsStore.getData();
+    const selectedQuestions = selectRevisionQuestionsFromResults(results);
+    if (!selectedQuestions.length) {
+      updateRevisionAvailability(results);
+      return;
+    }
+    const questions = selectedQuestions.map(question => ({
+      ...question,
+      subject:question.subject || "General Knowledge"
+    }));
+    const subjects = [...new Set(questions.map(question => question.subject).filter(Boolean))];
+    const datasets = [...new Set(questions.map(question => question.datasetId).filter(Boolean))];
+    const topics = [...new Set(questions.map(question => question.topic || question.chapter).filter(Boolean))];
+    const papers = [...new Set(questions.map(question => question.paper).filter(Boolean))];
+    beginExam(questions, {
+      paper:papers.length === 1 ? papers[0] : "Mixed Revision",
+      paperId:papers.length === 1 ? papers[0] : "revision",
+      subjects,
+      categories:subjects,
+      datasets,
+      topics,
+      difficulty:"Mixed"
+    }, 0, "setup", "Revision Practice", "revision");
+  } catch (error) {
+    $("revision-mode-status").textContent = error.message;
+  }
 }
 
 function updateTimer(remaining) {
@@ -1003,7 +1163,7 @@ async function finalizeExam(autoSubmitted = false) {
   });
   const submittedAt = new Date();
   const submissionId = createId();
-  const publishConsent = activeMode === "exam" && $("publish-score-consent").checked;
+  const publishConsent = activeMode === "exam" && !activeChallenge && $("publish-score-consent").checked;
   const displayName = $("leaderboard-name").value.trim();
   const result = {
     id:submissionId,
@@ -1027,13 +1187,18 @@ async function finalizeExam(autoSubmitted = false) {
     timeTakenSeconds:metrics.elapsedSeconds,
     submittedAt:submittedAt.toISOString(),
     leaderboard:{ consented:publishConsent, published:false, name:displayName },
+    ...(activeChallenge ? {
+      challengeType:activeChallenge.type,
+      challengeDate:activeChallenge.date
+    } : {}),
     metrics,
     questions:examState.questions,
     answers:examState.answers.map(answer => ({ selected:answer.selected, review:answer.review }))
   };
   let localSaved = false;
+  let historyResults = [result];
   try {
-    resultsStore.saveResult(result);
+    historyResults = resultsStore.saveResult(result).results;
     localSaved = true;
     setResultUrl(result.id);
     renderLocalHistory();
@@ -1041,10 +1206,25 @@ async function finalizeExam(autoSubmitted = false) {
     $("local-save-status").textContent = `This result could not be saved locally: ${error.message}`;
     $("local-save-status").classList.add("error-message");
   }
+  if (localSaved) {
+    try {
+      renderChallengeActivity(historyResults, submittedAt);
+    } catch (error) {
+      $("challenge-week-summary").textContent = `Weekly activity could not be updated: ${error.message}`;
+    }
+  }
+  if (activeChallenge) {
+    $("daily-challenge-error").textContent = !localSaved
+      ? "Challenge finished, but could not be saved locally. Your weekly activity wasn't updated."
+      : challengeMeetsCompletionThreshold(result)
+        ? "Challenge complete. Your practice day has been added to this week's activity."
+        : `Attempt at least ${Math.ceil(metrics.total / 2)} questions to count today as a completed practice day.`;
+  }
   renderResults({
     questions:examState.questions,
     answers:examState.answers,
     metrics,
+    historyResults,
     examName:$("exam-title").textContent,
     mode:activeMode,
     submittedAt,
@@ -1094,6 +1274,7 @@ function resetToSetup() {
   timer = null;
   examState = null;
   examTestId = null;
+  activeChallenge = null;
   activeMode = $("practice-mode").checked ? "practice" : "exam";
   $("exam-view").classList.remove("learning-mode");
   clearTimeout(activeExamSaveTimeout);
@@ -1114,10 +1295,15 @@ function resetToSetup() {
     showView("setup");
     updateAvailability();
   }
+  if (bank) renderDailyChallenge();
 }
 
 $("setup-form").addEventListener("submit",startExam);
-$("daily-challenge-start").addEventListener("click",startDailyChallenge);
+$("daily-drill-start").addEventListener("click",() => startChallenge("daily-drill"));
+$("karnataka-challenge-start").addEventListener("click",() => startChallenge("karnataka"));
+$("current-affairs-challenge-start").addEventListener("click",() => startChallenge("current-affairs"));
+$("daily-challenge-start").addEventListener("click",() => startChallenge("question-of-day"));
+$("revision-mode-button").addEventListener("click",startSavedRevision);
 $("quick-gk-form").addEventListener("submit",event =>
   startExam(event, getQuickTestConfiguration("gk"), document.querySelector('[data-quick-submit="gk"]'), $("quick-gk-error"))
 );

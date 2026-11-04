@@ -5,14 +5,21 @@ import { calculateResults } from "./scoring.js";
 import { renderResults } from "./results.js";
 import { initializeCommunityChat, initializeLeaderboard, managePublishedScore, publishScore } from "./community.js";
 import { createResultsStore } from "./results-store.js";
+import { createActiveExamStore } from "./active-exam-store.js";
 import { createTopicSelection } from "./topic-selector.js";
 import { resolveAppRoute } from "./route-utils.js";
+import { selectQuestionOfTheDay } from "./daily-challenge.js";
 
 const $ = id => document.getElementById(id);
 const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
 const resultsStore = createResultsStore({
   getItem:key => window.localStorage.getItem(key),
   setItem:(key, value) => window.localStorage.setItem(key, value)
+});
+const activeExamStore = createActiveExamStore({
+  getItem:key => window.localStorage.getItem(key),
+  setItem:(key, value) => window.localStorage.setItem(key, value),
+  removeItem:key => window.localStorage.removeItem(key)
 });
 const topicSelection = createTopicSelection();
 const openTopicGroups = new Set();
@@ -30,6 +37,9 @@ let examReturnView = "setup";
 let toastTimeout = null;
 let configurationCheckInProgress = false;
 let currentSetupStep = 1;
+let activeExamSaveTimeout = null;
+let dailyChallengeQuestion = null;
+let dailyChallengeStarting = false;
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
   '<svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
@@ -171,7 +181,16 @@ function showSavedResult(id) {
       metrics:result.metrics,
       examName:result.examName,
       submittedAt:new Date(result.submittedAt),
-      onNewTest:resetToSetup
+      onNewTest:resetToSetup,
+      onPracticeIncorrect:questions => startIncorrectPractice(questions, {
+        paper:result.paper,
+        paperId:result.paperId,
+        subjects:[...new Set(result.questions.map(question => question.subject).filter(Boolean))],
+        categories:result.selectedCategories,
+        datasets:result.selectedDatasets,
+        topics:result.selectedTopics,
+        difficulty:result.difficulty
+      })
     });
     examReturnView = "setup";
     $("local-save-status").textContent = "This result is saved on this device. Export a backup to move it to another browser.";
@@ -267,7 +286,7 @@ function getQuickTestConfiguration(type) {
     datasets:datasets.map(dataset => dataset.id),
     topics,
     topicsByDataset,
-    difficulty:"Mixed",
+    difficulty:$(`quick-${type}-difficulty`).value,
     questionCount:Number($(`quick-${type}-count`).value),
     durationMinutes:Number($(`quick-${type}-duration`).value),
     markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
@@ -306,9 +325,81 @@ function updateQuickAvailability(type) {
   status.classList.toggle("error-message", !validation.valid);
   button.disabled = !validation.valid || configurationCheckInProgress;
 }
+function updateCombinedSubjectAvailability() {
+  if (!bank) return;
+  document.querySelectorAll('input[name="quick-subject"]').forEach(input => {
+    const available = bank.datasets.some(dataset =>
+      dataset.paper === "combined" && dataset.subject === input.value
+    );
+    const option = input.closest(".quick-subject-option");
+    const description = option.querySelector(".quick-subject-copy small");
+    input.disabled = !available;
+    if (!available) input.checked = false;
+    description.textContent = available ? "Question bank available" : "Coming soon";
+    option.classList.toggle("unavailable", !available);
+  });
+}
 function updateQuickTestAvailability() {
+  updateCombinedSubjectAvailability();
   updateQuickAvailability("gk");
   updateQuickAvailability("combined");
+}
+function renderDailyChallenge() {
+  const prompt = $("daily-challenge-prompt");
+  const button = $("daily-challenge-start");
+  if (!bank?.questions.length) {
+    prompt.textContent = "Today's challenge is unavailable because no questions could be loaded.";
+    button.disabled = true;
+    return;
+  }
+  dailyChallengeQuestion = selectQuestionOfTheDay(bank.questions);
+  prompt.textContent = dailyChallengeQuestion.question;
+  $("daily-challenge-meta").textContent =
+    `${dailyChallengeQuestion.subject} · ${dailyChallengeQuestion.topic || dailyChallengeQuestion.chapter || "General"}`;
+  button.disabled = false;
+}
+async function startDailyChallenge() {
+  if (!dailyChallengeQuestion || dailyChallengeStarting) return;
+  dailyChallengeStarting = true;
+  const button = $("daily-challenge-start");
+  const errorNode = $("daily-challenge-error");
+  button.disabled = true;
+  errorNode.textContent = "";
+  try {
+    const question = dailyChallengeQuestion;
+    const topic = question.topic || question.chapter || question.datasetTitle || "General";
+    const configuration = {
+      paper:question.paper,
+      categories:[question.subject],
+      datasets:[question.datasetId],
+      topics:[topic],
+      topicsByDataset:{ [question.datasetId]:[topic] },
+      difficulty:"Mixed",
+      questionCount:1,
+      durationMinutes:1,
+      markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
+    };
+    const validation = await validateConfigurationOnServer(configuration);
+    if (validation.availableQuestions < 1) {
+      throw new Error("Today's question is no longer available. Please try again later.");
+    }
+    beginExam([shuffleAnswerOptions(question)], {
+      paper:question.paper === "general-knowledge"
+        ? "General Knowledge"
+        : "General Kannada, English & Computer Knowledge",
+      subjects:[question.subject],
+      paperId:question.paper,
+      categories:configuration.categories,
+      datasets:configuration.datasets,
+      topics:configuration.topics,
+      difficulty:"Mixed"
+    }, 60, "setup", "Daily Challenge");
+  } catch (error) {
+    errorNode.textContent = error.message;
+    button.disabled = false;
+  } finally {
+    dailyChallengeStarting = false;
+  }
 }
 function getConfigurationValidation(configuration = currentTestConfiguration()) {
   const errors = [];
@@ -479,6 +570,80 @@ function applyAppRoute() {
   showView("home");
 }
 
+function getActiveExamSnapshot() {
+  return {
+    version:1,
+    testId:examTestId,
+    returnView:examReturnView,
+    startedAt:examStartedAt,
+    durationSeconds,
+    currentIndex:examState.currentIndex,
+    questions:examState.questions,
+    answers:examState.answers,
+    context:examContext
+  };
+}
+function persistActiveExam(immediate = false) {
+  if (!examState || examState.submitted || !examTestId) return;
+  clearTimeout(activeExamSaveTimeout);
+  const save = () => {
+    try {
+      activeExamStore.save(getActiveExamSnapshot());
+      $("exam-save-status").textContent = "Progress saved on this device.";
+      $("exam-save-status").classList.remove("error-message");
+    } catch (error) {
+      $("exam-save-status").textContent = error.message;
+      $("exam-save-status").classList.add("error-message");
+    }
+  };
+  if (immediate) save();
+  else {
+    $("exam-save-status").textContent = "Saving your progress…";
+    activeExamSaveTimeout = setTimeout(save, 150);
+  }
+}
+function restoreActiveExam() {
+  let snapshot;
+  try {
+    snapshot = activeExamStore.load();
+  } catch (error) {
+    $("local-data-status").textContent = `${error.message} The saved test will be discarded.`;
+    $("local-data-status").classList.add("error-message");
+    try {
+      activeExamStore.clear();
+    } catch (clearError) {
+      $("local-data-status").textContent += ` ${clearError.message}`;
+    }
+    return;
+  }
+  if (!snapshot) return;
+  examState = {
+    questions:snapshot.questions,
+    answers:snapshot.answers,
+    currentIndex:snapshot.currentIndex,
+    submitted:false
+  };
+  examTestId = snapshot.testId;
+  examReturnView = snapshot.returnView;
+  examStartedAt = snapshot.startedAt;
+  durationSeconds = snapshot.durationSeconds;
+  examContext = snapshot.context;
+  submitInProgress = false;
+  $("exam-title").textContent = `${examContext.paper} Mock Test`;
+  $("exam-total").textContent = examState.questions.length;
+  $("exam-max").textContent = examState.questions.length;
+  $("timer-box").classList.remove("warning","critical");
+  showView("exam");
+  renderQuestion();
+  timer = createTimer({
+    durationSeconds,
+    startedAt:examStartedAt,
+    onTick:updateTimer,
+    onExpire:() => finalizeExam(true)
+  });
+  timer.start();
+  if (examState && !examState.submitted) toast("Your saved test was resumed.");
+}
 async function initialize() {
   applyAppRoute();
   try {
@@ -486,11 +651,15 @@ async function initialize() {
     $("bank-count").textContent = bank.questions.length.toLocaleString();
     updatePaperOptions();
     updateQuickTestAvailability();
+    renderDailyChallenge();
+    restoreActiveExam();
   } catch (error) {
     $("bank-count").textContent = "Error";
     $("availability-note").textContent = "Question bank could not be loaded.";
     $("setup-error").textContent = `${error.message} Rebuild the dataset index with "npm run build" after adding JSON files, and run the site through a local web server or Vercel.`;
     $("start-button").disabled = true;
+    $("daily-challenge-prompt").textContent = "Today's challenge is unavailable because the question bank could not be loaded.";
+    $("daily-challenge-start").disabled = true;
     updateQuickTestAvailability();
   }
 }
@@ -558,13 +727,9 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
       throw new Error("The question bank changed since this configuration was reviewed. Return to your settings and try again.");
     }
     const count = configuration.questionCount;
-    const duration = configuration.durationMinutes;
     const matching = filterQuestions(bank.questions, configuration);
     const selected = selectRandomQuestions(matching, count).map(question => shuffleAnswerOptions(question));
-    examState = createExamState(selected);
-    examTestId = createId();
-    examReturnView = button.dataset.quickSubmit ? "quick-test" : "setup";
-    examContext = {
+    const context = {
       paper:configuration.paper === "general-knowledge"
         ? "General Knowledge"
         : "General Kannada, English & Computer Knowledge",
@@ -575,22 +740,8 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
       topics:configuration.topics,
       difficulty:configuration.difficulty
     };
-    durationSeconds = duration * 60;
-    examStartedAt = Date.now();
-    submitInProgress = false;
-    $("exam-title").textContent = `${examContext.paper} Mock Test`;
-    $("exam-total").textContent = count;
-    $("exam-max").textContent = count;
-    $("timer-box").classList.remove("warning","critical");
-    showView("exam");
-    visitQuestion(examState, 0);
-    renderQuestion();
-    timer = createTimer({
-      durationSeconds,
-      onTick: updateTimer,
-      onExpire: () => finalizeExam(true)
-    });
-    timer.start();
+    beginExam(selected, context, configuration.durationMinutes * 60,
+      button.dataset.quickSubmit ? "quick-test" : "setup");
   } catch (error) {
     errorNode.textContent = error.message;
   } finally {
@@ -600,6 +751,47 @@ async function startExam(event, configuration = currentTestConfiguration(), butt
     if (button === $("start-button")) updateAvailability();
     else updateQuickTestAvailability();
   }
+}
+
+function beginExam(questions, context, duration, returnView, title = "Mock Test") {
+  if (timer) timer.stop();
+  setResultUrl(null);
+  examState = createExamState(questions);
+  examTestId = createId();
+  examReturnView = returnView;
+  examContext = context;
+  durationSeconds = duration;
+  examStartedAt = Date.now();
+  submitInProgress = false;
+  $("publish-score-consent").checked = false;
+  $("exam-title").textContent = `${examContext.paper} ${title}`;
+  $("exam-total").textContent = questions.length;
+  $("exam-max").textContent = questions.length;
+  $("timer-box").classList.remove("warning","critical");
+  showView("exam");
+  visitQuestion(examState, 0);
+  renderQuestion();
+  timer = createTimer({
+    durationSeconds,
+    onTick:updateTimer,
+    onExpire:() => finalizeExam(true)
+  });
+  timer.start();
+  persistActiveExam(true);
+}
+
+function startIncorrectPractice(questions, context) {
+  if (!questions.length) return;
+  const subjects = context.subjects.length
+    ? context.subjects
+    : [...new Set(questions.map(question => question.subject || context.paper))];
+  const practiceQuestions = questions.map(question => ({
+    ...question,
+    subject:question.subject || subjects[0]
+  }));
+  const practiceContext = { ...context, subjects };
+  const duration = Math.min(600 * 60, practiceQuestions.length * 60);
+  beginExam(practiceQuestions, practiceContext, duration, "setup", "Incorrect Questions Revision");
 }
 
 function updateTimer(remaining) {
@@ -638,6 +830,7 @@ function renderQuestion() {
   $("review-button").textContent = answer.review ? "★ Remove review" : "☆ Mark for review";
   renderPalette();
   updatePaletteSummary();
+  persistActiveExam();
 }
 function renderPalette() {
   $("question-palette").innerHTML = examState.answers.map((answer,index) => {
@@ -679,6 +872,13 @@ async function finalizeExam(autoSubmitted = false) {
   submitInProgress = true;
   examState.submitted = true;
   closeSubmitModal();
+  clearTimeout(activeExamSaveTimeout);
+  try {
+    activeExamStore.clear();
+  } catch (error) {
+    $("exam-save-status").textContent = error.message;
+    $("exam-save-status").classList.add("error-message");
+  }
   if (timer) timer.stop();
   const elapsed = autoSubmitted ? durationSeconds : Math.min(durationSeconds, Math.floor((Date.now()-examStartedAt)/1000));
   const metrics = calculateResults(examState.questions,examState.answers,durationSeconds,elapsed,autoSubmitted);
@@ -727,7 +927,8 @@ async function finalizeExam(autoSubmitted = false) {
     metrics,
     examName:$("exam-title").textContent,
     submittedAt,
-    onNewTest:resetToSetup
+    onNewTest:resetToSetup,
+    onPracticeIncorrect:questions => startIncorrectPractice(questions, examContext)
   });
   $("local-save-status").textContent = localSaved
     ? "Saved on this device. Export a backup to keep a copy or move your history to another browser."
@@ -772,6 +973,13 @@ function resetToSetup() {
   timer = null;
   examState = null;
   examTestId = null;
+  clearTimeout(activeExamSaveTimeout);
+  try {
+    activeExamStore.clear();
+  } catch (error) {
+    $("local-data-status").textContent = error.message;
+    $("local-data-status").classList.add("error-message");
+  }
   $("publish-score-consent").checked = false;
   closeSubmitModal();
   setResultUrl(null);
@@ -786,6 +994,7 @@ function resetToSetup() {
 }
 
 $("setup-form").addEventListener("submit",startExam);
+$("daily-challenge-start").addEventListener("click",startDailyChallenge);
 $("quick-gk-form").addEventListener("submit",event =>
   startExam(event, getQuickTestConfiguration("gk"), document.querySelector('[data-quick-submit="gk"]'), $("quick-gk-error"))
 );
@@ -794,6 +1003,9 @@ $("quick-combined-form").addEventListener("submit",event =>
 );
 ["quick-gk-count","quick-gk-duration","quick-combined-count","quick-combined-duration"].forEach(id =>
   $(id).addEventListener("input", updateQuickTestAvailability)
+);
+["quick-gk-difficulty","quick-combined-difficulty"].forEach(id =>
+  $(id).addEventListener("change", updateQuickTestAvailability)
 );
 $("quick-combined-form").addEventListener("change",event=>{
   if(event.target.matches('input[name="quick-subject"]')) updateQuickAvailability("combined");
@@ -957,6 +1169,7 @@ $("local-data-file").addEventListener("change",event=>{
   if (file) importLocalData(file);
   event.target.value = "";
 });
+window.addEventListener("pagehide", () => persistActiveExam(true));
 $("theme-toggle").addEventListener("click",()=>{
   document.body.classList.toggle("dark");
   $("theme-toggle").setAttribute("aria-pressed",String(document.body.classList.contains("dark")));
@@ -1002,17 +1215,31 @@ document.addEventListener("click",event=>{
 });
 document.addEventListener("keydown",event=>{
   if(views.exam.classList.contains("hidden")||!examState||examState.submitted||!$("submit-modal").classList.contains("hidden"))return;
-  if(event.altKey||event.ctrlKey||event.metaKey)return;
-  if(event.key==="ArrowLeft"&&examState.currentIndex>0)moveTo(examState.currentIndex-1);
-  if(event.key==="ArrowRight"&&examState.currentIndex<examState.questions.length-1)moveTo(examState.currentIndex+1);
-  if(["a","b","c","d","A","B","C","D"].includes(event.key)){
-    const key=event.key.toUpperCase();
+  if(event.altKey||event.ctrlKey||event.metaKey||event.target.closest("input, textarea, select, [contenteditable='true']"))return;
+  if(event.key==="ArrowLeft"&&examState.currentIndex>0){
+    event.preventDefault();
+    moveTo(examState.currentIndex-1);
+    return;
+  }
+  if(event.key==="ArrowRight"&&examState.currentIndex<examState.questions.length-1){
+    event.preventDefault();
+    moveTo(examState.currentIndex+1);
+    return;
+  }
+  const key=/^[1-4]$/.test(event.key)
+    ? String.fromCharCode(64+Number(event.key))
+    : /^[a-d]$/i.test(event.key) ? event.key.toUpperCase() : null;
+  if(key){
     answerQuestion(examState,examState.currentIndex,key);
     renderQuestion();
   }
 });
 window.addEventListener("beforeunload",event=>{
-  if(examState&&!examState.submitted){event.preventDefault();event.returnValue="Your active test will be lost if you leave this page.";}
+  if(examState&&!examState.submitted){
+    persistActiveExam(true);
+    event.preventDefault();
+    event.returnValue="Your test is saved in this browser and can be resumed later.";
+  }
 });
 window.addEventListener("hashchange", () => {
   const route = resolveAppRoute();

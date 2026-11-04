@@ -4,6 +4,9 @@
 @media(max-width:390px){.question-palette{grid-template-columns:repeat(6,1fr)}.exam-title-wrap h2{font-size:13px}.timer-box strong{font-size:16px}.question-actions .button{padding:0 9px;font-size:10px}}
 
 .timer-box strong{color:var(--support-accent)}
+.exam-save-status{min-height:18px;margin:-10px 0 10px 5px;color:var(--muted);font-size:11px}
+.exam-save-status.error-message{color:var(--red)}
+.keyboard-shortcut-hint{display:block;margin-top:3px;color:var(--muted);font-size:9px}
 .question-progress span{background:var(--support-accent)}
 .option-item:hover{border-color:var(--option-hover-border)}
 .palette-number.answered{border-color:var(--green-border)}

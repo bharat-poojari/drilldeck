@@ -742,6 +742,9 @@ body.dark .button-submit:hover{background:var(--red-hover)}
 .quick-subject-check{display:grid;width:15px;height:15px;flex:0 0 15px;place-items:center;border:1px solid var(--control-border);border-radius:4px;background:var(--surface);color:transparent;font-size:10px;font-weight:800}
 .quick-subject-option input:checked+.quick-subject-check{border-color:var(--primary);background:var(--primary);color:#fff}
 .quick-subject-option input:focus-visible+.quick-subject-check{outline:3px solid var(--focus-ring);outline-offset:2px}
+.quick-subject-option.unavailable{opacity:.62;cursor:not-allowed}
+.quick-subject-option.unavailable:hover{border-color:var(--line)}
+.quick-subject-option.unavailable input{cursor:not-allowed}
 .quick-subject-copy{display:grid;min-width:0;gap:2px}
 .quick-subject-copy strong{overflow:hidden;color:var(--text);font-size:9px;text-overflow:ellipsis;white-space:nowrap}
 .quick-subject-copy small{color:var(--muted);font-size:7px}
@@ -799,6 +802,48 @@ body.dark .button-submit:hover{background:var(--red-hover)}
 }
 @media(max-width:520px){
   .quick-layout .setup-aside{grid-template-columns:1fr}
+}
+
+@media(min-width:561px) and (max-width:1024px){
+  .setup-grid{grid-template-columns:minmax(0,1fr)}
+  .setup-aside,.quick-layout .setup-aside{grid-template-columns:repeat(2,minmax(0,1fr));align-items:stretch}
+  .setup-aside>.bank-panel,.quick-layout .setup-aside>.bank-panel{grid-column:1;grid-row:1}
+  .setup-aside>.leaderboard-panel,.quick-layout .setup-aside>.leaderboard-panel{grid-column:2;grid-row:1}
+  .setup-aside>.community-panel,.quick-layout .setup-aside>.community-panel{grid-column:1/-1;grid-row:2}
+  .bank-panel{height:auto;min-height:112px;max-height:none}
+  .leaderboard-panel{max-height:250px}
+  #leaderboard-list{max-height:170px}
+  .community-panel{display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+  .community-panel>.section-heading{grid-row:auto}
+  .community-panel>.community-note{grid-row:auto;margin-bottom:9px}
+  .community-panel>.community-messages{grid-column:1;grid-row:auto;height:180px;max-height:180px}
+  .community-panel>.community-form{grid-column:1;grid-row:auto;grid-template-columns:minmax(120px,.7fr) minmax(0,2fr) auto;align-items:start;gap:8px;margin-top:9px}
+  .community-form>.sr-only{display:none}
+  .community-form textarea{min-height:44px}
+  .community-form .button{width:auto;padding:0 12px}
+  .community-form .community-status{grid-column:1/-1}
+}
+@media(min-width:561px) and (max-width:650px){
+  .community-panel>.community-form{grid-template-columns:minmax(0,1fr) auto}
+  .community-form textarea{grid-column:1/-1;grid-row:2}
+  .community-form .button{grid-column:2;grid-row:1}
+  .community-form .community-status{grid-row:3}
+}
+.daily-challenge-card{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:24px;width:min(100%,1240px);margin:0 auto 18px;padding:21px 24px;border-color:var(--accent-border);background:linear-gradient(115deg,var(--surface),var(--primary-soft))}
+.daily-challenge-copy h2{margin:5px 0;font:700 19px Manrope,sans-serif;letter-spacing:-.4px}
+.daily-challenge-copy p{margin:0;color:var(--text);font-size:13px;font-weight:600;line-height:1.55}
+.daily-challenge-copy small{display:block;margin-top:5px;color:var(--muted);font-size:10px}
+.daily-challenge-action{display:grid;justify-items:end;gap:6px}
+.daily-challenge-action>span{color:var(--muted);font-size:10px}
+.daily-challenge-action .button{white-space:nowrap}
+#daily-challenge-error{max-width:300px;margin:0;color:var(--red);font-size:10px;text-align:right}
+@media(max-width:560px){
+  .daily-challenge-card{grid-template-columns:minmax(0,1fr);gap:13px;margin-bottom:13px;padding:16px}
+  .daily-challenge-copy h2{font-size:17px}
+  .daily-challenge-copy p{font-size:12px}
+  .daily-challenge-action{grid-template-columns:minmax(0,1fr) auto;align-items:center;justify-items:start}
+  .daily-challenge-action .button{grid-column:2;grid-row:1/ span 2;padding:0 10px;font-size:10px}
+  #daily-challenge-error{grid-column:1/-1;max-width:none;text-align:left}
 }
 
 .about-page-heading{position:relative;width:min(100%,1000px);margin:0 auto 24px;padding-top:8px;text-align:center}

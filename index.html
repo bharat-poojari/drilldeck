@@ -157,6 +157,19 @@
             <span class="subject-chip"><span class="subject-chip-icon" aria-hidden="true">04</span> Geography</span>
           </div>
         </div>
+        <section class="daily-challenge-card panel" aria-labelledby="daily-challenge-title">
+          <div class="daily-challenge-copy">
+            <span class="step-label">A FRESH QUESTION EVERY DAY</span>
+            <h2 id="daily-challenge-title">Question of the Day</h2>
+            <p id="daily-challenge-prompt" role="status" aria-live="polite">Loading today's question…</p>
+            <small id="daily-challenge-meta"></small>
+          </div>
+          <div class="daily-challenge-action">
+            <span>1 question · 1 minute</span>
+            <button class="button button-primary" id="daily-challenge-start" type="button" disabled>Start today's challenge <span aria-hidden="true">→</span></button>
+            <p id="daily-challenge-error" role="alert"></p>
+          </div>
+        </section>
         <section class="mode-cards" aria-label="Choose an exam mode">
           <article class="mode-card quick-mode-card">
             <div class="mode-card-topline"><span class="mode-card-icon quick-mode-icon" aria-hidden="true">
@@ -164,7 +177,7 @@
             </span><span class="mode-card-index">01 / QUICK START</span></div>
             <span class="mode-card-kicker">FOR A FOCUSED REVISION BREAK</span>
             <h2>Quick test</h2>
-            <p>Choose General Knowledge or make a subject mix, set your question count and time, and start a focused timed test.</p>
+            <p>Choose General Knowledge or make a subject mix, set your question count, difficulty and time, and start a focused timed test.</p>
             <div class="mode-card-note"><span class="status-pulse"></span> QUICK PRACTICE · READY WHEN YOU ARE</div>
             <a class="button button-outline" href="#quick-test-view" data-menu-target="quick-test">Explore quick test <span aria-hidden="true">↗</span></a>
           </article>
@@ -183,7 +196,7 @@
           <div class="home-section-heading"><span class="step-label">A BETTER WAY TO PREPARE</span><h2>Made for focused progress.</h2></div>
           <div class="benefit-grid">
             <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg></span><div><h3>Your topics, your test</h3><p>Choose the subjects and topics you want to focus on, instead of settling for a one-size-fits-all paper.</p></div></article>
-            <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.7"/><path d="M12 7v5l3.5 2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span><div><h3>Practice at your pace</h3><p>Set a question count and time limit that fit your revision plan, from a quick review to a full mock test.</p></div></article>
+            <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.7"/><path d="M12 7v5l3.5 2" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg></span><div><h3>Practice at your pace</h3><p>Choose a question count, difficulty and time limit to fit your revision plan, from a quick review to a full mock test.</p></div></article>
             <article class="benefit-item"><span class="benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none"><path d="M5 19V9m7 10V5m7 14v-7" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M3 19.5h18" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg></span><div><h3>Learn from every attempt</h3><p>Review your answers, understand your score, and keep a private history of completed tests on this device.</p></div></article>
           </div>
         </section>
@@ -209,7 +222,7 @@
           <a class="quick-back-link" href="#home-view" data-menu-target="home"><span aria-hidden="true">←</span> Back to home</a>
           <div class="eyebrow"><span class="eyebrow-line"></span> QUICK PRACTICE, YOUR WAY <span class="eyebrow-line"></span></div>
           <h1 id="quick-test-page-title">Choose a paper. <span>Get started.</span></h1>
-          <p>Pick your subjects, set your question count and time, then jump right into a timed mock test.</p>
+          <p>Pick your subjects, set your question count, difficulty and time, then jump right into a timed mock test.</p>
         </div>
         <div class="quick-layout">
           <div class="quick-main-column">
@@ -223,6 +236,10 @@
             <h2>Sharpen your GK</h2>
             <p class="quick-exam-description">Revise across General Knowledge and current affairs with a mixed set drawn from the available GK question bank.</p>
             <div class="quick-settings-grid">
+              <div class="field">
+                <label for="quick-gk-difficulty">Difficulty</label>
+                <select id="quick-gk-difficulty"><option value="Mixed">Mixed</option><option>Easy</option><option>Medium</option><option>Hard</option></select>
+              </div>
               <div class="field">
                 <label for="quick-gk-count">Questions <span class="label-hint">1 mark each</span></label>
                 <input id="quick-gk-count" type="number" min="1" max="1000" value="10" inputmode="numeric">
@@ -252,12 +269,16 @@
             <fieldset class="quick-subject-field">
               <legend>Select subjects <span>Choose one or more</span></legend>
               <div class="quick-subject-options">
-                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Kannada" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Kannada</strong><small>Language practice</small></span><span class="quick-subject-tag">KN</span></label>
-                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="English" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>English</strong><small>Grammar &amp; usage</small></span><span class="quick-subject-tag">EN</span></label>
-                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Computer" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Computer Knowledge</strong><small>Digital fundamentals</small></span><span class="quick-subject-tag">IT</span></label>
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Kannada" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Kannada</strong><small>Checking availability…</small></span><span class="quick-subject-tag">KN</span></label>
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="English" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>English</strong><small>Checking availability…</small></span><span class="quick-subject-tag">EN</span></label>
+                <label class="quick-subject-option"><input type="checkbox" name="quick-subject" value="Computer" checked><span class="quick-subject-check" aria-hidden="true">✓</span><span class="quick-subject-copy"><strong>Computer Knowledge</strong><small>Checking availability…</small></span><span class="quick-subject-tag">IT</span></label>
               </div>
             </fieldset>
             <div class="quick-settings-grid">
+              <div class="field">
+                <label for="quick-combined-difficulty">Difficulty</label>
+                <select id="quick-combined-difficulty"><option value="Mixed">Mixed</option><option>Easy</option><option>Medium</option><option>Hard</option></select>
+              </div>
               <div class="field">
                 <label for="quick-combined-count">Questions <span class="label-hint">1 mark each</span></label>
                 <input id="quick-combined-count" type="number" min="1" max="1000" value="10" inputmode="numeric">
@@ -300,7 +321,7 @@
           <article class="about-detail-card panel">
             <span class="about-card-number">01</span>
             <h2>Practice that fits your plan</h2>
-            <p><strong>Quick Test</strong> lets you set the number of questions and time for a General Knowledge test, or select subjects for a combined paper when those question banks are available.</p>
+            <p><strong>Quick Test</strong> lets you set the number of questions, difficulty and time for a General Knowledge test, or select subjects for a combined paper when those question banks are available.</p>
             <p><strong>Custom Exam</strong> gives you more control: choose a paper, categories, subcategories and topics, then set the difficulty, question count and duration.</p>
             <a href="#quick-test-view" data-menu-target="quick-test">Explore Quick Test <span aria-hidden="true">→</span></a>
           </article>
@@ -527,9 +548,10 @@
           <div class="timer-box" id="timer-box"><span class="timer-label">TIME REMAINING</span><strong id="timer-display">00:30:00</strong></div>
           <button class="button button-submit" id="submit-top">Submit test <span>↗</span></button>
         </div>
+        <p id="exam-save-status" class="exam-save-status" role="status" aria-live="polite"></p>
         <div class="exam-layout">
           <section class="panel question-panel">
-            <div class="question-toolbar"><div><span class="question-number-label">QUESTION <b id="current-number">01</b></span><span class="question-subject" id="current-subject">GENERAL KNOWLEDGE</span></div><span class="mark-chip">+1 <i>·</i> −0.25</span></div>
+            <div class="question-toolbar"><div><span class="question-number-label">QUESTION <b id="current-number">01</b></span><span class="question-subject" id="current-subject">GENERAL KNOWLEDGE</span><span class="keyboard-shortcut-hint">←/→ navigate · 1–4 answer</span></div><span class="mark-chip">+1 <i>·</i> −0.25</span></div>
             <div class="question-progress"><span id="progress-fill"></span></div>
             <div class="question-content">
               <div class="question-tags"><span id="question-topic">Indian Geography</span><span id="question-difficulty">Easy</span></div>
@@ -601,7 +623,7 @@
           <button class="button button-outline retry-publish hidden" id="retry-publish" type="button">Retry publishing score</button>
           <div id="result-leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
         </section>
-        <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another mock test</button><button class="button button-outline" id="print-button">Print result</button></div>
+        <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another mock test</button><button class="button button-outline hidden" id="wrong-revision-button" type="button">Practice incorrect questions</button><button class="button button-outline" id="print-button">Print result</button></div>
         <footer class="page-footer">
           <div class="footer-caption">YOUR DETAILED RESULTS ARE SAVED LOCALLY ON THIS DEVICE.</div>
           <div class="creator-contact">

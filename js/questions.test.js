@@ -123,3 +123,22 @@ test("question filters accept multiple subcategories and preserve the all-subcat
   );
   assert.equal(filterQuestions(questions, { ...baseFilters, topics: ["all"] }).length, 3);
 });
+
+test("question filters enforce the selected difficulty", () => {
+  const questions = ["Easy", "Medium", "Hard"].map((difficulty, index) => ({
+    id:`Q00${index + 1}`,
+    paper:"general-knowledge",
+    subject:"Current Affairs",
+    datasetId:dataset.id,
+    topic:"Government",
+    difficulty
+  }));
+  const filtered = filterQuestions(questions, {
+    paper:"general-knowledge",
+    categories:["Current Affairs"],
+    datasets:[dataset.id],
+    topics:["Government"],
+    difficulty:"Hard"
+  });
+  assert.deepEqual(filtered.map(question => question.difficulty), ["Hard"]);
+});

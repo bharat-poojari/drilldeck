@@ -45,6 +45,9 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   const strongest = metrics.subjects[0];
   const weakest = [...metrics.subjects].sort((a,b) => (a.correct/a.total) - (b.correct/b.total))[0];
   const weakTopics = metrics.topics.filter(t => t.wrong > 0).sort((a,b) => b.wrong-a.wrong).slice(0,3);
+  const incorrectQuestions = questions.filter((question, index) =>
+    answers[index].selected && answers[index].selected !== question.correctAnswer
+  );
   let insight = "";
   if (strongest) insight += `<strong>Strongest subject:</strong> ${safe(strongest.name)} (${Math.round(strongest.correct/strongest.total*100)}% correct). `;
   if (weakest) insight += `<strong>Focus area:</strong> ${safe(weakest.name)} (${Math.round(weakest.correct/weakest.total*100)}% correct). `;
@@ -62,6 +65,9 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   });
   $("retake-button").onclick = onNewTest;
   $("new-test-button").onclick = onNewTest;
+  const revisionButton = $("wrong-revision-button");
+  revisionButton.classList.toggle("hidden", !incorrectQuestions.length || !onPracticeIncorrect);
+  revisionButton.onclick = () => onPracticeIncorrect(incorrectQuestions);
 }
 
 function renderAnswerReview(questions, answers, filter) {

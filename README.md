@@ -5,6 +5,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 ## Features
 
 - Configure a custom practice test by paper, subject/category, subcategory and its topics, difficulty, question count and duration.
+- Choose difficulty in Quick Test or Custom Exam, and use A–D or 1–4 answer and arrow-key navigation shortcuts during an exam.
 - Discover JSON question datasets from the `data/` folder hierarchy automatically.
 - Balance questions randomly across selected datasets, shuffle questions within each dataset and avoid repeats.
 - Dataset- and subject-scoped question IDs; repeated IDs are disambiguated by occurrence, and gaps in source numbering are allowed.
@@ -13,9 +14,12 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Answer selection, previous/next navigation, clear response and mark-for-review.
 - Clickable question palette with status indicators.
 - Countdown timer with five-minute and one-minute warnings and automatic submission.
+- Active-test autosave and resume after refresh, with the original timer deadline preserved.
 - Submission confirmation and a second browser confirmation.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
 - Score, accuracy, attempt rate, subject analysis, time analysis and answer review.
+- Start a focused revision test from the questions answered incorrectly in any completed result.
+- Try a deterministic Question of the Day challenge, validated against the server question bank and saved with normal test history.
 - Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
 - Import/export of versioned JSON backups to transfer local test history between browsers or devices.
 - Responsive desktop/mobile layout, dark theme toggle and print-friendly results.

@@ -6,7 +6,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 
 - Configure a custom practice test by paper, subject/category, subcategory and its topics, difficulty, question count and duration.
 - Choose difficulty in Quick Test or Custom Exam, and use A–D or 1–4 answer and arrow-key navigation shortcuts during an exam.
-- Discover JSON question datasets from the `data/` folder hierarchy automatically.
+- Discover JSON question datasets from the `data/` folder hierarchy automatically; the production build and test suite reject invalid or empty question-bank files.
 - Balance questions randomly across selected datasets, shuffle questions within each dataset and avoid repeats.
 - Dataset- and subject-scoped question IDs; repeated IDs are disambiguated by occurrence, and gaps in source numbering are allowed.
 - Invalid question records are skipped with dataset-specific warnings so one malformed record does not disable the rest of the question bank.

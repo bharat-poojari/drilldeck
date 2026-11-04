@@ -119,7 +119,7 @@ async function loadDataset(relativePath, rootUrl) {
   try {
     dataset = getDatasetLocation(relativePath);
     const fileUrl = new URL(relativePath.split("/").map(encodeURIComponent).join("/"), rootUrl);
-    const response = await fetch(fileUrl, { cache: "no-store" });
+    const response = await fetch(fileUrl);
     if (!response.ok) throw new Error(`Could not load ${dataset.path} (${response.status}).`);
     const data = await response.json();
     const validation = validateDataset(data, dataset);
@@ -172,7 +172,7 @@ async function loadDataset(relativePath, rootUrl) {
 export async function loadQuestionBank() {
   const rootUrl = new URL("../data/", import.meta.url);
   const indexUrl = new URL("datasets.json", rootUrl);
-  const indexResponse = await fetch(indexUrl, { cache: "no-store" });
+  const indexResponse = await fetch(indexUrl);
   if (!indexResponse.ok) throw new Error(`Could not load dataset index (${indexResponse.status}): ${indexUrl.pathname}`);
   const index = await indexResponse.json();
   if (!index || !Array.isArray(index.datasets) ||

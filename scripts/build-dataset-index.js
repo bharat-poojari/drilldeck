@@ -1,4 +1,4 @@
-import { cp, mkdir, readdir, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -33,6 +33,19 @@ const datasets = (await Promise.all(roots.map(entry => findJsonFiles(join(dataRo
   .sort((left, right) => left.localeCompare(right));
 
 if (!datasets.length) throw new Error("No JSON question datasets found under supported data folders.");
+
+await Promise.all(datasets.map(async relativePath => {
+  const filePath = join(dataRoot, relativePath);
+  let data;
+  try {
+    data = JSON.parse(await readFile(filePath, "utf8"));
+  } catch (error) {
+    throw new Error(`Invalid JSON in question dataset "${relativePath}": ${error.message}`, { cause: error });
+  }
+  if (!data || !Array.isArray(data.questions) || !data.questions.length) {
+    throw new Error(`Question dataset "${relativePath}" must contain a non-empty questions array.`);
+  }
+}));
 
 const manifestPath = join(dataRoot, "datasets.json");
 await writeFile(manifestPath, `${JSON.stringify({ datasets }, null, 2)}\n`, "utf8");

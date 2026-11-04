@@ -8066,5 +8066,2168 @@
     "correctAnswer": "A",
     "explanation": "South Western Railway is among the major railway zones listed in the PDF. The list also includes Central, Eastern, East Central, East Coast, Northern, North Central, North Eastern, Northeast Frontier, North Western, Southern, South Central, South Eastern, South East Central, Western, West Central and Metro Railway Kolkata.",
     "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q571",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified as a separate railway zone in India in the source?",
+    "options": {
+      "A": "Metro Railway Kolkata",
+      "B": "Kolkata Suburban Railway Board",
+      "C": "Eastern Metro Division",
+      "D": "Bengal Railway Corporation"
+    },
+    "correctAnswer": "A",
+    "explanation": "Metro Railway Kolkata is included in the list of Indian railway zones provided in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q572",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which railway zone is included in the source's list of Indian railway zones?",
+    "options": {
+      "A": "North Western Railway",
+      "B": "Central Coastal Railway",
+      "C": "Southern Mountain Railway",
+      "D": "Eastern Peninsula Railway"
+    },
+    "correctAnswer": "A",
+    "explanation": "North Western Railway is one of the railway zones listed in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q573",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following railway zones is included in the source's list?",
+    "options": {
+      "A": "East Central Railway",
+      "B": "North Coastal Railway",
+      "C": "Western Himalayan Railway",
+      "D": "Central Deccan Railway"
+    },
+    "correctAnswer": "A",
+    "explanation": "East Central Railway appears in the list of railway zones given in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q574",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which railway zone is specifically included in the source's list?",
+    "options": {
+      "A": "Northeast Frontier Railway",
+      "B": "North Eastern Coastal Railway",
+      "C": "North Himalayan Railway",
+      "D": "Northeast Peninsula Railway"
+    },
+    "correctAnswer": "A",
+    "explanation": "Northeast Frontier Railway is one of the railway zones listed in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q575",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is included in the list of railway zones given in the source?",
+    "options": {
+      "A": "South East Central Railway",
+      "B": "South Coastal Railway",
+      "C": "Southern Central Metro Railway",
+      "D": "South Himalayan Railway"
+    },
+    "correctAnswer": "A",
+    "explanation": "South East Central Railway is included in the source's list of railway zones.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q576",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which of the following is a mountain railway mentioned in the source?",
+    "options": {
+      "A": "Darjeeling Himalayan Railway",
+      "B": "Konkan Railway",
+      "C": "Golden Quadrilateral Railway",
+      "D": "Eastern Dedicated Freight Corridor"
+    },
+    "correctAnswer": "A",
+    "explanation": "Darjeeling Himalayan Railway is one of the three mountain railways specifically mentioned in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q577",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "The Nilgiri Mountain Railway is classified in the source under which category?",
+    "options": {
+      "A": "Mountain railways",
+      "B": "National waterways",
+      "C": "Major ports",
+      "D": "International airports"
+    },
+    "correctAnswer": "A",
+    "explanation": "The Nilgiri Mountain Railway is listed among India's mountain railways.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q578",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which railway connects Kalka with Shimla and is mentioned as a mountain railway?",
+    "options": {
+      "A": "Kalka–Shimla Railway",
+      "B": "Darjeeling Himalayan Railway",
+      "C": "Nilgiri Mountain Railway",
+      "D": "Konkan Railway"
+    },
+    "correctAnswer": "A",
+    "explanation": "Kalka–Shimla Railway is one of the three mountain railways named in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q579",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group contains all three mountain railways mentioned in the source?",
+    "options": {
+      "A": "Darjeeling Himalayan, Nilgiri Mountain and Kalka–Shimla",
+      "B": "Konkan, Nilgiri Mountain and Golden Quadrilateral",
+      "C": "Kalka–Shimla, Konkan and Eastern Dedicated Freight Corridor",
+      "D": "Darjeeling Himalayan, Konkan and Western Dedicated Freight Corridor"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Darjeeling Himalayan Railway, Nilgiri Mountain Railway and Kalka–Shimla Railway as the three mountain railways.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q580",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Mountain Railways of India are recognised by which international organisation, according to the source?",
+    "options": {
+      "A": "UNESCO",
+      "B": "World Trade Organization",
+      "C": "International Monetary Fund",
+      "D": "World Health Organization"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies the Mountain Railways of India as UNESCO-listed.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q581",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "National Waterway-1 is associated with which river system?",
+    "options": {
+      "A": "Ganga–Bhagirathi–Hooghly",
+      "B": "Brahmaputra",
+      "C": "Godavari–Krishna",
+      "D": "West Coast Canal"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies NW-1 with the Ganga–Bhagirathi–Hooghly river system.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q582",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which river is associated with National Waterway-2?",
+    "options": {
+      "A": "Brahmaputra",
+      "B": "Ganga",
+      "C": "Godavari",
+      "D": "Krishna"
+    },
+    "correctAnswer": "A",
+    "explanation": "National Waterway-2 is identified in the source with the Brahmaputra River.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q583",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "National Waterway-3 is associated with which waterway?",
+    "options": {
+      "A": "West Coast Canal in Kerala",
+      "B": "Ganga–Bhagirathi–Hooghly system",
+      "C": "Brahmaputra River",
+      "D": "East Coast Canal"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies NW-3 as the West Coast Canal in Kerala.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q584",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which river systems are associated with National Waterway-4 in the source?",
+    "options": {
+      "A": "Godavari–Krishna and canals",
+      "B": "Ganga–Bhagirathi–Hooghly",
+      "C": "Brahmaputra and Barak",
+      "D": "Narmada and Tapi"
+    },
+    "correctAnswer": "A",
+    "explanation": "NW-4 is associated with the Godavari–Krishna river systems and canals, as stated in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q585",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "National Waterway-5 is associated with which of the following?",
+    "options": {
+      "A": "East Coast Canal and river systems",
+      "B": "West Coast Canal in Kerala",
+      "C": "Ganga–Bhagirathi–Hooghly",
+      "D": "Brahmaputra River"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies NW-5 with the East Coast Canal and associated river systems.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q586",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following National Waterway and associated waterway pairs is correctly matched?",
+    "options": {
+      "A": "NW-1 — Ganga–Bhagirathi–Hooghly",
+      "B": "NW-2 — West Coast Canal",
+      "C": "NW-3 — Brahmaputra",
+      "D": "NW-4 — East Coast Canal"
+    },
+    "correctAnswer": "A",
+    "explanation": "NW-1 is correctly matched with the Ganga–Bhagirathi–Hooghly system. The other options incorrectly assign the waterways to the respective National Waterway numbers.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q587",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is listed as a major port in India in the source?",
+    "options": {
+      "A": "Deendayal Port",
+      "B": "Haldia International Airport",
+      "C": "Gurugram Inland Terminal",
+      "D": "Bengaluru Harbour"
+    },
+    "correctAnswer": "A",
+    "explanation": "Deendayal Port, also known as Kandla, is included in the source's list of major ports.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q588",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Deendayal Port is also known by which name?",
+    "options": {
+      "A": "Kandla",
+      "B": "Nhava Sheva",
+      "C": "Ennore",
+      "D": "Tuticorin"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source gives Kandla as the alternative name for Deendayal Port.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q589",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Jawaharlal Nehru Port is also known as which of the following?",
+    "options": {
+      "A": "Nhava Sheva",
+      "B": "Kandla",
+      "C": "Ennore",
+      "D": "Mormugao"
+    },
+    "correctAnswer": "A",
+    "explanation": "Jawaharlal Nehru Port is also known as Nhava Sheva, as specified in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q590",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Transport and Communication",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Kamarajar Port is also identified in the source by which name?",
+    "options": {
+      "A": "Ennore",
+      "B": "Kandla",
+      "C": "Nhava Sheva",
+      "D": "Mormugao"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source lists Kamarajar Port with its alternative name, Ennore.",
+    "source": "Indian_Geography.pdf, Section 3.5.19, Page 11"
+  },
+  {
+    "id": "Q591",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "According to Census 2011, what was India's total population?",
+    "options": {
+      "A": "1,210,854,977",
+      "B": "1,010,854,977",
+      "C": "1,310,854,977",
+      "D": "1,110,854,977"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source gives India's Census 2011 population as 1,210,854,977, approximately 121.1 crore.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q592",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What was India's population density according to Census 2011?",
+    "options": {
+      "A": "382 persons per square kilometre",
+      "B": "282 persons per square kilometre",
+      "C": "482 persons per square kilometre",
+      "D": "342 persons per square kilometre"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to the Census 2011 figures provided in the source, India's population density was 382 persons per square kilometre.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q593",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What was India's sex ratio according to Census 2011?",
+    "options": {
+      "A": "943 females per 1,000 males",
+      "B": "919 females per 1,000 males",
+      "C": "953 females per 1,000 males",
+      "D": "933 females per 1,000 males"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source records India's Census 2011 sex ratio as 943 females per 1,000 males.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q594",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "According to Census 2011, what was India's child sex ratio?",
+    "options": {
+      "A": "919 girls per 1,000 boys",
+      "B": "943 girls per 1,000 boys",
+      "C": "929 girls per 1,000 boys",
+      "D": "909 girls per 1,000 boys"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source gives the Census 2011 child sex ratio as 919 girls per 1,000 boys.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q595",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What was India's overall literacy rate according to Census 2011?",
+    "options": {
+      "A": "74.04%",
+      "B": "64.04%",
+      "C": "84.04%",
+      "D": "71.04%"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source records India's overall literacy rate in Census 2011 as 74.04%.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q596",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What was the male literacy rate in India according to Census 2011?",
+    "options": {
+      "A": "82.14%",
+      "B": "74.04%",
+      "C": "65.46%",
+      "D": "80.14%"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source gives the male literacy rate as 82.14% in Census 2011.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q597",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What was the female literacy rate in India according to Census 2011?",
+    "options": {
+      "A": "65.46%",
+      "B": "82.14%",
+      "C": "74.04%",
+      "D": "68.46%"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to the source, the female literacy rate in Census 2011 was 65.46%.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q598",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What percentage of India's population lived in urban areas according to Census 2011?",
+    "options": {
+      "A": "31.16%",
+      "B": "68.84%",
+      "C": "41.16%",
+      "D": "21.16%"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source records the urban population share as 31.16% in Census 2011.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q599",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What percentage of India's population lived in rural areas according to Census 2011?",
+    "options": {
+      "A": "68.84%",
+      "B": "31.16%",
+      "C": "58.84%",
+      "D": "78.84%"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to the source, 68.84% of India's population lived in rural areas in Census 2011.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q600",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What was India's decadal population growth rate during 2001–2011 according to the source?",
+    "options": {
+      "A": "17.7%",
+      "B": "21.7%",
+      "C": "15.7%",
+      "D": "19.7%"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source gives India's decadal population growth rate for 2001–2011 as 17.7%.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q601",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which Indian state had the highest population density according to Census 2011, as stated in the source?",
+    "options": {
+      "A": "Bihar",
+      "B": "Arunachal Pradesh",
+      "C": "Rajasthan",
+      "D": "Madhya Pradesh"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Bihar as the state with the highest population density according to Census 2011.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q602",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which Indian state had the lowest population density according to Census 2011, as stated in the source?",
+    "options": {
+      "A": "Arunachal Pradesh",
+      "B": "Bihar",
+      "C": "Uttar Pradesh",
+      "D": "West Bengal"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Arunachal Pradesh as the state with the lowest population density. It separately notes that Delhi has a much higher density among Union Territories.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q603",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement correctly distinguishes population density from population growth?",
+    "options": {
+      "A": "Population density measures people per unit area, while population growth measures change in population over time.",
+      "B": "Population density measures birth rates, while population growth measures literacy.",
+      "C": "Population density measures migration only, while population growth measures urbanisation only.",
+      "D": "Population density and population growth refer to exactly the same measurement."
+    },
+    "correctAnswer": "A",
+    "explanation": "Population density describes the concentration of people in a given area. Population growth refers to the increase or decrease in population over a period of time.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q604",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What does demographic transition describe?",
+    "options": {
+      "A": "A shift from high birth and death rates to low birth and death rates as social and economic conditions change",
+      "B": "A shift from rural settlements to agricultural settlements only",
+      "C": "A permanent increase in population density in every region",
+      "D": "A change from international migration to seasonal migration only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes demographic transition as the shift from high birth and death rates to low birth and death rates accompanying social and economic change.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q605",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "In which phase can population growth often become fastest during demographic transition?",
+    "options": {
+      "A": "When death rates fall before birth rates decline",
+      "B": "When both birth and death rates remain extremely high and unchanged",
+      "C": "When birth rates fall to zero before death rates change",
+      "D": "When both birth and death rates increase continuously"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source notes that population growth is often fastest in the middle stages of demographic transition, when death rates decline before birth rates fall significantly.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q606",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified in the source as a cause of migration?",
+    "options": {
+      "A": "Employment opportunities",
+      "B": "Only changes in longitude",
+      "C": "Only the formation of mountains",
+      "D": "Only variations in soil colour"
+    },
+    "correctAnswer": "A",
+    "explanation": "Employment is one of the migration causes listed in the source. Other listed causes include education, marriage, family movement, conflict, environmental stress and access to better services.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q607",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a migration pattern mentioned in the source?",
+    "options": {
+      "A": "Rural-to-urban migration",
+      "B": "Mountain-to-ocean migration",
+      "C": "Equatorial-to-polar migration only",
+      "D": "River-to-desert migration only"
+    },
+    "correctAnswer": "A",
+    "explanation": "Rural-to-urban migration is one of the migration patterns identified in the source. Other patterns include inter-state, seasonal and international migration.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q608",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is listed as a population-related challenge in India?",
+    "options": {
+      "A": "Uneven regional distribution of population",
+      "B": "Uniform distribution of population across all regions",
+      "C": "Complete absence of urbanisation",
+      "D": "Absence of migration between regions"
+    },
+    "correctAnswer": "A",
+    "explanation": "Uneven regional distribution is one of the population challenges listed in the source, alongside ageing in some states, youth employment, urban housing, migration and disparities in access to services.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q609",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "The term 'demographic dividend' is included in the source in connection with which broader subject?",
+    "options": {
+      "A": "Population challenges",
+      "B": "Mountain railway classification",
+      "C": "Port governance",
+      "D": "Soil formation"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source lists the demographic dividend among India's population-related challenges and considerations.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q610",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Population Geography of India",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "How should the Census 2011 population figures presented in the source be interpreted?",
+    "options": {
+      "A": "As historical census baseline figures, not as current population estimates",
+      "B": "As exact current population figures for 2026",
+      "C": "As population projections for every future decade",
+      "D": "As figures that apply only to urban areas"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source explicitly states that Census 2011 is the latest completed all-India Census dataset used as a baseline for comparisons in this study. Its figures should not be presented as current population estimates.",
+    "source": "Indian_Geography.pdf, Section 3.5.20, Page 12"
+  },
+  {
+    "id": "Q611",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Rural settlements in India are primarily associated with which type of economic activities?",
+    "options": {
+      "A": "Agriculture and other primary activities",
+      "B": "Large-scale financial services",
+      "C": "Advanced information technology services",
+      "D": "International administrative activities"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source states that rural settlements are primarily associated with agriculture and other primary activities.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q612",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which characteristic generally distinguishes rural settlements from urban settlements?",
+    "options": {
+      "A": "Lower population density and smaller built-up areas",
+      "B": "Higher concentration of administrative functions",
+      "C": "Greater concentration of secondary and tertiary activities",
+      "D": "Larger continuous built-up areas in every case"
+    },
+    "correctAnswer": "A",
+    "explanation": "Rural settlements generally have lower population density and smaller built-up areas compared with urban settlements.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q613",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Urban settlements are generally characterised by a greater concentration of which activities?",
+    "options": {
+      "A": "Secondary, tertiary and administrative functions",
+      "B": "Only subsistence agriculture",
+      "C": "Only forestry and fishing",
+      "D": "Only livestock grazing"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes urban settlements as having greater population concentration and more secondary, tertiary and administrative functions.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q614",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which factor is used to determine the official classification of a settlement as rural or urban in India?",
+    "options": {
+      "A": "Census statutory and demographic criteria",
+      "B": "Only the physical size of houses",
+      "C": "Only the distance from the nearest river",
+      "D": "Only the type of soil in the settlement"
+    },
+    "correctAnswer": "A",
+    "explanation": "According to the source, official rural and urban classification is determined by Census statutory and demographic criteria.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q615",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "A settlement in which houses are located close together is known as which type of rural settlement?",
+    "options": {
+      "A": "Clustered or nucleated settlement",
+      "B": "Dispersed settlement",
+      "C": "Linear settlement",
+      "D": "Circular settlement"
+    },
+    "correctAnswer": "A",
+    "explanation": "In a clustered or nucleated settlement, houses are located close to one another, forming a concentrated settlement pattern.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q616",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which rural settlement pattern is characterised by isolated houses or homesteads?",
+    "options": {
+      "A": "Dispersed settlement",
+      "B": "Nucleated settlement",
+      "C": "Circular settlement",
+      "D": "Linear settlement"
+    },
+    "correctAnswer": "A",
+    "explanation": "A dispersed settlement consists of isolated houses or homesteads spread over a relatively large area.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q617",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "A settlement developing along a road, river or valley is classified as which pattern?",
+    "options": {
+      "A": "Linear settlement",
+      "B": "Circular settlement",
+      "C": "Nucleated settlement",
+      "D": "Dispersed settlement"
+    },
+    "correctAnswer": "A",
+    "explanation": "Linear settlements develop along geographical or transport features such as roads, rivers and valleys.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q618",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "A rural settlement arranged around a lake, fort or open space is known as which type?",
+    "options": {
+      "A": "Circular settlement",
+      "B": "Linear settlement",
+      "C": "Dispersed settlement",
+      "D": "Nucleated settlement"
+    },
+    "correctAnswer": "A",
+    "explanation": "Circular settlements are arranged around a central feature such as a lake, fort or open space.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q619",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following correctly matches a rural settlement pattern with its characteristic?",
+    "options": {
+      "A": "Nucleated — houses located close together",
+      "B": "Dispersed — houses arranged around a lake",
+      "C": "Linear — isolated homesteads spread over a large area",
+      "D": "Circular — houses arranged along a road"
+    },
+    "correctAnswer": "A",
+    "explanation": "Nucleated settlements have houses located close together. Dispersed settlements have isolated homesteads, linear settlements follow roads or rivers, and circular settlements develop around a central feature.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q620",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "A village has houses distributed along a river valley. Which settlement pattern best describes it?",
+    "options": {
+      "A": "Linear",
+      "B": "Circular",
+      "C": "Nucleated",
+      "D": "Dispersed"
+    },
+    "correctAnswer": "A",
+    "explanation": "A linear settlement develops along features such as rivers, roads and valleys. The arrangement described in the question is therefore linear.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q621",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "What is an urban agglomeration?",
+    "options": {
+      "A": "A continuous urban spread consisting of a town and adjoining outgrowths or contiguous towns meeting Census criteria",
+      "B": "A group of isolated agricultural villages",
+      "C": "A legally protected forest area",
+      "D": "A group of villages connected only by seasonal roads"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source defines an urban agglomeration as a continuous urban spread involving a town and adjoining outgrowths or contiguous towns that meet Census criteria.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q622",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is an important component that may form part of an urban agglomeration?",
+    "options": {
+      "A": "Adjoining urban outgrowths",
+      "B": "Only isolated agricultural fields",
+      "C": "Only uninhabited mountain peaks",
+      "D": "Only distant forest reserves"
+    },
+    "correctAnswer": "A",
+    "explanation": "An urban agglomeration can include adjoining outgrowths and contiguous towns, provided they meet the relevant Census criteria.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q623",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement correctly distinguishes an urban agglomeration from a municipal corporation?",
+    "options": {
+      "A": "An urban agglomeration is defined by Census criteria and continuous urban spread, whereas a municipal corporation is a legal administrative boundary.",
+      "B": "Both terms always refer to exactly the same geographical area.",
+      "C": "A municipal corporation is a natural geographical region without legal status.",
+      "D": "An urban agglomeration includes only rural settlements."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source distinguishes an urban agglomeration, based on continuous urban spread and Census criteria, from a municipal corporation, which has a legal administrative boundary.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q624",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "How does a metropolitan planning region differ from a municipal corporation according to the source?",
+    "options": {
+      "A": "It can cover a wider region than the municipal corporation's legal boundary.",
+      "B": "It always covers a smaller area than a single neighbourhood.",
+      "C": "It refers only to the administrative boundary of a village.",
+      "D": "It is identical to the boundary of a single municipal ward."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source notes that a wider metropolitan planning region is distinct from a municipal corporation's legal boundary and may cover a larger area.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q625",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "A megacity is commonly defined as a city or urban area with a population of at least how many people?",
+    "options": {
+      "A": "10 million",
+      "B": "1 million",
+      "C": "5 million",
+      "D": "50 million"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source states that a megacity is commonly defined as having a population of 10 million or more.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q626",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Why can the list of megacities vary between different population datasets?",
+    "options": {
+      "A": "Because the census year and the use of city-proper or urban-agglomeration population measures may differ",
+      "B": "Because the definition of population changes every month",
+      "C": "Because all megacities must have identical geographical areas",
+      "D": "Because only the number of municipal wards determines megacity status"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source explains that the exact megacity list depends on the census year and whether population is measured for the city proper or the wider urban agglomeration.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q627",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What is the primary purpose of developing satellite cities near major metropolitan areas?",
+    "options": {
+      "A": "To accommodate population and economic activity and reduce pressure on the main metropolitan area",
+      "B": "To eliminate all transport links with the main city",
+      "C": "To replace all rural settlements with industrial zones",
+      "D": "To prevent the development of surrounding regions"
+    },
+    "correctAnswer": "A",
+    "explanation": "Satellite cities are planned and functionally linked to nearby metropolitan areas. They accommodate population and economic activity and help reduce pressure on the main city.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q628",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified in the source as an example of a satellite city associated with Delhi?",
+    "options": {
+      "A": "Gurugram",
+      "B": "Jaipur",
+      "C": "Bhopal",
+      "D": "Patna"
+    },
+    "correctAnswer": "A",
+    "explanation": "Gurugram is listed among the examples of satellite cities associated with Delhi in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q629",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group contains only the satellite-city examples associated with Delhi listed in the source?",
+    "options": {
+      "A": "Gurugram, Noida, Ghaziabad and Faridabad",
+      "B": "Jaipur, Bhopal, Patna and Lucknow",
+      "C": "Chennai, Kochi, Madurai and Mysuru",
+      "D": "Pune, Nashik, Surat and Rajkot"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Gurugram, Noida, Ghaziabad and Faridabad as examples of satellite cities associated with Delhi.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q630",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which feature is essential to the concept of a satellite city as described in the source?",
+    "options": {
+      "A": "It is located near and functionally linked to a major metropolitan area.",
+      "B": "It must be completely isolated from a metropolitan area.",
+      "C": "It must have no economic connection with the main city.",
+      "D": "It must be located only in a rural agricultural region."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes satellite cities as planned cities near metropolitan areas that are functionally linked to them.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q631",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a housing-related problem commonly associated with urbanisation in India?",
+    "options": {
+      "A": "Growth of informal settlements",
+      "B": "Complete absence of residential demand",
+      "C": "Uniform availability of affordable housing",
+      "D": "Elimination of all overcrowding"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies housing shortages and informal settlements among the major urban problems.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q632",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which transport-related problem is included among India's urban challenges?",
+    "options": {
+      "A": "Traffic congestion",
+      "B": "Excessive availability of road space",
+      "C": "Complete absence of commuting",
+      "D": "Elimination of transport demand"
+    },
+    "correctAnswer": "A",
+    "explanation": "Traffic congestion is one of the urban problems identified in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q633",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which environmental problem is specifically associated with urban settlements in the source?",
+    "options": {
+      "A": "Air pollution",
+      "B": "Complete absence of atmospheric emissions",
+      "C": "Universal restoration of natural wetlands",
+      "D": "Elimination of urban waste"
+    },
+    "correctAnswer": "A",
+    "explanation": "Air pollution is included in the source's list of urban problems, along with water scarcity, sewage and solid-waste management issues.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q634",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a water-management challenge faced by urban areas?",
+    "options": {
+      "A": "Water scarcity",
+      "B": "Excessive availability of clean drinking water in every locality",
+      "C": "Complete absence of wastewater",
+      "D": "Unlimited groundwater availability"
+    },
+    "correctAnswer": "A",
+    "explanation": "Water scarcity is identified as one of the major urban problems in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q635",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which pair of problems is associated with urban wastewater and refuse management?",
+    "options": {
+      "A": "Sewage and solid-waste management",
+      "B": "Terracing and contour ploughing",
+      "C": "Afforestation and reforestation",
+      "D": "Crop rotation and irrigation"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source lists sewage and solid waste among the important urban management challenges.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q636",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Urban flooding is identified in the source as which type of issue?",
+    "options": {
+      "A": "An urban problem",
+      "B": "A rural settlement pattern",
+      "C": "A type of agricultural activity",
+      "D": "A form of mineral extraction"
+    },
+    "correctAnswer": "A",
+    "explanation": "Urban flooding is included among the problems associated with urban settlements.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q637",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "What does the term 'urban heat island' refer to in the context of urban geography?",
+    "options": {
+      "A": "A problem associated with urban environments",
+      "B": "A rural settlement arranged around a lake",
+      "C": "A system of inland waterways",
+      "D": "A type of mountain vegetation"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source lists urban heat islands among the problems associated with urban settlements.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q638",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which natural feature is identified in the source as being threatened by urban development?",
+    "options": {
+      "A": "Wetlands",
+      "B": "Only desert dunes",
+      "C": "Only high mountain glaciers",
+      "D": "Only offshore coral islands"
+    },
+    "correctAnswer": "A",
+    "explanation": "Wetland loss is included in the source's list of urban problems.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q639",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement best reflects the source's description of urban problems?",
+    "options": {
+      "A": "Urban problems include housing, congestion, pollution, water scarcity, waste, flooding and unequal services.",
+      "B": "Urban problems are limited only to traffic congestion.",
+      "C": "Urban problems are exclusively related to agricultural production.",
+      "D": "Urban settlements do not face environmental or infrastructure challenges."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source presents urban challenges as interconnected issues involving housing, transport, environmental quality, water, sanitation, flooding, heat islands, service inequality and wetland loss.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q640",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which approach is central to smart urban planning according to the source?",
+    "options": {
+      "A": "Integrating land use, public transport, housing, resource efficiency and green infrastructure",
+      "B": "Focusing exclusively on digital technology",
+      "C": "Separating housing from all transport facilities",
+      "D": "Replacing public spaces with unrestricted construction"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes smart urban planning as an integrated approach involving land use, public transport, affordable housing, efficient resource use and green infrastructure.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q641",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which housing principle is specifically included in smart urban planning?",
+    "options": {
+      "A": "Affordable housing",
+      "B": "Exclusive housing for high-income groups",
+      "C": "Elimination of residential planning",
+      "D": "Unregulated expansion of informal settlements"
+    },
+    "correctAnswer": "A",
+    "explanation": "Affordable housing is one of the components of smart urban planning identified in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q642",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which transport-related measure is included in the source's description of smart urban planning?",
+    "options": {
+      "A": "Public transport integration",
+      "B": "Complete dependence on private vehicles",
+      "C": "Removal of all pedestrian facilities",
+      "D": "Separation of transport from land-use planning"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies public transport as an important component of integrated smart urban planning.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q643",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which resource-efficiency measures are included in smart urban planning?",
+    "options": {
+      "A": "Water and energy efficiency",
+      "B": "Unrestricted water and energy consumption",
+      "C": "Elimination of water conservation",
+      "D": "Exclusive dependence on non-renewable resources"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source includes water and energy efficiency as components of smart urban planning.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q644",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which component of smart urban planning helps improve environmental quality in cities?",
+    "options": {
+      "A": "Green infrastructure",
+      "B": "Unplanned expansion of built-up areas",
+      "C": "Wetland destruction",
+      "D": "Removal of all urban vegetation"
+    },
+    "correctAnswer": "A",
+    "explanation": "Green infrastructure is included in the source's list of smart urban planning components.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q645",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which digital component is included in the source's description of smart urban planning?",
+    "options": {
+      "A": "Digital services",
+      "B": "Elimination of communication infrastructure",
+      "C": "Exclusive dependence on paper-based services",
+      "D": "Removal of all public information systems"
+    },
+    "correctAnswer": "A",
+    "explanation": "Digital services are identified as one of the components of smart urban planning in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q646",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Why is disaster resilience included in smart urban planning?",
+    "options": {
+      "A": "Because urban planning should account for risks and improve the ability of cities to withstand and recover from disasters.",
+      "B": "Because it eliminates the need for infrastructure planning.",
+      "C": "Because it prevents all natural hazards from occurring.",
+      "D": "Because it replaces public transport and housing policies."
+    },
+    "correctAnswer": "A",
+    "explanation": "Disaster resilience is one of the integrated planning components identified in the source. It concerns the capacity of urban areas to withstand and recover from disruptive events.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q647",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which social planning feature is included in the source's list of smart urban planning components?",
+    "options": {
+      "A": "Inclusive public spaces",
+      "B": "Restricted access to all public areas",
+      "C": "Elimination of community facilities",
+      "D": "Exclusive development of private spaces"
+    },
+    "correctAnswer": "A",
+    "explanation": "Inclusive public spaces are specifically included in the source's description of smart urban planning.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q648",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "According to the source, what is the relationship between technology and sound urban planning?",
+    "options": {
+      "A": "Technology supports urban planning but cannot substitute for sound planning.",
+      "B": "Technology makes land-use planning unnecessary.",
+      "C": "Technology alone guarantees affordable housing and equal services.",
+      "D": "Technology eliminates the need for public transport."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source explicitly cautions that technology is not a substitute for sound planning. Smart-city technology must support broader planning objectives rather than replace them.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q649",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which combination best represents an integrated approach to smart urban planning?",
+    "options": {
+      "A": "Land-use planning, affordable housing, public transport, efficient resource use, green infrastructure and disaster resilience",
+      "B": "Digital services alone, without land-use or housing planning",
+      "C": "Road construction alone, without public transport or environmental planning",
+      "D": "Industrial expansion alone, without public spaces or basic services"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source presents smart urban planning as an integrated approach covering land use, public transport, affordable housing, water and energy efficiency, green infrastructure, digital services, disaster resilience and inclusive public spaces.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q650",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Settlements and Urban Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement correctly distinguishes the purpose of satellite cities from the purpose of smart urban planning?",
+    "options": {
+      "A": "Satellite cities help accommodate metropolitan population and economic activity, while smart urban planning integrates land use, services, infrastructure and sustainability within urban development.",
+      "B": "Satellite cities are designed only for agricultural activities, while smart urban planning eliminates urban infrastructure.",
+      "C": "Satellite cities replace all metropolitan areas, while smart urban planning focuses only on digital devices.",
+      "D": "Both concepts refer exclusively to the legal boundaries of municipal corporations."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes satellite cities as planned, functionally linked settlements that help reduce pressure on metropolitan areas. Smart urban planning is a broader integrated approach to managing land use, transport, housing, resources, infrastructure and urban resilience.",
+    "source": "Indian_Geography.pdf, Section 3.5.21, Page 12"
+  },
+  {
+    "id": "Q651",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which agricultural region of India is predominantly associated with rice cultivation according to the source?",
+    "options": {
+      "A": "Eastern and coastal belts",
+      "B": "Northwestern plains",
+      "C": "Western desert regions only",
+      "D": "High-altitude Himalayan regions only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies eastern and coastal belts of India as rice-dominant agricultural regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q652",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which region of India is identified as predominantly wheat-growing?",
+    "options": {
+      "A": "Northwestern plains",
+      "B": "Eastern coastal belts",
+      "C": "Western Ghats plantation belt",
+      "D": "Northeastern hill regions only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies the northwestern plains as wheat-dominant agricultural regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q653",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group of states is associated with millet and pulse cultivation in dryland regions according to the source?",
+    "options": {
+      "A": "Rajasthan, Gujarat, Maharashtra and Karnataka",
+      "B": "Punjab, Haryana, Bihar and West Bengal",
+      "C": "Kerala, Assam, Meghalaya and Sikkim",
+      "D": "Odisha, Jharkhand, Tripura and Nagaland"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Rajasthan, Gujarat, Maharashtra and Karnataka as important dryland regions associated with millet and pulse cultivation.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q654",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The plantation agricultural regions of India are primarily associated with which geographical areas?",
+    "options": {
+      "A": "Western Ghats and Northeast India",
+      "B": "Northwestern plains and Thar Desert",
+      "C": "Central Gangetic plains and Punjab",
+      "D": "Eastern Rajasthan and western Haryana"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies the Western Ghats and Northeast India as important plantation agricultural belts.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q655",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group of states is identified as an important irrigated sugarcane-growing region?",
+    "options": {
+      "A": "Uttar Pradesh, Maharashtra and Karnataka",
+      "B": "Rajasthan, Sikkim and Meghalaya",
+      "C": "Assam, Nagaland and Tripura",
+      "D": "Himachal Pradesh, Arunachal Pradesh and Mizoram"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Uttar Pradesh, Maharashtra and Karnataka as important irrigated sugarcane-growing regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q656",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following agricultural region and crop combinations is correctly matched according to the source?",
+    "options": {
+      "A": "Northwestern plains — Wheat",
+      "B": "Eastern and coastal belts — Millet-dominant dryland farming",
+      "C": "Western Ghats and Northeast — Wheat-dominant farming",
+      "D": "Rajasthan and Gujarat — Rice-dominant farming"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source associates wheat cultivation with the northwestern plains. Eastern and coastal belts are associated with rice, while Rajasthan and Gujarat are among the dryland millet and pulse regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q657",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following correctly matches an agricultural region with its characteristic?",
+    "options": {
+      "A": "Western Ghats and Northeast — Plantation agriculture",
+      "B": "Northwestern plains — Predominantly plantation agriculture",
+      "C": "Eastern and coastal belts — Wheat-dominant agriculture",
+      "D": "Drylands of Rajasthan and Karnataka — Irrigated sugarcane only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies the Western Ghats and Northeast as plantation belts. The northwestern plains are wheat-dominant, while eastern and coastal belts are rice-dominant.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q658",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which states form part of India's eastern and central mineral belt according to the source?",
+    "options": {
+      "A": "Jharkhand, Odisha, Chhattisgarh and parts of Madhya Pradesh",
+      "B": "Punjab, Haryana, Delhi and Rajasthan",
+      "C": "Kerala, Tamil Nadu, Goa and Karnataka",
+      "D": "Assam, Meghalaya, Tripura and Mizoram"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Jharkhand, Odisha, Chhattisgarh and parts of Madhya Pradesh as the eastern and central mineral belt of India.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q659",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which two important mineral resources are specifically associated with India's eastern and central mineral belt in the source?",
+    "options": {
+      "A": "Coal and iron ore",
+      "B": "Petroleum and natural gas only",
+      "C": "Gold and diamond only",
+      "D": "Uranium and thorium only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source states that coal and iron ore in the eastern and central mineral belt support important industries such as steel and power generation.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q660",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which industrial activities are particularly supported by coal and iron ore resources in India's eastern and central mineral belt?",
+    "options": {
+      "A": "Steel production and power generation",
+      "B": "Only tourism and hospitality",
+      "C": "Only information technology services",
+      "D": "Only marine fishing and ship tourism"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source specifically links coal and iron ore resources in the eastern and central mineral belt with the development of steel and power industries.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q661",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified as an important petroleum and natural gas-producing region of India?",
+    "options": {
+      "A": "Assam",
+      "B": "Bundelkhand",
+      "C": "Malwa Plateau",
+      "D": "Chota Nagpur Plateau only"
+    },
+    "correctAnswer": "A",
+    "explanation": "Assam is among the petroleum and natural gas regions listed in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q662",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group contains petroleum and natural gas regions identified in the source?",
+    "options": {
+      "A": "Assam, Gujarat, Mumbai Offshore, Rajasthan and Krishna–Godavari Basin",
+      "B": "Punjab, Haryana, Himachal Pradesh, Sikkim and Bihar",
+      "C": "Kerala, Goa, Meghalaya, Nagaland and Tripura",
+      "D": "Madhya Pradesh, Chhattisgarh, Jharkhand, Odisha and Bihar only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies Assam, Gujarat, Mumbai Offshore, Rajasthan and the Krishna–Godavari Basin as important petroleum and natural gas regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q663",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Mumbai Offshore is associated with which economic resource according to the source?",
+    "options": {
+      "A": "Petroleum and natural gas",
+      "B": "Millet and pulses",
+      "C": "Iron ore and manganese only",
+      "D": "Plantation crops"
+    },
+    "correctAnswer": "A",
+    "explanation": "Mumbai Offshore is listed among India's petroleum and natural gas regions.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q664",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "The Krishna–Godavari Basin is identified in the source as an important region for which resources?",
+    "options": {
+      "A": "Petroleum and natural gas",
+      "B": "Only wheat and rice",
+      "C": "Only gold and silver",
+      "D": "Only bauxite and mica"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source includes the Krishna–Godavari Basin among the petroleum and natural gas regions of India.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q665",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which Indian regions are identified as having strong solar and wind energy potential?",
+    "options": {
+      "A": "Western and southern India",
+      "B": "Only the central Gangetic plains",
+      "C": "Only the northeastern Himalayan region",
+      "D": "Only the eastern coastal delta regions"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies western and southern India as regions with strong solar and wind energy potential.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q666",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following correctly matches an economic resource with its regional distribution as given in the source?",
+    "options": {
+      "A": "Coal and iron ore — Eastern and central mineral belt",
+      "B": "Petroleum and natural gas — Northwestern wheat belt only",
+      "C": "Solar and wind energy — Only northeastern India",
+      "D": "Plantation agriculture — Thar Desert"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source associates coal and iron ore with the eastern and central mineral belt. It separately identifies petroleum and natural gas regions and strong solar and wind potential in western and southern India.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q667",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What is meant by regional inequality in economic geography?",
+    "options": {
+      "A": "Differences in income, infrastructure, employment and access to services between or within regions",
+      "B": "Equal distribution of all resources among every region",
+      "C": "Differences only in the physical shape of states",
+      "D": "Uniform development of all districts and states"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes regional inequalities as differences in income, infrastructure, employment, education, health, connectivity and access to resources between or within states.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q668",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is identified as a dimension of regional inequality?",
+    "options": {
+      "A": "Differences in infrastructure",
+      "B": "Identical access to all public facilities",
+      "C": "Uniform employment opportunities everywhere",
+      "D": "Equal connectivity in every district"
+    },
+    "correctAnswer": "A",
+    "explanation": "Infrastructure differences are among the dimensions of regional inequality identified in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q669",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which social-sector differences contribute to regional inequalities according to the source?",
+    "options": {
+      "A": "Differences in education and health",
+      "B": "Differences only in mountain height",
+      "C": "Differences only in river length",
+      "D": "Differences only in coastal shape"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies differences in education and health as important dimensions of regional inequalities.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q670",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is listed as a cause of regional inequalities in India?",
+    "options": {
+      "A": "Historical patterns of investment",
+      "B": "Uniform historical investment in every region",
+      "C": "Complete absence of geographical differences",
+      "D": "Identical industrial structures across all states"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies historical investment patterns as one of the causes of regional inequalities.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q671",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which group contains factors contributing to regional inequalities according to the source?",
+    "options": {
+      "A": "Geography, governance, industrial structure, urbanisation and human capital",
+      "B": "Latitude, longitude and Earth's rotation only",
+      "C": "Soil colour, cloud shape and ocean salinity only",
+      "D": "River depth, mountain height and tidal range only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies geography, governance, industrial structure, urbanisation and human capital, along with historical investment, as factors contributing to regional inequalities.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q672",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement correctly describes the geographical scope of regional inequalities?",
+    "options": {
+      "A": "They can occur both between different states and within individual states.",
+      "B": "They occur only between countries and never within a state.",
+      "C": "They are limited only to metropolitan cities.",
+      "D": "They occur only in regions without agricultural activity."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source explicitly describes regional inequalities as differences between and within states, showing that disparities can occur at multiple geographical levels.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q673",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "Which of the following is an important geographical factor influencing trade?",
+    "options": {
+      "A": "Location of markets and ports",
+      "B": "Only the colour of buildings",
+      "C": "Only the administrative language of a region",
+      "D": "Only the number of festivals celebrated"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies market and port locations as important factors influencing trade.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q674",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which transport-related factor influences trade according to the source?",
+    "options": {
+      "A": "Transport networks",
+      "B": "Absence of all connectivity",
+      "C": "Only the number of residential buildings",
+      "D": "Only the height of nearby hills"
+    },
+    "correctAnswer": "A",
+    "explanation": "Transport networks are among the factors influencing trade identified in the source.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q675",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which combination includes natural and geographical factors that influence trade?",
+    "options": {
+      "A": "Resources, climate and topography",
+      "B": "Only political slogans and cultural events",
+      "C": "Only building height and road colour",
+      "D": "Only population age and literacy"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies resources, climate and topography as factors that influence trade.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q676",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is included among the economic and logistical factors influencing trade?",
+    "options": {
+      "A": "Labour, energy and logistics",
+      "B": "Only rainfall and cloud cover",
+      "C": "Only mountain vegetation",
+      "D": "Only the shape of agricultural fields"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source lists labour, energy and logistics among the factors influencing trade.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q677",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Why do coastal regions generally have an advantage in overseas trade?",
+    "options": {
+      "A": "They benefit from access to ports.",
+      "B": "They are completely independent of transport networks.",
+      "C": "They do not require logistics or labour.",
+      "D": "They have no dependence on domestic markets."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source states that coastal regions benefit from port access, which supports their participation in overseas trade.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q678",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "How do landlocked regions generally access international trade routes according to the source?",
+    "options": {
+      "A": "Through inland transport corridors",
+      "B": "Through direct access to coastal ports within their own territory",
+      "C": "Without using any transport network",
+      "D": "Only through mountain passes"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source notes that landlocked regions rely on inland corridors to connect with trade routes and markets.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q679",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following correctly compares the trade advantages of coastal and landlocked regions?",
+    "options": {
+      "A": "Coastal regions benefit from port access, while landlocked regions depend on inland corridors.",
+      "B": "Coastal regions depend exclusively on inland corridors, while landlocked regions have direct port access.",
+      "C": "Both types of regions have identical direct access to seaports.",
+      "D": "Neither coastal nor landlocked regions require transport networks."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source distinguishes coastal regions, which benefit from port access, from landlocked regions, which rely on inland corridors.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q680",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What are export-oriented industries?",
+    "options": {
+      "A": "Industries that produce goods or services for overseas markets",
+      "B": "Industries that produce goods exclusively for local household consumption",
+      "C": "Industries that do not participate in trade",
+      "D": "Industries that operate only for government departments"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source defines export-oriented industries as industries that produce goods or services for overseas markets.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q681",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which market is the primary target of export-oriented industries?",
+    "options": {
+      "A": "Overseas or international markets",
+      "B": "Only the immediate local market",
+      "C": "Only the village-level market",
+      "D": "Only government offices within the same district"
+    },
+    "correctAnswer": "A",
+    "explanation": "Export-oriented industries produce goods and services intended for overseas markets rather than being limited to domestic consumption.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q682",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Easy",
+    "language": "English",
+    "question": "What is a Special Economic Zone (SEZ)?",
+    "options": {
+      "A": "A designated area with specific infrastructure and regulatory arrangements for economic and export activity",
+      "B": "A protected wildlife habitat established exclusively for conservation",
+      "C": "A region reserved only for subsistence agriculture",
+      "D": "A geographical area without industrial or commercial activity"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source describes an SEZ as a designated area with specific infrastructure and regulatory arrangements intended to support export activity.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q683",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which of the following is a defining feature of a Special Economic Zone according to the source?",
+    "options": {
+      "A": "Specific infrastructure and regulatory arrangements",
+      "B": "Complete absence of infrastructure",
+      "C": "Exclusive reservation for forest activities",
+      "D": "Prohibition of all export-related economic activity"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies designated infrastructure and regulatory arrangements as important features of SEZs.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q684",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Which activity is most directly associated with the purpose of Special Economic Zones as described in the source?",
+    "options": {
+      "A": "Export-oriented economic activity",
+      "B": "Exclusive subsistence farming",
+      "C": "Wildlife habitat protection only",
+      "D": "Unregulated residential expansion only"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source links SEZs with export activity through designated infrastructure and regulatory arrangements.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q685",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which of the following factors influences the effectiveness of Special Economic Zones?",
+    "options": {
+      "A": "Connectivity, skills, policy stability, supply chains and global demand",
+      "B": "Only the physical area of the zone",
+      "C": "Only the number of buildings within the zone",
+      "D": "Absence of transport and communication facilities"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source states that SEZ effectiveness depends on connectivity, skills, policy stability, supply chains and global demand.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q686",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Medium",
+    "language": "English",
+    "question": "Why is connectivity important for the effectiveness of an SEZ?",
+    "options": {
+      "A": "It supports the movement of goods and integration with markets and supply chains.",
+      "B": "It eliminates the need for industrial infrastructure.",
+      "C": "It prevents industries from accessing overseas markets.",
+      "D": "It makes labour skills and policy conditions irrelevant."
+    },
+    "correctAnswer": "A",
+    "explanation": "Connectivity is one of the factors identified in the source as influencing SEZ effectiveness. It supports access to markets and the functioning of supply chains.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q687",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which factor reflects the importance of international market conditions for the success of export-oriented industries and SEZs?",
+    "options": {
+      "A": "Global demand",
+      "B": "Local soil colour",
+      "C": "Mountain elevation alone",
+      "D": "The number of village ponds"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source identifies global demand as one of the factors determining the effectiveness of SEZs and export-oriented economic activity.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q688",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement correctly explains the relationship between export-oriented industries and Special Economic Zones?",
+    "options": {
+      "A": "Export-oriented industries target overseas markets, while SEZs provide designated infrastructure and regulatory arrangements that support export activity.",
+      "B": "Export-oriented industries serve only local markets, while SEZs prohibit overseas trade.",
+      "C": "Both concepts refer exclusively to agricultural settlements.",
+      "D": "SEZs are geographical regions where industrial and commercial activity is prohibited."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source defines export-oriented industries by their overseas-market focus and describes SEZs as designated areas with infrastructure and regulatory arrangements for export activity.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q689",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which combination includes the major factors influencing both regional economic development and trade according to the source?",
+    "options": {
+      "A": "Geography, infrastructure, governance, transport, resources, labour and connectivity",
+      "B": "Only rainfall, soil colour and vegetation",
+      "C": "Only population size and administrative boundaries",
+      "D": "Only port location and mountain height"
+    },
+    "correctAnswer": "A",
+    "explanation": "The source discusses geography, governance, infrastructure, resources, labour, transport networks and connectivity as important influences on regional development and trade.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
+  },
+  {
+    "id": "Q690",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "chapter": "Economic and Regional Geography",
+    "difficulty": "Hard",
+    "language": "English",
+    "question": "Which statement best summarises the relationship between geographical location and economic activity in India?",
+    "options": {
+      "A": "Agricultural patterns, mineral resources, energy potential, transport access and market connectivity influence the economic activities of different regions.",
+      "B": "Economic activities are distributed uniformly and are independent of geographical conditions.",
+      "C": "Only population size determines the economic activity of every region.",
+      "D": "Regional economic development is unrelated to resources, infrastructure or connectivity."
+    },
+    "correctAnswer": "A",
+    "explanation": "The source explains regional economic geography through the distribution of agriculture, minerals, energy resources, regional inequalities and trade. These activities are influenced by geographical conditions, infrastructure and connectivity.",
+    "source": "Indian_Geography.pdf, Section 3.5.22, Page 13"
   }
 ]
+
+
+

@@ -35,7 +35,7 @@ jobs:
       - name: Generate current-affairs questions
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_MODEL: gemini-3.8-flash
         run: python scripts/generate_ca.py
 
       - name: Validate datasets and refresh index

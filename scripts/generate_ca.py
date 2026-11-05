@@ -29,7 +29,7 @@ FEEDS = (
     ),
 )
 QUESTIONS_PER_FEED = 2
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 INDIA_TIMEZONE = timezone(timedelta(hours=5, minutes=30), "IST")
 
 QUESTION_SCHEMA = {

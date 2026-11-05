@@ -23,6 +23,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Revision scheduling brings incorrect answers back after one day, then spaces correct answers at 1, 3, 7, 14 and 30 day intervals as correct streaks grow. Mark a question mastered to remove it from active revision categories; bookmarks remain until removed.
 - Score, accuracy, attempt rate, subject/topic insights, time analysis and answer review. Preparation insights use saved local test history to track correct/incorrect answers, average time per attempted question, test-to-test accuracy changes and repeatedly missed questions. Strong/weak classifications require at least three attempted questions; smaller samples are labeled insufficient.
 - Complete a date-stable 25-question Daily Drill (10 General Knowledge, 5 Karnataka GK, 5 General Science and 5 Current Affairs), plus focused Karnataka GK and Current Affairs challenges and a Question of the Day.
+- Generate daily Karnataka and national current-affairs questions from RSS headlines using Gemini; generated questions are validated as part of the existing question banks and deployed with the normal Vercel Git integration.
 - Track challenge practice days, a private daily streak, weekly activity and monthly practice milestones from locally saved results. A challenge counts as a practice day after attempting at least half its questions; scores and total question volume do not increase streaks.
 - Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
 - Import/export of versioned JSON backups to transfer local test history between browsers or devices.
@@ -40,6 +41,12 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 ## Run locally
 
 The app loads the generated `data/datasets.json` index, so it works on Vercel without public directory listings. `vercel.json` runs `npm run build`; the build generates the index and assembles the site into the configured `public/` output folder. Run the same command after adding JSON files when testing locally. Use a web server rather than opening the page through `file://`.
+
+## Daily current-affairs updates
+
+The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time and can also be started manually from the GitHub Actions tab. Add a repository Actions secret named `GEMINI_API_KEY` containing a Gemini API key. The key is sent only from the workflow to Google's Gemini REST API; do not put it in the repository, frontend, or Vercel environment.
+
+The workflow reads Google News RSS feeds and only uses articles with a publication date matching the current India (IST) date; entries with missing or older dates are skipped. Gemini generates a short summary and three structured MCQs per new article. The generator validates the response, sends it as a JSON POST request to Gemini, and prepends the questions with their publication date to the existing Karnataka and national current-affairs banks. Articles already recorded by source URL are skipped. It then runs the normal dataset build and commits the updated data and manifest. A successful push triggers Vercel redeployment when the repository is connected to the Vercel project. If generation, JSON validation, or the build fails, the workflow stops without committing.
 
 ### Option A: VS Code Live Server
 

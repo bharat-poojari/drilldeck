@@ -1,0 +1,54 @@
+name: Generate Current Affairs
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-current-affairs
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Test generator
+        run: python -m unittest scripts.test_generate_ca
+
+      - name: Generate current-affairs questions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: python scripts/generate_ca.py
+
+      - name: Validate datasets and refresh index
+        run: npm run build
+
+      - name: Commit and push generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "data/General_Knowledge/CURRENT AFFAIRS/Karnataka_Current_Affairs.json" "data/General_Knowledge/CURRENT AFFAIRS/National_Current_Affairs.json" data/datasets.json
+          if git diff --cached --quiet; then
+            echo "No current-affairs changes to commit."
+          else
+            git commit -m "chore: update daily current affairs"
+            git push
+          fi

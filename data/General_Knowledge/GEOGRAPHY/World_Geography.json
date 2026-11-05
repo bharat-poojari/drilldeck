@@ -1,0 +1,1645 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "World Geography question bank derived from comprehensive PDF study material. Covers continents, oceans, mountains, rivers, lakes, deserts, countries, seas/straits, climate, biomes, resources, agriculture, industry, population, and superlatives. Verify and expand before formal examination use.",
+  "questions": [
+    {
+      "id": "WG001",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a continent?",
+      "options": {
+        "A": "A political territory with a government and defined jurisdiction",
+        "B": "One of Earth's major continuous landmasses, conventionally treated as a large geographical division",
+        "C": "A smaller part of an ocean partly enclosed by land",
+        "D": "A narrow natural water passage connecting two larger water bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "A continent is one of Earth's major continuous landmasses, conventionally treated as a large geographical division. The seven-continent model is commonly used in Indian school and competitive-exam geography.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG002",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest continent by area?",
+      "options": {
+        "A": "Africa",
+        "B": "Asia",
+        "C": "North America",
+        "D": "Europe"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asia is the largest continent, with approximately 44.6 million km².",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG003",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the most populous continent?",
+      "options": {
+        "A": "Africa",
+        "B": "Europe",
+        "C": "Asia",
+        "D": "North America"
+      },
+      "correctAnswer": "C",
+      "explanation": "Asia is the largest and most populous continent; it includes the Himalayas, Tibetan Plateau, Gobi, Arabian and Thar deserts.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG004",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent is crossed by the Equator and both tropics?",
+      "options": {
+        "A": "Asia",
+        "B": "Africa",
+        "C": "South America",
+        "D": "Australia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Africa is crossed by the Equator and both tropics; it lies between the Atlantic and Indian oceans and contains the Sahara, Congo Basin, Nile, Great Rift Valley and major savannas.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG005",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent extends from Arctic regions to Central America and contains the Rockies, Appalachians and Great Lakes?",
+      "options": {
+        "A": "South America",
+        "B": "Europe",
+        "C": "North America",
+        "D": "Asia"
+      },
+      "correctAnswer": "C",
+      "explanation": "North America lies between the Arctic and Atlantic/Pacific oceans, extends from Arctic regions to Central America, and contains the Rockies, Appalachians, Great Lakes, Mississippi–Missouri and Great Plains.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG006",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent is mostly in the Southern Hemisphere, joined to North America by the Isthmus of Panama, and contains the Andes and Amazon Basin?",
+      "options": {
+        "A": "Africa",
+        "B": "South America",
+        "C": "Australia",
+        "D": "Antarctica"
+      },
+      "correctAnswer": "B",
+      "explanation": "South America is mostly in the Southern Hemisphere, between the Atlantic and Pacific oceans, joined to North America by the Isthmus of Panama, and contains the Andes, Amazon Basin, Atacama, Pampas and Patagonia.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG007",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent has no permanent indigenous population or sovereign country?",
+      "options": {
+        "A": "Australia",
+        "B": "Antarctica",
+        "C": "Europe",
+        "D": "South America"
+      },
+      "correctAnswer": "B",
+      "explanation": "Antarctica is an ice-covered continent around the South Pole, surrounded by the Southern Ocean, with no permanent indigenous population or sovereign country. It has research stations occupied by scientists and support staff.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG008",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent is the smallest in the seven-continent model?",
+      "options": {
+        "A": "Europe",
+        "B": "Antarctica",
+        "C": "Australia",
+        "D": "South America"
+      },
+      "correctAnswer": "C",
+      "explanation": "Australia is the smallest continent in the seven-continent model, with approximately 7.7 million km² (continental landmass convention). It lies between the Indian and Pacific oceans and is entirely in the Southern and Eastern Hemispheres.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG009",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which are the seven continents in descending order of area?",
+      "options": {
+        "A": "Asia, Africa, North America, South America, Antarctica, Europe, Australia",
+        "B": "Asia, Africa, North America, South America, Europe, Antarctica, Australia",
+        "C": "Asia, Africa, North America, Antarctica, South America, Europe, Australia",
+        "D": "Asia, North America, Africa, South America, Antarctica, Europe, Australia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The seven continents in descending order of area are Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG010",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the conventional boundaries between Asia and Europe?",
+      "options": {
+        "A": "The Pyrenees and the Alps",
+        "B": "The Ural Mountains and Ural River, the Caspian Sea region, the Greater Caucasus or nearby Kuma-Manych depression, and the Black Sea-Bosporus-Sea of Marmara-Dardanelles system",
+        "C": "The Himalayas and the Tibetan Plateau",
+        "D": "The Andes and the Isthmus of Panama"
+      },
+      "correctAnswer": "B",
+      "explanation": "The conventional boundary generally follows the Ural Mountains and Ural River, the Caspian Sea region, the Greater Caucasus or nearby Kuma-Manych depression (depending on convention), and the Black Sea-Bosporus-Sea of Marmara-Dardanelles system. Europe and Asia form one continuous landmass called Eurasia.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG011",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continents are crossed by the Equator?",
+      "options": {
+        "A": "South America, Africa and Asia",
+        "B": "North America, Africa and Asia",
+        "C": "South America, Africa and Australia",
+        "D": "Africa, Australia and Europe"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Equator crosses South America, Africa and Asia (through the Indonesian island region).",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG012",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continents are crossed by the Tropic of Cancer?",
+      "options": {
+        "A": "South America, Africa and Australia",
+        "B": "North America, Africa and Asia",
+        "C": "Europe, Asia and Africa",
+        "D": "North America, South America and Africa"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Tropic of Cancer crosses North America, Africa and Asia.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG013",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continents are crossed by the Tropic of Capricorn?",
+      "options": {
+        "A": "South America, Africa and Australia",
+        "B": "North America, Africa and Asia",
+        "C": "Asia, Africa and Europe",
+        "D": "South America, Asia and Australia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tropic of Capricorn crosses South America, Africa and Australia.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG014",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major physical regions of Asia?",
+      "options": {
+        "A": "Western Cordillera, Interior Plains, Canadian Shield, Appalachian Highlands",
+        "B": "Northern lowlands of Siberia, Central Asian mountains and plateaus, Tibetan Plateau and Himalayas, West Asian plateaus and deserts, South Asian plains and peninsulas, eastern and southeastern island arcs",
+        "C": "Andes, Amazon Basin, Brazilian and Guiana Highlands, Pampas, Patagonian Plateau",
+        "D": "Western Plateau, Central Lowlands, Eastern Highlands"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major physical regions of Asia include northern lowlands of Siberia; Central Asian mountains and plateaus; the Tibetan Plateau and Himalayas; West Asian plateaus and deserts; South Asian plains and peninsulas; and the eastern and southeastern island arcs.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG015",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important African physical features?",
+      "options": {
+        "A": "Rockies, Great Lakes, Mississippi",
+        "B": "Sahara and Kalahari deserts, Atlas, Ethiopian and East African highlands, Congo Basin, Nile and Congo river systems, Great Rift Valley, Lake Victoria",
+        "C": "Alps, Pyrenees, Danube, Rhine, Volga",
+        "D": "Great Dividing Range, Great Victoria Desert"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important African physical features include Sahara and Kalahari deserts; Atlas, Ethiopian and East African highlands; Congo Basin; Nile and Congo river systems; Great Rift Valley; Lake Victoria; and the Guinea and Mozambique coastal regions.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG016",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which are important North American physical regions?",
+      "options": {
+        "A": "Western Cordillera including the Rocky Mountains, Interior Plains and Great Plains, Canadian Shield, Appalachian Highlands, Atlantic and Gulf Coastal Plains, Great Lakes-St Lawrence system",
+        "B": "Andes, Amazon Basin, Pampas",
+        "C": "Alps, Scandinavian Highlands, Central Uplands",
+        "D": "Western Plateau, Central Lowlands, Eastern Highlands"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important North American physical regions include the Western Cordillera including the Rocky Mountains; Interior Plains and Great Plains; Canadian Shield; Appalachian Highlands; Atlantic and Gulf Coastal Plains; and the Great Lakes-St Lawrence system.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG017",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which are important South American physical regions?",
+      "options": {
+        "A": "Rockies, Appalachians, Great Lakes",
+        "B": "Andes along the west, Amazon Basin in the north-central interior, Brazilian and Guiana Highlands, Orinoco Llanos, Pampas, Gran Chaco, Patagonian Plateau",
+        "C": "Alps, Pyrenees, Ural",
+        "D": "Western Plateau, Central Lowlands, Great Dividing Range"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important South American physical regions include the Andes along the west; Amazon Basin in the north-central interior; Brazilian and Guiana Highlands; Orinoco Llanos; Pampas; Gran Chaco; and Patagonian Plateau.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG018",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major physical regions of Europe?",
+      "options": {
+        "A": "Northwestern European plains, Scandinavian Highlands, Central Uplands, Alpine mountain system, eastern European/Russian plain",
+        "B": "Western Cordillera, Interior Plains, Canadian Shield",
+        "C": "Andes, Amazon Basin, Pampas",
+        "D": "Western Plateau, Central Lowlands, Eastern Highlands"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major physical regions of Europe are the Northwestern European plains; Scandinavian Highlands; Central Uplands; Alpine mountain system; and the eastern European/Russian plain.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG019",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Australia's main physical divisions?",
+      "options": {
+        "A": "Andes, Amazon Basin, Pampas",
+        "B": "Western Plateau, Central Lowlands, Eastern Highlands (including the Great Dividing Range)",
+        "C": "Alps, Pyrenees, Ural",
+        "D": "Rockies, Great Plains, Appalachian Highlands"
+      },
+      "correctAnswer": "B",
+      "explanation": "Australia's main physical divisions are the Western Plateau, Central Lowlands and Eastern Highlands (including the Great Dividing Range).",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG020",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continents span Arctic to tropical climates?",
+      "options": {
+        "A": "Africa and Australia",
+        "B": "Asia and North America",
+        "C": "South America and Europe",
+        "D": "Antarctica and Australia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asia and North America span Arctic to tropical climates. Africa is dominated by tropical and subtropical environments; South America includes equatorial rainforest, savanna, desert and temperate zones; Europe is largely temperate; Australia is largely arid or semi-arid; Antarctica is polar desert.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG021",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent is largely arid or semi-arid?",
+      "options": {
+        "A": "Europe",
+        "B": "South America",
+        "C": "Australia",
+        "D": "Africa"
+      },
+      "correctAnswer": "C",
+      "explanation": "Australia is largely arid or semi-arid. Antarctica is polar desert.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG022",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which continent contains the Amazon rainforest, the world's largest tropical rainforest?",
+      "options": {
+        "A": "Africa",
+        "B": "Asia",
+        "C": "South America",
+        "D": "Australia"
+      },
+      "correctAnswer": "C",
+      "explanation": "South America contains the Amazon rainforest, the world's largest tropical rainforest. Africa contains the Congo Basin rainforest, and Southeast Asia contains major tropical rainforest areas.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG023",
+      "subject": "World Geography",
+      "topic": "Continents",
+      "chapter": "Continents",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between a continent and a country?",
+      "options": {
+        "A": "A continent is a political territory; a country is a broad physical-geographical division",
+        "B": "A continent is a broad physical-geographical division; a country is a political territory with a government and defined jurisdiction",
+        "C": "Both are political territories",
+        "D": "Both are physical-geographical divisions"
+      },
+      "correctAnswer": "B",
+      "explanation": "A continent is a broad physical-geographical division; a country is a political territory with a government and defined jurisdiction. A continent contains many countries, while Antarctica is not divided into sovereign countries in the ordinary sense.",
+      "source": "World Geography PDF, Section 3.7.1"
+    },
+    {
+      "id": "WG024",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest and deepest ocean?",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Indian Ocean",
+        "C": "Pacific Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Pacific Ocean (approximately 165.3 million km²) is the largest and deepest ocean. It contains the Mariana Trench and is bordered by Asia, Australia, North America and South America.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG025",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the smallest and shallowest ocean?",
+      "options": {
+        "A": "Indian Ocean",
+        "B": "Southern Ocean",
+        "C": "Atlantic Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Arctic Ocean (approximately 14.1 million km²) is the smallest and shallowest ocean. It is largely enclosed by northern landmasses and has extensive seasonal sea ice.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG026",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the second-largest ocean and is S-shaped, separating the Americas from Europe and Africa?",
+      "options": {
+        "A": "Pacific Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Indian Ocean",
+        "D": "Southern Ocean"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Atlantic Ocean (approximately 106.5 million km²) is the second largest; it is S-shaped, separates the Americas from Europe and Africa, and is crossed by the Mid-Atlantic Ridge.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG027",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the third-largest ocean, largely in the Southern Hemisphere and bounded by Africa, Asia, Australia and the Southern Ocean?",
+      "options": {
+        "A": "Pacific Ocean",
+        "B": "Atlantic Ocean",
+        "C": "Indian Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Indian Ocean (approximately 70.6 million km²) is the third largest; it is largely in the Southern Hemisphere and bounded by Africa, Asia, Australia and the Southern Ocean.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG028",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which ocean encircles Antarctica and is defined by the Antarctic Circumpolar Current, commonly by the 60°S boundary?",
+      "options": {
+        "A": "Arctic Ocean",
+        "B": "Southern Ocean",
+        "C": "Indian Ocean",
+        "D": "Atlantic Ocean"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Southern Ocean (approximately 21.96 million km², definition-dependent) encircles Antarctica; it is defined by the Antarctic Circumpolar Current and commonly by the 60°S boundary.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG029",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between an ocean and a sea?",
+      "options": {
+        "A": "An ocean is a smaller part of a sea partly enclosed by land; a sea is a major continuous body of salt water",
+        "B": "An ocean is a major continuous body of salt water; a sea is generally a smaller part of an ocean, often partly enclosed by land",
+        "C": "Both are enclosed by land",
+        "D": "Both are freshwater bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ocean is a major continuous body of salt water. A sea is generally a smaller part of an ocean, often partly enclosed by land, although names and boundaries are conventional.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG030",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major layers of the ocean by depth?",
+      "options": {
+        "A": "Epipelagic (0-200 m), mesopelagic (200-1000 m), bathypelagic (1000-4000 m), abyssopelagic (4000-6000 m), hadal (below about 6000 m)",
+        "B": "Epipelagic (0-1000 m), mesopelagic (1000-2000 m), bathypelagic (2000-3000 m)",
+        "C": "Hadal (0-200 m), abyssopelagic (200-1000 m), bathypelagic (1000-4000 m)",
+        "D": "Mesopelagic (0-200 m), epipelagic (200-1000 m), hadal (1000-4000 m)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common divisions are epipelagic (0-200 m), mesopelagic (200-1000 m), bathypelagic (1000-4000 m), abyssopelagic (4000-6000 m) and hadal (below about 6000 m). Boundaries are conventional.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG031",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the deepest known ocean point?",
+      "options": {
+        "A": "Puerto Rico Trench",
+        "B": "Challenger Deep in the Mariana Trench, western Pacific",
+        "C": "Tonga Trench",
+        "D": "Java Trench"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Challenger Deep in the Mariana Trench, western Pacific, is the deepest known ocean point. Reported depth varies slightly with survey method; it is about 10.9 km below sea level.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG032",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mid-ocean ridge?",
+      "options": {
+        "A": "A long submarine mountain chain formed mainly at divergent plate boundaries where magma rises and creates new oceanic crust",
+        "B": "A deep trench formed at subduction zones",
+        "C": "A narrow water passage connecting two larger water bodies",
+        "D": "A broad coastal indentation of a sea or ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mid-ocean ridge is a long submarine mountain chain formed mainly at divergent plate boundaries where magma rises and creates new oceanic crust. The Mid-Atlantic Ridge is a major example.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG033",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are major ocean trenches?",
+      "options": {
+        "A": "Mariana, Tonga, Kermadec, Philippine, Japan, Kuril-Kamchatka, Peru-Chile, Puerto Rico, South Sandwich",
+        "B": "Himalaya, Andes, Rockies, Alps",
+        "C": "Mid-Atlantic Ridge, East Pacific Rise",
+        "D": "Suez, Panama, Kiel, Corinth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major ocean trenches include Mariana, Tonga, Kermadec, Philippine, Japan, Kuril-Kamchatka, Peru-Chile, Puerto Rico and South Sandwich trenches. Trenches commonly form at subduction zones.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG034",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are important seas associated with the oceans?",
+      "options": {
+        "A": "Mediterranean, Caribbean, Red, Black, Baltic, North, Bering, South China, Arabian",
+        "B": "Sahara, Gobi, Kalahari, Atacama",
+        "C": "Everest, K2, Kangchenjunga, Aconcagua",
+        "D": "Nile, Amazon, Yangtze, Mississippi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important seas include the Mediterranean, Caribbean, Red, Black, Baltic, North, Bering, South China and Arabian seas. Important gulfs include Persian Gulf, Gulf of Mexico, Gulf of Aden, Gulf of Guinea and Gulf of Alaska.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG035",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are ocean currents?",
+      "options": {
+        "A": "Large-scale, relatively continuous movements of seawater driven by winds, density differences, Earth's rotation, tides and basin configuration",
+        "B": "Long submarine mountain chains formed at divergent plate boundaries",
+        "C": "Deep trenches formed at subduction zones",
+        "D": "Narrow water passages connecting two larger water bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ocean currents are large-scale, relatively continuous movements of seawater driven by winds, density differences caused by temperature and salinity, Earth's rotation, tides and basin configuration.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG036",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is warm, flows in the North Atlantic, and carries warm water northeast from the Gulf of Mexico/Florida region?",
+      "options": {
+        "A": "Labrador Current",
+        "B": "Gulf Stream",
+        "C": "Canary Current",
+        "D": "Benguela Current"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Gulf Stream is a warm North Atlantic current that carries warm water northeast from the Gulf of Mexico/Florida region. The North Atlantic Drift is its warm extension that moderates western European climate.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG037",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows south along Labrador and Newfoundland, and can meet the Gulf Stream?",
+      "options": {
+        "A": "Gulf Stream",
+        "B": "North Atlantic Drift",
+        "C": "Labrador Current",
+        "D": "Kuroshio"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Labrador Current is a cold North Atlantic current that flows south along Labrador and Newfoundland and can meet the Gulf Stream.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG038",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows south along northwest Africa, and is associated with coastal upwelling?",
+      "options": {
+        "A": "Benguela Current",
+        "B": "Canary Current",
+        "C": "Brazil Current",
+        "D": "Aguihas Current"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Canary Current is a cold North Atlantic current that flows south along northwest Africa and is associated with coastal upwelling.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG039",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is warm, flows northward east of Taiwan and Japan?",
+      "options": {
+        "A": "Oyashio",
+        "B": "California Current",
+        "C": "Kuroshio",
+        "D": "Peru/Humboldt Current"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Kuroshio is a warm North Pacific current that flows northward east of Taiwan and Japan.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG040",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows southward from subarctic waters toward Japan?",
+      "options": {
+        "A": "Kuroshio",
+        "B": "Oyashio",
+        "C": "California Current",
+        "D": "Brazil Current"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Oyashio is a cold North Pacific current that flows southward from subarctic waters toward Japan.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+        {
+      "id": "WG041",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows south along western North America?",
+      "options": {
+        "A": "Gulf Stream",
+        "B": "Kuroshio",
+        "C": "California Current",
+        "D": "Oyashio"
+      },
+      "correctAnswer": "C",
+      "explanation": "The California Current is a cold North Pacific current that flows south along western North America.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG042",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows north along western South America, and supports productive fisheries?",
+      "options": {
+        "A": "Brazil Current",
+        "B": "Peru/Humboldt Current",
+        "C": "Benguela Current",
+        "D": "Aguihas Current"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Peru/Humboldt Current is a cold South Pacific current that flows north along western South America and supports productive fisheries.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG043",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is warm, flows south along eastern South America?",
+      "options": {
+        "A": "Brazil Current",
+        "B": "Peru/Humboldt Current",
+        "C": "Benguela Current",
+        "D": "Canary Current"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Brazil Current is a warm South Atlantic current that flows south along eastern South America.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG044",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows north along southwest Africa, and promotes upwelling?",
+      "options": {
+        "A": "Canary Current",
+        "B": "Aguihas Current",
+        "C": "Benguela Current",
+        "D": "Brazil Current"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Benguela Current is a cold South Atlantic current that flows north along southwest Africa and promotes upwelling.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG045",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is warm, flows southwest along southeast Africa?",
+      "options": {
+        "A": "Benguela Current",
+        "B": "Aguihas Current",
+        "C": "West Australian Current",
+        "D": "Canary Current"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Aguihas Current is a warm Indian Ocean current that flows southwest along southeast Africa.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG046",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which current is cold, flows north along western Australia?",
+      "options": {
+        "A": "Aguihas Current",
+        "B": "West Australian Current",
+        "C": "Benguela Current",
+        "D": "Kuroshio"
+      },
+      "correctAnswer": "B",
+      "explanation": "The West Australian Current is a cold Indian Ocean current that flows north along western Australia.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG047",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the only major current flowing completely around the globe without continental interruption?",
+      "options": {
+        "A": "Gulf Stream",
+        "B": "Kuroshio",
+        "C": "Antarctic Circumpolar Current",
+        "D": "Peru/Humboldt Current"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Antarctic Circumpolar Current in the Southern Ocean flows eastward and is the only major current flowing completely around the globe without continental interruption.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG048",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are warm and cold currents important?",
+      "options": {
+        "A": "They redistribute heat, influence coastal temperatures and rainfall, affect fog formation, and influence marine productivity and fisheries",
+        "B": "They only affect ocean depth",
+        "C": "They only cause earthquakes",
+        "D": "They only affect wind patterns"
+      },
+      "correctAnswer": "A",
+      "explanation": "Warm and cold currents redistribute heat, influence coastal temperatures and rainfall, affect fog formation where contrasting water masses meet, and influence marine productivity and fisheries.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG049",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are major oceanic resources?",
+      "options": {
+        "A": "Fish and other living resources; offshore petroleum and natural gas; salt and dissolved minerals; seabed minerals such as polymetallic nodules; renewable offshore wind, wave and tidal energy; marine genetic resources",
+        "B": "Only fish and salt",
+        "C": "Only petroleum and natural gas",
+        "D": "Only seabed minerals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major oceanic resources include fish and other living resources; offshore petroleum and natural gas; salt and other dissolved minerals; seabed minerals such as polymetallic nodules and cobalt-rich crusts; renewable offshore wind, wave and tidal energy; and marine genetic resources. Extraction is limited by environmental, legal and technological constraints.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG050",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an Exclusive Economic Zone (EEZ)?",
+      "options": {
+        "A": "A zone extending up to 200 nautical miles from applicable baselines where a coastal state generally has sovereign rights to explore, exploit, conserve and manage natural resources",
+        "B": "A zone extending up to 12 nautical miles from the coast",
+        "C": "A zone extending up to 500 nautical miles from the coast",
+        "D": "A zone with no national rights"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under the UN Convention on the Law of the Sea, a coastal state generally has sovereign rights to explore, exploit, conserve and manage natural resources in an EEZ extending up to 200 nautical miles from applicable baselines, subject to maritime delimitation and treaty rules.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG051",
+      "subject": "World Geography",
+      "topic": "Oceans",
+      "chapter": "Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are ocean straits and canals strategically important?",
+      "options": {
+        "A": "They concentrate shipping through narrow passages, reducing travel distance but creating chokepoints",
+        "B": "They are only used for fishing",
+        "C": "They are only used for tourism",
+        "D": "They have no strategic importance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ocean straits and canals concentrate shipping through narrow passages, reducing travel distance but creating chokepoints. Examples include Malacca, Hormuz, Bab-el-Mandeb, Gibraltar, Suez Canal and Panama Canal.",
+      "source": "World Geography PDF, Section 3.7.2"
+    },
+    {
+      "id": "WG052",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is the world's longest continental mountain range, extending roughly 7,000 km along western South America?",
+      "options": {
+        "A": "Rocky Mountains",
+        "B": "Himalayas",
+        "C": "Andes",
+        "D": "Alps"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Andes of South America extend for roughly 7,000 km along the continent's western margin and are the world's longest continental mountain range. They are associated with subduction along the Pacific margin.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG053",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the world's highest mountain above mean sea level?",
+      "options": {
+        "A": "K2",
+        "B": "Kangchenjunga",
+        "C": "Mount Everest",
+        "D": "Aconcagua"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mount Everest, 8,848.86 m, on the Nepal-China (Tibet) border, is the world's highest mountain above mean sea level. The height was jointly announced by Nepal and China in 2020.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG054",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the second-highest mountain in the world?",
+      "options": {
+        "A": "Kangchenjunga",
+        "B": "K2",
+        "C": "Aconcagua",
+        "D": "Denali"
+      },
+      "correctAnswer": "B",
+      "explanation": "K2 (8,611 m) in the Karakoram on the Pakistan-China border region is the second-highest mountain.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG055",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the third-highest mountain in the world?",
+      "options": {
+        "A": "K2",
+        "B": "Kangchenjunga",
+        "C": "Aconcagua",
+        "D": "Kilimanjaro"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kangchenjunga (8,586 m), on the Nepal-India border, is the third-highest mountain.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG056",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the highest peak in South America?",
+      "options": {
+        "A": "Aconcagua",
+        "B": "Kilimanjaro",
+        "C": "Denali",
+        "D": "Elbrus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aconcagua (6,961 m) in the Andes, Argentina, is the highest peak in South America.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG057",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the highest peak in North America?",
+      "options": {
+        "A": "Aconcagua",
+        "B": "Denali",
+        "C": "Kilimanjaro",
+        "D": "Vinson Massif"
+      },
+      "correctAnswer": "B",
+      "explanation": "Denali (6,190 m) in the Alaska Range, USA, is the highest peak in North America.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG058",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the highest peak in Africa?",
+      "options": {
+        "A": "Denali",
+        "B": "Elbrus",
+        "C": "Kilimanjaro",
+        "D": "Vinson Massif"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kilimanjaro (5,895 m) in Tanzania, an isolated volcanic massif, is the highest peak in Africa.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG059",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is commonly regarded as Europe's highest peak under the commonly used Caucasus boundary?",
+      "options": {
+        "A": "Mont Blanc",
+        "B": "Elbrus",
+        "C": "Matterhorn",
+        "D": "Kilimanjaro"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elbrus (5,642 m) in the Caucasus, Russia, is commonly regarded as Europe's highest peak under the commonly used Caucasus boundary.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG060",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the highest peak in Antarctica?",
+      "options": {
+        "A": "Vinson Massif",
+        "B": "Elbrus",
+        "C": "Denali",
+        "D": "Kosciuszko"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vinson Massif (4,892 m) in the Ellsworth Mountains, Antarctica, is the highest peak in Antarctica.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG061",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the highest peak in Australia under the Australia-continent convention?",
+      "options": {
+        "A": "Puncak Jaya",
+        "B": "Mount Kosciuszko",
+        "C": "Vinson Massif",
+        "D": "Elbrus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mount Kosciuszko (2,228 m) in the Great Dividing Range, Australia, is the highest peak in Australia under the Australia-continent convention. If Australasia/Oceania is used, Puncak Jaya in New Guinea is often cited instead.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG062",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where are the Himalayas located?",
+      "options": {
+        "A": "India, Nepal, Bhutan, China/Tibet and Pakistan region",
+        "B": "Western South America",
+        "C": "Central Europe",
+        "D": "Northwest Africa"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Himalayas are located in India, Nepal, Bhutan, China/Tibet and the Pakistan region. They are young fold mountains and the highest mountain system, formed by India-Eurasia collision.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG063",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range contains K2 and extensive glaciers such as Siachen?",
+      "options": {
+        "A": "Himalayas",
+        "B": "Karakoram",
+        "C": "Andes",
+        "D": "Alps"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karakoram (Pakistan, India and China region) contains K2 and includes extensive glaciers such as Siachen.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG064",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is part of the North American Cordillera and located in western North America?",
+      "options": {
+        "A": "Andes",
+        "B": "Rocky Mountains",
+        "C": "Alps",
+        "D": "Ural Mountains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Rocky Mountains in western North America (Canada and USA) are part of the North American Cordillera.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG065",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is located in central Europe across France, Switzerland, Italy, Austria, Germany, Slovenia and nearby states?",
+      "options": {
+        "A": "Pyrenees",
+        "B": "Alps",
+        "C": "Atlas",
+        "D": "Caucasus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Alps are located in central Europe across France, Switzerland, Italy, Austria, Germany, Slovenia and nearby states.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG066",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is located in northwest Africa across Morocco, Algeria and Tunisia and includes the High Atlas?",
+      "options": {
+        "A": "Alps",
+        "B": "Atlas",
+        "C": "Drakensberg",
+        "D": "Ural Mountains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Atlas Mountains are in northwest Africa across Morocco, Algeria and Tunisia and include the High Atlas.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG067",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is an older, eroded mountain system in eastern North America?",
+      "options": {
+        "A": "Rocky Mountains",
+        "B": "Appalachians",
+        "C": "Andes",
+        "D": "Alps"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Appalachians in eastern North America are an older, eroded mountain system.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG068",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range forms the conventional boundary between Europe and Asia?",
+      "options": {
+        "A": "Caucasus",
+        "B": "Ural Mountains",
+        "C": "Pyrenees",
+        "D": "Alps"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Ural Mountains in western Russia and the Kazakhstan region form the conventional boundary between Europe and Asia.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG069",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range lies between the Black and Caspian seas and contains Mount Elbrus?",
+      "options": {
+        "A": "Ural Mountains",
+        "B": "Caucasus",
+        "C": "Pyrenees",
+        "D": "Alps"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Caucasus lies between the Black and Caspian seas and contains Mount Elbrus, commonly regarded as Europe's highest peak.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG070",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range lies between Spain and France and forms a natural barrier between the Iberian Peninsula and the rest of Europe?",
+      "options": {
+        "A": "Alps",
+        "B": "Pyrenees",
+        "C": "Atlas",
+        "D": "Caucasus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Pyrenees lie between Spain and France (and Andorra) and form a natural barrier between the Iberian Peninsula and the rest of Europe.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG071",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is located in Norway and Sweden near Finland and represents glaciated highlands of the Scandinavian Peninsula?",
+      "options": {
+        "A": "Alps",
+        "B": "Scandinavian Mountains",
+        "C": "Ural Mountains",
+        "D": "Pyrenees"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Scandinavian Mountains are in Norway and Sweden near Finland and represent glaciated highlands of the Scandinavian Peninsula.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG072",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is a major Australian highland system running roughly parallel to the east coast?",
+      "options": {
+        "A": "Drakensberg",
+        "B": "Great Dividing Range",
+        "C": "Andes",
+        "D": "Rocky Mountains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Great Dividing Range in eastern Australia is a major Australian highland system running roughly parallel to the east coast.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG073",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which mountain range is in southern Africa, especially South Africa and Lesotho, and is the highest part of the Great Escarpment?",
+      "options": {
+        "A": "Atlas",
+        "B": "Drakensberg",
+        "C": "Great Dividing Range",
+        "D": "Scandinavian Mountains"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Drakensberg in southern Africa, especially South Africa and Lesotho, is the highest part of the Great Escarpment of southern Africa.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG074",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which are important Himalayan and Asian mountain passes?",
+      "options": {
+        "A": "Karakoram Pass, Khunjerab Pass, Zoji La, Baniah Pass, Shipki La, Nathu La, Jelep La, Lipulekh, Mana Pass",
+        "B": "Saint Gotthard, Simplon, Brenner",
+        "C": "Uspallata, Christ the Redeemer",
+        "D": "Khyber Pass only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Himalayan and Asian mountain passes include Karakoram Pass, Khunjerab Pass, Zoji La, Baniah Pass, Shipki La, Nathu La, Jelep La, Lipulekh and Mana Pass. Their accessibility and strategic use can change with border controls, weather and infrastructure.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG075",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which are important passes outside Asia?",
+      "options": {
+        "A": "Karakoram, Khunjerab, Zoji La",
+        "B": "Saint Gotthard and Simplon (Alps), Brenner (Alps, Austria-Italy), Khyber (Hindu Kush/Safed Koh region), Uspallata/Christ the Redeemer route (Andes)",
+        "C": "Nathu La, Jelep La, Lipulekh",
+        "D": "Mana Pass, Shipki La, Baniah Pass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important passes outside Asia include Saint Gotthard and Simplon (Alps); Brenner (Alps, Austria-Italy); Khyber (Hindu Kush/Safed Koh region); and several Andes passes such as Uspallata/Christ the Redeemer route.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG076",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do fold mountains form?",
+      "options": {
+        "A": "They commonly form where tectonic plates converge and crust is compressed, folded, faulted and uplifted",
+        "B": "They form from erupted lava and tephra around vents",
+        "C": "They form from erosion by rivers",
+        "D": "They form from deposition of sediments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fold mountains commonly form where tectonic plates converge and crust is compressed, folded, faulted and uplifted. The Himalayas and Alps are classic examples.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG077",
+      "subject": "World Geography",
+      "topic": "Mountains",
+      "chapter": "Major Mountains and Mountain Ranges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do volcanic mountains differ from fold mountains?",
+      "options": {
+        "A": "Volcanic mountains are built by erupted lava and tephra around vents or fissures; fold mountains arise mainly from tectonic compression and deformation",
+        "B": "Volcanic mountains arise from tectonic compression; fold mountains are built by erupted lava",
+        "C": "Both are formed by erosion",
+        "D": "Both are formed by deposition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volcanic mountains are built by erupted lava and tephra around vents or fissures; fold mountains arise mainly from tectonic compression and deformation. Kilimanjaro is volcanic; Everest is part of a collision-related fold-and-thrust mountain system.",
+      "source": "World Geography PDF, Section 3.7.3"
+    },
+    {
+      "id": "WG078",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which river has the greatest average discharge of any river in the world?",
+      "options": {
+        "A": "Nile",
+        "B": "Amazon",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Amazon River has by far the greatest average discharge of any river. It also has the largest drainage basin. It flows from the Andes of Peru (headwaters in the Apurimac/Ucayali system) to the Atlantic Ocean through Peru, Colombia and Brazil.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG079",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river is traditionally described as the world's longest, though some measurements place the Amazon first?",
+      "options": {
+        "A": "Amazon",
+        "B": "Nile",
+        "C": "Yangtze",
+        "D": "Mississippi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Nile is traditionally listed as the longest, but some measurements and source definitions place the Amazon first. In objective examinations, follow the wording and accepted reference convention; Amazon is unequivocally greatest by discharge and basin area.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG080",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major tributaries of the Nile?",
+      "options": {
+        "A": "Missouri and Ohio",
+        "B": "White Nile and Blue Nile",
+        "C": "Negro and Madeira",
+        "D": "Yamuna and Gharghara"
+      },
+      "correctAnswer": "B",
+      "explanation": "The White Nile and Blue Nile are the two principal tributary branches of the Nile. The Blue Nile begins at Lake Tana in Ethiopia; the White Nile system drains the equatorial Great Lakes region. The Nile flows mainly through Uganda, South Sudan, Sudan and Egypt to the Mediterranean Sea.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG081",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the longest river entirely within one country?",
+      "options": {
+        "A": "Nile",
+        "B": "Amazon",
+        "C": "Yangtze (Chang Jiang)",
+        "D": "Mississippi"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Yangtze (Chang Jiang) is the longest river entirely within one country. It flows from the Tibetan Plateau to the East China Sea and is entirely in China.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG082",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which river system includes the Missouri and Mississippi rivers and drains into the Gulf of Mexico?",
+      "options": {
+        "A": "Amazon",
+        "B": "Mississippi-Missouri",
+        "C": "Congo",
+        "D": "Yenisei"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Mississippi-Missouri system has the Missouri headwaters in the Rocky Mountains and the Mississippi headwaters at Lake Itasca. It drains the USA and flows into the Gulf of Mexico.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG083",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river has very high discharge, flows through the Democratic Republic of the Congo and Republic of the Congo basin, and has a deep river channel?",
+      "options": {
+        "A": "Nile",
+        "B": "Amazon",
+        "C": "Congo",
+        "D": "Niger"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Congo flows from the Central African highlands / Chambeshi source system to the Atlantic Ocean through the Democratic Republic of the Congo and Republic of the Congo basin. It has very high discharge and is a deep river.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+        {
+      "id": "WG084",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major Siberian river flows from Mongolia/Sayan headwaters and tributaries to the Kara Sea (Arctic Ocean)?",
+      "options": {
+        "A": "Ob",
+        "B": "Yenisei",
+        "C": "Lena",
+        "D": "Volga"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Yenisei flows from Mongolia/Sayan headwaters and tributaries to the Kara Sea, Arctic Ocean, through Mongolia and Russia. It is a major Siberian river system.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG085",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river is known for loess sediment and historical flooding, flowing from the Bayan Har Mountains region of the Tibetan Plateau to the Bohai Sea?",
+      "options": {
+        "A": "Yangtze",
+        "B": "Yellow River (Huang He)",
+        "C": "Mekong",
+        "D": "Indus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Yellow River (Huang He) flows from the Bayan Har Mountains, Tibetan Plateau region, to the Bohai Sea in China. It is known for loess sediment and historical flooding.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG086",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river flows from the Tibetan Plateau to the South China Sea through China, Myanmar border region, Laos, Thailand, Cambodia and Vietnam?",
+      "options": {
+        "A": "Yangtze",
+        "B": "Yellow River",
+        "C": "Mekong",
+        "D": "Ganges"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Mekong flows from the Tibetan Plateau to the South China Sea through China, Myanmar border region, Laos, Thailand, Cambodia and Vietnam.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+        {
+      "id": "WG087",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river flows through or borders ten countries and drains into the Black Sea, making it a major European international river?",
+      "options": {
+        "A": "Rhine",
+        "B": "Danube",
+        "C": "Volga",
+        "D": "Seine"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Danube flows from the Black Forest, Germany, to the Black Sea and flows through or borders ten countries, making it a major European international river.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG088",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the longest river in Europe, flowing entirely in Russia from the Valdai Hills to the Caspian Sea?",
+      "options": {
+        "A": "Danube",
+        "B": "Rhine",
+        "C": "Volga",
+        "D": "Dnieper"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Volga flows from the Valdai Hills, Russia, to the Caspian Sea. It is the longest river in Europe and lies entirely in Russia.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG089",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major industrial waterway flows from the Swiss Alps to the North Sea through Switzerland, Liechtenstein, Austria, Germany, France and the Netherlands region?",
+      "options": {
+        "A": "Danube",
+        "B": "Rhine",
+        "C": "Volga",
+        "D": "Elbe"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Rhine flows from the Swiss Alps to the North Sea through Switzerland, Liechtenstein, Austria, Germany, France and the Netherlands region. It is a major industrial waterway.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG090",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river flows from the Guinea Highlands to the Gulf of Guinea via the Niger Delta through Guinea, Mali, Niger, Benin border region and Nigeria?",
+      "options": {
+        "A": "Congo",
+        "B": "Niger",
+        "C": "Zambezi",
+        "D": "Nile"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Niger flows from the Guinea Highlands to the Gulf of Guinea via the Niger Delta through Guinea, Mali, Niger, Benin border region and Nigeria.",
+      "source": "World Geography PDF, Section 3.7.4"
+    },
+    {
+      "id": "WG091",
+      "subject": "World Geography",
+      "topic": "Rivers",
+      "chapter": "Major Rivers of the World",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "On which river is Victoria Falls located, on the Zambia-Zimbabwe border?",
+      "options": {
+        "A": "Nile",
+        "B": "Congo",
+        "C": "Zambezi",
+        "D": "Niger"
+      },
+      "correctAnswer": "C",
+      "explanation": "Victoria Falls lies on the Zambezi River on the Zambia-Zimbabwe border. The Zambezi flows from the Zambia/Central African plateau to the Indian Ocean via Mozambique.",
+      "source": "World Geography PDF, Section 3.7.4"
+    }
+]
+}

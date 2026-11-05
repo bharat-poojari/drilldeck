@@ -5943,6 +5943,2886 @@
       "correctAnswer": "B",
       "explanation": "The reference cites the jointly announced 2020 height of Mount Everest as 8,848.86 metres.",
       "source": "PDF Section 3.12.4, Page 11"
+    },
+    {
+      "id": "Q313",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "Continents and Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest continent in the world by area and population?",
+      "options": {
+        "A": "Africa",
+        "B": "Asia",
+        "C": "North America",
+        "D": "Europe"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asia is the largest continent by both geographical area and population.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q314",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "Continents and Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which continent is conventionally considered the smallest by area?",
+      "options": {
+        "A": "Europe",
+        "B": "Antarctica",
+        "C": "Australia",
+        "D": "South America"
+      },
+      "correctAnswer": "C",
+      "explanation": "Australia is conventionally considered the smallest continent by area. Oceania is a broader regional term that includes Australia, New Zealand and Pacific islands.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q315",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "Continents and Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest and deepest ocean basin in the world?",
+      "options": {
+        "A": "Atlantic Ocean",
+        "B": "Indian Ocean",
+        "C": "Pacific Ocean",
+        "D": "Arctic Ocean"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Pacific Ocean is the largest and deepest ocean basin in the world.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q316",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "Continents and Oceans",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the smallest and shallowest among the five commonly recognised oceans?",
+      "options": {
+        "A": "Arctic Ocean",
+        "B": "Indian Ocean",
+        "C": "Atlantic Ocean",
+        "D": "Southern Ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arctic Ocean is the smallest and shallowest of the five commonly recognised oceans.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q317",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World River Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is generally recognised as the longest river in Asia?",
+      "options": {
+        "A": "Mekong",
+        "B": "Yangtze",
+        "C": "Huang He",
+        "D": "Ganges"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Yangtze, also called Chang Jiang, in China is generally recognised as Asia's longest river, with a length of approximately 6,300 km.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q318",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Mountain Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which mountain is conventionally listed as the second-highest summit in the world after Mount Everest?",
+      "options": {
+        "A": "Kangchenjunga",
+        "B": "Lhotse",
+        "C": "K2",
+        "D": "Makalu"
+      },
+      "correctAnswer": "C",
+      "explanation": "K2, with an elevation of approximately 8,611 metres, is the world's second-highest mountain summit after Everest.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q319",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Mountain Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is listed as the third-highest mountain summit in the world?",
+      "options": {
+        "A": "Kangchenjunga",
+        "B": "K2",
+        "C": "Lhotse",
+        "D": "Makalu"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kangchenjunga, at approximately 8,586 metres, is conventionally listed as the third-highest mountain summit in the world.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q320",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Mountain Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which mountain is listed as the fourth-highest summit in the world?",
+      "options": {
+        "A": "Makalu",
+        "B": "Lhotse",
+        "C": "K2",
+        "D": "Cho Oyu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lhotse, at approximately 8,516 metres, is listed as the fourth-highest mountain summit after Everest, K2 and Kangchenjunga.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q321",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Mountain Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which mountain is listed as the fifth-highest summit in the world in the reference material?",
+      "options": {
+        "A": "Makalu",
+        "B": "Lhotse",
+        "C": "Kangchenjunga",
+        "D": "K2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Makalu, at approximately 8,485 metres, is listed among the world's highest peaks after Everest, K2, Kangchenjunga and Lhotse.",
+      "source": "PDF Section 3.12.1, Page 2"
+    },
+    {
+      "id": "Q322",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Geographical Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which country is generally ranked as having the longest coastline in the world?",
+      "options": {
+        "A": "Russia",
+        "B": "Australia",
+        "C": "Canada",
+        "D": "Indonesia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Canada is generally ranked as having the world's longest coastline. The exact measured length depends strongly on mapping scale and measurement method, a problem known as the coastline paradox.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q323",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Lake Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which is the deepest lake in Africa?",
+      "options": {
+        "A": "Lake Victoria",
+        "B": "Lake Tanganyika",
+        "C": "Lake Chad",
+        "D": "Lake Malawi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lake Tanganyika is Africa's deepest lake and is also one of the deepest freshwater lakes in the world.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q324",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Lake Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which lake, located on the Peru–Bolivia border, is commonly cited as the world's highest large navigable lake?",
+      "options": {
+        "A": "Lake Baikal",
+        "B": "Lake Titicaca",
+        "C": "Lake Superior",
+        "D": "Lake Tanganyika"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lake Titicaca lies on the Peru–Bolivia border in the Andes at approximately 3,812 metres above sea level. It is commonly cited as the world's highest large navigable lake.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q325",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Geographical Records",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
+      "options": {
+        "A": "Indonesia",
+        "B": "Australia",
+        "C": "Philippines",
+        "D": "New Zealand"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Great Barrier Reef is situated off Queensland, Australia, and is the world's largest coral reef system.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q326",
+      "subject": "General Knowledge",
+      "topic": "World Geography",
+      "chapter": "World Geographical Records",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is generally identified as the world's largest peninsula?",
+      "options": {
+        "A": "Indian Peninsula",
+        "B": "Arabian Peninsula",
+        "C": "Scandinavian Peninsula",
+        "D": "Iberian Peninsula"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Arabian Peninsula is generally identified as the world's largest peninsula.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q327",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the reference material, which peak is often identified as the highest peak entirely within Indian-administered territory?",
+      "options": {
+        "A": "K2",
+        "B": "Nanda Devi",
+        "C": "Mount Everest",
+        "D": "Anamudi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reference identifies Nanda Devi, approximately 7,816 metres high, as the peak often given as the highest entirely within Indian-administered territory, subject to the precise territorial definition used. K2 is in territory claimed by India but administered by Pakistan.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q328",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which statement about Kangchenjunga and India's geographical records is correct according to the reference?",
+      "options": {
+        "A": "Kangchenjunga is wholly within Karnataka",
+        "B": "Kangchenjunga is the highest peak on India's international border and is shared with Nepal",
+        "C": "Kangchenjunga is India's southernmost peak",
+        "D": "Kangchenjunga is located entirely in Rajasthan"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reference states that Kangchenjunga is the highest peak on India's international border and is shared with Nepal. It cautions against oversimplifying India's highest-peak records because territorial definitions matter.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q329",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the largest Indian state by geographical area?",
+      "options": {
+        "A": "Madhya Pradesh",
+        "B": "Maharashtra",
+        "C": "Rajasthan",
+        "D": "Uttar Pradesh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rajasthan is the largest Indian state by area.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q330",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the smallest Indian state by geographical area?",
+      "options": {
+        "A": "Sikkim",
+        "B": "Goa",
+        "C": "Tripura",
+        "D": "Manipur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Goa is the smallest Indian state by area. Among Union Territories, Lakshadweep is the smallest and Ladakh is the largest by area.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q331",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Union Territory is the largest in India by area?",
+      "options": {
+        "A": "Jammu and Kashmir",
+        "B": "Lakshadweep",
+        "C": "Ladakh",
+        "D": "Puducherry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ladakh is the largest Union Territory of India by area. Lakshadweep is the smallest Union Territory by area.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q332",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Records of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Union Territory is the smallest in India by area?",
+      "options": {
+        "A": "Delhi",
+        "B": "Lakshadweep",
+        "C": "Chandigarh",
+        "D": "Puducherry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lakshadweep is the smallest Union Territory in India by geographical area.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q333",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian River Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river is commonly identified as India's longest river in standard examination material?",
+      "options": {
+        "A": "Godavari",
+        "B": "Krishna",
+        "C": "Ganga",
+        "D": "Narmada"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Ganga is commonly identified as India's longest river in standard examination material. Rankings can depend on whether the total transboundary course or only the Indian stretch is considered.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q334",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian River Records",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which river is the longest river of Peninsular India and is often called the Dakshin Ganga?",
+      "options": {
+        "A": "Krishna",
+        "B": "Cauvery",
+        "C": "Godavari",
+        "D": "Mahanadi"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Godavari is the longest river of Peninsular India and is often called the Dakshin Ganga.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q335",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian Lake Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which lake is commonly described as one of India's largest freshwater lakes?",
+      "options": {
+        "A": "Sambhar Lake",
+        "B": "Wular Lake",
+        "C": "Chilika Lake",
+        "D": "Pulicat Lake"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wular Lake in Jammu and Kashmir is commonly described as one of India's largest freshwater lakes. Its area fluctuates seasonally.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q336",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian Coastal Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Indian state has the longest coastline according to the revised official measurement cited in the PDF?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Andhra Pradesh",
+        "C": "Gujarat",
+        "D": "Maharashtra"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gujarat has the longest coastline among Indian states under the revised official measurement cited in the PDF.",
+      "source": "PDF Section 3.12.1, Page 3"
+    },
+    {
+      "id": "Q337",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian Forest Records",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Indian state had the largest forest cover by area in the India State of Forest Report 2023 cited in the PDF?",
+      "options": {
+        "A": "Arunachal Pradesh",
+        "B": "Madhya Pradesh",
+        "C": "Mizoram",
+        "D": "Chhattisgarh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Madhya Pradesh had the largest forest cover by area in the India State of Forest Report 2023. Forest cover by area and forest cover as a percentage of geographical area are different measures.",
+      "source": "PDF Section 3.12.1, Page 4"
+    },
+    {
+      "id": "Q338",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Coordinates of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate northern latitude limit of mainland India given in the reference?",
+      "options": {
+        "A": "6°45′ N",
+        "B": "8°4′ N",
+        "C": "37°6′ N",
+        "D": "40° N"
+      },
+      "correctAnswer": "C",
+      "explanation": "The approximate northern latitude limit of mainland India is 37°6′ N. The southern mainland extent is approximately 8°4′ N.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q339",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Coordinates of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate western longitude limit of mainland India?",
+      "options": {
+        "A": "68°7′ E",
+        "B": "82°30′ E",
+        "C": "90° E",
+        "D": "97°25′ E"
+      },
+      "correctAnswer": "A",
+      "explanation": "The approximate western longitude limit of mainland India is 68°7′ E. Its eastern longitude limit is approximately 97°25′ E.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q340",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Coordinates of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate southern latitude of India's territory including its islands?",
+      "options": {
+        "A": "8°4′ N",
+        "B": "6°45′ N",
+        "C": "10° N",
+        "D": "12° N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Including the islands, India's southern extent reaches approximately 6°45′ N at Indira Point on Great Nicobar Island.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q341",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Extreme Geographical Locations of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which place in Arunachal Pradesh is commonly cited as India's easternmost location in examination references?",
+      "options": {
+        "A": "Guhar Moti",
+        "B": "Kibithu",
+        "C": "Kanyakumari",
+        "D": "Indira Point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kibithu, in Arunachal Pradesh, is commonly cited as India's easternmost location in examination references.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q342",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Extreme Geographical Locations of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which place in Gujarat is commonly cited as India's westernmost location?",
+      "options": {
+        "A": "Dwarka",
+        "B": "Porbandar",
+        "C": "Guhar Moti",
+        "D": "Kandla"
+      },
+      "correctAnswer": "C",
+      "explanation": "Guhar Moti in Kutch, Gujarat, is commonly cited as India's westernmost location.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q343",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian Standard Meridian",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Indian Standard Meridian passes near which city in Uttar Pradesh?",
+      "options": {
+        "A": "Lucknow",
+        "B": "Mirzapur",
+        "C": "Agra",
+        "D": "Varanasi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Indian Standard Meridian at 82°30′ E passes near Mirzapur in Uttar Pradesh.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q344",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Indian Standard Meridian",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Approximately how much does mean solar time change for every one degree of longitude?",
+      "options": {
+        "A": "One minute",
+        "B": "Two minutes",
+        "C": "Four minutes",
+        "D": "Ten minutes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Every one degree of longitude corresponds to approximately four minutes of mean solar time. India adopts a single standard time based on 82°30′ E to maintain uniform civil time.",
+      "source": "PDF Section 3.12.2, Page 4"
+    },
+    {
+      "id": "Q345",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Zoji La is an important mountain pass associated with which route?",
+      "options": {
+        "A": "Kashmir–Ladakh",
+        "B": "Kerala–Tamil Nadu",
+        "C": "Maharashtra–Goa",
+        "D": "Assam–Meghalaya"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zoji La is an important mountain pass on the Kashmir–Ladakh route.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q346",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Nathu La and Jelep La are important mountain passes associated with which Indian state?",
+      "options": {
+        "A": "Himachal Pradesh",
+        "B": "Uttarakhand",
+        "C": "Sikkim",
+        "D": "Arunachal Pradesh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nathu La and Jelep La are important passes in Sikkim associated with routes towards Tibet.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q347",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which pair of mountain passes is associated with Arunachal Pradesh in the reference material?",
+      "options": {
+        "A": "Mana and Niti",
+        "B": "Bomdi La and Se La",
+        "C": "Nathu La and Jelep La",
+        "D": "Zoji La and Banihal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bomdi La and Se La are important mountain passes in Arunachal Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q348",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which geographical gap lies between the Nilgiri and Anaimalai ranges?",
+      "options": {
+        "A": "Shencottah Gap",
+        "B": "Palakkad Gap",
+        "C": "Bhor Ghat",
+        "D": "Thal Ghat"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Palakkad Gap lies between the Nilgiri and Anaimalai ranges in the Kerala–Tamil Nadu region.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q349",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a mountain ghat route in Karnataka mentioned in the reference?",
+      "options": {
+        "A": "Charmadi Ghat",
+        "B": "Nathu La",
+        "C": "Shipki La",
+        "D": "Rohtang Pass"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charmadi, Shiradi and Agumbe are important ghat routes in Karnataka. The reference also lists Bhor Ghat and Thal Ghat in Maharashtra and Palakkad Gap in the Kerala–Tamil Nadu region.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q350",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "At which location do the Ganga and Yamuna meet?",
+      "options": {
+        "A": "Devprayag",
+        "B": "Rudraprayag",
+        "C": "Prayagraj",
+        "D": "Haridwar"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Ganga and Yamuna meet at Prayagraj in Uttar Pradesh at the Triveni Sangam. The traditional third river, Saraswati, is regarded as a sacred or subterranean river in religious tradition.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q351",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two rivers meet at Rudraprayag?",
+      "options": {
+        "A": "Bhagirathi and Alaknanda",
+        "B": "Alaknanda and Mandakini",
+        "C": "Alaknanda and Pindar",
+        "D": "Alaknanda and Dhauliganga"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rudraprayag is the confluence of the Alaknanda and Mandakini rivers.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q352",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Systems of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When the Brahmaputra enters India from Tibet, by which names is it known in Arunachal Pradesh?",
+      "options": {
+        "A": "Ganga and Padma",
+        "B": "Siang or Dihang",
+        "C": "Jamuna and Meghna",
+        "D": "Teesta and Subansiri"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Brahmaputra enters Arunachal Pradesh from Tibet, where its upper course is known as the Yarlung Tsangpo. In Arunachal Pradesh it is called the Siang or Dihang. After joining major tributaries in Assam, it is known as the Brahmaputra.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q353",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Bhagirathi River, an important headstream of the Ganga, originates from which glacier region?",
+      "options": {
+        "A": "Gangotri glacier region",
+        "B": "Yamunotri glacier region",
+        "C": "Zemu glacier region",
+        "D": "Siachen glacier region"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Bhagirathi originates in the Gangotri glacier region of Uttarakhand. It joins the Alaknanda at Devprayag to form the Ganga.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q354",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Alaknanda River originates from which glacier region according to the reference?",
+      "options": {
+        "A": "Gangotri and Yamunotri",
+        "B": "Satopanth and Bhagirath Kharak",
+        "C": "Siachen and Baltoro",
+        "D": "Zemu and Pindari"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reference identifies the Satopanth and Bhagirath Kharak glacier region as the source region of the Alaknanda.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q355",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Yamuna River originates from which glacier?",
+      "options": {
+        "A": "Gangotri Glacier",
+        "B": "Yamunotri Glacier",
+        "C": "Pindari Glacier",
+        "D": "Zemu Glacier"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Yamuna originates from the Yamunotri glacier in Uttarakhand.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q356",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Indus River originates in which geographical region?",
+      "options": {
+        "A": "Western Ghats",
+        "B": "Tibetan Plateau near the Lake Manasarovar region",
+        "C": "Amarkantak Plateau",
+        "D": "Sihawa Hills"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Indus originates on the Tibetan Plateau near the Lake Manasarovar region and flows through Ladakh and Pakistan towards the Arabian Sea.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q357",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Brahmaputra River originates in which region of Tibet according to the reference?",
+      "options": {
+        "A": "Chemayungdung glacier region",
+        "B": "Gangotri glacier region",
+        "C": "Satopanth glacier region",
+        "D": "Amarkantak region"
+      },
+      "correctAnswer": "A",
+      "explanation": "The reference identifies the Chemayungdung glacier region in Tibet as the source region of the Brahmaputra.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q358",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Krishna River originates near which place in Maharashtra?",
+      "options": {
+        "A": "Trimbakeshwar",
+        "B": "Mahabaleshwar",
+        "C": "Amarkantak",
+        "D": "Multai"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Krishna River originates near Mahabaleshwar in Maharashtra and flows eastwards towards the Bay of Bengal.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q359",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Narmada River originates from which region?",
+      "options": {
+        "A": "Mahabaleshwar",
+        "B": "Amarkantak",
+        "C": "Trimbakeshwar",
+        "D": "Talakaveri"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Narmada originates in the Amarkantak region of Madhya Pradesh and flows westwards towards the Gulf of Khambhat.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q360",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tapi River originates near which place in Madhya Pradesh?",
+      "options": {
+        "A": "Multai",
+        "B": "Amarkantak",
+        "C": "Mahabaleshwar",
+        "D": "Nashik"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tapi River originates near Multai in Madhya Pradesh and flows westwards towards the Gulf of Khambhat.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q361",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Mahanadi River originates in which geographical region?",
+      "options": {
+        "A": "Amarkantak Plateau",
+        "B": "Sihawa Hills",
+        "C": "Western Ghats",
+        "D": "Himalayan region"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Mahanadi originates in the Sihawa Hills of Chhattisgarh and forms a delta in Odisha.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q362",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Origins",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following river-origin pairs is correctly matched?",
+      "options": {
+        "A": "Narmada — Multai; Tapi — Amarkantak",
+        "B": "Krishna — Trimbakeshwar; Godavari — Mahabaleshwar",
+        "C": "Narmada — Amarkantak; Tapi — Multai",
+        "D": "Mahanadi — Talakaveri; Cauvery — Sihawa Hills"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Narmada originates near Amarkantak, while the Tapi originates near Multai in Madhya Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q363",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two rivers meet at Karnaprayag?",
+      "options": {
+        "A": "Alaknanda and Mandakini",
+        "B": "Alaknanda and Pindar",
+        "C": "Alaknanda and Nandakini",
+        "D": "Alaknanda and Dhauliganga"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnaprayag is the confluence of the Alaknanda and Pindar rivers in Uttarakhand.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q364",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which rivers meet at Nandaprayag?",
+      "options": {
+        "A": "Alaknanda and Nandakini",
+        "B": "Alaknanda and Mandakini",
+        "C": "Bhagirathi and Alaknanda",
+        "D": "Alaknanda and Pindar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nandaprayag is the confluence of the Alaknanda and Nandakini rivers.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q365",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two rivers meet at Vishnuprayag?",
+      "options": {
+        "A": "Alaknanda and Mandakini",
+        "B": "Alaknanda and Dhauliganga",
+        "C": "Alaknanda and Pindar",
+        "D": "Bhagirathi and Alaknanda"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vishnuprayag is the confluence of the Alaknanda and Dhauliganga rivers.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q366",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "River Confluences",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is the correct sequence of the five important Alaknanda confluence locations listed in the reference, arranged by their named river partners?",
+      "options": {
+        "A": "Devprayag—Bhagirathi; Rudraprayag—Mandakini; Karnaprayag—Pindar; Nandaprayag—Nandakini; Vishnuprayag—Dhauliganga",
+        "B": "Devprayag—Mandakini; Rudraprayag—Bhagirathi; Karnaprayag—Nandakini; Nandaprayag—Pindar; Vishnuprayag—Dhauliganga",
+        "C": "Devprayag—Pindar; Rudraprayag—Dhauliganga; Karnaprayag—Bhagirathi; Nandaprayag—Mandakini; Vishnuprayag—Nandakini",
+        "D": "Devprayag—Nandakini; Rudraprayag—Pindar; Karnaprayag—Mandakini; Nandaprayag—Dhauliganga; Vishnuprayag—Bhagirathi"
+      },
+      "correctAnswer": "A",
+      "explanation": "The reference lists Devprayag (Bhagirathi), Rudraprayag (Mandakini), Karnaprayag (Pindar), Nandaprayag (Nandakini) and Vishnuprayag (Dhauliganga) as important Alaknanda confluences.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q367",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Bhakra-Nangal Dam is constructed across which river?",
+      "options": {
+        "A": "Sutlej",
+        "B": "Beas",
+        "C": "Ravi",
+        "D": "Chenab"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bhakra-Nangal Dam is associated with the Sutlej River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q368",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Tehri Dam is constructed across which river?",
+      "options": {
+        "A": "Alaknanda",
+        "B": "Bhagirathi",
+        "C": "Yamuna",
+        "D": "Ganga"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tehri Dam is constructed across the Bhagirathi River in Uttarakhand.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q369",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Hirakud Dam is built across which river?",
+      "options": {
+        "A": "Godavari",
+        "B": "Mahanadi",
+        "C": "Krishna",
+        "D": "Narmada"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hirakud Dam is constructed across the Mahanadi River in Odisha.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q370",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Sardar Sarovar Dam is associated with which river?",
+      "options": {
+        "A": "Tapi",
+        "B": "Narmada",
+        "C": "Mahi",
+        "D": "Sabarmati"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sardar Sarovar Dam is constructed across the Narmada River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q371",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Indira Sagar Dam is constructed across which river?",
+      "options": {
+        "A": "Narmada",
+        "B": "Krishna",
+        "C": "Cauvery",
+        "D": "Sutlej"
+      },
+      "correctAnswer": "A",
+      "explanation": "Indira Sagar Dam is associated with the Narmada River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q372",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Nagarjuna Sagar Dam is constructed across which river?",
+      "options": {
+        "A": "Godavari",
+        "B": "Krishna",
+        "C": "Tungabhadra",
+        "D": "Mahanadi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nagarjuna Sagar Dam is constructed across the Krishna River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q373",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Srisailam Dam is associated with which river?",
+      "options": {
+        "A": "Cauvery",
+        "B": "Krishna",
+        "C": "Narmada",
+        "D": "Tapi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Srisailam Dam is one of the major dams constructed across the Krishna River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q374",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Koyna Dam is constructed across which river?",
+      "options": {
+        "A": "Koyna",
+        "B": "Krishna",
+        "C": "Godavari",
+        "D": "Bhima"
+      },
+      "correctAnswer": "A",
+      "explanation": "Koyna Dam is associated with the Koyna River in Maharashtra.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q375",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Mettur Dam is constructed across which river?",
+      "options": {
+        "A": "Krishna",
+        "B": "Cauvery",
+        "C": "Vaigai",
+        "D": "Periyar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mettur Dam is constructed across the Cauvery River in Tamil Nadu.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q376",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Idukki Dam is associated with which river?",
+      "options": {
+        "A": "Periyar",
+        "B": "Pamba",
+        "C": "Bharathapuzha",
+        "D": "Chalakudy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Idukki Dam is associated with the Periyar River in Kerala.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q377",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Rihand Dam is constructed across which river?",
+      "options": {
+        "A": "Rihand",
+        "B": "Son",
+        "C": "Chambal",
+        "D": "Betwa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rihand Dam is constructed across the Rihand River, a tributary of the Son River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q378",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Gandhi Sagar Dam is constructed across which river?",
+      "options": {
+        "A": "Chambal",
+        "B": "Narmada",
+        "C": "Mahi",
+        "D": "Betwa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gandhi Sagar Dam is constructed across the Chambal River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q379",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Hogenakkal Falls is located on which river?",
+      "options": {
+        "A": "Sharavathi",
+        "B": "Cauvery",
+        "C": "Varahi",
+        "D": "Narmada"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hogenakkal Falls is formed by the Cauvery River in Tamil Nadu.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q380",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Dudhsagar Falls is associated with which river system?",
+      "options": {
+        "A": "Mandovi/Mhadei",
+        "B": "Cauvery",
+        "C": "Krishna",
+        "D": "Narmada"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dudhsagar Falls is associated with the Mandovi, also called Mhadei, river system in Goa.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q381",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Athirappilly Falls is formed by which river?",
+      "options": {
+        "A": "Periyar",
+        "B": "Chalakudy",
+        "C": "Pamba",
+        "D": "Bharathapuzha"
+      },
+      "correctAnswer": "B",
+      "explanation": "Athirappilly Falls is located on the Chalakudy River in Kerala.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q382",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Dhuandhar Falls is located on which river?",
+      "options": {
+        "A": "Narmada",
+        "B": "Tapi",
+        "C": "Godavari",
+        "D": "Mahanadi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dhuandhar Falls is formed by the Narmada River in Madhya Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q383",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Chitrakote Falls is formed by which river?",
+      "options": {
+        "A": "Indravati",
+        "B": "Mahanadi",
+        "C": "Godavari",
+        "D": "Krishna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chitrakote Falls is located on the Indravati River in Chhattisgarh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q384",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Nohkalikai Falls is located in which Indian state?",
+      "options": {
+        "A": "Assam",
+        "B": "Meghalaya",
+        "C": "Sikkim",
+        "D": "Nagaland"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nohkalikai Falls is located in Meghalaya and is included among the important Indian waterfalls in the reference.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q385",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Waterfalls of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kempty Falls is located in which state?",
+      "options": {
+        "A": "Himachal Pradesh",
+        "B": "Uttarakhand",
+        "C": "Sikkim",
+        "D": "Jammu and Kashmir"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kempty Falls is located in Uttarakhand and is listed among the important waterfalls of India in the reference.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q386",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Dal Lake is located in which city?",
+      "options": {
+        "A": "Leh",
+        "B": "Srinagar",
+        "C": "Shimla",
+        "D": "Nainital"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dal Lake is located in Srinagar, Jammu and Kashmir.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q387",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Pangong Tso is associated with which Indian region and neighbouring territory?",
+      "options": {
+        "A": "Ladakh and Tibet",
+        "B": "Kerala and Tamil Nadu",
+        "C": "Rajasthan and Gujarat",
+        "D": "Assam and Arunachal Pradesh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pangong Tso is a high-altitude lake extending across the Ladakh region and Tibet.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q388",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Loktak Lake is located in which state?",
+      "options": {
+        "A": "Odisha",
+        "B": "Manipur",
+        "C": "Rajasthan",
+        "D": "Maharashtra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Loktak Lake is located in Manipur and is among the important lakes listed in the reference.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q389",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Lonar Lake, included in the reference list of important Indian lakes, is located in which state?",
+      "options": {
+        "A": "Madhya Pradesh",
+        "B": "Maharashtra",
+        "C": "Gujarat",
+        "D": "Rajasthan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lonar Lake is located in Maharashtra. It is one of the important Indian lakes listed in the PDF.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q390",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Deendayal Port, formerly known as Kandla Port, is located in which state?",
+      "options": {
+        "A": "Maharashtra",
+        "B": "Gujarat",
+        "C": "Goa",
+        "D": "Kerala"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deendayal Port, formerly known as Kandla Port, is located in Gujarat and is included among India's important major ports.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q391",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Jawaharlal Nehru Port is also popularly known by which name?",
+      "options": {
+        "A": "Kandla",
+        "B": "Nhava Sheva",
+        "C": "Ennore",
+        "D": "Tuticorin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jawaharlal Nehru Port is popularly known as Nhava Sheva and is located in Maharashtra.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q392",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the correct former and present name pairing of the port at Tuticorin?",
+      "options": {
+        "A": "V.O. Chidambaranar Port — Tuticorin",
+        "B": "Deendayal Port — Tuticorin",
+        "C": "Kamarajar Port — Tuticorin",
+        "D": "Syama Prasad Mookerjee Port — Tuticorin"
+      },
+      "correctAnswer": "A",
+      "explanation": "V.O. Chidambaranar Port is the present name associated with Tuticorin. The PDF lists it among India's important major ports.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q393",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Mormugao Port is located in which Indian state?",
+      "options": {
+        "A": "Kerala",
+        "B": "Goa",
+        "C": "Maharashtra",
+        "D": "Karnataka"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mormugao is a major port located in Goa.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q394",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "New Mangalore Port is situated in which state?",
+      "options": {
+        "A": "Goa",
+        "B": "Kerala",
+        "C": "Karnataka",
+        "D": "Tamil Nadu"
+      },
+      "correctAnswer": "C",
+      "explanation": "New Mangalore Port is located in Karnataka.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q395",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Cochin Port is located in which Indian state?",
+      "options": {
+        "A": "Kerala",
+        "B": "Tamil Nadu",
+        "C": "Goa",
+        "D": "Andhra Pradesh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cochin Port is situated in Kerala.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q396",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Chennai Port is situated on which coast of India?",
+      "options": {
+        "A": "Western Coast",
+        "B": "Eastern Coast",
+        "C": "Northern Coast",
+        "D": "Konkan Coast"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chennai is a major port on India's eastern coast.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q397",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kamarajar Port was formerly known as which port?",
+      "options": {
+        "A": "Tuticorin Port",
+        "B": "Ennore Port",
+        "C": "Nhava Sheva Port",
+        "D": "Kandla Port"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kamarajar Port was formerly known as Ennore Port.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q398",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Visakhapatnam Port is located in which state?",
+      "options": {
+        "A": "Odisha",
+        "B": "Tamil Nadu",
+        "C": "Andhra Pradesh",
+        "D": "West Bengal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Visakhapatnam Port is located in Andhra Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q399",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Paradip Port is located in which Indian state?",
+      "options": {
+        "A": "West Bengal",
+        "B": "Odisha",
+        "C": "Andhra Pradesh",
+        "D": "Gujarat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paradip Port is situated in Odisha.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q400",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Syama Prasad Mookerjee Port is associated with which port system?",
+      "options": {
+        "A": "Mumbai–Jawaharlal Nehru",
+        "B": "Kolkata–Haldia",
+        "C": "Chennai–Ennore",
+        "D": "Cochin–Mangalore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Syama Prasad Mookerjee Port is associated with the Kolkata–Haldia port system.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q401",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Mormugao — Kerala",
+        "B": "New Mangalore — Karnataka",
+        "C": "Paradip — Gujarat",
+        "D": "Cochin — Goa"
+      },
+      "correctAnswer": "B",
+      "explanation": "New Mangalore Port is located in Karnataka. The other state associations are incorrect.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q402",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which one of the following ports is located in Odisha?",
+      "options": {
+        "A": "Mormugao",
+        "B": "Paradip",
+        "C": "Cochin",
+        "D": "New Mangalore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paradip is the major port listed in the PDF for Odisha.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q403",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which port is associated with the city of Kochi?",
+      "options": {
+        "A": "Cochin Port",
+        "B": "Paradip Port",
+        "C": "Mormugao Port",
+        "D": "Kamarajar Port"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cochin Port is associated with Kochi in Kerala.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q404",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the correct port–state combination?",
+      "options": {
+        "A": "Visakhapatnam — Andhra Pradesh",
+        "B": "Chennai — Kerala",
+        "C": "Paradip — Gujarat",
+        "D": "Mormugao — Maharashtra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Visakhapatnam Port is located in Andhra Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q405",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Ports of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which port was formerly called Ennore Port?",
+      "options": {
+        "A": "Chennai Port",
+        "B": "Kamarajar Port",
+        "C": "Cochin Port",
+        "D": "Paradip Port"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kamarajar Port was formerly known as Ennore Port.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q406",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Tungabhadra Dam is constructed across which river?",
+      "options": {
+        "A": "Krishna",
+        "B": "Cauvery",
+        "C": "Tungabhadra",
+        "D": "Godavari"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Tungabhadra Dam is built across the Tungabhadra River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q407",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Krishna Raja Sagara (KRS) Dam is associated with which river?",
+      "options": {
+        "A": "Krishna",
+        "B": "Cauvery",
+        "C": "Tungabhadra",
+        "D": "Sharavathi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Krishna Raja Sagara Dam is constructed across the Cauvery River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q408",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following dams is associated with the Koyna River?",
+      "options": {
+        "A": "Mettur Dam",
+        "B": "Koyna Dam",
+        "C": "Tehri Dam",
+        "D": "Hirakud Dam"
+      },
+      "correctAnswer": "B",
+      "explanation": "Koyna Dam is associated with the Koyna River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q409",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dam–river pair is correctly matched?",
+      "options": {
+        "A": "Mettur — Cauvery",
+        "B": "Tehri — Krishna",
+        "C": "Hirakud — Godavari",
+        "D": "Idukki — Narmada"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mettur Dam is built across the Cauvery River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q410",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Idukki Dam is associated with which river?",
+      "options": {
+        "A": "Periyar",
+        "B": "Pamba",
+        "C": "Bharathapuzha",
+        "D": "Chalakudy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PDF associates Idukki Dam with the Periyar River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q411",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Rihand Dam is constructed across which river?",
+      "options": {
+        "A": "Son",
+        "B": "Rihand",
+        "C": "Chambal",
+        "D": "Betwa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rihand Dam is associated with the Rihand River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q412",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Gandhi Sagar Dam is associated with which river?",
+      "options": {
+        "A": "Narmada",
+        "B": "Chambal",
+        "C": "Mahanadi",
+        "D": "Krishna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gandhi Sagar Dam is constructed across the Chambal River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q413",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which pair of dams is associated with the Krishna River?",
+      "options": {
+        "A": "Nagarjuna Sagar and Srisailam",
+        "B": "Tehri and Hirakud",
+        "C": "Mettur and Idukki",
+        "D": "Bhakra-Nangal and Gandhi Sagar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both Nagarjuna Sagar and Srisailam are associated with the Krishna River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q414",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which pair of dams is associated with the Narmada River?",
+      "options": {
+        "A": "Tehri and Bhakra-Nangal",
+        "B": "Sardar Sarovar and Indira Sagar",
+        "C": "Hirakud and Mettur",
+        "D": "Idukki and Koyna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sardar Sarovar and Indira Sagar are both associated with the Narmada River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q415",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following dam–river combinations is incorrectly matched?",
+      "options": {
+        "A": "Bhakra-Nangal — Sutlej",
+        "B": "Hirakud — Mahanadi",
+        "C": "Tehri — Bhagirathi",
+        "D": "Mettur — Krishna"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mettur Dam is associated with the Cauvery River, not the Krishna River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q416",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which set contains only dams associated with the Cauvery River?",
+      "options": {
+        "A": "Mettur and Krishna Raja Sagara",
+        "B": "Tehri and Mettur",
+        "C": "Idukki and Krishna Raja Sagara",
+        "D": "Koyna and Mettur"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PDF lists both Mettur and Krishna Raja Sagara as dams associated with the Cauvery River.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q417",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Dams and Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river is associated with both the Nagarjuna Sagar and Srisailam dams?",
+      "options": {
+        "A": "Godavari",
+        "B": "Krishna",
+        "C": "Cauvery",
+        "D": "Narmada"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both dams are listed under the Krishna River in the PDF.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q418",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Wular Lake is located in which Union Territory?",
+      "options": {
+        "A": "Ladakh",
+        "B": "Jammu and Kashmir",
+        "C": "Chandigarh",
+        "D": "Puducherry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wular Lake is located in Jammu and Kashmir.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q419",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Tso Moriri Lake is located in which region?",
+      "options": {
+        "A": "Rajasthan",
+        "B": "Ladakh",
+        "C": "Odisha",
+        "D": "Manipur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tso Moriri is a high-altitude lake located in Ladakh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q420",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Sambhar Lake is situated in which state?",
+      "options": {
+        "A": "Gujarat",
+        "B": "Rajasthan",
+        "C": "Madhya Pradesh",
+        "D": "Maharashtra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sambhar Lake is located in Rajasthan.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q421",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Pulicat Lake is shared by which two states?",
+      "options": {
+        "A": "Kerala and Karnataka",
+        "B": "Andhra Pradesh and Tamil Nadu",
+        "C": "Odisha and West Bengal",
+        "D": "Gujarat and Maharashtra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pulicat Lake lies along the boundary of Andhra Pradesh and Tamil Nadu.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q422",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Vembanad Lake is located in which state?",
+      "options": {
+        "A": "Tamil Nadu",
+        "B": "Kerala",
+        "C": "Karnataka",
+        "D": "Goa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vembanad Lake is located in Kerala.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q423",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kolleru Lake is located in which state?",
+      "options": {
+        "A": "Andhra Pradesh",
+        "B": "Odisha",
+        "C": "Telangana",
+        "D": "Tamil Nadu"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kolleru Lake is located in Andhra Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q424",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Bhojtal, also known as the Upper Lake, is located in which city?",
+      "options": {
+        "A": "Jaipur",
+        "B": "Bhopal",
+        "C": "Udaipur",
+        "D": "Indore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bhojtal, or the Upper Lake, is located in Bhopal, Madhya Pradesh.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q425",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which lake is located in Maharashtra and is associated with a meteorite impact?",
+      "options": {
+        "A": "Lonar Lake",
+        "B": "Dal Lake",
+        "C": "Loktak Lake",
+        "D": "Wular Lake"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lonar Lake in Maharashtra is identified in the PDF among the important Indian lakes.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q426",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following lake–state pairs is correctly matched?",
+      "options": {
+        "A": "Loktak — Manipur",
+        "B": "Vembanad — Odisha",
+        "C": "Kolleru — Kerala",
+        "D": "Sambhar — Maharashtra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loktak Lake is located in Manipur.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q427",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which lake is associated with Srinagar?",
+      "options": {
+        "A": "Dal Lake",
+        "B": "Sambhar Lake",
+        "C": "Chilika Lake",
+        "D": "Lonar Lake"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dal Lake is located in Srinagar, Jammu and Kashmir.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q428",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Pangong Tso is associated with which geographical region?",
+      "options": {
+        "A": "Ladakh and Tibet",
+        "B": "Rajasthan and Gujarat",
+        "C": "Kerala and Tamil Nadu",
+        "D": "Manipur and Nagaland"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pangong Tso extends across the Ladakh–Tibet region.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q429",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following sets contains only lakes located in Jammu and Kashmir or Ladakh?",
+      "options": {
+        "A": "Wular, Dal and Pangong Tso",
+        "B": "Sambhar, Chilika and Loktak",
+        "C": "Vembanad, Kolleru and Pulicat",
+        "D": "Lonar, Bhojtal and Sambhar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Wular and Dal are in Jammu and Kashmir, while Pangong Tso is associated with Ladakh and Tibet.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q430",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is the correct combination of lake and state?",
+      "options": {
+        "A": "Chilika — Odisha; Loktak — Manipur",
+        "B": "Sambhar — Kerala; Vembanad — Rajasthan",
+        "C": "Kolleru — Maharashtra; Lonar — Andhra Pradesh",
+        "D": "Pulicat — Goa; Dal — Gujarat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chilika Lake is located in Odisha and Loktak Lake is located in Manipur.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q431",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Lakes of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following pairs is incorrectly matched?",
+      "options": {
+        "A": "Wular — Jammu and Kashmir",
+        "B": "Tso Moriri — Ladakh",
+        "C": "Bhojtal — Madhya Pradesh",
+        "D": "Vembanad — Rajasthan"
+      },
+      "correctAnswer": "D",
+      "explanation": "Vembanad Lake is located in Kerala, not Rajasthan.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q432",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Major Geographical Locations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly identifies the lake located in the state of Manipur?",
+      "options": {
+        "A": "Kolleru",
+        "B": "Loktak",
+        "C": "Chilika",
+        "D": "Pulicat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Loktak Lake is located in Manipur.",
+      "source": "PDF Section 3.12.2, Page 5"
+    },
+    {
+      "id": "Q433",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Andaman and Nicobar Islands are located in which water body?",
+      "options": {
+        "A": "Arabian Sea",
+        "B": "Bay of Bengal",
+        "C": "Indian Ocean west of Lakshadweep",
+        "D": "Gulf of Kutch"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Andaman and Nicobar Islands lie in the Bay of Bengal.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q434",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Lakshadweep is located in which sea?",
+      "options": {
+        "A": "Bay of Bengal",
+        "B": "Arabian Sea",
+        "C": "Red Sea",
+        "D": "Andaman Sea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lakshadweep lies in the Arabian Sea.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q435",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Lakshadweep consists mainly of which type of island formations?",
+      "options": {
+        "A": "Volcanic islands",
+        "B": "Coral atolls",
+        "C": "Continental islands",
+        "D": "River islands"
+      },
+      "correctAnswer": "B",
+      "explanation": "The PDF describes Lakshadweep as consisting mainly of coral atolls.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q436",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following island groups is associated with volcanic as well as coral features?",
+      "options": {
+        "A": "Andaman and Nicobar Islands",
+        "B": "Lakshadweep only",
+        "C": "Maldives only",
+        "D": "Seychelles only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PDF notes that the Andaman and Nicobar Islands include volcanic and coral features.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q437",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Great Nicobar Island belongs to which island group?",
+      "options": {
+        "A": "Lakshadweep",
+        "B": "Andaman and Nicobar Islands",
+        "C": "Sunda Islands",
+        "D": "Maldives"
+      },
+      "correctAnswer": "B",
+      "explanation": "Great Nicobar is one of the important islands of the Andaman and Nicobar group.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q438",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Havelock Island is now officially known by which name?",
+      "options": {
+        "A": "Shaheed Dweep",
+        "B": "Swaraj Dweep",
+        "C": "Minicoy",
+        "D": "Agatti"
+      },
+      "correctAnswer": "B",
+      "explanation": "The PDF identifies Havelock Island by its renamed form, Swaraj Dweep.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q439",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Neil Island is now officially known by which name?",
+      "options": {
+        "A": "Swaraj Dweep",
+        "B": "Shaheed Dweep",
+        "C": "Kavaratti",
+        "D": "Minicoy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neil Island is also known as Shaheed Dweep.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q440",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is an important island of Lakshadweep?",
+      "options": {
+        "A": "North Sentinel",
+        "B": "Little Andaman",
+        "C": "Kavaratti",
+        "D": "Great Nicobar"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kavaratti is among the important islands listed for Lakshadweep in the PDF.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q441",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Minicoy is an important island belonging to which Union Territory?",
+      "options": {
+        "A": "Andaman and Nicobar Islands",
+        "B": "Lakshadweep",
+        "C": "Puducherry",
+        "D": "Dadra and Nagar Haveli and Daman and Diu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Minicoy is one of the important islands of Lakshadweep.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q442",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following sets contains only islands listed in the Andaman and Nicobar group?",
+      "options": {
+        "A": "Great Nicobar, Little Andaman and North Sentinel",
+        "B": "Minicoy, Kavaratti and Agatti",
+        "C": "Kavaratti, Great Nicobar and Minicoy",
+        "D": "Agatti, North Sentinel and Minicoy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Great Nicobar, Little Andaman and North Sentinel are listed among the important Andaman and Nicobar Islands.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q443",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Island Groups of India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following sets contains only islands listed under Lakshadweep?",
+      "options": {
+        "A": "Great Nicobar, Little Andaman and North Sentinel",
+        "B": "Minicoy, Kavaratti and Agatti",
+        "C": "Havelock, Neil and Great Nicobar",
+        "D": "North Sentinel, Agatti and Little Andaman"
+      },
+      "correctAnswer": "B",
+      "explanation": "Minicoy, Kavaratti and Agatti are listed as important Lakshadweep islands.",
+      "source": "PDF Section 3.12.2, Page 6"
+    },
+    {
+      "id": "Q444",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A narrow strip of land joining two larger land areas and separating two water bodies is called a:",
+      "options": {
+        "A": "Strait",
+        "B": "Isthmus",
+        "C": "Peninsula",
+        "D": "Lagoon"
+      },
+      "correctAnswer": "B",
+      "explanation": "An isthmus is a narrow strip of land connecting two larger land areas. The Isthmus of Panama is an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q445",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A landmass surrounded by water on most sides but connected to a larger landmass is called a:",
+      "options": {
+        "A": "Peninsula",
+        "B": "Archipelago",
+        "C": "Isthmus",
+        "D": "Delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "A peninsula is surrounded by water on most sides but remains connected to a larger landmass. The Indian Peninsula is an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q446",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A group or chain of islands is known as an:",
+      "options": {
+        "A": "Atoll",
+        "B": "Archipelago",
+        "C": "Isthmus",
+        "D": "Estuary"
+      },
+      "correctAnswer": "B",
+      "explanation": "An archipelago is a group or chain of islands. The Andaman and Nicobar Islands are an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q447",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A relatively narrow natural water passage connecting two larger water bodies and separating land areas is called a:",
+      "options": {
+        "A": "Channel",
+        "B": "Strait",
+        "C": "Gulf",
+        "D": "Bay"
+      },
+      "correctAnswer": "B",
+      "explanation": "A strait is a narrow natural water passage connecting larger water bodies. The Strait of Malacca is an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q448",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term describes a water passage or navigable route between land areas or within a water body?",
+      "options": {
+        "A": "Channel",
+        "B": "Isthmus",
+        "C": "Peninsula",
+        "D": "Moraine"
+      },
+      "correctAnswer": "A",
+      "explanation": "A channel is a water passage or navigable route between land areas or within a water body.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q449",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A large inlet of the sea partly enclosed by land is called a:",
+      "options": {
+        "A": "Gulf",
+        "B": "Isthmus",
+        "C": "Atoll",
+        "D": "Fjord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gulf is a large inlet of the sea partly enclosed by land. The Gulf of Mexico and Persian Gulf are examples.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q450",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A broad coastal indentation where land partly encloses water is called a:",
+      "options": {
+        "A": "Bay",
+        "B": "Delta",
+        "C": "Glacier",
+        "D": "Dune"
+      },
+      "correctAnswer": "A",
+      "explanation": "A bay is a broad coastal indentation where land partly encloses water. The Bay of Bengal is an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q451",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A shallow body of water separated from the sea by a sandbar, barrier island or reef is called a:",
+      "options": {
+        "A": "Lagoon",
+        "B": "Fjord",
+        "C": "Strait",
+        "D": "Estuary"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lagoon is a shallow water body partly separated from the sea. Chilika Lagoon is an example.",
+      "source": "PDF Section 3.12.4, Page 8"
+    },
+    {
+      "id": "Q452",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A ring-shaped coral reef or island enclosing a lagoon is known as an:",
+      "options": {
+        "A": "Archipelago",
+        "B": "Atoll",
+        "C": "Isthmus",
+        "D": "Estuary"
+      },
+      "correctAnswer": "B",
+      "explanation": "An atoll is a ring-shaped coral reef or island enclosing a lagoon. Lakshadweep contains atolls.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q453",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A long, narrow, deep sea inlet with steep sides formed by glacial erosion is called a:",
+      "options": {
+        "A": "Fjord",
+        "B": "Delta",
+        "C": "Alluvial fan",
+        "D": "Floodplain"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fjord is a deep, narrow sea inlet formed by glacial erosion and later flooded by the sea. Norway is a common example.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q454",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A depositional landform formed at a river mouth through sediment accumulation is called a:",
+      "options": {
+        "A": "Delta",
+        "B": "Fjord",
+        "C": "Cirque",
+        "D": "Escarpment"
+      },
+      "correctAnswer": "A",
+      "explanation": "A delta forms when river sediment accumulates at the river mouth, often producing distributary channels.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q455",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A coastal transition zone where river freshwater mixes with seawater is known as an:",
+      "options": {
+        "A": "Estuary",
+        "B": "Atoll",
+        "C": "Isthmus",
+        "D": "Alluvial fan"
+      },
+      "correctAnswer": "A",
+      "explanation": "An estuary is a coastal zone where freshwater from rivers mixes with seawater and is often influenced by tides.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q456",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The area from which precipitation and runoff drain to a common outlet is called the:",
+      "options": {
+        "A": "Catchment area",
+        "B": "Continental shelf",
+        "C": "Rain shadow",
+        "D": "Escarpment"
+      },
+      "correctAnswer": "A",
+      "explanation": "A catchment area is the area from which water drains to a common outlet such as a river, lake or reservoir.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q457",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The land area drained by a river system and its tributaries, bounded by drainage divides, is called a:",
+      "options": {
+        "A": "Drainage basin",
+        "B": "Lagoon",
+        "C": "Continental slope",
+        "D": "Floodplain"
+      },
+      "correctAnswer": "A",
+      "explanation": "A drainage basin is the land area drained by a river and its tributaries.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q458",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A fan-shaped sediment deposit formed where a stream emerges from a steep valley onto a flatter plain is called an:",
+      "options": {
+        "A": "Alluvial fan",
+        "B": "Moraine",
+        "C": "Dune",
+        "D": "Cirque"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alluvial fan forms when a stream loses transport capacity after emerging onto flatter terrain and deposits sediment.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q459",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Relatively flat land beside a river, formed by sediment deposition and periodically inundated during floods, is called a:",
+      "options": {
+        "A": "Floodplain",
+        "B": "Plateau",
+        "C": "Atoll",
+        "D": "Fjord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A floodplain is the relatively flat area beside a river that may be inundated during floods.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q460",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A natural raised riverbank formed by repeated flood deposition is known as a:",
+      "options": {
+        "A": "Levee",
+        "B": "Moraine",
+        "C": "Dune",
+        "D": "Graben"
+      },
+      "correctAnswer": "A",
+      "explanation": "A levee may be a natural raised riverbank formed by repeated flood deposition or an artificial embankment.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q461",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "An accumulation of unsorted rock debris deposited or transported by a glacier is called a:",
+      "options": {
+        "A": "Moraine",
+        "B": "Loess",
+        "C": "Alluvial fan",
+        "D": "Delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "A moraine consists of unsorted rock debris deposited or transported by glacial action.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q462",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A steep-sided, armchair-shaped hollow at the head of a glacial valley is called a:",
+      "options": {
+        "A": "Cirque",
+        "B": "Dune",
+        "C": "Levee",
+        "D": "Delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cirque is a steep-sided, armchair-shaped hollow formed by glacial erosion, often containing a tarn.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q463",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A persistent mass of land ice formed from compacted snow that moves under gravity is called a:",
+      "options": {
+        "A": "Glacier",
+        "B": "Moraine",
+        "C": "Iceberg",
+        "D": "Cirque"
+      },
+      "correctAnswer": "A",
+      "explanation": "A glacier is a persistent mass of land ice that forms from compacted snow and moves under gravity.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q464",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A large piece of freshwater ice that breaks from a glacier or ice shelf and floats in the sea is called an:",
+      "options": {
+        "A": "Iceberg",
+        "B": "Atoll",
+        "C": "Moraine",
+        "D": "Aquifer"
+      },
+      "correctAnswer": "A",
+      "explanation": "An iceberg is a large floating piece of freshwater ice broken from a glacier or ice shelf; most of its volume remains submerged.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q465",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A permeable geological formation that stores and transmits usable quantities of groundwater is called an:",
+      "options": {
+        "A": "Aquifer",
+        "B": "Artesian well",
+        "C": "Geyser",
+        "D": "Oasis"
+      },
+      "correctAnswer": "A",
+      "explanation": "An aquifer is a permeable geological formation capable of storing and transmitting groundwater.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q466",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A well tapping a confined aquifer in which water rises under pressure is called an:",
+      "options": {
+        "A": "Artesian well",
+        "B": "Oasis",
+        "C": "Geyser",
+        "D": "Aquifer"
+      },
+      "correctAnswer": "A",
+      "explanation": "An artesian well taps a confined aquifer where groundwater rises under pressure. It may flow at the surface if the pressure is sufficient.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q467",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A hot spring that periodically erupts jets of hot water and steam is called a:",
+      "options": {
+        "A": "Geyser",
+        "B": "Aquifer",
+        "C": "Oasis",
+        "D": "Fjord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A geyser is a hot spring that periodically erupts hot water and steam due to underground heating and pressure.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q468",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A fertile area in a desert where water is available is known as an:",
+      "options": {
+        "A": "Oasis",
+        "B": "Atoll",
+        "C": "Estuary",
+        "D": "Escarpment"
+      },
+      "correctAnswer": "A",
+      "explanation": "An oasis is a fertile area in a desert where water is available, often from a spring, well or groundwater discharge.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q469",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A hill or ridge of sand deposited by wind is called a:",
+      "options": {
+        "A": "Dune",
+        "B": "Moraine",
+        "C": "Levee",
+        "D": "Cirque"
+      },
+      "correctAnswer": "A",
+      "explanation": "A dune is a hill or ridge formed by wind-deposited sand.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q470",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A blanket-like deposit of fine windblown silt is known as:",
+      "options": {
+        "A": "Loess",
+        "B": "Moraine",
+        "C": "Alluvium",
+        "D": "Basalt"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loess is a deposit of fine windblown silt. It can be fertile but is susceptible to erosion.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q471",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A landscape developed by the dissolution of soluble rocks such as limestone is called:",
+      "options": {
+        "A": "Karst",
+        "B": "Loess",
+        "C": "Fjord",
+        "D": "Delta"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karst landscapes develop through the dissolution of soluble rocks and commonly feature caves, sinkholes and underground drainage.",
+      "source": "PDF Section 3.12.4, Page 9"
+    },
+    {
+      "id": "Q472",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Geographical Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A long, steep slope or cliff separating two relatively level areas is known as an:",
+      "options": {
+        "A": "Escarpment",
+        "B": "Alluvial fan",
+        "C": "Floodplain",
+        "D": "Atoll"
+      },
+      "correctAnswer": "A",
+      "explanation": "An escarpment is a long, steep slope or cliff separating two relatively level areas, often associated with faulting or differential erosion.",
+      "source": "PDF Section 3.12.4, Page 10"
     }
   ]
 }

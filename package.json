@@ -7,6 +7,6 @@
   "scripts": {
     "build": "node scripts/build-dataset-index.js",
     "dev": "node scripts/dev-server.js",
-    "test": "node --test js/questions.test.js js/results-store.test.js js/topic-selector.test.js lib/server/test-configuration.test.js api/configuration.test.js api/chat.test.js api/leaderboard.test.js api/account.test.js"
+    "test": "node --test data/datasets.test.js js/questions.test.js js/practice.test.js js/results.test.js js/revision.test.js js/route-utils.test.js js/results-store.test.js js/active-exam-store.test.js js/timer.test.js js/daily-challenge.test.js js/topic-selector.test.js lib/server/test-configuration.test.js api/configuration.test.js api/chat.test.js api/leaderboard.test.js api/account.test.js"
   }
 }

@@ -1,4 +1,4 @@
-export function calculateResults(questions, answers, durationSeconds, elapsedSeconds, autoSubmitted = false) {
+export function calculateResults(questions, answers, durationSeconds, elapsedSeconds, autoSubmitted = false, options = {}) {
   let correct = 0, wrong = 0, unanswered = 0;
   const subjectMap = new Map();
   const topicMap = new Map();
@@ -21,7 +21,7 @@ export function calculateResults(questions, answers, durationSeconds, elapsedSec
   });
 
   const attempted = correct + wrong;
-  const negativeMarks = wrong * 0.25;
+  const negativeMarks = options.negativeMarking === false ? 0 : wrong * 0.25;
   const score = correct - negativeMarks;
   const accuracy = attempted ? correct / attempted * 100 : 0;
   const attemptRate = questions.length ? attempted / questions.length * 100 : 0;

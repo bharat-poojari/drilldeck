@@ -4,6 +4,9 @@
 @media(max-width:390px){.question-palette{grid-template-columns:repeat(6,1fr)}.exam-title-wrap h2{font-size:13px}.timer-box strong{font-size:16px}.question-actions .button{padding:0 9px;font-size:10px}}
 
 .timer-box strong{color:var(--support-accent)}
+.exam-save-status{min-height:18px;margin:-10px 0 10px 5px;color:var(--muted);font-size:11px}
+.exam-save-status.error-message{color:var(--red)}
+.keyboard-shortcut-hint{display:block;margin-top:3px;color:var(--muted);font-size:9px}
 .question-progress span{background:var(--support-accent)}
 .option-item:hover{border-color:var(--option-hover-border)}
 .palette-number.answered{border-color:var(--green-border)}
@@ -112,3 +115,24 @@
   .action-middle{gap:3px}
   .button-review,.clear-button{font-size:8px}
 }
+.mode-field{margin-bottom:18px}
+.mode-segmented{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px;padding:4px;background:var(--surface-2);border-radius:9px}
+.mode-segmented label{position:relative;cursor:pointer}
+.mode-segmented input{position:absolute;opacity:0;inset:0}
+.mode-segmented span{display:grid;place-items:center;min-height:39px;border-radius:6px;color:var(--muted);font-weight:700;font-size:13px}
+.mode-segmented input:checked+span{background:var(--surface);color:var(--text);box-shadow:0 1px 4px #1725221a}
+.mode-segmented input:focus-visible+span{outline:2px solid var(--primary);outline-offset:2px}
+.practice-feedback{margin-top:16px;padding:14px 16px;border:1px solid var(--line);border-left:4px solid var(--green);border-radius:8px;background:var(--surface-2);color:var(--text);font-size:13px;line-height:1.55}
+.practice-feedback.incorrect{border-left-color:var(--red)}
+.practice-feedback strong{display:block;margin-bottom:5px}
+.practice-feedback p{margin:0}
+.practice-feedback a{color:var(--primary)}
+.button-bookmark{color:var(--primary)}
+.button-bookmark[aria-pressed="true"]{color:var(--amber);font-weight:800}
+.bookmark-launcher{display:flex;align-items:center;gap:12px;margin:12px 0}
+.bookmark-launcher p{margin:0;color:var(--muted);font-size:12px}
+.learning-mode .timer-box,.learning-mode #exam-save-status,.learning-mode #submit-side{display:none}
+.learning-mode .exam-meta{margin-left:auto}
+.learning-mode .mark-chip{display:none}
+@media(max-width:700px){.button-bookmark{font-size:9px}}
+@media(max-width:390px){.button-bookmark{font-size:8px}}

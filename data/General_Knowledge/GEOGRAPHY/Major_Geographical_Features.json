@@ -1,0 +1,961 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank based on 'Major Geographical Features' study notes for FDA/SDA competitive examination. Comprehensive coverage of all sections.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Margins and Ocean-Floor Relief",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major divisions of the ocean floor in a simplified cross-section?",
+      "options": {
+        "A": "Continental shelf, continental slope, continental rise and deep-ocean basin",
+        "B": "Continental shelf, abyssal plain, mid-oceanic ridge and trench",
+        "C": "Continental slope, seamount, guyot and fracture zone",
+        "D": "Continental rise, submarine fan, atoll and lagoon"
+      },
+      "correctAnswer": "A",
+      "explanation": "A simplified cross-section includes the continental shelf, continental slope, continental rise and deep-ocean basin. The deep-ocean basin includes features such as abyssal plains, trenches and mid-oceanic ridges.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Margins and Ocean-Floor Relief",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a continental margin?",
+      "options": {
+        "A": "The submerged outer edge of a continent, extending from the shoreline to the deep ocean floor",
+        "B": "The deepest part of the ocean floor",
+        "C": "A chain of underwater mountains formed at divergent boundaries",
+        "D": "A flat region of the deep-ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A continental margin is the submerged outer edge of a continent, extending from the shoreline to the deep ocean floor. It includes the continental shelf, continental slope and, where developed, the continental rise.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Margins and Ocean-Floor Relief",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes an active continental margin?",
+      "options": {
+        "A": "It lies near an active plate boundary and commonly has earthquakes, volcanism, trenches or a narrow shelf",
+        "B": "It is generally farther from a plate boundary and often has a broad shelf and thick sediment accumulation",
+        "C": "It is formed by the accumulation of sediments transported by turbidity currents",
+        "D": "It is a broad, gently sloping accumulation of sediment at the base of a continental slope"
+      },
+      "correctAnswer": "A",
+      "explanation": "An active margin lies near an active plate boundary and commonly has earthquakes, volcanism, trenches or a narrow shelf. A passive margin is generally farther from a plate boundary and often has a broad shelf and thick sediment accumulation.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Margins and Ocean-Floor Relief",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes a passive continental margin?",
+      "options": {
+        "A": "It lies near an active plate boundary and commonly has earthquakes, volcanism and trenches",
+        "B": "It is generally farther from a plate boundary and often has a broad shelf and thick sediment accumulation",
+        "C": "It is a narrow, deep depression in the ocean floor formed at a convergent plate boundary",
+        "D": "It is a long underwater mountain chain formed at a divergent plate boundary"
+      },
+      "correctAnswer": "B",
+      "explanation": "A passive margin is generally farther from a plate boundary and often has a broad shelf and thick sediment accumulation.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a continental shelf?",
+      "options": {
+        "A": "A gently sloping, submerged extension of a continent that stretches from the shoreline to the shelf break",
+        "B": "The relatively steep submarine slope extending from the shelf break down towards the deep-ocean floor",
+        "C": "A broad, gently sloping accumulation of sediment at the base of a continental slope",
+        "D": "A long, narrow, very deep depression in the ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A continental shelf is a gently sloping, submerged extension of a continent that stretches from the shoreline to the shelf break, where the seabed descends more steeply into the continental slope.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the shelf break?",
+      "options": {
+        "A": "The point or zone where the gentle continental shelf transitions into the steeper continental slope",
+        "B": "The deepest part of the ocean trench",
+        "C": "The central rift valley of a mid-oceanic ridge",
+        "D": "The flat region of the abyssal plain"
+      },
+      "correctAnswer": "A",
+      "explanation": "The shelf break is the point or zone where the gentle continental shelf transitions into the steeper continental slope. Its depth is commonly around 100-200 metres, but it varies considerably.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the commonly quoted global average width of a continental shelf?",
+      "options": {
+        "A": "Roughly 10-20 kilometres",
+        "B": "Roughly 70-80 kilometres",
+        "C": "Roughly 200-300 kilometres",
+        "D": "Roughly 500-600 kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "There is no fixed width. Shelves range from very narrow to hundreds of kilometres wide; a commonly quoted global average is roughly 70-80 kilometres.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a main characteristic of continental shelves?",
+      "options": {
+        "A": "They are relatively shallow, gently sloping, submerged parts of continents",
+        "B": "They are the steepest parts of the ocean floor",
+        "C": "They are the deepest parts of the ocean floor",
+        "D": "They are formed only at convergent plate boundaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continental shelves are relatively shallow, gently sloping, submerged parts of continents; receive substantial sunlight in many areas; and often support productive fisheries and important oil, gas and mineral resources.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q009",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are continental shelves economically important?",
+      "options": {
+        "A": "They support fisheries, offshore petroleum and natural-gas extraction, marine transport, seabed minerals, renewable-energy installations and coastal ecosystems",
+        "B": "They are the deepest parts of the ocean and contain valuable minerals",
+        "C": "They are formed by subduction and contain valuable volcanic materials",
+        "D": "They are the longest mountain chains on Earth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continental shelves support fisheries, offshore petroleum and natural-gas extraction, marine transport, seabed minerals, renewable-energy installations and coastal ecosystems.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are continental shelves often rich fishing grounds?",
+      "options": {
+        "A": "Shallow water allows sunlight to support photosynthesis, while nutrient supply from mixing, upwelling and river inputs can sustain plankton and food webs",
+        "B": "They are the deepest parts of the ocean and contain large fish",
+        "C": "They are formed by subduction and contain volcanic nutrients",
+        "D": "They are the longest mountain chains on Earth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shallow water allows sunlight to support photosynthesis, while nutrient supply from mixing, upwelling and river inputs can sustain plankton and food webs.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where is a broad continental shelf found in India?",
+      "options": {
+        "A": "The western continental margin of India, particularly off parts of Gujarat and the west coast",
+        "B": "The eastern continental margin of India, particularly off the Coromandel coast",
+        "C": "The Andaman and Nicobar Islands",
+        "D": "The Lakshadweep Islands"
+      },
+      "correctAnswer": "A",
+      "explanation": "The western continental margin of India has a relatively broad shelf in several sectors, particularly off parts of Gujarat and the west coast. Shelf width varies by location.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q012",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Shelves",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between a continental shelf and a continental slope?",
+      "options": {
+        "A": "The shelf is a shallow, gently inclined submerged extension of the continent; the slope is the steeper descent from the shelf break towards the deep ocean",
+        "B": "The shelf is the steepest part of the ocean floor; the slope is the shallowest part",
+        "C": "The shelf is formed by subduction; the slope is formed by seafloor spreading",
+        "D": "The shelf is a deep-ocean floor feature; the slope is a continental feature"
+      },
+      "correctAnswer": "A",
+      "explanation": "The shelf is a shallow, gently inclined submerged extension of the continent; the slope is the steeper descent from the shelf break towards the deep ocean.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a continental slope?",
+      "options": {
+        "A": "The relatively steep submarine slope extending from the shelf break down towards the deep-ocean floor or continental rise",
+        "B": "A gently sloping, submerged extension of a continent",
+        "C": "A broad, gently sloping accumulation of sediment at the base of a continental slope",
+        "D": "A long, narrow, very deep depression in the ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A continental slope is the relatively steep submarine slope extending from the shelf break down towards the deep-ocean floor or continental rise.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q014",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a characteristic of continental slopes?",
+      "options": {
+        "A": "They have a much steeper gradient than shelves, may be cut by submarine canyons, and commonly mark the transition from continental crust to oceanic crust",
+        "B": "They are extremely flat and gently sloping regions of the deep-ocean floor",
+        "C": "They are long, narrow, very deep depressions formed at convergent boundaries",
+        "D": "They are underwater mountain chains formed at divergent boundaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continental slopes have a much steeper gradient than shelves, may be cut by submarine canyons, and commonly mark the transition from continental crust to oceanic crust.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q015",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the typical average gradient of a continental slope?",
+      "options": {
+        "A": "A few degrees, though local slopes can be much steeper",
+        "B": "Exactly 45 degrees everywhere",
+        "C": "Less than 1 degree everywhere",
+        "D": "90 degrees (vertical)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The average gradient of a continental slope varies widely, but commonly lies in the range of a few degrees; local slopes can be much steeper.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q016",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are submarine canyons?",
+      "options": {
+        "A": "Deep, steep-sided valleys cut into the continental shelf and slope, often associated with sediment-laden turbidity currents and submarine mass movements",
+        "B": "Long, narrow, very deep depressions formed at subduction zones",
+        "C": "Underwater mountain chains formed at divergent boundaries",
+        "D": "Broad, flat regions of the deep-ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submarine canyons are deep, steep-sided valleys cut into the continental shelf and slope, often associated with sediment-laden turbidity currents and submarine mass movements.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q017",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a turbidity current?",
+      "options": {
+        "A": "A dense, sediment-laden current that flows downslope under gravity along the seabed, capable of transporting large quantities of sediment",
+        "B": "A warm ocean current that flows along the surface",
+        "C": "A current formed by wind action on the ocean surface",
+        "D": "A current formed by tidal forces in estuaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "A turbidity current is a dense, sediment-laden current that flows downslope under gravity along the seabed, capable of transporting large quantities of sediment.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q018",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Slopes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main function of submarine canyons in sediment transfer?",
+      "options": {
+        "A": "They can channel sediments from continental shelves and slopes to deep-sea fans and the deep-ocean basin",
+        "B": "They prevent sediment from reaching the deep ocean",
+        "C": "They create new oceanic crust",
+        "D": "They form abyssal plains by depositing coarse gravel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submarine canyons can channel sediments from continental shelves and slopes to deep-sea fans and the deep-ocean basin.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q019",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Rises",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a continental rise?",
+      "options": {
+        "A": "A broad, gently sloping accumulation of sediment at the base of a continental slope, where the steep slope grades into the deep-ocean floor",
+        "B": "A gently sloping, submerged extension of a continent",
+        "C": "The relatively steep submarine slope extending from the shelf break",
+        "D": "A long, narrow, very deep depression in the ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A continental rise is a broad, gently sloping accumulation of sediment at the base of a continental slope, where the steep slope grades into the deep-ocean floor.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q020",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Rises",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is a continental rise formed?",
+      "options": {
+        "A": "It commonly forms through the accumulation of sediments transported downslope by turbidity currents, submarine landslides and other mass-flow processes",
+        "B": "It forms through seafloor spreading at divergent boundaries",
+        "C": "It forms through subduction of oceanic lithosphere",
+        "D": "It forms through wind deposition of sand"
+      },
+      "correctAnswer": "A",
+      "explanation": "A continental rise commonly forms through the accumulation of sediments transported downslope by turbidity currents, submarine landslides and other mass-flow processes.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q021",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Continental Rises",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where is the continental rise best developed?",
+      "options": {
+        "A": "It is generally well developed along many passive continental margins; it may be narrow, poorly developed or absent along active margins where trenches occur",
+        "B": "It is best developed along active continental margins where trenches occur",
+        "C": "It is best developed in the central rift valley of mid-oceanic ridges",
+        "D": "It is best developed on abyssal plains"
+      },
+      "correctAnswer": "A",
+      "explanation": "The continental rise is generally well developed along many passive continental margins; it may be narrow, poorly developed or absent along active margins where trenches occur.",
+      "source": "Major_Geographical_Features.pdf, Page 1"
+    },
+    {
+      "id": "Q022",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a submarine fan?",
+      "options": {
+        "A": "A fan-shaped sediment accumulation at the foot of a submarine canyon or slope, built by sediment-laden flows",
+        "B": "A long, narrow, very deep depression in the ocean floor",
+        "C": "An underwater mountain chain formed at a divergent boundary",
+        "D": "A broad, extremely flat region of the deep-ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A submarine fan is a fan-shaped sediment accumulation at the foot of a submarine canyon or slope, built by sediment-laden flows. Large examples are called deep-sea fans.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q023",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does a continental rise differ from a continental slope?",
+      "options": {
+        "A": "The slope is the steep descent from the shelf; the rise is the gentler sediment-built zone at the slope's base",
+        "B": "The slope is the gentler sediment-built zone; the rise is the steep descent from the shelf",
+        "C": "The slope is a deep-ocean floor feature; the rise is a continental feature",
+        "D": "The slope is formed by seafloor spreading; the rise is formed by subduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "The slope is the steep descent from the shelf; the rise is the gentler sediment-built zone at the slope's base.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q024",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an ocean basin?",
+      "options": {
+        "A": "A vast depression in the Earth's crust occupied by ocean water and underlain mainly by oceanic crust, including the deep-ocean floor and its relief features",
+        "B": "A shallow submerged extension of a continent",
+        "C": "A long, narrow, very deep depression formed at a convergent boundary",
+        "D": "A long underwater mountain chain formed at a divergent boundary"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ocean basin is a vast depression in the Earth's crust occupied by ocean water and underlain mainly by oceanic crust, including the deep-ocean floor and its relief features.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q025",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major ocean basins?",
+      "options": {
+        "A": "Pacific, Atlantic, Indian, Southern and Arctic ocean basins",
+        "B": "Pacific, Atlantic, Indian, Mediterranean and Arctic ocean basins",
+        "C": "Pacific, Atlantic, Indian, Southern and Antarctic ocean basins",
+        "D": "Pacific, Atlantic, Indian, Southern and Caribbean ocean basins"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major ocean basins are the Pacific, Atlantic, Indian, Southern and Arctic ocean basins.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q026",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major feature of ocean basins?",
+      "options": {
+        "A": "Abyssal plains, mid-ocean ridges, ocean trenches, seamounts, guyots, fracture zones, submarine plateaus and deep-sea fans",
+        "B": "Continental shelves, continental slopes, continental rises and shelf breaks",
+        "C": "Mountain passes, cols and saddles",
+        "D": "Waterfalls, plunge pools and rapids"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major features of ocean basins include abyssal plains, mid-ocean ridges, ocean trenches, seamounts, guyots, fracture zones, submarine plateaus and deep-sea fans.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q027",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are ocean basins formed and modified?",
+      "options": {
+        "A": "They are created and reshaped by plate tectonics, seafloor spreading, subduction, volcanism, faulting, sedimentation and changes in sea level",
+        "B": "They are created only by river erosion",
+        "C": "They are created only by wind deposition",
+        "D": "They are created only by glacial erosion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ocean basins are created and reshaped by plate tectonics, seafloor spreading, subduction, volcanism, faulting, sedimentation and changes in sea level.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q028",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Basins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is oceanic crust mainly composed of?",
+      "options": {
+        "A": "It is predominantly basaltic to gabbroic in composition and is generally thinner and denser than continental crust",
+        "B": "It is predominantly granitic in composition and is generally thicker and less dense than continental crust",
+        "C": "It is predominantly sedimentary in composition and is generally thicker than continental crust",
+        "D": "It is predominantly metamorphic in composition and is generally thinner than continental crust"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oceanic crust is predominantly basaltic to gabbroic in composition and is generally thinner and denser than continental crust.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q029",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an abyssal plain?",
+      "options": {
+        "A": "A very broad, extremely flat or gently sloping region of the deep-ocean floor, commonly lying at depths of roughly 3,000-6,000 metres",
+        "B": "A gently sloping, submerged extension of a continent",
+        "C": "A long, narrow, very deep depression formed at a convergent boundary",
+        "D": "An underwater mountain chain formed at a divergent boundary"
+      },
+      "correctAnswer": "A",
+      "explanation": "An abyssal plain is a very broad, extremely flat or gently sloping region of the deep-ocean floor, commonly lying at depths of roughly 3,000-6,000 metres.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q030",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are abyssal plains formed?",
+      "options": {
+        "A": "Fine sediments, including clay and the remains of microscopic marine organisms, gradually accumulate and bury irregular oceanic crust and volcanic relief",
+        "B": "They are formed by seafloor spreading at divergent boundaries",
+        "C": "They are formed by subduction of oceanic lithosphere",
+        "D": "They are formed by wind deposition of sand"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fine sediments, including clay and the remains of microscopic marine organisms, gradually accumulate and bury irregular oceanic crust and volcanic relief.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q031",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are abyssal plains among the flattest regions on Earth?",
+      "options": {
+        "A": "Long-term accumulation of fine-grained sediments smooths and fills depressions in the underlying ocean floor",
+        "B": "They are formed by volcanic eruptions that create perfectly flat surfaces",
+        "C": "They are formed by glacial erosion that levels the ocean floor",
+        "D": "They are formed by wind erosion that flattens the ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Long-term accumulation of fine-grained sediments smooths and fills depressions in the underlying ocean floor, making abyssal plains among the flattest regions on Earth.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q032",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are main characteristics of abyssal plains?",
+      "options": {
+        "A": "Great depth, very low gradient, extensive area, darkness, cold water and high pressure",
+        "B": "Shallow depth, steep gradient, small area and abundant sunlight",
+        "C": "Moderate depth, moderate gradient and warm water",
+        "D": "Variable depth, steep gradient and strong tidal influence"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main characteristics of abyssal plains are great depth, very low gradient, extensive area, darkness, cold water and high pressure.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q033",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where are abyssal plains found?",
+      "options": {
+        "A": "They occur in the deep Atlantic, Indian and Pacific oceans, particularly where sediment supply is sufficient to bury rough basement topography",
+        "B": "They occur only in the Arctic Ocean",
+        "C": "They occur only in the Southern Ocean",
+        "D": "They occur only in the Mediterranean Sea"
+      },
+      "correctAnswer": "A",
+      "explanation": "Abyssal plains occur in the deep Atlantic, Indian and Pacific oceans, particularly where sediment supply is sufficient to bury rough basement topography.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q034",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Abyssal Plains",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between an abyssal plain and a continental shelf?",
+      "options": {
+        "A": "An abyssal plain is a deep-ocean-floor feature several kilometres below sea level; a continental shelf is a shallow submerged extension of a continent",
+        "B": "An abyssal plain is a shallow submerged extension of a continent; a continental shelf is a deep-ocean-floor feature",
+        "C": "An abyssal plain is a long, narrow, very deep depression; a continental shelf is a broad, flat region",
+        "D": "An abyssal plain is formed by subduction; a continental shelf is formed by seafloor spreading"
+      },
+      "correctAnswer": "A",
+      "explanation": "An abyssal plain is a deep-ocean-floor feature several kilometres below sea level; a continental shelf is a shallow submerged extension of a continent.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q035",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an ocean trench?",
+      "options": {
+        "A": "A long, narrow, very deep depression in the ocean floor, generally formed at a convergent plate boundary where one tectonic plate subducts beneath another",
+        "B": "A very broad, extremely flat region of the deep-ocean floor",
+        "C": "A long underwater mountain chain formed at a divergent plate boundary",
+        "D": "A gently sloping, submerged extension of a continent"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ocean trench is a long, narrow, very deep depression in the ocean floor, generally formed at a convergent plate boundary where one tectonic plate subducts beneath another.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q036",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are ocean trenches formed?",
+      "options": {
+        "A": "As a dense oceanic lithospheric plate bends and descends into the mantle at a subduction zone, it creates a deep trench near the plate boundary",
+        "B": "As plates diverge, mantle material rises and partially melts, creating a deep trench",
+        "C": "As wind erodes the ocean floor, it creates a deep trench",
+        "D": "As rivers cut into the ocean floor, they create a deep trench"
+      },
+      "correctAnswer": "A",
+      "explanation": "As a dense oceanic lithospheric plate bends and descends into the mantle at a subduction zone, it creates a deep trench near the plate boundary.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q037",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are characteristics of ocean trenches?",
+      "options": {
+        "A": "They are narrow, elongated, extremely deep features, commonly associated with earthquakes, subduction, volcanic arcs and deep-sea ecosystems",
+        "B": "They are broad, flat, shallow features with abundant sunlight",
+        "C": "They are formed at divergent boundaries where new crust is created",
+        "D": "They are gently sloping, sediment-built zones at the base of continental slopes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ocean trenches are narrow, elongated, extremely deep features, commonly associated with earthquakes, subduction, volcanic arcs and deep-sea ecosystems.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+        {
+      "id": "Q038",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the deepest known ocean trench?",
+      "options": {
+        "A": "The Mariana Trench in the western Pacific",
+        "B": "The Tonga Trench in the southwestern Pacific",
+        "C": "The Puerto Rico Trench in the Atlantic Ocean",
+        "D": "The Java Trench in the Indian Ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mariana Trench in the western Pacific is the deepest known ocean trench. Challenger Deep is its deepest surveyed area, with measured depth estimates around 10.9 kilometres; values vary by survey and method.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q039",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Challenger Deep?",
+      "options": {
+        "A": "The deepest surveyed area of the Mariana Trench",
+        "B": "The deepest known ocean trench",
+        "C": "A major section of the Mid-Atlantic Ridge",
+        "D": "A large submarine fan in the Pacific Ocean"
+      },
+      "correctAnswer": "A",
+      "explanation": "Challenger Deep is the deepest surveyed area of the Mariana Trench, with measured depth estimates around 10.9 kilometres; values vary by survey and method.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q040",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are other major ocean trenches?",
+      "options": {
+        "A": "Tonga, Philippine, Japan, Kuril-Kamchatka, Peru-Chile and Puerto Rico trenches",
+        "B": "Mariana, Mid-Atlantic, East Pacific Rise and Indian Ridge",
+        "C": "Grand Canyon, Kali Gandaki and Sundarbans",
+        "D": "Chilika, Pulicat and Vembanad"
+      },
+      "correctAnswer": "A",
+      "explanation": "Other major ocean trenches include the Tonga, Philippine, Japan, Kuril-Kamchatka, Peru-Chile and Puerto Rico trenches.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+        {
+      "id": "Q040",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are other major ocean trenches?",
+      "options": {
+        "A": "Tonga, Philippine, Japan, Kuril-Kamchatka, Peru-Chile and Puerto Rico trenches",
+        "B": "Mariana, Mid-Atlantic, East Pacific Rise and Indian Ridge",
+        "C": "Grand Canyon, Kali Gandaki and Sundarbans",
+        "D": "Chilika, Pulicat and Vembanad"
+      },
+      "correctAnswer": "A",
+      "explanation": "Other major ocean trenches include the Tonga, Philippine, Japan, Kuril-Kamchatka, Peru-Chile and Puerto Rico trenches.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q041",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are trenches associated with earthquakes?",
+      "options": {
+        "A": "Subduction zones generate earthquakes as plates interact, lock, slip and deform; the largest earthquakes can occur along the plate interface",
+        "B": "Trenches are formed by wind erosion, which causes earthquakes",
+        "C": "Trenches are formed by river erosion, which causes earthquakes",
+        "D": "Trenches are formed by glacial activity, which causes earthquakes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Subduction zones generate earthquakes as plates interact, lock, slip and deform. The largest earthquakes can occur along the plate interface.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+        {
+      "id": "Q042",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Ocean Trenches",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between an ocean trench and an abyssal plain?",
+      "options": {
+        "A": "A trench is a narrow, very deep depression associated mainly with subduction; an abyssal plain is a broad, relatively flat deep-ocean region",
+        "B": "A trench is a broad, relatively flat deep-ocean region; an abyssal plain is a narrow, very deep depression",
+        "C": "A trench is formed at a divergent boundary; an abyssal plain is formed at a convergent boundary",
+        "D": "A trench is a shallow submerged extension of a continent; an abyssal plain is a deep-ocean-floor feature"
+      },
+      "correctAnswer": "A",
+      "explanation": "A trench is a narrow, very deep depression associated mainly with subduction; an abyssal plain is a broad, relatively flat deep-ocean region.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q043",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mid-oceanic ridge?",
+      "options": {
+        "A": "A long underwater mountain chain formed mainly at divergent plate boundaries where tectonic plates move apart and new oceanic crust is produced",
+        "B": "A long, narrow, very deep depression formed at a convergent plate boundary",
+        "C": "A very broad, extremely flat region of the deep-ocean floor",
+        "D": "A gently sloping, submerged extension of a continent"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mid-oceanic ridge is a long underwater mountain chain formed mainly at divergent plate boundaries where tectonic plates move apart and new oceanic crust is produced.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q044",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are mid-oceanic ridges formed?",
+      "options": {
+        "A": "As plates diverge, mantle material rises and partially melts due to decompression; magma cools to form new oceanic crust, creating an elevated ridge system",
+        "B": "As plates converge, one plate subducts beneath another, creating an elevated ridge system",
+        "C": "As wind erodes the ocean floor, it creates an elevated ridge system",
+        "D": "As rivers deposit sediment, they create an elevated ridge system"
+      },
+      "correctAnswer": "A",
+      "explanation": "As plates diverge, mantle material rises and partially melts due to decompression. Magma cools to form new oceanic crust, creating an elevated ridge system.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+        {
+      "id": "Q045",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is seafloor spreading?",
+      "options": {
+        "A": "The process by which new oceanic lithosphere forms at mid-ocean ridges and moves outward on both sides as plates separate",
+        "B": "The process by which oceanic lithosphere is destroyed at ocean trenches",
+        "C": "The process by which continents move across the ocean floor",
+        "D": "The process by which wind deposits sand on the ocean floor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Seafloor spreading is the process by which new oceanic lithosphere forms at mid-ocean ridges and moves outward on both sides as plates separate.",
+      "source": "Major_Geographical_Features.pdf, Page 2"
+    },
+    {
+      "id": "Q046",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are characteristics of mid-ocean ridges?",
+      "options": {
+        "A": "They form a globally connected submarine mountain system, commonly have a central rift valley in slow-spreading sections, experience volcanic activity and shallow earthquakes, and are sites of hydrothermal vents",
+        "B": "They are narrow, elongated, extremely deep features associated with deep earthquakes and subduction",
+        "C": "They are broad, extremely flat regions with very low gradient and high pressure",
+        "D": "They are gently sloping, sediment-built zones at the base of continental slopes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mid-ocean ridges form a globally connected submarine mountain system, commonly have a central rift valley in slow-spreading sections, experience volcanic activity and shallow earthquakes, and are sites of hydrothermal vents.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q047",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is the longest mountain chain on Earth?",
+      "options": {
+        "A": "The global mid-ocean ridge system",
+        "B": "The Himalayas",
+        "C": "The Andes",
+        "D": "The Rocky Mountains"
+      },
+      "correctAnswer": "A",
+      "explanation": "The global mid-ocean ridge system is the longest mountain chain on Earth, extending for tens of thousands of kilometres beneath the oceans.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q048",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Mid-Atlantic Ridge?",
+      "options": {
+        "A": "A major section of the global mid-ocean ridge system running through the Atlantic Ocean, separating the American plates from the Eurasian and African plates in different segments",
+        "B": "A long, narrow, very deep depression in the Atlantic Ocean",
+        "C": "A broad, extremely flat region of the Atlantic Ocean floor",
+        "D": "A gently sloping, submerged extension of the North American continent"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mid-Atlantic Ridge is a major section of the global mid-ocean ridge system running through the Atlantic Ocean, separating the American plates from the Eurasian and African plates in different segments.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q049",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mid-Oceanic Ridges",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between a mid-ocean ridge and an ocean trench?",
+      "options": {
+        "A": "A ridge forms at a divergent boundary where new oceanic crust is created; a trench forms at a convergent boundary where oceanic lithosphere is subducted",
+        "B": "A ridge forms at a convergent boundary where oceanic lithosphere is subducted; a trench forms at a divergent boundary where new oceanic crust is created",
+        "C": "A ridge is a broad, flat region; a trench is a long underwater mountain chain",
+        "D": "A ridge is a shallow submerged extension of a continent; a trench is a deep-ocean-floor feature"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ridge forms at a divergent boundary where new oceanic crust is created; a trench forms at a convergent boundary where oceanic lithosphere is subducted.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q050",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mountain pass?",
+      "options": {
+        "A": "A relatively low route or gap across a mountain range, often used for transport and communication between valleys or regions",
+        "B": "The highest peak of a mountain range",
+        "C": "A deep valley cut by a river through a mountain range",
+        "D": "A steep cliff face on a mountain"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mountain pass is a relatively low route or gap across a mountain range, often used for transport and communication between valleys or regions.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q051",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are mountain passes formed?",
+      "options": {
+        "A": "They may be produced by river erosion, glacial erosion, tectonic structure, faulting or differential weathering; some are saddles between peaks",
+        "B": "They are formed only by volcanic eruptions",
+        "C": "They are formed only by wind deposition",
+        "D": "They are formed only by seafloor spreading"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mountain passes may be produced by river erosion, glacial erosion, tectonic structure, faulting or differential weathering. Some are saddles between peaks.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    },
+    {
+      "id": "Q052",
+      "subject": "General Knowledge",
+      "topic": "Physical Geography",
+      "chapter": "Mountain Passes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are mountain passes important?",
+      "options": {
+        "A": "They provide routes for roads, railways, trade, migration and military movement through otherwise difficult mountainous terrain",
+        "B": "They are the highest points of mountain ranges",
+        "C": "They are the deepest valleys in mountain ranges",
+        "D": "They are the steepest cliffs in mountain ranges"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mountain passes provide routes for roads, railways, trade, migration and military movement through otherwise difficult mountainous terrain.",
+      "source": "Major_Geographical_Features.pdf, Page 3"
+    }
+]
+}

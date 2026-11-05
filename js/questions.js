@@ -1,4 +1,4 @@
-const REQUIRED_FIELDS = ["id","difficulty","question","options","correctAnswer"];
+const REQUIRED_FIELDS = ["id","difficulty","question","options","correctAnswer","explanation","source"];
 const SECOND_PAPER_SUBJECTS = new Map([
   ["kannada", "Kannada"],
   ["english", "English"],
@@ -70,7 +70,9 @@ export function validateDataset(data, dataset) {
     throw new Error(`${dataset.path} must contain a questions array.`);
   }
   const seen = new Map();
+  const seenPrompts = new Map();
   const duplicateIds = new Set();
+  const duplicateQuestions = [];
   const invalidQuestions = [];
   const validQuestions = [];
   data.questions.forEach((question, index) => {
@@ -81,7 +83,11 @@ export function validateDataset(data, dataset) {
       return;
     }
     for (const field of REQUIRED_FIELDS) {
-      if (question[field] === undefined || question[field] === null || question[field] === "") {
+      const value = question[field];
+      if (["difficulty", "question", "correctAnswer", "explanation", "source"].includes(field) &&
+          (typeof value !== "string" || !value.trim())) {
+        errors.push(`${label} is missing ${field}.`);
+      } else if (value === undefined || value === null || value === "") {
         errors.push(`${label} is missing ${field}.`);
       }
     }
@@ -90,12 +96,16 @@ export function validateDataset(data, dataset) {
     } else if (!String(question.id).trim()) {
       errors.push(`${label} must have a non-empty string or number ID.`);
     }
-    if (!question.options || typeof question.options !== "object" ||
+    if (!question.options || typeof question.options !== "object" || Array.isArray(question.options) ||
         !["A","B","C","D"].every(key => typeof question.options[key] === "string" && question.options[key].trim())) {
       errors.push(`${label} must have four non-empty A–D options.`);
     }
-    if (question.correctAnswer && !["A","B","C","D"].includes(question.correctAnswer)) {
+    if (question.correctAnswer !== undefined && question.correctAnswer !== null &&
+        !["A","B","C","D"].includes(question.correctAnswer)) {
       errors.push(`${label} has an invalid correctAnswer.`);
+    }
+    if (![question.topic, question.chapter].some(value => typeof value === "string" && value.trim())) {
+      errors.push(`${label} must have a topic or chapter.`);
     }
     if (question.difficulty && !["Easy","Medium","Hard"].includes(question.difficulty)) {
       errors.push(`${label} has an unsupported difficulty.`);
@@ -110,8 +120,14 @@ export function validateDataset(data, dataset) {
     const occurrences = (seen.get(sourceId) || 0) + 1;
     seen.set(sourceId, occurrences);
     if (occurrences > 1) duplicateIds.add(sourceId);
+    const prompt = question.question.normalize("NFKC").trim().replace(/\s+/g, " ").toLowerCase();
+    if (seenPrompts.has(prompt)) {
+      duplicateQuestions.push({ firstId: seenPrompts.get(prompt), duplicateId: sourceId, question: prompt });
+    } else {
+      seenPrompts.set(prompt, sourceId);
+    }
   });
-  return { questions: validQuestions, duplicateIds: [...duplicateIds], invalidQuestions };
+  return { questions: validQuestions, duplicateIds: [...duplicateIds], duplicateQuestions, invalidQuestions };
 }
 
 async function loadDataset(relativePath, rootUrl) {
@@ -119,7 +135,7 @@ async function loadDataset(relativePath, rootUrl) {
   try {
     dataset = getDatasetLocation(relativePath);
     const fileUrl = new URL(relativePath.split("/").map(encodeURIComponent).join("/"), rootUrl);
-    const response = await fetch(fileUrl, { cache: "no-store" });
+    const response = await fetch(fileUrl);
     if (!response.ok) throw new Error(`Could not load ${dataset.path} (${response.status}).`);
     const data = await response.json();
     const validation = validateDataset(data, dataset);
@@ -128,6 +144,15 @@ async function loadDataset(relativePath, rootUrl) {
       warnings.push(
         `${dataset.path} reuses question ID${validation.duplicateIds.length === 1 ? "" : "s"} ${validation.duplicateIds.join(", ")}. ` +
         "Each occurrence will receive a unique dataset-scoped ID."
+      );
+    }
+    if (validation.duplicateQuestions.length) {
+      const samples = validation.duplicateQuestions.slice(0, 3)
+        .map(({ firstId, duplicateId }) => `${firstId}/${duplicateId}`)
+        .join(", ");
+      warnings.push(
+        `${dataset.path} repeats ${validation.duplicateQuestions.length} question prompt(s). ` +
+        `Sample ID pairs: ${samples}. Review before expanding this bank.`
       );
     }
     if (validation.invalidQuestions.length) {
@@ -172,7 +197,7 @@ async function loadDataset(relativePath, rootUrl) {
 export async function loadQuestionBank() {
   const rootUrl = new URL("../data/", import.meta.url);
   const indexUrl = new URL("datasets.json", rootUrl);
-  const indexResponse = await fetch(indexUrl, { cache: "no-store" });
+  const indexResponse = await fetch(indexUrl);
   if (!indexResponse.ok) throw new Error(`Could not load dataset index (${indexResponse.status}): ${indexUrl.pathname}`);
   const index = await indexResponse.json();
   if (!index || !Array.isArray(index.datasets) ||

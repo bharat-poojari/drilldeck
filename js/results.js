@@ -1,9 +1,21 @@
 import { formatTime } from "./timer.js";
+import { selectRevisionQuestions } from "./practice.js";
+import { analyzePerformance, MINIMUM_PERFORMANCE_SAMPLE } from "./performance-insights.js";
 
 const $ = (id) => document.getElementById(id);
 const safe = (value) => String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
 
-export function renderResults({ questions, answers, metrics, examName, submittedAt, onNewTest }) {
+export function renderResults({
+  questions,
+  answers,
+  metrics,
+  examName,
+  submittedAt,
+  onNewTest,
+  onPracticeIncorrect,
+  historyResults = [],
+  mode = "exam"
+}) {
   $("final-score").textContent = metrics.score.toFixed(2);
   $("score-out-of").textContent = `/ ${metrics.maximum}`;
   $("score-percentage").textContent = `${metrics.scorePercentage.toFixed(1)}% of maximum marks`;
@@ -21,7 +33,11 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("metric-attempt-rate").textContent = `${metrics.attemptRate.toFixed(1)}% attempt rate`;
   $("result-subtitle").textContent = metrics.autoSubmitted
     ? "Time expired. Your test was submitted automatically."
-    : "Your mock test has been evaluated.";
+    : mode === "practice"
+      ? "Practice complete. Review any answer or revise questions you missed."
+      : mode === "revision"
+        ? "Revision complete. Review these questions and retry them whenever you need."
+        : "Your mock test has been evaluated.";
 
   const total = metrics.total || 1;
   $("distribution-bar").innerHTML = `
@@ -31,27 +47,86 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   $("distribution-legend").innerHTML = [
     ["Correct",metrics.correct,"answered"],["Incorrect",metrics.wrong,"unanswered"],["Unanswered",metrics.unanswered,"not-visited"]
   ].map(([name,count,cls]) => `<div><b>${count}</b><span><i class="legend-dot ${cls}"></i>${name}</span></div>`).join("");
-  $("calculation-text").textContent = `${metrics.correct} − (${metrics.wrong} × 0.25) = ${metrics.score.toFixed(2)}`;
-  $("time-available").textContent = formatTime(metrics.durationSeconds);
+  $("calculation-text").textContent = metrics.negativeMarks
+    ? `${metrics.correct} − (${metrics.wrong} × 0.25) = ${metrics.score.toFixed(2)}`
+    : `${metrics.correct} − 0 = ${metrics.score.toFixed(2)}`;
+  $("time-available").textContent = mode === "exam" ? formatTime(metrics.durationSeconds) : "No time limit";
   $("time-taken").textContent = formatTime(metrics.elapsedSeconds);
   $("time-average").textContent = metrics.attempted ? `${formatTime(metrics.averageSeconds)} per attempted question` : "—";
-  $("time-remaining").textContent = metrics.autoSubmitted ? "00:00:00 (time expired)" : formatTime(metrics.remainingSeconds);
+  $("time-remaining").textContent = mode !== "exam"
+    ? "—"
+    : metrics.autoSubmitted ? "00:00:00 (time expired)" : formatTime(metrics.remainingSeconds);
+  $("result-leaderboard").classList.toggle("hidden", mode !== "exam");
 
-  $("subject-analysis").innerHTML = metrics.subjects.map(item => {
-    const pct = item.total ? item.correct / item.total * 100 : 0;
-    return `<div class="subject-row"><span class="subject-name">${safe(item.name)}</span><div class="subject-track"><span style="width:${pct}%"></span></div><span class="subject-score">${item.correct}/${item.total} · ${pct.toFixed(0)}%</span></div>`;
-  }).join("");
+  const performance = analyzePerformance(historyResults.length
+    ? historyResults
+    : [{ questions, answers, metrics, submittedAt:submittedAt.toISOString(), paper:examName }]);
+  const statusLabels = {
+    strong:"Strong",
+    improving:"Improving",
+    revision:"Needs revision",
+    weak:"Weak",
+    insufficient:"Insufficient data"
+  };
+  $("subject-analysis").innerHTML = performance.subjects.map(item => {
+    const pct = item.accuracy;
+    const trend = item.trend === null
+      ? ""
+      : ` <span class="insight-trend ${item.trend >= 0 ? "positive" : "negative"}">${item.trend >= 0 ? "+" : ""}${item.trend.toFixed(0)} pp since prior test</span>`;
+    return `<div class="insight-row">
+      <div class="insight-row-heading"><strong>${safe(item.name)}</strong><span class="insight-status ${item.status}">${statusLabels[item.status]}</span></div>
+      <div class="subject-track"><span style="width:${pct}%"></span></div>
+      <div class="insight-row-detail"><span>${item.correct} correct · ${item.wrong} incorrect</span><span>${pct.toFixed(0)}% accuracy · ${item.attempted} attempted${trend}</span></div>
+    </div>`;
+  }).join("") || '<p class="empty-datasets">Complete questions to see subject insights.</p>';
 
-  const strongest = metrics.subjects[0];
-  const weakest = [...metrics.subjects].sort((a,b) => (a.correct/a.total) - (b.correct/b.total))[0];
-  const weakTopics = metrics.topics.filter(t => t.wrong > 0).sort((a,b) => b.wrong-a.wrong).slice(0,3);
-  let insight = "";
-  if (strongest) insight += `<strong>Strongest subject:</strong> ${safe(strongest.name)} (${Math.round(strongest.correct/strongest.total*100)}% correct). `;
-  if (weakest) insight += `<strong>Focus area:</strong> ${safe(weakest.name)} (${Math.round(weakest.correct/weakest.total*100)}% correct). `;
-  if (weakTopics.length) insight += `<strong>Topics to revisit:</strong> ${weakTopics.map(t => `${safe(t.name)} (${t.wrong} incorrect)`).join(", ")}.`;
-  if (!insight) insight = "Complete more questions to generate subject and topic insights.";
-  $("recommendations").innerHTML = insight;
+  $("topic-analysis").innerHTML = performance.topics.map(item =>
+    `<div class="insight-row">
+      <div class="insight-row-heading"><strong>${safe(item.name)}</strong><span class="insight-status ${item.status}">${statusLabels[item.status]}</span></div>
+      <div class="insight-topic-subject">${safe(item.subject)}</div>
+      <div class="subject-track"><span style="width:${item.accuracy}%"></span></div>
+      <div class="insight-row-detail"><span>${item.correct} correct · ${item.wrong} incorrect</span><span>${item.accuracy.toFixed(0)}% accuracy · ${item.attempted} attempted</span></div>
+    </div>`
+  ).join("") || '<p class="empty-datasets">Topic insights will appear after you answer questions.</p>';
 
+  const focusSubject = performance.subjects.find(item => ["weak", "revision", "improving"].includes(item.status));
+  const focusTopics = focusSubject
+    ? performance.topics.filter(item =>
+      item.subject === focusSubject.name && ["weak", "revision", "improving"].includes(item.status)
+    ).slice(0, 2)
+    : [];
+  $("recommendations").innerHTML = focusSubject
+    ? `<strong>Recommended next activity</strong><p>Practise 25 questions on ${safe(focusSubject.name)}${focusTopics.length ? `, focusing on ${focusTopics.map(item => safe(item.name)).join(" and ")}` : ""}.</p>`
+    : performance.subjects.some(item => item.status === "insufficient")
+      ? `<strong>Recommended next activity</strong><p>Answer at least ${MINIMUM_PERFORMANCE_SAMPLE} questions in each subject or topic to get reliable preparation insights.</p>`
+      : '<strong>Preparation insights</strong><p>Keep practising to build a reliable picture of your strengths and focus areas.</p>';
+
+  $("progress-summary").innerHTML = [
+    ["Correct", performance.totalCorrect],
+    ["Incorrect", performance.totalWrong],
+    ["Average time per attempted question", performance.totalAttempted ? formatTime(performance.averageSeconds) : "—"]
+  ].map(([label, value]) => `<div class="progress-stat"><span>${safe(label)}</span><strong>${safe(value)}</strong></div>`).join("");
+  $("test-progress-list").innerHTML = performance.tests.length
+    ? performance.tests.map(test => {
+      const change = test.change === null ? "First recorded test" : `${test.change >= 0 ? "+" : ""}${test.change.toFixed(0)} percentage points`;
+      return `<div class="test-progress-row">
+        <div><strong>${safe(test.name)}</strong><small>${test.submittedAt ? safe(new Date(test.submittedAt).toLocaleDateString()) : "Date unavailable"} · ${test.attempted} attempted</small></div>
+        <span>${test.accuracy.toFixed(0)}%<small>${safe(change)}</small></span>
+      </div>`;
+    }).join("")
+    : '<p class="empty-datasets">Complete an attempted question to begin tracking improvement.</p>';
+  $("repeated-topic-list").innerHTML = performance.repeatedIncorrectTopics.length
+    ? performance.repeatedIncorrectTopics.slice(0, 5).map(item =>
+      `<div class="repeated-topic-row"><strong>${safe(item.name)}</strong><span>${safe(item.subject)} · incorrect ${item.wrong} times</span></div>`
+    ).join("")
+    : '<p class="empty-datasets">No topic has multiple incorrect answers yet.</p>';
+  $("repeated-incorrect-list").innerHTML = performance.repeatedIncorrect.length
+    ? performance.repeatedIncorrect.map(item =>
+      `<div class="repeated-incorrect-row"><strong>${safe(item.question)}</strong><span>${safe(item.subject)} · ${safe(item.topic)} · incorrect ${item.count} times</span></div>`
+    ).join("")
+    : '<p class="empty-datasets">No questions have been answered incorrectly more than once yet.</p>';
+
+  const revisionQuestions = selectRevisionQuestions(questions, answers);
   $("review-total").textContent = `${questions.length} questions`;
   renderAnswerReview(questions, answers, "all");
   $("review-filters").querySelectorAll("[data-filter]").forEach(button => {
@@ -62,6 +137,11 @@ export function renderResults({ questions, answers, metrics, examName, submitted
   });
   $("retake-button").onclick = onNewTest;
   $("new-test-button").onclick = onNewTest;
+  const revisionButton = $("wrong-revision-button");
+  revisionButton.classList.toggle("hidden", !revisionQuestions.length || !onPracticeIncorrect);
+  revisionButton.onclick = onPracticeIncorrect
+    ? () => onPracticeIncorrect(revisionQuestions)
+    : null;
 }
 
 function renderAnswerReview(questions, answers, filter) {

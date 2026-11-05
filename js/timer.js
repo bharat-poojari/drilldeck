@@ -1,9 +1,14 @@
-export function createTimer({ durationSeconds, onTick, onExpire }) {
+export function createTimer({ durationSeconds, startedAt: initialStartedAt = null, onTick, onExpire }) {
   let startedAt = 0;
   let deadline = 0;
   let intervalId = null;
   let stopped = false;
 
+  const stop = () => {
+    stopped = true;
+    if (intervalId !== null) window.clearInterval(intervalId);
+    intervalId = null;
+  };
   const tick = () => {
     if (stopped) return;
     const remaining = Math.max(0, Math.ceil((deadline - Date.now()) / 1000));
@@ -17,16 +22,12 @@ export function createTimer({ durationSeconds, onTick, onExpire }) {
   return {
     start() {
       if (intervalId !== null || stopped) return;
-      startedAt = Date.now();
+      startedAt = initialStartedAt ?? Date.now();
       deadline = startedAt + durationSeconds * 1000;
       tick();
       if (!stopped) intervalId = window.setInterval(tick, 250);
     },
-    stop() {
-      stopped = true;
-      if (intervalId !== null) window.clearInterval(intervalId);
-      intervalId = null;
-    },
+    stop,
     elapsedSeconds() {
       if (!startedAt) return 0;
       return Math.min(durationSeconds, Math.max(0, Math.floor((Date.now() - startedAt) / 1000)));

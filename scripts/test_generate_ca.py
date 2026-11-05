@@ -3,7 +3,9 @@ import os
 import tempfile
 import unittest
 from datetime import datetime
+from io import BytesIO
 from pathlib import Path
+from urllib.error import HTTPError
 from unittest import mock
 
 from scripts import generate_ca
@@ -202,6 +204,29 @@ class GenerateCurrentAffairsTests(unittest.TestCase):
         self.assertEqual(result, b"ok")
         self.assertEqual(request.get_method(), "POST")
         self.assertEqual(request.data, request_body)
+
+    def test_fetch_url_retries_temporary_server_errors(self):
+        response = mock.MagicMock()
+        response.__enter__.return_value.read.return_value = b"ok"
+        temporary_error = HTTPError(
+            "https://example.com/gemini",
+            503,
+            "Unavailable",
+            {},
+            BytesIO(b"Please retry"),
+        )
+        with (
+            mock.patch(
+                "scripts.generate_ca.urllib.request.urlopen",
+                side_effect=[temporary_error, response],
+            ) as urlopen,
+            mock.patch.object(generate_ca.time, "sleep") as sleep,
+        ):
+            result = generate_ca.fetch_url("https://example.com/gemini")
+
+        self.assertEqual(result, b"ok")
+        self.assertEqual(urlopen.call_count, 2)
+        sleep.assert_called_once_with(1)
 
     def test_generated_content_rejects_invalid_answer_index(self):
         generated = {

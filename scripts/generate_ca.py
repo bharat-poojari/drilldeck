@@ -4,6 +4,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -31,6 +32,7 @@ FEEDS = (
 QUESTIONS_PER_FEED = 2
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 INDIA_TIMEZONE = timezone(timedelta(hours=5, minutes=30), "IST")
+MAX_REQUEST_ATTEMPTS = 4
 
 QUESTION_SCHEMA = {
     "type": "OBJECT",
@@ -85,17 +87,34 @@ def fetch_url(url, headers=None, timeout=30, data=None):
         data=data,
         headers={"User-Agent": "DrillDeck-Current-Affairs/1.0", **(headers or {})},
     )
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            return response.read()
-    except urllib.error.HTTPError as error:
-        detail = error.read().decode("utf-8", errors="replace")[:500]
-        for value in (headers or {}).values():
-            if value:
-                detail = detail.replace(value, "[REDACTED]")
-        raise RuntimeError(f"Request failed with HTTP {error.code}: {detail}") from error
-    except urllib.error.URLError as error:
-        raise RuntimeError(f"Request failed: {error.reason}") from error
+    for attempt in range(1, MAX_REQUEST_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                return response.read()
+        except urllib.error.HTTPError as error:
+            detail = error.read().decode("utf-8", errors="replace")[:500]
+            for value in (headers or {}).values():
+                if value:
+                    detail = detail.replace(value, "[REDACTED]")
+            if error.code not in {429, 500, 502, 503, 504} or attempt == MAX_REQUEST_ATTEMPTS:
+                raise RuntimeError(
+                    f"Request failed with HTTP {error.code}: {detail}"
+                ) from error
+            print(
+                f"Request returned HTTP {error.code}; retrying "
+                f"({attempt}/{MAX_REQUEST_ATTEMPTS - 1}).",
+                file=sys.stderr,
+            )
+        except urllib.error.URLError as error:
+            if attempt == MAX_REQUEST_ATTEMPTS:
+                raise RuntimeError(f"Request failed: {error.reason}") from error
+            print(
+                f"Request failed temporarily; retrying "
+                f"({attempt}/{MAX_REQUEST_ATTEMPTS - 1}).",
+                file=sys.stderr,
+            )
+        time.sleep(2 ** (attempt - 1))
+    raise RuntimeError("Request failed after all retry attempts.")
 
 
 def parse_feed(xml_data):

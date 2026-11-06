@@ -128,10 +128,11 @@ test("selection fills from valid questions after malformed records are skipped",
 });
 
 test("shuffled answer options remap the correct answer without mutating the question bank", () => {
-  const original = makeQuestion("Q026");
+  const original = { ...makeQuestion("Q026"), optionExplanations:{ A:"First note", B:"Second note" } };
   const shuffled = shuffleAnswerOptions(original, () => 0);
 
   assert.deepEqual(shuffled.options, { A: "Two", B: "Three", C: "Four", D: "One" });
+  assert.deepEqual(shuffled.optionExplanations, { A:"Second note", D:"First note" });
   assert.equal(shuffled.correctAnswer, "D");
   assert.equal(original.correctAnswer, "A");
   assert.deepEqual(original.options, { A: "One", B: "Two", C: "Three", D: "Four" });

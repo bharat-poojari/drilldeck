@@ -13,16 +13,20 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - One-question-at-a-time examination interface.
 - Answer selection, previous/next navigation, clear response and mark-for-review.
 - Clickable question palette with status indicators.
-- Countdown timer with five-minute and one-minute warnings and automatic submission.
+- Countdown timer with ten-, five- and one-minute warnings and automatic submission.
 - Active-test autosave and resume after refresh, with the original timer deadline preserved.
-- Submission confirmation and a second browser confirmation.
+- Submission confirmation with unanswered/review counts.
+- Fullscreen option, subject-based question navigation and clear-all responses during a mock test.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
 - Dedicated Practice Mode with no timer or negative marking, immediate answer feedback and explanations, bookmarks, and free question navigation.
+- Practice feedback supports authored distractor explanations and important facts, and offers related questions from the same topic when available.
 - Revision Mode is available from the home screen and combines questions answered incorrectly or marked for review in saved test history; the result page also offers a focused revision set.
 - My Revision organizes saved questions into bookmarked, incorrect, unanswered and difficult collections, with subject/topic filters, recent/due/incorrect sorting, retry actions and custom sets saved privately in this browser.
 - Revision scheduling brings incorrect answers back after one day, then spaces correct answers at 1, 3, 7, 14 and 30 day intervals as correct streaks grow. Mark a question mastered to remove it from active revision categories; bookmarks remain until removed.
 - Score, accuracy, attempt rate, subject/topic insights, time analysis and answer review. Preparation insights use saved local test history to track correct/incorrect answers, average time per attempted question, test-to-test accuracy changes and repeatedly missed questions. Strong/weak classifications require at least three attempted questions; smaller samples are labeled insufficient.
 - Complete a date-stable 25-question Daily Drill (10 General Knowledge, 5 Karnataka GK, 5 General Science and 5 Current Affairs), plus focused Karnataka GK and Current Affairs challenges and a Question of the Day.
+- Reveal a date-stable daily fact and practice its question across Karnataka, Constitution, Geography, Science and Current Affairs when matching questions are available.
+- Generate local weak-area practice from saved performance; custom test setup remains syllabus/topic-based and does not claim to reproduce an unverified official paper pattern.
 - Generate daily Karnataka and national current-affairs questions from RSS headlines using Gemini; generated questions are validated as part of the existing question banks and deployed with the normal Vercel Git integration.
 - Track challenge practice days, a private daily streak, weekly activity and monthly practice milestones from locally saved results. A challenge counts as a practice day after attempting at least half its questions; scores and total question volume do not increase streaks.
 - Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
@@ -34,8 +38,10 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Four-step test setup with a unified, expandable subcategory-and-topic selector.
 - Searchable, collapsible topic groups with per-category and global selection controls.
 - Final configuration review with editable sections and server-side validation against the available question bank before a test starts.
-- Explicit opt-in before publishing a score; the global score list shows newest submissions first and never displays email addresses.
+- Explicit opt-in before publishing a score; leaderboard filters support daily, weekly, monthly, paper and subject views, and ranks by score percentage rather than question volume.
 - Public shared chat messages stored in GitHub-backed JSON, with optional display names.
+- Chat users can mute a display name locally or report a public message by email; muted names are only hidden in that browser.
+- The home dashboard prioritizes practice, daily learning, local performance and guest-mode privacy. Official previous-year papers are not represented as available until verified copies are added.
 - Anonymous shared chat and leaderboard publishing; GitHub credentials stay in server-side Vercel environment variables.
 
 ## Run locally

@@ -33,6 +33,18 @@ function validateScore(input) {
       Math.abs(percentageValue - scoreValue / maximum * 100) > 0.1) {
     throw new HttpError(400, "The submitted score is invalid.");
   }
+  const hasAttemptMetrics = input.accuracyPercentage !== undefined ||
+    input.attempted !== undefined || input.totalQuestions !== undefined;
+  const accuracyPercentage = Number(input.accuracyPercentage);
+  const attempted = Number(input.attempted);
+  const totalQuestions = Number(input.totalQuestions);
+  if (hasAttemptMetrics && (
+    !Number.isFinite(accuracyPercentage) || accuracyPercentage < 0 || accuracyPercentage > 100 ||
+    !Number.isInteger(attempted) || attempted < 0 ||
+    !Number.isInteger(totalQuestions) || totalQuestions !== maximum || attempted > totalQuestions
+  )) {
+    throw new HttpError(400, "The submitted attempt metrics are invalid.");
+  }
   if (!["General Knowledge", "General Kannada, English & Computer Knowledge"].includes(input.paper)) {
     throw new HttpError(400, "Choose a valid exam paper.");
   }
@@ -50,7 +62,8 @@ function validateScore(input) {
     scorePercentage: Math.round(percentageValue * 100) / 100,
     paper: input.paper,
     subjects: [...new Set(input.subjects)],
-    name: validateDisplayName(input.name)
+    name: validateDisplayName(input.name),
+    ...(hasAttemptMetrics ? { accuracyPercentage, attempted, totalQuestions } : {})
   };
 }
 
@@ -70,9 +83,11 @@ function canManageScore(score, ownerKey) {
 
 function sortScores(scores) {
   return scores.sort((left, right) =>
-    right.createdAt.localeCompare(left.createdAt) ||
     right.scorePercentage - left.scorePercentage ||
-    right.score - left.score
+    right.score - left.score ||
+    (Number(right.accuracyPercentage) || 0) - (Number(left.accuracyPercentage) || 0) ||
+    (Number(right.attempted) || 0) - (Number(left.attempted) || 0) ||
+    right.createdAt.localeCompare(left.createdAt)
   );
 }
 
@@ -84,10 +99,46 @@ function publicScore(score, rank) {
     score: score.score,
     maximum: score.maximum,
     scorePercentage: score.scorePercentage,
+    ...(Number.isFinite(score.accuracyPercentage) ? { accuracyPercentage: score.accuracyPercentage } : {}),
+    ...(Number.isInteger(score.attempted) ? { attempted: score.attempted } : {}),
+    ...(Number.isInteger(score.totalQuestions) ? { totalQuestions: score.totalQuestions } : {}),
     paper: score.paper,
     subjects: score.subjects,
     createdAt: score.createdAt
   };
+}
+
+function getQueryValue(req, name) {
+  if (typeof req.query?.[name] === "string") return req.query[name];
+  return new URL(req.url || "/", "http://localhost").searchParams.get(name) || "";
+}
+
+function filterScores(scores, req, now = new Date()) {
+  const period = getQueryValue(req, "period") || "all";
+  const paper = getQueryValue(req, "paper");
+  const subject = getQueryValue(req, "subject");
+  if (!["all", "daily", "weekly", "monthly"].includes(period)) {
+    throw new HttpError(400, "Choose a valid leaderboard period.");
+  }
+  if (paper && !["General Knowledge", "General Kannada, English & Computer Knowledge"].includes(paper)) {
+    throw new HttpError(400, "Choose a valid leaderboard paper.");
+  }
+  if (subject && (subject.length > 80 || /[\u0000-\u001f\u007f]/.test(subject))) {
+    throw new HttpError(400, "Choose a valid leaderboard subject.");
+  }
+  const cutoff = period === "daily"
+    ? Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate())
+    : period === "weekly"
+      ? now.getTime() - 7 * 86400000
+      : period === "monthly"
+        ? now.getTime() - 30 * 86400000
+        : null;
+  return scores.filter(score => {
+    const createdAt = Date.parse(score.createdAt);
+    return (!paper || score.paper === paper) &&
+      (!subject || score.subjects?.includes(subject)) &&
+      (cutoff === null || (Number.isFinite(createdAt) && createdAt >= cutoff));
+  });
 }
 
 export default async function handler(req, res) {
@@ -95,7 +146,8 @@ export default async function handler(req, res) {
     if (req.method === "GET") {
       const { data } = await readJsonFile(SCORES_FILE, EMPTY_SCORES);
       if (!data || !Array.isArray(data.scores)) throw new Error("GitHub leaderboard storage must contain a scores array.");
-      const scores = sortScores(data.scores).slice(0, 100).map((score, index) => publicScore(score, index + 1));
+      const scores = sortScores(filterScores(data.scores, req)).slice(0, 100)
+        .map((score, index) => publicScore(score, index + 1));
       return sendJson(res, 200, { scores });
     }
 
@@ -148,6 +200,11 @@ export default async function handler(req, res) {
       score: values.score,
       maximum: values.maximum,
       scorePercentage: values.scorePercentage,
+      ...(values.accuracyPercentage === undefined ? {} : {
+        accuracyPercentage: values.accuracyPercentage,
+        attempted: values.attempted,
+        totalQuestions: values.totalQuestions
+      }),
       paper: values.paper,
       subjects: values.subjects,
       createdAt: new Date().toISOString(),

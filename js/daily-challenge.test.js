@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import {
   challengeMeetsCompletionThreshold,
   getChallengeActivity,
+  selectDailyFacts,
   selectDailyDrill,
   selectQuestionOfTheDay,
   selectSpecialChallenge
@@ -22,6 +23,27 @@ test("the daily question is stable for a local date and advances on the next day
 
 test("daily question selection rejects an empty question bank", () => {
   assert.throws(() => selectQuestionOfTheDay([]), /No questions are available/);
+});
+
+test("daily facts select stable questions for each available learning category", () => {
+  const questions = [
+    { id:"karnataka", datasetId:"General_Knowledge/Karnataka_History.json", question:"Karnataka fact?" },
+    { id:"constitution", datasetId:"General_Knowledge/Indian_Polity.json", topic:"Constitution", question:"A constitutional fact?" },
+    { id:"geography", datasetId:"General_Knowledge/GEOGRAPHY/Earth.json", question:"A geography fact?" },
+    { id:"science", datasetId:"General_Knowledge/GENERAL_SCIENCE/Biology.json", question:"A science fact?" },
+    { id:"current", datasetId:"General_Knowledge/CURRENT AFFAIRS/National_Current_Affairs.json", question:"A current fact?" }
+  ];
+
+  const date = new Date(2026, 10, 4);
+  const facts = selectDailyFacts(questions, date);
+  assert.deepEqual(facts.map(fact => fact.category), [
+    "Karnataka", "Constitution", "Geography", "Science", "Current Affairs"
+  ]);
+  assert.deepEqual(facts.map(fact => fact.question?.id), [
+    "karnataka", "constitution", "geography", "science", "current"
+  ]);
+  assert.deepEqual(selectDailyFacts(questions, date), facts);
+  assert.equal(selectDailyFacts([], date).every(fact => fact.question === null), true);
 });
 
 function makeQuestions(type, count) {

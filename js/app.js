@@ -12,10 +12,13 @@ import {
   challengeMeetsCompletionThreshold,
   getChallengeActivity,
   selectDailyDrill,
+  selectDailyFacts,
   selectQuestionOfTheDay,
   selectSpecialChallenge
 } from "./daily-challenge.js";
 import { createBookmarkStore, selectRevisionQuestionsFromResults } from "./practice.js";
+import { analyzePerformance } from "./performance-insights.js";
+import { renderQuestionExplanation } from "./explanation.js";
 
 const $ = id => document.getElementById(id);
 const views = { home:$("home-view"), "quick-test":$("quick-test-view"), about:$("about-view"), setup:$("setup-view"), exam:$("exam-view"), result:$("result-view") };
@@ -51,8 +54,11 @@ let configurationCheckInProgress = false;
 let currentSetupStep = 1;
 let activeExamSaveTimeout = null;
 let dailyChallengeQuestion = null;
+let dailyFacts = [];
 let dailyChallengeStarting = false;
 let activeChallenge = null;
+let lastTimerRemaining = null;
+const timerWarningsShown = new Set();
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
   '<svg viewBox="0 0 24 24" fill="none"><path d="M4 5.5h16M4 12h16M4 18.5h16M8 3v5M15 9.5v5M10 16v5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>',
@@ -68,6 +74,28 @@ function moveSharedPanels(name) {
   } else if (name === "setup") {
     $("setup-history-anchor").before($("local-history-panel"));
     $("setup-aside-anchor").before($("setup-aside"));
+  }
+  function updateHomepageDashboard(results, error = null) {
+    const summary = $("homepage-progress-summary");
+    const weakSummary = $("weak-area-summary");
+    const weakButton = $("weak-area-practice-button");
+    if (error) {
+      summary.textContent = `Your local progress could not be read: ${error.message}`;
+      weakSummary.textContent = "Weak-area practice is unavailable until local history can be read.";
+      weakButton.disabled = true;
+      return;
+    }
+    const latest = [...results].sort((a, b) => Date.parse(b.submittedAt) - Date.parse(a.submittedAt))[0];
+    summary.textContent = latest
+      ? `Latest: ${latest.paper} · ${Number(latest.accuracyPercentage || 0).toFixed(0)}% accuracy · ${new Date(latest.submittedAt).toLocaleDateString()}. Your history stays on this device.`
+      : "Your completed test history is saved privately in this browser.";
+    const weakTopics = analyzePerformance(results).topics
+      .filter(topic => topic.attempted >= 3 && ["weak", "revision"].includes(topic.status))
+      .slice(0, 3);
+    weakButton.disabled = !weakTopics.length;
+    weakSummary.textContent = weakTopics.length
+      ? `Suggested focus: ${weakTopics.map(topic => `${topic.name} (${topic.accuracy.toFixed(0)}%)`).join(", ")}.`
+      : "Complete at least three questions in a topic to get a useful recommendation.";
   }
 }
 function showView(name) {
@@ -145,6 +173,7 @@ function renderLocalHistory() {
   const status = $("local-data-status");
   try {
     const { results } = resultsStore.getData();
+    updateHomepageDashboard(results);
     if (status.classList.contains("error-message")) status.textContent = "";
     status.classList.remove("error-message");
     if (!results.length) {
@@ -176,6 +205,7 @@ function renderLocalHistory() {
       </li>`;
     }).join("")}</ol>`;
   } catch (error) {
+    updateHomepageDashboard([], error);
     container.innerHTML = '<p class="empty-datasets">Saved test history could not be loaded.</p>';
     status.textContent = error.message;
     status.classList.add("error-message");
@@ -435,6 +465,74 @@ function renderDailyChallenge() {
     renderChallengeActivity(resultsStore.getData().results, today);
   } catch (error) {
     $("challenge-week-summary").textContent = `Weekly activity could not be loaded: ${error.message}`;
+  }
+}
+function renderDailyFacts(date = new Date()) {
+  const container = $("daily-facts-list");
+  try {
+    dailyFacts = selectDailyFacts(bank?.questions || [], date);
+    container.innerHTML = dailyFacts.map(({ category, question }, index) => question
+      ? `<article class="daily-fact-card">
+          <span class="step-label">${escapeHtml(category)}</span>
+          <p class="daily-fact-question">${escapeHtml(question.question)}</p>
+          <details><summary>Reveal answer and fact</summary>
+            <p><strong>${escapeHtml(question.correctAnswer)}. ${escapeHtml(question.options[question.correctAnswer])}</strong></p>
+            <p>${escapeHtml(question.explanation || "No explanation is available for this question.")}</p>
+            ${question.importantFact ? `<p class="daily-fact-extra">${escapeHtml(question.importantFact)}</p>` : ""}
+          </details>
+          <button class="text-button" type="button" data-fact-index="${index}">Practise this question →</button>
+        </article>`
+      : `<article class="daily-fact-card unavailable">
+          <span class="step-label">${escapeHtml(category)}</span>
+          <p>There is no matching fact in the current question bank.</p>
+        </article>`
+    ).join("");
+  } catch (error) {
+    container.innerHTML = `<p class="empty-datasets">Today's facts could not be loaded: ${escapeHtml(error.message)}</p>`;
+  }
+}
+function startFactPractice(index) {
+  const question = dailyFacts[index]?.question;
+  if (!question) return;
+  beginExam([shuffleAnswerOptions(question)], {
+    paper:question.paper === "general-knowledge" ? "General Knowledge" : question.paper,
+    paperId:question.paper,
+    subjects:[question.subject],
+    categories:[question.subject],
+    datasets:[question.datasetId],
+    topics:[question.topic || question.chapter || "General"],
+    difficulty:question.difficulty || "Mixed"
+  }, 0, "setup", "Question of the Day", "practice");
+}
+function startWeakAreaPractice() {
+  if (!bank) return;
+  try {
+    const results = resultsStore.getData().results;
+    const weakTopics = analyzePerformance(results).topics
+      .filter(topic => topic.attempted >= 3 && ["weak", "revision"].includes(topic.status))
+      .slice(0, 3);
+    const topicKeys = new Set(weakTopics.map(topic => `${topic.subject}\u0000${topic.topic}`));
+    const questions = bank.questions.filter(question =>
+      topicKeys.has(`${question.subject}\u0000${question.topic || question.chapter}`)
+    );
+    if (!questions.length) {
+      $("weak-area-summary").textContent = "No weaker topics are available in the current question bank.";
+      return;
+    }
+    const selected = selectRandomQuestions(questions, Math.min(20, questions.length))
+      .map(question => shuffleAnswerOptions(question));
+    const subjects = [...new Set(selected.map(question => question.subject).filter(Boolean))];
+    beginExam(selected, {
+      paper:subjects.length === 1 ? subjects[0] : "Weak Areas",
+      paperId:"weak-area-practice",
+      subjects,
+      categories:subjects,
+      datasets:[...new Set(selected.map(question => question.datasetId))],
+      topics:[...new Set(selected.map(question => question.topic || question.chapter))],
+      difficulty:"Mixed"
+    }, 0, "setup", "Weak-Area Practice", "practice");
+  } catch (error) {
+    $("weak-area-summary").textContent = `Weak-area practice could not be prepared: ${error.message}`;
   }
 }
 function renderChallengeActivity(results, today = new Date()) {
@@ -831,6 +929,7 @@ function restoreActiveExam() {
   $("submit-top").textContent = "Submit test ↗";
   $("exam-total").textContent = examState.questions.length;
   $("exam-max").textContent = examState.questions.length;
+  renderSectionNavigation();
   $("timer-box").classList.remove("warning","critical");
   showView("exam");
   renderQuestion();
@@ -852,6 +951,7 @@ async function initialize() {
     updateQuickTestAvailability();
     updateBookmarkAvailability();
     renderDailyChallenge();
+    renderDailyFacts();
     restoreActiveExam();
   } catch (error) {
     $("bank-count").textContent = "Error";
@@ -978,11 +1078,14 @@ function beginExam(questions, context, duration, returnView, title = "Mock Test"
   $("submit-top").textContent = mode === "exam" ? "Submit test ↗" : "Finish practice";
   $("exam-total").textContent = questions.length;
   $("exam-max").textContent = questions.length;
+  renderSectionNavigation();
   $("timer-box").classList.remove("warning","critical");
   showView("exam");
   visitQuestion(examState, 0);
   renderQuestion();
   if (mode === "exam") {
+    lastTimerRemaining = null;
+    timerWarningsShown.clear();
     timer = createTimer({
       durationSeconds,
       onTick:updateTimer,
@@ -1043,9 +1146,20 @@ function startSavedRevision() {
 
 function updateTimer(remaining) {
   $("timer-display").textContent = formatTime(remaining);
-  $("timer-box").classList.toggle("warning", remaining <= 300 && remaining > 60);
+  $("timer-box").classList.toggle("warning", remaining <= 600 && remaining > 60);
   $("timer-box").classList.toggle("critical", remaining <= 60);
-  if (remaining === 300 || remaining === 60) toast(remaining === 300 ? "Five minutes remaining." : "One minute remaining.");
+  for (const [threshold, message] of [
+    [600, "Ten minutes remaining."],
+    [300, "Five minutes remaining."],
+    [60, "One minute remaining."]
+  ]) {
+    if (lastTimerRemaining !== null && lastTimerRemaining > threshold && remaining <= threshold &&
+        !timerWarningsShown.has(threshold)) {
+      timerWarningsShown.add(threshold);
+      toast(message);
+    }
+  }
+  lastTimerRemaining = remaining;
 }
 
 function renderQuestion() {
@@ -1073,9 +1187,18 @@ function renderQuestion() {
   const feedback = $("practice-feedback");
   if (activeMode !== "exam" && answer.selected) {
     const correct = answer.selected === q.correctAnswer;
-    const sourceUrl = typeof q.source === "string" && /^https?:\/\//i.test(q.source) ? q.source : "";
+    const relatedQuestions = getRelatedQuestions(q);
+    const relatedMarkup = relatedQuestions.length
+      ? `<div class="related-practice">
+          <strong>Related questions</strong>
+          <ul>${relatedQuestions.slice(0, 3).map(question => `<li>${escapeHtml(question.question)}</li>`).join("")}</ul>
+          <button class="text-button" type="button" data-related-practice data-related-subject="${escapeHtml(q.subject)}" data-related-topic="${escapeHtml(q.topic || q.chapter || "")}">
+            Practise ${Math.min(relatedQuestions.length, 20)} related questions →
+          </button>
+        </div>`
+      : "";
     feedback.classList.toggle("incorrect", !correct);
-    feedback.innerHTML = `<strong>${correct ? "Correct" : `Not quite. The correct answer is ${q.correctAnswer}.`}</strong><p>${escapeHtml(q.explanation || "No explanation is available for this question.")}</p>${q.source ? `<small>Source: ${sourceUrl ? `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(q.source)}</a>` : escapeHtml(q.source)}</small>` : ""}`;
+    feedback.innerHTML = `<strong>${correct ? "Correct" : `Not quite. The correct answer is ${q.correctAnswer}.`}</strong>${renderQuestionExplanation(q)}${relatedMarkup}`;
     feedback.classList.remove("hidden");
   } else {
     feedback.innerHTML = "";
@@ -1100,11 +1223,48 @@ function renderQuestion() {
   updatePaletteSummary();
   persistActiveExam();
 }
+function getRelatedQuestions(question) {
+  const topic = question.topic || question.chapter || "";
+  if (!bank || !topic) return [];
+  return bank.questions.filter(candidate =>
+    candidate.id !== question.id &&
+    candidate.subject === question.subject &&
+    (candidate.topic || candidate.chapter || "") === topic
+  );
+}
+function startRelatedTopicPractice(subject, topic) {
+  const questions = bank?.questions.filter(question =>
+    question.subject === subject && (question.topic || question.chapter || "") === topic
+  ) || [];
+  if (!questions.length) {
+    toast("No related questions are available in this topic yet.");
+    return;
+  }
+  const selected = selectRandomQuestions(questions, Math.min(20, questions.length))
+    .map(question => shuffleAnswerOptions(question));
+  beginExam(selected, {
+    paper:subject,
+    paperId:selected[0].paper || "general-knowledge",
+    subjects:[subject],
+    categories:[subject],
+    datasets:[...new Set(selected.map(question => question.datasetId))],
+    topics:[topic],
+    difficulty:"Mixed"
+  }, 0, "setup", `${topic} Practice`, "practice");
+}
 function renderPalette() {
   $("question-palette").innerHTML = examState.answers.map((answer,index) => {
     const status = getQuestionStatus(answer);
     return `<button type="button" class="palette-number ${status} ${index===examState.currentIndex?"current":""}" data-index="${index}" aria-label="Go to question ${index+1}, ${status}" aria-current="${index===examState.currentIndex?"step":"false"}">${index+1}</button>`;
   }).join("");
+}
+function renderSectionNavigation() {
+  const select = $("exam-section-select");
+  const subjects = [...new Set(examState.questions.map(question => question.subject).filter(Boolean))];
+  select.innerHTML = `<option value="">All subjects</option>${subjects.map(subject =>
+    `<option value="${escapeHtml(subject)}">${escapeHtml(subject)}</option>`
+  ).join("")}`;
+  select.closest(".exam-section-picker").classList.toggle("hidden", subjects.length < 2);
 }
 function updatePaletteSummary() {
   const answers = examState.answers;
@@ -1249,6 +1409,9 @@ async function finalizeExam(autoSubmitted = false) {
     score:metrics.score,
     maximum:metrics.maximum,
     scorePercentage:metrics.scorePercentage,
+    accuracyPercentage:metrics.accuracy,
+    attempted:metrics.attempted,
+    totalQuestions:metrics.total,
     paper:examContext.paper,
     subjects:examContext.subjects,
     ownerKey:result.guestId
@@ -1409,6 +1572,10 @@ document.querySelectorAll('input[name="session-mode"]').forEach(input =>
   input.addEventListener("change", updateSessionModeUI)
 );
 $("previous-button").addEventListener("click",()=>{if(examState.currentIndex>0)moveTo(examState.currentIndex-1)});
+$("exam-section-select").addEventListener("change", event => {
+  const index = examState?.questions.findIndex(question => question.subject === event.target.value) ?? -1;
+  if (index >= 0) moveTo(index);
+});
 $("next-button").addEventListener("click",()=>{
   if(examState.currentIndex<examState.questions.length-1) moveTo(examState.currentIndex+1);
   else openSubmitModal();
@@ -1428,6 +1595,23 @@ $("bookmark-question-button").addEventListener("click",()=>{
 });
 $("practice-bookmarks-button").addEventListener("click",startBookmarkedPractice);
 $("clear-button").addEventListener("click",()=>{clearAnswer(examState,examState.currentIndex);renderQuestion();toast("Response cleared.")});
+$("clear-all-button").addEventListener("click",()=>{
+  if (!examState || !window.confirm("Clear all selected answers? Review flags will be kept.")) return;
+  examState.answers.forEach((answer,index) => clearAnswer(examState,index));
+  renderQuestion();
+  toast("All responses cleared.");
+});
+$("fullscreen-button").addEventListener("click",async()=>{
+  try {
+    if (document.fullscreenElement) await document.exitFullscreen();
+    else await $("exam-view").requestFullscreen();
+  } catch (error) {
+    toast(`Fullscreen is unavailable: ${error.message}`);
+  }
+});
+document.addEventListener("fullscreenchange",()=>{
+  $("fullscreen-button").textContent = document.fullscreenElement ? "Exit fullscreen" : "Enter fullscreen";
+});
 $("question-palette").addEventListener("click",event=>{
   const button=event.target.closest("[data-index]");
   if(button) moveTo(Number(button.dataset.index));
@@ -1443,7 +1627,7 @@ $("modal-close").addEventListener("click",closeSubmitModal);
 $("modal-return").addEventListener("click",closeSubmitModal);
 $("submit-modal").addEventListener("click",event=>{if(event.target===$("submit-modal"))closeSubmitModal()});
 $("modal-confirm").addEventListener("click",()=>{
-  if(activeMode !== "exam" || window.confirm("Final confirmation: submit this test and lock all answers?")) finalizeExam(false);
+  finalizeExam(false);
 });
 $("palette-toggle").addEventListener("click",()=>{
   const panel=$("palette-toggle").closest(".palette-panel");
@@ -1519,6 +1703,12 @@ document.addEventListener("click",event=>{
     return;
   }
   const target = link.dataset.menuTarget;
+  if (target === "home-section") {
+    showView("home");
+    const section = $(link.dataset.targetId);
+    if (section) section.scrollIntoView({ behavior:"smooth", block:"start" });
+    return;
+  }
   if (target === "home" || target === "quick-test") {
     showView(target);
     return;
@@ -1543,6 +1733,15 @@ document.addEventListener("keydown",event=>{
 document.addEventListener("click",event=>{
   if(!event.target.closest(".topbar")) closeMainMenu();
 });
+$("daily-facts-list").addEventListener("click", event => {
+  const button = event.target.closest("[data-fact-index]");
+  if (button) startFactPractice(Number(button.dataset.factIndex));
+});
+$("practice-feedback").addEventListener("click",event=>{
+  const button = event.target.closest("[data-related-practice]");
+  if (button) startRelatedTopicPractice(button.dataset.relatedSubject,button.dataset.relatedTopic);
+});
+$("weak-area-practice-button").addEventListener("click",startWeakAreaPractice);
 document.addEventListener("keydown",event=>{
   if(views.exam.classList.contains("hidden")||!examState||examState.submitted||!$("submit-modal").classList.contains("hidden"))return;
   if(event.altKey||event.ctrlKey||event.metaKey||event.target.closest("input, textarea, select, [contenteditable='true']"))return;

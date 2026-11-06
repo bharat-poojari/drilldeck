@@ -120,6 +120,7 @@
   <link rel="stylesheet" href="css/performance-insights.css">
   <link rel="stylesheet" href="css/daily-challenge.css">
   <link rel="stylesheet" href="css/revision.css">
+  <link rel="stylesheet" href="css/dashboard.css">
 </head>
 <body>
   <div class="app-shell">
@@ -133,10 +134,11 @@
       </button>
       <nav class="main-nav" id="main-nav" aria-label="Main navigation">
         <a href="#home-view" data-menu-target="home">Home</a>
-        <a href="#quick-test-view" data-menu-target="quick-test">Quick test</a>
-        <a href="#my-revision" data-menu-target="my-revision">My Revision</a>
-        <a href="#setup-panel" data-menu-target="custom-test">Custom test</a>
-        <a href="#about-view" data-menu-target="about">About</a>
+        <a href="#quick-test-view" data-menu-target="quick-test">Practice</a>
+        <a href="#setup-view" data-menu-target="custom-test">Mock Tests</a>
+        <a href="#previous-papers" data-menu-target="home-section" data-target-id="previous-papers">Previous Papers</a>
+        <a href="#current-affairs-practice" data-menu-target="home-section" data-target-id="current-affairs-practice">Current Affairs</a>
+        <a href="#my-progress" data-menu-target="home-section" data-target-id="my-progress">My Progress</a>
       </nav>
       <div class="topbar-right">
         <span class="status-pill"><span class="status-dot"></span> Flexible practice</span>
@@ -150,8 +152,12 @@
           <div class="hero-copy">
             <div class="eyebrow"><span class="eyebrow-line"></span> MADE FOR KARNATAKA STATE-LEVEL EXAMS <span class="eyebrow-line"></span></div>
             <div class="hero-keywords"><span>GENERAL KNOWLEDGE</span><span>CURRENT AFFAIRS</span><span>GENERAL SCIENCE · GEOGRAPHY</span></div>
-            <h1>Practice for KEA FDA &amp; SDA, <span>one topic at a time.</span></h1>
+            <h1>Prepare smarter for KEA examinations, <span>one topic at a time.</span></h1>
             <p>Build a free Karnataka exam practice test from available subjects, focus on the topics you choose, and review each attempt.</p>
+            <div class="hero-actions">
+              <a class="button button-primary" href="#quick-test-view" data-menu-target="quick-test">Start practising <span aria-hidden="true">→</span></a>
+              <span class="guest-mode-note">Continue as guest · No registration required</span>
+            </div>
           </div>
           <div class="home-subjects" aria-label="Available subjects">
             <span class="home-subjects-label">PRACTICE YOUR WAY THROUGH</span>
@@ -172,7 +178,7 @@
             <button class="button button-primary" id="daily-drill-start" type="button" disabled>Start today's drill <span aria-hidden="true">→</span></button>
           </div>
           <p id="daily-challenge-error" role="alert"></p>
-          <div class="daily-challenge-options" aria-label="More daily challenges">
+          <div class="daily-challenge-options" id="current-affairs-practice" aria-label="More daily challenges">
             <button class="challenge-option" id="karnataka-challenge-start" type="button" disabled>
               <span class="challenge-option-icon" aria-hidden="true">K</span>
               <span><strong>Karnataka GK</strong><small>10 questions · 10 minutes</small></span>
@@ -198,6 +204,35 @@
             <div id="challenge-week" class="challenge-week" aria-label="Weekly completed practice days"></div>
             <p id="challenge-week-summary" class="challenge-week-summary" role="status" aria-live="polite">Complete a challenge to start your weekly activity.</p>
           </section>
+        </section>
+        <section class="panel daily-facts-panel" aria-labelledby="daily-facts-title">
+          <div class="section-heading">
+            <div><span class="step-label">FIVE MINUTES OF LEARNING</span><h2 id="daily-facts-title">Today's important facts</h2></div>
+            <span class="revision-private-note">Question bank facts · verify time-sensitive updates</span>
+          </div>
+          <div id="daily-facts-list" class="daily-facts-grid" aria-live="polite">
+            <p class="empty-datasets">Loading today's facts…</p>
+          </div>
+        </section>
+        <section class="home-dashboard-grid" aria-label="Your practice dashboard">
+          <article class="panel dashboard-progress-card" id="my-progress">
+            <span class="step-label">YOUR PERFORMANCE</span>
+            <h2>Progress that stays yours</h2>
+            <p id="homepage-progress-summary">Your completed test history is saved privately in this browser.</p>
+            <a class="button button-outline" href="#my-revision" data-menu-target="home-section" data-target-id="my-revision">Review my progress <span aria-hidden="true">→</span></a>
+          </article>
+          <article class="panel dashboard-weak-card">
+            <span class="step-label">PERSONALISED PRACTICE</span>
+            <h2>Work on a weaker area</h2>
+            <p id="weak-area-summary">Answer a few questions first to get a useful topic recommendation.</p>
+            <button class="button button-outline" id="weak-area-practice-button" type="button" disabled>Practise weak areas <span aria-hidden="true">→</span></button>
+          </article>
+          <article class="panel dashboard-papers-card" id="previous-papers">
+            <span class="step-label">PAPER ARCHIVE</span>
+            <h2>Previous-year papers</h2>
+            <p>Verified official past papers are not available in the current library. Use configurable mock tests for practice, and check official KEA publications for released papers and exam patterns.</p>
+            <a class="button button-outline" href="/mock-tests/">Explore mock tests <span aria-hidden="true">↗</span></a>
+          </article>
         </section>
         <section class="mode-cards" aria-label="Choose an exam mode">
           <article class="mode-card quick-mode-card">
@@ -229,6 +264,11 @@
             <button class="button button-outline" id="revision-mode-button" type="button" disabled>Start revision <span aria-hidden="true">→</span></button>
             <p class="revision-mode-status" id="revision-mode-status" role="status" aria-live="polite"></p>
           </article>
+        </section>
+        <section class="guest-data-note panel" aria-label="Guest mode and data privacy">
+          <div><span class="step-label">GUEST MODE</span><h2>No account needed</h2>
+            <p>Your test history, bookmarks, streaks and interrupted exam are kept in this browser. Export a JSON backup to move your data; cross-device sign-in and cloud sync are not enabled.</p></div>
+          <a class="button button-outline" href="#setup-view" data-menu-target="custom-test">Open My Test History</a>
         </section>
         <section class="panel my-revision-panel" id="my-revision" aria-labelledby="my-revision-title">
           <div class="section-heading revision-section-heading">
@@ -607,7 +647,8 @@
             </div>
             <section class="panel community-panel" aria-labelledby="community-title">
               <div class="section-heading"><div><span class="step-label">COMMUNITY</span><h2 id="community-title">Chat</h2></div></div>
-              <p class="community-note">A shared space for everyone. Keep messages kind and relevant.</p>
+              <p class="community-note">Keep it kind, relevant and free of personal details. Use Report to flag a message; Mute hides a name on this device.</p>
+              <button class="text-button hidden" id="unmute-community-button" type="button">Unmute all visitors</button>
               <div class="community-messages" id="community-messages" aria-live="polite"><p class="empty-datasets">Loading messages…</p></div>
               <form class="community-form" id="community-form">
                 <label class="sr-only" for="community-name">Name (optional)</label>
@@ -620,7 +661,12 @@
             </section>
             <section class="panel leaderboard-panel">
               <div class="section-heading"><div><span class="step-label">GLOBAL SCORES</span><h2>Top scores</h2></div></div>
-              <p class="leaderboard-note">Published scores are visible to everyone. Emails are kept private.</p>
+              <p class="leaderboard-note">Published scores are visible to everyone. Ranked by score percentage, not question volume.</p>
+              <div class="leaderboard-filters" aria-label="Filter leaderboard">
+                <label>Period<select data-leaderboard-filter="period"><option value="all">All time</option><option value="daily">Daily</option><option value="weekly">Weekly</option><option value="monthly">Monthly</option></select></label>
+                <label>Paper<select data-leaderboard-filter="paper"><option value="">All papers</option><option value="General Knowledge">General Knowledge</option><option value="General Kannada, English &amp; Computer Knowledge">Combined paper</option></select></label>
+                <label>Subject<select data-leaderboard-filter="subject"><option value="">All subjects</option><option>Current Affairs</option><option>General Science</option><option>Geography</option><option>General Knowledge</option><option>Kannada</option><option>English</option><option>Computer</option></select></label>
+              </div>
               <div id="leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
             </section>
           </aside>
@@ -635,9 +681,15 @@
           <button class="button button-submit" id="submit-top">Submit test <span>↗</span></button>
         </div>
         <p id="exam-save-status" class="exam-save-status" role="status" aria-live="polite"></p>
+        <div class="exam-utility-actions">
+          <button class="button button-outline" id="fullscreen-button" type="button">Enter fullscreen</button>
+        </div>
         <div class="exam-layout">
           <section class="panel question-panel">
-            <div class="question-toolbar"><div><span class="question-number-label">QUESTION <b id="current-number">01</b></span><span class="question-subject" id="current-subject">GENERAL KNOWLEDGE</span><span class="keyboard-shortcut-hint">←/→ navigate · 1–4 answer</span></div><span class="mark-chip">+1 <i>·</i> −0.25</span></div>
+            <div class="question-toolbar"><div><span class="question-number-label">QUESTION <b id="current-number">01</b></span><span class="question-subject" id="current-subject">GENERAL KNOWLEDGE</span><span class="keyboard-shortcut-hint">←/→ navigate · A–D or 1–4 answer</span></div><span class="mark-chip">+1 <i>·</i> −0.25</span></div>
+            <label class="exam-section-picker" for="exam-section-select">Jump to subject
+              <select id="exam-section-select" aria-label="Jump to subject section"><option value="">All subjects</option></select>
+            </label>
             <div class="question-progress"><span id="progress-fill"></span></div>
             <div class="question-content">
               <div class="question-tags"><span id="question-topic">Indian Geography</span><span id="question-difficulty">Easy</span></div>
@@ -647,7 +699,7 @@
             </div>
             <div class="question-actions">
               <button class="button button-ghost" id="previous-button" type="button">← Previous</button>
-              <div class="action-middle"><button class="button button-review" id="review-button" type="button">☆ Mark for review</button><button class="button button-bookmark" id="bookmark-question-button" type="button" aria-pressed="false">☆ Bookmark</button><button class="button button-ghost clear-button" id="clear-button" type="button">Clear response</button></div>
+              <div class="action-middle"><button class="button button-review" id="review-button" type="button">☆ Mark for review</button><button class="button button-bookmark" id="bookmark-question-button" type="button" aria-pressed="false">☆ Bookmark</button><button class="button button-ghost clear-button" id="clear-button" type="button">Clear response</button><button class="button button-ghost clear-button" id="clear-all-button" type="button">Clear all</button></div>
               <button class="button button-primary" id="next-button" type="button">Save &amp; Next →</button>
             </div>
           </section>
@@ -724,6 +776,11 @@
           <p id="score-publish-status" class="score-publish-status" role="status">Preparing your score…</p>
           <p id="local-save-status" class="local-save-status" role="status" aria-live="polite"></p>
           <button class="button button-outline retry-publish hidden" id="retry-publish" type="button">Retry publishing score</button>
+          <div class="leaderboard-filters" aria-label="Filter leaderboard">
+            <label>Period<select data-leaderboard-filter="period"><option value="all">All time</option><option value="daily">Daily</option><option value="weekly">Weekly</option><option value="monthly">Monthly</option></select></label>
+            <label>Paper<select data-leaderboard-filter="paper"><option value="">All papers</option><option value="General Knowledge">General Knowledge</option><option value="General Kannada, English &amp; Computer Knowledge">Combined paper</option></select></label>
+            <label>Subject<select data-leaderboard-filter="subject"><option value="">All subjects</option><option>Current Affairs</option><option>General Science</option><option>Geography</option><option>General Knowledge</option><option>Kannada</option><option>English</option><option>Computer</option></select></label>
+          </div>
           <div id="result-leaderboard-list" aria-live="polite"><p class="empty-datasets">Loading global scores…</p></div>
         </section>
         <div class="result-actions"><button class="button button-primary" id="retake-button">↻ Take another test</button><button class="button button-outline hidden" id="wrong-revision-button" type="button">Revise incorrect / marked</button><button class="button button-outline" id="print-button">Print result</button></div>

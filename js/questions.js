@@ -248,6 +248,15 @@ export function shuffleAnswerOptions(question, random = Math.random) {
   return {
     ...question,
     options: Object.fromEntries(keys.map((key, index) => [["A", "B", "C", "D"][index], question.options[key]])),
+    ...(question.optionExplanations && typeof question.optionExplanations === "object"
+      ? {
+        optionExplanations:Object.fromEntries(keys.flatMap((key, index) =>
+          Object.hasOwn(question.optionExplanations, key)
+            ? [[["A", "B", "C", "D"][index], question.optionExplanations[key]]]
+            : []
+        ))
+      }
+      : {}),
     correctAnswer: ["A", "B", "C", "D"][correctIndex]
   };
 }

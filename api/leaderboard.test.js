@@ -62,17 +62,36 @@ test("leaderboard requires explicit consent and supports private owner controls"
       headers:{ origin:"https://drilldeck.example", host:"drilldeck.example" },
       body:{
         id, publishConsent:true, ownerKey, name:"Practice student", score:8, maximum:10,
-        scorePercentage:80, paper:"General Knowledge", subjects:["History"]
+        scorePercentage:80, accuracyPercentage:80, attempted:8, totalQuestions:10,
+        paper:"General Knowledge", subjects:["History"]
       }
     });
     assert.equal(published.statusCode, 201);
     assert.equal(storedContent.scores.length, 1);
     assert.notEqual(storedContent.scores[0].ownerKeyHash, ownerKey);
+    assert.equal(storedContent.scores[0].attempted, 8);
     assert.equal(JSON.parse(published.body).score.name, "Practice student");
 
     const publicList = await callHandler({ method:"GET", headers:{} });
     assert.equal(publicList.statusCode, 200);
     assert.equal(JSON.stringify(publicList.body).includes("ownerKeyHash"), false);
+    assert.equal(JSON.parse(publicList.body).scores[0].accuracyPercentage, 80);
+
+    const filteredList = await callHandler({
+      method:"GET",
+      url:"/api/leaderboard?period=daily&paper=General%20Knowledge&subject=History",
+      headers:{}
+    });
+    assert.equal(filteredList.statusCode, 200);
+    assert.equal(JSON.parse(filteredList.body).scores.length, 1);
+    assert.equal(JSON.parse(filteredList.body).scores[0].attempted, 8);
+
+    const invalidPeriod = await callHandler({
+      method:"GET",
+      url:"/api/leaderboard?period=yearly",
+      headers:{}
+    });
+    assert.equal(invalidPeriod.statusCode, 400);
 
     const deniedRename = await callHandler({
       method:"PATCH",

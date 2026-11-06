@@ -87,6 +87,28 @@ export function selectQuestionOfTheDay(questions, date = new Date()) {
   return questions[((dayNumber % questions.length) + questions.length) % questions.length];
 }
 
+export function selectDailyFacts(questions, date = new Date()) {
+  if (!Array.isArray(questions)) throw new Error("The question bank is unavailable for today's facts.");
+  const dateKey = localDateKey(date);
+  const isConstitution = question =>
+    /constitution|fundamental rights|directive principles|article \d+|indian polity/i.test(
+      `${datasetPath(question)} ${question.topic || ""} ${question.chapter || ""} ${question.question || ""}`
+    );
+  const groups = [
+    ["Karnataka", questions.filter(question => isKarnataka(question) && !isCurrentAffairs(question))],
+    ["Constitution", questions.filter(isConstitution)],
+    ["Geography", questions.filter(question => /geography/.test(datasetPath(question)))],
+    ["Science", questions.filter(isScience)],
+    ["Current Affairs", questions.filter(isCurrentAffairs)]
+  ];
+  return groups.map(([category, pool]) => ({
+    category,
+    question:pool.length
+      ? seededShuffle(pool, `${dateKey}:fact:${category}`)[0]
+      : null
+  }));
+}
+
 export function selectDailyDrill(questions, date = new Date()) {
   if (!Array.isArray(questions)) throw new Error("The question bank is unavailable for today's drill.");
   const dateKey = localDateKey(date);

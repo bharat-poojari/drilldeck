@@ -1,6 +1,7 @@
 import { formatTime } from "./timer.js";
 import { selectRevisionQuestions } from "./practice.js";
 import { analyzePerformance, MINIMUM_PERFORMANCE_SAMPLE } from "./performance-insights.js";
+import { renderQuestionExplanation } from "./explanation.js";
 
 const $ = (id) => document.getElementById(id);
 const safe = (value) => String(value ?? "").replace(/[&<>"']/g, ch => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[ch]));
@@ -165,12 +166,10 @@ function renderAnswerReview(questions, answers, filter) {
       return `<div class="${classes.join(" ")}">${key}. ${safe(q.options[key])}${note}</div>`;
     }).join("");
     const selectedLabel = selected ? `${selected}. ${safe(q.options[selected])}` : "Not attempted";
-    const sourceUrl = typeof q.source === "string" && /^https?:\/\//i.test(q.source) ? q.source : "";
     return `<details class="review-question">
       <summary><span class="review-q-number">${index+1}</span><span class="review-q-title">${safe(q.question)}</span><span class="review-status ${status}">${label}</span><span class="review-chevron">⌄</span></summary>
       <div class="review-body"><div class="review-options">${options}</div>
-        <div class="review-explanation"><strong>Your answer: ${selectedLabel}</strong>${safe(q.explanation || "No explanation provided in the question bank.")}</div>
-        ${sourceUrl ? `<div class="review-source">Source: <a href="${safe(sourceUrl)}" target="_blank" rel="noopener noreferrer">${safe(sourceUrl)}</a></div>` : ""}
+        <div class="review-explanation"><strong>Your answer: ${selectedLabel}</strong>${renderQuestionExplanation(q)}</div>
       </div>
     </details>`;
   }).join("");

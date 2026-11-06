@@ -77,8 +77,20 @@ test("revision filtering supports subject, topic, search, collection, and sort o
     }),
     makeResult({
       date:"2026-11-03T10:00:00.000Z",
-      answers:[{ selected:"A" }, { selected:"B" }]
-    })
+      answers:[{ selected:"B" }, { selected:"B" }]
+    }),
+    {
+      submittedAt:"2026-11-04T10:00:00.000Z",
+      questions:[{
+        id:"Q2",
+        question:"Question 2?",
+        correctAnswer:"A",
+        subject:"History",
+        topic:"Ancient History",
+        options:{ A:"Right", B:"Wrong", C:"Other", D:"Another" }
+      }],
+      answers:[{ selected:"A" }]
+    }
   ];
   const items = getRevisionItems(results, { bookmarkedIds:["Q2"], now:new Date("2026-11-04T10:00:00.000Z") });
 

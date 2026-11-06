@@ -2,17 +2,17 @@
   <title id="title">DrillDeck</title>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#6477ff"/>
-      <stop offset="1" stop-color="#3544bb"/>
+      <stop offset="0" stop-color="#20B8A6"/>
+      <stop offset="1" stop-color="#111C2E"/>
     </linearGradient>
     <linearGradient id="page" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#fff"/>
-      <stop offset="1" stop-color="#e4e9ff"/>
+      <stop offset="1" stop-color="#E2E8F0"/>
     </linearGradient>
   </defs>
   <rect x="4" y="4" width="120" height="120" rx="34" fill="url(#background)"/>
   <path d="M29 36c13-6 25-4 35 3v55c-10-7-22-9-35-3V36Z" fill="url(#page)"/>
-  <path d="M99 36c-13-6-25-4-35 3v55c10-7 22-9 35-3V36Z" fill="#cbd3ff"/>
-  <path d="M38 52h15M38 64h15M38 76h12M75 52h15M75 64h15M75 76h12" fill="none" stroke="#4556c8" stroke-linecap="round" stroke-width="5"/>
-  <path d="m51 88 8 8 18-21" fill="none" stroke="#23bd91" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+  <path d="M99 36c-13-6-25-4-35 3v55c10-7 22-9 35-3V36Z" fill="#CBD5E1"/>
+  <path d="M38 52h15M38 64h15M38 76h12M75 52h15M75 64h15M75 76h12" fill="none" stroke="#1E293B" stroke-linecap="round" stroke-width="5"/>
+  <path d="m51 88 8 8 18-21" fill="none" stroke="#20B8A6" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
 </svg>

@@ -13,6 +13,10 @@ const allowedRootFolders = new Set([
   "English",
   "Computer"
 ]);
+const optionalEmptyDatasets = new Set([
+  "General_Knowledge/CURRENT AFFAIRS/today_current_affair.json",
+  "General_Knowledge/CURRENT AFFAIRS/permanent_current_affairs.json"
+]);
 
 async function findJsonFiles(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -35,7 +39,7 @@ const datasets = (await Promise.all(roots.map(entry => findJsonFiles(join(dataRo
 
 if (!datasets.length) throw new Error("No JSON question datasets found under supported data folders.");
 
-await Promise.all(datasets.map(async relativePath => {
+const includeDataset = await Promise.all(datasets.map(async relativePath => {
   const filePath = join(dataRoot, relativePath);
   let data;
   try {
@@ -43,7 +47,11 @@ await Promise.all(datasets.map(async relativePath => {
   } catch (error) {
     throw new Error(`Invalid JSON in question dataset "${relativePath}": ${error.message}`, { cause: error });
   }
-  if (!data || !Array.isArray(data.questions) || !data.questions.length) {
+  if (!data || !Array.isArray(data.questions)) {
+    throw new Error(`Question dataset "${relativePath}" must contain a questions array.`);
+  }
+  if (!data.questions.length && optionalEmptyDatasets.has(relativePath)) return false;
+  if (!data.questions.length) {
     throw new Error(`Question dataset "${relativePath}" must contain a non-empty questions array.`);
   }
   const validation = validateDataset(data, { path: relativePath, title: relativePath });
@@ -65,10 +73,12 @@ await Promise.all(datasets.map(async relativePath => {
       (samples ? ` Sample repeated-prompt ID pairs: ${samples}.` : "")
     );
   }
+  return true;
 }));
+const indexedDatasets = datasets.filter((_, index) => includeDataset[index]);
 
 const manifestPath = join(dataRoot, "datasets.json");
-await writeFile(manifestPath, `${JSON.stringify({ datasets }, null, 2)}\n`, "utf8");
+await writeFile(manifestPath, `${JSON.stringify({ datasets: indexedDatasets }, null, 2)}\n`, "utf8");
 
 await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
@@ -95,4 +105,4 @@ await Promise.all([
       !source.toLowerCase().endsWith(".test.js")
   })
 ));
-console.log(`Indexed ${datasets.length} question dataset(s) and assembled ${relative(projectRoot, outputRoot)}.`);
+console.log(`Indexed ${indexedDatasets.length} question dataset(s) and assembled ${relative(projectRoot, outputRoot)}.`);

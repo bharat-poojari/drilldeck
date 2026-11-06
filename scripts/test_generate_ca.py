@@ -2,7 +2,7 @@ import json
 import os
 import tempfile
 import unittest
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from io import BytesIO
 from pathlib import Path
 from urllib.error import HTTPError
@@ -10,182 +10,209 @@ from unittest import mock
 
 from scripts import generate_ca
 from scripts.generate_ca import (
+    archive_previous_daily,
     build_question_records,
-    generate_questions,
-    parse_feed,
-    select_new_articles,
+    extract_interaction_response,
+    generate_daily_questions,
     validate_generated_content,
 )
 
 
-class GenerateCurrentAffairsTests(unittest.TestCase):
-    def test_parse_feed_strips_html_from_news_excerpt(self):
-        entries = parse_feed(
-            b"""<rss><channel><item><title>News &amp; update</title>
-            <link>https://example.com/news</link>
-            <pubDate>Wed, 04 Nov 2026 18:30:00 GMT</pubDate>
-            <description><![CDATA[<p>A new <b>scheme</b> was announced.</p>]]></description>
-            </item></channel></rss>"""
-        )
-        self.assertEqual(len(entries), 1)
-        self.assertEqual(entries[0]["title"], "News & update")
-        self.assertEqual(entries[0]["summary"], "A new scheme was announced.")
-        self.assertEqual(entries[0]["published_date"], "2026-11-05")
-
-    def test_article_selection_skips_saved_and_repeated_urls(self):
-        article = {
-            "title": "New scheme",
-            "link": "https://example.com/news",
-            "summary": "Details",
-            "published_date": "2026-11-05",
-        }
-        selected = select_new_articles(
-            [
-                article,
-                article,
-                {
-                    "title": "Other",
-                    "link": "https://example.com/other",
-                    "summary": "Details",
-                    "published_date": "2026-11-05",
-                },
-            ],
-            [{"sourceUrl": article["link"]}],
-            2,
-            "2026-11-05",
-        )
-        self.assertEqual([item["title"] for item in selected], ["Other"])
-
-    def test_article_selection_only_includes_articles_published_today(self):
-        entries = [
+def generated_questions(today, count=10, source_url="https://example.com/news"):
+    return {
+        "questions": [
             {
-                "title": "Yesterday",
-                "link": "https://example.com/yesterday",
-                "summary": "Older news",
-                "published_date": "2026-11-04",
-            },
-            {
-                "title": "Undated",
-                "link": "https://example.com/undated",
-                "summary": "No publication date",
-                "published_date": None,
-            },
-            {
-                "title": "Today",
-                "link": "https://example.com/today",
-                "summary": "Today's news",
-                "published_date": "2026-11-05",
-            },
+                "question_text": f"Current affairs question {index}?",
+                "topic": "National Governance",
+                "options": ["Option A", "Option B", "Option C", "Option D"],
+                "correct_option_index": index % 4,
+                "difficulty": "Medium",
+                "explanation": "The cited report states this fact.",
+                "news_date": today,
+                "news_title": f"Current event {index}",
+                "news_summary": f"A concise report of current event {index}.",
+                "source_url": source_url,
+            }
+            for index in range(count)
         ]
-        selected = select_new_articles(entries, [], 2, "2026-11-05")
-        self.assertEqual([item["title"] for item in selected], ["Today"])
+    }
 
-    def test_main_runs_without_network_when_feeds_are_empty(self):
-        with tempfile.TemporaryDirectory() as directory:
-            data_dir = Path(directory)
-            for _, _, filename in generate_ca.FEEDS:
-                (data_dir / filename).write_text(
-                    json.dumps({"questions": []}), encoding="utf-8"
-                )
-            with (
-                mock.patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}),
-                mock.patch.object(generate_ca, "DATA_DIR", data_dir),
-                mock.patch.object(
-                    generate_ca,
-                    "fetch_url",
-                    return_value=b"<rss><channel></channel></rss>",
-                ) as fetch,
-            ):
-                generate_ca.main()
-            self.assertEqual(fetch.call_count, len(generate_ca.FEEDS))
 
-    def test_main_generates_and_saves_questions_from_today_feeds(self):
+def interaction_response(generated, source_url="https://example.com/news"):
+    return {
+        "steps": [
+            {
+                "type": "model_output",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": json.dumps(generated),
+                        "annotations": [
+                            {
+                                "type": "url_citation",
+                                "url": source_url,
+                                "title": "Example news",
+                            }
+                        ],
+                    }
+                ],
+            }
+        ]
+    }
+
+
+class GenerateCurrentAffairsTests(unittest.TestCase):
+    def test_interaction_response_extracts_json_and_grounding_citations(self):
         today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
-        published = datetime.now(generate_ca.INDIA_TIMEZONE).strftime(
-            "%a, %d %b %Y %H:%M:%S %z"
+        generated = generated_questions(today)
+        parsed, citations = extract_interaction_response(
+            interaction_response(generated)
         )
-        feed = (
-            "<rss><channel><item><title>Today's update</title>"
-            "<link>https://example.com/today</link>"
-            f"<pubDate>{published}</pubDate>"
-            "<description>A current news excerpt.</description>"
-            "</item></channel></rss>"
-        ).encode("utf-8")
-        generated = {
-            "summary": "A concise summary.",
-            "questions": [
-                {
-                    "question_text": f"Question {index}?",
-                    "options": ["One", "Two", "Three", "Four"],
-                    "correct_option_index": 0,
-                    "difficulty": "Easy",
-                    "explanation": "The excerpt states this.",
-                }
-                for index in range(3)
-            ],
-        }
-        with tempfile.TemporaryDirectory() as directory:
-            data_dir = Path(directory)
-            for _, _, filename in generate_ca.FEEDS:
-                (data_dir / filename).write_text(
-                    json.dumps({"questions": []}), encoding="utf-8"
-                )
-            with (
-                mock.patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}),
-                mock.patch.object(generate_ca, "DATA_DIR", data_dir),
-                mock.patch.object(generate_ca, "fetch_url", side_effect=[feed, feed]),
-                mock.patch.object(
-                    generate_ca, "generate_questions", return_value=generated
-                ) as generate,
-            ):
-                generate_ca.main()
+        questions = validate_generated_content(parsed, today, citations)
 
-            self.assertEqual(generate.call_count, len(generate_ca.FEEDS))
-            for _, _, filename in generate_ca.FEEDS:
-                dataset = json.loads((data_dir / filename).read_text(encoding="utf-8"))
-                self.assertEqual(len(dataset["questions"]), 3)
-                self.assertTrue(
-                    all(question["newsDate"] == today for question in dataset["questions"])
-                )
+        self.assertEqual(len(questions), generate_ca.MAX_QUESTIONS_PER_DAY)
+        self.assertEqual(citations["https://example.com/news"], "Example news")
 
-    def test_gemini_generation_passes_api_key_and_json_request_body(self):
-        generated = {
-            "summary": "A concise summary.",
-            "questions": [
-                {
-                    "question_text": f"Question {index}?",
-                    "options": ["One", "Two", "Three", "Four"],
-                    "correct_option_index": 0,
-                    "difficulty": "Easy",
-                    "explanation": "The excerpt states this.",
-                }
-                for index in range(3)
-            ],
-        }
-        response = {
-            "candidates": [
-                {"content": {"parts": [{"text": json.dumps(generated)}]}}
-            ]
-        }
-        article = {
-            "title": "A news story",
-            "link": "https://example.com/news",
-            "summary": "A reliable news excerpt.",
-        }
+    def test_content_requires_the_daily_question_limit(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        with self.assertRaisesRegex(RuntimeError, "exactly 10"):
+            validate_generated_content(
+                generated_questions(today, count=9),
+                today,
+                {"https://example.com/news": "Example"},
+            )
+
+    def test_content_requires_a_cited_recent_source(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        generated = generated_questions(today)
+        generated["questions"][0]["source_url"] = "https://unverified.example/news"
+        with self.assertRaisesRegex(RuntimeError, "source returned by Google Search"):
+            validate_generated_content(
+                generated,
+                today,
+                {"https://example.com/news": "Example"},
+            )
+
+    def test_content_rejects_news_older_than_seven_days(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        generated = generated_questions(today)
+        generated["questions"][0]["news_date"] = (
+            date.fromisoformat(today) - timedelta(days=8)
+        ).isoformat()
+        with self.assertRaisesRegex(RuntimeError, "last seven days"):
+            validate_generated_content(
+                generated,
+                today,
+                {"https://example.com/news": "Example"},
+            )
+
+    def test_gemini_request_uses_google_search_grounding_and_question_cap(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        response = interaction_response(generated_questions(today))
         with mock.patch.object(
             generate_ca,
             "fetch_url",
             return_value=json.dumps(response).encode("utf-8"),
         ) as fetch:
-            result = generate_questions("test-key", "National", article)
+            result = generate_daily_questions("test-key", today, [])
 
-        self.assertEqual(result, generated)
+        self.assertEqual(len(result["questions"]), 10)
         kwargs = fetch.call_args.kwargs
         self.assertEqual(kwargs["headers"]["x-goog-api-key"], "test-key")
-        self.assertEqual(kwargs["headers"]["Content-Type"], "application/json")
-        request_body = json.loads(kwargs["data"])
-        self.assertIn("contents", request_body)
-        self.assertEqual(request_body["generationConfig"]["responseMimeType"], "application/json")
+        self.assertEqual(kwargs["timeout"], 120)
+        body = json.loads(kwargs["data"])
+        self.assertEqual(body["tools"], [{"type": "google_search"}])
+        self.assertEqual(body["response_format"]["schema"], generate_ca.QUESTION_SCHEMA)
+        self.assertIn("do not rely on model memory", body["input"])
+
+    def test_main_generates_daily_file_and_archives_previous_day(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date()
+        yesterday = (today - timedelta(days=1)).isoformat()
+        today_text = today.isoformat()
+        old_question = build_question_records(
+            {
+                "questions": [
+                    {
+                        **generated_questions(yesterday, count=1)["questions"][0],
+                        "source_url": "https://example.com/previous",
+                    }
+                ]
+            },
+            yesterday,
+        )[0]
+        with tempfile.TemporaryDirectory() as directory:
+            data_dir = Path(directory)
+            (data_dir / generate_ca.DAILY_FILENAME).write_text(
+                json.dumps({"date": yesterday, "questions": [old_question]}),
+                encoding="utf-8",
+            )
+            (data_dir / generate_ca.ARCHIVE_FILENAME).write_text(
+                json.dumps({"questions": []}), encoding="utf-8"
+            )
+            generated = {
+                "questions": validate_generated_content(
+                    generated_questions(today_text),
+                    today_text,
+                    {"https://example.com/news": "Example"},
+                ),
+                "grounding_sources": [
+                    {"url": "https://example.com/news", "title": "Example"}
+                ],
+            }
+            with (
+                mock.patch.dict(os.environ, {"GEMINI_API_KEY": "test-key"}),
+                mock.patch.object(generate_ca, "DATA_DIR", data_dir),
+                mock.patch.object(
+                    generate_ca, "generate_daily_questions", return_value=generated
+                ),
+            ):
+                generate_ca.main()
+
+            daily = json.loads(
+                (data_dir / generate_ca.DAILY_FILENAME).read_text(encoding="utf-8")
+            )
+            archive = json.loads(
+                (data_dir / generate_ca.ARCHIVE_FILENAME).read_text(encoding="utf-8")
+            )
+            self.assertEqual(daily["date"], today_text)
+            self.assertEqual(daily["questionCount"], 10)
+            self.assertEqual(archive["questionCount"], 1)
+            self.assertEqual(archive["questions"][0]["archivedFromDate"], yesterday)
+            self.assertTrue(archive["questions"][0]["archivedAt"])
+
+    def test_same_day_update_archives_existing_daily_questions(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        daily = {"date": today, "questions": [{"id": "today", "question": "Current?"}]}
+        archive = {"questions": []}
+        updated, changed = archive_previous_daily(
+            daily, archive, today, "2026-11-06T09:00:00+05:30"
+        )
+        self.assertTrue(changed)
+        self.assertEqual(updated["questions"][0]["archivedFromDate"], today)
+        self.assertEqual(updated["questions"][0]["archivedOnDate"], today)
+
+    def test_question_records_use_existing_question_bank_schema(self):
+        today = datetime.now(generate_ca.INDIA_TIMEZONE).date().isoformat()
+        generated = {
+            "questions": validate_generated_content(
+                generated_questions(today),
+                today,
+                {"https://example.com/news": "Example"},
+            )
+        }
+        records = build_question_records(generated, today)
+
+        self.assertEqual(len(records), 10)
+        self.assertEqual(records[0]["options"], {
+            "A": "Option A",
+            "B": "Option B",
+            "C": "Option C",
+            "D": "Option D",
+        })
+        self.assertEqual(records[0]["correctAnswer"], "A")
+        self.assertEqual(records[0]["sourceUrl"], "https://example.com/news")
+        self.assertEqual(records[0]["newsDate"], today)
+        self.assertTrue(all(record["id"] and record["source"] for record in records))
 
     def test_fetch_url_posts_when_request_body_is_provided(self):
         response = mock.MagicMock()
@@ -195,7 +222,7 @@ class GenerateCurrentAffairsTests(unittest.TestCase):
             "scripts.generate_ca.urllib.request.urlopen", return_value=response
         ) as urlopen:
             result = generate_ca.fetch_url(
-                "https://example.com/gemini",
+                "https://example.com/interactions",
                 headers={"Content-Type": "application/json"},
                 data=request_body,
             )
@@ -209,7 +236,7 @@ class GenerateCurrentAffairsTests(unittest.TestCase):
         response = mock.MagicMock()
         response.__enter__.return_value.read.return_value = b"ok"
         temporary_error = HTTPError(
-            "https://example.com/gemini",
+            "https://example.com/interactions",
             503,
             "Unavailable",
             {},
@@ -222,59 +249,11 @@ class GenerateCurrentAffairsTests(unittest.TestCase):
             ) as urlopen,
             mock.patch.object(generate_ca.time, "sleep") as sleep,
         ):
-            result = generate_ca.fetch_url("https://example.com/gemini")
+            result = generate_ca.fetch_url("https://example.com/interactions")
 
         self.assertEqual(result, b"ok")
         self.assertEqual(urlopen.call_count, 2)
         sleep.assert_called_once_with(1)
-
-    def test_generated_content_rejects_invalid_answer_index(self):
-        generated = {
-            "summary": "A concise summary.",
-            "questions": [
-                {
-                    "question_text": "Which option is correct?",
-                    "options": ["One", "Two", "Three", "Four"],
-                    "correct_option_index": 4,
-                    "difficulty": "Easy",
-                    "explanation": "The excerpt states this.",
-                }
-            ] * 3,
-        }
-        with self.assertRaisesRegex(RuntimeError, "correct_option_index"):
-            validate_generated_content(generated)
-
-    def test_question_records_use_existing_question_bank_schema(self):
-        article = {
-            "title": "New scheme announced",
-            "link": "https://example.com/news",
-            "summary": "The government announced a new scheme.",
-        }
-        generated = {
-            "summary": "The government announced a new scheme.",
-            "questions": [
-                {
-                    "question_text": f"Question {index}?",
-                    "options": ["One", "Two", "Three", "Four"],
-                    "correct_option_index": index % 4,
-                    "difficulty": "Medium",
-                    "explanation": "The news excerpt states this.",
-                }
-                for index in range(3)
-            ],
-        }
-        records = build_question_records("National", article, generated, "2026-11-04")
-        self.assertEqual(len(records), 3)
-        self.assertTrue(all(record.get("id") for record in records))
-        self.assertTrue(all(record.get("topic") for record in records))
-        self.assertTrue(all(record.get("question") for record in records))
-        self.assertTrue(all(set(record["options"]) == {"A", "B", "C", "D"} for record in records))
-        self.assertTrue(all(record["correctAnswer"] in {"A", "B", "C", "D"} for record in records))
-        self.assertTrue(all(record.get("explanation") and record.get("source") for record in records))
-        self.assertEqual(records[0]["options"], {"A": "One", "B": "Two", "C": "Three", "D": "Four"})
-        self.assertEqual(records[0]["correctAnswer"], "A")
-        self.assertEqual(records[0]["sourceUrl"], article["link"])
-        self.assertEqual(records[0]["newsDate"], "2026-11-04")
 
 
 if __name__ == "__main__":

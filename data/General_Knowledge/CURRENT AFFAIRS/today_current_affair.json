@@ -1,0 +1,14 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Latest daily current-affairs questions generated with Gemini Google Search grounding.",
+  "date": null,
+  "generatedAt": null,
+  "updatedAt": null,
+  "model": "gemini-3.8-flash",
+  "source": "Gemini with Google Search grounding",
+  "maxQuestions": 10,
+  "questionCount": 0,
+  "groundingSources": [],
+  "questions": []
+}

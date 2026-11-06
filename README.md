@@ -35,6 +35,9 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Dedicated About page explaining DrillDeck's practice modes, privacy model, question library and creator.
 - Creator portfolio and contact links in the setup and results footers, plus author and social profile metadata for search previews.
 - Search metadata and structured data for Karnataka exam practice, creator profile links, a branded social preview, SVG/PNG/ICO browser and mobile icons, Google Search Console verification, robots.txt and an XML image sitemap.
+- Dedicated SEO landing pages group exam preparation, Karnataka GK, current affairs, general science, geography and mock-test searches into focused topic clusters, with links into the matching practice setup.
+- Public SEO pages are available at `/exams/`, `/exams/kea-fda/`, `/exams/kea-sda/`, `/subjects/general-knowledge/`, `/subjects/current-affairs/`, `/subjects/general-science/`, `/subjects/geography/`, `/mock-tests/` and `/about/`. Short legacy-friendly paths redirect to their canonical pages.
+- The production build includes a custom `404.html`; unknown routes return it with HTTP 404 in the local development server as well.
 - Four-step test setup with a unified, expandable subcategory-and-topic selector.
 - Searchable, collapsible topic groups with per-category and global selection controls.
 - Final configuration review with editable sections and server-side validation against the available question bank before a test starts.
@@ -50,7 +53,7 @@ The app loads the generated `data/datasets.json` index, so it works on Vercel wi
 
 ## Daily current-affairs updates
 
-The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time and can also be started manually from the GitHub Actions tab. Add a repository Actions secret named `GEMINI_API_KEY` containing a Gemini API key. The key is sent only from the workflow to Google's Gemini REST API; do not put it in the repository, frontend, or Vercel environment.
+The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time (18:00 UTC; GitHub Actions cron uses UTC) and can also be started manually from the GitHub Actions tab. Add a repository Actions secret named `GEMINI_API_KEY` containing a Gemini API key. The key is sent only from the workflow to Google's Gemini REST API; do not put it in the repository, frontend, or Vercel environment.
 
 The workflow reads Google News RSS feeds and only uses articles with a publication date matching the current India (IST) date; entries with missing or older dates are skipped. Gemini generates a short summary and three structured MCQs per new article. The generator validates the response, sends it as a JSON POST request to Gemini, and prepends the questions with their publication date to the existing Karnataka and national current-affairs banks. Articles already recorded by source URL are skipped. It then runs the normal dataset build and commits the updated data and manifest. A successful push triggers Vercel redeployment when the repository is connected to the Vercel project. If generation, JSON validation, or the build fails, the workflow stops without committing.
 

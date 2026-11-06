@@ -15,6 +15,12 @@ test("resolveAppRoute maps SEO links to actual app targets", () => {
     query: ""
   });
 
+  assert.deepEqual(resolveAppRoute("/?view=setup&preset=Current%20Affairs"), {
+    view: "setup",
+    preset: "Current Affairs",
+    query: ""
+  });
+
   assert.deepEqual(resolveAppRoute("/#quick-test-view"), {
     view: "quick-test",
     preset: null,

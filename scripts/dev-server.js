@@ -23,8 +23,18 @@ const MIME_TYPES = {
   ".webp":"image/webp",
   ".xml":"application/xml; charset=utf-8"
 };
-const PUBLIC_DIRECTORIES = new Set(["assets", "css", "data", "exams", "js", "mock-tests", "public", "subjects"]);
-const PUBLIC_FILES = new Set(["browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
+const PUBLIC_DIRECTORIES = new Set(["about", "assets", "css", "data", "exams", "js", "mock-tests", "public", "subjects"]);
+const PUBLIC_FILES = new Set(["404.html", "browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
+const SEO_REDIRECTS = new Map([
+  ["/kea-exam-preparation", "/exams/"],
+  ["/fda-exam-preparation", "/exams/kea-fda/"],
+  ["/sda-exam-preparation", "/exams/kea-sda/"],
+  ["/karnataka-gk", "/subjects/general-knowledge/"],
+  ["/current-affairs", "/subjects/current-affairs/"],
+  ["/general-science", "/subjects/general-science/"],
+  ["/geography", "/subjects/geography/"],
+  ["/about", "/about/"]
+]);
 const API_HANDLERS = new Map([
   ["/api/chat", chatHandler],
   ["/api/leaderboard", leaderboardHandler]
@@ -36,6 +46,24 @@ function sendJson(res, status, body) {
     "Content-Type":"application/json; charset=utf-8"
   });
   res.end(JSON.stringify(body));
+}
+
+async function sendNotFound(req, res) {
+  const filePath = resolve(ROOT, "404.html");
+  try {
+    const file = await stat(filePath);
+    res.writeHead(404, {
+      "Cache-Control":"no-cache",
+      "Content-Length":file.size,
+      "Content-Type":"text/html; charset=utf-8"
+    });
+    if (req.method === "HEAD") res.end();
+    else createReadStream(filePath).pipe(res);
+  } catch (error) {
+    console.error("Custom 404 page could not be served:", error);
+    res.writeHead(404, { "Content-Type":"text/plain; charset=utf-8" });
+    res.end("Not found");
+  }
 }
 
 async function readJsonBody(req) {
@@ -110,8 +138,7 @@ async function handleStatic(req, res, pathname) {
   const publicFile = !rest.length && PUBLIC_FILES.has(first);
   if (!fromRoot || fromRoot.startsWith(`..${sep}`) || fromRoot === ".." ||
       (first !== "index.html" && !PUBLIC_DIRECTORIES.has(first) && !publicFile)) {
-    res.writeHead(404);
-    res.end("Not found");
+    await sendNotFound(req, res);
     return;
   }
   try {
@@ -131,13 +158,18 @@ async function handleStatic(req, res, pathname) {
       res.end("Unable to read file");
       return;
     }
-    res.writeHead(404);
-    res.end("Not found");
+    await sendNotFound(req, res);
   }
 }
 
 const server = createServer(async (req, res) => {
   const requestUrl = new URL(req.url, `http://${req.headers.host || "localhost"}`);
+  const redirect = SEO_REDIRECTS.get(requestUrl.pathname);
+  if (redirect) {
+    res.writeHead(308, { Location:`${redirect}${requestUrl.search}` });
+    res.end();
+    return;
+  }
   if (requestUrl.pathname === "/api/configuration") {
     if (req.method !== "POST") {
       res.setHeader("Allow", "POST");

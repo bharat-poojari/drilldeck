@@ -59,6 +59,7 @@ let dailyChallengeStarting = false;
 let activeChallenge = null;
 let lastTimerRemaining = null;
 let pendingSubjectPreset = null;
+let quickSummaryType = "gk";
 const timerWarningsShown = new Set();
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
@@ -104,6 +105,8 @@ function updateHomepageDashboard(results, error = null) {
 function showView(name) {
   moveSharedPanels(name);
   Object.entries(views).forEach(([key, node]) => node.classList.toggle("hidden", key !== name));
+  if (name === "quick-test") updateQuickSummary(quickSummaryType);
+  else if (name === "setup") updateWizardSummary();
   window.scrollTo({ top:0, behavior:"instant" });
 }
 function toast(message) {
@@ -147,10 +150,18 @@ function showSetupStep(step, scrollToPanel = true) {
   document.querySelectorAll("[data-setup-step]").forEach(section =>
     section.classList.toggle("hidden", Number(section.dataset.setupStep) !== step)
   );
+  document.querySelectorAll("[data-wizard-step]").forEach(item => {
+    const itemStep = Number(item.dataset.wizardStep);
+    item.classList.toggle("current", itemStep === step);
+    item.classList.toggle("complete", itemStep < step);
+    if (itemStep === step) item.setAttribute("aria-current", "step");
+    else item.removeAttribute("aria-current");
+  });
   $("setup-step-label").textContent = `STEP ${String(step).padStart(2,"0")} OF 04`;
   $("setup-step-title").textContent = setupStepTitles[step-1];
   $("setup-step-icon").innerHTML = setupStepIcons[step-1];
   $("setup-error").textContent = "";
+  updateWizardSummary();
   if (step === 4) renderConfigurationReview();
   if (scrollToPanel) $("setup-panel").scrollIntoView({ behavior:"smooth", block:"start" });
 }
@@ -358,6 +369,7 @@ function getQuickTestConfiguration(type) {
   const topics = [...new Set(Object.values(topicsByDataset).flat())];
   return {
     mode:"exam",
+    quickTest:true,
     paper,
     categories,
     datasets:datasets.map(dataset => dataset.id),
@@ -383,6 +395,9 @@ function updateQuickAvailability(type) {
     status.textContent = "Question bank could not be loaded.";
     status.classList.add("error-message");
     button.disabled = true;
+    if (formType === quickSummaryType && !views["quick-test"].classList.contains("hidden")) {
+      updateConfigurationSummary(configuration, validation, status.textContent);
+    }
     return;
   }
   const missingSubjects = type === "combined"
@@ -394,6 +409,9 @@ function updateQuickAvailability(type) {
     status.textContent = `No question sets are available for ${missingSubjects.join(", ")} yet.`;
     status.classList.add("error-message");
     button.disabled = true;
+    if (formType === quickSummaryType && !views["quick-test"].classList.contains("hidden")) {
+      updateConfigurationSummary(configuration, validation, status.textContent);
+    }
     return;
   }
   status.textContent = validation.valid
@@ -401,6 +419,9 @@ function updateQuickAvailability(type) {
     : validation.errors.join(" ");
   status.classList.toggle("error-message", !validation.valid);
   button.disabled = !validation.valid || configurationCheckInProgress;
+  if (formType === quickSummaryType && !views["quick-test"].classList.contains("hidden")) {
+    updateConfigurationSummary(configuration, validation);
+  }
 }
 function updateCombinedSubjectAvailability() {
   if (!bank) return;
@@ -431,6 +452,7 @@ function renderDailyChallenge() {
   ];
   if (!bank?.questions.length) {
     prompt.textContent = "Today's challenge is unavailable because no questions could be loaded.";
+    $("daily-drill-summary").textContent = "Today's question set is currently unavailable.";
     buttons.forEach(button => button.disabled = true);
     return;
   }
@@ -451,12 +473,29 @@ function renderDailyChallenge() {
   ];
   challengeOptions.forEach(({ button, select }) => {
     try {
-      select();
+      const questions = select();
       button.disabled = false;
       button.title = "";
+      const count = button.querySelector("small");
+      if (count) count.textContent = `${questions.length} questions in today's set`;
+      if (button.id === "daily-drill-start") {
+        const subjects = new Map();
+        questions.forEach(question => {
+          const subject = question.subject || "Other";
+          subjects.set(subject, (subjects.get(subject) || 0) + 1);
+        });
+        const breakdown = [...subjects]
+          .map(([subject, count]) => `${count} ${subject}`)
+          .join(" · ");
+        $("daily-drill-summary").textContent =
+          `${questions.length} questions${breakdown ? ` · ${breakdown}` : ""}`;
+      }
     } catch (error) {
       button.disabled = true;
       button.title = error.message;
+      if (button.id === "daily-drill-start") {
+        $("daily-drill-summary").textContent = "Today's question set is currently unavailable.";
+      }
     }
   });
   dailyChallengeQuestion = selectQuestionOfTheDay(bank.questions, today);
@@ -483,7 +522,7 @@ function renderDailyFacts(date = new Date()) {
             <p>${escapeHtml(question.explanation || "No explanation is available for this question.")}</p>
             ${question.importantFact ? `<p class="daily-fact-extra">${escapeHtml(question.importantFact)}</p>` : ""}
           </details>
-          <button class="text-button" type="button" data-fact-index="${index}">Practise this question →</button>
+          <button class="button button-outline daily-fact-action" type="button" data-fact-index="${index}">Practise this question <span aria-hidden="true">→</span></button>
         </article>`
       : `<article class="daily-fact-card unavailable">
           <span class="step-label">${escapeHtml(category)}</span>
@@ -699,13 +738,61 @@ function getConfigurationValidation(configuration = currentTestConfiguration()) 
   }
   return { valid:errors.length === 0, errors, availableQuestions };
 }
+function updateConfigurationSummary(configuration, validation, availabilityText = null) {
+  const paper = configuration.paper === "general-knowledge"
+    ? "General Knowledge"
+    : configuration.paper === "combined"
+      ? "General Kannada, English & Computer Knowledge"
+      : configuration.paper;
+  $("wizard-summary-paper").textContent = paper;
+  $("wizard-summary-subjects").textContent = configuration.categories.length
+    ? configuration.categories.join(", ")
+    : "None selected";
+  $("wizard-summary-topics").textContent = `${configuration.topics.length.toLocaleString()} selected`;
+  $("wizard-summary-mode").textContent = configuration.quickTest
+    ? "Quick Test"
+    : configuration.mode === "practice" ? "Practice" : "Timed exam";
+  $("wizard-summary-difficulty").textContent = configuration.difficulty || "—";
+  $("wizard-summary-questions").textContent = Number.isFinite(configuration.questionCount)
+    ? configuration.questionCount.toLocaleString()
+    : "—";
+  $("wizard-summary-duration").textContent = configuration.mode === "practice"
+    ? "Untimed"
+    : `${configuration.durationMinutes || "—"} min`;
+  $("wizard-summary-availability").textContent = availabilityText || (validation.valid
+    ? `${validation.availableQuestions.toLocaleString()} matching questions available · ${configuration.questionCount.toLocaleString()} requested`
+    : validation.errors.join(" "));
+  $("wizard-summary-availability").classList.toggle(
+    "error-message",
+    availabilityText
+      ? Boolean(validation && !validation.valid)
+      : !validation.valid
+  );
+}
+function updateWizardSummary() {
+  const configuration = currentTestConfiguration();
+  const validation = bank ? getConfigurationValidation(configuration) : { valid:false, errors:[] };
+  updateConfigurationSummary(
+    configuration,
+    validation,
+    bank ? null : $("availability-note").textContent
+  );
+}
+function updateQuickSummary(type) {
+  const configuration = getQuickTestConfiguration(type);
+  updateConfigurationSummary(configuration, getConfigurationValidation(configuration));
+}
 function updateAvailability() {
-  if (!bank) return;
+  if (!bank) {
+    updateWizardSummary();
+    return;
+  }
   const configuration = currentTestConfiguration();
   const validation = getConfigurationValidation(configuration);
   $("availability-note").textContent = `${validation.availableQuestions} matching question${validation.availableQuestions===1?"":"s"} available · ${configuration.questionCount} requested`;
   $("availability-note").style.color = validation.valid ? "var(--muted)" : "var(--red)";
   $("start-button").disabled = !validation.valid || configurationCheckInProgress;
+  updateWizardSummary();
   if (currentSetupStep === 4) renderConfigurationReview(configuration, validation);
 }
 function renderDatasets() {
@@ -843,6 +930,9 @@ function updateSessionModeUI() {
 }
 function applyAppRoute() {
   const route = resolveAppRoute();
+  if (route.view === "setup" && route.preset) {
+    pendingSubjectPreset = route.preset === "gk" ? "General Knowledge" : route.preset;
+  }
   if (route.view === "quick-test") {
     showView("quick-test");
     return;
@@ -1507,6 +1597,8 @@ function resetToSetup() {
 }
 
 $("setup-form").addEventListener("submit",startExam);
+$("setup-form").addEventListener("input", updateWizardSummary);
+$("setup-form").addEventListener("change", updateWizardSummary);
 $("daily-drill-start").addEventListener("click",() => startChallenge("daily-drill"));
 $("karnataka-challenge-start").addEventListener("click",() => startChallenge("karnataka"));
 $("current-affairs-challenge-start").addEventListener("click",() => startChallenge("current-affairs"));
@@ -1518,14 +1610,18 @@ $("quick-gk-form").addEventListener("submit",event =>
 $("quick-combined-form").addEventListener("submit",event =>
   startExam(event, getQuickTestConfiguration("combined"), document.querySelector('[data-quick-submit="combined"]'), $("quick-combined-error"))
 );
-["quick-gk-count","quick-gk-duration","quick-combined-count","quick-combined-duration"].forEach(id =>
-  $(id).addEventListener("input", updateQuickTestAvailability)
-);
-["quick-gk-difficulty","quick-combined-difficulty"].forEach(id =>
-  $(id).addEventListener("change", updateQuickTestAvailability)
-);
-$("quick-combined-form").addEventListener("change",event=>{
-  if(event.target.matches('input[name="quick-subject"]')) updateQuickAvailability("combined");
+[
+  ["quick-gk-form", "gk"],
+  ["quick-combined-form", "combined"]
+].forEach(([formId, type]) => {
+  $(formId).addEventListener("input", () => {
+    quickSummaryType = type;
+    updateQuickTestAvailability();
+  });
+  $(formId).addEventListener("change", () => {
+    quickSummaryType = type;
+    updateQuickTestAvailability();
+  });
 });
 $("paper-select").addEventListener("change",updatePaperOptions);
 handleSelectionChange($("category-options"),renderDatasets);

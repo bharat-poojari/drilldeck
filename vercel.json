@@ -1,6 +1,15 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "public",
+  "redirects": [
+    { "source": "/kea-exam-preparation", "destination": "/exams/", "permanent": true },
+    { "source": "/fda-exam-preparation", "destination": "/exams/kea-fda/", "permanent": true },
+    { "source": "/sda-exam-preparation", "destination": "/exams/kea-sda/", "permanent": true },
+    { "source": "/karnataka-gk", "destination": "/subjects/general-knowledge/", "permanent": true },
+    { "source": "/current-affairs", "destination": "/subjects/current-affairs/", "permanent": true },
+    { "source": "/general-science", "destination": "/subjects/general-science/", "permanent": true },
+    { "source": "/geography", "destination": "/subjects/geography/", "permanent": true }
+  ],
   "functions": {
     "api/configuration.js": {
       "includeFiles": "data/**/*.json"

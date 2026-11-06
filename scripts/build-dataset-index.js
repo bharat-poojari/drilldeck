@@ -84,6 +84,7 @@ await rm(outputRoot, { recursive: true, force: true });
 await mkdir(outputRoot, { recursive: true });
 await Promise.all([
   "index.html",
+  "about",
   "css",
   "js",
   "data",
@@ -92,6 +93,7 @@ await Promise.all([
   "subjects",
   "assets",
   "browserconfig.xml",
+  "404.html",
   "robots.txt",
   "sitemap.xml",
   "site.webmanifest",

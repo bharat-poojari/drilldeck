@@ -97,7 +97,7 @@ export function selectDailyFacts(questions, date = new Date()) {
   const groups = [
     ["Karnataka", questions.filter(question => isKarnataka(question) && !isCurrentAffairs(question))],
     ["Constitution", questions.filter(isConstitution)],
-    ["Geography", questions.filter(question => /geography/.test(datasetPath(question)))],
+    ["Geography", questions.filter(question => /geography/.test(datasetPath(question)) && !isKarnataka(question))],
     ["Science", questions.filter(isScience)],
     ["Current Affairs", questions.filter(isCurrentAffairs)]
   ];

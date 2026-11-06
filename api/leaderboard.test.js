@@ -15,6 +15,7 @@ test("leaderboard requires explicit consent and supports private owner controls"
   const ownerKey = "9424ee19-2c2d-40c1-bc1a-298624ba0a2e";
   const otherOwnerKey = "6498ee19-2c2d-40c1-bc1a-298624ba0a2e";
   const id = "39b30ee1-4601-4ad7-9c2c-12fae7be68a8";
+  const higherScoreId = "49b30ee1-4601-4ad7-9c2c-12fae7be68a8";
   let storedContent = null;
   let writeCount = 0;
 
@@ -77,6 +78,20 @@ test("leaderboard requires explicit consent and supports private owner controls"
     assert.equal(JSON.stringify(publicList.body).includes("ownerKeyHash"), false);
     assert.equal(JSON.parse(publicList.body).scores[0].accuracyPercentage, 80);
 
+    const higherScore = await callHandler({
+      method:"POST",
+      headers:{ origin:"https://drilldeck.example", host:"drilldeck.example" },
+      body:{
+        id:higherScoreId, publishConsent:true, ownerKey:otherOwnerKey, name:"Higher score",
+        score:9, maximum:10, scorePercentage:90, accuracyPercentage:90,
+        attempted:9, totalQuestions:10,
+        paper:"General Kannada, English & Computer Knowledge", subjects:["History"]
+      }
+    });
+    assert.equal(higherScore.statusCode, 201);
+    const rankedList = await callHandler({ method:"GET", headers:{} });
+    assert.equal(JSON.parse(rankedList.body).scores[0].id, higherScoreId);
+
     const filteredList = await callHandler({
       method:"GET",
       url:"/api/leaderboard?period=daily&paper=General%20Knowledge&subject=History",
@@ -99,7 +114,7 @@ test("leaderboard requires explicit consent and supports private owner controls"
       body:{ id, ownerKey:otherOwnerKey, name:"Someone else" }
     });
     assert.equal(deniedRename.statusCode, 404);
-    assert.equal(storedContent.scores[0].name, "Practice student");
+    assert.equal(storedContent.scores.find(score => score.id === id).name, "Practice student");
 
     const renamed = await callHandler({
       method:"PATCH",
@@ -107,7 +122,7 @@ test("leaderboard requires explicit consent and supports private owner controls"
       body:{ id, ownerKey, name:"New display name" }
     });
     assert.equal(renamed.statusCode, 200);
-    assert.equal(storedContent.scores[0].name, "New display name");
+    assert.equal(storedContent.scores.find(score => score.id === id).name, "New display name");
 
     const removed = await callHandler({
       method:"DELETE",
@@ -115,8 +130,9 @@ test("leaderboard requires explicit consent and supports private owner controls"
       body:{ id, ownerKey }
     });
     assert.equal(removed.statusCode, 200);
-    assert.equal(storedContent.scores.length, 0);
-    assert.equal(writeCount, 3);
+    assert.equal(storedContent.scores.length, 1);
+    assert.equal(storedContent.scores[0].id, higherScoreId);
+    assert.equal(writeCount, 4);
   } finally {
     globalThis.fetch = originalFetch;
     restoreEnvironment("EXAMDESK_GITHUB_TOKEN", previousEnvironment.token);

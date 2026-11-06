@@ -1,6 +1,8 @@
 .hero-actions{display:flex;align-items:center;gap:14px;margin-top:22px}
 .hero-actions .button{min-height:46px}
 .guest-mode-note{color:var(--muted);font-size:11px}
+.subject-chip{text-decoration:none;transition:border-color .15s,background .15s}
+.subject-chip:hover{border-color:var(--primary);background:var(--primary-soft)}
 .daily-facts-panel{padding:22px;margin:0 0 20px}
 .daily-facts-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin-top:16px}
 .daily-fact-card{display:flex;flex-direction:column;align-items:flex-start;gap:10px;min-width:0;padding:14px;border:1px solid var(--line);border-radius:12px;background:var(--surface-2)}
@@ -48,6 +50,8 @@
   .exam-utility-actions{margin-top:-5px}
   .exam-section-picker{padding:0 18px 12px}
   .leaderboard-filters{grid-template-columns:1fr}
+  .question-actions #clear-all-button{display:inline-flex;min-height:34px;padding:0 8px;font-size:9px}
+  .question-actions #clear-button{display:none}
 }
 @media(max-width:420px){
   .daily-facts-grid{grid-template-columns:1fr}

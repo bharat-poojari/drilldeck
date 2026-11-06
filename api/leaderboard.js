@@ -5,6 +5,7 @@ import { handleApiError, HttpError, readJsonBody, requireSameOrigin, sendJson } 
 const SCORES_FILE = "accounts.json";
 const EMPTY_SCORES = { scores: [] };
 const MAX_SCORES = 1000;
+const INDIA_UTC_OFFSET_MINUTES = 330;
 const UUID_PATTERN = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
 
 function hashOwnerKey(ownerKey) {
@@ -127,7 +128,7 @@ function filterScores(scores, req, now = new Date()) {
     throw new HttpError(400, "Choose a valid leaderboard subject.");
   }
   const cutoff = period === "daily"
-    ? Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate())
+    ? indiaDayStart(now)
     : period === "weekly"
       ? now.getTime() - 7 * 86400000
       : period === "monthly"
@@ -139,6 +140,12 @@ function filterScores(scores, req, now = new Date()) {
       (!subject || score.subjects?.includes(subject)) &&
       (cutoff === null || (Number.isFinite(createdAt) && createdAt >= cutoff));
   });
+}
+
+function indiaDayStart(date) {
+  const indiaDate = new Date(date.getTime() + INDIA_UTC_OFFSET_MINUTES * 60000);
+  return Date.UTC(indiaDate.getUTCFullYear(), indiaDate.getUTCMonth(), indiaDate.getUTCDate()) -
+    INDIA_UTC_OFFSET_MINUTES * 60000;
 }
 
 export default async function handler(req, res) {

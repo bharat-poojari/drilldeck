@@ -58,6 +58,7 @@ let dailyFacts = [];
 let dailyChallengeStarting = false;
 let activeChallenge = null;
 let lastTimerRemaining = null;
+let pendingSubjectPreset = null;
 const timerWarningsShown = new Set();
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
@@ -75,28 +76,30 @@ function moveSharedPanels(name) {
     $("setup-history-anchor").before($("local-history-panel"));
     $("setup-aside-anchor").before($("setup-aside"));
   }
-  function updateHomepageDashboard(results, error = null) {
-    const summary = $("homepage-progress-summary");
-    const weakSummary = $("weak-area-summary");
-    const weakButton = $("weak-area-practice-button");
-    if (error) {
-      summary.textContent = `Your local progress could not be read: ${error.message}`;
-      weakSummary.textContent = "Weak-area practice is unavailable until local history can be read.";
-      weakButton.disabled = true;
-      return;
-    }
-    const latest = [...results].sort((a, b) => Date.parse(b.submittedAt) - Date.parse(a.submittedAt))[0];
-    summary.textContent = latest
-      ? `Latest: ${latest.paper} · ${Number(latest.accuracyPercentage || 0).toFixed(0)}% accuracy · ${new Date(latest.submittedAt).toLocaleDateString()}. Your history stays on this device.`
-      : "Your completed test history is saved privately in this browser.";
-    const weakTopics = analyzePerformance(results).topics
-      .filter(topic => topic.attempted >= 3 && ["weak", "revision"].includes(topic.status))
-      .slice(0, 3);
-    weakButton.disabled = !weakTopics.length;
-    weakSummary.textContent = weakTopics.length
+}
+function updateHomepageDashboard(results, error = null) {
+  const summary = $("homepage-progress-summary");
+  const weakSummary = $("weak-area-summary");
+  const weakButton = $("weak-area-practice-button");
+  if (error) {
+    summary.textContent = `Your local progress could not be read: ${error.message}`;
+    weakSummary.textContent = "Weak-area practice is unavailable until local history can be read.";
+    weakButton.disabled = true;
+    return;
+  }
+  const latest = [...results].sort((a, b) => Date.parse(b.submittedAt) - Date.parse(a.submittedAt))[0];
+  summary.textContent = latest
+    ? `Latest: ${latest.paper} · ${Number(latest.accuracyPercentage || 0).toFixed(0)}% accuracy · ${new Date(latest.submittedAt).toLocaleDateString()}. Your history stays on this device.`
+    : "Your completed test history is saved privately in this browser.";
+  const weakTopics = analyzePerformance(results).topics
+    .filter(topic => topic.attempted >= 3 && ["weak", "revision"].includes(topic.status))
+    .slice(0, 3);
+  weakButton.disabled = !bank || !weakTopics.length;
+  weakSummary.textContent = !bank
+    ? "Loading the question bank…"
+    : weakTopics.length
       ? `Suggested focus: ${weakTopics.map(topic => `${topic.name} (${topic.accuracy.toFixed(0)}%)`).join(", ")}.`
       : "Complete at least three questions in a topic to get a useful recommendation.";
-  }
 }
 function showView(name) {
   moveSharedPanels(name);
@@ -505,7 +508,10 @@ function startFactPractice(index) {
   }, 0, "setup", "Question of the Day", "practice");
 }
 function startWeakAreaPractice() {
-  if (!bank) return;
+  if (!bank) {
+    $("weak-area-summary").textContent = "The question bank is still loading. Please try again in a moment.";
+    return;
+  }
   try {
     const results = resultsStore.getData().results;
     const weakTopics = analyzePerformance(results).topics
@@ -948,10 +954,16 @@ async function initialize() {
     bank = await loadQuestionBank();
     $("bank-count").textContent = bank.questions.length.toLocaleString();
     updatePaperOptions();
+    if (pendingSubjectPreset) {
+      const preset = pendingSubjectPreset;
+      pendingSubjectPreset = null;
+      applySubjectPreset(preset);
+    }
     updateQuickTestAvailability();
     updateBookmarkAvailability();
     renderDailyChallenge();
     renderDailyFacts();
+    renderLocalHistory();
     restoreActiveExam();
   } catch (error) {
     $("bank-count").textContent = "Error";
@@ -963,6 +975,8 @@ async function initialize() {
     $("daily-drill-start").disabled = true;
     $("karnataka-challenge-start").disabled = true;
     $("current-affairs-challenge-start").disabled = true;
+    $("weak-area-practice-button").disabled = true;
+    $("weak-area-summary").textContent = `Weak-area practice is unavailable: ${error.message}`;
     updateQuickTestAvailability();
   }
 }
@@ -974,6 +988,36 @@ function updatePaperOptions() {
   renderCheckboxOptions($("category-options"), "category", subjects,
     paper === "general-knowledge" ? "All General Knowledge" : "All subjects");
   renderDatasets();
+}
+function applySubjectPreset(category) {
+  if (!bank) {
+    pendingSubjectPreset = category;
+    return;
+  }
+  const categories = [...new Set(bank.datasets
+    .filter(dataset => dataset.paper === "general-knowledge")
+    .map(dataset => dataset.subject))];
+  if (category !== "General Knowledge" && !categories.includes(category)) {
+    $("setup-error").textContent = `No question sets are available for ${category} yet.`;
+    return;
+  }
+  topicSelection.clear();
+  selectedSubcategories.clear();
+  $("paper-select").value = "general-knowledge";
+  updatePaperOptions();
+  $("category-options").querySelectorAll('input[name="category"]').forEach(input => {
+    input.checked = category === "General Knowledge" || input.value === category;
+  });
+  syncSelectAll($("category-options"));
+  selectedSubcategories.clear();
+  renderDatasets();
+  bank.datasets
+    .filter(dataset => dataset.paper === "general-knowledge" &&
+      (category === "General Knowledge" || dataset.subject === category))
+    .forEach(dataset => selectedSubcategories.add(dataset.id));
+  topicSelection.selectAll();
+  renderTopicGroups();
+  updateAvailability();
 }
 
 function closeMainMenu() {
@@ -1167,6 +1211,7 @@ function renderQuestion() {
   const index = examState.currentIndex;
   const q = examState.questions[index];
   const answer = examState.answers[index];
+  $("exam-section-select").value = q.subject || "";
   $("current-number").textContent = String(index+1).padStart(2,"0");
   $("current-subject").textContent = q.subject.toUpperCase();
   $("question-topic").textContent = q.topic || q.chapter || "General";
@@ -1725,6 +1770,8 @@ document.addEventListener("click",event=>{
     }
     showView("setup");
     showSetupStep(1, false);
+    if (link.dataset.practiceCategory) applySubjectPreset(link.dataset.practiceCategory);
+    if (link.dataset.targetId) $(link.dataset.targetId)?.scrollIntoView({ behavior:"smooth", block:"start" });
   }
 });
 document.addEventListener("keydown",event=>{

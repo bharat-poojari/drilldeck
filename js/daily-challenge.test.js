@@ -42,6 +42,7 @@ test("daily facts select stable questions for each available learning category",
   assert.deepEqual(facts.map(fact => fact.question?.id), [
     "karnataka", "constitution", "geography", "science", "current"
   ]);
+  assert.equal(new Set(facts.map(fact => fact.question?.id)).size, 5);
   assert.deepEqual(selectDailyFacts(questions, date), facts);
   assert.equal(selectDailyFacts([], date).every(fact => fact.question === null), true);
 });

@@ -76,7 +76,7 @@ Then open:
 http://127.0.0.1:8000
 ```
 
-This server provides the configuration-validation API needed to start a test and serves only public app files. It does not provide chat or leaderboard APIs. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
+This server provides the configuration-validation API needed to start a test and the same GitHub-backed chat and leaderboard handlers used in deployment. To enable shared chat and leaderboard locally, set `EXAMDESK_GITHUB_TOKEN`, `EXAMDESK_GITHUB_OWNER` and `EXAMDESK_GITHUB_REPO` in the shell before running `npm run dev`; otherwise those features return a configuration error. Test results and bookmarks remain local to the browser. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
 
 ## Deploy chat and score sharing to Vercel
 

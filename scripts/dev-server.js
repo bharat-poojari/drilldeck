@@ -4,6 +4,8 @@ import { createServer } from "node:http";
 import { extname, relative, resolve, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 import configurationHandler from "../api/configuration.js";
+import chatHandler from "../api/chat.js";
+import leaderboardHandler from "../api/leaderboard.js";
 
 const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const PORT = Number(process.env.PORT || 8000);
@@ -23,6 +25,10 @@ const MIME_TYPES = {
 };
 const PUBLIC_DIRECTORIES = new Set(["assets", "css", "data", "exams", "js", "mock-tests", "public", "subjects"]);
 const PUBLIC_FILES = new Set(["browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
+const API_HANDLERS = new Map([
+  ["/api/chat", chatHandler],
+  ["/api/leaderboard", leaderboardHandler]
+]);
 
 function sendJson(res, status, body) {
   res.writeHead(status, {
@@ -62,6 +68,20 @@ async function handleConfiguration(req, res) {
       error:error.status ? error.message : "The local configuration service could not complete the request."
     });
     if (!error.status) console.error("Local configuration API failed:", error);
+  }
+}
+
+async function handleApiFunction(req, res, handler) {
+  try {
+    if (req.method !== "GET" && req.method !== "HEAD") {
+      req.body = await readJsonBody(req);
+    }
+    await handler(req, res);
+  } catch (error) {
+    sendJson(res, error.status || 500, {
+      error:error.status ? error.message : "The local API request could not be completed."
+    });
+    if (!error.status) console.error("Local API request failed:", error);
   }
 }
 
@@ -127,10 +147,15 @@ const server = createServer(async (req, res) => {
     await handleConfiguration(req, res);
     return;
   }
+  const apiHandler = API_HANDLERS.get(requestUrl.pathname);
+  if (apiHandler) {
+    await handleApiFunction(req, res, apiHandler);
+    return;
+  }
   await handleStatic(req, res, requestUrl.pathname);
 });
 
 server.listen(PORT, "127.0.0.1", () => {
   console.log(`DrillDeck local development server: http://127.0.0.1:${PORT}`);
-  console.log("The local server provides test configuration validation only; deploy to Vercel for accounts, chat and leaderboard APIs.");
+  console.log("Chat and leaderboard APIs use GitHub JSON storage; configure the GitHub storage environment variables to use them locally.");
 });

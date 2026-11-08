@@ -76,6 +76,26 @@ def fetch_url(url, headers=None, timeout=30, data=None):
             for value in (headers or {}).values():
                 if value:
                     detail = detail.replace(value, "[REDACTED]")
+            try:
+                error_payload = json.loads(detail)
+            except json.JSONDecodeError:
+                error_payload = {}
+            api_error = error_payload.get("error", {})
+            message = api_error.get("message", "") if isinstance(api_error, dict) else ""
+            normalized_message = message.casefold() if isinstance(message, str) else ""
+            quota_exhausted = (
+                "quota" in normalized_message
+                and any(
+                    term in normalized_message
+                    for term in ("exceeded", "exhausted", "billing")
+                )
+            )
+            if error.code == 429 and quota_exhausted:
+                raise RuntimeError(
+                    "Gemini API quota is exhausted. Check the quota and billing "
+                    "for the Google AI Studio project associated with GEMINI_API_KEY. "
+                    f"Provider response: {detail}"
+                ) from error
             if error.code not in {429, 500, 502, 503, 504} or attempt == MAX_REQUEST_ATTEMPTS:
                 raise RuntimeError(
                     f"Request failed with HTTP {error.code}: {detail}"

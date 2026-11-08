@@ -255,6 +255,31 @@ class GenerateCurrentAffairsTests(unittest.TestCase):
         self.assertEqual(urlopen.call_count, 2)
         sleep.assert_called_once_with(1)
 
+    def test_fetch_url_does_not_retry_exhausted_gemini_quota(self):
+        quota_error = HTTPError(
+            "https://example.com/interactions",
+            429,
+            "Too Many Requests",
+            {},
+            BytesIO(
+                b'{"error":{"message":"You exceeded your current quota; check billing."}}'
+            ),
+        )
+        with (
+            mock.patch(
+                "scripts.generate_ca.urllib.request.urlopen",
+                side_effect=quota_error,
+            ) as urlopen,
+            mock.patch.object(generate_ca.time, "sleep") as sleep,
+        ):
+            with self.assertRaisesRegex(
+                RuntimeError, "Gemini API quota is exhausted"
+            ):
+                generate_ca.fetch_url("https://example.com/interactions")
+
+        urlopen.assert_called_once()
+        sleep.assert_not_called()
+
 
 if __name__ == "__main__":
     unittest.main()

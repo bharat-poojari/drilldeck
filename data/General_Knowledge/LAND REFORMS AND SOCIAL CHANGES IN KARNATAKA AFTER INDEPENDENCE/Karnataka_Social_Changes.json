@@ -1,0 +1,2059 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank based on 'Social Changes in Karnataka After Independence' (KEA FDA & SDA Examination). Questions are structured to cover all topics, sub-topics, and high-yield facts from the provided PDF notes.",
+  "questions": [
+    {
+      "id": "K001",
+      "subject": "Karnataka Social Changes",
+      "topic": "Meaning and Background",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does social change refer to in the context of Karnataka after Independence?",
+      "options": {
+        "A": "Only changes in the political system",
+        "B": "Significant changes in the structure, institutions, values, relationships, and opportunities of society over time",
+        "C": "Changes only in the economic sector",
+        "D": "Changes in the geographical boundaries of the state"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social change refers to significant changes in the structure, institutions, values, relationships, and opportunities of society over time, influenced by constitutional democracy, education, economic development, land reforms, industrialisation, urbanisation, and social movements.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K002",
+      "subject": "Karnataka Social Changes",
+      "topic": "Meaning and Background",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following was NOT a major force contributing to social change in Karnataka after 1947?",
+      "options": {
+        "A": "The Constitution and laws",
+        "B": "Land reforms",
+        "C": "Colonial rule",
+        "D": "Expansion of education"
+      },
+      "correctAnswer": "C",
+      "explanation": "The major forces included the Constitution and laws, land reforms, expansion of education, public employment, reservation, democratic politics, migration, industrial growth, urbanisation, women's movements, backward-class movements, Dalit movements, and tribal welfare programmes. Colonial rule was before 1947.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K003",
+      "subject": "Karnataka Social Changes",
+      "topic": "Meaning and Background",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is the year 1956 important in the political and social history of Karnataka?",
+      "options": {
+        "A": "Karnataka was renamed from Mysore State",
+        "B": "The States Reorganisation Act was passed, reorganising states on linguistic lines",
+        "C": "The Constitution of India came into effect",
+        "D": "The first Panchayati Raj elections were held"
+      },
+      "correctAnswer": "B",
+      "explanation": "The States Reorganisation Act, 1956 reorganised states on linguistic lines and brought Kannada-speaking regions together in the enlarged Mysore State, creating a common administrative framework.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K004",
+      "subject": "Karnataka Social Changes",
+      "topic": "Meaning and Background",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Mysore State officially renamed Karnataka?",
+      "options": {
+        "A": "1 November 1956",
+        "B": "1 November 1973",
+        "C": "26 January 1950",
+        "D": "15 August 1947"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mysore State was officially renamed Karnataka on 1 November 1973.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K005",
+      "subject": "Karnataka Social Changes",
+      "topic": "Meaning and Background",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did social change after Independence remove all traditional inequalities in Karnataka?",
+      "options": {
+        "A": "Yes, all inequalities were removed",
+        "B": "No, caste discrimination, gender inequality, economic disparities, landlessness, and regional imbalances continued",
+        "C": "Only economic disparities were removed",
+        "D": "Only caste discrimination was removed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Social change expanded rights, opportunities, and political participation, but caste discrimination, gender inequality, economic disparities, landlessness, and regional imbalances continued.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K006",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution abolishes untouchability?",
+      "options": {
+        "A": "Article 14",
+        "B": "Article 15",
+        "C": "Article 17",
+        "D": "Article 21"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K007",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which law gives effect to the constitutional abolition of untouchability?",
+      "options": {
+        "A": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+        "B": "The Protection of Civil Rights Act, 1955",
+        "C": "The Right to Education Act, 2009",
+        "D": "The Forest Rights Act, 2006"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Protection of Civil Rights Act, 1955, originally enacted as the Untouchability (Offences) Act, 1955, penalises the enforcement of disabilities arising from untouchability.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K008",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which law specifically addresses atrocities against Scheduled Castes and Scheduled Tribes?",
+      "options": {
+        "A": "The Protection of Civil Rights Act, 1955",
+        "B": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+        "C": "The Right to Education Act, 2009",
+        "D": "The PESA Act, 1996"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989, provides for prevention of specified offences, special courts, and relief and rehabilitation measures.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K009",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by the decline of traditional jajmani relations?",
+      "options": {
+        "A": "The strengthening of hereditary caste-linked exchanges",
+        "B": "The weakening of hereditary, caste-linked exchanges of services and payments between dominant landholding families and service or artisan castes",
+        "C": "The increase in agricultural production",
+        "D": "The rise of urbanisation"
+      },
+      "correctAnswer": "B",
+      "explanation": "It refers to the weakening of hereditary, caste-linked exchanges of services and payments between dominant landholding families and service or artisan castes, partly due to markets, wage labour, migration, and new occupations.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K010",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did caste disappear from Karnataka's urban society?",
+      "options": {
+        "A": "Yes, completely",
+        "B": "No, it continued to influence marriage networks, associations, housing access, social networks, and political mobilisation",
+        "C": "Yes, but only in Bengaluru",
+        "D": "No, but only in rural areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Urbanisation and modern occupations reduced some forms of everyday caste dependence, but caste continued to influence marriage networks, associations, housing access, social networks, and political mobilisation.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K011",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is caste-based political mobilisation?",
+      "options": {
+        "A": "The organisation of people around caste identity to seek representation, public resources, recognition, and policy benefits through democratic institutions",
+        "B": "The abolition of caste",
+        "C": "The promotion of inter-caste marriages",
+        "D": "The decline of political participation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Caste-based political mobilisation is the organisation of people around caste identity or shared caste-related interests to seek representation, public resources, recognition, and policy benefits through democratic institutions.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K012",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sociologist developed the concept of the dominant caste?",
+      "options": {
+        "A": "Dr. B. R. Ambedkar",
+        "B": "M. N. Srinivas",
+        "C": "L. G. Havanur",
+        "D": "D. Devaraj Urs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mysore-born sociologist M. N. Srinivas developed the concept of the dominant caste in Indian sociology.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K013",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a dominant caste in sociological analysis?",
+      "options": {
+        "A": "A caste that is numerically the smallest",
+        "B": "A locally influential caste whose strength may derive from landownership, numerical presence, economic resources, education, and political influence",
+        "C": "A caste that has no political influence",
+        "D": "A caste that is only involved in agriculture"
+      },
+      "correctAnswer": "B",
+      "explanation": "A dominant caste is a locally influential caste whose strength may derive from landownership, numerical presence, economic resources, education, and political influence; the term is associated with sociologist M. N. Srinivas.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K014",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two communities have historically been identified as major dominant agrarian communities in parts of Karnataka?",
+      "options": {
+        "A": "Brahmins and Vokkaligas",
+        "B": "Lingayats and Vokkaligas",
+        "C": "Lingayats and Dalits",
+        "D": "Vokkaligas and Kurubas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lingayats and Vokkaligas have historically held substantial agrarian, economic, and political influence in different regions, although Karnataka's social structure is diverse and locally variable.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K015",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Constitutional Amendment gave constitutional status to Panchayati Raj institutions?",
+      "options": {
+        "A": "73rd Constitutional Amendment Act, 1992",
+        "B": "74th Constitutional Amendment Act, 1992",
+        "C": "86th Constitutional Amendment Act, 2002",
+        "D": "104th Constitutional Amendment Act, 2019"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 73rd Constitutional Amendment Act, 1992 gave constitutional status to Panchayati Raj institutions and came into force on 24 April 1993.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K016",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three commonly recognised tiers of rural local government in Karnataka?",
+      "options": {
+        "A": "Gram Panchayat, Taluk Panchayat, Zilla Panchayat",
+        "B": "Ward Committee, Municipality, Corporation",
+        "C": "Gram Sabha, Panchayat Samiti, Zilla Parishad",
+        "D": "Village Council, Block Council, District Council"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three tiers are Gram Panchayat at village level, Taluk Panchayat at taluk level, and Zilla Panchayat at district level.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K017",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the effect of rural-to-urban migration on village society?",
+      "options": {
+        "A": "It only increases agricultural production",
+        "B": "It changes labour availability, household income, and aspirations; remittances may support education, housing, and consumption, while migration can also create labour shortages and family separation",
+        "C": "It leads to the complete collapse of village society",
+        "D": "It has no effect on village society"
+      },
+      "correctAnswer": "B",
+      "explanation": "Migration changes labour availability, household income, and aspirations; remittances may support education, housing, and consumption, while migration can also create labour shortages and family separation.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K018",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by rural social stratification?",
+      "options": {
+        "A": "The equal distribution of land and resources",
+        "B": "The unequal distribution of land, income, occupation, status, and power among groups in rural society, often shaped by caste, class, gender, and access to public resources",
+        "C": "The migration of people from rural to urban areas",
+        "D": "The decline of agriculture"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is the unequal distribution of land, income, occupation, status, and power among groups in rural society, often shaped by caste, class, gender, and access to public resources.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K019",
+      "subject": "Karnataka Social Changes",
+      "topic": "Education and Social Transformation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Constitutional Amendment inserted Article 21A, making free and compulsory education a fundamental right?",
+      "options": {
+        "A": "73rd Constitutional Amendment Act, 1992",
+        "B": "74th Constitutional Amendment Act, 1992",
+        "C": "86th Constitutional Amendment Act, 2002",
+        "D": "104th Constitutional Amendment Act, 2019"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children aged 6 to 14 a fundamental right.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K020",
+      "subject": "Karnataka Social Changes",
+      "topic": "Education and Social Transformation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Right to Education Act?",
+      "options": {
+        "A": "The Right of Children to Free and Compulsory Education Act, 2009",
+        "B": "The Right to Information Act, 2005",
+        "C": "The Protection of Civil Rights Act, 1955",
+        "D": "The Forest Rights Act, 2006"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Right of Children to Free and Compulsory Education Act, 2009 gives children aged 6 to 14 a legal entitlement to free and compulsory elementary education under Article 21A.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K021",
+      "subject": "Karnataka Social Changes",
+      "topic": "Education and Social Transformation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a continuing challenge in educational development in Karnataka?",
+      "options": {
+        "A": "Complete lack of educational institutions",
+        "B": "Differences in school quality, learning outcomes, digital access, language resources, household income, gender, and rural-urban infrastructure",
+        "C": "Excessive government funding",
+        "D": "Overcrowding in schools only in urban areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Differences in school quality, learning outcomes, digital access, language resources, household income, gender, and rural-urban infrastructure continue to affect educational equality.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K022",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which city is widely known as the Silicon Valley of India?",
+      "options": {
+        "A": "Mysuru",
+        "B": "Mangaluru",
+        "C": "Bengaluru",
+        "D": "Hubballi-Dharwad"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bengaluru is widely known as the Silicon Valley of India because of its concentration of information technology, software, start-up, and related industries.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K023",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT an important industrial centre in Karnataka apart from Bengaluru?",
+      "options": {
+        "A": "Mysuru",
+        "B": "Mangaluru",
+        "C": "Hubballi-Dharwad",
+        "D": "Chennai"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mysuru, Mangaluru, Hubballi-Dharwad, Belagavi, Ballari, Kalaburagi, Tumakuru, and the Kolar region are among the state's important industrial or commercial centres. Chennai is in Tamil Nadu.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K024",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What problems can accompany rapid urbanisation?",
+      "options": {
+        "A": "Only housing shortages",
+        "B": "Housing shortages, slums and informal settlements, traffic congestion, air and water pollution, pressure on water supply, waste management problems, unequal services, and loss of open spaces",
+        "C": "Only traffic congestion",
+        "D": "Only pollution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Common problems include housing shortages, slums and informal settlements, traffic congestion, air and water pollution, pressure on water supply, waste management problems, unequal services, and loss of open spaces.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K025",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did industrialisation change the occupational structure in Karnataka?",
+      "options": {
+        "A": "It reduced employment opportunities",
+        "B": "It expanded employment in factories, transport, construction, engineering, services, and formal or informal wage work, reducing exclusive dependence on agriculture",
+        "C": "It only increased agricultural employment",
+        "D": "It had no effect on occupational structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "It expanded employment in factories, transport, construction, engineering, services, and formal or informal wage work, reducing the exclusive dependence of many households on agriculture.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K026",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article of the Constitution permits special provisions for women and children?",
+      "options": {
+        "A": "Article 14",
+        "B": "Article 15(3)",
+        "C": "Article 16",
+        "D": "Article 21"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 15(3) permits special provisions for women and children.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K027",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Directive Principle directs the State to ensure equal pay for men and women?",
+      "options": {
+        "A": "Article 39(d)",
+        "B": "Article 42",
+        "C": "Article 46",
+        "D": "Article 51A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 39(d) directs the State to secure equal pay for equal work for both men and women.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K028",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article directs the State to make provision for just and humane conditions of work and maternity relief?",
+      "options": {
+        "A": "Article 39(d)",
+        "B": "Article 42",
+        "C": "Article 46",
+        "D": "Article 51A"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 42 directs the State to make provision for just and humane conditions of work and maternity relief.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K029",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Constitutional Amendment provides reservation for women in Panchayats?",
+      "options": {
+        "A": "73rd Constitutional Amendment",
+        "B": "74th Constitutional Amendment",
+        "C": "86th Constitutional Amendment",
+        "D": "104th Constitutional Amendment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 243D, introduced through the 73rd Constitutional Amendment, requires reservation of not less than one-third of seats for women in Panchayats.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K030",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Constitutional Amendment provides reservation for women in Municipalities?",
+      "options": {
+        "A": "73rd Constitutional Amendment",
+        "B": "74th Constitutional Amendment",
+        "C": "86th Constitutional Amendment",
+        "D": "104th Constitutional Amendment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 243T, introduced through the 74th Constitutional Amendment, provides reservation of not less than one-third of seats for women in Municipalities.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K031",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Karnataka Panchayat Raj Act, 1993 for women?",
+      "options": {
+        "A": "It provides the state-law framework for Panchayat institutions and reservation in local governance, helping widen women's participation",
+        "B": "It abolished Panchayati Raj",
+        "C": "It only applies to urban local bodies",
+        "D": "It reduced women's participation"
+      },
+      "correctAnswer": "A",
+      "explanation": "It provides the state-law framework for Panchayat institutions and reservation in local governance, helping widen women's participation in grassroots democracy.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K032",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Self-Help Groups (SHGs) and how can they empower women?",
+      "options": {
+        "A": "Large government organisations that provide direct employment",
+        "B": "Small voluntary groups, often formed by women, that promote regular savings, access to credit, collective enterprise, mutual support, and participation in local development",
+        "C": "Political parties exclusively for women",
+        "D": "Educational institutions for women"
+      },
+      "correctAnswer": "B",
+      "explanation": "SHGs are small voluntary groups, often formed by women, that promote regular savings, access to credit, collective enterprise, mutual support, and participation in local development.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K033",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a major continuing barrier to women's empowerment?",
+      "options": {
+        "A": "Excessive representation in decision-making spaces",
+        "B": "Gender-based violence, unequal unpaid care work, wage gaps, limited asset ownership, restrictions on mobility, and under-representation in some decision-making spaces",
+        "C": "Complete equality in all spheres",
+        "D": "Lack of education among men"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gender-based violence, unequal unpaid care work, wage gaps, limited asset ownership, restrictions on mobility, and under-representation in some decision-making spaces remain important barriers.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K034",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is social mobility?",
+      "options": {
+        "A": "The movement of individuals or groups from one social or economic position to another within a society",
+        "B": "The migration of people from one country to another",
+        "C": "The physical movement of people from rural to urban areas",
+        "D": "The change in government"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social mobility is the movement of individuals or groups from one social or economic position to another within a society.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K035",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is upward social mobility?",
+      "options": {
+        "A": "Movement to a lower socio-economic position",
+        "B": "Movement to a higher socio-economic position through education, occupation, income, political influence, or other changes",
+        "C": "Movement from urban to rural areas",
+        "D": "Movement from one caste to another"
+      },
+      "correctAnswer": "B",
+      "explanation": "Upward social mobility occurs when a person or group moves to a higher socio-economic position through education, occupation, income, political influence, or other changes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K036",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is intergenerational mobility?",
+      "options": {
+        "A": "A change in social or economic position during an individual's own lifetime",
+        "B": "A change in social or economic position between parents and their children",
+        "C": "Movement from one country to another",
+        "D": "Movement from one caste to another"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intergenerational mobility refers to a change in social or economic position between parents and their children.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K037",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is intragenerational mobility?",
+      "options": {
+        "A": "A change in social or economic position during an individual's own lifetime",
+        "B": "A change in social or economic position between parents and their children",
+        "C": "Movement from one country to another",
+        "D": "Movement from one caste to another"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intragenerational mobility refers to a change in an individual's social or economic position during that person's own lifetime.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K038",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Sanskritisation?",
+      "options": {
+        "A": "A process where a lower-ranking caste or community seeks upward status by adopting practices and rituals associated with groups regarded as higher in the local caste hierarchy",
+        "B": "The adoption of Western culture",
+        "C": "The process of learning Sanskrit",
+        "D": "The decline of caste system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sanskritisation is a process described by M. N. Srinivas in which a lower-ranking caste or community seeks upward status by adopting practices and rituals associated with groups regarded as higher in the local caste hierarchy.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K039",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Westernisation in Indian sociology?",
+      "options": {
+        "A": "A process where lower castes adopt higher caste practices",
+        "B": "A concept used by M. N. Srinivas referring to changes in Indian society associated with contact with Western institutions, technology, education, values, and ways of life",
+        "C": "The process of learning English",
+        "D": "The decline of Western influence"
+      },
+      "correctAnswer": "B",
+      "explanation": "Westernisation, a concept used by M. N. Srinivas, refers to changes in Indian society associated with contact with Western institutions, technology, education, values, and ways of life.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+        {
+      "id": "K040",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Sanskritisation and Westernisation?",
+      "options": {
+        "A": "Sanskritisation involves adopting Western practices, while Westernisation involves adopting higher caste practices",
+        "B": "Sanskritisation involves adopting practices associated with higher-status groups within the caste order, whereas Westernisation refers to changes associated with Western influence in institutions, technology, education, and culture",
+        "C": "Both are the same process",
+        "D": "Sanskritisation is only about language, while Westernisation is only about technology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sanskritisation involves adopting practices associated with higher-status groups within the caste order, whereas Westernisation refers to changes associated with Western influence in institutions, technology, education, and culture.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K041",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does social mobility mean that caste inequalities have ended?",
+      "options": {
+        "A": "Yes, completely",
+        "B": "No, individuals and groups may experience mobility while caste continues to shape marriage, social networks, discrimination, access to resources, and political representation",
+        "C": "Yes, but only in urban areas",
+        "D": "No, because social mobility is impossible"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Individuals and groups may experience mobility while caste continues to shape marriage, social networks, discrimination, access to resources, and political representation.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K042",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides for elections on the basis of adult suffrage to the Lok Sabha and State Legislative Assemblies?",
+      "options": {
+        "A": "Article 326",
+        "B": "Article 330",
+        "C": "Article 332",
+        "D": "Article 243D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 326 provides for elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage, subject to constitutional and statutory qualifications.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K043",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is reservation in the Indian constitutional context?",
+      "options": {
+        "A": "A form of affirmative action that provides specified representation or opportunities to constitutionally recognised or legally identified disadvantaged groups",
+        "B": "The process of booking train tickets",
+        "C": "The reservation of seats in private clubs",
+        "D": "A system of hereditary privilege"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reservation is a form of affirmative action that provides specified representation or opportunities to constitutionally recognised or legally identified disadvantaged groups in areas such as education, public employment, and elected bodies.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K044",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article enables special provisions for the advancement of socially and educationally backward classes and SCs and STs in education?",
+      "options": {
+        "A": "Article 15(4)",
+        "B": "Article 16(4)",
+        "C": "Article 17",
+        "D": "Article 46"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 15(4), inserted by the First Constitutional Amendment Act, 1951, enables special provisions for the advancement of socially and educationally backward classes and for SCs and STs.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K045",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article permits reservation in public employment for backward classes inadequately represented in State services?",
+      "options": {
+        "A": "Article 15(4)",
+        "B": "Article 16(4)",
+        "C": "Article 17",
+        "D": "Article 46"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 16(4) permits the State to make provision for reservation of appointments or posts in favour of a backward class of citizens that, in the State's opinion, is not adequately represented in its services.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K046",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article provides for reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha?",
+      "options": {
+        "A": "Article 326",
+        "B": "Article 330",
+        "C": "Article 332",
+        "D": "Article 243D"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 330 provides for reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K047",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article provides for reservation of seats for Scheduled Castes and Scheduled Tribes in State Legislative Assemblies?",
+      "options": {
+        "A": "Article 326",
+        "B": "Article 330",
+        "C": "Article 332",
+        "D": "Article 243T"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 332 provides for reservation of seats for Scheduled Castes and Scheduled Tribes in State Legislative Assemblies.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K048",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Article 16(4A) enable?",
+      "options": {
+        "A": "Reservation in matters of promotion for SCs and STs under the conditions stated in the Constitution and interpreted by the courts",
+        "B": "Reservation in education for backward classes",
+        "C": "Reservation of seats in Panchayats",
+        "D": "Abolition of untouchability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 16(4A) enables reservation in matters of promotion for SCs and STs under the conditions stated in the Constitution and interpreted by the courts.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K049",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between political reservation and reservation in public employment?",
+      "options": {
+        "A": "Political reservation reserves seats in elected legislative or local bodies; employment reservation concerns appointments or posts in public services",
+        "B": "Political reservation is for SCs/STs only; employment reservation is for women only",
+        "C": "Both are the same",
+        "D": "Political reservation is for backward classes; employment reservation is for SCs/STs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Political reservation reserves seats in elected legislative or local bodies; employment reservation concerns appointments or posts in public services under relevant constitutional provisions and laws.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K050",
+      "subject": "Karnataka Social Changes",
+      "topic": "Political Participation and Reservation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the 73rd and 74th Constitutional Amendments for representation?",
+      "options": {
+        "A": "They constitutionalised rural and urban local self-government and provided reservation for SCs, STs, and women in local bodies",
+        "B": "They abolished local self-government",
+        "C": "They only provided reservation in Parliament",
+        "D": "They only apply to urban areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "They constitutionalised rural and urban local self-government and provided reservation for SCs, STs, and women in local bodies, with details governed by the Constitution and state legislation.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K051",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was D. Devaraj Urs and why is he important in Karnataka's social history?",
+      "options": {
+        "A": "He was the first Chief Minister of Karnataka",
+        "B": "He was Chief Minister of Karnataka during much of the 1970s and is associated with policies aimed at broadening political representation and advancing backward classes",
+        "C": "He was the Chairman of the Drafting Committee",
+        "D": "He was a famous Kannada poet"
+      },
+      "correctAnswer": "B",
+      "explanation": "D. Devaraj Urs was Chief Minister of Karnataka during much of the 1970s and is associated with policies aimed at broadening political representation and advancing backward classes and other disadvantaged groups.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K052",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In which year did the Karnataka Backward Classes Welfare Department originate as a separate welfare administration under Devaraj Urs?",
+      "options": {
+        "A": "1975",
+        "B": "1977",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Mysuru district government's official account states that Devaraj Urs established the Backward Classes Welfare Department in 1977.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K053",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which constitutional provisions are cited by Karnataka's Backward Classes Welfare Department for its mandate?",
+      "options": {
+        "A": "Articles 14 and 17",
+        "B": "Articles 15(4) and 16(4)",
+        "C": "Articles 21A and 46",
+        "D": "Articles 243D and 243T"
+      },
+      "correctAnswer": "B",
+      "explanation": "Articles 15(4) and 16(4) are cited as constitutional bases for special provisions in education and reservation in public employment for eligible backward classes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K054",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the Havanur Commission?",
+      "options": {
+        "A": "Karnataka's First Backward Classes Commission, appointed in 1975 under L. G. Havanur",
+        "B": "Karnataka's Second Backward Classes Commission",
+        "C": "Karnataka's Third Backward Classes Commission",
+        "D": "A commission for tribal development"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Havanur Commission was Karnataka's First Backward Classes Commission, appointed by the Devaraj Urs government in 1975 under L. G. Havanur to study social and educational backwardness and recommend measures.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K055",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the Venkataswamy Commission?",
+      "options": {
+        "A": "Karnataka's First Backward Classes Commission",
+        "B": "Karnataka's Second Backward Classes Commission, appointed in 1983",
+        "C": "Karnataka's Third Backward Classes Commission",
+        "D": "A commission for women's empowerment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Venkataswamy Commission, appointed in 1983, was Karnataka's Second Backward Classes Commission and undertook a statewide socio-economic and educational survey before submitting recommendations in 1986.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K056",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the Chinnappa Reddy Commission?",
+      "options": {
+        "A": "Karnataka's First Backward Classes Commission",
+        "B": "Karnataka's Second Backward Classes Commission",
+        "C": "Karnataka's Third Backward Classes Commission, appointed in 1990",
+        "D": "A commission for tribal development"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Chinnappa Reddy Commission was Karnataka's Third Backward Classes Commission, appointed in 1990 and associated with recommendations on backward-class identification and reservation policy.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K057",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the significance of the 1970s backward-class mobilisation in Karnataka?",
+      "options": {
+        "A": "It widened political debate about representation and social justice beyond established dominant political groups and helped bring backward-class welfare to the centre of state policy",
+        "B": "It led to the abolition of reservation",
+        "C": "It only affected urban areas",
+        "D": "It had no impact on state policy"
+      },
+      "correctAnswer": "A",
+      "explanation": "It widened political debate about representation and social justice beyond established dominant political groups and helped bring backward-class welfare and inclusion to the centre of state policy.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K058",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which national leader and thinker strongly influenced modern Dalit movements in India?",
+      "options": {
+        "A": "Mahatma Gandhi",
+        "B": "Dr. B. R. Ambedkar",
+        "C": "Jawaharlal Nehru",
+        "D": "Sardar Patel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dr. B. R. Ambedkar strongly influenced modern Dalit movements through his struggle against untouchability and caste discrimination and his advocacy of education, organisation, agitation, and constitutional rights.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K059",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Bhusa/Bhoosa controversy associated with B. Basavalingappa in Karnataka?",
+      "options": {
+        "A": "A controversy about land reforms",
+        "B": "A controversy that arose in 1973 when Karnataka minister B. Basavalingappa criticised the dominance of what he called 'boosa' in Kannada literature, provoking a major public debate on caste representation, cultural exclusion, and Dalit assertion",
+        "C": "A controversy about reservation policy",
+        "D": "A controversy about women's reservation"
+      },
+      "correctAnswer": "B",
+      "explanation": "The controversy arose in 1973 when Karnataka minister B. Basavalingappa criticised the dominance of what he called 'boosa' in Kannada literature, provoking a major public debate on caste representation, cultural exclusion, and Dalit assertion.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K060",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Dalita Sangharsha Samiti (DSS)?",
+      "options": {
+        "A": "A political party",
+        "B": "A Dalit rights organisation and movement in Karnataka that mobilised against untouchability, caste oppression, exploitation, and denial of rights",
+        "C": "A government department",
+        "D": "An educational institution"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Dalita Sangharsha Samiti is a Dalit rights organisation and movement in Karnataka that mobilised against untouchability, caste oppression, exploitation, and denial of rights.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K061",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "During which period did the Dalita Sangharsha Samiti emerge as a major force in Karnataka?",
+      "options": {
+        "A": "1950s",
+        "B": "1960s",
+        "C": "1970s",
+        "D": "1980s"
+      },
+      "correctAnswer": "C",
+      "explanation": "The DSS emerged as a major organised force in the 1970s, with its growth linked to the wider Dalit assertion of that period.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K062",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What were the major issues raised by the Karnataka Dalit movement?",
+      "options": {
+        "A": "Only land rights",
+        "B": "Untouchability, atrocities, land rights, access to common resources, dignity, education, labour exploitation, gender oppression, representation, and the annihilation of caste",
+        "C": "Only education",
+        "D": "Only political representation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Its concerns included untouchability, atrocities, land rights, access to common resources, dignity, education, labour exploitation, gender oppression, representation, and the annihilation of caste.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K063",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Dalit literature?",
+      "options": {
+        "A": "Literature written only in English",
+        "B": "Writing that expresses and examines the lived experiences, oppression, resistance, identity, and aspirations of Dalit communities, often challenging caste-based social structures",
+        "C": "Literature written by upper castes about Dalits",
+        "D": "Literature that supports caste hierarchy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dalit literature is writing that expresses and examines the lived experiences, oppression, resistance, identity, and aspirations of Dalit communities, often challenging caste-based social structures.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K064",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article empowers the President to specify Scheduled Tribes?",
+      "options": {
+        "A": "Article 341",
+        "B": "Article 342",
+        "C": "Article 338A",
+        "D": "Article 46"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 342 empowers the President to specify Scheduled Tribes in relation to a State or Union Territory, subject to the constitutional procedure for subsequent changes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K065",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Constitutional Article provides for administration and control of Scheduled Areas and Scheduled Tribes in most states?",
+      "options": {
+        "A": "Fifth Schedule",
+        "B": "Sixth Schedule",
+        "C": "Seventh Schedule",
+        "D": "Eighth Schedule"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Fifth Schedule provides for administration and control of Scheduled Areas and Scheduled Tribes in states other than the areas covered by the Sixth Schedule.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K066",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Constitutional Article provides for a National Commission for Scheduled Tribes?",
+      "options": {
+        "A": "Article 338",
+        "B": "Article 338A",
+        "C": "Article 341",
+        "D": "Article 342"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 338A provides for the National Commission for Scheduled Tribes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K067",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Constitutional Article directs the State to promote the educational and economic interests of SCs, STs, and weaker sections?",
+      "options": {
+        "A": "Article 39(d)",
+        "B": "Article 42",
+        "C": "Article 46",
+        "D": "Article 51A"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 46 directs the State to promote the educational and economic interests of Scheduled Castes, Scheduled Tribes, and other weaker sections and protect them from social injustice and exploitation.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K068",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a Scheduled Tribe community found in Karnataka?",
+      "options": {
+        "A": "Lingayat",
+        "B": "Vokkaliga",
+        "C": "Soliga",
+        "D": "Brahmin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recognised communities include Soliga, Jenu Kuruba, Kadu Kuruba, Koraga, Yerava, Hakki-Pikki, Siddi, and other communities listed in the Constitution (Scheduled Tribes) Order as applicable to Karnataka.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K069",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the Forest Rights Act, 2006?",
+      "options": {
+        "A": "To recognise and vest certain individual and community forest rights in eligible forest-dwelling Scheduled Tribes and other traditional forest dwellers",
+        "B": "To nationalise all forests",
+        "C": "To ban tribal communities from forests",
+        "D": "To promote industrialisation in forest areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 recognises and vests certain individual and community forest rights in eligible forest-dwelling Scheduled Tribes and other traditional forest dwellers who meet the Act's conditions.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K070",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the PESA Act, 1996?",
+      "options": {
+        "A": "It extends Part IX of the Constitution to Fifth Schedule areas with special provisions to strengthen Gram Sabhas and local self-governance",
+        "B": "It provides reservation in private employment",
+        "C": "It abolishes Panchayati Raj",
+        "D": "It applies to urban local bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Panchayats (Extension to the Scheduled Areas) Act, 1996 extends Part IX of the Constitution to Fifth Schedule areas with special provisions to strengthen Gram Sabhas and local self-governance; its application depends on notified Scheduled Areas.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K071",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the status of PESA in Karnataka?",
+      "options": {
+        "A": "PESA applies uniformly throughout Karnataka",
+        "B": "Karnataka does not have Fifth Schedule areas to which PESA's extension regime applies",
+        "C": "PESA applies only to Bengaluru",
+        "D": "PESA was repealed in Karnataka"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka does not have Fifth Schedule areas to which PESA's extension regime applies; candidates should not assume that PESA applies uniformly throughout the state.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K072",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the Integrated Tribal Development Project (ITDP)?",
+      "options": {
+        "A": "To coordinate welfare and development programmes in tribal-concentration areas",
+        "B": "To promote tribal literature",
+        "C": "To provide legal aid to tribals",
+        "D": "To manage tribal museums"
+      },
+      "correctAnswer": "A",
+      "explanation": "ITDPs are area-based administrative and development arrangements intended to coordinate welfare and development programmes in tribal-concentration areas.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K073",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Scheduled Caste and Scheduled Tribe constitutional recognition?",
+      "options": {
+        "A": "Scheduled Castes are specified under Article 341 and Scheduled Tribes under Article 342; the notified lists are distinct and legally determined for each State or Union Territory",
+        "B": "Both are specified under Article 341",
+        "C": "Scheduled Castes are specified under Article 342 and Scheduled Tribes under Article 341",
+        "D": "Both are specified under Article 338A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scheduled Castes are specified under Article 341 and Scheduled Tribes under Article 342; the notified lists are distinct and legally determined for each State or Union Territory.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K074",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 14 of the Constitution guarantees:",
+      "options": {
+        "A": "Equality before the law and equal protection of the laws",
+        "B": "Abolition of untouchability",
+        "C": "Free and compulsory education",
+        "D": "Reservation in public employment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 14 guarantees equality before the law and equal protection of the laws.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K075",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 17 provides for:",
+      "options": {
+        "A": "Equality before the law",
+        "B": "Abolition of untouchability",
+        "C": "Free and compulsory education",
+        "D": "Reservation in public employment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 17 provides for the abolition of untouchability.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K076",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 21A provides for:",
+      "options": {
+        "A": "Equality before the law",
+        "B": "Abolition of untouchability",
+        "C": "Free and compulsory education for children aged 6 to 14 years",
+        "D": "Reservation in public employment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 21A provides for free and compulsory education for children aged 6 to 14 years.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K077",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 243D concerns:",
+      "options": {
+        "A": "Reservation of seats in Panchayats, including reservation for women, SCs, and STs",
+        "B": "Reservation of seats in Municipalities",
+        "C": "Elections to the Lok Sabha",
+        "D": "National Commission for Scheduled Tribes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 243D concerns reservation of seats in Panchayats, including reservation for women, SCs, and STs.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K078",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 243T concerns:",
+      "options": {
+        "A": "Reservation of seats in Panchayats",
+        "B": "Reservation of seats in Municipalities, including reservation for women, SCs, and STs",
+        "C": "Elections to the Lok Sabha",
+        "D": "National Commission for Scheduled Tribes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 243T concerns reservation of seats in Municipalities, including reservation for women, SCs, and STs.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+        {
+      "id": "K079",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 326 concerns:",
+      "options": {
+        "A": "Elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage",
+        "B": "Reservation of seats in Panchayats",
+        "C": "Abolition of untouchability",
+        "D": "National Commission for Scheduled Tribes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 326 concerns elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K080",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 338A establishes:",
+      "options": {
+        "A": "The Election Commission of India",
+        "B": "The National Commission for Scheduled Tribes",
+        "C": "The Finance Commission",
+        "D": "The Union Public Service Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 338A establishes the National Commission for Scheduled Tribes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K081",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Article 341 concerns:",
+      "options": {
+        "A": "Specification of Scheduled Castes",
+        "B": "Specification of Scheduled Tribes",
+        "C": "Reservation in Panchayats",
+        "D": "Free and compulsory education"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 341 concerns the specification of Scheduled Castes.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K082",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The 73rd Constitutional Amendment relates to:",
+      "options": {
+        "A": "Municipalities and Part IXA of the Constitution",
+        "B": "Panchayati Raj institutions and Part IX of the Constitution",
+        "C": "Right to Education",
+        "D": "Reservation in promotions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 73rd Constitutional Amendment relates to Panchayati Raj institutions and Part IX of the Constitution.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K083",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The 74th Constitutional Amendment relates to:",
+      "options": {
+        "A": "Panchayati Raj institutions and Part IX",
+        "B": "Municipalities and Part IXA of the Constitution",
+        "C": "Right to Education",
+        "D": "Reservation in promotions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 74th Constitutional Amendment relates to Municipalities and Part IXA of the Constitution.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K084",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The 73rd Constitutional Amendment came into force on:",
+      "options": {
+        "A": "24 April 1993",
+        "B": "1 June 1993",
+        "C": "26 January 1950",
+        "D": "1 November 1956"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 73rd Constitutional Amendment came into force on 24 April 1993.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K085",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The 74th Constitutional Amendment came into force on:",
+      "options": {
+        "A": "24 April 1993",
+        "B": "1 June 1993",
+        "C": "26 January 1950",
+        "D": "1 November 1956"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 74th Constitutional Amendment came into force on 1 June 1993.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K086",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Right to Education Act was enacted in:",
+      "options": {
+        "A": "2005",
+        "B": "2006",
+        "C": "2009",
+        "D": "2010"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Right to Education Act was enacted in 2009; it came into effect on 1 April 2010.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K087",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Protection of Civil Rights Act was enacted in:",
+      "options": {
+        "A": "1955",
+        "B": "1989",
+        "C": "2006",
+        "D": "1996"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Protection of Civil Rights Act was enacted in 1955.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K088",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The SC/ST (Prevention of Atrocities) Act was enacted in:",
+      "options": {
+        "A": "1955",
+        "B": "1989",
+        "C": "2006",
+        "D": "1996"
+      },
+      "correctAnswer": "B",
+      "explanation": "The SC/ST (Prevention of Atrocities) Act was enacted in 1989.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K089",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Karnataka Backward Classes Welfare Department was established by Devaraj Urs in:",
+      "options": {
+        "A": "1975",
+        "B": "1977",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to the Mysuru district government's official account, the Karnataka Backward Classes Welfare Department was established by Devaraj Urs in 1977.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K090",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Havanur Commission was appointed in:",
+      "options": {
+        "A": "1975",
+        "B": "1977",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Havanur Commission was appointed in 1975.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K091",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Venkataswamy Commission was appointed in:",
+      "options": {
+        "A": "1975",
+        "B": "1977",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Venkataswamy Commission was appointed in 1983.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K092",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Chinnappa Reddy Commission was appointed in:",
+      "options": {
+        "A": "1975",
+        "B": "1977",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Chinnappa Reddy Commission was appointed in 1990.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K093",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Bhusa controversy associated with B. Basavalingappa occurred in:",
+      "options": {
+        "A": "1965",
+        "B": "1973",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Bhusa controversy associated with B. Basavalingappa occurred in 1973.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K094",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Dalita Sangharsha Samiti emerged as a major movement in Karnataka during:",
+      "options": {
+        "A": "1950s",
+        "B": "1960s",
+        "C": "1970s",
+        "D": "1980s"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Dalita Sangharsha Samiti emerged as a major movement in Karnataka during the 1970s.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K095",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The concepts of Sanskritisation and Westernisation are associated with:",
+      "options": {
+        "A": "Dr. B. R. Ambedkar",
+        "B": "M. N. Srinivas",
+        "C": "L. G. Havanur",
+        "D": "D. Devaraj Urs"
+      },
+      "correctAnswer": "B",
+      "explanation": "The concepts of Sanskritisation and Westernisation are associated with M. N. Srinivas.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K096",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Forest Rights Act was enacted in:",
+      "options": {
+        "A": "1996",
+        "B": "2006",
+        "C": "2009",
+        "D": "1989"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Forest Rights Act was enacted in 2006.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K097",
+      "subject": "Karnataka Social Changes",
+      "topic": "High-Yield Revision",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The PESA Act was enacted in:",
+      "options": {
+        "A": "1996",
+        "B": "2006",
+        "C": "2009",
+        "D": "1989"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PESA Act was enacted in 1996.",
+      "source": "Karnataka_Social_Changes.pdf, Page 7"
+    },
+    {
+      "id": "K098",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Caste Relations",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following weakened some traditional caste restrictions and altered access to power and resources in Karnataka after Independence?",
+      "options": {
+        "A": "Constitutional equality, abolition of untouchability, education, reservation, land reforms, urban employment, migration, and democratic politics",
+        "B": "Only education",
+        "C": "Only land reforms",
+        "D": "Only urban employment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Constitutional equality, abolition of untouchability, education, reservation, land reforms, urban employment, migration, and democratic politics weakened some traditional caste restrictions and altered access to power and resources.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K099",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did land reforms influence caste relations in rural Karnataka?",
+      "options": {
+        "A": "By enabling eligible tenants to obtain occupancy rights and changing patterns of land control, altering some traditional landlord-tenant relationships",
+        "B": "By completely abolishing caste",
+        "C": "By increasing the power of landlords",
+        "D": "By having no effect on caste relations"
+      },
+      "correctAnswer": "A",
+      "explanation": "By enabling eligible tenants to obtain occupancy rights and changing patterns of land control, land reforms altered some traditional landlord-tenant relationships; their effects varied by locality and beneficiary group.",
+      "source": "Karnataka_Social_Changes.pdf, Page 1"
+    },
+    {
+      "id": "K100",
+      "subject": "Karnataka Social Changes",
+      "topic": "Changes in Rural Society",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did the Green Revolution influence Karnataka's rural economy?",
+      "options": {
+        "A": "It had no impact on rural economy",
+        "B": "The spread of high-yielding seeds, fertilisers, irrigation, pesticides, and mechanisation raised production in some areas, but benefits were uneven",
+        "C": "It reduced agricultural production",
+        "D": "It only benefited small farmers"
+      },
+      "correctAnswer": "B",
+      "explanation": "The spread of high-yielding seeds, fertilisers, irrigation, pesticides, and mechanisation raised production in some areas, but benefits were uneven and depended on water, capital, infrastructure, and access to inputs.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K101",
+      "subject": "Karnataka Social Changes",
+      "topic": "Education and Social Transformation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between education and social mobility?",
+      "options": {
+        "A": "Education has no relation to social mobility",
+        "B": "Education can provide qualifications, skills, and credentials that enable individuals to move into higher-paying occupations and gain greater social and economic status, although access and outcomes remain unequal",
+        "C": "Education always guarantees upward mobility",
+        "D": "Education reduces social mobility"
+      },
+      "correctAnswer": "B",
+      "explanation": "Education can provide qualifications, skills, and credentials that enable individuals to move into higher-paying occupations and gain greater social and economic status, although access and outcomes remain unequal.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K102",
+      "subject": "Karnataka Social Changes",
+      "topic": "Education and Social Transformation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of scholarships and hostels in educational inclusion?",
+      "options": {
+        "A": "They increase financial barriers",
+        "B": "They reduce financial and residential barriers and support access to education for eligible Scheduled Caste, Scheduled Tribe, backward-class, minority, and other disadvantaged students",
+        "C": "They are only for urban students",
+        "D": "They have no impact on educational inclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "They reduce financial and residential barriers and support access to education for eligible Scheduled Caste, Scheduled Tribe, backward-class, minority, and other disadvantaged students.",
+      "source": "Karnataka_Social_Changes.pdf, Page 2"
+    },
+    {
+      "id": "K103",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which factors contributed to Bengaluru's growth as an information-technology centre?",
+      "options": {
+        "A": "Only government subsidies",
+        "B": "Its educational and research institutions, public-sector and defence-related industrial base, skilled workforce, telecommunications, entrepreneurship, and later software-sector investment",
+        "C": "Only its pleasant climate",
+        "D": "Only foreign investment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Its educational and research institutions, public-sector and defence-related industrial base, skilled workforce, telecommunications, entrepreneurship, and later software-sector investment contributed to its IT growth.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K104",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What positive effects can urbanisation and industrialisation produce?",
+      "options": {
+        "A": "Only environmental degradation",
+        "B": "They can expand employment, education, healthcare, transport, markets, innovation, public services, and opportunities for women and historically disadvantaged groups",
+        "C": "They only benefit the wealthy",
+        "D": "They have no positive effects"
+      },
+      "correctAnswer": "B",
+      "explanation": "They can expand employment, education, healthcare, transport, markets, innovation, public services, and opportunities for women and historically disadvantaged groups.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K105",
+      "subject": "Karnataka Social Changes",
+      "topic": "Urbanisation and Industrialisation",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can industrialisation affect rural society?",
+      "options": {
+        "A": "It has no effect on rural society",
+        "B": "It can draw labour from villages, create non-farm employment, expand markets and infrastructure, alter land use, and introduce new consumption patterns and social relationships",
+        "C": "It only leads to the decline of agriculture",
+        "D": "It only benefits urban areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "It can draw labour from villages, create non-farm employment, expand markets and infrastructure, alter land use, and introduce new consumption patterns and social relationships.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K106",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did education contribute to women's empowerment in Karnataka?",
+      "options": {
+        "A": "It had no impact on women's empowerment",
+        "B": "Education improved literacy, awareness of rights, access to professional work, health knowledge, leadership opportunities, and participation in public decision-making",
+        "C": "It only increased literacy rates",
+        "D": "It reduced women's participation in public life"
+      },
+      "correctAnswer": "B",
+      "explanation": "Education improved literacy, awareness of rights, access to professional work, health knowledge, leadership opportunities, and participation in public decision-making.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K107",
+      "subject": "Karnataka Social Changes",
+      "topic": "Women's Empowerment",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did reservation in local bodies promote women's political participation?",
+      "options": {
+        "A": "It reduced women's participation",
+        "B": "Reserved seats enabled more women to enter Gram Panchayats, Taluk Panchayats, Zilla Panchayats, and urban local bodies, creating opportunities for grassroots leadership",
+        "C": "It only applied to urban local bodies",
+        "D": "It had no impact on women's participation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reserved seats enabled more women to enter Gram Panchayats, Taluk Panchayats, Zilla Panchayats, and urban local bodies, creating opportunities for grassroots leadership.",
+      "source": "Karnataka_Social_Changes.pdf, Page 3"
+    },
+    {
+      "id": "K108",
+      "subject": "Karnataka Social Changes",
+      "topic": "Social Mobility",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which factors promote social mobility in Karnataka?",
+      "options": {
+        "A": "Only education",
+        "B": "Education, landownership, non-farm employment, industrialisation, migration, reservation, public employment, entrepreneurship, political participation, and access to welfare schemes",
+        "C": "Only reservation",
+        "D": "Only migration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Education, landownership, non-farm employment, industrialisation, migration, reservation, public employment, entrepreneurship, political participation, and access to welfare schemes can promote mobility.",
+      "source": "Karnataka_Social_Changes.pdf, Page 4"
+    },
+    {
+      "id": "K109",
+      "subject": "Karnataka Social Changes",
+      "topic": "Backward-Class Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did backward-class movements in Karnataka consist of only one organisation or community?",
+      "options": {
+        "A": "Yes, only one organisation",
+        "B": "No, they involved diverse communities, associations, leaders, and political currents with differing demands and regional interests",
+        "C": "Yes, only one community",
+        "D": "No, but they were limited to urban areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "They involved diverse communities, associations, leaders, and political currents with differing demands and regional interests.",
+      "source": "Karnataka_Social_Changes.pdf, Page 5"
+    },
+    {
+      "id": "K110",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did the Dalit movement influence Kannada literature and culture?",
+      "options": {
+        "A": "It had no influence on literature",
+        "B": "It encouraged Dalit literature, protest poetry, autobiographical writing, theatre, and cultural expression that challenged caste hierarchy and brought marginalised experiences into public discussion",
+        "C": "It only influenced music",
+        "D": "It discouraged literary expression"
+      },
+      "correctAnswer": "B",
+      "explanation": "It encouraged Dalit literature, protest poetry, autobiographical writing, theatre, and cultural expression that challenged caste hierarchy and brought marginalised experiences into public discussion.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K111",
+      "subject": "Karnataka Social Changes",
+      "topic": "Dalit Movements in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between the Dalit movement and the Indian Constitution?",
+      "options": {
+        "A": "The Dalit movement has rejected the Constitution",
+        "B": "The movement has used constitutional guarantees such as equality, non-discrimination, abolition of untouchability, political representation, and legal protection as instruments for social justice",
+        "C": "The Constitution has no provisions related to Dalit rights",
+        "D": "The Dalit movement only uses violent means"
+      },
+      "correctAnswer": "B",
+      "explanation": "The movement has used constitutional guarantees such as equality, non-discrimination, abolition of untouchability, political representation, and legal protection as instruments for social justice.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K112",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who are Scheduled Tribes under the Constitution?",
+      "options": {
+        "A": "Communities specified by the President under Article 342 for each State or Union Territory",
+        "B": "Communities specified by the Parliament under Article 341",
+        "C": "Communities specified by the State Governors",
+        "D": "All indigenous communities automatically"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scheduled Tribes are communities specified by the President under Article 342 for each State or Union Territory; Parliament may include or exclude communities from the list by law.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K113",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Tribal Sub-Plan approach?",
+      "options": {
+        "A": "An approach that seeks to ensure focused planning and allocation of resources for the development of Scheduled Tribes in proportion to their needs and population",
+        "B": "A plan to relocate tribal communities",
+        "C": "A plan to assimilate tribals into mainstream society",
+        "D": "A plan to ban tribal cultural practices"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Tribal Sub-Plan approach, now commonly implemented through the Scheduled Tribe Component, seeks to ensure focused planning and allocation of resources for the development of Scheduled Tribes in proportion to their needs and population, subject to applicable guidelines.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    },
+    {
+      "id": "K114",
+      "subject": "Karnataka Social Changes",
+      "topic": "Tribal Development in Karnataka",
+      "chapter": "Social Changes in Karnataka After Independence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major development concerns of tribal communities in Karnataka?",
+      "options": {
+        "A": "Only education",
+        "B": "Secure land and forest rights, displacement, access to education and healthcare, nutrition, livelihoods, housing, roads, cultural protection, and participation in decisions affecting their communities",
+        "C": "Only healthcare",
+        "D": "Only land rights"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important concerns include secure land and forest rights, displacement, access to education and healthcare, nutrition, livelihoods, housing, roads, cultural protection, and participation in decisions affecting their communities.",
+      "source": "Karnataka_Social_Changes.pdf, Page 6"
+    }
+  ]
+}

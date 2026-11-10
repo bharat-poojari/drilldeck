@@ -1,0 +1,4075 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank derived from Mensuration.pdf (SSLC level). Covers definitions, formulas, conversions, solved examples, practice questions and common examination errors. All questions are unique and mapped point-by-point to the source document.",
+  "questions": [
+    {
+      "id": "M001",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is mensuration?",
+      "options": {
+        "A": "The branch of mathematics concerned with measuring length, perimeter, area, surface area and volume of geometrical figures",
+        "B": "The branch of mathematics dealing only with algebraic equations",
+        "C": "The study of trigonometric ratios",
+        "D": "The study of probability and statistics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mensuration is the branch of mathematics concerned with measuring the length, perimeter, area, surface area and volume of geometrical figures.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M002",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a 2D (two-dimensional) figure?",
+      "options": {
+        "A": "A solid object having length, breadth and height",
+        "B": "A plane figure having length and breadth but no thickness",
+        "C": "A figure with only length",
+        "D": "A figure with volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "A 2D figure is a plane figure having length and breadth but no thickness, such as a square, rectangle, triangle or circle.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M003",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a 3D (three-dimensional) solid?",
+      "options": {
+        "A": "A plane figure with length and breadth only",
+        "B": "A figure with no thickness",
+        "C": "A solid object having length, breadth and height, occupying space",
+        "D": "A circle"
+      },
+      "correctAnswer": "C",
+      "explanation": "A 3D solid has length, breadth and height, and occupies space, such as a cube, cuboid, cylinder, cone or sphere.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M004",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is perimeter?",
+      "options": {
+        "A": "The measure of the region enclosed by a 2D boundary",
+        "B": "The total length of the boundary of a closed two-dimensional figure",
+        "C": "The amount of 3D space occupied by a solid",
+        "D": "The total area of outer surfaces of a 3D solid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter is the total length of the boundary of a closed two-dimensional figure.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M005",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is area?",
+      "options": {
+        "A": "The total length of the boundary of a figure",
+        "B": "The measure of the region enclosed by a two-dimensional boundary",
+        "C": "The amount of 3D space occupied",
+        "D": "The sum of all edge lengths"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area is the measure of the region enclosed by a two-dimensional boundary.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M006",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is surface area?",
+      "options": {
+        "A": "The total area of the outer surfaces of a three-dimensional solid",
+        "B": "The length of the boundary of a 2D figure",
+        "C": "The space occupied by a solid",
+        "D": "The area of only the curved surface"
+      },
+      "correctAnswer": "A",
+      "explanation": "Surface area is the total area of the outer surfaces of a three-dimensional solid.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M007",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is curved surface area (CSA)?",
+      "options": {
+        "A": "The area of all surfaces including bases",
+        "B": "The area of only the curved surface of a solid, excluding flat bases",
+        "C": "The area of the base only",
+        "D": "The volume of the curved part"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA is the area of only the curved surface of a solid, excluding its flat base or bases.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M008",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is lateral surface area (LSA)?",
+      "options": {
+        "A": "The area of the top and bottom bases",
+        "B": "The area of the side faces of a solid, excluding top and bottom bases",
+        "C": "The area of only the curved part of a sphere",
+        "D": "The total area of all surfaces"
+      },
+      "correctAnswer": "B",
+      "explanation": "LSA is the area of the side faces of a solid, excluding its top and bottom bases.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M009",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is total surface area (TSA)?",
+      "options": {
+        "A": "The area of only the curved surface",
+        "B": "The area of only the side faces",
+        "C": "The sum of the areas of all outer surfaces, including the bases",
+        "D": "The volume of the solid"
+      },
+      "correctAnswer": "C",
+      "explanation": "TSA is the sum of the areas of all outer surfaces, including the bases.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M010",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Introduction",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is volume?",
+      "options": {
+        "A": "The total boundary length of a figure",
+        "B": "The measure of a 2D region",
+        "C": "The amount of three-dimensional space occupied by a solid",
+        "D": "The area of the outer surface"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume is the amount of three-dimensional space occupied by a solid.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M011",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Units",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the SI unit of length?",
+      "options": {
+        "A": "Square metre (m²)",
+        "B": "Cubic metre (m³)",
+        "C": "Metre (m)",
+        "D": "Litre (L)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The SI unit of length is the metre (m).",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M012",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Units",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the SI unit of area?",
+      "options": {
+        "A": "Metre (m)",
+        "B": "Square metre (m²)",
+        "C": "Cubic metre (m³)",
+        "D": "Litre (L)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The SI unit of area is the square metre (m²).",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M013",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Units",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the SI unit of volume?",
+      "options": {
+        "A": "Metre (m)",
+        "B": "Square metre (m²)",
+        "C": "Cubic metre (m³)",
+        "D": "Litre (L)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The SI unit of volume is the cubic metre (m³).",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M014",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Units",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the common unit of capacity for liquids?",
+      "options": {
+        "A": "Cubic metre (m³)",
+        "B": "Litre (L) or millilitre (mL)",
+        "C": "Square metre (m²)",
+        "D": "Metre (m)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Capacity is commonly expressed in litres (L) or millilitres (mL), while volume is expressed in cubic units.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M015",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many centimetres are there in 1 metre?",
+      "options": {
+        "A": "10 cm",
+        "B": "100 cm",
+        "C": "1000 cm",
+        "D": "10000 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "1 m = 100 cm.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M016",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many metres are there in 1 kilometre?",
+      "options": {
+        "A": "100 m",
+        "B": "500 m",
+        "C": "1000 m",
+        "D": "10000 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 km = 1,000 m.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M017",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "1 m² is equal to how many cm²?",
+      "options": {
+        "A": "100 cm²",
+        "B": "1000 cm²",
+        "C": "10000 cm²",
+        "D": "100000 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 m² = 10,000 cm².",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M018",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "1 km² is equal to how many m²?",
+      "options": {
+        "A": "1000 m²",
+        "B": "10000 m²",
+        "C": "100000 m²",
+        "D": "1000000 m²"
+      },
+      "correctAnswer": "D",
+      "explanation": "1 km² = 1,000,000 m².",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M019",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "1 m³ is equal to how many cm³?",
+      "options": {
+        "A": "1000 cm³",
+        "B": "10000 cm³",
+        "C": "100000 cm³",
+        "D": "1000000 cm³"
+      },
+      "correctAnswer": "D",
+      "explanation": "1 m³ = 1,000,000 cm³.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M020",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many cubic centimetres are there in one litre?",
+      "options": {
+        "A": "100 cm³",
+        "B": "500 cm³",
+        "C": "1000 cm³",
+        "D": "10000 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 L = 1,000 cm³.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M021",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many litres are there in one cubic metre?",
+      "options": {
+        "A": "100 L",
+        "B": "500 L",
+        "C": "1000 L",
+        "D": "10000 L"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 m³ = 1,000 L.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M022",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Conversions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many millilitres are there in one litre?",
+      "options": {
+        "A": "100 mL",
+        "B": "500 mL",
+        "C": "1000 mL",
+        "D": "10000 mL"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 L = 1,000 mL.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M023",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Concepts",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why must units be converted before applying mensuration formulas?",
+      "options": {
+        "A": "Because formulas require only SI units",
+        "B": "Because all dimensions in a formula must be in compatible units; otherwise the numerical result will be incorrect",
+        "C": "Because conversion changes the shape of the figure",
+        "D": "Because conversion is optional and does not affect the result"
+      },
+      "correctAnswer": "B",
+      "explanation": "All dimensions in a formula must be expressed in compatible units; otherwise the numerical result will be incorrect.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M024",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Concepts",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between perimeter and area?",
+      "options": {
+        "A": "Perimeter measures surface in square units; area measures boundary in linear units",
+        "B": "Perimeter measures boundary length in linear units; area measures enclosed surface in square units",
+        "C": "Both measure the same quantity",
+        "D": "Perimeter measures volume; area measures length"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter measures boundary length in linear units; area measures the enclosed surface in square units.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M025",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Concepts",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between area and volume?",
+      "options": {
+        "A": "Area measures 3D space; volume measures a 2D region",
+        "B": "Area measures a two-dimensional region; volume measures three-dimensional space",
+        "C": "Both measure 2D regions",
+        "D": "Both measure 3D space"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area measures a two-dimensional region; volume measures three-dimensional space.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M026",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Concepts",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between CSA and TSA?",
+      "options": {
+        "A": "CSA includes only the curved surface; TSA includes every outer surface including flat bases",
+        "B": "CSA includes all surfaces; TSA includes only curved surfaces",
+        "C": "Both are identical",
+        "D": "CSA measures volume; TSA measures length"
+      },
+      "correctAnswer": "A",
+      "explanation": "CSA includes only the curved surface; TSA includes every outer surface, including flat bases.",
+      "source": "Mensuration.pdf - Section 1"
+    },
+    {
+      "id": "M027",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a square of side a?",
+      "options": {
+        "A": "a²",
+        "B": "2a",
+        "C": "4a",
+        "D": "a³"
+      },
+      "correctAnswer": "C",
+      "explanation": "The perimeter of a square is 4a.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M028",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a rectangle of length l and breadth b?",
+      "options": {
+        "A": "l + b",
+        "B": "lb",
+        "C": "2(l + b)",
+        "D": "l² + b²"
+      },
+      "correctAnswer": "C",
+      "explanation": "The perimeter of a rectangle is 2(l + b).",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M029",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a triangle with sides a, b and c?",
+      "options": {
+        "A": "abc",
+        "B": "a + b + c",
+        "C": "2(a + b + c)",
+        "D": "(a + b + c)/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "The perimeter of a triangle is a + b + c.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M030",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of an equilateral triangle of side a?",
+      "options": {
+        "A": "a",
+        "B": "2a",
+        "C": "3a",
+        "D": "4a"
+      },
+      "correctAnswer": "C",
+      "explanation": "The perimeter of an equilateral triangle is 3a.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M031",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a parallelogram with adjacent sides a and b?",
+      "options": {
+        "A": "a + b",
+        "B": "2(a + b)",
+        "C": "ab",
+        "D": "4a"
+      },
+      "correctAnswer": "B",
+      "explanation": "The perimeter of a parallelogram is 2(a + b).",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M032",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a rhombus of side a?",
+      "options": {
+        "A": "a",
+        "B": "2a",
+        "C": "3a",
+        "D": "4a"
+      },
+      "correctAnswer": "D",
+      "explanation": "The perimeter of a rhombus of side a is 4a.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M033",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the perimeter of a regular polygon with n sides, each of length a?",
+      "options": {
+        "A": "na",
+        "B": "a/n",
+        "C": "n + a",
+        "D": "n²a"
+      },
+      "correctAnswer": "A",
+      "explanation": "The perimeter of a regular polygon with n sides each of length a is na.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M034",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the circumference of a circle of radius r?",
+      "options": {
+        "A": "πr²",
+        "B": "2πr",
+        "C": "πr",
+        "D": "4πr"
+      },
+      "correctAnswer": "B",
+      "explanation": "The circumference of a circle is 2πr (or πd).",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M035",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the perimeter of a semicircle of radius r, including its diameter?",
+      "options": {
+        "A": "πr",
+        "B": "πr + 2r",
+        "C": "2πr",
+        "D": "πr + r"
+      },
+      "correctAnswer": "B",
+      "explanation": "The perimeter of a semicircle including its diameter is πr + 2r.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M036",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the perimeter of a quadrant of radius r?",
+      "options": {
+        "A": "2r + πr/2",
+        "B": "πr + 2r",
+        "C": "2πr + r",
+        "D": "πr/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The perimeter of a quadrant is two radii plus one-quarter of the circumference: 2r + πr/2.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M037",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the perimeter of a sector of radius r and central angle θ degrees?",
+      "options": {
+        "A": "2r + (θ/360°) × 2πr",
+        "B": "2r + (θ/360°) × πr²",
+        "C": "r + (θ/360°) × 2πr",
+        "D": "2πr + (θ/360°) × 2r"
+      },
+      "correctAnswer": "A",
+      "explanation": "The perimeter of a sector is 2r + (θ/360°) × 2πr.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M038",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A square has side 8 cm. What is its perimeter?",
+      "options": {
+        "A": "16 cm",
+        "B": "24 cm",
+        "C": "32 cm",
+        "D": "64 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Perimeter = 4 × 8 = 32 cm.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M039",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A rectangle is 12 cm long and 5 cm broad. What is its perimeter?",
+      "options": {
+        "A": "17 cm",
+        "B": "34 cm",
+        "C": "60 cm",
+        "D": "68 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter = 2(12 + 5) = 34 cm.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M040",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Perimeter 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A circle has radius 7 cm. What is its circumference using π = 22/7?",
+      "options": {
+        "A": "22 cm",
+        "B": "44 cm",
+        "C": "154 cm",
+        "D": "88 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Circumference = 2 × 22/7 × 7 = 44 cm.",
+      "source": "Mensuration.pdf - Section 2"
+    },
+    {
+      "id": "M041",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a square of side a?",
+      "options": {
+        "A": "4a",
+        "B": "a²",
+        "C": "2a",
+        "D": "a³"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a square is a².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M042",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a rectangle of length l and breadth b?",
+      "options": {
+        "A": "l + b",
+        "B": "2(l + b)",
+        "C": "lb",
+        "D": "l² + b²"
+      },
+      "correctAnswer": "C",
+      "explanation": "The area of a rectangle is length × breadth = lb.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M043",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a triangle with base b and perpendicular height h?",
+      "options": {
+        "A": "bh",
+        "B": "2bh",
+        "C": "(1/2)bh",
+        "D": "b + h"
+      },
+      "correctAnswer": "C",
+      "explanation": "The area of a triangle is (1/2) × base × height = (1/2)bh.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M044",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of an equilateral triangle of side a?",
+      "options": {
+        "A": "(√3/4)a²",
+        "B": "(1/2)a²",
+        "C": "a²",
+        "D": "(√2/4)a²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The area of an equilateral triangle is (√3/4)a².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M045",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Heron's formula for the area of a triangle with sides a, b, c?",
+      "options": {
+        "A": "Area = s(s-a)(s-b)(s-c)",
+        "B": "Area = √[s(s-a)(s-b)(s-c)], where s = (a+b+c)/2",
+        "C": "Area = (1/2)abc",
+        "D": "Area = √(a²+b²+c²)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heron's formula: Area = √[s(s-a)(s-b)(s-c)], where s = (a+b+c)/2.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M046",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a parallelogram?",
+      "options": {
+        "A": "(1/2) × base × height",
+        "B": "base × perpendicular height",
+        "C": "2 × base × height",
+        "D": "base + height"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a parallelogram is base × perpendicular height = bh.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M047",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the area of a rhombus using its diagonals d₁ and d₂?",
+      "options": {
+        "A": "d₁ × d₂",
+        "B": "(1/2) × d₁ × d₂",
+        "C": "2 × d₁ × d₂",
+        "D": "d₁ + d₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a rhombus is (1/2) × d₁ × d₂.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+        {
+      "id": "M049",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the area of a trapezium with parallel sides a and b and perpendicular height h?",
+      "options": {
+        "A": "(a + b)h",
+        "B": "(1/2)(a + b)h",
+        "C": "2(a + b)h",
+        "D": "abh"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a trapezium is (1/2)(a + b)h.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M050",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a circle of radius r?",
+      "options": {
+        "A": "2πr",
+        "B": "πr²",
+        "C": "πr",
+        "D": "4πr²"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a circle is πr².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M051",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a semicircle of radius r?",
+      "options": {
+        "A": "πr²",
+        "B": "(1/2)πr²",
+        "C": "2πr²",
+        "D": "(1/4)πr²"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of a semicircle is (1/2)πr².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M052",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the area of a quadrant of radius r?",
+      "options": {
+        "A": "πr²",
+        "B": "(1/2)πr²",
+        "C": "(1/4)πr²",
+        "D": "2πr²"
+      },
+      "correctAnswer": "C",
+      "explanation": "The area of a quadrant is (1/4)πr².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M053",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the area of a sector with central angle θ degrees and radius r?",
+      "options": {
+        "A": "(θ/360°) × πr²",
+        "B": "(θ/180°) × πr²",
+        "C": "(θ/360°) × 2πr",
+        "D": "(θ/90°) × πr²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The area of a sector is (θ/360°) × πr².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M054",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the area of a circular ring (annulus) with outer radius R and inner radius r?",
+      "options": {
+        "A": "π(R - r)²",
+        "B": "π(R² - r²)",
+        "C": "π(R² + r²)",
+        "D": "2π(R - r)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area of an annulus is π(R² - r²).",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M055",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the area of a square of side 9 cm?",
+      "options": {
+        "A": "18 cm²",
+        "B": "36 cm²",
+        "C": "81 cm²",
+        "D": "72 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Area = 9² = 81 cm².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M056",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A triangle has base 14 cm and perpendicular height 6 cm. What is its area?",
+      "options": {
+        "A": "84 cm²",
+        "B": "42 cm²",
+        "C": "21 cm²",
+        "D": "56 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (1/2) × 14 × 6 = 42 cm².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M057",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A circle has radius 7 cm. What is its area using π = 22/7?",
+      "options": {
+        "A": "44 cm²",
+        "B": "154 cm²",
+        "C": "616 cm²",
+        "D": "308 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (22/7) × 7² = 154 cm².",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M058",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens to the area of a square if its side is doubled?",
+      "options": {
+        "A": "It becomes double the original area",
+        "B": "It becomes three times the original area",
+        "C": "It becomes four times the original area",
+        "D": "It remains the same"
+      },
+      "correctAnswer": "C",
+      "explanation": "If the side is doubled, area = (2a)² = 4a², i.e., four times the original area.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M059",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Area 2D",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens to the area of a circle if its radius is doubled?",
+      "options": {
+        "A": "It becomes double the original area",
+        "B": "It becomes three times the original area",
+        "C": "It becomes four times the original area",
+        "D": "It becomes eight times the original area"
+      },
+      "correctAnswer": "C",
+      "explanation": "If the radius is doubled, area = π(2r)² = 4πr², i.e., four times the original area.",
+      "source": "Mensuration.pdf - Section 3"
+    },
+    {
+      "id": "M060",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a face of a solid?",
+      "options": {
+        "A": "A corner point where edges meet",
+        "B": "A flat or curved surface forming part of the boundary of a 3D solid",
+        "C": "A line segment where two faces meet",
+        "D": "The volume of the solid"
+      },
+      "correctAnswer": "B",
+      "explanation": "A face is a flat or curved surface forming part of the boundary of a three-dimensional solid.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M061",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an edge of a polyhedron?",
+      "options": {
+        "A": "A corner point",
+        "B": "A flat surface",
+        "C": "A line segment where two flat faces meet",
+        "D": "The total surface area"
+      },
+      "correctAnswer": "C",
+      "explanation": "An edge is a line segment where two flat faces meet.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M062",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a vertex of a solid?",
+      "options": {
+        "A": "A flat surface",
+        "B": "A line segment where faces meet",
+        "C": "A corner point where edges meet",
+        "D": "The height of the solid"
+      },
+      "correctAnswer": "C",
+      "explanation": "A vertex is a corner point where edges meet.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M063",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a polyhedron?",
+      "options": {
+        "A": "A solid with only curved surfaces",
+        "B": "A 3D solid bounded entirely by flat polygonal faces",
+        "C": "A 2D figure with many sides",
+        "D": "A solid with one circular base"
+      },
+      "correctAnswer": "B",
+      "explanation": "A polyhedron is a three-dimensional solid bounded entirely by flat polygonal faces.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M064",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a regular polyhedron?",
+      "options": {
+        "A": "A polyhedron with curved faces",
+        "B": "A polyhedron whose faces are congruent regular polygons and whose arrangement is the same at every vertex",
+        "C": "A polyhedron with only triangular faces",
+        "D": "A polyhedron with unequal edges"
+      },
+      "correctAnswer": "B",
+      "explanation": "A regular polyhedron has congruent regular polygonal faces and the same arrangement at every vertex.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M065",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a prism?",
+      "options": {
+        "A": "A solid with one circular base and an apex",
+        "B": "A polyhedron with two congruent, parallel polygonal bases and parallelogram-shaped lateral faces",
+        "C": "A perfectly round solid",
+        "D": "Half of a sphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "A prism is a polyhedron with two congruent, parallel polygonal bases and parallelogram-shaped lateral faces; in a right prism, lateral faces are rectangles.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M066",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cylinder?",
+      "options": {
+        "A": "A solid with one circular base and an apex",
+        "B": "A solid with two congruent, parallel circular bases joined by a curved surface",
+        "C": "A solid with six square faces",
+        "D": "Half of a sphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cylinder has two congruent, parallel circular bases joined by a curved surface.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M067",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cone?",
+      "options": {
+        "A": "A solid with two circular bases",
+        "B": "A solid with one circular base and a curved surface tapering to a single vertex called the apex",
+        "C": "A solid with six rectangular faces",
+        "D": "A perfectly round solid"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cone has one circular base and a curved surface tapering to a single vertex called the apex.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M068",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a pyramid?",
+      "options": {
+        "A": "A polyhedron with one polygonal base and triangular side faces meeting at a common apex",
+        "B": "A solid with two parallel circular bases",
+        "C": "A perfectly round solid",
+        "D": "A solid with six square faces"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pyramid is a polyhedron with one polygonal base and triangular side faces meeting at a common apex.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M069",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a sphere?",
+      "options": {
+        "A": "A solid with two circular bases",
+        "B": "A perfectly round 3D solid whose surface points are all at the same distance from its centre",
+        "C": "Half of a cylinder",
+        "D": "A solid with one polygonal base"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sphere is a perfectly round three-dimensional solid whose surface points are all at the same distance from its centre.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M070",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a hemisphere?",
+      "options": {
+        "A": "A complete sphere",
+        "B": "Half of a sphere formed by a plane through its centre",
+        "C": "A quarter of a sphere",
+        "D": "A cylinder cut in half"
+      },
+      "correctAnswer": "B",
+      "explanation": "A hemisphere is half of a sphere formed by a plane through its centre.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M071",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the radius of a sphere?",
+      "options": {
+        "A": "The distance across the sphere through the centre",
+        "B": "The distance from its centre to any point on its surface",
+        "C": "The surface area of the sphere",
+        "D": "The volume of the sphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "The radius of a sphere is the distance from its centre to any point on its surface.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M072",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the diameter of a sphere in terms of its radius?",
+      "options": {
+        "A": "Diameter = radius",
+        "B": "Diameter = 2 × radius",
+        "C": "Diameter = radius/2",
+        "D": "Diameter = 4 × radius"
+      },
+      "correctAnswer": "B",
+      "explanation": "Diameter = 2 × radius.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M073",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the height of a solid?",
+      "options": {
+        "A": "The total surface area",
+        "B": "The perpendicular distance between its base and the opposite face or apex",
+        "C": "The longest edge",
+        "D": "The radius of the base"
+      },
+      "correctAnswer": "B",
+      "explanation": "Height is the perpendicular distance between the base and the opposite face or apex, as appropriate.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M074",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the slant height of a right circular cone?",
+      "options": {
+        "A": "The perpendicular height of the cone",
+        "B": "The length along the sloping surface from the apex to the edge of the circular base",
+        "C": "The radius of the base",
+        "D": "The diameter of the base"
+      },
+      "correctAnswer": "B",
+      "explanation": "The slant height is the length along the sloping surface from the apex to the edge of the circular base.",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M075",
+      "subject": "Mathematics",
+      "topic": "Mensuration - 3D Basics",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relation between cone radius r, vertical height h and slant height l?",
+      "options": {
+        "A": "l = r + h",
+        "B": "l² = r² + h²",
+        "C": "l² = r² - h²",
+        "D": "l = 2r + h"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a right circular cone, l² = r² + h², so l = √(r² + h²).",
+      "source": "Mensuration.pdf - Section 4"
+    },
+    {
+      "id": "M076",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cube?",
+      "options": {
+        "A": "A solid with six equal square faces, twelve equal edges and eight vertices",
+        "B": "A solid with six rectangular faces",
+        "C": "A solid with two circular bases",
+        "D": "A solid with one circular base and an apex"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cube has six equal square faces, twelve equal edges and eight vertices.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M077",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many faces, edges and vertices does a cube have?",
+      "options": {
+        "A": "6 faces, 12 edges, 8 vertices",
+        "B": "6 faces, 8 edges, 12 vertices",
+        "C": "8 faces, 12 edges, 6 vertices",
+        "D": "4 faces, 6 edges, 4 vertices"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cube has 6 faces, 12 edges and 8 vertices.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M078",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the total surface area of a cube of side a?",
+      "options": {
+        "A": "4a²",
+        "B": "6a²",
+        "C": "a³",
+        "D": "2a²"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a cube = 6a².",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M079",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the lateral surface area of a cube of side a?",
+      "options": {
+        "A": "6a²",
+        "B": "4a²",
+        "C": "a²",
+        "D": "2a²"
+      },
+      "correctAnswer": "B",
+      "explanation": "LSA of a cube = 4a².",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M080",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a cube of side a?",
+      "options": {
+        "A": "a²",
+        "B": "4a²",
+        "C": "6a²",
+        "D": "a³"
+      },
+      "correctAnswer": "D",
+      "explanation": "Volume of a cube = a³.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M081",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the length of the space diagonal of a cube of side a?",
+      "options": {
+        "A": "a√2",
+        "B": "a√3",
+        "C": "2a",
+        "D": "a/√3"
+      },
+      "correctAnswer": "B",
+      "explanation": "The space diagonal of a cube = a√3.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M082",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cube has side 4 cm. What is its volume?",
+      "options": {
+        "A": "12 cm³",
+        "B": "16 cm³",
+        "C": "64 cm³",
+        "D": "96 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = 4³ = 64 cm³.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M083",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the total surface area of a cube of side 5 cm.",
+      "options": {
+        "A": "25 cm²",
+        "B": "100 cm²",
+        "C": "125 cm²",
+        "D": "150 cm²"
+      },
+      "correctAnswer": "D",
+      "explanation": "TSA = 6 × 5² = 150 cm².",
+      "source": "Mensuration.pdf - Section 12, Example 4"
+    },
+    {
+      "id": "M084",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cube",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If the side of a cube is doubled, its volume becomes how many times the original volume?",
+      "options": {
+        "A": "Two times",
+        "B": "Four times",
+        "C": "Six times",
+        "D": "Eight times"
+      },
+      "correctAnswer": "D",
+      "explanation": "Volume = (2a)³ = 8a³, i.e., eight times the original volume.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M085",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cuboid?",
+      "options": {
+        "A": "A solid bounded by six rectangular faces; opposite faces are equal and parallel",
+        "B": "A solid with six equal square faces",
+        "C": "A solid with two circular bases",
+        "D": "A perfectly round solid"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cuboid is a solid bounded by six rectangular faces; opposite faces are equal and parallel.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M086",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many faces, edges and vertices does a cuboid have?",
+      "options": {
+        "A": "6 faces, 12 edges, 8 vertices",
+        "B": "6 faces, 8 edges, 12 vertices",
+        "C": "8 faces, 12 edges, 6 vertices",
+        "D": "4 faces, 6 edges, 4 vertices"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cuboid has 6 faces, 12 edges and 8 vertices.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M087",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the lateral surface area of a cuboid of length l, breadth b and height h?",
+      "options": {
+        "A": "2(lb + bh + hl)",
+        "B": "2h(l + b)",
+        "C": "lbh",
+        "D": "2(l + b + h)"
+      },
+      "correctAnswer": "B",
+      "explanation": "LSA of a cuboid = 2h(l + b).",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M088",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of a cuboid of length l, breadth b and height h?",
+      "options": {
+        "A": "2h(l + b)",
+        "B": "lbh",
+        "C": "2(lb + bh + hl)",
+        "D": "l + b + h"
+      },
+      "correctAnswer": "C",
+      "explanation": "TSA of a cuboid = 2(lb + bh + hl).",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M089",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a cuboid of length l, breadth b and height h?",
+      "options": {
+        "A": "lbh",
+        "B": "2(lb + bh + hl)",
+        "C": "2h(l + b)",
+        "D": "l + b + h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume of a cuboid = lbh.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M090",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the length of the space diagonal of a cuboid of length l, breadth b and height h?",
+      "options": {
+        "A": "l + b + h",
+        "B": "√(l² + b² + h²)",
+        "C": "√(l + b + h)",
+        "D": "l² + b² + h²"
+      },
+      "correctAnswer": "B",
+      "explanation": "The space diagonal of a cuboid = √(l² + b² + h²).",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M091",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cuboid measures 5 cm × 4 cm × 3 cm. What is its volume?",
+      "options": {
+        "A": "12 cm³",
+        "B": "47 cm³",
+        "C": "60 cm³",
+        "D": "94 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = 5 × 4 × 3 = 60 cm³.",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M092",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A cuboid measures 5 cm × 4 cm × 3 cm. What is its total surface area?",
+      "options": {
+        "A": "60 cm²",
+        "B": "94 cm²",
+        "C": "47 cm²",
+        "D": "120 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA = 2(20 + 12 + 15) = 94 cm².",
+      "source": "Mensuration.pdf - Section 5"
+    },
+    {
+      "id": "M093",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A cuboid measures 10 cm × 6 cm × 4 cm. Find its total surface area and volume.",
+      "options": {
+        "A": "TSA = 248 cm², Volume = 240 cm³",
+        "B": "TSA = 240 cm², Volume = 248 cm³",
+        "C": "TSA = 124 cm², Volume = 240 cm³",
+        "D": "TSA = 248 cm², Volume = 120 cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "TSA = 2(60 + 24 + 40) = 248 cm²; Volume = 10 × 6 × 4 = 240 cm³.",
+      "source": "Mensuration.pdf - Section 12, Example 5"
+    },
+    {
+      "id": "M094",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cuboid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The total surface area of a cuboid measuring 2 cm × 3 cm × 4 cm is:",
+      "options": {
+        "A": "24 cm²",
+        "B": "52 cm²",
+        "C": "26 cm²",
+        "D": "48 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA = 2(6 + 12 + 8) = 52 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M096",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the curved surface area of a cylinder of radius r and height h?",
+      "options": {
+        "A": "πr²h",
+        "B": "2πrh",
+        "C": "2πr(h + r)",
+        "D": "πr²"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA of a cylinder = 2πrh.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M097",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of a closed cylinder of radius r and height h?",
+      "options": {
+        "A": "2πrh",
+        "B": "2πr(h + r)",
+        "C": "πr²h",
+        "D": "πr(2h + r)"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a closed cylinder = 2πr(h + r), including both circular bases.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M098",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a cylinder of radius r and height h?",
+      "options": {
+        "A": "2πrh",
+        "B": "πr²h",
+        "C": "2πr(h + r)",
+        "D": "(1/3)πr²h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a cylinder = πr²h.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M099",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the lateral surface area of a cylinder?",
+      "options": {
+        "A": "2πrh",
+        "B": "πr²h",
+        "C": "2πr(h + r)",
+        "D": "πr²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The lateral surface area (LSA) of a cylinder is the same as its curved surface area, 2πrh.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M100",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of an open cylinder with one circular base?",
+      "options": {
+        "A": "2πrh + πr²",
+        "B": "2πrh",
+        "C": "2πr(h + r)",
+        "D": "πr²h"
+      },
+      "correctAnswer": "A",
+      "explanation": "For an open cylinder with one circular base, TSA = curved surface area + one base = 2πrh + πr².",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M101",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When a cylinder is unrolled, its curved surface becomes what shape, and what is its area?",
+      "options": {
+        "A": "A square of side 2πr, area 4π²r²",
+        "B": "A rectangle of length equal to circumference 2πr and breadth h, area 2πrh",
+        "C": "A circle of radius r, area πr²",
+        "D": "A triangle of base 2πr and height h, area πrh"
+      },
+      "correctAnswer": "B",
+      "explanation": "When unrolled, the curved surface of a cylinder becomes a rectangle of length 2πr and breadth h, giving area 2πrh.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M102",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cylinder has radius 7 cm and height 10 cm. Find its volume using π = 22/7.",
+      "options": {
+        "A": "440 cm³",
+        "B": "770 cm³",
+        "C": "1,540 cm³",
+        "D": "2,200 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = (22/7) × 7² × 10 = 1,540 cm³.",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M103",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cylinder has radius 7 cm and height 10 cm. Find its curved surface area using π = 22/7.",
+      "options": {
+        "A": "220 cm²",
+        "B": "440 cm²",
+        "C": "1,540 cm²",
+        "D": "880 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA = 2 × (22/7) × 7 × 10 = 440 cm².",
+      "source": "Mensuration.pdf - Section 6"
+    },
+    {
+      "id": "M104",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A cylinder has radius 7 cm and height 5 cm. Find its volume using π = 22/7.",
+      "options": {
+        "A": "440 cm³",
+        "B": "770 cm³",
+        "C": "1,540 cm³",
+        "D": "220 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume = (22/7) × 49 × 5 = 770 cm³.",
+      "source": "Mensuration.pdf - Section 12, Example 6"
+    },
+    {
+      "id": "M105",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a cylinder of radius 7 cm and height 3 cm using π = 22/7 is:",
+      "options": {
+        "A": "154 cm³",
+        "B": "462 cm³",
+        "C": "220 cm³",
+        "D": "616 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume = (22/7) × 49 × 3 = 462 cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M106",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The curved surface area of a cylinder of radius 7 cm and height 5 cm using π = 22/7 is:",
+      "options": {
+        "A": "110 cm²",
+        "B": "220 cm²",
+        "C": "440 cm²",
+        "D": "770 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA = 2 × (22/7) × 7 × 5 = 220 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M107",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cylinder",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For a closed cylinder, which surfaces does the TSA include compared to an open cylinder with no bases?",
+      "options": {
+        "A": "Both include exactly the same surfaces",
+        "B": "Closed TSA includes two circular bases in addition to the curved surface; open (no bases) includes only the curved surface",
+        "C": "Closed TSA includes only the curved surface; open includes the bases",
+        "D": "Closed TSA includes one base; open includes two bases"
+      },
+      "correctAnswer": "B",
+      "explanation": "A closed cylinder's TSA includes two circular bases plus the curved surface, while an open cylinder with no bases has only the curved surface.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M108",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the curved surface area of a right circular cone of base radius r and slant height l?",
+      "options": {
+        "A": "πr²h",
+        "B": "πrl",
+        "C": "πr(l + r)",
+        "D": "2πrl"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA of a cone = πrl, where l is the slant height.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M109",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of a closed right circular cone?",
+      "options": {
+        "A": "πrl",
+        "B": "πr(l + r)",
+        "C": "πr²h",
+        "D": "2πr(l + r)"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a closed cone = πr(l + r), including its circular base.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M110",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a cone of base radius r and perpendicular height h?",
+      "options": {
+        "A": "πr²h",
+        "B": "(1/3)πr²h",
+        "C": "(1/2)πr²h",
+        "D": "2πr²h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a cone = (1/3)πr²h, where h is the perpendicular height.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M111",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the volume of a cone one-third the volume of a cylinder with the same base and height?",
+      "options": {
+        "A": "Because the cone's base is smaller",
+        "B": "Because a cone occupies one-third of the volume of a cylinder having the same base area and perpendicular height",
+        "C": "Because the cone's height is one-third",
+        "D": "Because the cone has no base"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cone occupies one-third of the volume of a cylinder having the same base area and perpendicular height.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M112",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cone has radius 3 cm and height 4 cm. What is its slant height?",
+      "options": {
+        "A": "4 cm",
+        "B": "5 cm",
+        "C": "7 cm",
+        "D": "12 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "l = √(3² + 4²) = √25 = 5 cm.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M113",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A cone has radius 3 cm and height 4 cm. What is its volume?",
+      "options": {
+        "A": "12π cm³",
+        "B": "36π cm³",
+        "C": "9π cm³",
+        "D": "48π cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume = (1/3) × π × 9 × 4 = 12π cm³.",
+      "source": "Mensuration.pdf - Section 7"
+    },
+    {
+      "id": "M114",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cone has radius 7 cm and perpendicular height 24 cm. Find its slant height.",
+      "options": {
+        "A": "17 cm",
+        "B": "25 cm",
+        "C": "31 cm",
+        "D": "168 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "l = √(7² + 24²) = √(49 + 576) = √625 = 25 cm.",
+      "source": "Mensuration.pdf - Section 12, Example 7"
+    },
+    {
+      "id": "M115",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The slant height of a cone with radius 5 cm and height 12 cm is:",
+      "options": {
+        "A": "7 cm",
+        "B": "13 cm",
+        "C": "17 cm",
+        "D": "60 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "l = √(5² + 12²) = √(25 + 144) = √169 = 13 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M116",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The volume of a cone with radius 3 cm and height 7 cm is:",
+      "options": {
+        "A": "21π cm³",
+        "B": "63π cm³",
+        "C": "7π cm³",
+        "D": "42π cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume = (1/3) × π × 3² × 7 = 21π cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M117",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Cone",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For a cone, which height measure is used in the volume formula and which in the curved surface area formula?",
+      "options": {
+        "A": "Slant height in both formulas",
+        "B": "Perpendicular (vertical) height h in volume; slant height l in curved surface area",
+        "C": "Perpendicular height in both formulas",
+        "D": "Slant height in volume; perpendicular height in CSA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cone volume uses vertical height h, while curved surface area uses slant height l.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M118",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the surface area of a sphere of radius r?",
+      "options": {
+        "A": "2πr²",
+        "B": "3πr²",
+        "C": "4πr²",
+        "D": "(4/3)πr³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Surface area of a sphere = 4πr².",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M119",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a sphere of radius r?",
+      "options": {
+        "A": "4πr²",
+        "B": "(4/3)πr³",
+        "C": "(2/3)πr³",
+        "D": "πr³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a sphere = (4/3)πr³.",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M120",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A sphere has radius 3 cm. What is its volume?",
+      "options": {
+        "A": "12π cm³",
+        "B": "27π cm³",
+        "C": "36π cm³",
+        "D": "9π cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = (4/3)π × 27 = 36π cm³.",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M121",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the surface area of a sphere of radius 7 cm using π = 22/7.",
+      "options": {
+        "A": "154 cm²",
+        "B": "308 cm²",
+        "C": "616 cm²",
+        "D": "1,232 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Surface area = 4 × (22/7) × 49 = 616 cm².",
+      "source": "Mensuration.pdf - Section 12, Example 8"
+    },
+    {
+      "id": "M122",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The surface area of a sphere of radius 5 cm is:",
+      "options": {
+        "A": "25π cm²",
+        "B": "50π cm²",
+        "C": "100π cm²",
+        "D": "500π cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Surface area = 4πr² = 4 × π × 25 = 100π cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M123",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Sphere",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Does a sphere have a separate curved/flat surface distinction?",
+      "options": {
+        "A": "Yes, its top half is curved and bottom half is flat",
+        "B": "No, a sphere has no separate curved/flat surface distinction; its surface area is 4πr²",
+        "C": "Yes, the base of a sphere is flat",
+        "D": "Yes, a sphere has two flat circular faces"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sphere has no separate curved/flat surface distinction; its surface area is 4πr².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M124",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the curved surface area of a hemisphere of radius r?",
+      "options": {
+        "A": "πr²",
+        "B": "2πr²",
+        "C": "3πr²",
+        "D": "4πr²"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSA of a hemisphere = 2πr².",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M125",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the total surface area of a solid hemisphere of radius r, including its circular base?",
+      "options": {
+        "A": "2πr²",
+        "B": "3πr²",
+        "C": "4πr²",
+        "D": "(2/3)πr³"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a solid hemisphere = 3πr², including its circular base.",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M126",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a hemisphere of radius r?",
+      "options": {
+        "A": "(4/3)πr³",
+        "B": "(2/3)πr³",
+        "C": "(1/3)πr³",
+        "D": "2πr³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a hemisphere = (2/3)πr³.",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M127",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A hemisphere has radius 7 cm. What is its total surface area using π = 22/7?",
+      "options": {
+        "A": "154 cm²",
+        "B": "308 cm²",
+        "C": "462 cm²",
+        "D": "616 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "TSA = 3 × (22/7) × 49 = 462 cm².",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M128",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The volume of a hemisphere of radius 3 cm is:",
+      "options": {
+        "A": "18π cm³",
+        "B": "36π cm³",
+        "C": "9π cm³",
+        "D": "27π cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume = (2/3)π × 27 = 18π cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M129",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For a solid hemisphere, how do TSA and CSA differ?",
+      "options": {
+        "A": "TSA includes the circular base; CSA does not",
+        "B": "CSA includes the circular base; TSA does not",
+        "C": "Both are equal to 2πr²",
+        "D": "TSA is half of CSA"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a solid hemisphere, TSA includes the circular base (3πr²) whereas CSA does not (2πr²).",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M130",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Hemisphere",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the total surface area of a hollow hemisphere open at its circular base, if thickness and inner surface are specified?",
+      "options": {
+        "A": "Only the outer curved surface area 2πr²",
+        "B": "Both curved surfaces (outer and inner) must be considered if thickness and inner surface are specified",
+        "C": "Only the circular base area",
+        "D": "The volume of the hemisphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Its outer curved surface area is 2πr²; if thickness and inner surface are specified, both curved surfaces must be considered.",
+      "source": "Mensuration.pdf - Section 8"
+    },
+    {
+      "id": "M131",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Prism",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of any prism?",
+      "options": {
+        "A": "Perimeter of base × height",
+        "B": "Area of its base × perpendicular height",
+        "C": "(1/3) × base area × height",
+        "D": "2 × base area × height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a prism = base area × perpendicular height (distance between the bases).",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M132",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Prism",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the lateral surface area of a right prism?",
+      "options": {
+        "A": "Base area × height",
+        "B": "Perimeter of the base × height",
+        "C": "2 × base area",
+        "D": "(1/2) × perimeter × slant height"
+      },
+      "correctAnswer": "B",
+      "explanation": "LSA of a right prism = perimeter of the base × height.",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M133",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Prism",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of a right prism?",
+      "options": {
+        "A": "Lateral surface area only",
+        "B": "Lateral surface area + 2 × base area",
+        "C": "Base area × height",
+        "D": "Perimeter × slant height"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a right prism = lateral surface area + 2 × base area.",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M134",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Pyramid",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the volume of a pyramid?",
+      "options": {
+        "A": "Base area × height",
+        "B": "(1/3) × base area × perpendicular height",
+        "C": "(1/2) × base area × height",
+        "D": "2 × base area × height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a pyramid = (1/3) × base area × perpendicular height.",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M135",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Pyramid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the lateral surface area of a regular pyramid?",
+      "options": {
+        "A": "Perimeter of base × height",
+        "B": "(1/2) × perimeter of base × slant height",
+        "C": "Base area × slant height",
+        "D": "2 × perimeter × slant height"
+      },
+      "correctAnswer": "B",
+      "explanation": "LSA of a regular pyramid = (1/2) × perimeter of base × slant height.",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M136",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Pyramid",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the total surface area of a pyramid?",
+      "options": {
+        "A": "Lateral surface area only",
+        "B": "Base area + lateral surface area",
+        "C": "Base area × height",
+        "D": "Perimeter × slant height"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA of a pyramid = base area + lateral surface area.",
+      "source": "Mensuration.pdf - Section 9"
+    },
+    {
+      "id": "M137",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Composite Figures",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a composite figure?",
+      "options": {
+        "A": "A figure made by combining two or more basic geometric shapes",
+        "B": "A figure with only one shape",
+        "C": "A figure with no dimensions",
+        "D": "A 3D figure only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A composite figure is made by combining two or more basic geometric shapes.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M138",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Composite Figures",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the area of a composite plane figure calculated?",
+      "options": {
+        "A": "By using a single formula for the whole figure",
+        "B": "Divide it into familiar shapes, calculate each area, and add them; subtract any cut-out or missing regions",
+        "C": "By multiplying all side lengths",
+        "D": "By finding only the perimeter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Divide the composite figure into familiar shapes, calculate each area, and add them; subtract any cut-out or missing regions.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M139",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Composite Figures",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the volume of a composite solid calculated?",
+      "options": {
+        "A": "By using the formula of the largest component only",
+        "B": "Divide it into simple solids, calculate their volumes, and add or subtract volumes as required",
+        "C": "By finding the total surface area",
+        "D": "By multiplying all dimensions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Divide the composite solid into simple solids, calculate their volumes, and add or subtract volumes as required.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M140",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is the cost of fencing a rectangular field calculated?",
+      "options": {
+        "A": "Area × fencing cost per unit area",
+        "B": "Perimeter × fencing cost per unit length, after accounting for gates or openings if specified",
+        "C": "Volume × fencing cost per unit volume",
+        "D": "Diagonal × fencing cost per unit length"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cost of fencing = perimeter × fencing cost per unit length, after accounting for gates or openings if specified.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M142",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the cost of painting the walls of a room calculated?",
+      "options": {
+        "A": "Floor area × cost per unit area",
+        "B": "Total wall area to be painted × cost per unit area, subtracting doors and windows if the question requires it",
+        "C": "Volume of the room × cost per unit volume",
+        "D": "Perimeter of the floor × cost per unit length"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cost of painting walls = total wall area to be painted × cost per unit area, subtracting doors and windows if required.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M143",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the cost of painting a solid object calculated?",
+      "options": {
+        "A": "Relevant exposed surface area × painting cost per unit area; do not include surfaces that are not painted",
+        "B": "Volume × painting cost per unit volume",
+        "C": "Total mass × painting cost per unit mass",
+        "D": "Height × painting cost per unit height"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cost of painting a solid = relevant exposed surface area × painting cost per unit area; exclude surfaces not painted.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M144",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the capacity of a tank calculated?",
+      "options": {
+        "A": "Calculate its external surface area and convert to litres",
+        "B": "Calculate its internal volume and convert the cubic units into litres or another required capacity unit",
+        "C": "Calculate its perimeter and convert to litres",
+        "D": "Calculate its total surface area"
+      },
+      "correctAnswer": "B",
+      "explanation": "Capacity of a tank = internal volume converted into litres or another required capacity unit.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M145",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much water can a rectangular tank hold?",
+      "options": {
+        "A": "Its external length × external breadth × external height",
+        "B": "Its internal length × internal breadth × internal height, expressed as volume; convert to litres if required",
+        "C": "Its perimeter × height",
+        "D": "Its total surface area × height"
+      },
+      "correctAnswer": "B",
+      "explanation": "A rectangular tank holds its internal length × internal breadth × internal height, expressed as volume; convert to litres if required.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M146",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is displacement in mensuration problems?",
+      "options": {
+        "A": "The surface area of an immersed object",
+        "B": "The volume of liquid displaced by an immersed object; for a fully submerged object, it equals the object's volume",
+        "C": "The perimeter of the container",
+        "D": "The height of the liquid before immersion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Displacement is the volume of liquid displaced by an immersed object; for a fully submerged object, it equals the object's volume.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M147",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the material needed to make a closed box estimated in a basic problem?",
+      "options": {
+        "A": "Use its volume",
+        "B": "Use its total surface area, subject to allowances for seams, overlaps or wastage if stated",
+        "C": "Use its perimeter",
+        "D": "Use its diagonal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Material for a closed box is estimated using its total surface area, subject to allowances for seams, overlaps or wastage if stated.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M148",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the material needed to make an open-top box calculated?",
+      "options": {
+        "A": "Use the total surface area including the top",
+        "B": "Add the base area and the areas of the side faces; exclude the missing top",
+        "C": "Use only the base area",
+        "D": "Use the volume of the box"
+      },
+      "correctAnswer": "B",
+      "explanation": "For an open-top box, add the base area and the areas of the side faces; exclude the missing top.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M149",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the volume of a solid melted and recast into smaller solids handled?",
+      "options": {
+        "A": "Conserve surface area, not volume",
+        "B": "Assuming no material is lost, total original volume equals the sum of the volumes of the recast solids",
+        "C": "The volume of the new solids is always greater",
+        "D": "The volume is halved"
+      },
+      "correctAnswer": "B",
+      "explanation": "Assuming no material is lost, total original volume equals the sum of the volumes of the recast solids.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M150",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many small cubes of side a can be made from a cube of side L, with no wastage and exact fitting?",
+      "options": {
+        "A": "(L/a)²",
+        "B": "(L/a)³, provided L/a is a whole number",
+        "C": "L × a",
+        "D": "L³ + a³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Number of small cubes = (L/a)³, provided L/a is a whole number, with no wastage and exact fitting.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M151",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Applications",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relation between the volume of a cylinder and a cone with the same base radius and height?",
+      "options": {
+        "A": "The cone's volume is equal to the cylinder's volume",
+        "B": "The cone's volume is one-third of the cylinder's volume",
+        "C": "The cone's volume is twice the cylinder's volume",
+        "D": "The cone's volume is half the cylinder's volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cone's volume is one-third of the cylinder's volume when they have the same base radius and height.",
+      "source": "Mensuration.pdf - Section 10"
+    },
+    {
+      "id": "M152",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, what is the formula for the perimeter of a square?",
+      "options": {
+        "A": "P = a²",
+        "B": "P = 4a",
+        "C": "P = 2a",
+        "D": "P = a³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Square: P = 4a; A = a².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M153",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, what is the formula for the area of a rectangle?",
+      "options": {
+        "A": "A = 2(l + b)",
+        "B": "A = lb",
+        "C": "A = l + b",
+        "D": "A = l² + b²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rectangle: P = 2(l + b); A = lb.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M154",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the perimeter of a triangle with sides a, b, c is:",
+      "options": {
+        "A": "abc",
+        "B": "a + b + c",
+        "C": "2(a + b + c)",
+        "D": "(a + b + c)/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Triangle: P = a + b + c.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M155",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the area of an equilateral triangle is:",
+      "options": {
+        "A": "(1/2)a²",
+        "B": "(√3/4)a²",
+        "C": "(√2/2)a²",
+        "D": "a²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equilateral triangle: A = (√3/4)a².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M156",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the perimeter of a parallelogram with adjacent sides a and b is:",
+      "options": {
+        "A": "a + b",
+        "B": "2(a + b)",
+        "C": "ab",
+        "D": "4a"
+      },
+      "correctAnswer": "B",
+      "explanation": "Parallelogram: P = 2(a + b); A = bh.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M157",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the area of a rhombus or kite using diagonals d₁ and d₂ is:",
+      "options": {
+        "A": "d₁ × d₂",
+        "B": "(1/2) × d₁ × d₂",
+        "C": "2 × d₁ × d₂",
+        "D": "d₁ + d₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhombus/kite: A = (1/2) × d₁ × d₂.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M158",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the area of a trapezium with parallel sides a and b and height h is:",
+      "options": {
+        "A": "(a + b)h",
+        "B": "(1/2)(a + b)h",
+        "C": "2(a + b)h",
+        "D": "abh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Trapezium: A = (1/2)(a + b)h.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M159",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the circumference of a circle is:",
+      "options": {
+        "A": "πr²",
+        "B": "2πr = πd",
+        "C": "4πr",
+        "D": "πr"
+      },
+      "correctAnswer": "B",
+      "explanation": "Circle: C = 2πr = πd; A = πr².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M160",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the area of a semicircle is:",
+      "options": {
+        "A": "πr²",
+        "B": "(1/2)πr²",
+        "C": "2πr²",
+        "D": "(1/4)πr²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Semicircle: A = (1/2)πr²; perimeter including diameter = πr + 2r.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M161",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the arc length of a sector with central angle θ is:",
+      "options": {
+        "A": "(θ/360°) × πr²",
+        "B": "(θ/360°) × 2πr",
+        "C": "(θ/180°) × πr",
+        "D": "θ × 2πr"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sector: arc length = (θ/360°) × 2πr; area = (θ/360°) × πr².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M162",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the volume of a cube is:",
+      "options": {
+        "A": "6a²",
+        "B": "4a²",
+        "C": "a³",
+        "D": "a√3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cube: LSA = 4a²; TSA = 6a²; V = a³; diagonal = a√3.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M163",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the diagonal of a cube of side a is:",
+      "options": {
+        "A": "a√2",
+        "B": "a√3",
+        "C": "2a",
+        "D": "a/√3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cube: diagonal = a√3.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M164",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the TSA of a cuboid is:",
+      "options": {
+        "A": "2h(l + b)",
+        "B": "2(lb + bh + hl)",
+        "C": "lbh",
+        "D": "l + b + h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cuboid: LSA = 2h(l + b); TSA = 2(lb + bh + hl); V = lbh.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M165",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the volume of a cylinder is:",
+      "options": {
+        "A": "2πrh",
+        "B": "πr²h",
+        "C": "2πr(h + r)",
+        "D": "(1/3)πr²h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cylinder: CSA = 2πrh; closed TSA = 2πr(h + r); V = πr²h.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M166",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the closed TSA of a cone is:",
+      "options": {
+        "A": "πrl",
+        "B": "πr(l + r)",
+        "C": "πr²h",
+        "D": "(1/3)πr²h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cone: CSA = πrl; closed TSA = πr(l + r); V = (1/3)πr²h; l² = r² + h².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M167",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the surface area of a sphere is:",
+      "options": {
+        "A": "2πr²",
+        "B": "3πr²",
+        "C": "4πr²",
+        "D": "(4/3)πr³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sphere: surface area = 4πr²; V = (4/3)πr³.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M168",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the TSA of a hemisphere is:",
+      "options": {
+        "A": "2πr²",
+        "B": "3πr²",
+        "C": "4πr²",
+        "D": "(2/3)πr³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hemisphere: CSA = 2πr²; TSA = 3πr²; V = (2/3)πr³.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M169",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the volume of a prism is:",
+      "options": {
+        "A": "Base area × height; right-prism LSA = base perimeter × height",
+        "B": "(1/3) × base area × height",
+        "C": "(1/2) × base perimeter × slant height",
+        "D": "2 × base area × height"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prism: V = base area × height; right-prism LSA = base perimeter × height.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M170",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the consolidated formula sheet, the volume of a pyramid is:",
+      "options": {
+        "A": "Base area × height",
+        "B": "(1/3) × base area × height; regular-pyramid LSA = (1/2) × base perimeter × slant height",
+        "C": "2 × base area × height",
+        "D": "Base perimeter × height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pyramid: V = (1/3) × base area × height; regular-pyramid LSA = (1/2) × base perimeter × slant height.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M171",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the consolidated formula sheet, 1 m² = ?",
+      "options": {
+        "A": "100 cm²",
+        "B": "1,000 cm²",
+        "C": "10,000 cm²",
+        "D": "1,000,000 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conversions: 1 m² = 10,000 cm².",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M172",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the consolidated formula sheet, 1 m³ = ?",
+      "options": {
+        "A": "1,000 cm³",
+        "B": "10,000 cm³",
+        "C": "100,000 cm³",
+        "D": "1,000,000 cm³"
+      },
+      "correctAnswer": "D",
+      "explanation": "Conversions: 1 m³ = 1,000,000 cm³.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M173",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the consolidated formula sheet, 1 L = ?",
+      "options": {
+        "A": "100 cm³",
+        "B": "1,000 cm³",
+        "C": "10,000 cm³",
+        "D": "1,000,000 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Conversions: 1 L = 1,000 cm³.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M174",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Formula Sheet",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the consolidated formula sheet, 1 m³ = ?",
+      "options": {
+        "A": "100 L",
+        "B": "500 L",
+        "C": "1,000 L",
+        "D": "10,000 L"
+      },
+      "correctAnswer": "C",
+      "explanation": "Conversions: 1 m³ = 1,000 L.",
+      "source": "Mensuration.pdf - Section 11"
+    },
+    {
+      "id": "M175",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A rectangle is 15 m long and 8 m wide. Find its perimeter and area.",
+      "options": {
+        "A": "Perimeter = 23 m, Area = 120 m²",
+        "B": "Perimeter = 46 m, Area = 120 m²",
+        "C": "Perimeter = 46 m, Area = 60 m²",
+        "D": "Perimeter = 23 m, Area = 60 m²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter = 2(15 + 8) = 46 m; Area = 15 × 8 = 120 m².",
+      "source": "Mensuration.pdf - Section 12, Example 1"
+    },
+    {
+      "id": "M176",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A triangle has base 18 cm and perpendicular height 10 cm. Find its area.",
+      "options": {
+        "A": "180 cm²",
+        "B": "90 cm²",
+        "C": "45 cm²",
+        "D": "360 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (1/2) × 18 × 10 = 90 cm².",
+      "source": "Mensuration.pdf - Section 12, Example 2"
+    },
+    {
+      "id": "M177",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the circumference and area of a circle of radius 14 cm using π = 22/7.",
+      "options": {
+        "A": "Circumference = 88 cm, Area = 616 cm²",
+        "B": "Circumference = 44 cm, Area = 154 cm²",
+        "C": "Circumference = 88 cm, Area = 308 cm²",
+        "D": "Circumference = 44 cm, Area = 616 cm²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circumference = 2 × (22/7) × 14 = 88 cm; Area = (22/7) × 14² = 616 cm².",
+      "source": "Mensuration.pdf - Section 12, Example 3"
+    },
+    {
+      "id": "M178",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the total surface area and volume of a cube of side 5 cm.",
+      "options": {
+        "A": "TSA = 25 cm², Volume = 125 cm³",
+        "B": "TSA = 150 cm², Volume = 125 cm³",
+        "C": "TSA = 150 cm², Volume = 25 cm³",
+        "D": "TSA = 100 cm², Volume = 125 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "TSA = 6 × 25 = 150 cm²; Volume = 5³ = 125 cm³.",
+      "source": "Mensuration.pdf - Section 12, Example 4"
+    },
+    {
+      "id": "M179",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A cuboid measures 10 cm × 6 cm × 4 cm. Find its total surface area and volume.",
+      "options": {
+        "A": "TSA = 248 cm², Volume = 240 cm³",
+        "B": "TSA = 240 cm², Volume = 248 cm³",
+        "C": "TSA = 124 cm², Volume = 240 cm³",
+        "D": "TSA = 248 cm², Volume = 120 cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "TSA = 2(60 + 24 + 40) = 248 cm²; Volume = 10 × 6 × 4 = 240 cm³.",
+      "source": "Mensuration.pdf - Section 12, Example 5"
+    },
+    {
+      "id": "M180",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cylinder has radius 7 cm and height 5 cm. Find its volume using π = 22/7.",
+      "options": {
+        "A": "440 cm³",
+        "B": "770 cm³",
+        "C": "1,540 cm³",
+        "D": "220 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume = (22/7) × 49 × 5 = 770 cm³.",
+      "source": "Mensuration.pdf - Section 12, Example 6"
+    },
+    {
+      "id": "M181",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A cone has radius 7 cm and perpendicular height 24 cm. Find its slant height.",
+      "options": {
+        "A": "17 cm",
+        "B": "25 cm",
+        "C": "31 cm",
+        "D": "168 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "l = √(7² + 24²) = √625 = 25 cm.",
+      "source": "Mensuration.pdf - Section 12, Example 7"
+    },
+    {
+      "id": "M182",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the surface area of a sphere of radius 7 cm using π = 22/7.",
+      "options": {
+        "A": "154 cm²",
+        "B": "308 cm²",
+        "C": "616 cm²",
+        "D": "1,232 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Surface area = 4 × (22/7) × 49 = 616 cm².",
+      "source": "Mensuration.pdf - Section 12, Example 8"
+    },
+    {
+      "id": "M183",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A metal cube of side 6 cm is melted into smaller cubes of side 2 cm. How many small cubes are formed?",
+      "options": {
+        "A": "9 cubes",
+        "B": "18 cubes",
+        "C": "27 cubes",
+        "D": "36 cubes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Number = 6³/2³ = 216/8 = 27 cubes, assuming no material is lost.",
+      "source": "Mensuration.pdf - Section 12, Example 10"
+    },
+    {
+      "id": "M184",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Solved Examples",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A capacity conversion example in the notes shows 3,000 L converted to cubic metres. What is the result?",
+      "options": {
+        "A": "3 m³",
+        "B": "30 m³",
+        "C": "300 m³",
+        "D": "3,000 m³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since 1 m³ = 1,000 L, 3,000 L = 3,000/1,000 = 3 m³.",
+      "source": "Mensuration.pdf - Section 12, Example 9"
+    },
+    {
+      "id": "M186",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What must be done before substituting dimensions into a mensuration formula?",
+      "options": {
+        "A": "Convert all dimensions into the same unit",
+        "B": "Multiply all dimensions by 2",
+        "C": "Round all dimensions to the nearest whole number",
+        "D": "Convert all dimensions to cubic units"
+      },
+      "correctAnswer": "A",
+      "explanation": "Convert all dimensions into the same unit before substituting into a formula.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M187",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When calculating the area of a triangle, which height must be used?",
+      "options": {
+        "A": "Any side of the triangle",
+        "B": "The perpendicular height, not a sloping side",
+        "C": "The longest side",
+        "D": "The hypotenuse"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a triangle, use perpendicular height, not a sloping side.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M188",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "For a cylinder, what is the key distinction to check?",
+      "options": {
+        "A": "Whether to use radius or diameter",
+        "B": "Whether curved surface area or total surface area is asked",
+        "C": "Whether to use height or slant height",
+        "D": "Whether the cylinder is open or closed at the top only"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a cylinder, distinguish curved surface area from total surface area.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M189",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many circular bases does the TSA of a closed cylinder include, compared to an open cylinder?",
+      "options": {
+        "A": "Closed cylinder TSA includes two circular bases; an open cylinder may have one or no base",
+        "B": "Closed cylinder TSA includes one base; an open cylinder always has two bases",
+        "C": "Both always include two bases",
+        "D": "Both always include no bases"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a closed cylinder, TSA includes two circular bases; an open cylinder may have one or no base.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M190",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For a cone, which height is used in the volume formula and which in the curved surface area formula?",
+      "options": {
+        "A": "Volume uses slant height; CSA uses vertical height",
+        "B": "Volume uses vertical height h; CSA uses slant height l",
+        "C": "Both use slant height",
+        "D": "Both use vertical height"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a cone, volume uses vertical height h, while curved surface area uses slant height l.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M191",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For a solid hemisphere, does the TSA include the circular base?",
+      "options": {
+        "A": "Yes, TSA includes the circular base; CSA does not",
+        "B": "No, TSA excludes the circular base",
+        "C": "Both TSA and CSA include the base",
+        "D": "Both TSA and CSA exclude the base"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a solid hemisphere, TSA includes the circular base; CSA does not.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M192",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For a semicircle's perimeter, what must be included besides the curved arc?",
+      "options": {
+        "A": "Nothing else",
+        "B": "The diameter",
+        "C": "The radius squared",
+        "D": "The area"
+      },
+      "correctAnswer": "B",
+      "explanation": "For a semicircle's perimeter, include the diameter; the curved arc alone is πr.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M193",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dimensions should be used when calculating tank capacity?",
+      "options": {
+        "A": "External dimensions",
+        "B": "Internal dimensions",
+        "C": "Average of internal and external dimensions",
+        "D": "Only the height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use internal dimensions when calculating tank capacity.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M194",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When calculating painting or covering costs, which surfaces should be included?",
+      "options": {
+        "A": "All surfaces of the object",
+        "B": "Only the surfaces actually exposed or specified",
+        "C": "Only the base",
+        "D": "Only the top"
+      },
+      "correctAnswer": "B",
+      "explanation": "For painting or covering, include only the surfaces actually exposed or specified.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M195",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When an object is melted and recast without loss, which quantity is conserved?",
+      "options": {
+        "A": "Surface area, not volume",
+        "B": "Volume, not surface area",
+        "C": "Both volume and surface area",
+        "D": "Neither volume nor surface area"
+      },
+      "correctAnswer": "B",
+      "explanation": "When an object is melted and recast without loss, conserve volume, not surface area.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M196",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which value of π should be used in a problem?",
+      "options": {
+        "A": "Always 3",
+        "B": "The value specified by the question; otherwise 22/7 or 3.14 may be used when appropriate",
+        "C": "Always 22/7 regardless of the question",
+        "D": "Always 3.14 regardless of the question"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use the value of π specified by the question; otherwise 22/7 or 3.14 may be used when appropriate.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M197",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the relation between radius and diameter?",
+      "options": {
+        "A": "d = r",
+        "B": "d = 2r",
+        "C": "d = r/2",
+        "D": "d = 4r"
+      },
+      "correctAnswer": "B",
+      "explanation": "Do not confuse radius and diameter: d = 2r.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M198",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Common Errors",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Before selecting a formula, what should be checked in the question?",
+      "options": {
+        "A": "Whether the question asks for LSA, CSA, TSA, area or volume",
+        "B": "Whether the question is from a particular chapter",
+        "C": "Whether π is given",
+        "D": "Whether the figure is 2D or 3D only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Check whether the question asks for LSA, CSA, TSA, area or volume before selecting a formula.",
+      "source": "Mensuration.pdf - Section 13"
+    },
+    {
+      "id": "M199",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The perimeter of a square of side 11 cm is:",
+      "options": {
+        "A": "22 cm",
+        "B": "33 cm",
+        "C": "44 cm",
+        "D": "121 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Perimeter = 4 × 11 = 44 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M200",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The area of a square of side 9 cm is:",
+      "options": {
+        "A": "18 cm²",
+        "B": "36 cm²",
+        "C": "81 cm²",
+        "D": "72 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Area = 9² = 81 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M201",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The perimeter of a rectangle of length 12 cm and breadth 7 cm is:",
+      "options": {
+        "A": "19 cm",
+        "B": "38 cm",
+        "C": "84 cm",
+        "D": "42 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter = 2(12 + 7) = 38 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M202",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The area of a rectangle of length 12 cm and breadth 7 cm is:",
+      "options": {
+        "A": "19 cm²",
+        "B": "38 cm²",
+        "C": "84 cm²",
+        "D": "42 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Area = 12 × 7 = 84 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M203",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The area of a triangle with base 16 cm and height 5 cm is:",
+      "options": {
+        "A": "80 cm²",
+        "B": "40 cm²",
+        "C": "21 cm²",
+        "D": "160 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (1/2) × 16 × 5 = 40 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M204",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The circumference of a circle of radius 7 cm using π = 22/7 is:",
+      "options": {
+        "A": "22 cm",
+        "B": "44 cm",
+        "C": "154 cm",
+        "D": "88 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Circumference = 2 × (22/7) × 7 = 44 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M205",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The area of a circle of radius 7 cm using π = 22/7 is:",
+      "options": {
+        "A": "44 cm²",
+        "B": "154 cm²",
+        "C": "308 cm²",
+        "D": "616 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (22/7) × 49 = 154 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M206",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The total surface area of a cube of side 3 cm is:",
+      "options": {
+        "A": "9 cm²",
+        "B": "27 cm²",
+        "C": "54 cm²",
+        "D": "36 cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "TSA = 6 × 3² = 54 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M207",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a cube of side 4 cm is:",
+      "options": {
+        "A": "16 cm³",
+        "B": "64 cm³",
+        "C": "96 cm³",
+        "D": "12 cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume = 4³ = 64 cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M208",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a cuboid measuring 5 cm × 4 cm × 3 cm is:",
+      "options": {
+        "A": "12 cm³",
+        "B": "47 cm³",
+        "C": "60 cm³",
+        "D": "94 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = 5 × 4 × 3 = 60 cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M209",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a cylinder of radius 7 cm and height 3 cm using π = 22/7 is:",
+      "options": {
+        "A": "154 cm³",
+        "B": "220 cm³",
+        "C": "462 cm³",
+        "D": "616 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume = (22/7) × 49 × 3 = 462 cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M210",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a cone with radius 3 cm and height 7 cm is:",
+      "options": {
+        "A": "21π cm³",
+        "B": "7π cm³",
+        "C": "63π cm³",
+        "D": "42π cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume = (1/3) × π × 3² × 7 = 21π cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M211",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The curved surface area of a sphere of radius 5 cm is:",
+      "options": {
+        "A": "25π cm²",
+        "B": "50π cm²",
+        "C": "100π cm²",
+        "D": "20π cm²"
+      },
+      "correctAnswer": "C",
+      "explanation": "A sphere has no separate curved/flat surface distinction; its surface area is 4πr² = 4 × π × 25 = 100π cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M212",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a sphere of radius 3 cm is:",
+      "options": {
+        "A": "12π cm³",
+        "B": "18π cm³",
+        "C": "27π cm³",
+        "D": "36π cm³"
+      },
+      "correctAnswer": "D",
+      "explanation": "Volume = (4/3)π × 27 = 36π cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M213",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a hemisphere of radius 3 cm is:",
+      "options": {
+        "A": "9π cm³",
+        "B": "18π cm³",
+        "C": "27π cm³",
+        "D": "36π cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume = (2/3)π × 27 = 18π cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M214",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "One litre is equal to how many cubic centimetres?",
+      "options": {
+        "A": "100 cm³",
+        "B": "500 cm³",
+        "C": "1,000 cm³",
+        "D": "10,000 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 litre = 1,000 cm³.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M215",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "One cubic metre is equal to how many litres?",
+      "options": {
+        "A": "100 litres",
+        "B": "500 litres",
+        "C": "1,000 litres",
+        "D": "10,000 litres"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 cubic metre = 1,000 litres.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M216",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a prism is:",
+      "options": {
+        "A": "Base area × perpendicular height",
+        "B": "(1/3) × base area × height",
+        "C": "Base perimeter × slant height",
+        "D": "2 × base area × height"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volume of a prism = base area × perpendicular height.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M217",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The volume of a pyramid is:",
+      "options": {
+        "A": "Base area × height",
+        "B": "(1/3) × base area × perpendicular height",
+        "C": "(1/2) × base perimeter × slant height",
+        "D": "2 × base area × height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volume of a pyramid = (1/3) × base area × perpendicular height.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M218",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The slant height of a cone with radius 5 cm and height 12 cm is:",
+      "options": {
+        "A": "7 cm",
+        "B": "13 cm",
+        "C": "17 cm",
+        "D": "60 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "l = √(5² + 12²) = √169 = 13 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M219",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The area of a trapezium with parallel sides 8 cm and 12 cm and height 5 cm is:",
+      "options": {
+        "A": "40 cm²",
+        "B": "50 cm²",
+        "C": "100 cm²",
+        "D": "20 cm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Area = (1/2)(8 + 12) × 5 = 50 cm².",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M220",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The perimeter of a semicircle of radius 7 cm including its diameter, using π = 22/7, is:",
+      "options": {
+        "A": "22 cm",
+        "B": "36 cm",
+        "C": "44 cm",
+        "D": "29 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perimeter = πr + 2r = 22 + 14 = 36 cm.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M221",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Practice Questions",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If the side of a cube is doubled, its volume becomes:",
+      "options": {
+        "A": "Two times the original volume",
+        "B": "Four times the original volume",
+        "C": "Six times the original volume",
+        "D": "Eight times the original volume"
+      },
+      "correctAnswer": "D",
+      "explanation": "Volume = (2a)³ = 8a³, i.e., eight times the original volume.",
+      "source": "Mensuration.pdf - Section 14"
+    },
+    {
+      "id": "M222",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following must be understood as per the final revision checklist?",
+      "options": {
+        "A": "Only volume",
+        "B": "Perimeter, area, surface area, volume, CSA, LSA and TSA",
+        "C": "Only perimeter and area",
+        "D": "Only surface area and volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Understand perimeter, area, surface area, volume, CSA, LSA and TSA.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M223",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What conversions should be memorised as per the revision checklist?",
+      "options": {
+        "A": "Only length conversions",
+        "B": "Common length, area, volume and capacity conversions",
+        "C": "Only volume conversions",
+        "D": "Only capacity conversions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Memorise common length, area, volume and capacity conversions.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M224",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which 2D figures' perimeter and area should be practised as per the revision checklist?",
+      "options": {
+        "A": "Only square and rectangle",
+        "B": "Square, rectangle, triangle, parallelogram, rhombus, trapezium and circle",
+        "C": "Only circle and triangle",
+        "D": "Only trapezium and rhombus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Practise perimeter and area of square, rectangle, triangle, parallelogram, rhombus, trapezium and circle.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M225",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What must be distinguished for a cylinder as per the revision checklist?",
+      "options": {
+        "A": "Only CSA and volume",
+        "B": "Cylinder CSA, TSA and volume",
+        "C": "Only TSA and volume",
+        "D": "Only CSA and TSA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Distinguish cylinder CSA, TSA and volume.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M226",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What must be used correctly for a cone as per the revision checklist?",
+      "options": {
+        "A": "Only slant height",
+        "B": "Cone slant height and perpendicular height",
+        "C": "Only perpendicular height",
+        "D": "Only radius"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use cone slant height and perpendicular height correctly.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M227",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which formulas must be memorised for sphere and hemisphere as per the revision checklist?",
+      "options": {
+        "A": "Only volume formulas",
+        "B": "Sphere and hemisphere surface-area and volume formulas",
+        "C": "Only surface area formulas",
+        "D": "Only CSA formulas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Memorise sphere and hemisphere surface-area and volume formulas.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M228",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which formulas must be known for prisms and pyramids as per the revision checklist?",
+      "options": {
+        "A": "Only TSA formulas",
+        "B": "Basic prism and pyramid volume formulas",
+        "C": "Only LSA formulas",
+        "D": "Only CSA formulas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Know basic prism and pyramid volume formulas.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M229",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which application-type problems should be practised as per the revision checklist?",
+      "options": {
+        "A": "Only simple area problems",
+        "B": "Composite figures, open containers, fencing, flooring, painting and tank-capacity problems",
+        "C": "Only volume problems",
+        "D": "Only perimeter problems"
+      },
+      "correctAnswer": "B",
+      "explanation": "Practise composite figures, open containers, fencing, flooring, painting and tank-capacity problems.",
+      "source": "Mensuration.pdf - Section 15"
+    },
+    {
+      "id": "M230",
+      "subject": "Mathematics",
+      "topic": "Mensuration - Revision",
+      "chapter": "Mensuration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What should be checked at the end of a mensuration problem as per the revision checklist?",
+      "options": {
+        "A": "Only the numerical answer",
+        "B": "Check units and whether the requested quantity is a boundary, area, surface area or volume",
+        "C": "Only the units",
+        "D": "Only whether π was used"
+      },
+      "correctAnswer": "B",
+      "explanation": "Check units and whether the requested quantity is a boundary, area, surface area or volume.",
+      "source": "Mensuration.pdf - Section 15"
+    }
+  ]
+}

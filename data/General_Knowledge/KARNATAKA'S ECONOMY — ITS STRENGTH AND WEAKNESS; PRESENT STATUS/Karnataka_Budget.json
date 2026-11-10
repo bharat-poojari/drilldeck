@@ -1,0 +1,1213 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Karnataka Budget 2026-27 FDA/SDA question bank. Derived exclusively from 'Karnataka_Budget_FDA_SDA_Notes_11_5.pdf'. Monetary figures in crore unless stated otherwise. BE = Budget Estimate; RE = Revised Estimate; GSDP = Gross State Domestic Product. Reference date: 8 November 2026. Verify against official budget volumes before formal examination use.",
+  "questions": [
+    {
+      "id": "KB001",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who presented the Karnataka Budget 2026-27 and on what date?",
+      "options": {
+        "A": "Chief Minister Siddaramaiah on 6 March 2026",
+        "B": "Chief Minister Siddaramaiah on 8 November 2026",
+        "C": "Finance Minister on 1 April 2026",
+        "D": "Governor of Karnataka on 6 March 2026"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chief Minister Siddaramaiah presented the Karnataka Budget 2026-27 on 6 March 2026.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB002",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which financial year does Budget 2026-27 cover?",
+      "options": {
+        "A": "1 January 2026 to 31 December 2026",
+        "B": "1 April 2026 to 31 March 2027",
+        "C": "1 April 2025 to 31 March 2026",
+        "D": "1 July 2026 to 30 June 2027"
+      },
+      "correctAnswer": "B",
+      "explanation": "Budget 2026-27 covers 1 April 2026 to 31 March 2027.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB003",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Concepts",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a state budget?",
+      "options": {
+        "A": "The annual statement of estimated government receipts and expenditure for the financial year, laid before the state legislature under Article 202",
+        "B": "A statement of GSDP growth projections laid before Parliament under Article 110",
+        "C": "A monthly report of actual audited expenditure submitted to the RBI",
+        "D": "A document listing only the state's tax rates approved by the GST Council"
+      },
+      "correctAnswer": "A",
+      "explanation": "A state budget is the annual statement of estimated government receipts and expenditure for the financial year, laid before the state legislature under Article 202 of the Constitution.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB004",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Concepts",
+      "chapter": "Budget Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between BE, RE and actuals?",
+      "options": {
+        "A": "BE is the audited result; RE is the initial forecast; actuals are the updated forecast",
+        "B": "BE is the initial forecast; RE is the updated forecast during the financial year; actuals are realised audited or recorded results after the year",
+        "C": "BE and RE are identical; actuals are always lower than BE",
+        "D": "BE is the Revised Estimate; RE is the Budget Estimate; actuals are provisional half-year data"
+      },
+      "correctAnswer": "B",
+      "explanation": "BE is the initial forecast; RE is the updated forecast during the financial year; actuals are realised audited or recorded results after the year. BE must not be treated as actual collections.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB005",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Concepts",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between the state budget and GSDP?",
+      "options": {
+        "A": "Both measure government finances",
+        "B": "Budget measures government finances; GSDP measures the value of final goods and services produced in the state economy",
+        "C": "GSDP measures government finances; budget measures state output",
+        "D": "They are two names for the same indicator"
+      },
+      "correctAnswer": "B",
+      "explanation": "The budget measures government finances; GSDP measures the value of final goods and services produced in the state economy.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB006",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the estimated nominal GSDP in the 2026-27 budget analysis?",
+      "options": {
+        "A": "₹33,05,500 crore",
+        "B": "₹3,30,550 crore",
+        "C": "₹4,48,004 crore",
+        "D": "₹97,448 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "The estimated nominal GSDP is ₹33,05,500 crore; this is a budget projection, not a final GSDP outcome.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB007",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the total expenditure including debt repayment in 2026-27 BE?",
+      "options": {
+        "A": "₹4,12,688 crore",
+        "B": "₹4,48,004 crore",
+        "C": "₹3,38,007 crore",
+        "D": "₹3,15,050 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total expenditure including debt repayment is ₹4,48,004 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB008",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the expenditure excluding debt repayment in 2026-27 BE?",
+      "options": {
+        "A": "₹4,12,688 crore",
+        "B": "₹4,48,004 crore",
+        "C": "₹3,38,007 crore",
+        "D": "₹71,924 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Expenditure excluding debt repayment is ₹4,12,688 crore (net expenditure).",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section A"
+    },
+    {
+      "id": "KB009",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the revenue receipts in 2026-27 BE?",
+      "options": {
+        "A": "₹3,15,050 crore",
+        "B": "₹3,15,240 crore",
+        "C": "₹3,38,007 crore",
+        "D": "₹2,36,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Revenue receipts in 2026-27 BE are ₹3,15,050 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and B"
+    },
+    {
+      "id": "KB010",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the revenue expenditure in 2026-27 BE?",
+      "options": {
+        "A": "₹3,15,050 crore",
+        "B": "₹3,38,007 crore",
+        "C": "₹4,12,688 crore",
+        "D": "₹71,924 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Revenue expenditure in 2026-27 BE is ₹3,38,007 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and E"
+    },
+    {
+      "id": "KB011",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the capital outlay in 2026-27 BE?",
+      "options": {
+        "A": "₹71,924 crore",
+        "B": "₹2,757 crore",
+        "C": "₹35,316 crore",
+        "D": "₹97,448 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capital outlay in 2026-27 BE is ₹71,924 crore, for assets such as roads, buildings and infrastructure.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and E"
+    },
+    {
+      "id": "KB012",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the fiscal deficit in 2026-27 BE and as a percentage of GSDP?",
+      "options": {
+        "A": "₹97,448 crore, about 2.9% of GSDP",
+        "B": "₹22,957 crore, about 0.7% of GSDP",
+        "C": "₹44,117 crore, about 1.3% of GSDP",
+        "D": "₹4,48,004 crore, about 13.6% of GSDP"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fiscal deficit is ₹97,448 crore, or about 2.9% of projected GSDP.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and F"
+    },
+    {
+      "id": "KB013",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the revenue deficit in 2026-27 BE and as a percentage of GSDP?",
+      "options": {
+        "A": "₹97,448 crore, about 2.9% of GSDP",
+        "B": "₹22,957 crore, about 0.7% of GSDP",
+        "C": "₹44,117 crore, about 1.3% of GSDP",
+        "D": "₹53,332 crore, about 1.6% of GSDP"
+      },
+      "correctAnswer": "B",
+      "explanation": "Revenue deficit is ₹22,957 crore, about 0.7% of GSDP.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and F"
+    },
+    {
+      "id": "KB014",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the primary deficit in 2026-27 BE and as a percentage of GSDP?",
+      "options": {
+        "A": "₹97,448 crore, about 2.9% of GSDP",
+        "B": "₹22,957 crore, about 0.7% of GSDP",
+        "C": "₹44,117 crore, about 1.3% of GSDP",
+        "D": "₹35,316 crore, about 1.1% of GSDP"
+      },
+      "correctAnswer": "C",
+      "explanation": "Primary deficit is ₹44,117 crore, about 1.3% of GSDP.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and F"
+    },
+    {
+      "id": "KB015",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the own tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹2,20,000 crore",
+        "B": "₹2,36,000 crore",
+        "C": "₹16,000 crore",
+        "D": "₹63,050 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Own tax revenue in 2026-27 BE is ₹2,20,000 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and C"
+    },
+    {
+      "id": "KB016",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the own non-tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹2,20,000 crore",
+        "B": "₹16,000 crore",
+        "C": "₹63,050 crore",
+        "D": "₹17,500 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Own non-tax revenue in 2026-27 BE is ₹16,000 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and D"
+    },
+    {
+      "id": "KB017",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Karnataka's share in central taxes in 2026-27 BE?",
+      "options": {
+        "A": "₹16,000 crore",
+        "B": "₹63,050 crore",
+        "C": "₹79,050 crore",
+        "D": "₹2,20,000 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Share in central taxes is ₹63,050 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and B"
+    },
+    {
+      "id": "KB018",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the central grants in 2026-27 BE?",
+      "options": {
+        "A": "₹63,050 crore",
+        "B": "₹16,000 crore",
+        "C": "₹79,050 crore",
+        "D": "₹190 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Central grants are ₹16,000 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and B"
+    },
+    {
+      "id": "KB019",
+      "subject": "Karnataka Budget",
+      "topic": "Budget Overview",
+      "chapter": "Budget Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the allocation to the five guarantee schemes in 2026-27 BE?",
+      "options": {
+        "A": "₹51,286 crore",
+        "B": "₹28,608 crore",
+        "C": "₹47,948 crore",
+        "D": "₹17,812 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "The five guarantee schemes are allocated ₹51,286 crore in 2026-27 BE, around 12% of expenditure excluding debt repayment.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections A and I"
+    },
+    {
+      "id": "KB020",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are revenue receipts?",
+      "options": {
+        "A": "Recurring receipts that neither create liabilities nor reduce government assets: own taxes, own non-tax revenue, share in central taxes, and grants-in-aid",
+        "B": "Receipts that create liabilities or reduce assets, such as borrowings",
+        "C": "Only the state's own tax collections",
+        "D": "Only grants received from the Union government"
+      },
+      "correctAnswer": "A",
+      "explanation": "Revenue receipts are recurring receipts that neither create liabilities nor reduce government assets: own taxes, own non-tax revenue, share in central taxes, and grants-in-aid.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB021",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the state's own revenue in 2026-27 BE?",
+      "options": {
+        "A": "Own tax revenue plus own non-tax revenue; ₹2,36,000 crore",
+        "B": "Own tax revenue only; ₹2,20,000 crore",
+        "C": "Revenue receipts plus non-debt capital receipts; ₹3,15,240 crore",
+        "D": "Share in central taxes plus grants; ₹79,050 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Own revenue = own tax revenue + own non-tax revenue; 2026-27 BE is ₹2,36,000 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB022",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much of revenue receipts comes from Karnataka's own resources in 2026-27 BE?",
+      "options": {
+        "A": "₹2,36,000 crore, approximately 75% of revenue receipts",
+        "B": "₹79,050 crore, approximately 25% of revenue receipts",
+        "C": "₹3,15,050 crore, approximately 100% of revenue receipts",
+        "D": "₹2,20,000 crore, approximately 70% of revenue receipts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka's own resources contribute ₹2,36,000 crore, approximately 75% of revenue receipts.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB023",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much of revenue receipts comes from the Union government in 2026-27 BE?",
+      "options": {
+        "A": "₹79,050 crore, about 25% of revenue receipts",
+        "B": "₹63,050 crore, about 20% of revenue receipts",
+        "C": "₹16,000 crore, about 5% of revenue receipts",
+        "D": "₹2,36,000 crore, about 75% of revenue receipts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Union government transfers total ₹79,050 crore, about 25% of revenue receipts: ₹63,050 crore in tax devolution and ₹16,000 crore in grants.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB024",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is tax devolution?",
+      "options": {
+        "A": "The constitutionally determined transfer of a share of the Union's divisible tax pool to states, based on Finance Commission recommendations",
+        "B": "A loan given by the Union to states at concessional interest",
+        "C": "A grant tied to a specific centrally sponsored scheme",
+        "D": "The state's own tax collection transferred to local bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tax devolution is the constitutionally determined transfer of a share of the Union's divisible tax pool to states, based on Finance Commission recommendations.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB025",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a grant-in-aid?",
+      "options": {
+        "A": "A transfer to the state from the Union, generally without a repayment obligation; it can be tied to a scheme or purpose",
+        "B": "A compulsory payment levied under law without quid pro quo",
+        "C": "A market borrowing instrument issued through RBI auctions",
+        "D": "A fee collected from a beneficiary for a public service"
+      },
+      "correctAnswer": "A",
+      "explanation": "A grant-in-aid is a transfer to the state from the Union, generally without a repayment obligation; it can be tied to a scheme or purpose.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB026",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are capital receipts?",
+      "options": {
+        "A": "Receipts that create liabilities or reduce assets, such as borrowings and recovery of loans; non-debt capital receipts do not create debt",
+        "B": "Recurring receipts that neither create liabilities nor reduce assets",
+        "C": "Only tax receipts of the state government",
+        "D": "Only grants-in-aid received from the Union"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capital receipts create liabilities or reduce assets, such as borrowings and recovery of loans; non-debt capital receipts do not create debt.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB027",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are non-debt capital receipts for 2026-27?",
+      "options": {
+        "A": "₹190 crore",
+        "B": "₹2,757 crore",
+        "C": "₹35,316 crore",
+        "D": "₹16,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-debt capital receipts for 2026-27 are ₹190 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB028",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are total receipts excluding borrowings in 2026-27?",
+      "options": {
+        "A": "₹3,15,240 crore = revenue receipts ₹3,15,050 crore + non-debt capital receipts ₹190 crore",
+        "B": "₹3,15,050 crore = revenue receipts only",
+        "C": "₹4,12,688 crore = net expenditure",
+        "D": "₹4,48,004 crore = total expenditure including debt repayment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total receipts excluding borrowings are ₹3,15,240 crore = revenue receipts ₹3,15,050 crore + non-debt capital receipts ₹190 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Sections B and F"
+    },
+    {
+      "id": "KB029",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is revenue buoyancy?",
+      "options": {
+        "A": "The responsiveness of revenue collections to growth in the economic base; tax buoyancy is percentage change in tax revenue divided by percentage change in GSDP, over a comparable period",
+        "B": "The ratio of revenue expenditure to revenue receipts",
+        "C": "The share of central taxes in total revenue receipts",
+        "D": "The proportion of revenue receipts spent on committed expenditure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Revenue buoyancy is the responsiveness of revenue collections to growth in the economic base; tax buoyancy is percentage change in tax revenue divided by percentage change in GSDP, over a comparable period.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB030",
+      "subject": "Karnataka Budget",
+      "topic": "State Revenue",
+      "chapter": "State Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Does borrowing count as a revenue receipt?",
+      "options": {
+        "A": "Yes, because it is received by the government",
+        "B": "No, borrowing is a debt-creating capital receipt",
+        "C": "Yes, but only for states under Article 293",
+        "D": "No, borrowing is a non-debt capital receipt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Borrowing does not count as a revenue receipt; it is a debt-creating capital receipt.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section B"
+    },
+    {
+      "id": "KB031",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is tax revenue?",
+      "options": {
+        "A": "Compulsory payments levied by government under law, without a direct quid pro quo for each payment",
+        "B": "Voluntary contributions made by citizens to the government",
+        "C": "Fees collected from beneficiaries for specific public services",
+        "D": "Dividends received from state public sector enterprises"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tax revenue is compulsory payments levied by government under law, without a direct quid pro quo for each payment.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB032",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is Karnataka's own tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹2,20,000 crore",
+        "B": "₹2,36,000 crore",
+        "C": "₹91,000 crore",
+        "D": "₹16,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka's own tax revenue in 2026-27 BE is ₹2,20,000 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB033",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the largest source of Karnataka's own tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "State Goods and Services Tax (SGST), estimated at ₹91,000 crore, approximately 41% of own tax revenue",
+        "B": "State excise revenue, estimated at ₹45,000 crore",
+        "C": "Sales tax/VAT, estimated at ₹32,400 crore",
+        "D": "Stamp duty and registration, estimated at ₹29,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "SGST is the largest source of own tax revenue in 2026-27 BE, estimated at ₹91,000 crore, approximately 41% of own tax revenue.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB034",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is state excise revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹45,000 crore",
+        "B": "₹32,400 crore",
+        "C": "₹29,000 crore",
+        "D": "₹15,500 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "State excise revenue is ₹45,000 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB035",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much is sales tax/VAT revenue in 2026-27 BE, and on what does VAT continue?",
+      "options": {
+        "A": "₹32,400 crore; VAT continues on specified goods outside GST, notably petroleum products under prevailing arrangements",
+        "B": "₹29,000 crore; VAT continues on all goods including petroleum products",
+        "C": "₹15,500 crore; VAT continues only on motor vehicles",
+        "D": "₹1,655 crore; VAT continues only on electricity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sales tax/VAT revenue is ₹32,400 crore in 2026-27 BE; VAT continues on specified goods outside GST, notably petroleum products under prevailing arrangements.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB036",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is stamp duty and registration revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹29,000 crore",
+        "B": "₹15,500 crore",
+        "C": "₹1,655 crore",
+        "D": "₹723 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stamp duty and registration revenue is ₹29,000 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+        {
+      "id": "KB037",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is motor vehicle tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹29,000 crore",
+        "B": "₹15,500 crore",
+        "C": "₹1,655 crore",
+        "D": "₹723 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "Motor vehicle tax revenue is ₹15,500 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB038",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much are taxes and duties on electricity in 2026-27 BE?",
+      "options": {
+        "A": "₹1,655 crore",
+        "B": "₹723 crore",
+        "C": "₹15,500 crore",
+        "D": "₹29,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taxes and duties on electricity are ₹1,655 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB039",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much is land revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹723 crore",
+        "B": "₹1,655 crore",
+        "C": "₹15,500 crore",
+        "D": "₹29,000 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Land revenue is ₹723 crore in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB040",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is SGST?",
+      "options": {
+        "A": "The state component of GST on intra-state taxable supplies; for inter-state supplies, IGST is collected and settled under the GST framework",
+        "B": "The Union component of GST on inter-state supplies only",
+        "C": "A surcharge levied by states on central excise",
+        "D": "A tax on agricultural income levied by states"
+      },
+      "correctAnswer": "A",
+      "explanation": "SGST is the state component of GST on intra-state taxable supplies; for inter-state supplies, IGST is collected and settled under the GST framework.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB041",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who administers GST policy at the national level?",
+      "options": {
+        "A": "The GST Council under Article 279A recommends GST rates and key framework decisions; the Union and states legislate and administer their respective GST laws",
+        "B": "The Reserve Bank of India under the RBI Act, 1934",
+        "C": "The Finance Commission under Article 280",
+        "D": "NITI Aayog through its governing council"
+      },
+      "correctAnswer": "A",
+      "explanation": "The GST Council under Article 279A recommends GST rates and key framework decisions; the Union and states legislate and administer their respective GST laws.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB042",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between direct and indirect tax?",
+      "options": {
+        "A": "Direct taxes are imposed directly on the person or entity legally liable; indirect taxes are generally levied on transactions and can be passed through prices",
+        "B": "Direct taxes are levied on transactions; indirect taxes are levied on persons",
+        "C": "Direct taxes can be shifted to consumers; indirect taxes cannot",
+        "D": "Direct taxes are only levied by states; indirect taxes only by the Union"
+      },
+      "correctAnswer": "A",
+      "explanation": "Direct taxes are imposed directly on the person or entity legally liable; indirect taxes are generally levied on transactions and can be passed through prices.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB043",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Does Karnataka levy personal income tax?",
+      "options": {
+        "A": "Yes, at rates fixed by the state legislature",
+        "B": "No; personal income tax is a Union tax and the state receives a share of divisible central taxes under devolution",
+        "C": "Yes, but only on agricultural income",
+        "D": "No, but the state levies an equivalent surcharge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka does not levy personal income tax; personal income tax is a Union tax and the state receives a share of divisible central taxes under devolution.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB044",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is tax effort?",
+      "options": {
+        "A": "An assessment of how effectively a government raises tax relative to its economic capacity; own-tax-to-GSDP ratio is one commonly used indicator",
+        "B": "The total tax revenue collected in a financial year",
+        "C": "The share of central taxes devolved to the state",
+        "D": "The ratio of tax revenue to non-tax revenue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tax effort is an assessment of how effectively a government raises tax relative to its economic capacity; own-tax-to-GSDP ratio is one commonly used indicator.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB045",
+      "subject": "Karnataka Budget",
+      "topic": "Tax Revenue",
+      "chapter": "Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the projected own-tax-to-GSDP ratio in 2026-27?",
+      "options": {
+        "A": "Approximately 6.7%",
+        "B": "Approximately 0.48%",
+        "C": "Approximately 2.9%",
+        "D": "Approximately 25%"
+      },
+      "correctAnswer": "A",
+      "explanation": "The projected own-tax-to-GSDP ratio in 2026-27 is approximately 6.7%.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section C"
+    },
+    {
+      "id": "KB046",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is non-tax revenue?",
+      "options": {
+        "A": "Government income other than taxes, such as royalties, fees, user charges, dividends, interest and service receipts",
+        "B": "Compulsory payments levied under law without quid pro quo",
+        "C": "Transfers from the Union government under tax devolution",
+        "D": "Borrowings that create liabilities for the government"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-tax revenue is government income other than taxes, such as royalties, fees, user charges, dividends, interest and service receipts.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB047",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is Karnataka's own non-tax revenue in 2026-27 BE?",
+      "options": {
+        "A": "₹16,000 crore",
+        "B": "₹17,500 crore",
+        "C": "₹2,20,000 crore",
+        "D": "₹63,050 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka's own non-tax revenue in 2026-27 BE is ₹16,000 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB048",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are Karnataka-specific non-tax revenue sources?",
+      "options": {
+        "A": "Mining and mineral royalties, dividends from state enterprises, interest receipts, departmental fees, licence fees and user charges",
+        "B": "SGST, state excise and stamp duty",
+        "C": "Tax devolution and grants-in-aid from the Union",
+        "D": "Market loans and State Development Loans"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka-specific non-tax revenue sources include mining and mineral royalties, dividends from state enterprises, interest receipts, departmental fees, licence fees and user charges.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB049",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is a mining royalty a tax?",
+      "options": {
+        "A": "It is generally recorded as a non-tax receipt in state budget classifications",
+        "B": "Yes, it is always classified as a tax on mineral extraction",
+        "C": "No, it is a capital receipt",
+        "D": "It is a grant-in-aid from the Union"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mining royalty is generally recorded as a non-tax receipt in state budget classifications.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB050",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are central grants Karnataka's own non-tax revenue?",
+      "options": {
+        "A": "Yes, because they are receipts of the state government",
+        "B": "No; they are a separate component of revenue receipts",
+        "C": "Yes, but only untied grants",
+        "D": "No, they are capital receipts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Central grants are not Karnataka's own non-tax revenue; they are a separate component of revenue receipts.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB051",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a user charge?",
+      "options": {
+        "A": "A fee collected from a beneficiary for a public service, such as water supply or a government-provided service",
+        "B": "A compulsory tax levied on all citizens",
+        "C": "A transfer from the Union government without repayment obligation",
+        "D": "A market borrowing instrument issued by the state"
+      },
+      "correctAnswer": "A",
+      "explanation": "A user charge is a fee collected from a beneficiary for a public service, such as water supply or a government-provided service.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB052",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is non-tax revenue important?",
+      "options": {
+        "A": "It diversifies revenue beyond taxes and can support maintenance and delivery of services, though collections may be volatile",
+        "B": "It is the most stable and predictable source of government revenue",
+        "C": "It replaces the need for tax revenue entirely",
+        "D": "It is constitutionally mandated to exceed tax revenue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-tax revenue diversifies revenue beyond taxes and can support maintenance and delivery of services, though collections may be volatile.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB053",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did 2026-27 own non-tax revenue BE compare with 2025-26 RE?",
+      "options": {
+        "A": "₹16,000 crore versus ₹17,500 crore, a budgeted decline of about 9%",
+        "B": "₹17,500 crore versus ₹16,000 crore, a budgeted increase of about 9%",
+        "C": "₹16,000 crore versus ₹16,000 crore, unchanged",
+        "D": "₹2,36,000 crore versus ₹2,20,000 crore, an increase of about 7%"
+      },
+      "correctAnswer": "A",
+      "explanation": "2026-27 own non-tax revenue BE is ₹16,000 crore versus ₹17,500 crore in 2025-26 RE, a budgeted decline of about 9%.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB054",
+      "subject": "Karnataka Budget",
+      "topic": "Non-Tax Revenue",
+      "chapter": "Non-Tax Revenue",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the estimated own non-tax revenue to GSDP ratio in 2026-27 BE?",
+      "options": {
+        "A": "Approximately 0.48%",
+        "B": "Approximately 6.7%",
+        "C": "Approximately 2.9%",
+        "D": "Approximately 25%"
+      },
+      "correctAnswer": "A",
+      "explanation": "The estimated own non-tax revenue to GSDP ratio is approximately 0.48% in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section D"
+    },
+    {
+      "id": "KB055",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is revenue expenditure?",
+      "options": {
+        "A": "Spending on routine administration, salaries, pensions, interest, subsidies and grants that ordinarily does not directly create government assets",
+        "B": "Spending that creates assets or reduces liabilities",
+        "C": "Repayment of loan principal",
+        "D": "Only spending on social welfare schemes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Revenue expenditure is spending on routine administration, salaries, pensions, interest, subsidies and grants that ordinarily does not directly create government assets.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB056",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is revenue expenditure in 2026-27 BE?",
+      "options": {
+        "A": "₹3,38,007 crore",
+        "B": "₹3,15,050 crore",
+        "C": "₹4,12,688 crore",
+        "D": "₹71,924 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Revenue expenditure in 2026-27 BE is ₹3,38,007 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB057",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is capital expenditure?",
+      "options": {
+        "A": "Spending that creates assets or reduces liabilities; capital outlay creates assets and capital expenditure may also include loans and advances and other capital items",
+        "B": "Spending on routine administration and salaries",
+        "C": "Payment of interest on outstanding debt",
+        "D": "Repayment of loan principal only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capital expenditure is spending that creates assets or reduces liabilities; capital outlay creates assets and capital expenditure may also include loans and advances and other capital items.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB058",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How much is capital outlay in 2026-27 BE?",
+      "options": {
+        "A": "₹71,924 crore, for assets such as roads, buildings and infrastructure",
+        "B": "₹2,757 crore, for loans advanced by the state",
+        "C": "₹35,316 crore, for debt repayment",
+        "D": "₹53,332 crore, for interest payments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capital outlay in 2026-27 BE is ₹71,924 crore, for assets such as roads, buildings and infrastructure.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB059",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much are loans advanced by the state in 2026-27 BE?",
+      "options": {
+        "A": "₹2,757 crore",
+        "B": "₹71,924 crore",
+        "C": "₹35,316 crore",
+        "D": "₹190 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loans advanced by the state in 2026-27 BE are ₹2,757 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB060",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is net expenditure calculated?",
+      "options": {
+        "A": "Revenue expenditure + capital outlay + loans given = ₹3,38,007 + ₹71,924 + ₹2,757 = ₹4,12,688 crore",
+        "B": "Revenue expenditure + capital outlay = ₹3,38,007 + ₹71,924 = ₹4,09,931 crore",
+        "C": "Total expenditure including debt repayment minus interest = ₹4,48,004 − ₹53,332 = ₹3,94,672 crore",
+        "D": "Revenue receipts + non-debt capital receipts = ₹3,15,050 + ₹190 = ₹3,15,240 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "Net expenditure = revenue expenditure + capital outlay + loans given = ₹3,38,007 + ₹71,924 + ₹2,757 = ₹4,12,688 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB061",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is total expenditure including debt repayment in 2026-27 BE, and what does it include?",
+      "options": {
+        "A": "₹4,48,004 crore; it includes ₹35,316 crore of debt repayment",
+        "B": "₹4,12,688 crore; it includes ₹2,757 crore of loans advanced",
+        "C": "₹3,38,007 crore; it includes ₹53,332 crore of interest",
+        "D": "₹97,448 crore; it is the fiscal deficit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total expenditure including debt repayment is ₹4,48,004 crore; it includes ₹35,316 crore of debt repayment.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB062",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why distinguish gross expenditure from net expenditure?",
+      "options": {
+        "A": "Repayment of loan principal is a financing transaction; net expenditure excluding repayment is used for fiscal deficit comparisons and sector allocations",
+        "B": "Gross expenditure excludes interest while net expenditure includes it",
+        "C": "Net expenditure includes borrowings while gross expenditure excludes them",
+        "D": "They are identical in all budget documents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Repayment of loan principal is a financing transaction; net expenditure excluding repayment is used for fiscal deficit comparisons and sector allocations.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB063",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is committed expenditure?",
+      "options": {
+        "A": "Relatively inflexible expenditure, especially salaries, pensions and interest payments",
+        "B": "Expenditure on new capital projects",
+        "C": "Expenditure on welfare schemes only",
+        "D": "Repayment of loan principal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Committed expenditure is relatively inflexible expenditure, especially salaries, pensions and interest payments.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB064",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much is committed expenditure in 2026-27 BE and what are its components?",
+      "options": {
+        "A": "₹1,85,025 crore: salaries ₹90,557 crore; pensions ₹41,136 crore; interest ₹53,332 crore",
+        "B": "₹1,85,025 crore: salaries ₹53,332 crore; pensions ₹90,557 crore; interest ₹41,136 crore",
+        "C": "₹1,31,693 crore: salaries ₹90,557 crore; pensions ₹41,136 crore",
+        "D": "₹51,286 crore: the five guarantee schemes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Committed expenditure in 2026-27 BE is ₹1,85,025 crore: salaries ₹90,557 crore; pensions ₹41,136 crore; interest ₹53,332 crore.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB065",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What share of revenue receipts is committed expenditure in 2026-27 BE?",
+      "options": {
+        "A": "About 59%",
+        "B": "About 75%",
+        "C": "About 25%",
+        "D": "About 12%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Committed expenditure is about 59% of revenue receipts in 2026-27 BE.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB066",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does a high committed-expenditure ratio matter?",
+      "options": {
+        "A": "It leaves less fiscal flexibility for capital projects and new programmes",
+        "B": "It automatically increases the fiscal deficit beyond 3% of GSDP",
+        "C": "It reduces the state's share in central taxes",
+        "D": "It increases non-tax revenue collections"
+      },
+      "correctAnswer": "A",
+      "explanation": "A high committed-expenditure ratio leaves less fiscal flexibility for capital projects and new programmes.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    },
+    {
+      "id": "KB067",
+      "subject": "Karnataka Budget",
+      "topic": "State Expenditure",
+      "chapter": "State Expenditure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is interest payment the same as repayment of principal?",
+      "options": {
+        "A": "No; interest is a revenue expenditure, while principal repayment is a capital financing outflow",
+        "B": "Yes; both are treated as revenue expenditure",
+        "C": "No; interest is a capital receipt, while principal repayment is revenue expenditure",
+        "D": "Yes; both are financing transactions excluded from net expenditure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interest payment is not the same as repayment of principal: interest is a revenue expenditure, while principal repayment is a capital financing outflow.",
+      "source": "Karnataka Budget FDA/SDA Notes 11.5, Section E"
+    }
+  ]
+}

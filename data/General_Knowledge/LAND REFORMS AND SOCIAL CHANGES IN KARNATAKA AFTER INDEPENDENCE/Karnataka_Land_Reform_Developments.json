@@ -1,0 +1,2689 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Karnataka Land Reforms - Comprehensive question bank derived from Karnataka_Land_Reform_Developments.pdf. Exam-oriented, fact-verified, structured for KEA FDA/SDA preparation.",
+  "questions": [
+    {
+      "id": "LR001",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the principal legislation governing agrarian relations, tenancy, land ownership and land ceilings in Karnataka?",
+      "options": {
+        "A": "The Karnataka Land Revenue Act, 1964",
+        "B": "The Karnataka Land Reforms Act, 1961",
+        "C": "The Karnataka Agricultural Income Tax Act, 1957",
+        "D": "The Karnataka Village Offices Abolition Act, 1961"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Land Reforms Act, 1961 (Karnataka Act No. 10 of 1962) is the principal state legislation governing agrarian relations, tenancy, land ownership and land ceilings in Karnataka.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR002",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Karnataka Land Reforms Act is numbered as which Karnataka Act?",
+      "options": {
+        "A": "Karnataka Act No. 10 of 1962",
+        "B": "Karnataka Act No. 1 of 1974",
+        "C": "Karnataka Act No. 10 of 1961",
+        "D": "Karnataka Act No. 5 of 1962"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms Act is Karnataka Act No. 10 of 1962.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR003",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the Act called the Karnataka Land Reforms Act, 1961 although it is Act No. 10 of 1962?",
+      "options": {
+        "A": "Because it was amended in 1961",
+        "B": "Because the Act is titled by the year in which it was framed; it was enacted and published as Karnataka Act 10 of 1962",
+        "C": "Because it was notified in 1961",
+        "D": "Because the President assented to it in 1961"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Act is titled by the year in which it was framed; it was enacted and published as Karnataka Act 10 of 1962.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR004",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "On which date was the Karnataka Land Reforms Act, 1961 enacted as recorded by India Code?",
+      "options": {
+        "A": "2 October 1965",
+        "B": "1 March 1974",
+        "C": "5 March 1962",
+        "D": "26 January 1962"
+      },
+      "correctAnswer": "C",
+      "explanation": "The India Code record gives 5 March 1962 as the enactment date of the Karnataka Land Reforms Act, 1961.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR005",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did the Karnataka Land Reforms Act come into force?",
+      "options": {
+        "A": "5 March 1962",
+        "B": "2 October 1965",
+        "C": "1 March 1974",
+        "D": "15 August 1961"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Act came into force on 2 October 1965, under Government Notification No. RD 86 LRY 65.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR006",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Government Notification did the Karnataka Land Reforms Act come into force?",
+      "options": {
+        "A": "Notification No. RD 86 LRY 65",
+        "B": "Notification No. RD 10 LRY 62",
+        "C": "Notification No. LD 44 1974",
+        "D": "Notification No. RD 86 LRY 62"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act came into force on 2 October 1965 under Government Notification No. RD 86 LRY 65.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR007",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "To which territory does the Karnataka Land Reforms Act extend?",
+      "options": {
+        "A": "Only to the erstwhile Mysore State",
+        "B": "To the whole State of Karnataka",
+        "C": "Only to rural areas of Karnataka",
+        "D": "To Karnataka and adjoining states"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Land Reforms Act extends to the whole State of Karnataka.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR008",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the broad purpose of enacting a uniform land-reform law for Karnataka?",
+      "options": {
+        "A": "To increase land revenue collection only",
+        "B": "To establish uniform rules for agrarian relations, protect tenants, confer ownership on eligible cultivators, regulate agricultural holdings, impose ceilings and distribute surplus land",
+        "C": "To abolish all private ownership of land",
+        "D": "To promote urban development"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Act aimed to establish uniform rules for agrarian relations, protect tenants, confer ownership on eligible cultivators, regulate agricultural holdings, impose ceilings and distribute surplus land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR009",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which committee's recommendations substantially influenced the Karnataka Land Reforms Act, 1961?",
+      "options": {
+        "A": "Krishna Committee",
+        "B": "Jatti Committee",
+        "C": "Nanavati Committee",
+        "D": "Sarkaria Committee"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Mysore Tenancy and Agricultural Land Laws Committee, commonly called the Jatti Committee, substantially influenced the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR010",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the official name of the committee commonly called the Jatti Committee?",
+      "options": {
+        "A": "Mysore Tenancy and Agricultural Land Laws Committee",
+        "B": "Karnataka Land Reforms Committee",
+        "C": "Mysore Land Ceiling Committee",
+        "D": "Karnataka Agrarian Relations Committee"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mysore Tenancy and Agricultural Land Laws Committee is commonly called the Jatti Committee.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR011",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the Jatti Committee constituted?",
+      "options": {
+        "A": "May 1957",
+        "B": "March 1962",
+        "C": "October 1965",
+        "D": "March 1974"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mysore Tenancy and Agricultural Land Laws Committee (Jatti Committee) was constituted in May 1957.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR012",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When did the Jatti Committee submit its recommendations?",
+      "options": {
+        "A": "1957",
+        "B": "1961",
+        "C": "1962",
+        "D": "1965"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Jatti Committee submitted its recommendations in 1961.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR013",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What were the major weaknesses in Karnataka's pre-reform tenancy system?",
+      "options": {
+        "A": "Tenants had secure tenure and fair rents",
+        "B": "Tenants often faced insecure tenure, high or unfair rents, risk of eviction, dependence on landlords and lack of ownership rights; tenancy rules also differed across regions",
+        "C": "Tenancy was completely abolished before 1961",
+        "D": "All tenants were already owners of their land"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tenants often faced insecure tenure, high or unfair rents, risk of eviction, dependence on landlords and lack of ownership rights; tenancy rules also differed across the regions integrated into Mysore State.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR014",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major amendment transformed the Karnataka land-reform framework in 1974?",
+      "options": {
+        "A": "The Karnataka Land Reforms (Amendment) Act, 1973, enacted as Karnataka Act 1 of 1974",
+        "B": "The Karnataka Land Reforms (Amendment) Act, 1961",
+        "C": "The Karnataka Land Reforms (Amendment) Act, 1965",
+        "D": "The Karnataka Land Reforms (Amendment) Act, 1980"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms (Amendment) Act, 1973, enacted as Karnataka Act 1 of 1974, brought the major tenancy and ownership changes into operation from 1 March 1974.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR015",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is 1 March 1974 important in Karnataka land-reform history?",
+      "options": {
+        "A": "It is the date the Act was enacted",
+        "B": "It is the effective date of the major 1974 amendment under which tenant-held agricultural lands vested in the State Government and eligible tenants could be registered as occupants",
+        "C": "It is the date the Act was repealed",
+        "D": "It is the date the Jatti Committee was constituted"
+      },
+      "correctAnswer": "B",
+      "explanation": "1 March 1974 is the effective date of the major 1974 amendment under which tenant-held agricultural lands, subject to statutory conditions and exceptions, vested in the State Government and eligible tenants could be registered as occupants.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR016",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is agricultural tenancy?",
+      "options": {
+        "A": "Ownership of agricultural land by the government",
+        "B": "The legal relationship in which a landowner or landlord lets agricultural land to a tenant for cultivation in return for rent or other agreed consideration",
+        "C": "The sale of agricultural land to a tenant",
+        "D": "The acquisition of agricultural land by the government"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agricultural tenancy is the legal relationship in which a landowner or landlord lets agricultural land to a tenant for cultivation in return for rent or other agreed consideration.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR017",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the main objective of tenancy reforms in Karnataka?",
+      "options": {
+        "A": "To increase land revenue for the state",
+        "B": "To protect actual cultivators from arbitrary eviction, regulate rent, provide security of tenure and ultimately confer ownership rights on eligible tenants",
+        "C": "To promote absentee landlordism",
+        "D": "To reduce agricultural production"
+      },
+      "correctAnswer": "B",
+      "explanation": "The main objective was to protect actual cultivators from arbitrary eviction, regulate rent, provide security of tenure and ultimately confer ownership rights on eligible tenants.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR018",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by security of tenure?",
+      "options": {
+        "A": "The right of the landlord to evict tenants at will",
+        "B": "Legal protection that prevents a tenant from being removed from cultivated land except on grounds and through procedures permitted by law",
+        "C": "The obligation of the tenant to pay rent in cash only",
+        "D": "The right of the government to acquire tenant land"
+      },
+      "correctAnswer": "B",
+      "explanation": "Security of tenure means legal protection that prevents a tenant from being removed from cultivated land except on grounds and through procedures permitted by law.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR019",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What did the 1961 Act initially seek to do for existing tenants?",
+      "options": {
+        "A": "Immediately transfer ownership to all tenants",
+        "B": "Provide statutory protection against eviction, regulate rent and tenancy conditions, restrict certain transfers and subletting, and introduce limits on agricultural holdings",
+        "C": "Abolish tenancy altogether",
+        "D": "Increase rents to market levels"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 1961 Act provided statutory protection against eviction, regulated rent and tenancy conditions, restricted certain transfers and subletting, and introduced limits on agricultural holdings.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR020",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What major change did the 1974 amendment make to the landlord-tenant relationship?",
+      "options": {
+        "A": "It abolished all tenancy without compensation",
+        "B": "It provided for vesting in the State Government of lands held by tenants immediately before the appointed date, subject to statutory exceptions, and enabled eligible tenants to become registered occupants",
+        "C": "It restored full powers to landlords",
+        "D": "It reduced tenant protection"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 1974 amendment provided for vesting in the State Government of lands held by tenants immediately before the appointed date, subject to statutory exceptions, and enabled eligible tenants to become registered occupants.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR021",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 44 of the Karnataka Land Reforms Act deal with?",
+      "options": {
+        "A": "Registration of occupants",
+        "B": "Vesting in the State Government of lands held by or in the possession of tenants immediately before the relevant date, subject to the Act",
+        "C": "Ceiling on land holdings",
+        "D": "Disposal of surplus land"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 44 deals with vesting in the State Government of lands held by or in the possession of tenants immediately before the relevant date, subject to the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR022",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 45 of the Karnataka Land Reforms Act provide?",
+      "options": {
+        "A": "Constitution of Land Tribunals",
+        "B": "Eligible permanent, protected and other tenants, and qualifying sub-tenants, to be registered as occupants of the lands they cultivated personally, subject to the Act's conditions and ceiling limits",
+        "C": "Ceiling on land holdings",
+        "D": "Surrender of surplus land"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 45 provides for eligible permanent, protected and other tenants, and qualifying sub-tenants, to be registered as occupants of the lands they cultivated personally, subject to the Act's conditions and ceiling limits.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR023",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who could claim registration as an occupant under the 1974 reform scheme?",
+      "options": {
+        "A": "Any person who paid rent to a landlord",
+        "B": "A person who qualified as a permanent tenant, protected tenant or other tenant, or a qualifying lawful sub-tenant, and who personally cultivated the land before vesting",
+        "C": "Any agricultural labourer",
+        "D": "Any person owning more than ten units of land"
+      },
+      "correctAnswer": "B",
+      "explanation": "A person who qualified as a permanent tenant, protected tenant or other tenant, or a qualifying lawful sub-tenant, and who personally cultivated the land before vesting, could claim registration subject to statutory conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR024",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a protected tenant under the Karnataka Land Reforms Act?",
+      "options": {
+        "A": "A tenant who held and personally cultivated the land continuously for at least twelve years before the appointed day, with specified inclusions for certain former regional tenancy-law categories",
+        "B": "A tenant who paid rent for at least five years",
+        "C": "A tenant who owned the land",
+        "D": "A tenant who cultivated land for at least three years"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the statutory definition, a protected tenant generally refers to a tenant who held and personally cultivated the land continuously for at least twelve years before the appointed day, with specified inclusions for certain former regional tenancy-law categories.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR025",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a deemed tenant?",
+      "options": {
+        "A": "A tenant with a written lease",
+        "B": "A person whom the Act treats as a tenant by operation of law even if a conventional written lease is absent, provided the statutory conditions are satisfied",
+        "C": "A tenant who pays rent in kind",
+        "D": "A tenant who has been evicted"
+      },
+      "correctAnswer": "B",
+      "explanation": "A deemed tenant is a person whom the Act treats as a tenant by operation of law even if a conventional written lease is absent, provided the statutory conditions are satisfied.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR026",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by personal cultivation under the Act?",
+      "options": {
+        "A": "Cultivation through hired labour only",
+        "B": "Cultivation on one's own account through one's own labour, family labour, or hired labour under personal supervision, as defined by the Act",
+        "C": "Cultivation by the landlord",
+        "D": "Cultivation through a manager"
+      },
+      "correctAnswer": "B",
+      "explanation": "Personal cultivation includes cultivation on one's own account through one's own labour, family labour, or hired labour under personal supervision, as defined by the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR027",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did the 1974 reform automatically make every agricultural worker an owner?",
+      "options": {
+        "A": "Yes, all agricultural workers became owners",
+        "B": "No. Ownership registration depended on qualifying tenancy status, personal cultivation, the land being covered by the Act, filing and adjudication requirements, and ceiling-related conditions",
+        "C": "Yes, but only in certain districts",
+        "D": "No, because the Act was never implemented"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ownership registration depended on qualifying tenancy status, personal cultivation, the land being covered by the Act, filing and adjudication requirements, and ceiling-related conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR028",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happened to the landlord's title in land vested under Section 44?",
+      "options": {
+        "A": "The landlord retained full title",
+        "B": "The landlord's rights, title and interest in the vested land ceased and vested in the State Government, subject to the statutory scheme for payment of an amount",
+        "C": "The landlord's title was transferred to the tenant directly",
+        "D": "The landlord was allowed to sell the land"
+      },
+      "correctAnswer": "B",
+      "explanation": "The landlord's rights, title and interest in the vested land ceased and vested in the State Government, subject to the statutory scheme for payment of an amount.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR029",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did the former landlord receive nothing after vesting?",
+      "options": {
+        "A": "Yes, the landlord received nothing",
+        "B": "No. The Act provided for an amount payable by the State Government to the former landowner and other persons whose interests were extinguished, according to the statutory formula",
+        "C": "The landlord received the land back after five years",
+        "D": "The landlord received only the standing crops"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Act provided for an amount payable by the State Government to the former landowner and other persons whose interests were extinguished, according to the statutory formula.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR030",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Section 48 of the Karnataka Land Reforms Act?",
+      "options": {
+        "A": "It provides for the constitution of Land Tribunals to deal with applications and questions relating to registration of occupants under the Act",
+        "B": "It provides for the ceiling on land holdings",
+        "C": "It provides for disposal of surplus land",
+        "D": "It provides for the certificate of registration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 48 provides for the constitution of Land Tribunals to deal with applications and questions relating to registration of occupants under the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR031",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the role of the Land Tribunal in the 1974 reforms?",
+      "options": {
+        "A": "It collected land revenue",
+        "B": "It examined tenancy claims and evidence, determined eligibility for registration as an occupant, and passed orders under the Act",
+        "C": "It issued currency notes",
+        "D": "It conducted elections"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Land Tribunal examined tenancy claims and evidence, determined eligibility for registration as an occupant, and passed orders under the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR032",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which authority commonly received applications for registration of occupancy rights under Section 48A?",
+      "options": {
+        "A": "The Land Tribunal",
+        "B": "The Revenue Commissioner",
+        "C": "The High Court",
+        "D": "The Village Panchayat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Applications were made to the Land Tribunal in the prescribed manner under Section 48A.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR033",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What document evidences the grant of occupancy rights under the Act?",
+      "options": {
+        "A": "The certificate of registration issued under Section 55",
+        "B": "The title deed issued under Section 63",
+        "C": "The declaration under Section 66",
+        "D": "The order under Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "The certificate of registration issued under Section 55 is the statutory certificate evidencing registration as an occupant.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR034",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What restriction applied to transfer of land obtained as an occupant?",
+      "options": {
+        "A": "Section 61 imposed restrictions on transfer of land of which a tenant had become a registered occupant; the applicable statutory period and exceptions must be read from the version of the law governing the transaction",
+        "B": "There was no restriction on transfer",
+        "C": "Section 44 imposed the restriction",
+        "D": "Section 63 imposed the restriction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 61 imposed restrictions on transfer of land of which a tenant had become a registered occupant; the applicable statutory period and exceptions must be read from the version of the law governing the transaction.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR035",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a tenant and an occupant under the reform scheme?",
+      "options": {
+        "A": "A tenant cultivates land under a tenancy relationship; an occupant is a person registered under the Act with statutory occupancy/ownership rights after the vesting and adjudication process",
+        "B": "A tenant owns the land; an occupant rents it",
+        "C": "There is no difference",
+        "D": "An occupant is a landlord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tenant cultivates land under a tenancy relationship; an occupant is a person registered under the Act with statutory occupancy/ownership rights after the vesting and adjudication process.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR036",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the meaning of the land-to-the-tiller principle?",
+      "options": {
+        "A": "Ownership or secure proprietary rights should be transferred to the person who actually cultivates the land rather than remaining concentrated in an absentee landlord",
+        "B": "Land should be owned by the government",
+        "C": "Land should be owned by the highest bidder",
+        "D": "Land should be owned only by landlords"
+      },
+      "correctAnswer": "A",
+      "explanation": "The land-to-the-tiller principle is the agrarian reform principle that ownership or secure proprietary rights should be transferred to the person who actually cultivates the land rather than remaining concentrated in an absentee landlord.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR037",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which reform in Karnataka is most closely associated with the slogan 'land to the tiller'?",
+      "options": {
+        "A": "The 1961 Act",
+        "B": "The major 1974 amendment to the Karnataka Land Reforms Act",
+        "C": "The 2020 amendment",
+        "D": "The Karnataka Land Revenue Act, 1964"
+      },
+      "correctAnswer": "B",
+      "explanation": "The major 1974 amendment to the Karnataka Land Reforms Act is most closely associated with the land-to-the-tiller reform.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+        {
+      "id": "LR038",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How was the land-to-the-tiller principle implemented in Karnataka?",
+      "options": {
+        "A": "Tenant-held lands covered by Section 44 vested in the State Government, and eligible tenants who personally cultivated them could be registered as occupants under Section 45 after adjudication",
+        "B": "All land was directly transferred to landlords",
+        "C": "Tenants were given cash compensation instead of land",
+        "D": "The government purchased land and sold it at market rates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tenant-held lands covered by Section 44 vested in the State Government, and eligible tenants who personally cultivated them could be registered as occupants under Section 45 after adjudication.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR039",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why was the land-to-the-tiller principle introduced?",
+      "options": {
+        "A": "To increase absentee landlordism",
+        "B": "To reduce absentee landlordism, remove the separation between ownership and cultivation, improve tenure security and give cultivators a direct stake in agricultural production",
+        "C": "To reduce agricultural production",
+        "D": "To increase land revenue"
+      },
+      "correctAnswer": "B",
+      "explanation": "It sought to reduce absentee landlordism, remove the separation between ownership and cultivation, improve tenure security and give cultivators a direct stake in agricultural production.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR040",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did the land-to-the-tiller principle apply without limits to every tenant's entire holding?",
+      "options": {
+        "A": "Yes, it applied without any limits",
+        "B": "No. Registration was subject to the Act's eligibility rules, exclusions, ceiling limits and other statutory conditions",
+        "C": "Yes, but only for small holdings",
+        "D": "No, because the principle was never implemented"
+      },
+      "correctAnswer": "B",
+      "explanation": "Registration was subject to the Act's eligibility rules, exclusions, ceiling limits and other statutory conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR041",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the significance of occupancy rights for tenant farmers?",
+      "options": {
+        "A": "Occupancy rights gave eligible tenant cultivators a more secure and direct legal interest in the land, reducing their dependence on former landlords",
+        "B": "Occupancy rights allowed tenants to sell land immediately without restriction",
+        "C": "Occupancy rights made tenants employees of the government",
+        "D": "Occupancy rights had no legal significance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Occupancy rights gave eligible tenant cultivators a more secure and direct legal interest in the land, reducing their dependence on former landlords.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR042",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a land ceiling in agrarian legislation?",
+      "options": {
+        "A": "The minimum area of agricultural land that a person must hold",
+        "B": "The maximum area of agricultural land that a person or family may hold under the law; land above the permitted limit is treated as surplus and can be vested in the State",
+        "C": "The total area of government land",
+        "D": "The area of land exempt from taxation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A land ceiling is the maximum area of agricultural land that a person or family may hold under the law; land above the permitted limit is treated as surplus and can be vested in the State.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR043",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which section of the Karnataka Land Reforms Act deals with the ceiling on land holdings?",
+      "options": {
+        "A": "Section 44",
+        "B": "Section 45",
+        "C": "Section 63",
+        "D": "Section 77"
+      },
+      "correctAnswer": "C",
+      "explanation": "Section 63 deals with the ceiling on land holdings.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR044",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the principal objective of imposing an agricultural land ceiling?",
+      "options": {
+        "A": "To prevent excessive concentration of agricultural land, identify surplus holdings and make land available for redistribution to eligible landless and poorer sections",
+        "B": "To increase the size of large estates",
+        "C": "To reduce agricultural production",
+        "D": "To promote absentee landlordism"
+      },
+      "correctAnswer": "A",
+      "explanation": "The objective was to prevent excessive concentration of agricultural land, identify surplus holdings and make land available for redistribution to eligible landless and poorer sections.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR045",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the ceiling area stated in Section 63(2) of the amended Act for an individual or a family?",
+      "options": {
+        "A": "Five units",
+        "B": "Ten units",
+        "C": "Fifteen units",
+        "D": "Twenty units"
+      },
+      "correctAnswer": "B",
+      "explanation": "The statutory text states ten units as the basic ceiling area.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR046",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How could the ceiling increase for a family with more than five members under Section 63(2)?",
+      "options": {
+        "A": "One unit for every family member above five, subject to a maximum of fifteen units",
+        "B": "Two units for every family member above five, subject to an overall maximum of twenty units",
+        "C": "Five units for every family member above five, subject to a maximum of thirty units",
+        "D": "No increase was allowed"
+      },
+      "correctAnswer": "B",
+      "explanation": "The provision added two units for every family member above five, subject to an overall maximum of twenty units.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR047",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the maximum ceiling for a family under the proviso to Section 63(2)?",
+      "options": {
+        "A": "Ten units",
+        "B": "Fifteen units",
+        "C": "Twenty units",
+        "D": "Twenty-five units"
+      },
+      "correctAnswer": "C",
+      "explanation": "The maximum ceiling for a family under the proviso to Section 63(2) is twenty units.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR048",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the term 'unit' mean for calculating the land ceiling?",
+      "options": {
+        "A": "One acre of any type of land",
+        "B": "A standard measure based on one acre of A-class land or an equivalent extent of other classes of land calculated using the soil-classification formula in Schedule I",
+        "C": "One hectare of irrigated land",
+        "D": "The market value of one acre of land"
+      },
+      "correctAnswer": "B",
+      "explanation": "A unit is a standard measure based on one acre of A-class land or an equivalent extent of other classes of land calculated using the soil-classification formula in Schedule I; it is not simply one acre for every type of land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR049",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is it incorrect to convert ten units automatically into ten acres?",
+      "options": {
+        "A": "Because the Act uses a land-quality and classification-based unit system; different classes of land may require different physical acreages to equal one unit",
+        "B": "Because one unit equals two acres",
+        "C": "Because units are measured in hectares",
+        "D": "Because ten units equals twenty acres"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act uses a land-quality and classification-based unit system; different classes of land may require different physical acreages to equal one unit.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR050",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Were all categories of land necessarily counted identically for ceiling purposes?",
+      "options": {
+        "A": "Yes, all land was counted identically",
+        "B": "No. The Act contained rules on classification, aggregation and specified exemptions; the applicable statutory provisions and schedules determine how land is counted",
+        "C": "Only irrigated land was counted",
+        "D": "Only dry land was counted"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Act contained rules on classification, aggregation and specified exemptions; the applicable statutory provisions and schedules determine how land is counted.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR051",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 64 of the Karnataka Land Reforms Act regulate?",
+      "options": {
+        "A": "Registration of occupants",
+        "B": "Future acquisition of land where the acquisition would cause a person or family to exceed the ceiling area",
+        "C": "Disposal of surplus land",
+        "D": "Constitution of Land Tribunals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 64 deals with future acquisition of land where the acquisition would cause a person or family to exceed the ceiling area.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR052",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 65 require when a holding exceeds the ceiling?",
+      "options": {
+        "A": "It requires the landholder to pay a fine",
+        "B": "It provides for surplus land above the ceiling to be surrendered to the State Government, subject to the Act",
+        "C": "It requires the landholder to sell the land to the highest bidder",
+        "D": "It requires the landholder to distribute the land among family members"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 65 provides for surplus land above the ceiling to be surrendered to the State Government, subject to the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR053",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a declaration of holding under Section 66?",
+      "options": {
+        "A": "It is the prescribed statement of land held by a person or family, furnished to the competent authority so that the ceiling and any surplus area can be determined",
+        "B": "It is the certificate of registration as an occupant",
+        "C": "It is the order of the Land Tribunal",
+        "D": "It is the notification of the government"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is the prescribed statement of land held by a person or family, furnished to the competent authority so that the ceiling and any surplus area can be determined.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR054",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens to land surrendered as surplus under the Act?",
+      "options": {
+        "A": "It remains with the landholder",
+        "B": "After the statutory process, the land vests in the State Government and may be disposed of under the Act's provisions, including Section 77",
+        "C": "It is sold to the highest bidder",
+        "D": "It is returned to the original owner"
+      },
+      "correctAnswer": "B",
+      "explanation": "After the statutory process, the land vests in the State Government and may be disposed of under the Act's provisions, including Section 77.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR055",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Could a landholder freely sell surplus land before the statutory surplus determination?",
+      "options": {
+        "A": "Yes, there was no restriction",
+        "B": "No. Section 74 restricted alienation of a holding exceeding the ceiling until the required declaration and determination process was completed; a transfer made contrary to the provision could be void",
+        "C": "Yes, but only with the permission of the Land Tribunal",
+        "D": "No, because all land sales were banned"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 74 restricted alienation of a holding exceeding the ceiling until the required declaration and determination process was completed; a transfer made contrary to the provision could be void.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR056",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the intended social purpose of the land ceiling?",
+      "options": {
+        "A": "To reduce concentration of landownership, promote a more equitable distribution of productive assets and strengthen the position of small cultivators and landless agricultural workers",
+        "B": "To increase the wealth of large landowners",
+        "C": "To reduce agricultural production",
+        "D": "To promote urbanization"
+      },
+      "correctAnswer": "A",
+      "explanation": "It was intended to reduce concentration of landownership, promote a more equitable distribution of productive assets and strengthen the position of small cultivators and landless agricultural workers.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR057",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is surplus agricultural land?",
+      "options": {
+        "A": "Land held beyond the ceiling permitted by the Karnataka Land Reforms Act",
+        "B": "Land that is not cultivated",
+        "C": "Land owned by the government",
+        "D": "Land that is fallow"
+      },
+      "correctAnswer": "A",
+      "explanation": "Surplus agricultural land is the extent of land held beyond the ceiling permitted by the Karnataka Land Reforms Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR058",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who receives priority in the disposal of surplus land under the reform policy?",
+      "options": {
+        "A": "Large landowners",
+        "B": "Eligible landless persons and other specified disadvantaged or economically weaker categories, subject to the Act and rules",
+        "C": "Industrial corporations",
+        "D": "Urban developers"
+      },
+      "correctAnswer": "B",
+      "explanation": "The statutory scheme prioritises eligible landless persons and other specified disadvantaged or economically weaker categories, subject to the Act and rules.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR059",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which section provides for disposal of surplus land?",
+      "options": {
+        "A": "Section 44",
+        "B": "Section 63",
+        "C": "Section 77",
+        "D": "Section 55"
+      },
+      "correctAnswer": "C",
+      "explanation": "Section 77 deals with disposal of surplus land vested in the State Government.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR060",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the expected benefit of distributing surplus land to landless agricultural workers?",
+      "options": {
+        "A": "It can provide an independent productive asset, strengthen livelihood security, reduce dependence on wage labour and widen access to agricultural ownership",
+        "B": "It increases their dependence on landlords",
+        "C": "It reduces their income",
+        "D": "It forces them to migrate to cities"
+      },
+      "correctAnswer": "A",
+      "explanation": "It can provide an independent productive asset, strengthen livelihood security, reduce dependence on wage labour and widen access to agricultural ownership.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR061",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the major positive impact of Karnataka's 1974 land reforms on tenants?",
+      "options": {
+        "A": "Eligible tenant cultivators gained the opportunity to obtain registered occupancy rights and a more secure legal position as cultivators",
+        "B": "All tenants became large landowners",
+        "C": "Tenants were evicted from their land",
+        "D": "Tenants lost their cultivation rights"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eligible tenant cultivators gained the opportunity to obtain registered occupancy rights and a more secure legal position as cultivators.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR062",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did land reforms seek to change rural social relations?",
+      "options": {
+        "A": "They sought to weaken the traditional landlord-tenant hierarchy, reduce arbitrary control over tenants and broaden access to land-based economic power",
+        "B": "They sought to strengthen the landlord-tenant hierarchy",
+        "C": "They sought to increase arbitrary control over tenants",
+        "D": "They sought to concentrate land ownership"
+      },
+      "correctAnswer": "A",
+      "explanation": "They sought to weaken the traditional landlord-tenant hierarchy, reduce arbitrary control over tenants and broaden access to land-based economic power.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR063",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How could ownership rights affect agricultural productivity?",
+      "options": {
+        "A": "Greater tenure security can strengthen incentives to invest in soil improvement, irrigation and long-term cultivation, although productivity outcomes also depend on credit, inputs, technology and markets",
+        "B": "Ownership rights always reduce productivity",
+        "C": "Ownership rights have no effect on productivity",
+        "D": "Ownership rights only affect landlords"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greater tenure security can strengthen incentives to invest in soil improvement, irrigation and long-term cultivation, although productivity outcomes also depend on credit, inputs, technology and markets.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR064",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How did land reforms contribute to social justice?",
+      "options": {
+        "A": "They aimed to reduce unequal land concentration and improve access to productive resources for tenants and eligible landless households",
+        "B": "They aimed to increase land concentration",
+        "C": "They aimed to reduce access to productive resources",
+        "D": "They aimed to benefit only large landowners"
+      },
+      "correctAnswer": "A",
+      "explanation": "They aimed to reduce unequal land concentration and improve access to productive resources for tenants and eligible landless households.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR065",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did Karnataka's land reforms eliminate rural land inequality completely?",
+      "options": {
+        "A": "Yes, land inequality was completely eliminated",
+        "B": "No. Implementation was uneven and land inequality, fragmented holdings, landlessness and disputes over title continued in many areas",
+        "C": "Yes, but only in some districts",
+        "D": "No, because the Act was struck down"
+      },
+      "correctAnswer": "B",
+      "explanation": "Implementation was uneven and land inequality, fragmented holdings, landlessness and disputes over title continued in many areas.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR066",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What were common implementation problems in land reforms?",
+      "options": {
+        "A": "Incomplete or inaccurate land records, disputes over actual cultivation, benami or concealed holdings, delays in adjudication, limited administrative capacity and difficulties in identifying eligible beneficiaries",
+        "B": "Excessive speed of implementation",
+        "C": "Too many Land Tribunals",
+        "D": "Overpayment of compensation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problems included incomplete or inaccurate land records, disputes over actual cultivation, benami or concealed holdings, delays in adjudication, limited administrative capacity and difficulties in identifying eligible beneficiaries.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR067",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why did some tenants fail to obtain occupancy rights despite the reform?",
+      "options": {
+        "A": "Some could not establish qualifying tenancy or personal cultivation, missed procedural requirements, faced documentary gaps or disputes, or cultivated land falling within statutory exclusions",
+        "B": "They did not want ownership",
+        "C": "The government refused to accept applications",
+        "D": "They were not citizens of India"
+      },
+      "correctAnswer": "A",
+      "explanation": "Some could not establish qualifying tenancy or personal cultivation, missed procedural requirements, faced documentary gaps or disputes, or cultivated land falling within statutory exclusions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR068",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between the legal objective and the actual outcome of land reforms?",
+      "options": {
+        "A": "The legal objective was to secure tenants and redistribute surplus land; actual outcomes depended on enforcement, awareness, evidence, administrative capacity and the availability of eligible surplus land",
+        "B": "The legal objective and actual outcome were identical",
+        "C": "The legal objective was to benefit landlords",
+        "D": "The actual outcome was the abolition of tenancy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The legal objective was to secure tenants and redistribute surplus land; actual outcomes depended on enforcement, awareness, evidence, administrative capacity and the availability of eligible surplus land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR069",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a balanced assessment of the impact of Karnataka's land reforms?",
+      "options": {
+        "A": "The reforms materially changed tenancy and ownership relations for many eligible cultivators, but their redistributive reach and long-term effects were limited by uneven implementation, land-record problems and continuing rural inequalities",
+        "B": "The reforms completely transformed all rural areas",
+        "C": "The reforms had no impact whatsoever",
+        "D": "The reforms only benefited landlords"
+      },
+      "correctAnswer": "A",
+      "explanation": "The reforms materially changed tenancy and ownership relations for many eligible cultivators, but their redistributive reach and long-term effects were limited by uneven implementation, land-record problems and continuing rural inequalities.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR070",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Did the Karnataka Land Reforms Act remain unchanged after 1974?",
+      "options": {
+        "A": "Yes, it remained unchanged",
+        "B": "No. It was amended repeatedly, including significant amendments in later decades; answers about present law must be distinguished from the historical 1974 reform framework",
+        "C": "Yes, except for one minor amendment",
+        "D": "No, it was completely repealed in 1975"
+      },
+      "correctAnswer": "B",
+      "explanation": "It was amended repeatedly, including significant amendments in later decades; answers about present law must be distinguished from the historical 1974 reform framework.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR071",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happened to Sections 79A, 79B and 79C under the 2020 amendment?",
+      "options": {
+        "A": "They were strengthened",
+        "B": "The Karnataka Land Reforms (Amendment) Act, 2020 repealed Sections 79A, 79B and 79C, which had imposed restrictions relating to acquisition and holding of agricultural land by specified persons and declarations",
+        "C": "They were amended to increase restrictions",
+        "D": "They were transferred to another Act"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Land Reforms (Amendment) Act, 2020 repealed Sections 79A, 79B and 79C, which had imposed restrictions relating to acquisition and holding of agricultural land by specified persons and declarations.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR072",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Should the 2020 repeal of Sections 79A-79C be confused with the land ceiling in Section 63?",
+      "options": {
+        "A": "Yes, they are the same provision",
+        "B": "No. Sections 79A-79C and Section 63 dealt with different legal matters; repeal of Sections 79A-79C did not mean that the land-ceiling provision itself was repealed",
+        "C": "Yes, because Section 63 was also repealed",
+        "D": "No, because Section 63 was never enacted"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sections 79A-79C and Section 63 dealt with different legal matters; repeal of Sections 79A-79C did not mean that the land-ceiling provision itself was repealed.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR073",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the safest way to answer a question about the 1974 ceiling rule?",
+      "options": {
+        "A": "State the historical Section 63 framework expressly: ten units as the basic ceiling, with two additional units for each family member above five, subject to a maximum of twenty units; mention that statutory amendments and exceptions must be checked for a current-law question",
+        "B": "State that the ceiling was twenty acres",
+        "C": "State that there was no ceiling",
+        "D": "State that the ceiling was five units"
+      },
+      "correctAnswer": "A",
+      "explanation": "State the historical Section 63 framework expressly: ten units as the basic ceiling, with two additional units for each family member above five, subject to a maximum of twenty units; mention that statutory amendments and exceptions must be checked for a current-law question.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR074",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why should candidates distinguish the Act's title year from its Act number and commencement date?",
+      "options": {
+        "A": "Because the title is the Karnataka Land Reforms Act, 1961, it is Act 10 of 1962, and it came into force on 2 October 1965; these are three different exam facts",
+        "B": "Because they are all the same",
+        "C": "Because the Act number is 1961",
+        "D": "Because the commencement date is 1962"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the title is the Karnataka Land Reforms Act, 1961, it is Act 10 of 1962, and it came into force on 2 October 1965; these are three different exam facts.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+        {
+      "id": "LR075",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The principal Karnataka land-reform statute is:",
+      "options": {
+        "A": "The Karnataka Land Reforms Act, 1961",
+        "B": "The Karnataka Land Revenue Act, 1964",
+        "C": "The Karnataka Agricultural Income Tax Act, 1957",
+        "D": "The Karnataka Village Offices Abolition Act, 1961"
+      },
+      "correctAnswer": "A",
+      "explanation": "The principal Karnataka land-reform statute is The Karnataka Land Reforms Act, 1961.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR076",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Karnataka Land Reforms Act is numbered:",
+      "options": {
+        "A": "Karnataka Act No. 10 of 1962",
+        "B": "Karnataka Act No. 1 of 1974",
+        "C": "Karnataka Act No. 10 of 1961",
+        "D": "Karnataka Act No. 5 of 1962"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms Act is numbered Karnataka Act No. 10 of 1962.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR077",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Act's enactment date recorded by India Code is:",
+      "options": {
+        "A": "5 March 1962",
+        "B": "2 October 1965",
+        "C": "1 March 1974",
+        "D": "26 January 1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act's enactment date recorded by India Code is 5 March 1962.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR078",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Karnataka Land Reforms Act came into force on:",
+      "options": {
+        "A": "2 October 1965",
+        "B": "5 March 1962",
+        "C": "1 March 1974",
+        "D": "15 August 1947"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act came into force on 2 October 1965.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR079",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The committee commonly associated with the Act's recommendations is:",
+      "options": {
+        "A": "The Mysore Tenancy and Agricultural Land Laws Committee, known as the Jatti Committee",
+        "B": "The Sarkaria Commission",
+        "C": "The Nanavati Commission",
+        "D": "The Krishna Committee"
+      },
+      "correctAnswer": "A",
+      "explanation": "The committee commonly associated with the Act's recommendations is the Mysore Tenancy and Agricultural Land Laws Committee, known as the Jatti Committee.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR080",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The major amendment associated with land-to-the-tiller in Karnataka took effect on:",
+      "options": {
+        "A": "1 March 1974",
+        "B": "2 October 1965",
+        "C": "5 March 1962",
+        "D": "26 January 1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major amendment associated with land-to-the-tiller in Karnataka took effect on 1 March 1974.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR081",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with vesting of tenant-held lands in the State Government is:",
+      "options": {
+        "A": "Section 44",
+        "B": "Section 45",
+        "C": "Section 48",
+        "D": "Section 63"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with vesting of tenant-held lands in the State Government is Section 44.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR082",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with registration of tenants as occupants is:",
+      "options": {
+        "A": "Section 45",
+        "B": "Section 44",
+        "C": "Section 55",
+        "D": "Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with registration of tenants as occupants is Section 45.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR083",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with Land Tribunals is:",
+      "options": {
+        "A": "Section 48",
+        "B": "Section 44",
+        "C": "Section 63",
+        "D": "Section 65"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with Land Tribunals is Section 48.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR084",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with applications and inquiry by the Tribunal is:",
+      "options": {
+        "A": "Section 48A",
+        "B": "Section 48",
+        "C": "Section 45",
+        "D": "Section 55"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with applications and inquiry by the Tribunal is Section 48A.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR085",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with the certificate of registration as occupant is:",
+      "options": {
+        "A": "Section 55",
+        "B": "Section 45",
+        "C": "Section 48A",
+        "D": "Section 61"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with the certificate of registration as occupant is Section 55.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR086",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with ceiling on land holdings is:",
+      "options": {
+        "A": "Section 63",
+        "B": "Section 64",
+        "C": "Section 65",
+        "D": "Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with ceiling on land holdings is Section 63.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR087",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with future acquisition that exceeds the ceiling is:",
+      "options": {
+        "A": "Section 64",
+        "B": "Section 63",
+        "C": "Section 65",
+        "D": "Section 66"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with future acquisition that exceeds the ceiling is Section 64.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR088",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with surrender of surplus land is:",
+      "options": {
+        "A": "Section 65",
+        "B": "Section 64",
+        "C": "Section 66",
+        "D": "Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with surrender of surplus land is Section 65.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR089",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The provision dealing with disposal of surplus land is:",
+      "options": {
+        "A": "Section 77",
+        "B": "Section 65",
+        "C": "Section 63",
+        "D": "Section 48"
+      },
+      "correctAnswer": "A",
+      "explanation": "The provision dealing with disposal of surplus land is Section 77.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR090",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The basic ceiling stated in Section 63(2) is:",
+      "options": {
+        "A": "Ten units",
+        "B": "Five units",
+        "C": "Fifteen units",
+        "D": "Twenty units"
+      },
+      "correctAnswer": "A",
+      "explanation": "The basic ceiling stated in Section 63(2) is ten units.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR091",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The maximum ceiling for a family under the proviso to Section 63(2) is:",
+      "options": {
+        "A": "Twenty units",
+        "B": "Ten units",
+        "C": "Fifteen units",
+        "D": "Twenty-five units"
+      },
+      "correctAnswer": "A",
+      "explanation": "The maximum ceiling for a family under the proviso to Section 63(2) is twenty units.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR092",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The basic additional ceiling for each family member above five is:",
+      "options": {
+        "A": "Two units per additional member, subject to the twenty-unit maximum",
+        "B": "One unit per additional member, subject to the fifteen-unit maximum",
+        "C": "Three units per additional member, subject to the twenty-five-unit maximum",
+        "D": "Five units per additional member, subject to the thirty-unit maximum"
+      },
+      "correctAnswer": "A",
+      "explanation": "The basic additional ceiling for each family member above five is two units per additional member, subject to the twenty-unit maximum.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR093",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The principle that ownership should go to the actual cultivator is called:",
+      "options": {
+        "A": "The land-to-the-tiller principle",
+        "B": "The ceiling principle",
+        "C": "The surplus land principle",
+        "D": "The tenancy protection principle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The principle that ownership should go to the actual cultivator is called the land-to-the-tiller principle.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR094",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Quick Revision High-Yield Facts",
+      "chapter": "Quick Revision High-Yield Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The 2020 amendment repealed Sections:",
+      "options": {
+        "A": "79A, 79B and 79C",
+        "B": "44, 45 and 48",
+        "C": "63, 64 and 65",
+        "D": "55, 61 and 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 2020 amendment repealed Sections 79A, 79B and 79C.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR095",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which three different exam facts must candidates distinguish regarding the Karnataka Land Reforms Act?",
+      "options": {
+        "A": "The title year (1961), the Act number (10 of 1962) and the commencement date (2 October 1965)",
+        "B": "The title year (1962), the Act number (10 of 1961) and the commencement date (1 March 1974)",
+        "C": "The title year (1965), the Act number (1 of 1974) and the commencement date (5 March 1962)",
+        "D": "The title year (1974), the Act number (10 of 1962) and the commencement date (2 October 1965)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The title is the Karnataka Land Reforms Act, 1961; it is Act 10 of 1962; and it came into force on 2 October 1965. These are three different exam facts.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR096",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The major 1974 amendment was enacted as which Karnataka Act?",
+      "options": {
+        "A": "Karnataka Act 1 of 1974",
+        "B": "Karnataka Act 10 of 1962",
+        "C": "Karnataka Act 10 of 1974",
+        "D": "Karnataka Act 1 of 1962"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms (Amendment) Act, 1973, was enacted as Karnataka Act 1 of 1974.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR097",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Karnataka Land Reforms (Amendment) Act, 1973 is also known as:",
+      "options": {
+        "A": "Karnataka Act 1 of 1974",
+        "B": "Karnataka Act 10 of 1962",
+        "C": "Karnataka Act 10 of 1973",
+        "D": "Karnataka Act 1 of 1973"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms (Amendment) Act, 1973, was enacted as Karnataka Act 1 of 1974.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR098",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement best describes the relationship between Sections 44 and 45?",
+      "options": {
+        "A": "Section 44 vests tenant-held land in the State Government; Section 45 enables eligible tenants to be registered as occupants",
+        "B": "Section 44 enables registration of occupants; Section 45 vests land in the State Government",
+        "C": "Both Sections deal with land ceiling",
+        "D": "Both Sections deal with disposal of surplus land"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 44 deals with vesting of tenant-held lands in the State Government, while Section 45 provides for registration of eligible tenants as occupants.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR099",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Section 44, the rights, title and interest of the landlord in vested land:",
+      "options": {
+        "A": "Cessed and vested in the State Government, subject to the statutory scheme for payment of an amount",
+        "B": "Remained with the landlord",
+        "C": "Were transferred directly to the tenant without any State intervention",
+        "D": "Were extinguished without any compensation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The landlord's rights, title and interest in the vested land ceased and vested in the State Government, subject to the statutory scheme for payment of an amount.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR100",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following was NOT a condition for claiming registration as an occupant under the 1974 scheme?",
+      "options": {
+        "A": "The claimant must have personally cultivated the land before vesting",
+        "B": "The claimant must have qualified as a permanent, protected or other tenant, or a qualifying lawful sub-tenant",
+        "C": "The claimant must have owned at least ten units of other land",
+        "D": "The claim was subject to statutory conditions and ceiling limits"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ownership of at least ten units of other land was not a condition; in fact, ceiling limits applied. The other three options reflect the statutory requirements.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR101",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A protected tenant under the Karnataka Land Reforms Act generally refers to a tenant who:",
+      "options": {
+        "A": "Held and personally cultivated the land continuously for at least twelve years before the appointed day",
+        "B": "Held land for at least five years",
+        "C": "Paid rent in cash only",
+        "D": "Was registered as an occupant under Section 55"
+      },
+      "correctAnswer": "A",
+      "explanation": "A protected tenant generally refers to a tenant who held and personally cultivated the land continuously for at least twelve years before the appointed day, with specified inclusions for certain former regional tenancy-law categories.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR102",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A deemed tenant is a person who:",
+      "options": {
+        "A": "Is treated as a tenant by operation of law even without a conventional written lease, provided statutory conditions are satisfied",
+        "B": "Has a registered lease deed",
+        "C": "Owns the land he cultivates",
+        "D": "Pays rent to the government"
+      },
+      "correctAnswer": "A",
+      "explanation": "A deemed tenant is a person whom the Act treats as a tenant by operation of law even if a conventional written lease is absent, provided the statutory conditions are satisfied.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR103",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Personal cultivation under the Act includes cultivation through:",
+      "options": {
+        "A": "One's own labour, family labour, or hired labour under personal supervision",
+        "B": "Hired labour only, without supervision",
+        "C": "A manager appointed by the landlord",
+        "D": "Sharecropping arrangements only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Personal cultivation includes cultivation on one's own account through one's own labour, family labour, or hired labour under personal supervision, as defined by the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR104",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section imposed restrictions on transfer of land of which a tenant had become a registered occupant?",
+      "options": {
+        "A": "Section 61",
+        "B": "Section 55",
+        "C": "Section 45",
+        "D": "Section 63"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 61 imposed restrictions on transfer of land of which a tenant had become a registered occupant.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR105",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement correctly distinguishes a tenant from an occupant?",
+      "options": {
+        "A": "A tenant cultivates under a tenancy relationship; an occupant is registered under the Act with statutory occupancy/ownership rights after vesting and adjudication",
+        "B": "A tenant owns the land; an occupant rents it",
+        "C": "Both terms mean the same thing",
+        "D": "An occupant is a landlord who leases land"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tenant cultivates land under a tenancy relationship; an occupant is a person registered under the Act with statutory occupancy/ownership rights after the vesting and adjudication process.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR106",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does one unit represent under the Karnataka Land Reforms Act's ceiling provisions?",
+      "options": {
+        "A": "One acre of A-class land or an equivalent extent of other classes of land calculated using the soil-classification formula in Schedule I",
+        "B": "One acre of any land regardless of class",
+        "C": "One hectare of irrigated land",
+        "D": "The market value of one acre of land"
+      },
+      "correctAnswer": "A",
+      "explanation": "A unit is a standard measure based on one acre of A-class land or an equivalent extent of other classes of land calculated using the soil-classification formula in Schedule I.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR107",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If a family has seven members, what is the maximum ceiling area it could claim under the proviso to Section 63(2)?",
+      "options": {
+        "A": "Fourteen units",
+        "B": "Twenty units",
+        "C": "Ten units",
+        "D": "Twelve units"
+      },
+      "correctAnswer": "A",
+      "explanation": "Basic ceiling is ten units; two additional units for each member above five (seven members = two additional members × two units = four units); total = fourteen units, which is within the twenty-unit maximum.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR108",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If a family has twelve members, what is its maximum ceiling area under the proviso to Section 63(2)?",
+      "options": {
+        "A": "Twenty units (because the overall maximum is twenty units)",
+        "B": "Twenty-four units",
+        "C": "Thirty units",
+        "D": "Ten units"
+      },
+      "correctAnswer": "A",
+      "explanation": "Although two units per member above five would suggest twenty-four units for twelve members, the overall maximum is twenty units; therefore the ceiling is capped at twenty units.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR109",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section restricted alienation of a holding exceeding the ceiling until the required declaration and determination process was completed?",
+      "options": {
+        "A": "Section 74",
+        "B": "Section 66",
+        "C": "Section 65",
+        "D": "Section 64"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 74 restricted alienation of a holding exceeding the ceiling until the required declaration and determination process was completed; a transfer made contrary to the provision could be void.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR110",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A transfer of surplus land made contrary to Section 74 could be:",
+      "options": {
+        "A": "Void",
+        "B": "Valid but subject to a fine",
+        "C": "Valid if approved by the landlord",
+        "D": "Automatically regularized"
+      },
+      "correctAnswer": "A",
+      "explanation": "A transfer made contrary to Section 74 could be void.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR111",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "After the statutory process, surplus land surrendered under Section 65:",
+      "options": {
+        "A": "Vests in the State Government and may be disposed of under Section 77",
+        "B": "Is returned to the original landholder",
+        "C": "Is sold at market price to the highest bidder",
+        "D": "Is transferred to the Land Tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "After the statutory process, the land vests in the State Government and may be disposed of under the Act's provisions, including Section 77.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR112",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following was a limitation of Karnataka's land reforms?",
+      "options": {
+        "A": "Uneven implementation, incomplete land records and continuing rural inequalities",
+        "B": "Excessive compensation paid to tenants",
+        "C": "Too rapid redistribution of all land",
+        "D": "Complete elimination of landlessness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Implementation was uneven and land inequality, fragmented holdings, landlessness and disputes over title continued in many areas.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR113",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Benami or concealed holdings were a problem in land reform implementation because:",
+      "options": {
+        "A": "They made it difficult to identify the true extent of holdings and eligible beneficiaries",
+        "B": "They increased agricultural production",
+        "C": "They helped tenants obtain occupancy rights",
+        "D": "They simplified land records"
+      },
+      "correctAnswer": "A",
+      "explanation": "Benami or concealed holdings were among the common implementation problems, along with incomplete or inaccurate land records, disputes over actual cultivation, delays in adjudication, limited administrative capacity and difficulties in identifying eligible beneficiaries.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR114",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Karnataka Land Reforms (Amendment) Act, 2020 repealed Sections 79A, 79B and 79C. What did these sections deal with?",
+      "options": {
+        "A": "Restrictions relating to acquisition and holding of agricultural land by specified persons and declarations",
+        "B": "The land ceiling under Section 63",
+        "C": "Registration of occupants under Section 45",
+        "D": "Disposal of surplus land under Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sections 79A, 79B and 79C had imposed restrictions relating to acquisition and holding of agricultural land by specified persons and declarations.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+        {
+      "id": "LR116",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about the 2020 amendment is correct?",
+      "options": {
+        "A": "It repealed Sections 79A, 79B and 79C but did not repeal Section 63",
+        "B": "It repealed Section 63 but retained Sections 79A-79C",
+        "C": "It repealed the entire Karnataka Land Reforms Act",
+        "D": "It repealed Sections 44, 45 and 48"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Land Reforms (Amendment) Act, 2020 repealed Sections 79A, 79B and 79C; it did not repeal the land ceiling in Section 63.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR117",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For a current-law question about land ceilings, what caution does the study aid give?",
+      "options": {
+        "A": "Statutory amendments and exceptions must be checked for a current-law question; the ten-unit basic ceiling and twenty-unit family maximum are quoted from the Section 63 text in the cited consolidated Act",
+        "B": "The 1974 figures are permanently fixed and never change",
+        "C": "Only the 2020 amendment matters",
+        "D": "Section 63 was repealed in 2020"
+      },
+      "correctAnswer": "A",
+      "explanation": "Special categories, exemptions, subsequent amendments and the precise law applicable to a particular date must be checked separately. The ten-unit basic ceiling and twenty-unit family maximum are quoted from the Section 63 text in the cited consolidated Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR118",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly pairs a provision with its subject matter?",
+      "options": {
+        "A": "Section 48A — applications and inquiry by the Tribunal",
+        "B": "Section 55 — vesting of tenant-held lands",
+        "C": "Section 63 — disposal of surplus land",
+        "D": "Section 77 — certificate of registration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 48A deals with applications and inquiry by the Tribunal. Section 55 deals with the certificate of registration; Section 63 with ceiling; Section 77 with disposal of surplus land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR119",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly pairs a provision with its subject matter?",
+      "options": {
+        "A": "Section 65 — surrender of surplus land",
+        "B": "Section 64 — disposal of surplus land",
+        "C": "Section 66 — ceiling on land holdings",
+        "D": "Section 74 — certificate of registration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 65 provides for surrender of surplus land. Section 64 deals with future acquisition exceeding the ceiling; Section 66 with declaration of holding; Section 74 with restriction on alienation.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR120",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly pairs a provision with its subject matter?",
+      "options": {
+        "A": "Section 44 — vesting of tenant-held lands in the State Government",
+        "B": "Section 45 — constitution of Land Tribunals",
+        "C": "Section 48 — registration of occupants",
+        "D": "Section 55 — ceiling on land holdings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 44 deals with vesting of tenant-held lands in the State Government. Section 45 deals with registration of occupants; Section 48 with Land Tribunals; Section 55 with the certificate of registration.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR121",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section provides for the constitution of Land Tribunals?",
+      "options": {
+        "A": "Section 48",
+        "B": "Section 48A",
+        "C": "Section 45",
+        "D": "Section 55"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 48 provides for the constitution of Land Tribunals to deal with applications and questions relating to registration of occupants under the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR122",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section provides for the certificate of registration as an occupant?",
+      "options": {
+        "A": "Section 55",
+        "B": "Section 48A",
+        "C": "Section 45",
+        "D": "Section 61"
+      },
+      "correctAnswer": "A",
+      "explanation": "The certificate of registration issued under Section 55 is the statutory certificate evidencing registration as an occupant.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR123",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section deals with future acquisition of land that would cause a person or family to exceed the ceiling area?",
+      "options": {
+        "A": "Section 64",
+        "B": "Section 63",
+        "C": "Section 65",
+        "D": "Section 66"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 64 deals with future acquisition of land where the acquisition would cause a person or family to exceed the ceiling area.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR124",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section provides for surplus land above the ceiling to be surrendered to the State Government?",
+      "options": {
+        "A": "Section 65",
+        "B": "Section 64",
+        "C": "Section 66",
+        "D": "Section 74"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 65 provides for surplus land above the ceiling to be surrendered to the State Government, subject to the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR125",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section deals with the declaration of holding?",
+      "options": {
+        "A": "Section 66",
+        "B": "Section 65",
+        "C": "Section 64",
+        "D": "Section 74"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 66 provides for a declaration of holding — the prescribed statement of land held by a person or family furnished to the competent authority so that the ceiling and any surplus area can be determined.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR126",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section restricts alienation of a holding exceeding the ceiling until the required declaration and determination process is completed?",
+      "options": {
+        "A": "Section 74",
+        "B": "Section 66",
+        "C": "Section 65",
+        "D": "Section 77"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 74 restricted alienation of a holding exceeding the ceiling until the required declaration and determination process was completed; a transfer made contrary to the provision could be void.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR127",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Redistribution of Surplus Land",
+      "chapter": "Redistribution of Surplus Land",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section deals with disposal of surplus land vested in the State Government?",
+      "options": {
+        "A": "Section 77",
+        "B": "Section 65",
+        "C": "Section 66",
+        "D": "Section 74"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 77 deals with disposal of surplus land vested in the State Government.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR128",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which section imposed restrictions on transfer of land of which a tenant had become a registered occupant?",
+      "options": {
+        "A": "Section 61",
+        "B": "Section 55",
+        "C": "Section 45",
+        "D": "Section 48A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 61 imposed restrictions on transfer of land of which a tenant had become a registered occupant; the applicable statutory period and exceptions must be read from the version of the law governing the transaction.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR129",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the correct sequence of events in Karnataka land-reform history?",
+      "options": {
+        "A": "Jatti Committee constituted (1957) → Jatti Committee recommendations (1961) → Act enacted (1962) → Act came into force (1965) → Major amendment effective (1974)",
+        "B": "Act came into force (1957) → Jatti Committee constituted (1961) → Act enacted (1962) → Major amendment effective (1965)",
+        "C": "Major amendment effective (1957) → Act enacted (1961) → Act came into force (1962) → Jatti Committee recommendations (1974)",
+        "D": "Act enacted (1957) → Act came into force (1961) → Jatti Committee constituted (1962) → Major amendment effective (1974)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Jatti Committee was constituted in May 1957, submitted recommendations in 1961; the Act was enacted on 5 March 1962 and came into force on 2 October 1965; the major amendment took effect on 1 March 1974.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR130",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement about the Jatti Committee is correct?",
+      "options": {
+        "A": "It was constituted in May 1957 and submitted its recommendations in 1961",
+        "B": "It was constituted in 1961 and submitted its recommendations in 1962",
+        "C": "It was constituted in 1965 and submitted its recommendations in 1974",
+        "D": "It was constituted in 1962 and submitted its recommendations in 1965"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mysore Tenancy and Agricultural Land Laws Committee (Jatti Committee) was constituted in May 1957 and submitted its recommendations in 1961.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR131",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the Karnataka Land Reforms Act, 1961 is INCORRECT?",
+      "options": {
+        "A": "It is Karnataka Act No. 10 of 1962",
+        "B": "It came into force on 2 October 1965",
+        "C": "It was enacted on 1 March 1974",
+        "D": "It extends to the whole State of Karnataka"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Act was enacted on 5 March 1962 (as recorded by India Code), not 1 March 1974. 1 March 1974 is the effective date of the major 1974 amendment.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR132",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the 1974 amendment is INCORRECT?",
+      "options": {
+        "A": "It was enacted as Karnataka Act 1 of 1974",
+        "B": "It took effect on 1 March 1974",
+        "C": "It was enacted as Karnataka Act 10 of 1962",
+        "D": "It brought major tenancy and ownership changes into operation"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 1974 amendment was enacted as Karnataka Act 1 of 1974, not Karnataka Act 10 of 1962 (which is the principal Act's number).",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR133",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the 1974 reform is INCORRECT?",
+      "options": {
+        "A": "Tenant-held lands covered by Section 44 vested in the State Government",
+        "B": "Eligible tenants could be registered as occupants under Section 45",
+        "C": "Every agricultural worker automatically became an owner",
+        "D": "Registration was subject to eligibility rules, personal cultivation and ceiling limits"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 1974 reform did not automatically make every agricultural worker an owner. Ownership registration depended on qualifying tenancy status, personal cultivation, the land being covered by the Act, filing and adjudication requirements, and ceiling-related conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR134",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the land ceiling is INCORRECT?",
+      "options": {
+        "A": "The basic ceiling in Section 63(2) is ten units",
+        "B": "Two additional units are allowed for each family member above five",
+        "C": "The overall maximum ceiling for a family is twenty units",
+        "D": "Ten units always equals exactly ten acres of any type of land"
+      },
+      "correctAnswer": "D",
+      "explanation": "It is incorrect to convert ten units automatically into ten acres because the Act uses a land-quality and classification-based unit system; different classes of land may require different physical acreages to equal one unit.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR135",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Agricultural Land Ceiling",
+      "chapter": "Agricultural Land Ceiling",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the land ceiling is INCORRECT?",
+      "options": {
+        "A": "All categories of land were necessarily counted identically for ceiling purposes",
+        "B": "The Act contained rules on classification, aggregation and specified exemptions",
+        "C": "The unit is based on one acre of A-class land or its equivalent in other classes",
+        "D": "The ceiling aimed to prevent excessive concentration of agricultural land"
+      },
+      "correctAnswer": "A",
+      "explanation": "Not all categories of land were counted identically. The Act contained rules on classification, aggregation and specified exemptions; the applicable statutory provisions and schedules determine how land is counted.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR136",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about a protected tenant is INCORRECT?",
+      "options": {
+        "A": "A protected tenant generally held and personally cultivated land continuously for at least twelve years before the appointed day",
+        "B": "Specified inclusions apply for certain former regional tenancy-law categories",
+        "C": "A protected tenant is automatically a registered occupant under Section 55 without any adjudication",
+        "D": "Protected tenants were among those who could claim registration as occupants under Section 45"
+      },
+      "correctAnswer": "C",
+      "explanation": "A protected tenant was eligible to claim registration as an occupant subject to statutory conditions and adjudication; registration was not automatic without the Section 48A process and Section 55 certificate.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR137",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the land-to-the-tiller principle is INCORRECT?",
+      "options": {
+        "A": "It is the principle that ownership or secure proprietary rights should be transferred to the person who actually cultivates the land",
+        "B": "It is most closely associated with the 1974 amendment",
+        "C": "It applied without any limits to every tenant's entire holding",
+        "D": "It sought to reduce absentee landlordism"
+      },
+      "correctAnswer": "C",
+      "explanation": "The principle did not apply without limits; registration was subject to the Act's eligibility rules, exclusions, ceiling limits and other statutory conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR138",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the impact of Karnataka's land reforms is INCORRECT?",
+      "options": {
+        "A": "Eligible tenant cultivators gained the opportunity to obtain registered occupancy rights",
+        "B": "Land reforms eliminated rural land inequality completely",
+        "C": "Implementation was uneven and land inequality continued in many areas",
+        "D": "Ownership rights can strengthen incentives to invest in land improvement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka's land reforms did not eliminate rural land inequality completely. Implementation was uneven and land inequality, fragmented holdings, landlessness and disputes over title continued in many areas.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR139",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Later Legal Changes and Exam Cautions",
+      "chapter": "Later Legal Changes and Exam Cautions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following statements about the 2020 amendment is INCORRECT?",
+      "options": {
+        "A": "It repealed Sections 79A, 79B and 79C",
+        "B": "It repealed Section 63 (land ceiling)",
+        "C": "Sections 79A-79C dealt with restrictions on acquisition and holding of agricultural land by specified persons",
+        "D": "The repeal of Sections 79A-79C should not be confused with the land ceiling in Section 63"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 2020 amendment did not repeal Section 63. Sections 79A-79C and Section 63 dealt with different legal matters; repeal of Sections 79A-79C did not mean that the land-ceiling provision itself was repealed.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR140",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Karnataka Land Reforms Act was enacted and published as which Act, although it is titled 1961?",
+      "options": {
+        "A": "Karnataka Act 10 of 1962",
+        "B": "Karnataka Act 1 of 1974",
+        "C": "Karnataka Act 10 of 1961",
+        "D": "Karnataka Act 5 of 1965"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act is titled by the year in which it was framed; it was enacted and published as Karnataka Act 10 of 1962.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR141",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes the scope of Section 44?",
+      "options": {
+        "A": "Vesting in the State Government of lands held by or in the possession of tenants immediately before the relevant date, subject to the Act",
+        "B": "Registration of occupants",
+        "C": "Ceiling on land holdings",
+        "D": "Disposal of surplus land"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 44 deals with vesting in the State Government of lands held by or in the possession of tenants immediately before the relevant date, subject to the Act.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR142",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes the scope of Section 45?",
+      "options": {
+        "A": "Eligible permanent, protected and other tenants, and qualifying sub-tenants, to be registered as occupants of the lands they cultivated personally",
+        "B": "Vesting of tenant-held lands in the State Government",
+        "C": "Constitution of Land Tribunals",
+        "D": "Ceiling on land holdings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 45 provides for eligible permanent, protected and other tenants, and qualifying sub-tenants, to be registered as occupants of the lands they cultivated personally, subject to the Act's conditions and ceiling limits.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR143",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a correct pairing of a section with its content?",
+      "options": {
+        "A": "Section 48A — applications and inquiry by the Tribunal",
+        "B": "Section 48 — certificate of registration as occupant",
+        "C": "Section 55 — disposal of surplus land",
+        "D": "Section 77 — constitution of Land Tribunals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 48A deals with applications and inquiry by the Tribunal. Section 48 deals with Land Tribunals; Section 55 with the certificate of registration; Section 77 with disposal of surplus land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR144",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a correct pairing of a section with its content?",
+      "options": {
+        "A": "Section 64 — future acquisition exceeding the ceiling",
+        "B": "Section 65 — ceiling on land holdings",
+        "C": "Section 66 — disposal of surplus land",
+        "D": "Section 74 — surrender of surplus land"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 64 deals with future acquisition of land where the acquisition would cause a person or family to exceed the ceiling area. Section 65 deals with surrender; Section 66 with declaration of holding; Section 74 with restriction on alienation.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR145",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Karnataka Land Reforms Act",
+      "chapter": "Karnataka Land Reforms Act",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a correct pairing of a section with its content?",
+      "options": {
+        "A": "Section 63 — ceiling on land holdings",
+        "B": "Section 64 — surrender of surplus land",
+        "C": "Section 65 — declaration of holding",
+        "D": "Section 77 — certificate of registration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 63 deals with the ceiling on land holdings. Section 64 deals with future acquisition; Section 65 with surrender; Section 77 with disposal of surplus land.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR146",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly states the eligibility criteria for registration as an occupant under the 1974 scheme?",
+      "options": {
+        "A": "The person must have qualified as a permanent tenant, protected tenant or other tenant, or a qualifying lawful sub-tenant, and must have personally cultivated the land before vesting",
+        "B": "The person must have owned at least ten units of land",
+        "C": "The person must have been a landlord",
+        "D": "The person must have paid rent in cash only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A person who qualified as a permanent tenant, protected tenant or other tenant, or a qualifying lawful sub-tenant, and who personally cultivated the land before vesting, could claim registration subject to statutory conditions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR147",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Tenancy Reforms",
+      "chapter": "Tenancy Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following was NOT part of the 1961 Act's initial approach to tenancy?",
+      "options": {
+        "A": "Statutory protection against eviction",
+        "B": "Regulation of rent and tenancy conditions",
+        "C": "Restrictions on certain transfers and subletting",
+        "D": "Immediate vesting of all tenant-held land in the State Government"
+      },
+      "correctAnswer": "D",
+      "explanation": "Immediate vesting of tenant-held land in the State Government came with the 1974 amendment (Section 44), not the 1961 Act. The 1961 Act provided protection against eviction, regulated rent and tenancy conditions, restricted certain transfers and subletting, and introduced limits on agricultural holdings.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR148",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Land-to-the-Tiller Principle",
+      "chapter": "Land-to-the-Tiller Principle",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The land-to-the-tiller principle sought to reduce:",
+      "options": {
+        "A": "Absentee landlordism and the separation between ownership and cultivation",
+        "B": "Tenure security",
+        "C": "Agricultural production",
+        "D": "The stake of cultivators in agricultural production"
+      },
+      "correctAnswer": "A",
+      "explanation": "It sought to reduce absentee landlordism, remove the separation between ownership and cultivation, improve tenure security and give cultivators a direct stake in agricultural production.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR149",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following was a common implementation problem in land reforms?",
+      "options": {
+        "A": "Incomplete or inaccurate land records",
+        "B": "Excessive speed of adjudication",
+        "C": "Too many eligible beneficiaries",
+        "D": "Overpayment of compensation to landlords"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problems included incomplete or inaccurate land records, disputes over actual cultivation, benami or concealed holdings, delays in adjudication, limited administrative capacity and difficulties in identifying eligible beneficiaries.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    },
+    {
+      "id": "LR150",
+      "subject": "Karnataka Land Reforms",
+      "topic": "Impact and Limitations of Land Reforms",
+      "chapter": "Impact and Limitations of Land Reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why did some tenants fail to obtain occupancy rights despite the reform?",
+      "options": {
+        "A": "They could not establish qualifying tenancy or personal cultivation, missed procedural requirements, faced documentary gaps or disputes, or cultivated land falling within statutory exclusions",
+        "B": "They refused to accept ownership",
+        "C": "The Act did not allow tenants to apply",
+        "D": "The Land Tribunals were abolished"
+      },
+      "correctAnswer": "A",
+      "explanation": "Some could not establish qualifying tenancy or personal cultivation, missed procedural requirements, faced documentary gaps or disputes, or cultivated land falling within statutory exclusions.",
+      "source": "Karnataka_Land_Reform_Developments.pdf"
+    }
+  ]
+}

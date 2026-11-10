@@ -1,0 +1,3247 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Public Administration question bank derived from FDA/SDA Examination Notes (Section 7.8). Covers meaning and scope, principles, organisation, hierarchy, delegation, coordination, accountability, transparency, good governance, e-governance, citizen-centric administration, grievance redressal, RTI Act 2005 (as amended by DPDP Act 2023) and administrative reforms.",
+  "questions": [
+    {
+      "id": "PA001",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Public Administration?",
+      "options": {
+        "A": "The organisation and management of public policies, government programmes and public services",
+        "B": "The management of private companies for profit",
+        "C": "The judicial review of legislation",
+        "D": "The conduct of foreign diplomacy only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public Administration is the organisation and management of public policies, government programmes and public services. It includes activities through which governments implement laws, formulate and execute policies, manage public resources and deliver services to citizens.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA002",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the word 'administration' mean?",
+      "options": {
+        "A": "The organised process of planning, directing, coordinating and controlling people and resources to achieve specified objectives",
+        "B": "The process of electing representatives",
+        "C": "The interpretation of statutes by courts",
+        "D": "The collection of taxes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administration means the organised process of planning, directing, coordinating and controlling people and resources to achieve specified objectives. Public administration applies this process to public purposes and government responsibilities.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA003",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the main difference between Public Administration and Private Administration?",
+      "options": {
+        "A": "Public Administration operates primarily for public interest and is accountable to citizens and elected institutions, while Private Administration generally operates within private ownership and commercial objectives",
+        "B": "Private Administration is always illegal",
+        "C": "Public Administration does not follow any law",
+        "D": "Private Administration is accountable to Parliament"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public Administration operates primarily for public interest, is subject to constitutional and legal controls, and is accountable to citizens and elected institutions. Private Administration generally operates within private ownership and commercial or organisational objectives, though it is also subject to law and regulation.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA004",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes the nature of Public Administration?",
+      "options": {
+        "A": "It is both an activity and a field of study, interdisciplinary, practical, goal-oriented and service-oriented",
+        "B": "It is purely a theoretical subject with no practical application",
+        "C": "It is confined only to financial administration",
+        "D": "It is a branch of pure mathematics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public Administration is both an activity and a field of study. It is interdisciplinary, practical, goal-oriented, service-oriented and concerned with policy implementation, public institutions, public finance, personnel, regulation and accountability.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA005",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT included in the scope of Public Administration?",
+      "options": {
+        "A": "Personnel administration",
+        "B": "Financial administration",
+        "C": "Private family budgeting",
+        "D": "Development administration"
+      },
+      "correctAnswer": "C",
+      "explanation": "The scope of Public Administration includes organisation and management of government departments; personnel administration; financial administration; policy formulation and implementation; development administration; local government; public enterprises; law and order; public service delivery; regulatory administration; and accountability mechanisms. Private family budgeting is not part of it.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA006",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does POSDCORB stand for?",
+      "options": {
+        "A": "Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting",
+        "B": "Planning, Organising, Supervising, Directing, Controlling, Reporting and Budgeting",
+        "C": "Public, Organised, Staffing, Directing, Coordinating, Reviewing and Budgeting",
+        "D": "Planning, Ordering, Staffing, Directing, Coordinating, Reporting and Budgeting"
+      },
+      "correctAnswer": "A",
+      "explanation": "POSDCORB is a mnemonic associated with Luther Gulick describing major functions of an executive: Planning, Organising, Staffing, Directing, Coordinating, Reporting and Budgeting.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA007",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the POSDCORB approach?",
+      "options": {
+        "A": "Luther Gulick",
+        "B": "Max Weber",
+        "C": "F. W. Taylor",
+        "D": "Elton Mayo"
+      },
+      "correctAnswer": "A",
+      "explanation": "POSDCORB is a mnemonic associated with Luther Gulick describing major functions of an executive.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA008",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between the narrow and broad views of Public Administration?",
+      "options": {
+        "A": "The narrow view focuses mainly on the activities of the executive branch and implementation of public policy, while the broad view includes all activities connected with public affairs across legislative, executive and judicial institutions",
+        "B": "The narrow view includes all three branches of government, while the broad view includes only the executive",
+        "C": "Both views are identical",
+        "D": "The narrow view deals only with foreign affairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "The narrow view focuses mainly on the activities of the executive branch and implementation of public policy. The broad view includes all activities connected with public affairs and the implementation of public policy across legislative, executive and judicial institutions.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA009",
+      "subject": "Public Administration",
+      "topic": "Meaning, Nature and Scope",
+      "chapter": "Public Administration - Meaning, Nature and Scope",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Public Administration called an instrument of social change?",
+      "options": {
+        "A": "Because it implements welfare, development, education, health, infrastructure, equality and social justice programmes that can transform social and economic conditions",
+        "B": "Because it only collects taxes",
+        "C": "Because it conducts elections",
+        "D": "Because it interprets the Constitution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Government administration implements welfare, development, education, health, infrastructure, equality and social justice programmes. Through these activities it can help transform social and economic conditions, subject to law, resources and public accountability.",
+      "source": "Public Administration Notes, Section A"
+    },
+    {
+      "id": "PA010",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the principle of division of work?",
+      "options": {
+        "A": "Dividing organisational tasks into specialised duties and assigning them to individuals or units according to competence",
+        "B": "Giving all tasks to one person",
+        "C": "Rotating all employees between all tasks daily",
+        "D": "Outsourcing all government work"
+      },
+      "correctAnswer": "A",
+      "explanation": "Division of work means dividing organisational tasks into specialised duties and assigning them to individuals or units according to competence. Specialisation can improve skill and efficiency, but excessive fragmentation can create coordination problems.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA011",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the principle of unity of command?",
+      "options": {
+        "A": "Each employee should ordinarily receive instructions from one immediate superior",
+        "B": "Each employee should receive instructions from multiple superiors simultaneously",
+        "C": "Commands should be issued only in writing",
+        "D": "Only the head of state can issue commands"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unity of command means that each employee should ordinarily receive instructions from one immediate superior. It is intended to reduce conflicting orders and clarify responsibility.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA012",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the principle of unity of direction?",
+      "options": {
+        "A": "Activities having the same objective should be guided by one plan and one responsible head",
+        "B": "All activities must be directed by the legislature",
+        "C": "Each department must have a separate plan",
+        "D": "Direction should change daily"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unity of direction means that activities having the same objective should be guided by one plan and one responsible head.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA013",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the scalar chain or chain of command?",
+      "options": {
+        "A": "The formal line of authority running from the highest level to the lowest level of an organisation",
+        "B": "An informal friendship network",
+        "C": "A financial audit trail",
+        "D": "A list of constitutional amendments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The scalar chain is the formal line of authority running from the highest level to the lowest level of an organisation. It establishes reporting relationships and channels for communication.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA014",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the principle of span of control?",
+      "options": {
+        "A": "The number of subordinates a supervisor can effectively guide and supervise",
+        "B": "The total budget of a department",
+        "C": "The number of laws passed by Parliament",
+        "D": "The geographical area of a state"
+      },
+      "correctAnswer": "A",
+      "explanation": "Span of control refers to the number of subordinates a supervisor can effectively guide and supervise. The appropriate span depends on the complexity of work, geographical spread, staff competence, technology and the supervisor's capacity.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA015",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the principle of authority and responsibility?",
+      "options": {
+        "A": "Authority is the legitimate right to make decisions and issue instructions; responsibility is the duty to perform assigned tasks and answer for results, and both should be reasonably balanced",
+        "B": "Authority and responsibility are unrelated concepts",
+        "C": "Responsibility should always exceed authority",
+        "D": "Only the legislature has authority"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authority is the legitimate right to make decisions and issue instructions; responsibility is the duty to perform assigned tasks and answer for results. Effective administration requires authority and responsibility to be reasonably balanced.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA016",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the principle of discipline mean in administration?",
+      "options": {
+        "A": "Observance of organisational rules, lawful instructions, standards of conduct and agreed procedures, applied fairly and consistently",
+        "B": "Punishing employees without reason",
+        "C": "Ignoring all rules",
+        "D": "Frequent transfer of employees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Discipline means observance of organisational rules, lawful instructions, standards of conduct and agreed procedures. It should be applied fairly and consistently.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA017",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the principle of equity mean in administration?",
+      "options": {
+        "A": "Treating employees and citizens fairly, impartially and without arbitrary discrimination",
+        "B": "Giving all benefits to senior officers",
+        "C": "Equal salary for all employees regardless of post",
+        "D": "Avoiding all forms of taxation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equity means treating employees and citizens fairly, impartially and without arbitrary discrimination. It supports trust and legitimacy in public institutions.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA018",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the principle of esprit de corps mean?",
+      "options": {
+        "A": "Team spirit, unity and cooperation among members of an organisation",
+        "B": "Strict punishment of employees",
+        "C": "Individual competition among employees",
+        "D": "Secrecy in administration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Esprit de corps means team spirit, unity and cooperation among members of an organisation. It supports morale and collective effort.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA019",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is bureaucracy in public administration?",
+      "options": {
+        "A": "A form of organisation based on defined offices, hierarchy, division of labour, formal rules, written records, merit-based appointment and impersonal application of rules",
+        "B": "A system where all decisions are made by citizens directly",
+        "C": "A form of private business management",
+        "D": "A system with no rules and no hierarchy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bureaucracy is a form of organisation based on defined offices, hierarchy, division of labour, formal rules, written records, merit-based appointment and impersonal application of rules. Max Weber is closely associated with the ideal type of legal-rational bureaucracy.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA020",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is closely associated with the ideal-type theory of legal-rational bureaucracy?",
+      "options": {
+        "A": "Max Weber",
+        "B": "Luther Gulick",
+        "C": "F. W. Taylor",
+        "D": "Elton Mayo"
+      },
+      "correctAnswer": "A",
+      "explanation": "Max Weber is closely associated with the ideal type of legal-rational bureaucracy.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA021",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a feature of Max Weber's ideal-type bureaucracy?",
+      "options": {
+        "A": "Impersonal, rule-based decision-making with written records and merit-based recruitment",
+        "B": "Decision-making based on personal favouritism",
+        "C": "Absence of hierarchy",
+        "D": "Recruitment based on family lineage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Features of Weber's ideal-type bureaucracy include a clear hierarchy of offices; defined jurisdiction and duties; written rules and records; specialisation; recruitment based on technical qualifications; career service; separation of official position from personal ownership; and impersonal, rule-based decision-making.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA022",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the human relations approach to administration?",
+      "options": {
+        "A": "An approach that emphasises the social and psychological dimensions of work, including employee motivation, informal groups, communication, leadership and participation",
+        "B": "An approach that focuses only on machines and technology",
+        "C": "An approach that ignores employees entirely",
+        "D": "An approach based only on financial incentives"
+      },
+      "correctAnswer": "A",
+      "explanation": "The human relations approach emphasises the social and psychological dimensions of work, including employee motivation, informal groups, communication, leadership and participation. The Hawthorne studies are commonly associated with the development of this approach.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA023",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is commonly associated with the human relations movement and interpretation of the Hawthorne studies?",
+      "options": {
+        "A": "Elton Mayo",
+        "B": "Max Weber",
+        "C": "Luther Gulick",
+        "D": "F. W. Taylor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elton Mayo is commonly associated with the human relations movement and interpretation of the Hawthorne studies.",
+      "source": "Public Administration Notes, Section B and Section K"
+    },
+    {
+      "id": "PA024",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is scientific management?",
+      "options": {
+        "A": "An approach associated with F. W. Taylor that seeks to improve efficiency through systematic study of tasks, standardisation, work measurement, training and a considered division of managerial and operational responsibilities",
+        "B": "An approach that relies only on intuition",
+        "C": "An approach that ignores work measurement",
+        "D": "An approach limited to agricultural work"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scientific management, associated with F. W. Taylor, seeks to improve efficiency through systematic study of tasks, standardisation, work measurement, training and a considered division of managerial and operational responsibilities.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA025",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is associated with scientific management?",
+      "options": {
+        "A": "Frederick Winslow Taylor",
+        "B": "Max Weber",
+        "C": "Elton Mayo",
+        "D": "Luther Gulick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frederick Winslow Taylor is associated with scientific management.",
+      "source": "Public Administration Notes, Section B and Section K"
+    },
+    {
+      "id": "PA026",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the systems approach to administration?",
+      "options": {
+        "A": "An approach that views an organisation as an interconnected system receiving inputs, transforming them through processes, producing outputs and outcomes, and receiving feedback from its environment",
+        "B": "An approach that studies only individual behaviour",
+        "C": "An approach that ignores the environment",
+        "D": "An approach based only on legal rules"
+      },
+      "correctAnswer": "A",
+      "explanation": "The systems approach views an organisation as an interconnected system that receives inputs, transforms them through processes, produces outputs and outcomes, and receives feedback from its environment.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA027",
+      "subject": "Public Administration",
+      "topic": "Principles and Theories",
+      "chapter": "Principles and Theories of Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the contingency approach to administration hold?",
+      "options": {
+        "A": "No single administrative structure or management technique is best in every situation; design and leadership should adapt to task, environment, technology, people and circumstances",
+        "B": "There is only one best way to organise",
+        "C": "Environment has no effect on organisation",
+        "D": "Leadership style should never change"
+      },
+      "correctAnswer": "A",
+      "explanation": "The contingency approach holds that no single administrative structure or management technique is best in every situation. Organisational design and leadership should be adapted to the task, environment, technology, people and circumstances.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA028",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is organisation in Public Administration?",
+      "options": {
+        "A": "The arrangement of people, duties, authority and resources into a structured system to achieve public objectives",
+        "B": "A list of government employees",
+        "C": "A political party",
+        "D": "A type of tax"
+      },
+      "correctAnswer": "A",
+      "explanation": "Organisation is the arrangement of people, duties, authority and resources into a structured system to achieve public objectives. It defines roles, reporting relationships, communication channels and responsibility.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA029",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a principle of good organisation?",
+      "options": {
+        "A": "Clarity of objectives, division of work, unity of command and appropriate span of control",
+        "B": "Absence of coordination",
+        "C": "Permanent centralisation of all decisions",
+        "D": "Avoiding accountability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Principles of good organisation include clarity of objectives; division of work; unity of command; appropriate span of control; defined authority and responsibility; coordination; flexibility; continuity; economy; accountability; and responsiveness to public needs.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA030",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is hierarchy in administration?",
+      "options": {
+        "A": "The graded arrangement of positions and authority from higher to lower levels, with each level normally reporting to the level above",
+        "B": "A system where all positions are equal",
+        "C": "A system with no supervision",
+        "D": "A system based only on seniority in age"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hierarchy is the graded arrangement of positions and authority from higher to lower levels. Each level has defined responsibilities and normally reports to the level above it.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA031",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an advantage of hierarchy?",
+      "options": {
+        "A": "It clarifies authority, reporting and responsibility, supports supervision and discipline, and provides an escalation route for decisions",
+        "B": "It eliminates all delays",
+        "C": "It removes the need for rules",
+        "D": "It guarantees citizen participation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hierarchy clarifies authority, reporting and responsibility; supports supervision and discipline; provides an escalation route for decisions; and helps coordinate large organisations.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA032",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a limitation of excessive hierarchy?",
+      "options": {
+        "A": "It can create delays, rigid procedures, communication distortion, excessive centralisation and reluctance to take initiative",
+        "B": "It always improves speed of decision-making",
+        "C": "It reduces the distance between decision-makers and citizens",
+        "D": "It eliminates corruption"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excessive hierarchy can create delays, rigid procedures, communication distortion, excessive centralisation, reluctance to take initiative and distance between senior decision-makers and citizens.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA033",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is delegation of authority?",
+      "options": {
+        "A": "The assignment of specified tasks and decision-making authority by a superior to a subordinate while the superior retains ultimate accountability for the overall responsibility",
+        "B": "The transfer of ownership of a department",
+        "C": "The complete surrender of responsibility by a superior",
+        "D": "The election of a subordinate by citizens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delegation is the assignment of specified tasks and decision-making authority by a superior to a subordinate while the superior retains ultimate accountability for the overall responsibility. The extent of delegation should be clearly defined.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA034",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the essential elements of delegation?",
+      "options": {
+        "A": "Assignment of duties, grant of adequate authority to perform those duties, and creation of accountability for performance",
+        "B": "Only assignment of duties",
+        "C": "Only transfer of funds",
+        "D": "Only verbal instructions"
+      },
+      "correctAnswer": "A",
+      "explanation": "The essential elements of delegation are assignment of duties, grant of adequate authority to perform those duties, and creation of accountability for performance. Duties without adequate authority make delegation ineffective.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA035",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does delegation remove the superior's ultimate accountability?",
+      "options": {
+        "A": "No, the superior remains accountable for the overall function and for appropriate supervision",
+        "B": "Yes, the superior has no responsibility after delegation",
+        "C": "Yes, only the subordinate is accountable to the public",
+        "D": "Delegation is illegal in public administration"
+      },
+      "correctAnswer": "A",
+      "explanation": "A superior may delegate the exercise of authority and performance of tasks, but remains accountable for the overall function and for appropriate supervision. The subordinate is answerable for the delegated work.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA036",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is decentralisation?",
+      "options": {
+        "A": "The transfer or distribution of decision-making powers and responsibilities from central authorities to lower levels, field offices or local institutions",
+        "B": "The concentration of all power at the centre",
+        "C": "The abolition of local government",
+        "D": "The transfer of power to private companies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decentralisation is the transfer or distribution of decision-making powers and responsibilities from central authorities to lower levels, field offices or local institutions. It may be administrative, political or fiscal.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA037",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between delegation and decentralisation?",
+      "options": {
+        "A": "Delegation is generally a transfer of specified authority within an organisational relationship with the superior retaining overall accountability, while decentralisation is a broader redistribution of decision-making power across levels or institutions, often supported by law",
+        "B": "They are exactly the same",
+        "C": "Delegation is always broader than decentralisation",
+        "D": "Decentralisation never involves decision-making power"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delegation is generally a transfer of specified authority within an organisational relationship, with the delegating superior retaining overall accountability. Decentralisation is a broader redistribution of decision-making power across levels or institutions and may be supported by law.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA038",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is centralisation?",
+      "options": {
+        "A": "Concentration of decision-making authority at the higher or central level of an organisation",
+        "B": "Distribution of all power to villages",
+        "C": "Election of officers by citizens",
+        "D": "Outsourcing of all decisions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Centralisation concentrates decision-making authority at the higher or central level of an organisation. It can promote uniformity and control but may slow local responses and reduce field-level discretion.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA039",
+      "subject": "Public Administration",
+      "topic": "Organisation, Hierarchy and Delegation",
+      "chapter": "Organisation, Hierarchy and Delegation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between line and staff agencies?",
+      "options": {
+        "A": "Line agencies perform principal operational functions and exercise direct authority in the chain of command, while staff agencies provide advice, expertise, planning or support generally without direct command",
+        "B": "Line agencies only give advice, while staff agencies command operations",
+        "C": "Both have identical functions",
+        "D": "Staff agencies are always superior to line agencies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Line agencies perform the principal operational functions and exercise direct authority in the chain of command. Staff agencies provide advice, expertise, planning or support to line agencies, generally without direct command over their operations unless authority is specifically assigned.",
+      "source": "Public Administration Notes, Section C"
+    },
+        {
+      "id": "PA040",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is coordination in Public Administration?",
+      "options": {
+        "A": "The process of harmonising the activities of different departments, officers and agencies so that their work supports common objectives and avoids duplication, conflict and gaps in service delivery",
+        "B": "The process of punishing inefficient departments",
+        "C": "The merger of all government departments into one",
+        "D": "The collection of taxes from citizens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coordination is the process of harmonising the activities of different departments, officers and agencies so that their work supports common objectives and avoids duplication, conflict and gaps in service delivery.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA041",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is coordination necessary in government?",
+      "options": {
+        "A": "Public problems often cross departmental boundaries, and coordination aligns policies, budgets, schedules, information and responsibilities to reduce duplication and resolve conflicts",
+        "B": "Because government departments are independent and never interact",
+        "C": "Because coordination reduces public participation",
+        "D": "Because it eliminates the need for budgets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public problems often cross departmental boundaries. Coordination aligns policies, budgets, schedules, information and responsibilities; reduces duplication; resolves conflicts; and improves the consistency of public services.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA042",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a common method of administrative coordination?",
+      "options": {
+        "A": "Cabinet and committee systems, inter-departmental meetings, nodal departments, joint task forces and integrated plans and budgets",
+        "B": "Avoiding all meetings between departments",
+        "C": "Maintaining complete secrecy between departments",
+        "D": "Abolishing the cabinet system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common methods of administrative coordination include Cabinet and committee systems; inter-departmental meetings; nodal departments; common guidelines; joint task forces; shared databases; integrated plans and budgets; review mechanisms; and clearly assigned lead agencies.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA043",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is vertical coordination?",
+      "options": {
+        "A": "Coordination that links higher and lower levels of administration, such as State headquarters, district offices, taluk offices and village-level institutions",
+        "B": "Coordination between departments at the same level",
+        "C": "Coordination between India and foreign countries",
+        "D": "Coordination between private companies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vertical coordination links higher and lower levels of administration, such as State headquarters, district offices, taluk offices and village-level institutions.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA044",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is horizontal coordination?",
+      "options": {
+        "A": "Coordination that links departments or agencies operating at the same level, such as health, education, police and revenue departments at district level",
+        "B": "Coordination between the Centre and the States",
+        "C": "Coordination between a superior and subordinate",
+        "D": "Coordination between a ministry and its attached office"
+      },
+      "correctAnswer": "A",
+      "explanation": "Horizontal coordination links departments or agencies operating at the same level, such as health, education, police and revenue departments at district level.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA045",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is administrative communication?",
+      "options": {
+        "A": "The transmission and exchange of instructions, information, decisions, feedback and reports within government and between government and the public",
+        "B": "The communication between private companies only",
+        "C": "The communication between citizens only",
+        "D": "The communication between political parties only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administrative communication is the transmission and exchange of instructions, information, decisions, feedback and reports within government and between government and the public.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA046",
+      "subject": "Public Administration",
+      "topic": "Coordination and Communication",
+      "chapter": "Coordination and Communication",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between formal and informal communication?",
+      "options": {
+        "A": "Formal communication follows authorised channels and official records, while informal communication occurs through unofficial interpersonal networks",
+        "B": "Formal communication is always verbal, informal is always written",
+        "C": "Informal communication is illegal in government",
+        "D": "Formal communication does not require records"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formal communication follows authorised channels, official records and prescribed procedures. Informal communication occurs through unofficial interpersonal networks; it may speed information flow but should not replace required official decisions and records.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA047",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is accountability in Public Administration?",
+      "options": {
+        "A": "The obligation of public officials and institutions to explain and justify their decisions and actions, disclose relevant information, comply with law and accept consequences or corrective action where required",
+        "B": "The right of officials to act without any scrutiny",
+        "C": "The duty of citizens to obey officials",
+        "D": "The power of officials to make arbitrary decisions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accountability is the obligation of public officials and institutions to explain and justify their decisions and actions, disclose relevant information, comply with law and accept consequences or corrective action where required.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA048",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major form of public accountability?",
+      "options": {
+        "A": "Political accountability to elected representatives, administrative accountability through supervision, legal accountability through courts, financial accountability through audit, and social accountability through citizens and media",
+        "B": "Accountability only to foreign governments",
+        "C": "Accountability only to private companies",
+        "D": "Accountability only to political parties"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major forms of public accountability include political accountability to elected representatives; administrative accountability through supervision and service rules; legal accountability through courts and statutory processes; financial accountability through audit and legislative committees; and social accountability through citizens, media, public hearings and community monitoring.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA049",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is transparency in administration?",
+      "options": {
+        "A": "Making government rules, decisions, procedures, records and performance information accessible and understandable, subject to lawful restrictions",
+        "B": "Keeping all government records secret",
+        "C": "Publishing only favourable information",
+        "D": "Sharing information only with senior officials"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transparency means making government rules, decisions, procedures, records and performance information accessible and understandable, subject to lawful restrictions. It reduces secrecy and enables citizens to scrutinise public action.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA050",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are transparency and accountability related?",
+      "options": {
+        "A": "Transparency provides information needed for scrutiny, while accountability requires officials to explain and answer for their conduct; transparency supports accountability but does not by itself guarantee corrective action",
+        "B": "They are unrelated concepts",
+        "C": "Accountability makes transparency unnecessary",
+        "D": "Transparency eliminates the need for accountability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transparency provides information needed for scrutiny; accountability requires officials to explain and answer for their conduct. Transparency supports accountability but does not by itself guarantee corrective action.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA051",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is administrative responsibility?",
+      "options": {
+        "A": "The duty of public servants to act lawfully, impartially, ethically and competently, use public resources properly and implement authorised policies while respecting constitutional values and citizens' rights",
+        "B": "The duty of citizens to obey all orders",
+        "C": "The right of officials to ignore the law",
+        "D": "The power of officials to use public resources for personal benefit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administrative responsibility is the duty of public servants to act lawfully, impartially, ethically and competently, use public resources properly and implement authorised policies while respecting constitutional values and citizens' rights.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA052",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is administrative ethics?",
+      "options": {
+        "A": "Values and standards guiding public officials, including integrity, impartiality, objectivity, non-partisanship, accountability, dedication to public service, empathy and commitment to the public interest",
+        "B": "The rules for private business profit",
+        "C": "The procedure for conducting elections",
+        "D": "The method of tax collection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administrative ethics refers to values and standards guiding public officials, including integrity, impartiality, objectivity, non-partisanship, accountability, dedication to public service, empathy and commitment to the public interest.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA053",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a conflict of interest in public service?",
+      "options": {
+        "A": "A situation where a public official's private, financial, family or other personal interests could improperly influence, or appear to influence, official duties",
+        "B": "A dispute between two government departments",
+        "C": "A disagreement between political parties",
+        "D": "A conflict between two laws"
+      },
+      "correctAnswer": "A",
+      "explanation": "A conflict of interest arises when a public official's private, financial, family or other personal interests could improperly influence, or appear to influence, official duties. Disclosure, recusal and compliance with conduct rules help manage such conflicts.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA054",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a social audit?",
+      "options": {
+        "A": "A process through which beneficiaries and community members examine public records, expenditure, decisions and outcomes of government programmes",
+        "B": "An audit conducted only by chartered accountants",
+        "C": "An audit of private company accounts",
+        "D": "A tax audit by the income tax department"
+      },
+      "correctAnswer": "A",
+      "explanation": "A social audit is a process through which beneficiaries and community members examine public records, expenditure, decisions and outcomes of government programmes. It promotes public participation and verification of whether benefits reached intended recipients.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA055",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Citizen's Charter?",
+      "options": {
+        "A": "A public statement of an organisation's services, service standards, timelines, grievance channels and responsibilities",
+        "B": "A charter of fundamental rights",
+        "C": "A document listing citizens' duties only",
+        "D": "A law passed by Parliament"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Citizen's Charter is a public statement of an organisation's services, service standards, timelines, grievance channels and responsibilities. It informs citizens about what they can expect, though its enforceability depends on applicable law and service-guarantee frameworks.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA056",
+      "subject": "Public Administration",
+      "topic": "Accountability, Transparency and Integrity",
+      "chapter": "Accountability, Transparency and Integrity",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the Public Accounts Committee?",
+      "options": {
+        "A": "It examines audit findings and government accounts",
+        "B": "It conducts elections",
+        "C": "It appoints judges",
+        "D": "It issues currency notes"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Public Accounts Committee examines audit findings and government accounts, while departmental standing committees scrutinise the work and demands of departments.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA057",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is good governance?",
+      "options": {
+        "A": "The exercise of public authority in a manner that is lawful, participatory, transparent, accountable, responsive, effective, efficient, equitable and oriented towards consensus and the rule of law",
+        "B": "Governance by military rule",
+        "C": "Governance without any laws",
+        "D": "Governance only for the rich"
+      },
+      "correctAnswer": "A",
+      "explanation": "Good governance is the exercise of public authority in a manner that is lawful, participatory, transparent, accountable, responsive, effective, efficient, equitable and oriented towards consensus and the rule of law.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA058",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a commonly recognised principle of good governance?",
+      "options": {
+        "A": "Participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness",
+        "B": "Secrecy and arbitrary rule",
+        "C": "Centralisation of all power",
+        "D": "Discrimination among citizens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Commonly recognised principles of good governance include participation; rule of law; transparency; responsiveness; consensus orientation; equity and inclusiveness; effectiveness and efficiency; accountability; and strategic vision.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA059",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is citizen-centric administration?",
+      "options": {
+        "A": "Administration that designs public institutions and services around the needs, rights, convenience and dignity of people rather than the convenience of the bureaucracy",
+        "B": "Administration designed for the convenience of bureaucrats",
+        "C": "Administration that ignores citizens",
+        "D": "Administration controlled by private companies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Citizen-centric administration designs public institutions and services around the needs, rights, convenience and dignity of people rather than the convenience of the bureaucracy. It emphasises accessibility, timely delivery, clear information, inclusion and effective grievance redressal.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA060",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is responsive administration?",
+      "options": {
+        "A": "Administration that identifies public needs and responds within reasonable time through accessible services, communication, consultation and corrective action",
+        "B": "Administration that ignores public needs",
+        "C": "Administration that responds only to senior officials",
+        "D": "Administration that takes unlimited time to respond"
+      },
+      "correctAnswer": "A",
+      "explanation": "Responsive administration identifies public needs and responds within reasonable time through accessible services, communication, consultation and corrective action.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA061",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is inclusive administration?",
+      "options": {
+        "A": "Administration that ensures public policies and services are accessible to all sections, including women, children, persons with disabilities, senior citizens, disadvantaged communities and people in remote areas",
+        "B": "Administration that serves only urban areas",
+        "C": "Administration that excludes marginalised groups",
+        "D": "Administration that serves only government employees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inclusive administration ensures that public policies and services are accessible to all sections, including women, children, persons with disabilities, senior citizens, disadvantaged communities and people in remote areas.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA062",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the rule of law mean in public administration?",
+      "options": {
+        "A": "Public power must be exercised under valid law, government and citizens are subject to law, legal procedures are followed, and arbitrary action is constrained by constitutional safeguards and judicial review",
+        "B": "Officials are above the law",
+        "C": "Citizens are above the law",
+        "D": "Laws apply only to private individuals"
+      },
+      "correctAnswer": "A",
+      "explanation": "The rule of law means that public power must be exercised under valid law, government and citizens are subject to law, legal procedures are followed, and arbitrary action is constrained by constitutional safeguards and judicial review.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA063",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is outcome-based administration?",
+      "options": {
+        "A": "Administration that evaluates public programmes by the changes they produce in people's lives, not merely by money spent or activities completed",
+        "B": "Administration that evaluates only the money spent",
+        "C": "Administration that evaluates only the number of activities completed",
+        "D": "Administration that ignores results entirely"
+      },
+      "correctAnswer": "A",
+      "explanation": "Outcome-based administration evaluates public programmes by the changes they produce in people's lives, not merely by money spent or activities completed. It distinguishes inputs, processes, outputs and outcomes.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA064",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is performance measurement in government?",
+      "options": {
+        "A": "The use of indicators, targets, service standards, audits and evaluation to assess whether public agencies achieve their objectives efficiently and effectively",
+        "B": "The measurement of employee height and weight",
+        "C": "The measurement of private company profits",
+        "D": "The measurement of election results"
+      },
+      "correctAnswer": "A",
+      "explanation": "Performance measurement uses indicators, targets, service standards, audits and evaluation to assess whether public agencies achieve their objectives efficiently and effectively.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA065",
+      "subject": "Public Administration",
+      "topic": "Good Governance and Citizen-Centric Administration",
+      "chapter": "Good Governance and Citizen-Centric Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between efficiency and effectiveness?",
+      "options": {
+        "A": "Efficiency concerns the relationship between resources used and outputs produced, while effectiveness concerns whether the intended objectives or outcomes are achieved",
+        "B": "Efficiency concerns outcomes, while effectiveness concerns inputs",
+        "C": "They mean exactly the same thing",
+        "D": "Effectiveness concerns only financial matters"
+      },
+      "correctAnswer": "A",
+      "explanation": "Efficiency concerns the relationship between resources used and outputs produced—doing work with minimum avoidable waste. Effectiveness concerns whether the intended objectives or outcomes are achieved—doing the right work.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA066",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is e-governance?",
+      "options": {
+        "A": "The use of information and communication technologies, especially digital platforms and data systems, to improve government administration, public service delivery, information access, participation and accountability",
+        "B": "The use of electronic voting machines only",
+        "C": "The use of email by private companies only",
+        "D": "The use of computers for entertainment"
+      },
+      "correctAnswer": "A",
+      "explanation": "E-governance is the use of information and communication technologies, especially digital platforms and data systems, to improve government administration, public service delivery, information access, participation and accountability.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA067",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does G2C mean in the context of e-governance?",
+      "options": {
+        "A": "Government to Citizen",
+        "B": "Government to Company",
+        "C": "Government to Court",
+        "D": "Government to Country"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main models of e-governance are G2C (Government to Citizen), G2B (Government to Business), G2G (Government to Government) and G2E (Government to Employee).",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA068",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does G2E mean in the context of e-governance?",
+      "options": {
+        "A": "Government to Employee",
+        "B": "Government to Enterprise",
+        "C": "Government to Electorate",
+        "D": "Government to Environment"
+      },
+      "correctAnswer": "A",
+      "explanation": "G2E means Government to Employee, one of the main models of e-governance.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA069",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a benefit of e-governance?",
+      "options": {
+        "A": "Reduction of transaction time and costs, improved access to information, standardised procedures and online applications and payments",
+        "B": "Increased physical paperwork",
+        "C": "Increased need for citizens to visit offices repeatedly",
+        "D": "Reduced transparency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Benefits of e-governance include reducing transaction time and costs, improving access to information, standardising procedures, enabling online applications and payments, creating digital records, improving tracking and supporting data-informed decisions.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA070",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a limitation or risk of e-governance?",
+      "options": {
+        "A": "Digital exclusion, poor connectivity, low digital literacy, cybersecurity threats, privacy risks, inaccurate data and algorithmic bias",
+        "B": "Too much transparency",
+        "C": "Too much citizen participation",
+        "D": "Excessive speed of service delivery"
+      },
+      "correctAnswer": "A",
+      "explanation": "Limitations and risks of e-governance include digital exclusion, poor connectivity, low digital literacy, language barriers, cybersecurity threats, privacy risks, inaccurate data, system outages, algorithmic bias and over-reliance on online-only processes.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA071",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the digital divide?",
+      "options": {
+        "A": "The gap between people or regions in access to digital devices, internet connectivity, digital skills, accessible interfaces and the ability to use digital services effectively",
+        "B": "The difference between two computer screens",
+        "C": "The gap between urban and rural taxes",
+        "D": "The division of a ministry into departments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The digital divide is the gap between people or regions in access to digital devices, internet connectivity, digital skills, accessible interfaces and the ability to use digital services effectively.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA072",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between digitisation, digitalisation and digital transformation?",
+      "options": {
+        "A": "Digitisation converts analogue information into digital form; digitalisation uses digital tools to improve existing processes; digital transformation redesigns services, workflows and institutions around digital capabilities and user needs",
+        "B": "All three terms mean the same thing",
+        "C": "Digitisation refers to institutional redesign, while digital transformation refers to converting paper to digital form",
+        "D": "Digitalisation refers to building new institutions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digitisation converts analogue information into digital form. Digitalisation uses digital tools to improve existing processes. Digital transformation redesigns services, workflows and institutions around digital capabilities and user needs.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA073",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the purpose of the National e-Governance Plan (NeGP)?",
+      "options": {
+        "A": "To make government services accessible to citizens through common service delivery outlets and ensure efficiency, transparency and reliability at affordable cost",
+        "B": "To replace all government employees with computers",
+        "C": "To privatise all government services",
+        "D": "To abolish the use of the internet in government"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National e-Governance Plan (NeGP), approved in 2006, sought to make government services accessible to citizens through common service delivery outlets and to ensure efficiency, transparency and reliability at affordable cost. Later initiatives built on and expanded this framework.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA074",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year was the National e-Governance Plan (NeGP) approved?",
+      "options": {
+        "A": "2006",
+        "B": "2015",
+        "C": "2011",
+        "D": "2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National e-Governance Plan (NeGP) was approved in 2006.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA075",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Digital India programme?",
+      "options": {
+        "A": "A Government of India programme launched in 2015 to transform India into a digitally empowered society and knowledge economy",
+        "B": "A programme launched in 2006",
+        "C": "A private company's initiative",
+        "D": "A programme to reduce internet access"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digital India is a Government of India programme launched in 2015 to transform India into a digitally empowered society and knowledge economy. Its broad focus includes digital infrastructure, governance and services on demand, and digital empowerment of citizens.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA076",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year was the Digital India programme launched?",
+      "options": {
+        "A": "2015",
+        "B": "2006",
+        "C": "2011",
+        "D": "2020"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digital India was launched in 2015 to transform India into a digitally empowered society and knowledge economy.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA077",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Common Service Centre (CSC)?",
+      "options": {
+        "A": "A service-delivery access point that provides digital and other government, financial, educational and utility services, particularly to people who may not be able to access online systems independently",
+        "B": "A centre for training civil servants",
+        "C": "A court for resolving disputes",
+        "D": "A centre for collecting taxes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Common Service Centre (CSC) is a service-delivery access point that provides digital and other government, financial, educational and utility services, particularly to people who may not be able to access online systems independently.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA078",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Karnataka Sakala initiative?",
+      "options": {
+        "A": "Karnataka's time-bound public service delivery framework under the Karnataka Guarantee of Services to Citizens Act, 2011",
+        "B": "A Karnataka tax collection scheme",
+        "C": "A Karnataka agricultural subsidy programme",
+        "D": "A Karnataka police recruitment drive"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sakala is Karnataka's time-bound public service delivery framework under the Karnataka Guarantee of Services to Citizens Act, 2011. It provides notified services with prescribed timelines and a mechanism for citizens to seek remedies where services are delayed or denied, subject to the Act and rules.",
+      "source": "Public Administration Notes, Section G"
+    },
+        {
+      "id": "PA079",
+      "subject": "Public Administration",
+      "topic": "E-Governance and Digital Public Services",
+      "chapter": "E-Governance and Digital Public Services",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of digital identity and Direct Benefit Transfer (DBT) in administration?",
+      "options": {
+        "A": "To authenticate beneficiaries and transfer eligible benefits directly to bank accounts, subject to applicable law, data protection, exclusion safeguards and grievance procedures",
+        "B": "To eliminate all welfare schemes",
+        "C": "To replace all bank branches",
+        "D": "To collect additional taxes from citizens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digital identity and payment infrastructure can help authenticate beneficiaries and transfer eligible benefits directly to bank accounts. Their use must comply with applicable law, data protection, exclusion safeguards and grievance procedures.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA080",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a public grievance?",
+      "options": {
+        "A": "A complaint by a citizen about delay, denial, deficiency, unfair treatment, corruption, maladministration or failure in a public service or government programme",
+        "B": "A petition filed in a court of law",
+        "C": "A request for information under the RTI Act",
+        "D": "A demand for new legislation"
+      },
+      "correctAnswer": "A",
+      "explanation": "A public grievance is a complaint by a citizen about delay, denial, deficiency, unfair treatment, corruption, maladministration or failure in a public service or government programme.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA081",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a stage of an effective grievance redressal system?",
+      "options": {
+        "A": "Accessible complaint registration, acknowledgement and tracking, investigation, time-bound decision, communication of reasons and analysis of recurring complaints",
+        "B": "Ignoring complaints without acknowledgement",
+        "C": "Rejecting all complaints without reasons",
+        "D": "Taking unlimited time to decide"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main stages of an effective grievance redressal system include accessible complaint registration; acknowledgement and tracking; assignment to a responsible authority; investigation; time-bound decision; communication of reasons and outcome; appeal or review where available; and analysis of recurring complaints to improve systems.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA082",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does CPGRAMS stand for?",
+      "options": {
+        "A": "Centralised Public Grievance Redress and Monitoring System",
+        "B": "Central Public Grievance Registration and Management System",
+        "C": "Citizen Public Grievance Redress and Monitoring Scheme",
+        "D": "Centralised Programme for Grievance Redress and Management Services"
+      },
+      "correctAnswer": "A",
+      "explanation": "CPGRAMS is the Centralised Public Grievance Redress and Monitoring System, an online platform of the Government of India for lodging and monitoring grievances relating to participating Central Government departments and organisations. It is not a substitute for every statutory appeal or court remedy.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA083",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a grievance and an RTI application?",
+      "options": {
+        "A": "A grievance seeks action or redressal of a problem, while an RTI application seeks access to information held by or under the control of a public authority",
+        "B": "A grievance seeks information, while an RTI application seeks action",
+        "C": "Both seek the same remedy",
+        "D": "An RTI application automatically grants the substantive service requested"
+      },
+      "correctAnswer": "A",
+      "explanation": "A grievance seeks action or redressal of a problem. An RTI application seeks access to information held by or under the control of a public authority. RTI can help a citizen obtain records relevant to a grievance, but it does not itself compel the authority to grant the substantive service or remedy.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA084",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an ombudsman?",
+      "options": {
+        "A": "An independent or specially designated authority that investigates complaints about maladministration or specified institutional conduct and may recommend or direct remedies according to the law creating the office",
+        "B": "A judge of the Supreme Court",
+        "C": "A minister in the Cabinet",
+        "D": "A police officer"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ombudsman is an independent or specially designated authority that investigates complaints about maladministration or specified institutional conduct and may recommend or direct remedies according to the law creating the office.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA085",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Lokayukta institution?",
+      "options": {
+        "A": "A State-level anti-corruption and grievance-related institution established under State law to investigate allegations against public functionaries within its statutory jurisdiction",
+        "B": "A Central Government department",
+        "C": "A private NGO",
+        "D": "A court of law"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lokayukta is a State-level anti-corruption and grievance-related institution established under State law to investigate allegations against public functionaries within its statutory jurisdiction. Karnataka has a Lokayukta institution under the Karnataka Lokayukta Act, 1984.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA086",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Act is the Karnataka Lokayukta established?",
+      "options": {
+        "A": "Karnataka Lokayukta Act, 1984",
+        "B": "Karnataka Lokayukta Act, 2011",
+        "C": "Right to Information Act, 2005",
+        "D": "Karnataka Guarantee of Services to Citizens Act, 2011"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka has a Lokayukta institution under the Karnataka Lokayukta Act, 1984, as amended.",
+      "source": "Public Administration Notes, Section H and Section K"
+    },
+    {
+      "id": "PA087",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the Karnataka Lokayukta?",
+      "options": {
+        "A": "It investigates allegations of corruption and maladministration against public servants within the scope of the Karnataka Lokayukta Act, 1984 and applicable amendments",
+        "B": "It conducts elections to the State Legislature",
+        "C": "It issues currency notes for Karnataka",
+        "D": "It appoints judges to the High Court"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Lokayukta investigates allegations of corruption and maladministration against public servants within the scope of the Karnataka Lokayukta Act, 1984 and applicable amendments. Its jurisdiction, procedure and powers must be understood from the current State law.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA088",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Lokpal?",
+      "options": {
+        "A": "The national-level anti-corruption ombudsman established under the Lokpal and Lokayuktas Act, 2013",
+        "B": "A State-level institution established under State laws",
+        "C": "A department of the Reserve Bank of India",
+        "D": "A committee of Parliament"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lokpal is the national-level anti-corruption ombudsman established under the Lokpal and Lokayuktas Act, 2013. Lokayuktas are State-level institutions established under State laws, with jurisdiction and powers determined by the relevant State legislation.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA089",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Act is the Lokpal established?",
+      "options": {
+        "A": "Lokpal and Lokayuktas Act, 2013",
+        "B": "Karnataka Lokayukta Act, 1984",
+        "C": "Right to Information Act, 2005",
+        "D": "Prevention of Corruption Act, 1988"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lokpal is the national-level anti-corruption ombudsman established under the Lokpal and Lokayuktas Act, 2013.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA090",
+      "subject": "Public Administration",
+      "topic": "Public Grievance Redressal",
+      "chapter": "Public Grievance Redressal Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Karnataka Sakala grievance mechanism?",
+      "options": {
+        "A": "Under the Sakala framework, a citizen may use the prescribed application and appeal or compensation mechanisms where a notified service is not delivered within the stipulated time or is improperly denied",
+        "B": "A mechanism for filing criminal cases",
+        "C": "A mechanism for appealing to the Supreme Court",
+        "D": "A mechanism for requesting information under the RTI Act"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under the Sakala framework, a citizen may use the prescribed application and appeal or compensation mechanisms where a notified service is not delivered within the stipulated time or is improperly denied. The exact procedure depends on the current Act, rules and service notification.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA091",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did the Right to Information Act, 2005 receive Presidential assent?",
+      "options": {
+        "A": "15 June 2005",
+        "B": "12 October 2005",
+        "C": "26 January 2005",
+        "D": "2 October 2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "The RTI Act, 2005 received Presidential assent on 15 June 2005. Most of its provisions came into force on 12 October 2005.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA092",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did most provisions of the Right to Information Act, 2005 come into force?",
+      "options": {
+        "A": "12 October 2005",
+        "B": "15 June 2005",
+        "C": "26 January 2005",
+        "D": "15 August 2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "Most provisions of the RTI Act, 2005 came into force on 12 October 2005.",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA093",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the objective of the Right to Information Act, 2005?",
+      "options": {
+        "A": "To provide a practical regime for citizens to secure access to information under the control of public authorities, promote transparency and accountability, contain corruption and strengthen democracy",
+        "B": "To increase official secrecy",
+        "C": "To restrict citizens' access to government records",
+        "D": "To replace the judiciary"
+      },
+      "correctAnswer": "A",
+      "explanation": "The RTI Act provides a practical regime for citizens to secure access to information under the control of public authorities, promote transparency and accountability, contain corruption and strengthen democracy.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA094",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who can seek information under the RTI Act, 2005?",
+      "options": {
+        "A": "A citizen of India",
+        "B": "Any person in the world",
+        "C": "Only government employees",
+        "D": "Only Members of Parliament"
+      },
+      "correctAnswer": "A",
+      "explanation": "A citizen of India has the right to request information under Section 3. The Act does not confer the same statutory right on non-citizens.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA095",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Section of the RTI Act is a 'public authority' defined?",
+      "options": {
+        "A": "Section 2(h)",
+        "B": "Section 2(f)",
+        "C": "Section 2(j)",
+        "D": "Section 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 2(h), a public authority includes an authority, body or institution of self-government established or constituted by or under the Constitution, by a law made by Parliament or a State Legislature, or by government notification or order; it also includes bodies owned, controlled or substantially financed by government and qualifying non-government organisations substantially financed directly or indirectly by government funds.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA096",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Section of the RTI Act is 'information' defined?",
+      "options": {
+        "A": "Section 2(f)",
+        "B": "Section 2(h)",
+        "C": "Section 2(j)",
+        "D": "Section 8"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 2(f) defines information broadly to include records, documents, memos, e-mails, opinions, advice, press releases, circulars, orders, logbooks, contracts, reports, papers, samples and data material in any electronic form, and information relating to a private body that a public authority can access under another law.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA097",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the 'right to information' include under Section 2(j) of the RTI Act?",
+      "options": {
+        "A": "The right to inspect works, documents and records; take notes, extracts or certified copies; take certified samples of material; and obtain information in electronic form",
+        "B": "The right to demand new information that does not exist",
+        "C": "The right to compel the PIO to conduct research",
+        "D": "The right to seek explanations not held on record"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 2(j), the right to information includes the right to inspect works, documents and records; take notes, extracts or certified copies; take certified samples of material; and obtain information in electronic form or as printouts where stored electronically.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA098",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is a Public Information Officer (PIO) under the RTI Act?",
+      "options": {
+        "A": "An officer designated by a public authority under Section 5 to receive and process RTI requests and provide information or issue a lawful response",
+        "B": "A judge of the Information Commission",
+        "C": "A minister of the government",
+        "D": "A citizen who files an RTI application"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Public Information Officer (PIO) is an officer designated by a public authority under Section 5 to receive and process RTI requests and provide information or issue a lawful response.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA099",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the normal time limit for responding to an RTI application under Section 7(1)?",
+      "options": {
+        "A": "30 days",
+        "B": "48 hours",
+        "C": "90 days",
+        "D": "15 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 7(1), information must ordinarily be provided within 30 days of receipt of the request or the request must be rejected with reasons under the Act.",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA100",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the time limit for providing information concerning the life or liberty of a person under the RTI Act?",
+      "options": {
+        "A": "48 hours",
+        "B": "30 days",
+        "C": "24 hours",
+        "D": "7 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "The information must be provided within 48 hours of receipt of the request under the proviso to Section 7(1).",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA101",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the time limit when an RTI application is submitted through an Assistant Public Information Officer (APIO)?",
+      "options": {
+        "A": "An additional five days are added to the period for responding under Section 5(2)",
+        "B": "The time limit is reduced to 15 days",
+        "C": "The time limit is extended to 60 days",
+        "D": "No time limit applies"
+      },
+      "correctAnswer": "A",
+      "explanation": "An additional five days are added to the period for responding under Section 5(2) when an RTI application is submitted through an Assistant Public Information Officer.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA102",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens if a public authority fails to respond within the prescribed time under the RTI Act?",
+      "options": {
+        "A": "It is treated as a deemed refusal under Section 7(2), and the applicant may file a first appeal under Section 19(1)",
+        "B": "The application is automatically granted",
+        "C": "The application is permanently closed",
+        "D": "The applicant must file a fresh application"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 7(2), failure to give a decision within the time specified is treated as a deemed refusal. The applicant may file a first appeal under Section 19(1).",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA103",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the application fee prescribed under the Central Government RTI Rules?",
+      "options": {
+        "A": "₹10 for a Central public authority application, subject to exemptions and different rules for States",
+        "B": "₹50 for all applications",
+        "C": "₹100 for all applications",
+        "D": "No fee is prescribed"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Government RTI Rules prescribe a fee of ₹10 for a Central public authority application, subject to exemptions and different rules for States. Karnataka applicants should follow the current Karnataka RTI Rules and notified payment methods rather than assuming the Central fee applies unchanged.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA104",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is a person below the poverty line required to pay the prescribed fee under the RTI Act?",
+      "options": {
+        "A": "No, under Section 7(5) a person below the poverty line is not required to pay the prescribed fee, subject to the rules and proof requirements",
+        "B": "Yes, everyone must pay the fee",
+        "C": "Yes, but only half the fee",
+        "D": "Only senior citizens are exempt"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 7(5), a person below the poverty line is not required to pay the prescribed fee, subject to the rules and proof requirements applicable to the request.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA105",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens if a public authority misses the statutory response deadline under the RTI Act?",
+      "options": {
+        "A": "Under Section 7(6), information must be provided free of charge",
+        "B": "The application is automatically rejected",
+        "C": "The applicant must pay double the fee",
+        "D": "The PIO is automatically dismissed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 7(6), information must be provided free of charge where the public authority fails to comply with the time limits specified in Section 7(1).",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA106",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the first appeal under the RTI Act?",
+      "options": {
+        "A": "An appeal to an officer senior in rank to the PIO within the same public authority, ordinarily within 30 days under Section 19(1)",
+        "B": "An appeal directly to the Supreme Court",
+        "C": "An appeal to the President of India",
+        "D": "An appeal to the Information Commission"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 19(1), a person who does not receive a decision within the prescribed time or is aggrieved by a PIO decision may appeal to an officer senior in rank to the PIO within the same public authority, ordinarily within 30 days. The appellate authority may admit a delayed appeal for sufficient cause.",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA107",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the second appeal under the RTI Act?",
+      "options": {
+        "A": "An appeal to the Central Information Commission or State Information Commission, as applicable, within 90 days under Section 19(3)",
+        "B": "An appeal to the same PIO again",
+        "C": "An appeal to the High Court only",
+        "D": "An appeal to the Lokayukta"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 19(3), a second appeal lies to the Central Information Commission or State Information Commission, as applicable, within 90 days from the date on which the first appellate decision should have been made or was received. Delay may be condoned for sufficient cause.",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA108",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the time limit for deciding a first appeal under the RTI Act?",
+      "options": {
+        "A": "Within 30 days of receipt, extendable to a total of 45 days for reasons recorded in writing under Section 19(6)",
+        "B": "Within 90 days",
+        "C": "Within 48 hours",
+        "D": "Within 15 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "A first appeal should be disposed of within 30 days of receipt, extendable to a total of 45 days for reasons recorded in writing under Section 19(6).",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA109",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the time limit for deciding a second appeal under the RTI Act?",
+      "options": {
+        "A": "Within 90 days, with extension for reasons recorded in writing under Section 19(9)",
+        "B": "Within 30 days",
+        "C": "Within 45 days",
+        "D": "Within 48 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "A second appeal should be disposed of within 90 days, with extension for reasons recorded in writing under Section 19(9).",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA110",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major exemption under Section 8 of the RTI Act?",
+      "options": {
+        "A": "Information affecting sovereignty and security, information forbidden by a court, parliamentary privilege, commercial confidence and trade secrets, fiduciary information and personal information protected as amended",
+        "B": "All information relating to government expenditure",
+        "C": "All information relating to citizens' welfare schemes",
+        "D": "All information published on government websites"
+      },
+      "correctAnswer": "A",
+      "explanation": "Exemptions under Section 8 include information affecting sovereignty and security; information forbidden by a court or whose disclosure may constitute contempt; parliamentary or legislative privilege; commercial confidence, trade secrets or intellectual property where protected interests would be harmed, subject to public-interest override; fiduciary information, subject to public-interest override; information received in confidence from foreign governments; information endangering life or safety or identifying confidential sources; information impeding investigation or prosecution; Cabinet papers subject to statutory conditions; and personal information protected by the Act as amended.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA111",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the public-interest override under Section 8(2) of the RTI Act?",
+      "options": {
+        "A": "A public authority may allow access to exempt information where public interest in disclosure outweighs the harm to the protected interests, subject to the Act and other applicable legal restrictions",
+        "B": "All exempt information must always be disclosed",
+        "C": "All exempt information must always be withheld",
+        "D": "The public interest override applies only to personal information"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 8(2), a public authority may allow access to exempt information where public interest in disclosure outweighs the harm to the protected interests, subject to the Act and other applicable legal restrictions.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA112",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the severability principle under Section 10 of the RTI Act?",
+      "options": {
+        "A": "If only part of a record is exempt, the non-exempt portion may be disclosed after severing or redacting the exempt portion",
+        "B": "If any part of a record is exempt, the entire record must be withheld",
+        "C": "Severability applies only to personal information",
+        "D": "Severability means the applicant must file separate applications for each part"
+      },
+      "correctAnswer": "A",
+      "explanation": "If only part of a record is exempt, the non-exempt portion may be disclosed after severing or redacting the exempt portion, with the applicant informed of the decision and reasons as required by law.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA113",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the Central Information Commission (CIC)?",
+      "options": {
+        "A": "It hears second appeals and complaints relating to Central public authorities, exercises powers under the RTI Act, may require steps to secure compliance, and can impose statutory penalties on PIOs",
+        "B": "It conducts elections to the Lok Sabha",
+        "C": "It issues currency notes",
+        "D": "It appoints judges to the Supreme Court"
+      },
+      "correctAnswer": "A",
+      "explanation": "The CIC hears second appeals and complaints relating to Central public authorities, exercises powers under the RTI Act, may require steps to secure compliance, and can impose statutory penalties on PIOs in appropriate cases.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA114",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the Karnataka State Information Commission?",
+      "options": {
+        "A": "It hears second appeals and complaints concerning public authorities within the State's jurisdiction and exercises powers under the RTI Act, including inquiry and penalty powers",
+        "B": "It hears appeals from the Supreme Court",
+        "C": "It issues directions to the President of India",
+        "D": "It conducts elections to the State Legislature"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka State Information Commission hears second appeals and complaints concerning public authorities within the State's jurisdiction and exercises powers under the RTI Act, including inquiry and penalty powers as prescribed by law.",
+      "source": "Public Administration Notes, Section I"
+    },
+        {
+      "id": "PA115",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What penalty can be imposed on a PIO under Section 20 of the RTI Act?",
+      "options": {
+        "A": "₹250 per day for delay, subject to a maximum of ₹25,000, where the statutory grounds are established",
+        "B": "₹500 per day with no maximum limit",
+        "C": "₹1,000 per day subject to a maximum of ₹50,000",
+        "D": "Imprisonment for one year without any fine"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Information Commission may impose a penalty of ₹250 per day for delay, subject to a maximum of ₹25,000, where the statutory grounds are established, such as refusal without reasonable cause, malafide denial, knowingly incorrect or misleading information, destruction of information or obstruction. The PIO must be given a reasonable opportunity of being heard.",
+      "source": "Public Administration Notes, Section I and Section K"
+    },
+    {
+      "id": "PA116",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can the Information Commission recommend disciplinary action against a PIO?",
+      "options": {
+        "A": "Yes, under Section 20(2), where the Commission is of the opinion that the PIO has persistently and without reasonable cause committed specified misconduct, it may recommend disciplinary action under the applicable service rules",
+        "B": "No, the Commission can only impose fines",
+        "C": "Yes, but only the Supreme Court can recommend disciplinary action",
+        "D": "No, disciplinary action can only be taken by the PIO's family"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 20(2), where the Commission is of the opinion that the PIO has persistently and without reasonable cause committed specified misconduct, it may recommend disciplinary action under the applicable service rules.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA117",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the proactive disclosure obligation under Section 4 of the RTI Act?",
+      "options": {
+        "A": "Public authorities must maintain records appropriately and proactively publish specified organisational, functional, decision-making, financial and other information so that citizens need not file RTI applications for routine information",
+        "B": "Public authorities must publish all information only when an RTI application is filed",
+        "C": "Public authorities must destroy old records every year",
+        "D": "Public authorities must publish only information relating to foreign affairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public authorities must maintain records appropriately and proactively publish specified organisational, functional, decision-making, financial and other information so that citizens need not file RTI applications for routine information. The disclosures should be updated at regular intervals.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA118",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is a PIO generally required to create new information, conduct research or draw inferences under the RTI Act?",
+      "options": {
+        "A": "No, the Act provides access to information that exists and is held by or under the control of a public authority; a PIO is not generally required to create new information or provide explanations not held on record",
+        "B": "Yes, the PIO must always create new information",
+        "C": "Yes, but only for Central Government authorities",
+        "D": "Yes, but only for State Government authorities"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Act provides access to information that exists and is held by or under the control of a public authority. A PIO is not generally required to create new information, conduct research, draw inferences or provide explanations that are not held on record.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA119",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between the RTI Act and the Official Secrets Act, 1923?",
+      "options": {
+        "A": "Section 22 of the RTI Act gives the RTI Act overriding effect over inconsistent provisions of the Official Secrets Act and other laws, subject to the RTI Act's own exemptions and restrictions",
+        "B": "The Official Secrets Act completely overrides the RTI Act",
+        "C": "Both Acts are identical in scope",
+        "D": "The RTI Act does not apply to any matter covered by the Official Secrets Act"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 22 of the RTI Act gives the RTI Act overriding effect over inconsistent provisions of the Official Secrets Act and other laws, subject to the RTI Act's own exemptions and restrictions.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA120",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between the RTI Act and the Digital Personal Data Protection Act, 2023?",
+      "options": {
+        "A": "The DPDP Act, 2023 amended the personal-information exemption in Section 8(1)(j) of the RTI Act; for examination purposes, the amended statutory text in force must be used",
+        "B": "The DPDP Act repealed the RTI Act entirely",
+        "C": "The RTI Act overrides the DPDP Act completely",
+        "D": "The DPDP Act has no effect on the RTI Act"
+      },
+      "correctAnswer": "A",
+      "explanation": "The DPDP Act, 2023 amended the personal-information exemption in Section 8(1)(j) of the RTI Act. For examination purposes, use the amended statutory text in force, not older notes reproducing the pre-amendment wording. The interaction of privacy and transparency must be assessed under the current law and constitutional principles.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA121",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Act establishes the right to information in India?",
+      "options": {
+        "A": "The Right to Information Act, 2005",
+        "B": "The Official Secrets Act, 1923",
+        "C": "The Digital Personal Data Protection Act, 2023",
+        "D": "The Karnataka Lokayukta Act, 1984"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Right to Information Act, 2005 establishes the right to information in India.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA122",
+      "subject": "Public Administration",
+      "topic": "Right to Information Act, 2005",
+      "chapter": "Right to Information Act, 2005",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which amendment to the RTI Act relates to the personal-information exemption under Section 8(1)(j)?",
+      "options": {
+        "A": "The Digital Personal Data Protection Act, 2023",
+        "B": "The 104th Constitutional Amendment",
+        "C": "The Official Secrets (Amendment) Act",
+        "D": "The Karnataka Guarantee of Services to Citizens Act, 2011"
+      },
+      "correctAnswer": "A",
+      "explanation": "The DPDP Act, 2023 amended the personal-information exemption in Section 8(1)(j) of the RTI Act. Always study the current bare Act and applicable rules, not outdated summaries.",
+      "source": "Public Administration Notes, Section I and Important legal update"
+    },
+    {
+      "id": "PA123",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are administrative reforms?",
+      "options": {
+        "A": "Planned changes in government structures, procedures, personnel systems, technology, accountability and service delivery intended to improve efficiency, effectiveness, integrity, responsiveness and public trust",
+        "B": "Changes made only to private companies",
+        "C": "Abolition of all government departments",
+        "D": "Increases in the number of government holidays"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administrative reforms are planned changes in government structures, procedures, personnel systems, technology, accountability and service delivery intended to improve efficiency, effectiveness, integrity, responsiveness and public trust.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA124",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are administrative reforms necessary?",
+      "options": {
+        "A": "They address delays, red tape, corruption, duplication, weak accountability, outdated procedures, poor service quality, skills gaps, fiscal constraints and changing public expectations",
+        "B": "To increase bureaucratic delays",
+        "C": "To reduce public participation",
+        "D": "To eliminate all laws"
+      },
+      "correctAnswer": "A",
+      "explanation": "Administrative reforms are necessary because they address delays, red tape, corruption, duplication, weak accountability, outdated procedures, poor service quality, skills gaps, fiscal constraints and changing public expectations.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA125",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the First Administrative Reforms Commission (ARC) established?",
+      "options": {
+        "A": "January 1966",
+        "B": "2005",
+        "C": "1947",
+        "D": "2011"
+      },
+      "correctAnswer": "A",
+      "explanation": "The First Administrative Reforms Commission (ARC) was established in January 1966 to examine the public administration of India and recommend reforms for improving efficiency and standards. It submitted 20 reports covering major areas of administration.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA126",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many reports did the First Administrative Reforms Commission submit?",
+      "options": {
+        "A": "20 reports",
+        "B": "15 reports",
+        "C": "10 reports",
+        "D": "25 reports"
+      },
+      "correctAnswer": "A",
+      "explanation": "The First Administrative Reforms Commission submitted 20 reports covering major areas of administration.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA127",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the Second Administrative Reforms Commission constituted?",
+      "options": {
+        "A": "2005",
+        "B": "1966",
+        "C": "2011",
+        "D": "2020"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second ARC was constituted in 2005 under the chairmanship of Veerappa Moily. It submitted 15 reports on subjects including ethics, local governance, e-governance, financial management, citizen-centric administration, personnel administration and crisis management.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA128",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who chaired the Second Administrative Reforms Commission?",
+      "options": {
+        "A": "Veerappa Moily",
+        "B": "B. R. Ambedkar",
+        "C": "Rajendra Prasad",
+        "D": "Sardar Patel"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second ARC was constituted in 2005 under the chairmanship of Veerappa Moily.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA129",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many reports did the Second Administrative Reforms Commission submit?",
+      "options": {
+        "A": "15 reports",
+        "B": "20 reports",
+        "C": "10 reports",
+        "D": "25 reports"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second ARC submitted 15 reports on subjects including ethics, local governance, e-governance, financial management, citizen-centric administration, personnel administration and crisis management.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA130",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Second ARC report titled 'Right to Information: Master Key to Good Governance'?",
+      "options": {
+        "A": "It examined how transparency and access to information could strengthen accountability and improve governance",
+        "B": "It recommended the repeal of the RTI Act",
+        "C": "It dealt only with foreign policy",
+        "D": "It proposed the abolition of the Information Commissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second ARC's report titled 'Right to Information: Master Key to Good Governance' examined how transparency and access to information could strengthen accountability and improve governance.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA131",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the concept of 'minimum government, maximum governance'?",
+      "options": {
+        "A": "A reform-oriented expression emphasising simpler procedures, reduced unnecessary controls, improved public service delivery, technology-enabled administration and greater focus on outcomes",
+        "B": "A constitutional doctrine mandating the abolition of government",
+        "C": "A law passed by Parliament",
+        "D": "A scheme to reduce the number of citizens"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is a reform-oriented expression emphasising simpler procedures, reduced unnecessary controls, improved public service delivery, technology-enabled administration and greater focus on outcomes. It is a policy slogan rather than a constitutional doctrine.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA132",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is mission-mode administration?",
+      "options": {
+        "A": "Organising a programme around clearly defined goals, timelines, leadership, resources, measurable milestones and monitoring mechanisms to achieve specific public outcomes",
+        "B": "Administration by military officers",
+        "C": "Administration without any goals",
+        "D": "Administration that ignores timelines"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mission-mode administration organises a programme around clearly defined goals, timelines, leadership, resources, measurable milestones and monitoring mechanisms to achieve specific public outcomes.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA133",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Sevottam model?",
+      "options": {
+        "A": "A framework for improving public service delivery through three interconnected elements: effective Citizen's Charters, effective public grievance redressal and excellence in service delivery capability",
+        "B": "A model for tax collection",
+        "C": "A model for conducting elections",
+        "D": "A model for judicial appointments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sevottam is a framework for improving public service delivery through three interconnected elements: effective Citizen's Charters, effective public grievance redressal and excellence in service delivery capability.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA134",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three broad components of the Sevottam model?",
+      "options": {
+        "A": "Citizen's Charters, public grievance redressal and service delivery capability",
+        "B": "Taxation, expenditure and audit",
+        "C": "Legislature, executive and judiciary",
+        "D": "Planning, implementing and evaluating"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three broad components of Sevottam are Citizen's Charters, public grievance redressal and service delivery capability.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA135",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of capacity building in administrative reform?",
+      "options": {
+        "A": "Capacity building develops the knowledge, skills, attitudes, leadership and institutional systems required for public servants to perform effectively",
+        "B": "Capacity building refers to constructing new office buildings",
+        "C": "Capacity building refers to increasing the number of government holidays",
+        "D": "Capacity building refers to reducing the number of public servants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capacity building develops the knowledge, skills, attitudes, leadership and institutional systems required for public servants to perform effectively. It includes training, competency frameworks, learning systems and performance support.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA136",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Mission Karmayogi?",
+      "options": {
+        "A": "The National Programme for Civil Services Capacity Building launched in 2020 to move civil-service capacity building towards a role-based, competency-driven and continuous learning approach",
+        "B": "A programme to construct new Parliament buildings",
+        "C": "A scheme for providing pensions to civil servants",
+        "D": "A programme to reduce the number of civil servants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mission Karmayogi, the National Programme for Civil Services Capacity Building, was launched in 2020 to move civil-service capacity building towards a role-based, competency-driven and continuous learning approach. The iGOT Karmayogi digital platform supports learning and capacity development.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA137",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year was Mission Karmayogi launched?",
+      "options": {
+        "A": "2020",
+        "B": "2015",
+        "C": "2005",
+        "D": "2011"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mission Karmayogi, the National Programme for Civil Services Capacity Building, was launched in 2020.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA138",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which digital platform supports Mission Karmayogi?",
+      "options": {
+        "A": "iGOT Karmayogi",
+        "B": "CPGRAMS",
+        "C": "Sakala",
+        "D": "Digital India"
+      },
+      "correctAnswer": "A",
+      "explanation": "The iGOT Karmayogi digital platform supports learning and capacity development under Mission Karmayogi.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA139",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the Right to Public Services approach?",
+      "options": {
+        "A": "To make specified public services available within notified time limits and provide accountability or remedies for delay or denial, with States enacting service-guarantee laws",
+        "B": "To eliminate all public services",
+        "C": "To make public services available only to government employees",
+        "D": "To remove all time limits for public services"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Right to Public Services approach seeks to make specified public services available within notified time limits and provide accountability or remedies for delay or denial. States have enacted service-guarantee laws; Karnataka's Sakala framework is an example.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA140",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a common area of current administrative reform?",
+      "options": {
+        "A": "Process simplification, reduction of compliance burden, digitisation and interoperability, data protection and cybersecurity, transparent procurement, outcome budgeting, social audit and citizen feedback",
+        "B": "Increasing red tape and paperwork",
+        "C": "Reducing transparency",
+        "D": "Eliminating citizen participation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common areas of current administrative reform include process simplification; reduction of compliance burden; digitisation and interoperability; data protection and cybersecurity; transparent procurement; outcome budgeting; social audit; citizen feedback; time-bound grievance redressal; decentralisation; capacity building; and evidence-based policy evaluation.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA141",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Karnataka law provides time-bound delivery of notified citizen services?",
+      "options": {
+        "A": "The Karnataka Guarantee of Services to Citizens Act, 2011",
+        "B": "The Karnataka Lokayukta Act, 1984",
+        "C": "The Right to Information Act, 2005",
+        "D": "The Karnataka Police Act, 1963"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Guarantee of Services to Citizens Act, 2011, commonly associated with the Sakala initiative, provides time-bound delivery of notified citizen services.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA142",
+      "subject": "Public Administration",
+      "topic": "Administrative Reforms",
+      "chapter": "Administrative Reforms in India",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which law provides for the Karnataka Lokayukta?",
+      "options": {
+        "A": "The Karnataka Lokayukta Act, 1984, as amended",
+        "B": "The Karnataka Guarantee of Services to Citizens Act, 2011",
+        "C": "The Lokpal and Lokayuktas Act, 2013",
+        "D": "The Right to Information Act, 2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Lokayukta Act, 1984, as amended, provides for the Karnataka Lokayukta.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA143",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the key difference between an output and an outcome?",
+      "options": {
+        "A": "An output is the immediate product or service delivered by a programme; an outcome is the resulting change or benefit for the target population",
+        "B": "An output is the long-term benefit; an outcome is the immediate product",
+        "C": "Both terms mean the same thing",
+        "D": "An outcome refers only to financial expenditure"
+      },
+      "correctAnswer": "A",
+      "explanation": "An output is the immediate product or service delivered by a programme; an outcome is the resulting change or benefit for the target population.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA144",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the ordinary RTI response period and the life-or-liberty period?",
+      "options": {
+        "A": "Ordinarily 30 days; 48 hours where the information sought concerns the life or liberty of a person",
+        "B": "Ordinarily 48 hours; 30 days for life or liberty",
+        "C": "Ordinarily 90 days; 30 days for life or liberty",
+        "D": "Ordinarily 15 days; 7 days for life or liberty"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ordinarily 30 days; 48 hours where the information sought concerns the life or liberty of a person.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA145",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the RTI penalty for a PIO under Section 20?",
+      "options": {
+        "A": "₹250 per day, subject to a maximum of ₹25,000, where the statutory conditions are met",
+        "B": "₹500 per day with no maximum",
+        "C": "₹1,000 per day with a maximum of ₹50,000",
+        "D": "No penalty is prescribed"
+      },
+      "correctAnswer": "A",
+      "explanation": "The RTI penalty for a PIO under Section 20 is ₹250 per day, subject to a maximum of ₹25,000, where the statutory conditions are met.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA146",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is associated with the human relations approach and the Hawthorne studies?",
+      "options": {
+        "A": "Elton Mayo",
+        "B": "Max Weber",
+        "C": "F. W. Taylor",
+        "D": "Luther Gulick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elton Mayo is commonly associated with the human relations movement and interpretation of the Hawthorne studies.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA147",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is associated with the ideal-type theory of bureaucracy?",
+      "options": {
+        "A": "Max Weber",
+        "B": "F. W. Taylor",
+        "C": "Elton Mayo",
+        "D": "Luther Gulick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Max Weber is associated with the ideal-type theory of bureaucracy.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA148",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is associated with scientific management?",
+      "options": {
+        "A": "Frederick Winslow Taylor",
+        "B": "Max Weber",
+        "C": "Elton Mayo",
+        "D": "Luther Gulick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frederick Winslow Taylor is associated with scientific management.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA149",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the normal RTI response period?",
+      "options": {
+        "A": "30 days",
+        "B": "48 hours",
+        "C": "90 days",
+        "D": "15 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "The normal RTI response period is ordinarily 30 days.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA150",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the RTI response period where the information concerns the life or liberty of a person?",
+      "options": {
+        "A": "48 hours",
+        "B": "30 days",
+        "C": "24 hours",
+        "D": "7 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "Where the information sought concerns the life or liberty of a person, it must be provided within 48 hours.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA151",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Within what period must an RTI first appeal ordinarily be filed?",
+      "options": {
+        "A": "Within 30 days",
+        "B": "Within 90 days",
+        "C": "Within 48 hours",
+        "D": "Within 15 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 19(1), a first appeal may ordinarily be filed within 30 days.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA152",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Within what period must an RTI second appeal be filed?",
+      "options": {
+        "A": "Within 90 days",
+        "B": "Within 30 days",
+        "C": "Within 45 days",
+        "D": "Within 48 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Section 19(3), a second appeal lies within 90 days from the date on which the first appellate decision should have been made or was received.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA153",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the maximum penalty that can be imposed on a PIO under Section 20 of the RTI Act?",
+      "options": {
+        "A": "₹25,000",
+        "B": "₹50,000",
+        "C": "₹10,000",
+        "D": "₹1,00,000"
+      },
+      "correctAnswer": "A",
+      "explanation": "The penalty is ₹250 per day for delay, subject to a maximum of ₹25,000.",
+      "source": "Public Administration Notes, Section K"
+    },
+        {
+      "id": "PA154",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Karnataka law is commonly associated with the Sakala initiative?",
+      "options": {
+        "A": "The Karnataka Guarantee of Services to Citizens Act, 2011",
+        "B": "The Karnataka Lokayukta Act, 1984",
+        "C": "The Karnataka Panchayat Raj Act, 1993",
+        "D": "The Karnataka Police Act, 1963"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Guarantee of Services to Citizens Act, 2011 is commonly associated with the Sakala initiative for time-bound delivery of notified citizen services.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA155",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which law provides for the Karnataka Lokayukta?",
+      "options": {
+        "A": "The Karnataka Lokayukta Act, 1984, as amended",
+        "B": "The Lokpal and Lokayuktas Act, 2013",
+        "C": "The Karnataka Guarantee of Services to Citizens Act, 2011",
+        "D": "The Right to Information Act, 2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Lokayukta Act, 1984, as amended, provides for the Karnataka Lokayukta institution.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA156",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three broad components of the Sevottam model?",
+      "options": {
+        "A": "Citizen's Charters, public grievance redressal and service delivery capability",
+        "B": "Planning, organising and staffing",
+        "C": "Transparency, accountability and integrity",
+        "D": "Digitisation, digitalisation and digital transformation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three broad components of Sevottam are Citizen's Charters, public grievance redressal and service delivery capability.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA157",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is associated with the POSDCORB mnemonic?",
+      "options": {
+        "A": "Luther Gulick",
+        "B": "Max Weber",
+        "C": "Elton Mayo",
+        "D": "F. W. Taylor"
+      },
+      "correctAnswer": "A",
+      "explanation": "POSDCORB is a mnemonic associated with Luther Gulick describing major functions of an executive.",
+      "source": "Public Administration Notes, Section A and Section K"
+    },
+    {
+      "id": "PA158",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the First Administrative Reforms Commission established?",
+      "options": {
+        "A": "January 1966",
+        "B": "2005",
+        "C": "1947",
+        "D": "2011"
+      },
+      "correctAnswer": "A",
+      "explanation": "The First Administrative Reforms Commission was established in January 1966.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA159",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Second Administrative Reforms Commission constituted and who chaired it?",
+      "options": {
+        "A": "Constituted in 2005 and chaired by Veerappa Moily",
+        "B": "Constituted in 1966 and chaired by Morarji Desai",
+        "C": "Constituted in 2011 and chaired by Montek Singh Ahluwalia",
+        "D": "Constituted in 2020 and chaired by Amit Shah"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second ARC was constituted in 2005 under the chairmanship of Veerappa Moily.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA160",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the full form of Mission Karmayogi?",
+      "options": {
+        "A": "National Programme for Civil Services Capacity Building",
+        "B": "National Mission for Rural Employment",
+        "C": "National Programme for Digital India",
+        "D": "National Mission for Clean Ganga"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mission Karmayogi is the National Programme for Civil Services Capacity Building, launched in 2020.",
+      "source": "Public Administration Notes, Section J and Section K"
+    },
+    {
+      "id": "PA161",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Max Weber — Ideal-type bureaucracy",
+        "B": "Elton Mayo — Scientific management",
+        "C": "F. W. Taylor — Human relations approach",
+        "D": "Luther Gulick — Contingency approach"
+      },
+      "correctAnswer": "A",
+      "explanation": "Max Weber is associated with the ideal-type theory of bureaucracy. Elton Mayo is associated with the human relations approach, F. W. Taylor with scientific management and Luther Gulick with POSDCORB.",
+      "source": "Public Administration Notes, Section B and Section K"
+    },
+    {
+      "id": "PA162",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Sevottam — Citizen's Charters, grievance redressal and service delivery capability",
+        "B": "Sakala — Anti-corruption ombudsman",
+        "C": "Lokayukta — Time-bound service delivery",
+        "D": "CPGRAMS — Digital India programme"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sevottam comprises Citizen's Charters, public grievance redressal and service delivery capability. Sakala is Karnataka's time-bound service delivery framework; Lokayukta is an anti-corruption institution; CPGRAMS is a grievance redress platform.",
+      "source": "Public Administration Notes, Section H, Section J and Section K"
+    },
+    {
+      "id": "PA163",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "G2C — Government to Citizen",
+        "B": "G2B — Government to Government",
+        "C": "G2G — Government to Business",
+        "D": "G2E — Government to Electorate"
+      },
+      "correctAnswer": "A",
+      "explanation": "G2C means Government to Citizen; G2B means Government to Business; G2G means Government to Government; G2E means Government to Employee.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA164",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "RTI ordinary response — 30 days",
+        "B": "RTI life or liberty response — 30 days",
+        "C": "RTI first appeal — 90 days",
+        "D": "RTI PIO penalty — ₹500 per day"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ordinary RTI response period is 30 days; life or liberty response is 48 hours; first appeal is ordinarily within 30 days; PIO penalty is ₹250 per day, maximum ₹25,000.",
+      "source": "Public Administration Notes, Section K"
+    },
+    {
+      "id": "PA165",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Karnataka Sakala — Karnataka Guarantee of Services to Citizens Act, 2011",
+        "B": "Karnataka Lokayukta — Lokpal and Lokayuktas Act, 2013",
+        "C": "RTI Act — Received assent on 12 October 2005",
+        "D": "Mission Karmayogi — Launched in 2015"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sakala is under the Karnataka Guarantee of Services to Citizens Act, 2011. The Karnataka Lokayukta is under the Karnataka Lokayukta Act, 1984. The RTI Act received assent on 15 June 2005 and most provisions came into force on 12 October 2005. Mission Karmayogi was launched in 2020.",
+      "source": "Public Administration Notes, Section I, Section J and Section K"
+    },
+    {
+      "id": "PA166",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "First ARC — January 1966",
+        "B": "Second ARC — 1966",
+        "C": "Mission Karmayogi — 2005",
+        "D": "Digital India — 2006"
+      },
+      "correctAnswer": "A",
+      "explanation": "The First ARC was established in January 1966; the Second ARC in 2005; Mission Karmayogi in 2020; Digital India in 2015.",
+      "source": "Public Administration Notes, Section G, Section J and Section K"
+    },
+    {
+      "id": "PA167",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a principle of good governance?",
+      "options": {
+        "A": "Secrecy",
+        "B": "Transparency",
+        "C": "Accountability",
+        "D": "Responsiveness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Principles of good governance include participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision. Secrecy is not a principle of good governance.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA168",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a model of e-governance?",
+      "options": {
+        "A": "G2P (Government to Private)",
+        "B": "G2C (Government to Citizen)",
+        "C": "G2B (Government to Business)",
+        "D": "G2G (Government to Government)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main models of e-governance are G2C, G2B, G2G and G2E. G2P is not one of the recognised models in the notes.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA169",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT an essential element of delegation?",
+      "options": {
+        "A": "Transfer of ownership of the department",
+        "B": "Assignment of duties",
+        "C": "Grant of adequate authority",
+        "D": "Creation of accountability"
+      },
+      "correctAnswer": "A",
+      "explanation": "The essential elements of delegation are assignment of duties, grant of adequate authority and creation of accountability. Transfer of ownership is not an element of delegation.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA170",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a feature of Max Weber's ideal-type bureaucracy?",
+      "options": {
+        "A": "Recruitment based on family lineage",
+        "B": "Clear hierarchy of offices",
+        "C": "Written rules and records",
+        "D": "Impersonal, rule-based decision-making"
+      },
+      "correctAnswer": "A",
+      "explanation": "Weber's ideal-type bureaucracy features recruitment based on technical qualifications, not family lineage. Other features include clear hierarchy, written rules and records, specialisation, career service, separation of official position from personal ownership and impersonal rule-based decision-making.",
+      "source": "Public Administration Notes, Section B"
+    },
+    {
+      "id": "PA171",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT an exemption under Section 8 of the RTI Act?",
+      "options": {
+        "A": "Information relating to government expenditure on welfare schemes",
+        "B": "Information affecting sovereignty and security",
+        "C": "Commercial confidence and trade secrets",
+        "D": "Cabinet papers subject to statutory conditions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Information relating to government expenditure on welfare schemes is generally not exempt; exemptions under Section 8 include information affecting sovereignty and security, information forbidden by a court, parliamentary privilege, commercial confidence, fiduciary information, foreign government confidences, information endangering life or safety, investigation-related information, Cabinet papers and personal information as amended.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA172",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a stage of an effective grievance redressal system?",
+      "options": {
+        "A": "Destroying complaints without recording them",
+        "B": "Accessible complaint registration",
+        "C": "Acknowledgement and tracking",
+        "D": "Time-bound decision"
+      },
+      "correctAnswer": "A",
+      "explanation": "An effective grievance redressal system includes accessible complaint registration, acknowledgement and tracking, assignment to a responsible authority, investigation, time-bound decision, communication of reasons and outcome, appeal or review where available and analysis of recurring complaints. Destroying complaints is not a stage.",
+      "source": "Public Administration Notes, Section H"
+    },
+    {
+      "id": "PA173",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a commonly recognised principle of good governance?",
+      "options": {
+        "A": "Arbitrary rule",
+        "B": "Rule of law",
+        "C": "Participation",
+        "D": "Equity and inclusiveness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Commonly recognised principles of good governance include participation, rule of law, transparency, responsiveness, consensus orientation, equity and inclusiveness, effectiveness and efficiency, accountability and strategic vision. Arbitrary rule is the opposite of good governance.",
+      "source": "Public Administration Notes, Section F"
+    },
+    {
+      "id": "PA174",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a benefit of e-governance?",
+      "options": {
+        "A": "Increased physical paperwork",
+        "B": "Reduced transaction time and costs",
+        "C": "Improved access to information",
+        "D": "Standardised procedures"
+      },
+      "correctAnswer": "A",
+      "explanation": "Benefits of e-governance include reduced transaction time and costs, improved access to information, standardised procedures, online applications and payments, digital records, improved tracking and data-informed decisions. Increased physical paperwork is not a benefit.",
+      "source": "Public Administration Notes, Section G"
+    },
+    {
+      "id": "PA175",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a limitation of excessive hierarchy?",
+      "options": {
+        "A": "Improved speed of decision-making",
+        "B": "Delays",
+        "C": "Rigid procedures",
+        "D": "Communication distortion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Limitations of excessive hierarchy include delays, rigid procedures, communication distortion, excessive centralisation, reluctance to take initiative and distance between senior decision-makers and citizens. Improved speed of decision-making is not a limitation.",
+      "source": "Public Administration Notes, Section C"
+    },
+    {
+      "id": "PA176",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a method of administrative coordination?",
+      "options": {
+        "A": "Maintaining complete secrecy between departments",
+        "B": "Cabinet and committee systems",
+        "C": "Inter-departmental meetings",
+        "D": "Joint task forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methods of administrative coordination include Cabinet and committee systems, inter-departmental meetings, nodal departments, common guidelines, joint task forces, shared databases, integrated plans and budgets, review mechanisms and clearly assigned lead agencies. Maintaining secrecy between departments is not a coordination method.",
+      "source": "Public Administration Notes, Section D"
+    },
+    {
+      "id": "PA177",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a major form of public accountability?",
+      "options": {
+        "A": "Accountability to foreign governments",
+        "B": "Political accountability to elected representatives",
+        "C": "Financial accountability through audit",
+        "D": "Social accountability through citizens and media"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major forms of public accountability include political accountability to elected representatives, administrative accountability through supervision, legal accountability through courts, financial accountability through audit and legislative committees, and social accountability through citizens, media, public hearings and community monitoring. Accountability to foreign governments is not a major form in the notes.",
+      "source": "Public Administration Notes, Section E"
+    },
+    {
+      "id": "PA178",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a feature of the Right to Information Act, 2005?",
+      "options": {
+        "A": "It requires the PIO to create new information on request",
+        "B": "It provides access to information held by public authorities",
+        "C": "It provides for first and second appeals",
+        "D": "It provides for penalties on PIOs for delay"
+      },
+      "correctAnswer": "A",
+      "explanation": "The RTI Act provides access to information that exists and is held by or under the control of a public authority. A PIO is not generally required to create new information, conduct research, draw inferences or provide explanations not held on record.",
+      "source": "Public Administration Notes, Section I"
+    },
+    {
+      "id": "PA179",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a common area of current administrative reform?",
+      "options": {
+        "A": "Increasing compliance burden",
+        "B": "Process simplification",
+        "C": "Digitisation and interoperability",
+        "D": "Outcome budgeting"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common areas of current administrative reform include process simplification, reduction of compliance burden, digitisation and interoperability, data protection and cybersecurity, transparent procurement, outcome budgeting, social audit, citizen feedback, time-bound grievance redressal, decentralisation, capacity building and evidence-based policy evaluation. Increasing compliance burden is not a reform area.",
+      "source": "Public Administration Notes, Section J"
+    },
+    {
+      "id": "PA180",
+      "subject": "Public Administration",
+      "topic": "Quick Revision - Concepts and Statutory References",
+      "chapter": "Quick Revision - Concepts and Statutory References",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a difference between Public Administration and Private Administration?",
+      "options": {
+        "A": "Public Administration is always illegal, while Private Administration is always legal",
+        "B": "Public Administration operates primarily for public interest, while Private Administration generally operates for commercial objectives",
+        "C": "Public Administration is accountable to citizens and elected institutions, while Private Administration is accountable to private owners",
+        "D": "Public Administration is subject to constitutional and legal controls, while Private Administration operates within private ownership"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public Administration operates primarily for public interest, is subject to constitutional and legal controls and is accountable to citizens and elected institutions. Private Administration generally operates within private ownership and commercial objectives. The statement that Public Administration is always illegal is incorrect.",
+      "source": "Public Administration Notes, Section A"
+    }
+  ]
+}

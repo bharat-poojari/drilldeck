@@ -1,0 +1,4006 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Climate chapter question bank derived point-by-point from Climate.pdf (FDA/SDA Competitive Examination Notes). Every distinct point converted once; no duplicates. Verify against latest official publications before formal use.",
+  "questions": [
+    {
+      "id": "CL001",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is weather?",
+      "options": {
+        "A": "The long-term statistical pattern of atmospheric conditions over 30 years",
+        "B": "The day-to-day condition of the atmosphere at a particular place and time",
+        "C": "The average rainfall of a region over a decade",
+        "D": "The permanent climatic zone of a region"
+      },
+      "correctAnswer": "B",
+      "explanation": "Weather is the day-to-day condition of the atmosphere at a particular place and time, described through temperature, rainfall, humidity, wind, cloud cover and atmospheric pressure.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL002",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Climate is the long-term statistical pattern of weather conditions in a region, usually assessed over what period?",
+      "options": {"A": "10 years", "B": "20 years", "C": "30 years", "D": "50 years"},
+      "correctAnswer": "C",
+      "explanation": "Climate is usually assessed over a 30-year period.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL003",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a climate normal?",
+      "options": {
+        "A": "A single year's weather record",
+        "B": "A standard average of a climate variable calculated over a 30-year reference period",
+        "C": "The maximum temperature ever recorded",
+        "D": "A daily weather forecast"
+      },
+      "correctAnswer": "B",
+      "explanation": "A climate normal is a standard average of a climate variable calculated over a 30-year reference period.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL004",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following best states the difference between weather and climate?",
+      "options": {
+        "A": "Weather is long-term; climate is short-term",
+        "B": "Weather describes short-term atmospheric conditions; climate describes long-term patterns, averages, variability and extremes",
+        "C": "Both are identical concepts",
+        "D": "Weather refers only to rainfall; climate refers only to temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Weather describes short-term atmospheric conditions; climate describes long-term patterns, averages, variability and extremes.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL005",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is NOT a major element of climate?",
+      "options": {"A": "Temperature", "B": "Humidity", "C": "Cloud cover", "D": "Population density"},
+      "correctAnswer": "D",
+      "explanation": "Major elements of climate are temperature, atmospheric pressure, wind, humidity, precipitation, cloud cover and sunshine.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL006",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a factor controlling the climate of a place?",
+      "options": {"A": "Latitude", "B": "Altitude", "C": "Distance from the sea", "D": "Currency of the region"},
+      "correctAnswer": "D",
+      "explanation": "Factors include latitude, altitude, distance from the sea, ocean currents, prevailing winds, relief/topography, vegetation and human land-use changes.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL007",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the greenhouse effect?",
+      "options": {
+        "A": "The cooling of Earth's surface by atmospheric gases",
+        "B": "The natural process in which greenhouse gases absorb and re-emit outgoing infrared radiation, keeping Earth's surface warmer",
+        "C": "The reflection of sunlight by clouds",
+        "D": "The depletion of the ozone layer by CFCs"
+      },
+      "correctAnswer": "B",
+      "explanation": "The greenhouse effect is the natural process in which greenhouse gases absorb and re-emit outgoing infrared radiation, keeping Earth's surface warmer than it would otherwise be.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL008",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the natural greenhouse effect harmful?",
+      "options": {
+        "A": "Yes, it makes Earth uninhabitable",
+        "B": "No, it makes Earth habitable; the enhanced greenhouse effect causes additional warming",
+        "C": "Yes, it causes all climate change",
+        "D": "No, it has no effect on temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "The natural greenhouse effect makes Earth habitable; the enhanced greenhouse effect caused by rising greenhouse-gas concentrations leads to additional warming.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL009",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is climate variability?",
+      "options": {
+        "A": "A permanent shift in climate",
+        "B": "Natural or human-influenced fluctuations in climate conditions over seasons, years or decades",
+        "C": "The average temperature of a region",
+        "D": "A single extreme weather event"
+      },
+      "correctAnswer": "B",
+      "explanation": "Climate variability refers to natural or human-influenced fluctuations in climate conditions over seasons, years or decades, such as variations in monsoon rainfall.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL010",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a climate extreme?",
+      "options": {
+        "A": "The average weather of a region",
+        "B": "An unusually rare or severe value of a weather or climate variable compared with its local historical range",
+        "C": "A 30-year climate normal",
+        "D": "A seasonal monsoon pattern"
+      },
+      "correctAnswer": "B",
+      "explanation": "A climate extreme is an unusually rare or severe value of a weather or climate variable compared with its local historical range, such as an extreme heatwave or intense rainfall.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL011",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Climate: Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between climate change and climate variability?",
+      "options": {
+        "A": "They are exact synonyms",
+        "B": "Climate variability refers to fluctuations around the climate average; climate change refers to a persistent shift in the average state or variability over an extended period",
+        "C": "Climate change is short-term; variability is long-term",
+        "D": "Variability occurs only due to human activity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Climate variability refers to fluctuations around the climate average; climate change refers to a persistent shift in the average state or variability of climate over an extended period.",
+      "source": "Climate.pdf §1.1"
+    },
+    {
+      "id": "CL012",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is climate change?",
+      "options": {
+        "A": "A short-term weather fluctuation",
+        "B": "A long-term change in the state of the climate, identifiable through changes in the mean and/or variability of its properties, persisting for decades or longer",
+        "C": "A daily change in temperature",
+        "D": "A seasonal monsoon variation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Climate change is a long-term change in the state of the climate, identifiable through changes in the mean and/or variability of its properties, persisting for decades or longer.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL013",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is anthropogenic climate change?",
+      "options": {
+        "A": "Climate change caused by volcanic eruptions",
+        "B": "Climate change caused by human activities, especially greenhouse-gas emissions",
+        "C": "Natural climate variability",
+        "D": "Climate change caused by solar cycles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anthropogenic climate change is caused by human activities, especially greenhouse-gas emissions from fossil fuels, industry, agriculture, deforestation and land-use change.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL014",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which human activity is the largest source of carbon dioxide emissions globally?",
+      "options": {
+        "A": "Rice cultivation",
+        "B": "Combustion of fossil fuels and industrial processes",
+        "C": "Waste disposal",
+        "D": "Livestock digestion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The combustion of fossil fuels and industrial processes, particularly energy production, transport and industry, is the largest source of CO₂ emissions globally.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL015",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is deforestation's contribution to climate change?",
+      "options": {
+        "A": "It increases carbon absorption by forests",
+        "B": "It releases stored carbon, reduces the capacity of forests to absorb CO₂ and can alter local rainfall, temperature and water cycles",
+        "C": "It has no effect on climate",
+        "D": "It only affects biodiversity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deforestation releases stored carbon, reduces the capacity of forests to absorb carbon dioxide and can alter local rainfall, temperature and water cycles.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL016",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the main evidence of climate change?",
+      "options": {
+        "A": "Rising global average temperatures, warming oceans, melting glaciers and sea-level rise",
+        "B": "A single cold wave",
+        "C": "Daily weather forecasts",
+        "D": "A one-year rainfall deficit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Main evidence includes rising global average temperatures, warming oceans, melting glaciers and ice sheets, shrinking snow cover, sea-level rise, changing precipitation patterns and shifts in some extreme events and ecosystems.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL017",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is ocean acidification?",
+      "options": {
+        "A": "An increase in ocean pH",
+        "B": "A decrease in ocean pH caused mainly by the absorption of atmospheric carbon dioxide",
+        "C": "An increase in ocean salinity",
+        "D": "A decrease in ocean temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ocean acidification is a decrease in ocean pH caused mainly by the absorption of atmospheric carbon dioxide, which forms carbonic acid in seawater.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL018",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is ocean deoxygenation?",
+      "options": {
+        "A": "An increase in dissolved oxygen in oceans",
+        "B": "A decline in dissolved oxygen in ocean waters, associated with warming, stratification and changes in circulation and biological processes",
+        "C": "The formation of oxygen in the ocean",
+        "D": "A decrease in ocean salinity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ocean deoxygenation is a decline in dissolved oxygen in ocean waters, associated with warming, stratification and changes in ocean circulation and biological processes.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL019",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sea-level rise mainly caused by?",
+      "options": {
+        "A": "Increased rainfall on land",
+        "B": "Thermal expansion of warming seawater and addition of water from melting glaciers and ice sheets",
+        "C": "Increased ocean salinity",
+        "D": "Decreased ocean temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sea-level rise is mainly due to thermal expansion of warming seawater and the addition of water from melting glaciers and ice sheets.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL020",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a climate tipping point?",
+      "options": {
+        "A": "A point where climate stops changing",
+        "B": "A critical threshold beyond which a component of the Earth system may shift into a substantially different state with self-reinforcing, difficult-to-reverse consequences",
+        "C": "The highest temperature ever recorded",
+        "D": "A point where greenhouse gases are eliminated"
+      },
+      "correctAnswer": "B",
+      "explanation": "A climate tipping point is a critical threshold beyond which a component of the Earth system may shift into a substantially different state, potentially with self-reinforcing and difficult-to-reverse consequences.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL021",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is climate feedback?",
+      "options": {
+        "A": "A process that amplifies or reduces an initial climate change",
+        "B": "A weather forecast",
+        "C": "A climate normal",
+        "D": "A greenhouse gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "A climate feedback is a process that amplifies or reduces an initial climate change; positive feedback amplifies the change, while negative feedback counteracts it.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL022",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the ice-albedo feedback?",
+      "options": {
+        "A": "Melting ice exposes darker surfaces that absorb more solar energy, causing further warming and additional melting",
+        "B": "Ice reflects more sunlight as it melts",
+        "C": "Ice formation cools the ocean",
+        "D": "Snowfall increases albedo permanently"
+      },
+      "correctAnswer": "A",
+      "explanation": "Melting ice exposes darker land or ocean surfaces that absorb more solar energy, causing further warming and additional melting.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL023",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is carbon sequestration?",
+      "options": {
+        "A": "The release of carbon dioxide into the atmosphere",
+        "B": "The capture and long-term storage of carbon dioxide in forests, soils, geological formations or other reservoirs",
+        "C": "The burning of fossil fuels",
+        "D": "The formation of carbon monoxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon sequestration is the capture and long-term storage of carbon dioxide in forests, soils, geological formations or other reservoirs.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL024",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a carbon sink?",
+      "options": {
+        "A": "A reservoir that absorbs more carbon than it releases over a given period",
+        "B": "A reservoir that releases more carbon than it absorbs",
+        "C": "A source of fossil fuels",
+        "D": "A type of greenhouse gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "A carbon sink is a natural or artificial reservoir that absorbs more carbon than it releases over a given period, such as a growing forest or some ocean systems.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL025",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a carbon source?",
+      "options": {
+        "A": "A reservoir that absorbs more carbon than it releases",
+        "B": "A process or reservoir that releases more carbon into the atmosphere than it absorbs over a specified period",
+        "C": "A type of carbon sink",
+        "D": "A greenhouse gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "A carbon source is a process or reservoir that releases more carbon into the atmosphere than it absorbs over a specified period.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL026",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Climate Change: Meaning and Causes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between mitigation and adaptation?",
+      "options": {
+        "A": "Mitigation adjusts to impacts; adaptation reduces emissions",
+        "B": "Mitigation reduces greenhouse-gas emissions or increases removals; adaptation adjusts human and natural systems to actual or expected climate impacts",
+        "C": "Both mean the same",
+        "D": "Mitigation is only for developed countries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mitigation reduces greenhouse-gas emissions or increases removals; adaptation adjusts human and natural systems to actual or expected climate impacts.",
+      "source": "Climate.pdf §2.1"
+    },
+    {
+      "id": "CL027",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are greenhouse gases (GHGs)?",
+      "options": {
+        "A": "Atmospheric gases that absorb and re-emit infrared radiation, contributing to the greenhouse effect",
+        "B": "Gases that deplete the ozone layer only",
+        "C": "Gases that cause acid rain only",
+        "D": "Gases that form clouds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greenhouse gases are atmospheric gases that absorb and re-emit infrared radiation, contributing to the greenhouse effect.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL028",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a major greenhouse gas listed in the notes?",
+      "options": {"A": "Carbon dioxide", "B": "Methane", "C": "Nitrous oxide", "D": "Carbon monoxide"},
+      "correctAnswer": "D",
+      "explanation": "Major GHGs are CO₂, CH₄, N₂O, water vapour, ozone and fluorinated gases such as HFCs, PFCs, SF₆ and NF₃.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL029",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which greenhouse gas is most associated with fossil-fuel combustion?",
+      "options": {"A": "Methane", "B": "Carbon dioxide", "C": "Nitrous oxide", "D": "Ozone"},
+      "correctAnswer": "B",
+      "explanation": "Carbon dioxide is most associated with fossil-fuel combustion.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL030",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major source of methane?",
+      "options": {
+        "A": "Livestock digestion and manure, rice cultivation, landfills, wastewater, coal mining and oil-and-gas extraction",
+        "B": "Cement calcination only",
+        "C": "Nitrogen fertiliser application only",
+        "D": "Volcanic eruptions only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major methane sources include livestock digestion and manure, rice cultivation, landfills, wastewater, coal mining and oil-and-gas extraction and distribution.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL031",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major sources of nitrous oxide?",
+      "options": {
+        "A": "Agricultural soils and nitrogen fertilisers, manure management, some industrial processes and fuel combustion",
+        "B": "Rice cultivation only",
+        "C": "Deforestation only",
+        "D": "Ocean absorption only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major sources of nitrous oxide are agricultural soils and nitrogen fertilisers, manure management, some industrial processes and fuel combustion.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL032",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which greenhouse gas is emitted in large quantities from cement manufacture?",
+      "options": {"A": "Methane", "B": "Carbon dioxide", "C": "Nitrous oxide", "D": "Sulphur hexafluoride"},
+      "correctAnswer": "B",
+      "explanation": "Carbon dioxide is released both from fuel use and from the chemical calcination of limestone in cement manufacture.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL033",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is global warming potential (GWP)?",
+      "options": {
+        "A": "A measure of how much heat a greenhouse gas traps over a specified time horizon relative to the same mass of carbon dioxide",
+        "B": "The total amount of a gas in the atmosphere",
+        "C": "The lifetime of a gas in the atmosphere",
+        "D": "The temperature of the gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "GWP is a measure of how much heat a greenhouse gas traps over a specified time horizon relative to the same mass of carbon dioxide.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL034",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is carbon dioxide equivalent (CO₂e)?",
+      "options": {
+        "A": "A unit that expresses the warming impact of different greenhouse gases as an equivalent amount of carbon dioxide",
+        "B": "The mass of carbon in a fuel",
+        "C": "The amount of CO₂ dissolved in oceans",
+        "D": "A measure of ocean acidity"
+      },
+      "correctAnswer": "A",
+      "explanation": "CO₂e is a common unit that expresses the warming impact of different greenhouse gases as an equivalent amount of carbon dioxide.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL035",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Greenhouse Gases",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Is water vapour the main driver of current human-caused global warming?",
+      "options": {
+        "A": "Yes, it is the primary driver",
+        "B": "No, water vapour is an important greenhouse gas and climate feedback, but the long-term rise is driven primarily by human emissions of long-lived greenhouse gases, especially CO₂",
+        "C": "Yes, because it is the most abundant gas",
+        "D": "No, water vapour has no greenhouse effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water vapour is an important greenhouse gas and climate feedback, but the long-term rise in global temperature is driven primarily by human emissions of long-lived greenhouse gases, especially CO₂.",
+      "source": "Climate.pdf §2.2"
+    },
+    {
+      "id": "CL036",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does climate change affect agriculture?",
+      "options": {
+        "A": "It improves all crop yields uniformly",
+        "B": "It can alter growing seasons, crop yields, pest and disease patterns, soil moisture, irrigation demand and monsoon reliability",
+        "C": "It has no effect on agriculture",
+        "D": "It only affects livestock"
+      },
+      "correctAnswer": "B",
+      "explanation": "Climate change can alter growing seasons, crop yields, pest and disease patterns, soil moisture, irrigation demand and the reliability of monsoon rainfall.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL037",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does climate change affect water resources?",
+      "options": {
+        "A": "It changes rainfall and runoff patterns, increases evaporation, affects groundwater recharge and snow/glacier melt, and can intensify both drought and flood risks",
+        "B": "It increases water availability everywhere",
+        "C": "It has no effect on groundwater",
+        "D": "It only affects oceans"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate change changes rainfall and runoff patterns, increases evaporation, affects groundwater recharge and snow/glacier melt, and can intensify both drought and flood risks.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL038",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does climate change affect human health?",
+      "options": {
+        "A": "It reduces all health risks",
+        "B": "It increases heat stress and can worsen risks from vector-borne and water-borne diseases, malnutrition, respiratory illness and disaster-related injuries",
+        "C": "It only affects mental health",
+        "D": "It has no health effects"
+      },
+      "correctAnswer": "B",
+      "explanation": "Climate change increases heat stress and can worsen risks from vector-borne and water-borne diseases, malnutrition, respiratory illness and disaster-related injuries.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL039",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does climate change affect biodiversity?",
+      "options": {
+        "A": "It shifts habitats and species ranges, alters breeding and migration cycles, increases stress on ecosystems and can raise extinction risks",
+        "B": "It increases biodiversity everywhere",
+        "C": "It has no effect on species",
+        "D": "It only affects marine species"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate change shifts habitats and species ranges, alters breeding and migration cycles, increases stress on ecosystems and can raise extinction risks.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL040",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does climate change affect coastal areas?",
+      "options": {
+        "A": "Sea-level rise, coastal erosion, saltwater intrusion, storm surges and changing marine ecosystems can threaten settlements, agriculture, infrastructure and livelihoods",
+        "B": "It expands coastal land area",
+        "C": "It has no effect on coastal areas",
+        "D": "It only affects tourism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sea-level rise, coastal erosion, saltwater intrusion, storm surges and changing marine ecosystems can threaten settlements, agriculture, infrastructure and livelihoods.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL041",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How does climate change affect the Himalayan region?",
+      "options": {
+        "A": "It contributes to glacier and snow changes, altered water availability, slope instability and risks from glacial lake outburst floods",
+        "B": "It has no effect on Himalayan glaciers",
+        "C": "It only increases snowfall",
+        "D": "It stabilises slopes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate change contributes to glacier and snow changes, altered water availability, slope instability and risks from glacial lake outburst floods, alongside other regional drivers.",
+      "source": "Climate.pdf §2.3"
+    },
+        {
+      "id": "CL042",
+      "subject": "General Knowledge",
+      "topic": "Climate Change",
+      "chapter": "Impacts of Climate Change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can climate change cause both droughts and floods?",
+      "options": {
+        "A": "No, it causes only droughts",
+        "B": "No, it causes only floods",
+        "C": "Yes; a warmer atmosphere can intensify the hydrological cycle, producing longer dry spells in some periods or places and heavier downpours in others",
+        "D": "No, droughts and floods are unrelated to climate"
+      },
+      "correctAnswer": "C",
+      "explanation": "A warmer atmosphere can intensify the hydrological cycle, while changing circulation and rainfall patterns can produce longer dry spells in some periods or places and heavier downpours in others.",
+      "source": "Climate.pdf §2.3"
+    },
+    {
+      "id": "CL043",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is global warming?",
+      "options": {
+        "A": "The long-term rise in Earth's average surface temperature, primarily due to the enhanced greenhouse effect caused by human activities",
+        "B": "A short-term heatwave",
+        "C": "The cooling of Earth's surface",
+        "D": "A seasonal temperature variation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Global warming is the long-term rise in Earth's average surface temperature, primarily due to the enhanced greenhouse effect caused by human activities.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL044",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is global warming different from climate change?",
+      "options": {
+        "A": "They are exact synonyms",
+        "B": "Global warming refers specifically to the increase in average temperature; climate change is broader and includes changes in rainfall, winds, oceans, ice, sea level and extremes",
+        "C": "Global warming is broader than climate change",
+        "D": "Climate change refers only to temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Global warming refers specifically to the increase in average temperature; climate change is broader and includes changes in rainfall, winds, oceans, ice, sea level and extremes.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL045",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which pre-industrial reference period is commonly used in climate discussions?",
+      "options": {"A": "1750–1800", "B": "1850–1900", "C": "1900–1950", "D": "1950–2000"},
+      "correctAnswer": "B",
+      "explanation": "The period 1850–1900 is commonly used as an approximation of pre-industrial global temperature.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL046",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Paris Agreement temperature goal?",
+      "options": {
+        "A": "To hold the increase to well below 2°C above pre-industrial levels and pursue efforts to limit it to 1.5°C",
+        "B": "To limit warming to 3°C",
+        "C": "To eliminate all warming immediately",
+        "D": "To allow 4°C of warming"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Paris Agreement aims to hold the increase in global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit it to 1.5°C.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL047",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the 1.5°C limit important?",
+      "options": {
+        "A": "Every additional increment of warming increases risks; limiting warming to 1.5°C rather than 2°C reduces many climate-related risks and impacts, though it does not eliminate them",
+        "B": "It eliminates all climate risks",
+        "C": "It has no scientific basis",
+        "D": "It applies only to developed countries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every additional increment of warming increases risks; limiting warming to 1.5°C rather than 2°C reduces many climate-related risks and impacts, though it does not eliminate them.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL048",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a heatwave?",
+      "options": {
+        "A": "A period of abnormally high temperatures relative to local climatological conditions, lasting several days",
+        "B": "A single hot day",
+        "C": "A period of unusually low temperatures",
+        "D": "A type of cyclone"
+      },
+      "correctAnswer": "A",
+      "explanation": "A heatwave is a period of abnormally high temperatures relative to the local climatological conditions, lasting for several days; operational criteria are defined by the national meteorological agency.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL049",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does a cold wave disprove global warming?",
+      "options": {
+        "A": "Yes, cold waves prove Earth is cooling",
+        "B": "No, global warming concerns long-term global averages; cold events can still occur in particular regions and seasons",
+        "C": "Yes, cold waves are incompatible with warming",
+        "D": "No, because cold waves do not exist"
+      },
+      "correctAnswer": "B",
+      "explanation": "Global warming concerns long-term global averages; cold events can still occur in particular regions and seasons.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL050",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the urban heat island effect?",
+      "options": {
+        "A": "The tendency of built-up urban areas to be warmer than nearby rural areas because of heat-absorbing surfaces, reduced vegetation, waste heat and urban form",
+        "B": "The cooling of cities relative to rural areas",
+        "C": "A type of tropical cyclone",
+        "D": "A phenomenon occurring only in coastal cities"
+      },
+      "correctAnswer": "A",
+      "explanation": "The urban heat island effect is the tendency of built-up urban areas to be warmer than nearby rural areas because of heat-absorbing surfaces, reduced vegetation, waste heat and urban form.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL051",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is black carbon?",
+      "options": {
+        "A": "A light-absorbing component of particulate matter produced by incomplete combustion that contributes to atmospheric warming and can accelerate snow and ice melt",
+        "B": "A greenhouse gas",
+        "C": "A type of cloud",
+        "D": "A component of ocean water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Black carbon is a light-absorbing component of particulate matter produced by incomplete combustion; it contributes to atmospheric warming and can accelerate snow and ice melt when deposited on them.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL052",
+      "subject": "General Knowledge",
+      "topic": "Global Warming",
+      "chapter": "Global Warming: Meaning and Mechanisms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of oceans in global warming?",
+      "options": {
+        "A": "Oceans absorb most of the excess heat accumulated in the climate system and a substantial share of human-emitted carbon dioxide",
+        "B": "Oceans release all their heat to the atmosphere",
+        "C": "Oceans do not interact with the climate system",
+        "D": "Oceans absorb no carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oceans absorb most of the excess heat accumulated in the climate system and a substantial share of human-emitted carbon dioxide, influencing climate and sea level.",
+      "source": "Climate.pdf §3.1"
+    },
+    {
+      "id": "CL053",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the UNFCCC?",
+      "options": {
+        "A": "The United Nations Framework Convention on Climate Change, adopted in 1992 and in force since 1994",
+        "B": "A 2015 treaty",
+        "C": "An Indian climate law",
+        "D": "A World Bank fund"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UNFCCC was adopted in 1992 at the Rio Earth Summit and entered into force in 1994; it provides the main international framework for climate negotiations.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL054",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the ultimate objective of the UNFCCC?",
+      "options": {
+        "A": "To stabilise greenhouse-gas concentrations in the atmosphere at a level that prevents dangerous anthropogenic interference with the climate system",
+        "B": "To eliminate all greenhouse gases immediately",
+        "C": "To promote fossil fuel use",
+        "D": "To create a world government"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ultimate objective of the UNFCCC is to stabilise greenhouse-gas concentrations in the atmosphere at a level that prevents dangerous anthropogenic interference with the climate system.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL055",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Kyoto Protocol?",
+      "options": {
+        "A": "A 1997 protocol to the UNFCCC that established legally binding emission-reduction targets for developed-country Parties",
+        "B": "A 2015 treaty",
+        "C": "An Indian law",
+        "D": "A climate fund"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kyoto Protocol is a 1997 protocol to the UNFCCC that established legally binding emission-reduction targets for developed-country Parties during its commitment periods.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL056",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The Paris Agreement was adopted at COP21 in which year?",
+      "options": {"A": "2012", "B": "2015", "C": "2018", "D": "2020"},
+      "correctAnswer": "B",
+      "explanation": "The Paris Agreement was adopted at COP21 in Paris in 2015 and entered into force in 2016.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL057",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Nationally Determined Contributions (NDCs)?",
+      "options": {
+        "A": "National climate action plans submitted by Parties under the Paris Agreement, setting out mitigation and, where appropriate, adaptation commitments",
+        "B": "Binding emission targets for developed countries only",
+        "C": "A World Bank lending programme",
+        "D": "A type of carbon tax"
+      },
+      "correctAnswer": "A",
+      "explanation": "NDCs are national climate action plans submitted by Parties under the Paris Agreement, setting out their mitigation and, where appropriate, adaptation commitments.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL058",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is COP in climate negotiations?",
+      "options": {
+        "A": "The Conference of the Parties, the supreme decision-making body of the UNFCCC",
+        "B": "A carbon offset programme",
+        "C": "A type of greenhouse gas",
+        "D": "A World Meteorological Organization report"
+      },
+      "correctAnswer": "A",
+      "explanation": "COP is the Conference of the Parties, the supreme decision-making body of the UNFCCC.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL059",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where was COP28 held in 2023?",
+      "options": {"A": "Baku, Azerbaijan", "B": "Dubai, United Arab Emirates", "C": "Belem, Brazil", "D": "Glasgow, UK"},
+      "correctAnswer": "B",
+      "explanation": "COP28 was held in Dubai, United Arab Emirates, in 2023.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL060",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where was COP29 held in 2024?",
+      "options": {"A": "Dubai, UAE", "B": "Baku, Azerbaijan", "C": "Belem, Brazil", "D": "Paris, France"},
+      "correctAnswer": "B",
+      "explanation": "COP29 was held in Baku, Azerbaijan, in 2024.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL061",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where was COP30 held in 2025?",
+      "options": {"A": "Dubai, UAE", "B": "Baku, Azerbaijan", "C": "Belem, Brazil", "D": "New Delhi, India"},
+      "correctAnswer": "C",
+      "explanation": "COP30 was held in Belem, Brazil, in 2025.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL062",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the principle of Common but Differentiated Responsibilities and Respective Capabilities (CBDR-RC)?",
+      "options": {
+        "A": "All countries share responsibility, but responsibilities and efforts should reflect differences in historical contributions, national circumstances and capabilities",
+        "B": "All countries have identical responsibilities",
+        "C": "Only developed countries are responsible",
+        "D": "Only developing countries are responsible"
+      },
+      "correctAnswer": "A",
+      "explanation": "All countries share responsibility for addressing climate change, but responsibilities and efforts should reflect differences in historical contributions, national circumstances and capabilities.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL063",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is climate finance?",
+      "options": {
+        "A": "Financial resources provided or mobilised to support mitigation and adaptation actions, particularly in developing countries",
+        "B": "A tax on carbon emissions",
+        "C": "Funding for fossil fuel projects",
+        "D": "A stock market index"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate finance refers to financial resources provided or mobilised to support mitigation and adaptation actions, particularly in developing countries.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL064",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is loss and damage in climate policy?",
+      "options": {
+        "A": "Climate-related harms that occur when mitigation and adaptation are insufficient or limits are reached, including economic and non-economic losses",
+        "B": "The cost of mitigation measures",
+        "C": "Insurance premiums for developed countries",
+        "D": "A type of carbon credit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loss and damage refers to climate-related harms that occur when mitigation and adaptation are insufficient or limits are reached; they may include economic and non-economic losses.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL065",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Green Climate Fund (GCF)?",
+      "options": {
+        "A": "An international climate fund established under the UNFCCC to support developing countries in low-emission and climate-resilient development",
+        "B": "A World Bank fossil fuel fund",
+        "C": "An Indian government scheme",
+        "D": "A private equity fund"
+      },
+      "correctAnswer": "A",
+      "explanation": "The GCF is an international climate fund established under the UNFCCC to support developing countries in low-emission and climate-resilient development.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL066",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Intergovernmental Panel on Climate Change (IPCC)?",
+      "options": {
+        "A": "The UN body established in 1988 by WMO and UNEP to assess scientific knowledge on climate change",
+        "B": "A 2015 treaty",
+        "C": "An Indian ministry",
+        "D": "A private research institute"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IPCC is the UN body established in 1988 by the World Meteorological Organization and the United Nations Environment Programme to assess scientific knowledge on climate change.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL067",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "International Climate Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the IPCC conduct its own climate experiments?",
+      "options": {
+        "A": "Yes, it runs global climate models",
+        "B": "No, it assesses and synthesises published scientific literature and does not normally conduct original research or monitor climate directly",
+        "C": "Yes, it monitors weather stations worldwide",
+        "D": "Yes, it launches satellites"
+      },
+      "correctAnswer": "B",
+      "explanation": "The IPCC assesses and synthesises published scientific literature; it does not normally conduct original research or monitor climate directly.",
+      "source": "Climate.pdf §3.2"
+    },
+    {
+      "id": "CL068",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an extreme weather event?",
+      "options": {
+        "A": "A weather event that is rare or unusually severe for a particular place and time of year",
+        "B": "A normal seasonal weather pattern",
+        "C": "A daily weather forecast",
+        "D": "A 30-year climate normal"
+      },
+      "correctAnswer": "A",
+      "explanation": "An extreme weather event is a weather event that is rare or unusually severe for a particular place and time of year, such as a heatwave, intense rainfall, cyclone, drought or severe storm.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL069",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT listed as a major type of extreme weather event?",
+      "options": {"A": "Heatwaves", "B": "Cloudbursts", "C": "Storm surges", "D": "Earthquakes"},
+      "correctAnswer": "D",
+      "explanation": "Listed types include heatwaves, cold waves, heavy rainfall, floods, droughts, tropical cyclones, thunderstorms, lightning, hailstorms, cloudbursts, storm surges and rainfall-triggered landslides. Earthquakes are not weather events.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL070",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a cloudburst?",
+      "options": {
+        "A": "An episode of exceptionally intense rainfall over a small area in a short period; the IMD operational threshold is about 100 mm or more in one hour",
+        "B": "A sudden decrease in rainfall",
+        "C": "A type of cyclone",
+        "D": "A prolonged drought"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cloudburst is an episode of exceptionally intense rainfall over a small area in a short period; the commonly used IMD operational threshold is about 100 mm or more in one hour.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL071",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a tropical cyclone?",
+      "options": {
+        "A": "A rotating low-pressure weather system developing over warm tropical or subtropical waters, with organised thunderstorms and strong winds",
+        "B": "A high-pressure system over cold waters",
+        "C": "A type of drought",
+        "D": "A cloudburst"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tropical cyclone is a rotating low-pressure weather system developing over warm tropical or subtropical waters, with organised thunderstorms and strong winds.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL072",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a storm surge?",
+      "options": {
+        "A": "An abnormal rise of sea level near a coast caused mainly by a cyclone's strong winds and low atmospheric pressure",
+        "B": "A sudden drop in sea level",
+        "C": "A type of ocean current",
+        "D": "A rainfall event"
+      },
+      "correctAnswer": "A",
+      "explanation": "A storm surge is an abnormal rise of sea level near a coast caused mainly by a cyclone's strong winds and low atmospheric pressure.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL073",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is lightning?",
+      "options": {
+        "A": "A sudden electrostatic discharge occurring within clouds, between clouds or between a cloud and the ground",
+        "B": "A type of rainfall",
+        "C": "A wind pattern",
+        "D": "A pressure system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lightning is a sudden electrostatic discharge occurring within clouds, between clouds or between a cloud and the ground.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL074",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a thunderstorm?",
+      "options": {
+        "A": "A storm associated with cumulonimbus clouds, usually accompanied by lightning and thunder, and possibly heavy rain, gusty winds or hail",
+        "B": "A type of drought",
+        "C": "A cloudburst",
+        "D": "A storm surge"
+      },
+      "correctAnswer": "A",
+      "explanation": "A thunderstorm is a storm associated with cumulonimbus clouds and usually accompanied by lightning and thunder; it may also produce heavy rain, gusty winds or hail.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL075",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a landslide?",
+      "options": {
+        "A": "The downward movement of rock, soil or debris under gravity; intense rainfall, slope cutting, earthquakes and land-use change can trigger or worsen it",
+        "B": "An upward movement of land",
+        "C": "A type of flood",
+        "D": "A wind storm"
+      },
+      "correctAnswer": "A",
+      "explanation": "A landslide is the downward movement of rock, soil or debris under gravity; intense rainfall, slope cutting, earthquakes and land-use change can trigger or worsen it.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL076",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an El Niño event?",
+      "options": {
+        "A": "A periodic warming of the central and eastern equatorial Pacific Ocean that can influence global weather patterns, including the Indian monsoon",
+        "B": "A periodic cooling of the Pacific Ocean",
+        "C": "A warming of the Indian Ocean",
+        "D": "A type of tropical cyclone"
+      },
+      "correctAnswer": "A",
+      "explanation": "El Niño is a periodic warming of the central and eastern equatorial Pacific Ocean that can influence global weather patterns, including the Indian monsoon.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL077",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is La Niña?",
+      "options": {
+        "A": "A periodic cooling of the central and eastern equatorial Pacific Ocean, often associated with different global circulation patterns from El Niño",
+        "B": "A warming of the Pacific Ocean",
+        "C": "A warming of the Indian Ocean",
+        "D": "A type of drought"
+      },
+      "correctAnswer": "A",
+      "explanation": "La Niña is a periodic cooling of the central and eastern equatorial Pacific Ocean, often associated with different global circulation patterns from El Niño.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL078",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Does El Niño always cause drought in India?",
+      "options": {
+        "A": "Yes, always",
+        "B": "No; it raises the probability of a weaker Indian summer monsoon in many years, but the actual outcome also depends on other ocean-atmosphere factors and regional conditions",
+        "C": "No, it always causes floods",
+        "D": "Yes, but only in winter"
+      },
+      "correctAnswer": "B",
+      "explanation": "El Niño raises the probability of a weaker Indian summer monsoon in many years, but the actual outcome also depends on other ocean-atmosphere factors and regional conditions.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL079",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Indian Ocean Dipole (IOD)?",
+      "options": {
+        "A": "A climate pattern involving differences in sea-surface temperatures between the western and eastern tropical Indian Ocean, whose phases can influence monsoon rainfall",
+        "B": "A type of tropical cyclone",
+        "C": "A Pacific Ocean pattern",
+        "D": "A type of drought index"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IOD is a climate pattern involving differences in sea-surface temperatures between the western and eastern tropical Indian Ocean; its positive and negative phases can influence monsoon rainfall.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL080",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Madden-Julian Oscillation (MJO)?",
+      "options": {
+        "A": "A large-scale eastward-moving pattern of tropical rainfall and atmospheric circulation that can influence monsoon activity and tropical cyclone formation",
+        "B": "A type of drought index",
+        "C": "A Pacific Ocean temperature pattern",
+        "D": "A cyclone warning system"
+      },
+      "correctAnswer": "A",
+      "explanation": "The MJO is a large-scale eastward-moving pattern of tropical rainfall and atmospheric circulation that can influence monsoon activity and tropical cyclone formation.",
+      "source": "Climate.pdf §4.1"
+    },
+    {
+      "id": "CL081",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which agency is India's principal national weather forecasting authority?",
+      "options": {
+        "A": "The India Meteorological Department (IMD), under the Ministry of Earth Sciences",
+        "B": "The Central Water Commission",
+        "C": "The National Disaster Management Authority",
+        "D": "ISRO"
+      },
+      "correctAnswer": "A",
+      "explanation": "The India Meteorological Department (IMD), under the Ministry of Earth Sciences, is India's principal national weather forecasting authority.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL082",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which agency coordinates disaster management at the national level in India?",
+      "options": {
+        "A": "The National Disaster Management Authority (NDMA), established under the Disaster Management Act, 2005",
+        "B": "The IMD",
+        "C": "The CWC",
+        "D": "NITI Aayog"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NDMA, established under the Disaster Management Act, 2005, coordinates disaster management at the national level.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL083",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the IMD in extreme-weather management?",
+      "options": {
+        "A": "It monitors weather, issues forecasts and warnings for cyclones, heavy rainfall, heatwaves and thunderstorms, and provides meteorological information to authorities and the public",
+        "B": "It declares drought in states",
+        "C": "It provides river-flood forecasts",
+        "D": "It conducts rescue operations"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IMD monitors weather, issues forecasts and warnings for events such as cyclones, heavy rainfall, heatwaves and thunderstorms, and provides meteorological information to authorities and the public.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL084",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the IMD's colour-coded warning system, what does 'red' indicate?",
+      "options": {
+        "A": "No warning",
+        "B": "Watch/be aware",
+        "C": "Alert/be prepared",
+        "D": "Warning/take action"
+      },
+      "correctAnswer": "D",
+      "explanation": "Green = no warning; yellow = watch/be aware; orange = alert/be prepared; red = warning/take action. The hazard-specific message must always be read with the colour.",
+      "source": "Climate.pdf §4.2"
+    },
+        {
+      "id": "CL085",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which parts of Karnataka are vulnerable to intense monsoon rainfall and floods?",
+      "options": {
+        "A": "The coastal belt, Western Ghats and adjoining Malnad districts",
+        "B": "The semi-arid interior districts only",
+        "C": "Only Bengaluru",
+        "D": "Only the northern dry districts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The coastal belt, Western Ghats and adjoining Malnad districts are particularly exposed to heavy monsoon rainfall, flash floods and landslides.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL086",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which parts of Karnataka are relatively drought-prone?",
+      "options": {
+        "A": "The coastal belt and Western Ghats",
+        "B": "The rain-shadow and semi-arid interior districts, particularly parts of northern and eastern Karnataka",
+        "C": "Only Bengaluru",
+        "D": "The Malnad region"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rain-shadow and semi-arid interior districts, particularly parts of northern and eastern Karnataka, are vulnerable to recurrent rainfall deficits and agricultural drought.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL087",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Bengaluru vulnerable to urban flooding?",
+      "options": {
+        "A": "Rapid urbanisation, encroachment or loss of lake and wetland systems, reduced infiltration, obstruction of natural drainage, impervious surfaces and intense short-duration rainfall can combine to cause urban floods",
+        "B": "Because it receives the highest rainfall in India",
+        "C": "Because it is located on the coast",
+        "D": "Because it has no drainage systems at all"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rapid urbanisation, encroachment or loss of lake and wetland systems, reduced infiltration, obstruction of natural drainage, impervious surfaces and intense short-duration rainfall can combine to cause urban floods.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL088",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the urban heat island concern in Bengaluru?",
+      "options": {
+        "A": "Dense construction, traffic, waste heat, reduced tree cover and extensive paved surfaces can increase local heat exposure",
+        "B": "Bengaluru is cooler than surrounding rural areas",
+        "C": "Bengaluru has no heat exposure",
+        "D": "The urban heat island effect occurs only in coastal cities"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dense construction, traffic, waste heat, reduced tree cover and extensive paved surfaces can increase local heat exposure in Bengaluru.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL089",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Karnataka region is especially vulnerable to coastal climate risks?",
+      "options": {
+        "A": "The Arabian Sea coastal districts of Dakshina Kannada, Udupi and Uttara Kannada",
+        "B": "The Deccan interior districts",
+        "C": "The Malnad region",
+        "D": "The Kolar plateau"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Arabian Sea coastal districts of Dakshina Kannada, Udupi and Uttara Kannada face risks including coastal erosion, sea-level rise, storm impacts and saline intrusion.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL090",
+      "subject": "General Knowledge",
+      "topic": "Extreme Weather",
+      "chapter": "Extreme Weather in India and Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why are the Western Ghats environmentally important in climate regulation?",
+      "options": {
+        "A": "They influence orographic rainfall, support high biodiversity, regulate catchments and provide ecosystem services important for water security and climate resilience",
+        "B": "They are the largest desert in India",
+        "C": "They have no role in rainfall",
+        "D": "They are located in the Bay of Bengal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Western Ghats influence orographic rainfall, support high biodiversity, regulate catchments and provide ecosystem services important for water security and climate resilience.",
+      "source": "Climate.pdf §4.2"
+    },
+    {
+      "id": "CL091",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is drought?",
+      "options": {
+        "A": "A prolonged period of abnormally low water availability caused by a rainfall deficit and/or increased water demand",
+        "B": "A single day without rain",
+        "C": "A long-term climatic characteristic of a dry region",
+        "D": "A type of flood"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought is a prolonged period of abnormally low water availability caused by a rainfall deficit and/or increased water demand, affecting water resources, agriculture, ecosystems and society.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL092",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meteorological drought?",
+      "options": {
+        "A": "A situation in which precipitation is significantly below the long-term normal for a specified period and area",
+        "B": "Insufficient soil moisture during the growing season",
+        "C": "A prolonged deficiency in surface water and groundwater",
+        "D": "A water shortage affecting economic activity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meteorological drought is a situation in which precipitation is significantly below the long-term normal for a specified period and area.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL093",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is agricultural drought?",
+      "options": {
+        "A": "A situation in which soil moisture is insufficient to meet crop water requirements during the growing season",
+        "B": "A rainfall deficit over a large area",
+        "C": "A deficiency in river flows and reservoir storage",
+        "D": "An ecosystem water deficit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agricultural drought is a situation in which soil moisture is insufficient to meet crop water requirements during the growing season.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL094",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is hydrological drought?",
+      "options": {
+        "A": "A prolonged deficiency in surface water and groundwater levels, including low river flows, reservoir storage and aquifer levels",
+        "B": "A rainfall deficit over a small area",
+        "C": "Insufficient soil moisture for crops",
+        "D": "A water shortage affecting livelihoods"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrological drought is a prolonged deficiency in surface water and groundwater levels, including low river flows, reservoir storage and aquifer levels.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL095",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is socio-economic drought?",
+      "options": {
+        "A": "A situation in which water shortage affects the supply of goods and services, livelihoods and economic activity",
+        "B": "A rainfall deficit",
+        "C": "An ecosystem water deficit",
+        "D": "A soil moisture deficit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Socio-economic drought is a situation in which water shortage affects the supply of goods and services, livelihoods and economic activity.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL096",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is ecological drought?",
+      "options": {
+        "A": "A prolonged and widespread deficit in naturally available water that creates ecosystem stress and threatens ecological functions",
+        "B": "A rainfall deficit over a city",
+        "C": "A soil moisture deficit in farmland",
+        "D": "A groundwater deficit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ecological drought is a prolonged and widespread deficit in naturally available water that creates ecosystem stress and threatens ecological functions.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL097",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is flash drought?",
+      "options": {
+        "A": "A rapid-onset drought that develops over a short period, often due to unusually high temperatures, low rainfall and rapid soil-moisture loss",
+        "B": "A drought that lasts for decades",
+        "C": "A drought caused only by groundwater depletion",
+        "D": "A drought affecting only coastal areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flash drought is a rapid-onset drought that develops over a short period, often due to unusually high temperatures, low rainfall and rapid soil-moisture loss.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL098",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a major cause of drought listed in the notes?",
+      "options": {
+        "A": "Deficient or delayed rainfall",
+        "B": "High temperatures and evaporation",
+        "C": "Unsustainable groundwater extraction",
+        "D": "Excessive snowfall"
+      },
+      "correctAnswer": "D",
+      "explanation": "Major causes include deficient or delayed rainfall, prolonged dry spells, high temperatures and evaporation, El Niño-related circulation patterns, land degradation, deforestation, unsustainable groundwater extraction and poor water management.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL099",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between drought and aridity?",
+      "options": {
+        "A": "Drought is a temporary or episodic water deficit; aridity is a long-term climatic characteristic of a dry region",
+        "B": "Drought is long-term; aridity is temporary",
+        "C": "They are exact synonyms",
+        "D": "Aridity occurs only in coastal areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought is a temporary or episodic water deficit; aridity is a long-term climatic characteristic of a dry region.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL100",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between drought and famine?",
+      "options": {
+        "A": "Drought is a climatic or hydrological hazard; famine is an extreme human food-security crisis that may arise from drought and other factors, including conflict, poverty and market failure",
+        "B": "Drought and famine are the same",
+        "C": "Famine is a climatic hazard; drought is a food crisis",
+        "D": "Drought always causes famine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought is a climatic or hydrological hazard; famine is an extreme human food-security crisis that may arise from drought and other factors, including conflict, poverty and market failure.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL101",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Standardised Precipitation Index (SPI)?",
+      "options": {
+        "A": "An index that expresses observed precipitation deficits or surpluses relative to the historical probability distribution for a chosen time scale",
+        "B": "An index that considers precipitation and atmospheric evaporative demand",
+        "C": "A measure of soil moisture only",
+        "D": "A measure of river flow"
+      },
+      "correctAnswer": "A",
+      "explanation": "SPI expresses observed precipitation deficits or surpluses relative to the historical probability distribution for a chosen time scale.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL102",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Standardised Precipitation Evapotranspiration Index (SPEI)?",
+      "options": {
+        "A": "A drought index that considers the balance between precipitation and atmospheric evaporative demand",
+        "B": "An index based only on precipitation",
+        "C": "A measure of groundwater levels",
+        "D": "A measure of river discharge"
+      },
+      "correctAnswer": "A",
+      "explanation": "SPEI is a drought index that considers the balance between precipitation and atmospheric evaporative demand.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL103",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is evapotranspiration?",
+      "options": {
+        "A": "The combined transfer of water to the atmosphere through evaporation from surfaces and transpiration by plants",
+        "B": "The movement of water into the soil",
+        "C": "The flow of water in rivers",
+        "D": "The formation of groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "Evapotranspiration is the combined transfer of water to the atmosphere through evaporation from surfaces and transpiration by plants.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL104",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Meaning and Classification",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a rain-shadow region?",
+      "options": {
+        "A": "An area on the leeward side of a mountain range that receives less rainfall because much of the moist air has already lost its moisture on the windward side",
+        "B": "An area on the windward side of a mountain range",
+        "C": "A coastal area with heavy rainfall",
+        "D": "A region with high groundwater"
+      },
+      "correctAnswer": "A",
+      "explanation": "A rain-shadow region is an area on the leeward side of a mountain range that receives less rainfall because much of the moist air has already lost its moisture on the windward side.",
+      "source": "Climate.pdf §5.1"
+    },
+    {
+      "id": "CL105",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major effect of drought?",
+      "options": {
+        "A": "Crop failure, livestock distress, drinking-water shortages, groundwater depletion, food-price increases, rural unemployment, migration, malnutrition, ecosystem damage and conflict over scarce resources",
+        "B": "Increased groundwater recharge",
+        "C": "Improved crop yields",
+        "D": "Reduced food prices"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major effects include crop failure, livestock distress, drinking-water shortages, groundwater depletion, food-price increases, rural unemployment, migration, malnutrition, ecosystem damage and conflict over scarce resources.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL106",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does drought affect farmers?",
+      "options": {
+        "A": "It reduces soil moisture and crop yields, raises irrigation costs, increases crop failure risk and can lead to debt and loss of income",
+        "B": "It increases crop yields",
+        "C": "It has no financial impact",
+        "D": "It reduces irrigation costs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought reduces soil moisture and crop yields, raises irrigation costs, increases crop failure risk and can lead to debt and loss of income.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL107",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is drought preparedness?",
+      "options": {
+        "A": "Advance planning through monitoring, contingency crop plans, water budgeting, fodder banks, drinking-water arrangements, early warning and institutional coordination",
+        "B": "Responding only after a drought has occurred",
+        "C": "Ignoring drought risk",
+        "D": "Building embankments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought preparedness involves advance planning through monitoring, contingency crop plans, water budgeting, fodder banks, drinking-water arrangements, early warning and institutional coordination.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL108",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is watershed management?",
+      "options": {
+        "A": "Integrated management of land, water and vegetation within a drainage area to conserve soil and water, reduce runoff and improve local water availability",
+        "B": "Construction of large dams only",
+        "C": "Urban drainage management",
+        "D": "Coastal zone management"
+      },
+      "correctAnswer": "A",
+      "explanation": "Watershed management is the integrated management of land, water and vegetation within a drainage area to conserve soil and water, reduce runoff and improve local water availability.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL109",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do check dams help in drought-prone areas?",
+      "options": {
+        "A": "They slow surface runoff, reduce erosion and can improve local groundwater recharge where site conditions are suitable",
+        "B": "They increase surface runoff",
+        "C": "They reduce groundwater recharge",
+        "D": "They increase soil erosion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Check dams slow surface runoff, reduce erosion and can improve local groundwater recharge where site conditions are suitable.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL110",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does micro-irrigation help reduce drought vulnerability?",
+      "options": {
+        "A": "Drip and sprinkler systems can improve water-use efficiency and deliver water more precisely than many conventional surface-irrigation methods",
+        "B": "It increases water wastage",
+        "C": "It reduces water-use efficiency",
+        "D": "It requires more water than flood irrigation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drip and sprinkler systems can improve water-use efficiency and deliver water more precisely than many conventional surface-irrigation methods.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL111",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is drought-resistant agriculture?",
+      "options": {
+        "A": "Agricultural practices that reduce crop sensitivity to water stress through suitable varieties, crop diversification, soil-moisture conservation, altered sowing dates and efficient irrigation",
+        "B": "Farming that requires more water",
+        "C": "Farming only in coastal areas",
+        "D": "Farming without any soil conservation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought-resistant agriculture reduces crop sensitivity to water stress through suitable varieties, crop diversification, soil-moisture conservation, altered sowing dates and efficient irrigation.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL112",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is contingency crop planning?",
+      "options": {
+        "A": "Preparing alternative crop and farm-management options for delayed monsoon, long dry spells or other adverse seasonal conditions",
+        "B": "Planting only one crop every year",
+        "C": "Ignoring seasonal conditions",
+        "D": "Building embankments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Contingency crop planning involves preparing alternative crop and farm-management options for delayed monsoon, long dry spells or other adverse seasonal conditions.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL113",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of MGNREGA in drought resilience?",
+      "options": {
+        "A": "It can provide rural wage employment and support durable natural-resource assets such as water conservation, land development and soil-moisture works, subject to programme rules",
+        "B": "It provides crop insurance",
+        "C": "It issues drought declarations",
+        "D": "It provides river-flood forecasts"
+      },
+      "correctAnswer": "A",
+      "explanation": "MGNREGA can provide rural wage employment and support durable natural-resource assets such as water conservation, land development and soil-moisture works, subject to programme rules.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL114",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the National Disaster Management Authority in drought management?",
+      "options": {
+        "A": "It provides national-level disaster-management guidance and coordination; drought response also involves the agriculture, water, rural development and state authorities",
+        "B": "It declares drought in states",
+        "C": "It provides river-flood forecasts",
+        "D": "It conducts weather forecasting"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NDMA provides national-level disaster-management guidance and coordination; drought response also involves the agriculture, water, rural development and state authorities.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL115",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which authority is responsible for drought declaration in a state?",
+      "options": {
+        "A": "The State Government, based on prescribed assessment procedures and applicable central/state guidelines",
+        "B": "The IMD",
+        "C": "The CWC",
+        "D": "The IPCC"
+      },
+      "correctAnswer": "A",
+      "explanation": "The State Government declares drought-affected areas based on prescribed assessment procedures and applicable central/state guidelines; the Union Government has roles in assessment and assistance.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL116",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Drought: Impacts and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of drought early-warning systems?",
+      "options": {
+        "A": "They help governments, farmers and communities take preventive action before severe impacts occur, reducing crop losses and protecting drinking-water supplies",
+        "B": "They eliminate all drought impacts",
+        "C": "They increase drought severity",
+        "D": "They replace the need for water conservation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought early-warning systems help governments, farmers and communities take preventive action before severe impacts occur, reducing crop losses and protecting drinking-water supplies.",
+      "source": "Climate.pdf §5.2"
+    },
+    {
+      "id": "CL117",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a flood?",
+      "options": {
+        "A": "The inundation of normally dry land by water, often due to river overflow, intense rainfall, storm surge, dam or embankment failure, or inadequate urban drainage",
+        "B": "A prolonged period of low rainfall",
+        "C": "A type of drought",
+        "D": "A wind storm"
+      },
+      "correctAnswer": "A",
+      "explanation": "A flood is the inundation of normally dry land by water, often due to river overflow, intense rainfall, storm surge, dam or embankment failure, or inadequate urban drainage.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL118",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is riverine flooding?",
+      "options": {
+        "A": "Flooding that occurs when a river or stream exceeds its channel capacity and spreads onto adjacent land",
+        "B": "Flooding caused by intense rainfall before it reaches a river",
+        "C": "Flooding caused by storm surges",
+        "D": "Flooding caused by a dam break"
+      },
+      "correctAnswer": "A",
+      "explanation": "Riverine flooding occurs when a river or stream exceeds its channel capacity and spreads onto adjacent land.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL119",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is flash flooding?",
+      "options": {
+        "A": "A rapid rise of water, often within minutes or hours of intense rainfall, cloudbursts, dam releases or sudden drainage failure",
+        "B": "A slow-onset flood lasting weeks",
+        "C": "A coastal flood caused by tides",
+        "D": "A flood caused by snowmelt only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flash flooding is a rapid rise of water, often within minutes or hours of intense rainfall, cloudbursts, dam releases or sudden drainage failure.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL120",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is urban flooding?",
+      "options": {
+        "A": "Flooding in built-up areas when rainfall exceeds the capacity of drainage systems or water cannot infiltrate or flow away because of urban development and drainage obstruction",
+        "B": "Flooding caused by river overflow in rural areas",
+        "C": "Flooding caused by storm surges",
+        "D": "Flooding caused by glacial lake outbursts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urban flooding occurs in built-up areas when rainfall exceeds the capacity of drainage systems or water cannot infiltrate or flow away because of urban development and drainage obstruction.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL121",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is coastal flooding?",
+      "options": {
+        "A": "Inundation of coastal land due to storm surges, high tides, waves, sea-level rise or combinations of these factors",
+        "B": "Flooding caused by river overflow",
+        "C": "Flooding caused by urban drainage failure",
+        "D": "Flooding caused by a dam break"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coastal flooding is the inundation of coastal land due to storm surges, high tides, waves, sea-level rise or combinations of these factors.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL122",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a pluvial flood?",
+      "options": {
+        "A": "Flooding caused by intense rainfall accumulating over land before it reaches a river or other watercourse",
+        "B": "Flooding caused by rivers overflowing their banks",
+        "C": "Flooding caused by storm surges",
+        "D": "Flooding caused by a glacial lake outburst"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pluvial flood is flooding caused by intense rainfall accumulating over land before it reaches a river or other watercourse.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL123",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a fluvial flood?",
+      "options": {
+        "A": "Flooding caused by rivers or streams overflowing their banks",
+        "B": "Flooding caused by intense rainfall accumulating over land",
+        "C": "Flooding caused by storm surges",
+        "D": "Flooding caused by urban drainage failure"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fluvial flood is flooding caused by rivers or streams overflowing their banks.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL124",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a glacial lake outburst flood (GLOF)?",
+      "options": {
+        "A": "A sudden release of water from a glacial lake, often after failure of an ice or moraine dam",
+        "B": "A flood caused by a river overflowing its banks",
+        "C": "A flood caused by intense urban rainfall",
+        "D": "A flood caused by a storm surge"
+      },
+      "correctAnswer": "A",
+      "explanation": "A GLOF is a sudden release of water from a glacial lake, often after failure of an ice or moraine dam.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL125",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a major cause of floods listed in the notes?",
+      "options": {
+        "A": "Extreme or prolonged rainfall",
+        "B": "Cyclones",
+        "C": "Encroachment on floodplains",
+        "D": "Reduced evaporation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Major causes include extreme or prolonged rainfall, cyclones, snow or glacier melt, saturated soil, high tides and storm surges, dam or embankment failure, deforestation, siltation, encroachment on floodplains and inadequate urban drainage.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL126",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a floodplain?",
+      "options": {
+        "A": "A relatively flat area next to a river that is naturally subject to periodic inundation",
+        "B": "A mountainous region",
+        "C": "A coastal area with no flooding",
+        "D": "An urban drainage system"
+      },
+      "correctAnswer": "A",
+      "explanation": "A floodplain is a relatively flat area next to a river that is naturally subject to periodic inundation.",
+      "source": "Climate.pdf §6.1"
+    },
+        {
+      "id": "CL127",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a flood hydrograph?",
+      "options": {
+        "A": "A graph showing how river discharge changes over time in response to rainfall or another event",
+        "B": "A map of flood-prone areas",
+        "C": "A graph of temperature versus rainfall",
+        "D": "A chart of groundwater levels"
+      },
+      "correctAnswer": "A",
+      "explanation": "A flood hydrograph is a graph showing how river discharge changes over time in response to rainfall or another event.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL128",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What does a 100-year flood return period mean?",
+      "options": {
+        "A": "It has about a 1% chance of being equalled or exceeded in any given year, not a guarantee that it occurs only once in 100 years",
+        "B": "It occurs exactly once every 100 years",
+        "C": "It has a 100% chance of occurring each year",
+        "D": "It will never occur again"
+      },
+      "correctAnswer": "A",
+      "explanation": "A 100-year flood has about a 1% chance of being equalled or exceeded in any given year, not a guarantee that it occurs only once in 100 years.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL129",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a dam-break flood?",
+      "options": {
+        "A": "A flood caused by the sudden or uncontrolled release of water following failure or serious malfunction of a dam",
+        "B": "A flood caused by a river overflowing its banks",
+        "C": "A flood caused by urban drainage failure",
+        "D": "A flood caused by a storm surge"
+      },
+      "correctAnswer": "A",
+      "explanation": "A dam-break flood is a flood caused by the sudden or uncontrolled release of water following failure or serious malfunction of a dam.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL130",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why can deforestation increase flood risk?",
+      "options": {
+        "A": "Loss of vegetation can reduce interception and infiltration, increase runoff and erosion, and raise sediment loads, although flood outcomes also depend on rainfall, soils, terrain and river-basin conditions",
+        "B": "Deforestation always prevents floods",
+        "C": "Deforestation has no effect on runoff",
+        "D": "Deforestation increases infiltration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loss of vegetation can reduce interception and infiltration, increase runoff and erosion, and raise sediment loads, although flood outcomes also depend on rainfall, soils, terrain and river-basin conditions.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL131",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Floods: Meaning and Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why do wetlands reduce flood risk?",
+      "options": {
+        "A": "Wetlands can store and slow excess water, reduce peak flows and provide natural buffers, depending on their condition and connectivity",
+        "B": "Wetlands increase peak flows",
+        "C": "Wetlands have no effect on floods",
+        "D": "Wetlands increase runoff"
+      },
+      "correctAnswer": "A",
+      "explanation": "Wetlands can store and slow excess water, reduce peak flows and provide natural buffers, depending on their condition and connectivity.",
+      "source": "Climate.pdf §6.1"
+    },
+    {
+      "id": "CL132",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major impact of floods?",
+      "options": {
+        "A": "Deaths and injuries, displacement, damage to homes and infrastructure, crop and livestock losses, water contamination, disease risks, erosion, livelihood disruption and economic losses",
+        "B": "Improved water quality",
+        "C": "Increased crop yields",
+        "D": "Reduced disease risk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major impacts include deaths and injuries, displacement, damage to homes and infrastructure, crop and livestock losses, water contamination, disease risks, erosion, livelihood disruption and economic losses.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL133",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is flood forecasting?",
+      "options": {
+        "A": "The use of rainfall, river-flow, reservoir, terrain and hydrological data to estimate the likelihood, timing, location and severity of flooding",
+        "B": "The construction of embankments",
+        "C": "The evacuation of people during a flood",
+        "D": "The zoning of flood-prone areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flood forecasting is the use of rainfall, river-flow, reservoir, terrain and hydrological data to estimate the likelihood, timing, location and severity of flooding.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL134",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which national agency provides river-flood forecasts in India?",
+      "options": {
+        "A": "The Central Water Commission (CWC)",
+        "B": "The India Meteorological Department (IMD)",
+        "C": "The National Disaster Response Force (NDRF)",
+        "D": "The National Disaster Management Authority (NDMA)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Water Commission (CWC) is the principal central agency for river-flood forecasting and hydrological observation in India.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL135",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the National Disaster Response Force (NDRF)?",
+      "options": {
+        "A": "It provides specialised response to natural and human-made disasters, including search, rescue and relief operations during floods",
+        "B": "It issues weather forecasts",
+        "C": "It provides river-flood forecasts",
+        "D": "It declares drought"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NDRF provides specialised response to natural and human-made disasters, including search, rescue and relief operations during floods.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL136",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is floodplain zoning?",
+      "options": {
+        "A": "Regulating land use in flood-prone areas according to flood risk to reduce exposure of people, buildings and critical infrastructure",
+        "B": "Building embankments along rivers",
+        "C": "Constructing dams",
+        "D": "Issuing flood forecasts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Floodplain zoning is regulating land use in flood-prone areas according to flood risk to reduce exposure of people, buildings and critical infrastructure.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL137",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an embankment?",
+      "options": {
+        "A": "An engineered raised structure built along a river or coast to contain or redirect water; it requires maintenance and does not eliminate flood risk",
+        "B": "A type of dam",
+        "C": "A natural wetland",
+        "D": "An urban drainage system"
+      },
+      "correctAnswer": "A",
+      "explanation": "An embankment is an engineered raised structure built along a river or coast to contain or redirect water; it requires maintenance and does not eliminate flood risk.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL138",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between structural and non-structural flood management?",
+      "options": {
+        "A": "Structural measures include dams, embankments, drainage and retention basins; non-structural measures include zoning, forecasting, warning, insurance, evacuation planning and public awareness",
+        "B": "Structural measures include zoning; non-structural measures include dams",
+        "C": "Both are identical",
+        "D": "Structural measures are only for coastal floods"
+      },
+      "correctAnswer": "A",
+      "explanation": "Structural measures include dams, embankments, drainage and retention basins; non-structural measures include zoning, forecasting, warning, insurance, evacuation planning and public awareness.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL139",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can cities reduce urban flooding?",
+      "options": {
+        "A": "Protect lakes, wetlands and storm-water drains; restore natural drainage; prevent encroachment; increase permeable surfaces; create retention areas; maintain drains; and use risk-informed land-use planning",
+        "B": "Increase impervious surfaces",
+        "C": "Encroach on lakes and wetlands",
+        "D": "Block natural drainage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cities can reduce urban flooding by protecting lakes, wetlands and storm-water drains; restoring natural drainage; preventing encroachment; increasing permeable surfaces; creating retention areas; maintaining drains; and using risk-informed land-use planning.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL140",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why should flood warnings be linked to evacuation plans?",
+      "options": {
+        "A": "A warning reduces risk only when people understand it and can act through timely evacuation, safe shelters, accessible routes and support for vulnerable groups",
+        "B": "Warnings alone eliminate all risk",
+        "C": "Evacuation plans are unnecessary",
+        "D": "Warnings increase flood risk"
+      },
+      "correctAnswer": "A",
+      "explanation": "A warning reduces risk only when people understand it and can act through timely evacuation, safe shelters, accessible routes and support for vulnerable groups.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL141",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Flood Impacts, Forecasting and Management",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of flood-resilient infrastructure?",
+      "options": {
+        "A": "It is designed, located and maintained to withstand or recover from flood hazards while keeping essential services functioning",
+        "B": "It increases flood risk",
+        "C": "It is designed only for earthquakes",
+        "D": "It eliminates the need for flood warnings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flood-resilient infrastructure is designed, located and maintained to withstand or recover from flood hazards while keeping essential services functioning.",
+      "source": "Climate.pdf §6.2"
+    },
+    {
+      "id": "CL142",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is climate adaptation?",
+      "options": {
+        "A": "The process of adjustment in human or natural systems in response to actual or expected climate and its effects, to moderate harm or exploit beneficial opportunities",
+        "B": "The reduction of greenhouse-gas emissions",
+        "C": "The construction of dams only",
+        "D": "The measurement of temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate adaptation is the process of adjustment in human or natural systems in response to actual or expected climate and its effects, to moderate harm or exploit beneficial opportunities.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL143",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is climate resilience?",
+      "options": {
+        "A": "The capacity of social, economic and ecological systems to cope with a hazardous event or trend, respond or reorganise, and maintain essential functions",
+        "B": "The ability to prevent all climate impacts",
+        "C": "The total greenhouse-gas emissions of a country",
+        "D": "The average temperature of a region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate resilience is the capacity of social, economic and ecological systems to cope with a hazardous event or trend, respond or reorganise, and maintain essential functions.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL144",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is adaptive capacity?",
+      "options": {
+        "A": "The ability of people, institutions and systems to adjust to potential damage, take advantage of opportunities or respond to consequences",
+        "B": "The total greenhouse-gas emissions of a country",
+        "C": "The physical presence of people in hazard-prone areas",
+        "D": "The degree to which a system is affected by climate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adaptive capacity is the ability of people, institutions and systems to adjust to potential damage, take advantage of opportunities or respond to consequences.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL145",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is vulnerability to climate change?",
+      "options": {
+        "A": "The propensity or predisposition to be adversely affected, shaped by exposure, sensitivity and adaptive capacity",
+        "B": "The total greenhouse-gas emissions of a country",
+        "C": "The average temperature of a region",
+        "D": "The ability to prevent all climate impacts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vulnerability to climate change is the propensity or predisposition to be adversely affected, shaped by exposure, sensitivity and adaptive capacity.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL146",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is exposure in the context of climate vulnerability?",
+      "options": {
+        "A": "The presence of people, livelihoods, species, ecosystems, infrastructure or assets in places that could be adversely affected",
+        "B": "The degree to which a system is affected by climate",
+        "C": "The ability to adjust to climate impacts",
+        "D": "The total greenhouse-gas emissions of a country"
+      },
+      "correctAnswer": "A",
+      "explanation": "Exposure is the presence of people, livelihoods, species, ecosystems, infrastructure or assets in places that could be adversely affected.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL147",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is sensitivity in the context of climate vulnerability?",
+      "options": {
+        "A": "The degree to which a system is affected, either adversely or beneficially, by climate variability or change",
+        "B": "The presence of people in hazard-prone areas",
+        "C": "The ability to adjust to climate impacts",
+        "D": "The total greenhouse-gas emissions of a country"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sensitivity is the degree to which a system is affected, either adversely or beneficially, by climate variability or change.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL148",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is maladaptation?",
+      "options": {
+        "A": "An action intended to reduce climate risk that unintentionally increases vulnerability, emissions or risk for other people, places or future periods",
+        "B": "Any adaptation measure",
+        "C": "A successful adaptation measure",
+        "D": "A mitigation measure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Maladaptation is an action intended to reduce climate risk that unintentionally increases vulnerability, emissions or risk for other people, places or future periods.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL149",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is ecosystem-based adaptation?",
+      "options": {
+        "A": "Using biodiversity and ecosystem services, such as forests, wetlands, mangroves and watersheds, to help people adapt to climate impacts",
+        "B": "Building sea walls only",
+        "C": "Using only engineering solutions",
+        "D": "Reducing greenhouse-gas emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ecosystem-based adaptation uses biodiversity and ecosystem services, such as forests, wetlands, mangroves and watersheds, to help people adapt to climate impacts.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL150",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is community-based adaptation?",
+      "options": {
+        "A": "An approach that places local communities, their knowledge, priorities and participation at the centre of climate-risk assessment and adaptation planning",
+        "B": "An approach led only by national governments",
+        "C": "An approach that excludes local knowledge",
+        "D": "An approach focused only on engineering"
+      },
+      "correctAnswer": "A",
+      "explanation": "Community-based adaptation places local communities, their knowledge, priorities and participation at the centre of climate-risk assessment and adaptation planning.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL151",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a nature-based solution?",
+      "options": {
+        "A": "An action that protects, sustainably manages or restores natural or modified ecosystems to address societal challenges while benefiting people and biodiversity",
+        "B": "A purely engineering solution",
+        "C": "A solution that harms biodiversity",
+        "D": "A solution that increases emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "A nature-based solution is an action that protects, sustainably manages or restores natural or modified ecosystems to address societal challenges while benefiting people and biodiversity.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL152",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is climate-proofing?",
+      "options": {
+        "A": "Integrating climate-risk considerations into the design, construction, operation and maintenance of policies, projects and infrastructure",
+        "B": "Ignoring climate risks in planning",
+        "C": "Reducing greenhouse-gas emissions only",
+        "D": "Building only during the dry season"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate-proofing is integrating climate-risk considerations into the design, construction, operation and maintenance of policies, projects and infrastructure.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL153",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Climate Adaptation: Meaning and Principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a climate risk assessment?",
+      "options": {
+        "A": "A systematic assessment of climate hazards, exposure, vulnerability and potential consequences to inform decisions and prioritise action",
+        "B": "A weather forecast for the next day",
+        "C": "A measurement of greenhouse-gas emissions",
+        "D": "A list of adaptation measures only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A climate risk assessment is a systematic assessment of climate hazards, exposure, vulnerability and potential consequences to inform decisions and prioritise action.",
+      "source": "Climate.pdf §7.1"
+    },
+    {
+      "id": "CL154",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important adaptation measures in agriculture?",
+      "options": {
+        "A": "Drought- and heat-tolerant varieties, crop diversification, altered sowing calendars, agroforestry, soil-moisture conservation, weather advisories, crop insurance and efficient irrigation",
+        "B": "Increasing greenhouse-gas emissions",
+        "C": "Removing all crop insurance",
+        "D": "Ignoring weather advisories"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important adaptation measures in agriculture include drought- and heat-tolerant varieties, crop diversification, altered sowing calendars, agroforestry, soil-moisture conservation, weather advisories, crop insurance and efficient irrigation.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL155",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important adaptation measures in water management?",
+      "options": {
+        "A": "Rainwater harvesting, watershed restoration, groundwater recharge, protection of tanks and wetlands, water budgeting, efficient irrigation and wastewater reuse",
+        "B": "Increasing groundwater extraction without recharge",
+        "C": "Destroying wetlands",
+        "D": "Ignoring water budgeting"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important adaptation measures in water management include rainwater harvesting, watershed restoration, groundwater recharge, protection of tanks and wetlands, water budgeting, efficient irrigation and wastewater reuse.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL156",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important adaptation measures in cities?",
+      "options": {
+        "A": "Urban green spaces, cool roofs, heat action plans, flood-resilient drainage, wetland protection, permeable surfaces, early-warning systems and climate-sensitive urban planning",
+        "B": "Increasing impervious surfaces",
+        "C": "Removing urban green spaces",
+        "D": "Ignoring heat action plans"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important adaptation measures in cities include urban green spaces, cool roofs, heat action plans, flood-resilient drainage, wetland protection, permeable surfaces, early-warning systems and climate-sensitive urban planning.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL157",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important adaptation measures for coastal areas?",
+      "options": {
+        "A": "Mangrove and dune restoration, coastal setback and risk-informed zoning, resilient infrastructure, cyclone shelters, early warnings and livelihood diversification",
+        "B": "Removing mangroves",
+        "C": "Building in high-risk coastal zones",
+        "D": "Ignoring early warnings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important adaptation measures for coastal areas include mangrove and dune restoration, coastal setback and risk-informed zoning, resilient infrastructure, cyclone shelters, early warnings and livelihood diversification.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL158",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are important adaptation measures for public health?",
+      "options": {
+        "A": "Heat-health action plans, early warnings, cooling centres, safe drinking water, disease surveillance, resilient health facilities and targeted support for outdoor workers and vulnerable populations",
+        "B": "Ignoring heat-health risks",
+        "C": "Removing disease surveillance",
+        "D": "Reducing access to safe drinking water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important adaptation measures for public health include heat-health action plans, early warnings, cooling centres, safe drinking water, disease surveillance, resilient health facilities and targeted support for outdoor workers and vulnerable populations.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL159",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Heat Action Plan?",
+      "options": {
+        "A": "A preparedness and response framework that uses heat-risk information, public communication, health-system readiness and targeted measures to reduce heat-related illness and deaths",
+        "B": "A plan to increase heat exposure",
+        "C": "A plan to reduce greenhouse-gas emissions",
+        "D": "A plan to build dams"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Heat Action Plan is a preparedness and response framework that uses heat-risk information, public communication, health-system readiness and targeted measures to reduce heat-related illness and deaths.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL160",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is climate-smart agriculture?",
+      "options": {
+        "A": "An approach that seeks to sustainably increase agricultural productivity and incomes, strengthen adaptation and resilience, and where possible reduce or remove greenhouse-gas emissions",
+        "B": "An approach that increases emissions only",
+        "C": "An approach that ignores climate risks",
+        "D": "An approach that reduces agricultural productivity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate-smart agriculture seeks to sustainably increase agricultural productivity and incomes, strengthen adaptation and resilience, and where possible reduce or remove greenhouse-gas emissions.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL161",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of crop insurance in climate adaptation?",
+      "options": {
+        "A": "It can reduce farmers' financial exposure to specified crop losses, but it does not prevent the hazard and works best with risk reduction, timely assessment and accessible claim processes",
+        "B": "It prevents all crop losses",
+        "C": "It increases crop losses",
+        "D": "It replaces the need for risk reduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crop insurance can reduce farmers' financial exposure to specified crop losses, but it does not prevent the hazard and works best with risk reduction, timely assessment and accessible claim processes.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL162",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is early warning an adaptation measure?",
+      "options": {
+        "A": "It enables people and institutions to prepare for heatwaves, floods, cyclones and droughts, reducing exposure and potential losses",
+        "B": "It eliminates all climate risks",
+        "C": "It increases exposure to hazards",
+        "D": "It replaces the need for mitigation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Early warning enables people and institutions to prepare for heatwaves, floods, cyclones and droughts, reducing exposure and potential losses.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL163",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is protecting forests a climate adaptation measure?",
+      "options": {
+        "A": "Forests regulate catchments, reduce erosion, support water security, buffer local temperatures and sustain biodiversity and livelihoods",
+        "B": "Forests increase flood risk",
+        "C": "Forests reduce water security",
+        "D": "Forests have no role in climate adaptation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forests regulate catchments, reduce erosion, support water security, buffer local temperatures and sustain biodiversity and livelihoods.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL164",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Adaptation Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between planned and autonomous adaptation?",
+      "options": {
+        "A": "Planned adaptation is deliberately designed by governments or institutions; autonomous adaptation occurs through decisions made by individuals, households or ecosystems in response to changing conditions",
+        "B": "Planned adaptation is unintentional; autonomous adaptation is intentional",
+        "C": "Both are identical",
+        "D": "Autonomous adaptation is designed by governments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planned adaptation is deliberately designed by governments or institutions; autonomous adaptation occurs through decisions made by individuals, households or ecosystems in response to changing conditions.",
+      "source": "Climate.pdf §7.2"
+    },
+    {
+      "id": "CL165",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is India's National Action Plan on Climate Change (NAPCC)?",
+      "options": {
+        "A": "A national framework launched in 2008 to promote climate mitigation and adaptation through national missions",
+        "B": "A 2015 international treaty",
+        "C": "A state-level plan for Karnataka only",
+        "D": "A World Bank programme"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NAPCC is a national framework launched in 2008 to promote climate mitigation and adaptation through national missions.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL166",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many original national missions were included in the NAPCC?",
+      "options": {"A": "Six", "B": "Seven", "C": "Eight", "D": "Nine"},
+      "correctAnswer": "C",
+      "explanation": "The NAPCC originally included eight national missions.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL167",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT one of the eight original NAPCC missions?",
+      "options": {
+        "A": "National Solar Mission",
+        "B": "National Water Mission",
+        "C": "National Mission for a Green India",
+        "D": "National Mission on Nuclear Energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "The eight missions are: National Solar Mission; National Mission for Enhanced Energy Efficiency; National Mission on Sustainable Habitat; National Water Mission; National Mission for Sustaining the Himalayan Ecosystem; National Mission for a Green India; National Mission for Sustainable Agriculture; and National Mission on Strategic Knowledge for Climate Change.",
+      "source": "Climate.pdf §7.3"
+    },
+        {
+      "id": "CL168",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which ministry is India's nodal ministry for climate-change policy coordination and international climate negotiations?",
+      "options": {
+        "A": "The Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "B": "The Ministry of Earth Sciences",
+        "C": "The Ministry of Agriculture",
+        "D": "The Ministry of External Affairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ministry of Environment, Forest and Climate Change (MoEFCC) is the nodal ministry for climate-change policy coordination and international climate negotiations.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL169",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Adaptation Fund for Climate Change (NAFCC)?",
+      "options": {
+        "A": "A fund established to support concrete adaptation projects in sectors and regions vulnerable to climate change",
+        "B": "A fund for fossil fuel projects",
+        "C": "An international fund under the UNFCCC",
+        "D": "A crop insurance scheme"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NAFCC is a fund established to support concrete adaptation projects in sectors and regions vulnerable to climate change.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL170",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Mission for Sustainable Agriculture (NMSA)?",
+      "options": {
+        "A": "An NAPCC mission intended to make agriculture more resilient to climate variability and change through sustainable and climate-resilient practices",
+        "B": "A mission to increase greenhouse-gas emissions from agriculture",
+        "C": "A mission focused only on irrigation",
+        "D": "A mission to reduce agricultural productivity"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NMSA is an NAPCC mission intended to make agriculture more resilient to climate variability and change through sustainable and climate-resilient practices.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL171",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Water Mission's broad objective?",
+      "options": {
+        "A": "Integrated water-resource management, water conservation, minimising wastage and ensuring more equitable distribution through improved efficiency",
+        "B": "Increasing water wastage",
+        "C": "Building large dams only",
+        "D": "Reducing water-use efficiency"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Water Mission's broad objective is integrated water-resource management, water conservation, minimising wastage and ensuring more equitable distribution through improved efficiency.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL172",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Mission for a Green India?",
+      "options": {
+        "A": "An NAPCC mission aimed at protecting, restoring and enhancing forest and tree cover and improving ecosystem services",
+        "B": "A mission to reduce forest cover",
+        "C": "A mission focused only on urban parks",
+        "D": "A mission to increase greenhouse-gas emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Mission for a Green India is an NAPCC mission aimed at protecting, restoring and enhancing forest and tree cover and improving ecosystem services.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL173",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the National Disaster Management Authority (NDMA)?",
+      "options": {
+        "A": "The apex national body for disaster management in India, established under the Disaster Management Act, 2005, chaired by the Prime Minister",
+        "B": "A weather forecasting agency",
+        "C": "A river-flood forecasting agency",
+        "D": "A climate fund"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NDMA is the apex national body for disaster management in India, established under the Disaster Management Act, 2005, chaired by the Prime Minister.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL174",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the State Action Plan on Climate Change (SAPCC)?",
+      "options": {
+        "A": "A state-specific framework that translates national climate policy into actions suited to local vulnerabilities, ecosystems and development priorities",
+        "B": "A national mission under the NAPCC",
+        "C": "An international treaty",
+        "D": "A World Bank programme"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SAPCC is a state-specific framework that translates national climate policy into actions suited to local vulnerabilities, ecosystems and development priorities.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL175",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Karnataka's State Action Plan on Climate Change called?",
+      "options": {
+        "A": "Karnataka State Action Plan on Climate Change (KSAPCC)",
+        "B": "Karnataka Climate Mission",
+        "C": "Karnataka Green Fund",
+        "D": "Karnataka Adaptation Programme"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka's State Action Plan on Climate Change is called the Karnataka State Action Plan on Climate Change (KSAPCC).",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL176",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the current Karnataka climate action planning period highlighted by the state monitoring portal?",
+      "options": {"A": "2015–2020", "B": "2020–2025", "C": "2024–2030", "D": "2030–2040"},
+      "correctAnswer": "C",
+      "explanation": "The Karnataka State Action Plan on Climate Change monitoring period is 2024–2030.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL177",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sectors are specifically highlighted by Karnataka's KSAPCC monitoring portal?",
+      "options": {
+        "A": "Agriculture and water, alongside a multi-department approach to climate action",
+        "B": "Only energy",
+        "C": "Only transport",
+        "D": "Only health"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agriculture and water are highlighted as important focus sectors, alongside a multi-department approach to climate action.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL178",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of the KSAPCC monitoring dashboard?",
+      "options": {
+        "A": "To track departmental climate-action indicators, progress, resources, outputs and outcomes and improve coordination and accountability",
+        "B": "To issue weather forecasts",
+        "C": "To provide river-flood forecasts",
+        "D": "To conduct climate experiments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The KSAPCC monitoring dashboard tracks departmental climate-action indicators, progress, resources, outputs and outcomes and improves coordination and accountability.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL179",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which five states had revised State Action Plans approved by MoEFCC during 2024, according to its 2024-25 Annual Report?",
+      "options": {
+        "A": "Assam, Chhattisgarh, Karnataka, Kerala and Punjab",
+        "B": "Maharashtra, Gujarat, Rajasthan, Tamil Nadu and Odisha",
+        "C": "Bihar, Jharkhand, West Bengal, Sikkim and Manipur",
+        "D": "Goa, Telangana, Andhra Pradesh, Haryana and Uttarakhand"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to MoEFCC's 2024-25 Annual Report, Assam, Chhattisgarh, Karnataka, Kerala and Punjab had revised State Action Plans approved during 2024.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL180",
+      "subject": "General Knowledge",
+      "topic": "India's Climate Policy",
+      "chapter": "India's Climate Policy and Institutions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the role of the IMD Climate Hazard and Vulnerability Atlas?",
+      "options": {
+        "A": "It helps identify hazard-prone areas for major meteorological hazards and supports state authorities and disaster-management agencies in preparedness and risk-informed planning",
+        "B": "It provides river-flood forecasts",
+        "C": "It assesses climate science globally",
+        "D": "It issues drought declarations"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IMD Climate Hazard and Vulnerability Atlas helps identify hazard-prone areas for major meteorological hazards and supports state authorities and disaster-management agencies in preparedness and risk-informed planning.",
+      "source": "Climate.pdf §7.3"
+    },
+    {
+      "id": "CL181",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major climate-change mitigation measure?",
+      "options": {
+        "A": "Renewable energy, energy efficiency, electrification, public transport, low-carbon industry, methane reduction, forest conservation, sustainable agriculture and carbon capture and storage",
+        "B": "Increasing fossil fuel use",
+        "C": "Deforestation",
+        "D": "Increasing methane emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major mitigation measures include renewable energy, energy efficiency, electrification, public transport, low-carbon industry, methane reduction, forest conservation, sustainable agriculture and carbon capture and storage.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL182",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does solar energy help mitigate climate change?",
+      "options": {
+        "A": "Solar power generates electricity without direct fossil-fuel combustion during operation, reducing power-sector greenhouse-gas emissions when it displaces higher-emission generation",
+        "B": "Solar power increases fossil-fuel combustion",
+        "C": "Solar power has no effect on emissions",
+        "D": "Solar power increases greenhouse-gas emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Solar power generates electricity without direct fossil-fuel combustion during operation, reducing power-sector greenhouse-gas emissions when it displaces higher-emission generation.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL183",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How does energy efficiency reduce emissions?",
+      "options": {
+        "A": "It delivers the same service with less energy, reducing fuel use and associated emissions",
+        "B": "It increases energy use",
+        "C": "It increases fuel consumption",
+        "D": "It has no effect on emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Energy efficiency delivers the same service with less energy, reducing fuel use and associated emissions.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL184",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How does public transport contribute to climate mitigation?",
+      "options": {
+        "A": "Well-used public transport can reduce per-person fuel consumption and emissions compared with widespread reliance on private vehicles",
+        "B": "Public transport increases per-person emissions",
+        "C": "Public transport has no effect on emissions",
+        "D": "Public transport increases private vehicle use"
+      },
+      "correctAnswer": "A",
+      "explanation": "Well-used public transport can reduce per-person fuel consumption and emissions compared with widespread reliance on private vehicles.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL185",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do forests contribute to mitigation?",
+      "options": {
+        "A": "They absorb and store carbon in vegetation and soils, while also supporting biodiversity and water regulation",
+        "B": "They release all their stored carbon",
+        "C": "They have no role in mitigation",
+        "D": "They increase atmospheric carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forests absorb and store carbon in vegetation and soils, while also supporting biodiversity and water regulation.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL186",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a just transition?",
+      "options": {
+        "A": "A shift to a low-carbon economy that protects workers, communities and vulnerable groups through fair opportunities, social protection, skills and inclusive decision-making",
+        "B": "A transition that ignores workers' needs",
+        "C": "A transition to a high-carbon economy",
+        "D": "A transition that increases inequality"
+      },
+      "correctAnswer": "A",
+      "explanation": "A just transition is a shift to a low-carbon economy that protects workers, communities and vulnerable groups through fair opportunities, social protection, skills and inclusive decision-making.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL187",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sustainable development?",
+      "options": {
+        "A": "Development that meets present needs without compromising the ability of future generations to meet their own needs",
+        "B": "Development that ignores future generations",
+        "C": "Development that depletes all resources",
+        "D": "Development focused only on economic growth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sustainable development is development that meets present needs without compromising the ability of future generations to meet their own needs.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL188",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Mitigation Measures and Sustainable Development",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can adaptation replace mitigation?",
+      "options": {
+        "A": "No; adaptation reduces harm from climate impacts, while mitigation limits future warming, and both are necessary",
+        "B": "Yes, adaptation alone is sufficient",
+        "C": "Yes, mitigation alone is sufficient",
+        "D": "Neither is necessary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adaptation reduces harm from climate impacts, while mitigation limits future warming; both are necessary.",
+      "source": "Climate.pdf §7.4"
+    },
+    {
+      "id": "CL189",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "By how much did India's surface air temperature rise over 1901–2018, as cited in a Ministry of Earth Sciences assessment?",
+      "options": {"A": "About 0.2°C", "B": "About 0.7°C", "C": "About 1.5°C", "D": "About 2.0°C"},
+      "correctAnswer": "B",
+      "explanation": "India's surface air temperature rose by about 0.7°C over 1901–2018, as cited in a Ministry of Earth Sciences assessment.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL190",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was India's annual mean land-surface air-temperature anomaly in 2025 compared with the 1991–2020 average?",
+      "options": {"A": "+0.15°C", "B": "+0.28°C", "C": "+0.45°C", "D": "+0.65°C"},
+      "correctAnswer": "B",
+      "explanation": "India's 2025 annual mean land-surface air-temperature anomaly was +0.28°C, making 2025 the eighth warmest year since nationwide records began in 1901.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL191",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which year was the warmest in India's instrumental temperature record up to 2025?",
+      "options": {"A": "2016", "B": "2020", "C": "2024", "D": "2025"},
+      "correctAnswer": "C",
+      "explanation": "2024 was the warmest, with an annual mean temperature anomaly of +0.65°C relative to the 1991–2020 average.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL192",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was India's total annual rainfall in 2025 as a percentage of the 1971–2020 Long Period Average?",
+      "options": {"A": "96%", "B": "102%", "C": "110%", "D": "115%"},
+      "correctAnswer": "C",
+      "explanation": "India's total annual rainfall in 2025 was 110% of the 1971–2020 Long Period Average, or about 1,274 mm.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL193",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which season in India had the largest positive temperature anomaly in 2025?",
+      "options": {"A": "Winter (January–February)", "B": "Pre-monsoon", "C": "Monsoon", "D": "Post-monsoon"},
+      "correctAnswer": "A",
+      "explanation": "Winter (January–February) had the largest positive anomaly, at +1.17°C relative to the 1991–2020 average.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL194",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was India's 2025 southwest monsoon rainfall as a percentage of its Long Period Average?",
+      "options": {"A": "96%", "B": "102%", "C": "108%", "D": "112%"},
+      "correctAnswer": "C",
+      "explanation": "India's 2025 southwest monsoon rainfall was 108% of the 1971–2020 Long Period Average.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL195",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the March 2026 parliamentary reply, what did the Government of India state about observed warming over India from 1901 to 2018?",
+      "options": {
+        "A": "Surface air temperature rose by about 0.7°C, alongside an increase in atmospheric moisture content",
+        "B": "Surface air temperature fell by 0.7°C",
+        "C": "There was no change in temperature",
+        "D": "Temperature rose by 2.5°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "The surface air temperature over India had risen by about 0.7°C, alongside an increase in atmospheric moisture content.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL196",
+      "subject": "General Knowledge",
+      "topic": "Climate: India Facts",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What sea-level trend did the MoES assessment cite for the north Indian Ocean during 1993–2015?",
+      "options": {"A": "About 1.0 mm per year", "B": "About 3.3 mm per year", "C": "About 5.5 mm per year", "D": "About 8.0 mm per year"},
+      "correctAnswer": "B",
+      "explanation": "The MoES assessment cited a rate of about 3.3 mm per year for the north Indian Ocean during 1993–2015.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL197",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Risks",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Karnataka's agriculture vulnerable to climate variability?",
+      "options": {
+        "A": "A large share of farming depends on monsoon rainfall, and changes in onset, distribution, dry spells, heat and extreme rainfall can affect sowing, crop growth, yields and farm incomes",
+        "B": "All farming is fully irrigated",
+        "C": "Karnataka receives no monsoon rainfall",
+        "D": "Agriculture is unaffected by climate"
+      },
+      "correctAnswer": "A",
+      "explanation": "A large share of farming depends on monsoon rainfall, and changes in onset, distribution, dry spells, heat and extreme rainfall can affect sowing, crop growth, yields and farm incomes.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL198",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Risks",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can Karnataka improve climate resilience in the semi-arid Deccan region?",
+      "options": {
+        "A": "Through watershed development, tank and lake restoration, groundwater recharge, drought-resilient crops, micro-irrigation, soil-moisture conservation and reliable weather advisories",
+        "B": "By increasing groundwater extraction without recharge",
+        "C": "By removing all tanks and lakes",
+        "D": "By abandoning agriculture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Watershed development, tank and lake restoration, groundwater recharge, drought-resilient crops, micro-irrigation, soil-moisture conservation and reliable weather advisories improve resilience in the semi-arid Deccan region.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL199",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Risks",
+      "chapter": "Climate Change: India and Karnataka Exam Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can Karnataka improve climate resilience in the Western Ghats and coastal belt?",
+      "options": {
+        "A": "Through catchment and forest protection, slope-sensitive land-use planning, landslide and flood early warnings, wetland and mangrove protection, resilient infrastructure and coastal risk planning",
+        "B": "By removing forest cover",
+        "C": "By building in landslide-prone slopes",
+        "D": "By destroying mangroves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Catchment and forest protection, slope-sensitive land-use planning, landslide and flood early warnings, wetland and mangrove protection, resilient infrastructure and coastal risk planning improve resilience in the Western Ghats and coastal belt.",
+      "source": "Climate.pdf §8"
+    },
+    {
+      "id": "CL200",
+      "subject": "Indian Polity",
+      "topic": "Disaster Management",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which law provides India's principal statutory framework for disaster management?",
+      "options": {
+        "A": "The Disaster Management Act, 2005",
+        "B": "The Environment Protection Act, 1986",
+        "C": "The Air Act, 1981",
+        "D": "The Forest Conservation Act, 1980"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Disaster Management Act, 2005 provides India's principal statutory framework for disaster management.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL201",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which organisation is the national authority for weather observation and forecasting in India?",
+      "options": {
+        "A": "India Meteorological Department (IMD)",
+        "B": "Central Water Commission (CWC)",
+        "C": "National Centre for Medium Range Weather Forecasting (NCMRWF)",
+        "D": "National Disaster Management Authority (NDMA)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The India Meteorological Department (IMD) is the national authority for weather observation and forecasting.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL202",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which organisation is the principal national body for river flood forecasting in India?",
+      "options": {
+        "A": "Central Water Commission (CWC)",
+        "B": "India Meteorological Department (IMD)",
+        "C": "National Disaster Response Force (NDRF)",
+        "D": "National Centre for Medium Range Weather Forecasting (NCMRWF)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Water Commission (CWC) is the principal national body for river flood forecasting.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL203",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which organisation assesses climate science internationally?",
+      "options": {
+        "A": "Intergovernmental Panel on Climate Change (IPCC)",
+        "B": "India Meteorological Department (IMD)",
+        "C": "World Bank",
+        "D": "NITI Aayog"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IPCC assesses climate science internationally.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL204",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which international treaty is the principal framework for global climate negotiations?",
+      "options": {
+        "A": "United Nations Framework Convention on Climate Change (UNFCCC)",
+        "B": "Kyoto Protocol",
+        "C": "Paris Agreement",
+        "D": "Sendai Framework"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UNFCCC is the principal framework for global climate negotiations.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL205",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which agreement established the current global temperature goal framework?",
+      "options": {
+        "A": "The Paris Agreement, adopted in 2015",
+        "B": "The Kyoto Protocol",
+        "C": "The UNFCCC",
+        "D": "The Sendai Framework"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Paris Agreement, adopted in 2015, established the current global temperature goal framework.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL206",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Centre for Medium Range Weather Forecasting (NCMRWF)?",
+      "options": {
+        "A": "An institution under the Ministry of Earth Sciences that develops numerical weather prediction systems and related forecasting capabilities",
+        "B": "A river-flood forecasting agency",
+        "C": "A disaster-response force",
+        "D": "An international climate fund"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NCMRWF is an institution under the Ministry of Earth Sciences that develops numerical weather prediction systems and related forecasting capabilities.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL207",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the India Meteorological Department's role in heatwave warnings?",
+      "options": {
+        "A": "It monitors temperature conditions and issues heatwave forecasts and warnings using defined meteorological criteria",
+        "B": "It declares drought",
+        "C": "It provides river-flood forecasts",
+        "D": "It conducts rescue operations"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IMD monitors temperature conditions and issues heatwave forecasts and warnings using defined meteorological criteria.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL208",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Action Plan on Climate Change and Human Health (NAPCCHH)?",
+      "options": {
+        "A": "A national programme framework addressing climate-sensitive health risks and strengthening health-system preparedness and response",
+        "B": "A river-flood forecasting programme",
+        "C": "An international treaty",
+        "D": "A crop insurance scheme"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NAPCCHH is a national programme framework addressing climate-sensitive health risks and strengthening health-system preparedness and response.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL209",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Important Institutions, Laws and Terms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Sendai Framework for Disaster Risk Reduction?",
+      "options": {
+        "A": "A 2015–2030 international framework adopted in 2015 to reduce disaster risk and losses in lives, livelihoods, health, assets and infrastructure",
+        "B": "A climate finance fund",
+        "C": "A greenhouse-gas reduction treaty",
+        "D": "An Indian disaster law"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sendai Framework is a 2015–2030 international framework adopted in 2015 to reduce disaster risk and losses in lives, livelihoods, health, assets and infrastructure.",
+      "source": "Climate.pdf §9"
+    },
+    {
+      "id": "CL210",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which statement correctly distinguishes global warming from climate change?",
+      "options": {
+        "A": "Global warming is one component of climate change; climate change also includes rainfall, ocean, ice and extreme-event changes",
+        "B": "Global warming is broader than climate change",
+        "C": "They are exact synonyms",
+        "D": "Climate change refers only to temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Global warming is one component of climate change; climate change also includes rainfall, ocean, ice and extreme-event changes.",
+      "source": "Climate.pdf §10"
+    },
+        {
+      "id": "CL211",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following correctly lists the major long-lived greenhouse gases?",
+      "options": {
+        "A": "CO₂, CH₄, N₂O and fluorinated gases",
+        "B": "CO₂, O₂, N₂ and Ar",
+        "C": "CH₄, CO, SO₂ and NO₂",
+        "D": "O₃, CO, H₂ and He"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major long-lived greenhouse gases include CO₂, CH₄, N₂O and fluorinated gases.",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL212",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In which year was the IPCC established, and by which organisations?",
+      "options": {
+        "A": "1988, by WMO and UNEP",
+        "B": "1992, by the UN General Assembly",
+        "C": "1997, by the UNFCCC",
+        "D": "2015, by the Paris Agreement"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IPCC was established in 1988 by the World Meteorological Organization (WMO) and the United Nations Environment Programme (UNEP).",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL213",
+      "subject": "General Knowledge",
+      "topic": "International Climate Framework",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following in correct chronological order of adoption: UNFCCC, Kyoto Protocol, Paris Agreement.",
+      "options": {
+        "A": "UNFCCC (1992) → Kyoto Protocol (1997) → Paris Agreement (2015)",
+        "B": "Kyoto Protocol (1992) → UNFCCC (1997) → Paris Agreement (2015)",
+        "C": "Paris Agreement (1992) → UNFCCC (1997) → Kyoto Protocol (2015)",
+        "D": "UNFCCC (1997) → Paris Agreement (2005) → Kyoto Protocol (2015)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UNFCCC was adopted in 1992, the Kyoto Protocol in 1997 and the Paris Agreement in 2015.",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL214",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly lists the types of drought?",
+      "options": {
+        "A": "Meteorological, agricultural, hydrological, socio-economic and ecological",
+        "B": "Pluvial, fluvial, flash and coastal",
+        "C": "Thermal, chemical, biological and physical",
+        "D": "Primary, secondary, tertiary and quaternary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought types are meteorological, agricultural, hydrological, socio-economic and ecological (with flash drought also described).",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL215",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly lists types of floods?",
+      "options": {
+        "A": "Riverine/fluvial, pluvial, flash, urban, coastal and glacial lake outburst flood",
+        "B": "Meteorological, agricultural, hydrological and socio-economic",
+        "C": "Thermal, chemical, biological and physical",
+        "D": "Primary, secondary, tertiary and quaternary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flood types include riverine/fluvial, pluvial, flash, urban, coastal and glacial lake outburst flood.",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL216",
+      "subject": "General Knowledge",
+      "topic": "Institutions",
+      "chapter": "Quick Revision: High-Value Facts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Match correctly: IMD, CWC and NDMA.",
+      "options": {
+        "A": "IMD = weather observation, forecasts and warnings; CWC = river flood forecasting; NDMA = national disaster-management authority",
+        "B": "IMD = river flood forecasting; CWC = weather forecasting; NDMA = climate fund",
+        "C": "IMD = disaster response; CWC = weather forecasting; NDMA = river flood forecasting",
+        "D": "IMD = climate science assessment; CWC = disaster response; NDMA = weather forecasting"
+      },
+      "correctAnswer": "A",
+      "explanation": "IMD handles weather observation, forecasts and warnings; CWC handles river flood forecasting; NDMA is the national disaster-management authority.",
+      "source": "Climate.pdf §10"
+    },
+    {
+      "id": "CL217",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are climate change and global warming exact synonyms?",
+      "options": {
+        "A": "No; global warming is the rise in average temperature, while climate change includes broader changes in the climate system",
+        "B": "Yes, they are exact synonyms",
+        "C": "Yes, but only for developed countries",
+        "D": "No; global warming is broader than climate change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Global warming is the rise in average temperature; climate change includes broader changes in the climate system.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL218",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Does every flood prove climate change?",
+      "options": {
+        "A": "No; individual floods have multiple possible causes, and event attribution requires scientific analysis",
+        "B": "Yes, every flood proves climate change",
+        "C": "No, because climate change does not affect floods at all",
+        "D": "Yes, but only in coastal areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Individual floods have multiple possible causes. Climate change can alter the probability or intensity of some heavy-rainfall and coastal-flood hazards, but event attribution requires scientific analysis.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL219",
+      "subject": "General Knowledge",
+      "topic": "Drought",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Does every drought result from climate change?",
+      "options": {
+        "A": "No; drought can arise from natural variability and human water management as well as climate-change influences, and attribution depends on the event and region",
+        "B": "Yes, every drought results from climate change",
+        "C": "No, because climate change does not affect drought at all",
+        "D": "Yes, but only in semi-arid regions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drought can arise from natural variability and human water management as well as climate-change influences. Attribution depends on the event and region.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL220",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does a 100-year flood occur only once every century?",
+      "options": {
+        "A": "No; it has an estimated 1% annual probability of being equalled or exceeded under the statistical assumptions used",
+        "B": "Yes, exactly once every 100 years",
+        "C": "Yes, it cannot occur twice in a century",
+        "D": "No, it never occurs"
+      },
+      "correctAnswer": "A",
+      "explanation": "A 100-year flood has an estimated 1% annual probability of being equalled or exceeded under the statistical assumptions used.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL221",
+      "subject": "General Knowledge",
+      "topic": "Floods",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is a flood warning the same as a flood forecast?",
+      "options": {
+        "A": "No; a forecast estimates the likely event, while a warning communicates risk and the action people should take",
+        "B": "Yes, they are identical",
+        "C": "No; a warning estimates the event, while a forecast communicates risk",
+        "D": "Yes, both only communicate risk"
+      },
+      "correctAnswer": "A",
+      "explanation": "A forecast estimates the likely event; a warning communicates risk and the action people should take.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL222",
+      "subject": "General Knowledge",
+      "topic": "Mitigation",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is planting trees alone sufficient to solve climate change?",
+      "options": {
+        "A": "No; forest protection and restoration help, but rapid reductions in fossil-fuel and other greenhouse-gas emissions are essential",
+        "B": "Yes, planting trees alone is sufficient",
+        "C": "No, because trees have no effect on carbon",
+        "D": "Yes, if enough trees are planted"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forest protection and restoration help, but rapid reductions in fossil-fuel and other greenhouse-gas emissions are essential.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL223",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is disaster response the same as climate adaptation?",
+      "options": {
+        "A": "No; response addresses an ongoing or recent disaster, while adaptation is broader and includes long-term planning to reduce future climate risks",
+        "B": "Yes, they are identical",
+        "C": "No; adaptation addresses ongoing disasters, while response is long-term planning",
+        "D": "Yes, both are short-term"
+      },
+      "correctAnswer": "A",
+      "explanation": "Response addresses an ongoing or recent disaster; adaptation is broader and includes long-term planning to reduce future climate risks.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL224",
+      "subject": "General Knowledge",
+      "topic": "Climate Adaptation",
+      "chapter": "Common Exam Confusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Can an adaptation measure create new risks?",
+      "options": {
+        "A": "Yes; poorly designed measures can cause maladaptation, for example by transferring flood risk downstream or increasing water demand in a water-stressed basin",
+        "B": "No, adaptation measures never create risks",
+        "C": "No, adaptation always reduces all risks",
+        "D": "Yes, but only in developed countries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Poorly designed measures can cause maladaptation, for example by transferring flood risk downstream or increasing water demand in a water-stressed basin.",
+      "source": "Climate.pdf §11"
+    },
+    {
+      "id": "CL225",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Sources and Reference Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which IMD publication is cited as a source for India's 2025 climate statistics in the notes?",
+      "options": {
+        "A": "Statement on the Climate of India during 2025, released 1 January 2026",
+        "B": "Annual Climate Summary 2024",
+        "C": "Climate Hazard and Vulnerability Atlas",
+        "D": "Monsoon Report 2025"
+      },
+      "correctAnswer": "A",
+      "explanation": "The notes cite the IMD 'Statement on the Climate of India during 2025', released 1 January 2026.",
+      "source": "Climate.pdf §12"
+    },
+    {
+      "id": "CL226",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Sources and Reference Notes",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which source is cited for the parliamentary reply on changes in the weather cycle due to climate change?",
+      "options": {
+        "A": "Ministry of Earth Sciences / Press Information Bureau, Parliamentary reply, 19 March 2026",
+        "B": "MoEFCC Annual Report 2024-25",
+        "C": "IPCC Sixth Assessment Report",
+        "D": "UNFCCC COP30 proceedings"
+      },
+      "correctAnswer": "A",
+      "explanation": "The notes cite the Ministry of Earth Sciences / Press Information Bureau parliamentary reply on changes in weather cycle due to climate change, 19 March 2026.",
+      "source": "Climate.pdf §12"
+    },
+    {
+      "id": "CL227",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Climate Policy",
+      "chapter": "Sources and Reference Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Government of Karnataka source is cited for the state climate action plan?",
+      "options": {
+        "A": "Karnataka State Action Plan on Climate Change (2024–2030) monitoring portal",
+        "B": "Karnataka Forest Department Annual Report",
+        "C": "Karnataka Disaster Management Plan 2005",
+        "D": "Karnataka Agriculture Census 2021"
+      },
+      "correctAnswer": "A",
+      "explanation": "The notes cite the Government of Karnataka's Karnataka State Action Plan on Climate Change (2024–2030) monitoring portal.",
+      "source": "Climate.pdf §12"
+    },
+    {
+      "id": "CL228",
+      "subject": "General Knowledge",
+      "topic": "Climate",
+      "chapter": "Sources and Reference Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the note on sources, what should be done for examination answers involving a specific year?",
+      "options": {
+        "A": "Use the reference year stated in the question or the latest official publication",
+        "B": "Use any year from memory",
+        "C": "Avoid mentioning any year",
+        "D": "Use only pre-1950 data"
+      },
+      "correctAnswer": "A",
+      "explanation": "Climate statistics and operational warning criteria may be updated; for examination answers involving a specific year, use the reference year stated in the question or the latest official publication.",
+      "source": "Climate.pdf §12"
+    }
+  ]
+}

@@ -1,0 +1,3967 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Extensive question bank derived from Karnataka Government FDA/SDA examination notes (Section 7.6). Covers Governor, Chief Minister, Council of Ministers, Karnataka Legislature, Legislative Assembly, Legislative Council, Karnataka High Court, and State/district administration. Each question is mapped to a specific constitutional Article or administrative fact from the source document. Verify current office-holders from official notifications before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which system of government does Karnataka follow under the Constitution?",
+      "options": {
+        "A": "Presidential system",
+        "B": "Parliamentary system",
+        "C": "Federal system with unitary features only",
+        "D": "Directorial system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka follows the parliamentary system of government, as stated in the Karnataka Government notes.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q002",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the highest law officer of the State of Karnataka?",
+      "options": {
+        "A": "Chief Minister",
+        "B": "Governor",
+        "C": "Advocate General",
+        "D": "Chief Secretary"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Advocate General is the State's highest law officer.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q003",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The State Legislature of Karnataka consists of which of the following?",
+      "options": {
+        "A": "Governor and Legislative Assembly only",
+        "B": "Governor, Legislative Assembly and Legislative Council",
+        "C": "Legislative Assembly and Legislative Council only",
+        "D": "Governor and Legislative Council only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 168, the Karnataka Legislature consists of the Governor, the Legislative Assembly and the Legislative Council.",
+      "source": "Karnataka Government Notes, Section A and D"
+    },
+    {
+      "id": "Q004",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Part of the Constitution deals with the State Executive?",
+      "options": {
+        "A": "Part IV",
+        "B": "Part V",
+        "C": "Part VI",
+        "D": "Part VII"
+      },
+      "correctAnswer": "C",
+      "explanation": "State Executive is covered under Part VI, Articles 153-167.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q005",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 168 to 212 of the Constitution deal with which subject?",
+      "options": {
+        "A": "State Executive",
+        "B": "State Legislature",
+        "C": "High Courts",
+        "D": "Subordinate Courts"
+      },
+      "correctAnswer": "B",
+      "explanation": "State Legislature is covered under Part VI, Articles 168-212.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q006",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Articles of the Constitution deal with High Courts?",
+      "options": {
+        "A": "Articles 214-231",
+        "B": "Articles 233-237",
+        "C": "Articles 315-323",
+        "D": "Articles 243K and 243ZA"
+      },
+      "correctAnswer": "A",
+      "explanation": "High Courts are covered under Part VI, Articles 214-231.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q007",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 233 to 237 of the Constitution deal with which subject?",
+      "options": {
+        "A": "High Courts",
+        "B": "Subordinate courts",
+        "C": "State Public Service Commission",
+        "D": "State Election Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Subordinate courts are covered under Articles 233-237.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q008",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article provides for the Advocate General of a State?",
+      "options": {
+        "A": "Article 164",
+        "B": "Article 165",
+        "C": "Article 167",
+        "D": "Article 168"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 165 provides for the Advocate General of a State.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q009",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "State Public Service Commission is covered under which Articles?",
+      "options": {
+        "A": "Articles 233-237",
+        "B": "Articles 315-323",
+        "C": "Articles 243K and 243ZA",
+        "D": "Articles 214-231"
+      },
+      "correctAnswer": "B",
+      "explanation": "State Public Service Commission is covered under Articles 315-323.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q010",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "State Election Commission is covered under which Articles?",
+      "options": {
+        "A": "Articles 243K and 243ZA",
+        "B": "Articles 315-323",
+        "C": "Articles 233-237",
+        "D": "Articles 214-231"
+      },
+      "correctAnswer": "A",
+      "explanation": "State Election Commission is covered under Articles 243K and 243ZA.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q011",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is Karnataka a unicameral or bicameral State?",
+      "options": {
+        "A": "Unicameral",
+        "B": "Bicameral",
+        "C": "Tricameral",
+        "D": "Unitary"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka is bicameral because its Legislature has two Houses: the Legislative Assembly (Vidhan Sabha) and the Legislative Council (Vidhan Parishad).",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q012",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article provides for the creation or abolition of a Legislative Council?",
+      "options": {
+        "A": "Article 168",
+        "B": "Article 169",
+        "C": "Article 170",
+        "D": "Article 171"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 169 deals with the creation or abolition of a Legislative Council.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q013",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides that there shall be a Governor for each State?",
+      "options": {
+        "A": "Article 152",
+        "B": "Article 153",
+        "C": "Article 154",
+        "D": "Article 155"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 153 provides that there shall be a Governor for each State.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q014",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can the same person be appointed Governor for two or more States?",
+      "options": {
+        "A": "No, never",
+        "B": "Yes, under Article 153",
+        "C": "Only with Parliament's approval",
+        "D": "Only during an emergency"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 153 provides that the same person may be appointed Governor for two or more States.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q015",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who appoints the Governor of Karnataka?",
+      "options": {
+        "A": "Chief Justice of the High Court",
+        "B": "President of India",
+        "C": "Prime Minister",
+        "D": "Chief Minister"
+      },
+      "correctAnswer": "B",
+      "explanation": "The President of India appoints the Governor by warrant under his or her hand and seal under Article 155.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q016",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor hold office during the pleasure of the President?",
+      "options": {
+        "A": "Article 155",
+        "B": "Article 156",
+        "C": "Article 157",
+        "D": "Article 158"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 156, the Governor holds office during the pleasure of the President.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q017",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the normal term of office of a Governor?",
+      "options": {
+        "A": "4 years",
+        "B": "5 years",
+        "C": "6 years",
+        "D": "7 years"
+      },
+      "correctAnswer": "B",
+      "explanation": "The normal term is five years from the date of entering office, under Article 156.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q018",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article specifies the qualifications to become Governor?",
+      "options": {
+        "A": "Article 155",
+        "B": "Article 156",
+        "C": "Article 157",
+        "D": "Article 158"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 157, a person must be a citizen of India and must have completed 35 years of age.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q019",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the minimum age to become a Governor?",
+      "options": {
+        "A": "25 years",
+        "B": "30 years",
+        "C": "35 years",
+        "D": "40 years"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 157, a person must have completed 35 years of age.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q020",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 158, which of the following conditions applies to the Governor?",
+      "options": {
+        "A": "The Governor must be a member of the Legislative Assembly",
+        "B": "The Governor cannot be a member of Parliament or a State Legislature",
+        "C": "The Governor must be a resident of the State",
+        "D": "The Governor must be a retired judge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 158 provides that the Governor cannot be a member of Parliament or a State Legislature.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q021",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If a member of Parliament is appointed Governor, what happens to the seat?",
+      "options": {
+        "A": "The member continues to hold both positions",
+        "B": "The seat is deemed vacant on entering office",
+        "C": "The member must take leave of absence",
+        "D": "The seat is temporarily suspended"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 158, if such a member is appointed Governor, the seat is deemed vacant on entering office.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q022",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who administers the oath of office to the Governor?",
+      "options": {
+        "A": "President of India",
+        "B": "Chief Justice of the High Court exercising jurisdiction in the State",
+        "C": "Chief Minister",
+        "D": "Speaker of the Legislative Assembly"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Chief Justice of the High Court exercising jurisdiction in the State administers the oath under Article 159.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q023",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the absence of the Chief Justice, who administers the oath to the Governor?",
+      "options": {
+        "A": "The Governor of a neighbouring State",
+        "B": "The senior-most available Judge of that High Court",
+        "C": "The Chief Secretary",
+        "D": "The President"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the Chief Justice's absence, the senior-most available Judge of that High Court administers it, under Article 159.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q024",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article vests the executive power of the State in the Governor?",
+      "options": {
+        "A": "Article 153",
+        "B": "Article 154",
+        "C": "Article 155",
+        "D": "Article 156"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 154, the executive power of the State is vested in the Governor.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q025",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 154, the executive power of the Governor is exercised in accordance with which of the following?",
+      "options": {
+        "A": "The Constitution",
+        "B": "The Legislative Assembly's resolutions",
+        "C": "The Chief Minister's orders",
+        "D": "Parliamentary statutes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The executive power of the State is vested in the Governor and is exercised directly or through subordinate officers in accordance with the Constitution.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q026",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who appoints the Chief Minister of Karnataka?",
+      "options": {
+        "A": "President",
+        "B": "Governor",
+        "C": "Speaker",
+        "D": "Chief Justice"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor appoints the Chief Minister under Article 164.",
+      "source": "Karnataka Government Notes, Section B and C"
+    },
+    {
+      "id": "Q027",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "On whose advice does the Governor appoint other ministers?",
+      "options": {
+        "A": "President",
+        "B": "Chief Minister",
+        "C": "Speaker",
+        "D": "Chief Justice"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor appoints other ministers on the advice of the Chief Minister under Article 164.",
+      "source": "Karnataka Government Notes, Section B and C"
+    },
+    {
+      "id": "Q028",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 163, the Governor is ordinarily aided and advised by whom?",
+      "options": {
+        "A": "Chief Justice of the High Court",
+        "B": "Council of Ministers headed by the Chief Minister",
+        "C": "Chief Secretary",
+        "D": "State Public Service Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 163, the Governor is ordinarily aided and advised by the Council of Ministers headed by the Chief Minister.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q029",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The scope of gubernatorial discretion has been explained by which authority?",
+      "options": {
+        "A": "Election Commission",
+        "B": "Supreme Court in several judgments",
+        "C": "Finance Commission",
+        "D": "Law Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "The scope of gubernatorial discretion has been explained by the Supreme Court in several judgments.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q030",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor summon and prorogue the State Legislature and may dissolve the Legislative Assembly?",
+      "options": {
+        "A": "Article 174",
+        "B": "Article 175",
+        "C": "Article 176",
+        "D": "Article 200"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Governor summons and prorogues the State Legislature and may dissolve the Legislative Assembly under Article 174.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q031",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Articles does the Governor address the Legislature?",
+      "options": {
+        "A": "Articles 174 and 175",
+        "B": "Articles 175 and 176",
+        "C": "Articles 176 and 177",
+        "D": "Articles 200 and 201"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor addresses the Legislature under Articles 175 and 176.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q032",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor give or withhold assent to Bills, return certain Bills for reconsideration, or reserve Bills for the President?",
+      "options": {
+        "A": "Article 199",
+        "B": "Article 200",
+        "C": "Article 201",
+        "D": "Article 213"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 200 deals with the Governor's power to give or withhold assent, return Bills, or reserve Bills for the President.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q033",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article can the Governor promulgate ordinances when the Legislature is not in session?",
+      "options": {
+        "A": "Article 200",
+        "B": "Article 202",
+        "C": "Article 213",
+        "D": "Article 214"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 213 authorises the Governor to promulgate an ordinance when the Legislature is not in session.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q034",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An ordinance promulgated by the Governor ordinarily ceases how long after reassembly unless approved?",
+      "options": {
+        "A": "Two weeks",
+        "B": "Four weeks",
+        "C": "Six weeks",
+        "D": "Three months"
+      },
+      "correctAnswer": "C",
+      "explanation": "An ordinance must be laid before the Legislature and ordinarily ceases six weeks after reassembly unless approved or otherwise ceases earlier.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q035",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor cause the annual financial statement (State Budget) to be laid before the Legislature?",
+      "options": {
+        "A": "Article 202",
+        "B": "Article 203",
+        "C": "Article 207",
+        "D": "Article 213"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Governor causes the annual financial statement to be laid before the Legislature under Article 202.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q036",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor recommend demands for grants?",
+      "options": {
+        "A": "Article 202",
+        "B": "Article 203",
+        "C": "Article 207",
+        "D": "Article 213"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor recommends demands for grants under Article 203.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q037",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article can a Money Bill not be introduced in the Legislative Assembly without the Governor's recommendation?",
+      "options": {
+        "A": "Article 199",
+        "B": "Article 202",
+        "C": "Article 207",
+        "D": "Article 213"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Money Bill cannot be introduced in the Legislative Assembly without the Governor's recommendation under Article 207.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q038",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the Governor have pardoning powers?",
+      "options": {
+        "A": "Article 161",
+        "B": "Article 72",
+        "C": "Article 162",
+        "D": "Article 213"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 161 empowers the Governor to grant pardons, reprieves, respites or remissions of punishment.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q039",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about the Governor's power to pardon a death sentence?",
+      "options": {
+        "A": "The Governor has the same power as the President under Article 72",
+        "B": "The Governor does not possess the power to pardon a death sentence in the same manner as the President, but may suspend, remit or commute it",
+        "C": "The Governor cannot interfere with a death sentence at all",
+        "D": "The Governor can pardon a death sentence only with the Chief Justice's consent"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor does not possess the power to pardon a death sentence in the same manner as the President under Article 72, but may suspend, remit or commute a death sentence under the constitutional and statutory framework.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q040",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 200, which of the following is NOT a power of the Governor regarding a Bill?",
+      "options": {
+        "A": "Assent to the Bill",
+        "B": "Withhold assent",
+        "C": "Return a non-Money Bill for reconsideration",
+        "D": "Amend the Bill directly"
+      },
+      "correctAnswer": "D",
+      "explanation": "Article 200 permits the Governor to assent, withhold assent, return a non-Money Bill for reconsideration, or reserve a Bill for the President. The Governor cannot amend the Bill directly.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q041",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Reservation of a Bill for the President is mandatory in which situation?",
+      "options": {
+        "A": "When the Bill is a Money Bill",
+        "B": "When the Bill would derogate from the powers of the High Court so as to endanger its constitutional position",
+        "C": "When the Bill relates to agriculture",
+        "D": "When the Bill is passed by a simple majority"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reservation is mandatory in the constitutionally specified situation where the Bill would derogate from the powers of the High Court so as to endanger its constitutional position.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q042",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article may the President issue a proclamation of President's Rule if satisfied that the government of a State cannot be carried on in accordance with the Constitution?",
+      "options": {
+        "A": "Article 352",
+        "B": "Article 356",
+        "C": "Article 360",
+        "D": "Article 365"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 356, the President may issue a proclamation if satisfied that the government of a State cannot be carried on in accordance with the Constitution.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q043",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about the Governor's report in the context of President's Rule?",
+      "options": {
+        "A": "The Governor's report is constitutionally indispensable",
+        "B": "The Governor's report may be a basis for the President's satisfaction, but a report is not constitutionally indispensable",
+        "C": "The Governor cannot send any report to the President",
+        "D": "The Governor's report is binding on the President"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor's report may be a basis for the President's satisfaction, but a report is not constitutionally indispensable.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q044",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A proclamation of President's Rule is subject to which of the following?",
+      "options": {
+        "A": "Parliamentary approval and judicial review",
+        "B": "Only the Governor's approval",
+        "C": "Only the Supreme Court's approval",
+        "D": "Only the Election Commission's approval"
+      },
+      "correctAnswer": "A",
+      "explanation": "The proclamation is subject to parliamentary approval and judicial review.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q045",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Article does the Governor appoint the Chief Minister?",
+      "options": {
+        "A": "Article 163",
+        "B": "Article 164",
+        "C": "Article 165",
+        "D": "Article 167"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Governor appoints the Chief Minister under Article 164.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q046",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In ordinary circumstances, the Governor appoints which person as Chief Minister?",
+      "options": {
+        "A": "The person nominated by the President",
+        "B": "The person who commands the confidence of the majority in the Legislative Assembly",
+        "C": "The senior-most MLA",
+        "D": "The Leader of the Opposition"
+      },
+      "correctAnswer": "B",
+      "explanation": "In ordinary circumstances, the Governor appoints the person who commands the confidence of the majority in the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q047",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "To whom is the Council of Ministers collectively responsible?",
+      "options": {
+        "A": "Governor",
+        "B": "Legislative Council",
+        "C": "Legislative Assembly",
+        "D": "President"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Council of Ministers is collectively responsible to the Legislative Assembly under Article 164(2).",
+      "source": "Karnataka Government Notes, Section C"
+    },
+        {
+      "id": "Q048",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 164(1A), what is the maximum size of the Karnataka Council of Ministers including the Chief Minister?",
+      "options": {
+        "A": "10 per cent of the total strength of the Legislative Assembly",
+        "B": "15 per cent of the total strength of the Legislative Assembly",
+        "C": "20 per cent of the total strength of the Legislative Assembly",
+        "D": "25 per cent of the total strength of the Legislative Assembly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 164(1A), the total number of ministers, including the Chief Minister, cannot exceed 15 per cent of the total strength of the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q049",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the minimum number of ministers in the Karnataka Council of Ministers under Article 164(1A)?",
+      "options": {
+        "A": "6",
+        "B": "10",
+        "C": "12",
+        "D": "15"
+      },
+      "correctAnswer": "C",
+      "explanation": "The number cannot be less than 12 under Article 164(1A).",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q050",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "With 224 elected Assembly seats in Karnataka, what is the 15 per cent ceiling on the number of ministers?",
+      "options": {
+        "A": "30 ministers",
+        "B": "33 ministers",
+        "C": "36 ministers",
+        "D": "40 ministers"
+      },
+      "correctAnswer": "B",
+      "explanation": "With 224 elected Assembly seats, the 15 per cent ceiling is 33 ministers (15% of 224 = 33.6, rounded to 33).",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q051",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Chief Minister and other ministers hold office during whose pleasure?",
+      "options": {
+        "A": "President",
+        "B": "Governor",
+        "C": "Speaker",
+        "D": "Chief Justice"
+      },
+      "correctAnswer": "B",
+      "explanation": "They hold office during the pleasure of the Governor, but in the parliamentary system this operates in accordance with constitutional conventions and the requirement that the ministry retain the confidence of the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q052",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does collective responsibility of the Council of Ministers mean?",
+      "options": {
+        "A": "Each minister is individually answerable only to the Governor",
+        "B": "The Council of Ministers stands or falls together and is answerable to the Legislative Assembly as a body",
+        "C": "The Chief Minister alone is responsible",
+        "D": "The Council is responsible to the Legislative Council"
+      },
+      "correctAnswer": "B",
+      "explanation": "Collective responsibility means the Council of Ministers stands or falls together and is answerable to the Legislative Assembly as a body.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q053",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does individual responsibility of a minister mean?",
+      "options": {
+        "A": "A minister holds office during the Governor's pleasure, normally exercised on the Chief Minister's advice",
+        "B": "A minister is responsible only to the Legislative Council",
+        "C": "A minister cannot be removed individually",
+        "D": "A minister is responsible to the President"
+      },
+      "correctAnswer": "A",
+      "explanation": "Individual responsibility means a minister holds office during the Governor's pleasure, normally exercised on the Chief Minister's advice.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q054",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 164(4), what happens to a minister who is not a member of either House of the State Legislature for six consecutive months?",
+      "options": {
+        "A": "The minister continues in office",
+        "B": "The minister ceases to be a minister at the end of that period",
+        "C": "The minister's term is extended by six months",
+        "D": "The minister becomes a member automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "A minister who is not a member of either House of the State Legislature for six consecutive months ceases to be a minister at the end of that period, under Article 164(4).",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q055",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who heads the State Government in Karnataka?",
+      "options": {
+        "A": "Governor",
+        "B": "Chief Minister",
+        "C": "Chief Secretary",
+        "D": "Speaker"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Chief Minister heads the State Government and leads the Council of Ministers.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q056",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article requires the Chief Minister to communicate to the Governor all decisions of the Council of Ministers relating to State administration and legislative proposals?",
+      "options": {
+        "A": "Article 163",
+        "B": "Article 164",
+        "C": "Article 167",
+        "D": "Article 168"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 167 requires the Chief Minister to communicate to the Governor all decisions of the Council of Ministers relating to State administration and legislative proposals.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q057",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 167, if the Governor so requires, the Chief Minister must submit for consideration of the Council any matter decided by whom?",
+      "options": {
+        "A": "The Speaker",
+        "B": "An individual minister but not considered by the Council",
+        "C": "The Chief Justice",
+        "D": "The President"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the Governor so requires, the Chief Minister must submit for consideration of the Council any matter decided by an individual minister but not considered by the Council.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q058",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Cabinet",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Cabinet?",
+      "options": {
+        "A": "The entire Council of Ministers",
+        "B": "The smaller, senior decision-making body within the Council of Ministers",
+        "C": "A committee of the Legislative Assembly",
+        "D": "A body of the Legislative Council"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Cabinet is the smaller, senior decision-making body within the Council of Ministers.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q059",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Cabinet",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Amendment inserted Article 352(3), specifically referring to the Union Cabinet for recommending a National Emergency?",
+      "options": {
+        "A": "42nd Amendment",
+        "B": "44th Amendment",
+        "C": "52nd Amendment",
+        "D": "91st Amendment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 44th Amendment inserted Article 352(3), which specifically refers to the Union Cabinet for the purpose of recommending a National Emergency.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q060",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under Article 168, the Legislature of Karnataka consists of which of the following?",
+      "options": {
+        "A": "Governor and Legislative Assembly",
+        "B": "Governor, Legislative Assembly and Legislative Council",
+        "C": "Legislative Assembly and Legislative Council",
+        "D": "Governor and Legislative Council"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 168, the Karnataka Legislature consists of the Governor, the Legislative Assembly and the Legislative Council.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q061",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the principal legislative complex of Karnataka located?",
+      "options": {
+        "A": "Mysuru",
+        "B": "Vidhana Soudha in Bengaluru",
+        "C": "Belagavi",
+        "D": "Dharwad"
+      },
+      "correctAnswer": "B",
+      "explanation": "The principal legislative complex is Vidhana Soudha in Bengaluru.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q062",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which building is also used for legislative sessions, particularly the designated northern Karnataka session?",
+      "options": {
+        "A": "Attara Kacheri",
+        "B": "Suvarna Vidhana Soudha at Belagavi",
+        "C": "Vidhana Soudha in Bengaluru",
+        "D": "Raj Bhavan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Suvarna Vidhana Soudha at Belagavi is also used for legislative sessions, particularly the designated northern Karnataka session.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q063",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between the State Legislature and the State Government?",
+      "options": {
+        "A": "They are the same institution",
+        "B": "The Legislature is the law-making institution; the Government is the executive headed by the Chief Minister and Council of Ministers",
+        "C": "The Legislature is headed by the Chief Minister; the Government by the Governor",
+        "D": "The Government makes laws; the Legislature implements them"
+      },
+      "correctAnswer": "B",
+      "explanation": "The State Legislature is the law-making institution consisting of the Governor and one or two Houses. The State Government is the executive headed by the Chief Minister and Council of Ministers. The ministry is politically accountable to the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q064",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 169, a resolution for creation or abolition of a Legislative Council must be passed by the Legislative Assembly by which majority?",
+      "options": {
+        "A": "Simple majority only",
+        "B": "A majority of its total membership and a majority of not less than two-thirds of members present and voting",
+        "C": "Three-fourths of total membership",
+        "D": "Unanimous vote"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 169, the Legislative Assembly must pass a resolution by a majority of its total membership and by a majority of not less than two-thirds of members present and voting.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q065",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A law passed by Parliament to create or abolish a Legislative Council under Article 169 is treated as which of the following?",
+      "options": {
+        "A": "A constitutional amendment under Article 368",
+        "B": "Not a constitutional amendment under Article 368",
+        "C": "A Money Bill",
+        "D": "A financial bill"
+      },
+      "correctAnswer": "B",
+      "explanation": "Such a law is not treated as a constitutional amendment under Article 368.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q066",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under Article 172, what is the normal duration of the Legislative Assembly?",
+      "options": {
+        "A": "Four years",
+        "B": "Five years from the date appointed for its first meeting, unless sooner dissolved",
+        "C": "Six years",
+        "D": "Seven years"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 172, the Legislative Assembly ordinarily continues for five years from the date appointed for its first meeting, unless sooner dissolved.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q067",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "During a National Emergency, by how much can Parliament extend the term of the Legislative Assembly at a time?",
+      "options": {
+        "A": "Six months at a time",
+        "B": "One year at a time, but not beyond six months after the Emergency ceases",
+        "C": "Two years at a time",
+        "D": "Three years at a time"
+      },
+      "correctAnswer": "B",
+      "explanation": "During a National Emergency, Parliament may extend its term by law for one year at a time, but not beyond six months after the Emergency ceases.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q068",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which House of the Karnataka Legislature is a continuing House and is not subject to dissolution?",
+      "options": {
+        "A": "Legislative Assembly",
+        "B": "Legislative Council",
+        "C": "Both Houses",
+        "D": "Neither House"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Legislative Council is a continuing House and is not subject to dissolution.",
+      "source": "Karnataka Government Notes, Section D and F"
+    },
+    {
+      "id": "Q069",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 174, what is the maximum interval between two sessions of the State Legislature?",
+      "options": {
+        "A": "Three months",
+        "B": "Four months",
+        "C": "Six months",
+        "D": "One year"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 174, six months must not intervene between the last sitting of one session and the first sitting of the next session.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q070",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who presides over the Legislative Assembly of Karnataka?",
+      "options": {
+        "A": "Chairman",
+        "B": "Speaker",
+        "C": "Governor",
+        "D": "Chief Minister"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Speaker presides over the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q071",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who presides over the Legislative Council of Karnataka?",
+      "options": {
+        "A": "Speaker",
+        "B": "Chairman",
+        "C": "Governor",
+        "D": "Chief Minister"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Chairman presides over the Legislative Council.",
+      "source": "Karnataka Government Notes, Section D and F"
+    },
+    {
+      "id": "Q072",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who performs the Speaker's duties when the Speaker's office is vacant or the Speaker is absent?",
+      "options": {
+        "A": "Chairman",
+        "B": "Deputy Speaker",
+        "C": "Chief Minister",
+        "D": "Governor"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deputy Speaker performs the Speaker's duties when the Speaker's office is vacant or the Speaker is absent.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q073",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who performs the Chairman's duties when the Chairman's office is vacant or the Chairman is absent?",
+      "options": {
+        "A": "Deputy Speaker",
+        "B": "Deputy Chairman",
+        "C": "Chief Minister",
+        "D": "Governor"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deputy Chairman performs the corresponding duties when the Chairman's office is vacant or the Chairman is absent.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q074",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a main function of the Karnataka Legislature?",
+      "options": {
+        "A": "Making laws on matters within the State's legislative competence",
+        "B": "Appointing the Governor",
+        "C": "Appointing High Court Judges",
+        "D": "Conducting civil service examinations"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Legislature makes laws on matters within the State's legislative competence; passes the State Budget; holds the executive accountable; debates public issues; and participates in specified constitutional functions such as electing the President through the electoral college.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q075",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many elected seats are there in the Karnataka Legislative Assembly?",
+      "options": {
+        "A": "200",
+        "B": "224",
+        "C": "250",
+        "D": "275"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Assembly has 224 elected seats.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q076",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 170, what is the general constitutional range for the strength of a State Legislative Assembly?",
+      "options": {
+        "A": "40 to 400 members",
+        "B": "50 to 450 members",
+        "C": "60 to 500 members",
+        "D": "70 to 550 members"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 170 sets the general constitutional range of 60 to 500 members, subject to constitutional exceptions and provisions.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q077",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the normal term of the Karnataka Legislative Assembly?",
+      "options": {
+        "A": "Four years",
+        "B": "Five years from the date appointed for its first meeting, unless sooner dissolved",
+        "C": "Six years",
+        "D": "Permanent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Five years from the date appointed for its first meeting, unless sooner dissolved, under Article 172.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q078",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How are members of the Legislative Assembly elected?",
+      "options": {
+        "A": "Indirectly by local authorities",
+        "B": "Directly by the people from territorial constituencies on the basis of adult suffrage",
+        "C": "Nominated by the Governor",
+        "D": "Elected by the Legislative Council"
+      },
+      "correctAnswer": "B",
+      "explanation": "Members are directly elected by the people from territorial constituencies on the basis of adult suffrage, subject to constitutional and statutory qualifications.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q079",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the minimum age to become a member of the Legislative Assembly?",
+      "options": {
+        "A": "21 years",
+        "B": "25 years",
+        "C": "30 years",
+        "D": "35 years"
+      },
+      "correctAnswer": "B",
+      "explanation": "A person must be at least 25 years old to be chosen as a member of a State Legislative Assembly, under Article 173.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q080",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Article does the Legislative Assembly choose its Speaker and Deputy Speaker?",
+      "options": {
+        "A": "Article 178",
+        "B": "Article 179",
+        "C": "Article 180",
+        "D": "Article 182"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Legislative Assembly chooses two of its members to be Speaker and Deputy Speaker under Article 178.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q081",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Speaker of the Legislative Assembly decides disqualification petitions under which Schedule?",
+      "options": {
+        "A": "Fifth Schedule",
+        "B": "Sixth Schedule",
+        "C": "Seventh Schedule",
+        "D": "Tenth Schedule"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Speaker also decides disqualification petitions under the Tenth Schedule, subject to judicial review.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q082",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 179, the Speaker may be removed by a resolution of the Assembly passed by which majority?",
+      "options": {
+        "A": "Simple majority of members present and voting",
+        "B": "A majority of all the then members of the Assembly",
+        "C": "Two-thirds of members present and voting",
+        "D": "Three-fourths of total membership"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 179, the Speaker may be removed by a resolution of the Assembly passed by a majority of all the then members of the Assembly.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q083",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the minimum notice required for a resolution to remove the Speaker of the Legislative Assembly?",
+      "options": {
+        "A": "7 days",
+        "B": "10 days",
+        "C": "14 days",
+        "D": "30 days"
+      },
+      "correctAnswer": "C",
+      "explanation": "At least 14 days' notice is required for such a resolution under Article 179.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q084",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 199, a Bill is a Money Bill in a State Legislature if it contains only provisions dealing with which matters?",
+      "options": {
+        "A": "Any subject related to agriculture",
+        "B": "Specified financial matters such as taxation, State borrowing, custody and withdrawal from the Consolidated Fund of the State, appropriation and related matters",
+        "C": "Only defence matters",
+        "D": "Only education matters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 199, a Bill is a Money Bill if it contains only provisions dealing with specified financial matters such as taxation, State borrowing, custody and withdrawal from the Consolidated Fund of the State, appropriation and related matters.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q085",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Whose decision on whether a Bill is a Money Bill is final under Article 199?",
+      "options": {
+        "A": "The Governor's",
+        "B": "The Speaker's",
+        "C": "The Chief Minister's",
+        "D": "The Chairman's"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Speaker's decision on whether a Bill is a Money Bill is final under the Article, subject to constitutional interpretation by courts.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q086",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Can the Legislative Council amend or reject a State Money Bill?",
+      "options": {
+        "A": "Yes, it can amend and reject",
+        "B": "No, it may only make recommendations and must return the Bill within 14 days",
+        "C": "Yes, but only with the Governor's consent",
+        "D": "It can reject but not amend"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Council may make recommendations and must return the Money Bill to the Assembly within 14 days. The Assembly may accept or reject any or all recommendations.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q087",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If the Legislative Council does not return a Money Bill within 14 days, what happens?",
+      "options": {
+        "A": "The Bill lapses",
+        "B": "It is deemed passed by both Houses in the form passed by the Assembly",
+        "C": "The Governor decides",
+        "D": "A joint sitting is convened"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the Council does not return it within 14 days, it is deemed passed by both Houses in the form passed by the Assembly.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q088",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For an ordinary Bill, what is the maximum delay the Legislative Council can cause across the two rounds under Article 197?",
+      "options": {
+        "A": "About two months",
+        "B": "About three months",
+        "C": "About four months",
+        "D": "About six months"
+      },
+      "correctAnswer": "C",
+      "explanation": "For an ordinary Bill, the Council can delay passage for a maximum of about four months across the two rounds under Article 197: three months on the first consideration and one month after the Assembly repasses the Bill.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q089",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Can the Legislative Council permanently block an ordinary Bill?",
+      "options": {
+        "A": "Yes, it can permanently block it",
+        "B": "No, it cannot permanently block an ordinary Bill; there is no provision for a joint sitting of the two State Houses",
+        "C": "Yes, with the Governor's consent",
+        "D": "Only during an emergency"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Council cannot permanently block an ordinary Bill; there is no provision for a joint sitting of the two State Houses.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q090",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a no-confidence motion in the Karnataka Legislative Assembly?",
+      "options": {
+        "A": "A motion to remove the Governor",
+        "B": "A motion that tests whether the Council of Ministers retains the confidence of the Assembly",
+        "C": "A motion to dissolve the Legislative Council",
+        "D": "A motion to amend the Constitution"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is a motion that tests whether the Council of Ministers retains the confidence of the Assembly. Since the ministry is collectively responsible to the Assembly, defeat on a no-confidence motion ordinarily requires the ministry to resign.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q091",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens if the Council of Ministers is defeated on a no-confidence motion?",
+      "options": {
+        "A": "Nothing happens",
+        "B": "The ministry ordinarily has to resign",
+        "C": "The Speaker resigns",
+        "D": "The Assembly is automatically dissolved"
+      },
+      "correctAnswer": "B",
+      "explanation": "Since the ministry is collectively responsible to the Assembly, defeat on a no-confidence motion ordinarily requires the ministry to resign.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+        {
+      "id": "Q092",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Schedule contains the anti-defection law applicable to Karnataka MLAs?",
+      "options": {
+        "A": "Fifth Schedule",
+        "B": "Sixth Schedule",
+        "C": "Ninth Schedule",
+        "D": "Tenth Schedule"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Tenth Schedule, added by the 52nd Constitutional Amendment Act, 1985 and modified by the 91st Amendment Act, 2003, provides grounds for disqualification on defection.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q093",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The anti-defection law in the Tenth Schedule was added by which Constitutional Amendment Act?",
+      "options": {
+        "A": "42nd Amendment Act, 1976",
+        "B": "44th Amendment Act, 1978",
+        "C": "52nd Amendment Act, 1985",
+        "D": "91st Amendment Act, 2003"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Tenth Schedule was added by the 52nd Constitutional Amendment Act, 1985.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q094",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Tenth Schedule was modified by which Constitutional Amendment Act?",
+      "options": {
+        "A": "42nd Amendment Act",
+        "B": "44th Amendment Act",
+        "C": "52nd Amendment Act",
+        "D": "91st Amendment Act, 2003"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Tenth Schedule was modified by the 91st Amendment Act, 2003.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q095",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who decides disqualification petitions under the Tenth Schedule, subject to judicial review?",
+      "options": {
+        "A": "The Governor",
+        "B": "The Presiding Officer",
+        "C": "The Chief Minister",
+        "D": "The Chief Justice of the High Court"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Presiding Officer decides such petitions, subject to judicial review.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q096",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many members are there in the Karnataka Legislative Council?",
+      "options": {
+        "A": "40",
+        "B": "60",
+        "C": "75",
+        "D": "100"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Council has a sanctioned strength of 75 members.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q097",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171, a State Legislative Council cannot exceed what fraction of the strength of the Legislative Assembly?",
+      "options": {
+        "A": "One-half",
+        "B": "One-third",
+        "C": "One-fourth",
+        "D": "Two-thirds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 171 provides that a State Legislative Council cannot exceed one-third of the strength of the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q098",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the minimum number of members a State Legislative Council can have under Article 171?",
+      "options": {
+        "A": "30",
+        "B": "40",
+        "C": "50",
+        "D": "60"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 171 provides that a State Legislative Council cannot have fewer than 40 members.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q099",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "As nearly as possible, how often do one-third of the members of the Legislative Council retire?",
+      "options": {
+        "A": "Every year",
+        "B": "Every second year",
+        "C": "Every third year",
+        "D": "Every fifth year"
+      },
+      "correctAnswer": "B",
+      "explanation": "As nearly as possible, one-third of its members retire every second year under Article 172(2).",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q100",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the minimum age to become a member of the Legislative Council?",
+      "options": {
+        "A": "21 years",
+        "B": "25 years",
+        "C": "30 years",
+        "D": "35 years"
+      },
+      "correctAnswer": "C",
+      "explanation": "A person must be at least 30 years old to be chosen as a member of a State Legislative Council, under Article 173.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q101",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171, what fraction of Legislative Council members is elected by local authorities?",
+      "options": {
+        "A": "One-twelfth",
+        "B": "One-sixth",
+        "C": "One-third",
+        "D": "One-half"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 171, as nearly as may be, one-third are elected by local authorities.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q102",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171, what fraction of Legislative Council members is elected by graduates?",
+      "options": {
+        "A": "One-twelfth",
+        "B": "One-sixth",
+        "C": "One-third",
+        "D": "One-half"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 171, as nearly as may be, one-twelfth are elected by graduates.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q103",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171, what fraction of Legislative Council members is elected by teachers?",
+      "options": {
+        "A": "One-twelfth",
+        "B": "One-sixth",
+        "C": "One-third",
+        "D": "One-half"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 171, as nearly as may be, one-twelfth are elected by teachers.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q104",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171, what fraction of Legislative Council members is elected by members of the Legislative Assembly?",
+      "options": {
+        "A": "One-twelfth",
+        "B": "One-sixth",
+        "C": "One-third",
+        "D": "One-half"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 171, as nearly as may be, one-third are elected by members of the Legislative Assembly from among persons who are not Assembly members.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q105",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who nominates the remaining members of the Legislative Council after elections?",
+      "options": {
+        "A": "President",
+        "B": "Governor",
+        "C": "Chief Minister",
+        "D": "Speaker"
+      },
+      "correctAnswer": "B",
+      "explanation": "The remainder are nominated by the Governor under Article 171.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q106",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 171(5), the Governor nominates persons having special knowledge or practical experience in which fields?",
+      "options": {
+        "A": "Literature, science, art, cooperative movement or social service",
+        "B": "Law, medicine, engineering, agriculture or trade",
+        "C": "Defence, foreign affairs, finance, commerce or industry",
+        "D": "Sports, cinema, music, dance or drama"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Governor nominates persons having special knowledge or practical experience in literature, science, art, cooperative movement or social service, under Article 171(5).",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q107",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following best describes the role of the Legislative Council?",
+      "options": {
+        "A": "It forms the government",
+        "B": "It reviews and debates legislation, suggests amendments, represents special electorates, and provides a revising chamber",
+        "C": "It controls the Council of Ministers",
+        "D": "It appoints the Governor"
+      },
+      "correctAnswer": "B",
+      "explanation": "It reviews and debates legislation, suggests amendments, represents local authorities, graduates and teachers through special electorates, and provides a revising chamber. Its powers are weaker than those of the Legislative Assembly, especially in financial matters and government formation.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q108",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can the Legislative Council remove the Chief Minister or Council of Ministers?",
+      "options": {
+        "A": "Yes, by a no-confidence motion",
+        "B": "No, the Council of Ministers is collectively responsible to the Legislative Assembly, not the Legislative Council",
+        "C": "Yes, with the Governor's approval",
+        "D": "Only during an emergency"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The Council of Ministers is collectively responsible to the Legislative Assembly, not to the Legislative Council. The Council cannot pass a binding no-confidence motion that removes the ministry.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q109",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Under which Article does the Legislative Council elect a Chairman and Deputy Chairman from among its members?",
+      "options": {
+        "A": "Article 178",
+        "B": "Article 179",
+        "C": "Article 182",
+        "D": "Article 183"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Chairman presides over the Council under Article 182. The Council elects a Chairman and Deputy Chairman from among its members.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q110",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Article provides that there shall be a High Court for each State?",
+      "options": {
+        "A": "Article 213",
+        "B": "Article 214",
+        "C": "Article 215",
+        "D": "Article 216"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 214 provides that there shall be a High Court for each State, subject to constitutional provisions permitting a common High Court for two or more States or Union Territories.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q111",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the principal seat of the High Court of Karnataka?",
+      "options": {
+        "A": "Mysuru",
+        "B": "Bengaluru",
+        "C": "Dharwad",
+        "D": "Kalaburgi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The principal seat is at Bengaluru.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q112",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where are the permanent benches of the High Court of Karnataka located?",
+      "options": {
+        "A": "Mysuru and Mangaluru",
+        "B": "Dharwad and Kalaburgi",
+        "C": "Hubballi and Belagavi",
+        "D": "Bengaluru and Mysuru"
+      },
+      "correctAnswer": "B",
+      "explanation": "The High Court also has permanent benches at Dharwad and Kalaburgi.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q113",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When did the High Court of the reorganised Mysore State come into being?",
+      "options": {
+        "A": "15 August 1947",
+        "B": "26 January 1950",
+        "C": "1 November 1956",
+        "D": "1 November 1973"
+      },
+      "correctAnswer": "C",
+      "explanation": "Following the States Reorganisation Act, 1956, the High Court of the reorganised Mysore State came into being on 1 November 1956.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q114",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the State renamed Karnataka?",
+      "options": {
+        "A": "1 November 1956",
+        "B": "1 November 1973",
+        "C": "26 January 1950",
+        "D": "15 August 1947"
+      },
+      "correctAnswer": "B",
+      "explanation": "The State was renamed Karnataka on 1 November 1973, and the High Court came to be known as the High Court of Karnataka.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q115",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court's principal seat in Bengaluru functions in which historic building?",
+      "options": {
+        "A": "Vidhana Soudha",
+        "B": "Attara Kacheri",
+        "C": "Suvarna Vidhana Soudha",
+        "D": "Raj Bhavan"
+      },
+      "correctAnswer": "B",
+      "explanation": "The High Court's principal seat in Bengaluru functions in the historic Attara Kacheri building opposite Vidhana Soudha.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q116",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Attara Kacheri building originally housed offices of which administration?",
+      "options": {
+        "A": "The British colonial administration",
+        "B": "The erstwhile Mysore administration",
+        "C": "The Nizam's administration",
+        "D": "The Madras Presidency"
+      },
+      "correctAnswer": "B",
+      "explanation": "The building originally housed offices of the erstwhile Mysore administration and became the seat of the High Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q117",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 216, every High Court consists of which of the following?",
+      "options": {
+        "A": "A Chief Justice and such other Judges as the President may from time to time deem necessary to appoint",
+        "B": "A Chief Justice and a fixed number of 30 Judges",
+        "C": "Only a Chief Justice",
+        "D": "A Chief Justice and Judges appointed by the Governor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 216, every High Court consists of a Chief Justice and such other Judges as the President may from time to time deem necessary to appoint.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q118",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who appoints the Chief Justice and other Judges of the Karnataka High Court?",
+      "options": {
+        "A": "Governor",
+        "B": "President",
+        "C": "Chief Justice of India",
+        "D": "Chief Minister"
+      },
+      "correctAnswer": "B",
+      "explanation": "The President appoints High Court Judges under Article 217 after the constitutionally required consultation process.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q119",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 217, the appointment of a High Court Judge requires consultation with which authorities?",
+      "options": {
+        "A": "The Chief Justice of India, the Governor of the State and, for appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court",
+        "B": "Only the Chief Justice of India",
+        "C": "Only the Governor",
+        "D": "The President, the Prime Minister and the Chief Minister"
+      },
+      "correctAnswer": "A",
+      "explanation": "The President appoints High Court Judges under Article 217 after the constitutionally required consultation process, including consultation with the Chief Justice of India, the Governor of the State and, for appointment of a Judge other than the Chief Justice, the Chief Justice of the High Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q120",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 217, a Judge of a High Court holds office until attaining what age?",
+      "options": {
+        "A": "60 years",
+        "B": "62 years",
+        "C": "65 years",
+        "D": "70 years"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Judge of a High Court holds office until attaining 62 years of age, under Article 217.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q121",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 217, what qualifications are required to be appointed a High Court Judge?",
+      "options": {
+        "A": "Citizen of India and must have held a judicial office in India for at least ten years, or have been an advocate of a High Court for at least ten years",
+        "B": "Citizen of India and must have completed 35 years of age",
+        "C": "Must be a member of the Bar for at least five years",
+        "D": "Must be a District Judge for at least three years"
+      },
+      "correctAnswer": "A",
+      "explanation": "The person must be a citizen of India and must have held a judicial office in India for at least ten years, or have been an advocate of a High Court (or two or more such Courts in succession) for at least ten years, under Article 217.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q122",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A High Court Judge may be removed by the President on which grounds?",
+      "options": {
+        "A": "Proved misbehaviour or incapacity",
+        "B": "Loss of confidence of the Governor",
+        "C": "Completion of 62 years of age",
+        "D": "Recommendation of the Chief Minister"
+      },
+      "correctAnswer": "A",
+      "explanation": "A High Court Judge may be removed by the President in the same manner and on the same grounds as a Judge of the Supreme Court: proved misbehaviour or incapacity, following the prescribed parliamentary address and special-majority process.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q123",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article may the High Court issue directions, orders or writs including habeas corpus, mandamus, prohibition, quo warranto and certiorari?",
+      "options": {
+        "A": "Article 32",
+        "B": "Article 226",
+        "C": "Article 227",
+        "D": "Article 235"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 226, the High Court may issue directions, orders or writs, including habeas corpus, mandamus, prohibition, quo warranto and certiorari, for enforcement of Fundamental Rights and for any other purpose.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q124",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The writ jurisdiction of the High Court under Article 226 is wider in subject matter than which jurisdiction of the Supreme Court?",
+      "options": {
+        "A": "Article 131",
+        "B": "Article 32",
+        "C": "Article 136",
+        "D": "Article 143"
+      },
+      "correctAnswer": "B",
+      "explanation": "This jurisdiction is wider in subject matter than Article 32 jurisdiction of the Supreme Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q125",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article does the High Court have superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction?",
+      "options": {
+        "A": "Article 226",
+        "B": "Article 227",
+        "C": "Article 235",
+        "D": "Article 233"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 227 gives the High Court superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction, subject to constitutional exceptions.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q126",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Judicial review by the High Court is part of which feature of the Constitution?",
+      "options": {
+        "A": "Directive Principles",
+        "B": "Fundamental Duties",
+        "C": "Basic structure",
+        "D": "Concurrent List"
+      },
+      "correctAnswer": "C",
+      "explanation": "Judicial review is part of the basic structure of the Constitution.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q127",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under which Article is control over district courts and courts subordinate thereto vested in the High Court?",
+      "options": {
+        "A": "Article 233",
+        "B": "Article 234",
+        "C": "Article 235",
+        "D": "Article 237"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under Article 235, control over district courts and courts subordinate thereto, including posting, promotion and leave of persons belonging to the State judicial service, is vested in the High Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q128",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 235, the High Court's control over subordinate courts includes which of the following?",
+      "options": {
+        "A": "Posting, promotion and leave of persons belonging to the State judicial service",
+        "B": "Appointment of the Chief Minister",
+        "C": "Passing the State Budget",
+        "D": "Conducting elections"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 235, control over district courts and courts subordinate thereto, including posting, promotion and leave of persons belonging to the State judicial service, is vested in the High Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q129",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the State Secretariat?",
+      "options": {
+        "A": "The central administrative machinery of the State Government",
+        "B": "The High Court's administrative wing",
+        "C": "The Legislative Assembly's office",
+        "D": "The Governor's household"
+      },
+      "correctAnswer": "A",
+      "explanation": "The State Secretariat is the central administrative machinery of the State Government. It assists the Chief Minister and Council of Ministers in policy formulation, coordination, inter-departmental consultation, Cabinet work, legislative business and monitoring implementation.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q130",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the senior-most civil servant in the State and the principal administrative adviser to the State Government?",
+      "options": {
+        "A": "Advocate General",
+        "B": "Chief Secretary",
+        "C": "Deputy Commissioner",
+        "D": "Superintendent of Police"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Chief Secretary is the senior-most civil servant in the State and the principal administrative adviser to the State Government.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q131",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The post of Chief Secretary is which type of office?",
+      "options": {
+        "A": "A constitutional office created by a specific Article",
+        "B": "An administrative office, not a constitutional office created by a specific Article",
+        "C": "A judicial office",
+        "D": "A legislative office"
+      },
+      "correctAnswer": "B",
+      "explanation": "The post is an administrative office, not a constitutional office created by a specific Article.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q132",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the principal district-level representative of the State administration in Karnataka?",
+      "options": {
+        "A": "Chief Secretary",
+        "B": "Deputy Commissioner",
+        "C": "Superintendent of Police",
+        "D": "Zilla Panchayat CEO"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Deputy Commissioner is the principal district-level representative of the State administration.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q133",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following functions does the Deputy Commissioner commonly perform?",
+      "options": {
+        "A": "Revenue, land administration, election-related, disaster-management and coordination functions",
+        "B": "Commanding the district police",
+        "C": "Presiding over the High Court",
+        "D": "Passing the State Budget"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Deputy Commissioner commonly performs revenue, land administration, election-related, disaster-management and coordination functions under applicable laws and government rules.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q134",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In many districts, the Deputy Commissioner also functions as which authority for specified executive-magisterial purposes?",
+      "options": {
+        "A": "District Judge",
+        "B": "District Magistrate",
+        "C": "Superintendent of Police",
+        "D": "Zilla Panchayat CEO"
+      },
+      "correctAnswer": "B",
+      "explanation": "In many districts the Deputy Commissioner also functions as District Magistrate for specified executive-magisterial purposes.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q135",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who heads district police administration and maintains public order within the district?",
+      "options": {
+        "A": "Deputy Commissioner",
+        "B": "Superintendent of Police",
+        "C": "Chief Secretary",
+        "D": "Zilla Panchayat CEO"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Superintendent of Police heads district police administration, maintains public order and supervises crime prevention and investigation within the district.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q136",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Superintendent of Police functions subject to which framework?",
+      "options": {
+        "A": "The Police Act, criminal procedure law and State rules",
+        "B": "The Constitution's Article 356 only",
+        "C": "The High Court's direct supervision",
+        "D": "The Governor's personal orders"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Superintendent of Police heads district police administration, maintains public order and supervises crime prevention and investigation within the district, subject to the Police Act, criminal procedure law and State rules.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+        {
+      "id": "Q137",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between the Deputy Commissioner and the Zilla Panchayat Chief Executive Officer?",
+      "options": {
+        "A": "The Deputy Commissioner heads the district's general/revenue administration; the CEO heads the executive administration of the rural local-government institution under the Karnataka Panchayat Raj framework",
+        "B": "Both perform identical functions",
+        "C": "The CEO heads revenue administration; the Deputy Commissioner heads the Panchayat",
+        "D": "The Deputy Commissioner is a judicial officer; the CEO is a police officer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Deputy Commissioner heads the district's general/revenue administration and performs functions assigned under law. The Chief Executive Officer of the Zilla Panchayat heads the executive administration of the rural local-government institution under the Karnataka Panchayat Raj framework. Their roles are distinct, although coordination is required.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q138",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Karnataka Administrative Service (KAS)?",
+      "options": {
+        "A": "A State civil service through which officers perform executive, revenue, developmental and administrative functions",
+        "B": "A judicial service",
+        "C": "A legislative committee",
+        "D": "A police service"
+      },
+      "correctAnswer": "A",
+      "explanation": "KAS is a State civil service through which officers perform executive, revenue, developmental and administrative functions in State departments and field offices.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q139",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which body performs recruitment functions for the Karnataka Administrative Service (KAS)?",
+      "options": {
+        "A": "Union Public Service Commission",
+        "B": "Karnataka Public Service Commission",
+        "C": "Election Commission of India",
+        "D": "Finance Commission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Recruitment and service matters are governed by State rules, with the Karnataka Public Service Commission performing recruitment functions assigned to it.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q140",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the reorganised Mysore State formed after linguistic reorganisation?",
+      "options": {
+        "A": "15 August 1947",
+        "B": "26 January 1950",
+        "C": "1 November 1956",
+        "D": "1 November 1973"
+      },
+      "correctAnswer": "C",
+      "explanation": "The reorganised Mysore State was formed on 1 November 1956 under the States Reorganisation framework.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q141",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Mysore State renamed Karnataka?",
+      "options": {
+        "A": "1 November 1956",
+        "B": "1 November 1973",
+        "C": "26 January 1950",
+        "D": "15 August 1947"
+      },
+      "correctAnswer": "B",
+      "explanation": "It was renamed Karnataka on 1 November 1973.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q142",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the first Assembly of Mysore State under the Constitution constituted?",
+      "options": {
+        "A": "1947",
+        "B": "1950",
+        "C": "1952",
+        "D": "1956"
+      },
+      "correctAnswer": "C",
+      "explanation": "The first Assembly under the Constitution was constituted in 1952.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q143",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When did the reorganised State's first Assembly sitting in the newly built Vidhana Soudha take place?",
+      "options": {
+        "A": "1 November 1956",
+        "B": "19 December 1956",
+        "C": "26 January 1957",
+        "D": "1 November 1973"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reorganised State's first Assembly sitting in the newly built Vidhana Soudha took place on 19 December 1956.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q144",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Vidhana Soudha inaugurated?",
+      "options": {
+        "A": "1952",
+        "B": "1956",
+        "C": "1973",
+        "D": "1947"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vidhana Soudha was inaugurated in 1956 and became the principal seat of the Karnataka Legislature and State Secretariat.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q145",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Vidhana Soudha was built under the leadership of which Chief Minister?",
+      "options": {
+        "A": "S. Nijalingappa",
+        "B": "Kengal Hanumanthaiah",
+        "C": "Devaraj Urs",
+        "D": "Veerendra Patil"
+      },
+      "correctAnswer": "B",
+      "explanation": "It was built under the leadership of Chief Minister Kengal Hanumanthaiah.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q146",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two Houses of the Karnataka Legislature and their strengths?",
+      "options": {
+        "A": "Legislative Assembly: 224 elected seats; Legislative Council: 75 members",
+        "B": "Legislative Assembly: 250 seats; Legislative Council: 100 members",
+        "C": "Legislative Assembly: 200 seats; Legislative Council: 60 members",
+        "D": "Legislative Assembly: 224 seats; Legislative Council: 40 members"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Legislative Assembly has 224 elected seats. The Legislative Council has a sanctioned strength of 75 members.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q147",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which House of the Karnataka Legislature is permanent?",
+      "options": {
+        "A": "Legislative Assembly",
+        "B": "Legislative Council",
+        "C": "Both Houses",
+        "D": "Neither House"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Legislative Council is permanent; the Legislative Assembly ordinarily has a five-year term and may be dissolved earlier.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q148",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which House of the Karnataka Legislature controls the Council of Ministers?",
+      "options": {
+        "A": "Legislative Council",
+        "B": "Legislative Assembly",
+        "C": "Both Houses equally",
+        "D": "Neither House"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Legislative Assembly, because the Council of Ministers is collectively responsible to it under Article 164(2).",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q149",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Karnataka institution is the highest court in the State?",
+      "options": {
+        "A": "District Court",
+        "B": "High Court of Karnataka",
+        "C": "Supreme Court",
+        "D": "Lokayukta"
+      },
+      "correctAnswer": "B",
+      "explanation": "The High Court of Karnataka, with its principal seat at Bengaluru and permanent benches at Dharwad and Kalaburgi, is the highest court in the State.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q150",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Specific Facts",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which official body provides legislative records, bills, proceedings and committee information for Karnataka?",
+      "options": {
+        "A": "The Karnataka Legislature's official website",
+        "B": "The High Court's website",
+        "C": "The Governor's office",
+        "D": "The Chief Secretary's office"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Legislature's official website provides Assembly and Council information, including bills, debates, questions, committees, bulletins and legislative records.",
+      "source": "Karnataka Government Notes, Section I"
+    },
+    {
+      "id": "Q151",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 153 to 162 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Governor",
+        "B": "Council of Ministers / Chief Minister",
+        "C": "State Legislature",
+        "D": "High Courts"
+      },
+      "correctAnswer": "A",
+      "explanation": "As per the Quick Article Revision table, Articles 153-162 deal with the Governor.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q152",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 163 to 167 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Governor",
+        "B": "Council of Ministers / Chief Minister",
+        "C": "State Legislature",
+        "D": "High Courts"
+      },
+      "correctAnswer": "B",
+      "explanation": "As per the Quick Article Revision table, Articles 163-167 deal with Council of Ministers / Chief Minister.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q153",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 168 to 177 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Governor",
+        "B": "Council of Ministers / Chief Minister",
+        "C": "State Legislature",
+        "D": "High Courts"
+      },
+      "correctAnswer": "C",
+      "explanation": "As per the Quick Article Revision table, Articles 168-177 deal with the State Legislature.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q154",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Articles deal with the Legislative Assembly according to the Quick Article Revision table?",
+      "options": {
+        "A": "170, 172, 178-195",
+        "B": "169, 171, 172, 182-193",
+        "C": "196-201",
+        "D": "202-207"
+      },
+      "correctAnswer": "A",
+      "explanation": "As per the Quick Article Revision table, the Legislative Assembly is covered under Articles 170, 172, 178-195.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q155",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Articles deal with the Legislative Council according to the Quick Article Revision table?",
+      "options": {
+        "A": "170, 172, 178-195",
+        "B": "169, 171, 172, 182-193",
+        "C": "196-201",
+        "D": "202-207"
+      },
+      "correctAnswer": "B",
+      "explanation": "As per the Quick Article Revision table, the Legislative Council is covered under Articles 169, 171, 172, 182-193.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q156",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 196 to 201 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Bills / Money Bills / Assent",
+        "B": "Budget and financial procedure",
+        "C": "Legislative procedure / privileges",
+        "D": "High Courts"
+      },
+      "correctAnswer": "A",
+      "explanation": "As per the Quick Article Revision table, Articles 196-201 deal with Bills / Money Bills / Assent.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q157",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 202 to 207 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Bills / Money Bills / Assent",
+        "B": "Budget and financial procedure",
+        "C": "Legislative procedure / privileges",
+        "D": "High Courts"
+      },
+      "correctAnswer": "B",
+      "explanation": "As per the Quick Article Revision table, Articles 202-207 deal with Budget and financial procedure.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q158",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 208 to 212 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Bills / Money Bills / Assent",
+        "B": "Budget and financial procedure",
+        "C": "Legislative procedure / privileges",
+        "D": "High Courts"
+      },
+      "correctAnswer": "C",
+      "explanation": "As per the Quick Article Revision table, Articles 208-212 deal with Legislative procedure / privileges.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q159",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 214 to 231 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Bills / Money Bills / Assent",
+        "B": "Budget and financial procedure",
+        "C": "High Courts",
+        "D": "Subordinate courts"
+      },
+      "correctAnswer": "C",
+      "explanation": "As per the Quick Article Revision table, Articles 214-231 deal with High Courts.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q160",
+      "subject": "Indian Constitution",
+      "topic": "Quick Article Revision",
+      "chapter": "Article Mapping",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Articles 233 to 237 of the Constitution deal with which topic?",
+      "options": {
+        "A": "Bills / Money Bills / Assent",
+        "B": "Budget and financial procedure",
+        "C": "High Courts",
+        "D": "Subordinate courts"
+      },
+      "correctAnswer": "D",
+      "explanation": "As per the Quick Article Revision table, Articles 233-237 deal with Subordinate courts.",
+      "source": "Karnataka Government Notes, Quick Article Revision"
+    },
+    {
+      "id": "Q161",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Governor's ordinance-making power under Article 213 can be exercised when which condition is met?",
+      "options": {
+        "A": "When the Legislative Assembly is not in session, or where the State has two Houses, when both Houses are not in session, and immediate action is necessary",
+        "B": "Only when the Legislative Assembly is dissolved",
+        "C": "Only during a National Emergency",
+        "D": "Only with the President's prior approval"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 213 authorises the Governor to promulgate an ordinance when the Legislative Assembly is not in session, or where the State has two Houses, when both Houses are not in session, and immediate action is necessary.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q162",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "An ordinance promulgated by the Governor has what force?",
+      "options": {
+        "A": "It has the force of law",
+        "B": "It is merely advisory",
+        "C": "It has no legal force until ratified by Parliament",
+        "D": "It has the force of a constitutional amendment"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ordinance has the force of law but must be laid before the Legislature and ordinarily ceases six weeks after reassembly unless approved or otherwise ceases earlier.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q163",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Governor's pardoning power under Article 161 extends to cases relating to which matters?",
+      "options": {
+        "A": "Matters within the State's executive power",
+        "B": "All matters including court-martial",
+        "C": "Only Union matters",
+        "D": "Only offences against the Constitution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 161 empowers the Governor to grant pardons, reprieves, respites or remissions of punishment, or to suspend, remit or commute sentences, in cases relating to matters within the State's executive power.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q164",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about the Governor's discretion under Article 163?",
+      "options": {
+        "A": "The Governor has unlimited discretion",
+        "B": "Discretion is limited to matters in which the Constitution expressly or necessarily provides for it",
+        "C": "The Governor has no discretion at all",
+        "D": "Discretion is exercised only on the Chief Minister's advice"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 163, the Governor is ordinarily aided and advised by the Council of Ministers headed by the Chief Minister. Discretion is limited to matters in which the Constitution expressly or necessarily provides for it.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q165",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a main function of the Chief Minister?",
+      "options": {
+        "A": "Administering the oath to the Governor",
+        "B": "Acting as the principal link between the Governor and the Council of Ministers",
+        "C": "Presiding over the Legislative Council",
+        "D": "Deciding Money Bill status"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Chief Minister heads the State Government, leads the Council of Ministers, allocates or coordinates ministerial portfolios, advises the Governor on ministerial appointments and legislative matters, communicates Cabinet decisions to the Governor, and acts as the principal link between the Governor and the Council of Ministers.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q166",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a function of the Karnataka Legislature?",
+      "options": {
+        "A": "Making laws on matters within the State's legislative competence",
+        "B": "Passing the State Budget and authorising public expenditure",
+        "C": "Holding the executive accountable through questions, motions and committees",
+        "D": "Appointing the Chief Justice of the High Court"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Legislature makes laws, passes the Budget, holds the executive accountable, debates public issues, and participates in specified constitutional functions such as electing the President through the electoral college. It does not appoint the Chief Justice of the High Court.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q167",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 197, how long can the Legislative Council delay an ordinary Bill on first consideration?",
+      "options": {
+        "A": "One month",
+        "B": "Two months",
+        "C": "Three months",
+        "D": "Four months"
+      },
+      "correctAnswer": "C",
+      "explanation": "For an ordinary Bill, the Council can delay passage for a maximum of about four months across the two rounds under Article 197: three months on the first consideration and one month after the Assembly repasses the Bill.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q168",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 197, after the Assembly repasses an ordinary Bill, how long can the Legislative Council delay it?",
+      "options": {
+        "A": "One month",
+        "B": "Two months",
+        "C": "Three months",
+        "D": "Four months"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 197, the Council can delay for three months on the first consideration and one month after the Assembly repasses the Bill.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q169",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which special electorates are represented in the Karnataka Legislative Council?",
+      "options": {
+        "A": "Local authorities, graduates and teachers",
+        "B": "Industrial workers and farmers",
+        "C": "Doctors and lawyers",
+        "D": "Women and minorities"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Council represents local authorities, graduates and teachers through special electorates and provides a revising chamber.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q170",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court of Karnataka exercises jurisdiction over which territory?",
+      "options": {
+        "A": "The entire State of Karnataka",
+        "B": "Only Bengaluru",
+        "C": "Only the districts of Dharwad and Kalaburgi",
+        "D": "Only the districts of Mysuru and Mangaluru"
+      },
+      "correctAnswer": "A",
+      "explanation": "Following the States Reorganisation Act, 1956, the High Court of the reorganised Mysore State came into being on 1 November 1956, exercising jurisdiction over the reorganised State, which was renamed Karnataka on 1 November 1973.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q171",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following writs can the High Court issue under Article 226?",
+      "options": {
+        "A": "Habeas corpus, mandamus, prohibition, quo warranto and certiorari",
+        "B": "Only habeas corpus",
+        "C": "Only mandamus and certiorari",
+        "D": "Only quo warranto"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 226, the High Court may issue directions, orders or writs, including habeas corpus, mandamus, prohibition, quo warranto and certiorari.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q172",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a function of the State Secretariat?",
+      "options": {
+        "A": "Assisting the Chief Minister and Council of Ministers in policy formulation and coordination",
+        "B": "Adjudicating constitutional disputes",
+        "C": "Commanding the district police",
+        "D": "Conducting elections"
+      },
+      "correctAnswer": "A",
+      "explanation": "The State Secretariat assists the Chief Minister and Council of Ministers in policy formulation, coordination, inter-departmental consultation, Cabinet work, legislative business and monitoring implementation.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q173",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a function of the Chief Secretary of Karnataka?",
+      "options": {
+        "A": "Coordinating departments and supporting Cabinet and inter-departmental administration",
+        "B": "Administering the oath to the Governor",
+        "C": "Presiding over the Legislative Assembly",
+        "D": "Issuing writs"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chief Secretary coordinates departments, supports Cabinet and inter-departmental administration, and oversees important administrative matters.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q174",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Zilla Panchayat Chief Executive Officer heads the executive administration of which institution?",
+      "options": {
+        "A": "The rural local-government institution under the Karnataka Panchayat Raj framework",
+        "B": "The district police",
+        "C": "The district court",
+        "D": "The State Secretariat"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chief Executive Officer of the Zilla Panchayat heads the executive administration of the rural local-government institution under the Karnataka Panchayat Raj framework.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q175",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The High Court of Karnataka heads which system in the State?",
+      "options": {
+        "A": "The State judicial system",
+        "B": "The State executive",
+        "C": "The State legislature",
+        "D": "The State civil service"
+      },
+      "correctAnswer": "A",
+      "explanation": "The High Court of Karnataka heads the State judicial system.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q176",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following correctly pairs a constitutional Part/Article with its subject?",
+      "options": {
+        "A": "Part VI, Articles 153-167 — State Executive",
+        "B": "Part IV, Articles 36-51 — State Legislature",
+        "C": "Part V, Articles 52-151 — High Courts",
+        "D": "Part III, Articles 12-35 — State Election Commission"
+      },
+      "correctAnswer": "A",
+      "explanation": "State Executive is covered under Part VI, Articles 153-167.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q177",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Governor is entitled to which of the following under Article 158?",
+      "options": {
+        "A": "The official residence, emoluments and allowances prescribed by law",
+        "B": "A seat in the Legislative Assembly",
+        "C": "A vote in the Legislative Council",
+        "D": "A permanent seat in Parliament"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 158 provides that the Governor is entitled to the official residence, emoluments and allowances prescribed by law.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q178",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 158, the Governor cannot hold which of the following?",
+      "options": {
+        "A": "Another office of profit",
+        "B": "A residence in the State",
+        "C": "Membership of a social club",
+        "D": "A bank account"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 158 provides that the Governor cannot hold another office of profit.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q179",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If a Governor's term expires but a successor has not entered office, what happens?",
+      "options": {
+        "A": "The Governor may continue until a successor enters office",
+        "B": "The office becomes vacant and the Chief Justice takes over",
+        "C": "The President must immediately appoint an acting Governor",
+        "D": "The Legislative Assembly elects a new Governor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 156, the normal term is five years, but the Governor may continue until a successor enters office and may be removed earlier by the President.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q180",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is NOT a financial power of the Governor?",
+      "options": {
+        "A": "Causing the annual financial statement to be laid before the Legislature",
+        "B": "Recommending demands for grants",
+        "C": "Recommending the introduction of a Money Bill",
+        "D": "Passing the Finance Bill directly without the Legislature"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Governor causes the annual financial statement to be laid under Article 202, recommends demands for grants under Article 203, and recommends Money Bills under Article 207. The Governor does not pass the Finance Bill directly.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+        {
+      "id": "Q181",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A ministry that loses the confidence of the Legislative Assembly must do which of the following?",
+      "options": {
+        "A": "Continue in office until the next election",
+        "B": "Resign or face the constitutional consequences",
+        "C": "Seek the Governor's protection",
+        "D": "Dissolve the Legislative Council"
+      },
+      "correctAnswer": "B",
+      "explanation": "A ministry that loses the confidence of the House must resign or face the constitutional consequences.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q182",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Chief Minister",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is NOT a function of the Chief Minister?",
+      "options": {
+        "A": "Allocating or coordinating ministerial portfolios",
+        "B": "Advising the Governor on ministerial appointments",
+        "C": "Communicating Cabinet decisions to the Governor",
+        "D": "Administering the oath to the Governor"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Chief Minister heads the State Government, leads the Council of Ministers, allocates or coordinates ministerial portfolios, advises the Governor on ministerial appointments and legislative matters, communicates Cabinet decisions to the Governor, and acts as the principal link between the Governor and the Council of Ministers. The oath to the Governor is administered by the Chief Justice of the High Court.",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q183",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The State Legislature is politically accountable through which mechanism?",
+      "options": {
+        "A": "The ministry is politically accountable to the Legislative Assembly",
+        "B": "The ministry is politically accountable to the Legislative Council",
+        "C": "The ministry is politically accountable to the Governor",
+        "D": "The ministry is politically accountable to the President"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ministry is politically accountable to the Legislative Assembly.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q184",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a principal power of the Speaker of the Legislative Assembly?",
+      "options": {
+        "A": "Presiding over Assembly sittings and maintaining order",
+        "B": "Administering the oath to the Governor",
+        "C": "Appointing the Chief Minister",
+        "D": "Issuing ordinances"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Speaker presides over Assembly sittings, maintains order, interprets and applies the Rules of Procedure, decides points of order, oversees legislative business and performs functions assigned by the Constitution and rules.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q185",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 179, the Speaker may vacate office in which of the following ways?",
+      "options": {
+        "A": "By ceasing to be a member, by resigning to the Deputy Speaker, or by removal through a resolution of the Assembly",
+        "B": "Only by completing a five-year term",
+        "C": "Only by the Governor's order",
+        "D": "Only by a Supreme Court order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 179, the Speaker may vacate office if ceasing to be a member, may resign to the Deputy Speaker, or may be removed by a resolution of the Assembly passed by a majority of all the then members of the Assembly.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q186",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If the Legislative Council returns a Money Bill with recommendations, what can the Assembly do?",
+      "options": {
+        "A": "The Assembly may accept or reject any or all recommendations",
+        "B": "The Assembly must accept all recommendations",
+        "C": "The Assembly must send the Bill to the Governor",
+        "D": "The Assembly must convene a joint sitting"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Assembly may accept or reject any or all recommendations.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q187",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Legislative Council's powers are weaker than those of the Legislative Assembly especially in which matters?",
+      "options": {
+        "A": "Financial matters and government formation",
+        "B": "Debating legislation",
+        "C": "Suggesting amendments",
+        "D": "Representing local authorities"
+      },
+      "correctAnswer": "A",
+      "explanation": "Its powers are weaker than those of the Legislative Assembly, especially in financial matters and government formation.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q188",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court may review the constitutionality and legality of which actions within its jurisdiction?",
+      "options": {
+        "A": "Legislative and executive action",
+        "B": "Only executive action",
+        "C": "Only legislative action",
+        "D": "Only judicial action"
+      },
+      "correctAnswer": "A",
+      "explanation": "The High Court may review the constitutionality and legality of legislative and executive action within its jurisdiction.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q189",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court's superintendence under Article 227 extends over which bodies?",
+      "options": {
+        "A": "All courts and tribunals throughout the territories in relation to which it exercises jurisdiction",
+        "B": "Only district courts",
+        "C": "Only tribunals",
+        "D": "Only subordinate criminal courts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 227 gives the High Court superintendence over all courts and tribunals throughout the territories in relation to which it exercises jurisdiction, subject to constitutional exceptions.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q190",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Deputy Commissioner and the Zilla Panchayat CEO are required to do which of the following?",
+      "options": {
+        "A": "Coordinate with each other although their roles are distinct",
+        "B": "Perform identical functions",
+        "C": "Report to each other",
+        "D": "Compete for the same office"
+      },
+      "correctAnswer": "A",
+      "explanation": "Their roles are distinct, although coordination is required.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q191",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following constitutional Parts and Articles are especially relevant to the Karnataka Government?",
+      "options": {
+        "A": "Part VI, Articles 153-167 (State Executive); Part VI, Articles 168-212 (State Legislature); Part VI, Articles 214-231 (High Courts)",
+        "B": "Part III, Articles 12-35 (State Executive); Part IV, Articles 36-51 (State Legislature)",
+        "C": "Part V, Articles 52-151 (High Courts); Part VII (State Legislature)",
+        "D": "Part IX, Articles 243-243O (State Executive)"
+      },
+      "correctAnswer": "A",
+      "explanation": "State Executive: Part VI, Articles 153-167; State Legislature: Part VI, Articles 168-212; High Courts: Part VI, Articles 214-231.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q192",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Governor appoints which of the following officials?",
+      "options": {
+        "A": "The Advocate General",
+        "B": "The Chief Justice of the High Court",
+        "C": "The Speaker of the Legislative Assembly",
+        "D": "The Chief Election Commissioner"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Governor appoints the Advocate General and performs other constitutional appointments and functions.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q193",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 169, after the Legislative Assembly passes the resolution, who may pass a law to create or abolish the Council?",
+      "options": {
+        "A": "Parliament",
+        "B": "The Governor",
+        "C": "The President",
+        "D": "The Supreme Court"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 169, the Legislative Assembly must pass a resolution, and Parliament may then pass a law to create or abolish the Council.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q194",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is NOT a category of membership in the Karnataka Legislative Council?",
+      "options": {
+        "A": "Elected by local authorities",
+        "B": "Elected by graduates",
+        "C": "Elected by teachers",
+        "D": "Elected directly by the people"
+      },
+      "correctAnswer": "D",
+      "explanation": "Under Article 171, members are elected by local authorities, graduates, teachers, and members of the Legislative Assembly, and some are nominated by the Governor. There is no direct election by the people for the Council.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q195",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court of Karnataka came to be known by its present name in which year?",
+      "options": {
+        "A": "1956",
+        "B": "1961",
+        "C": "1973",
+        "D": "1985"
+      },
+      "correctAnswer": "C",
+      "explanation": "The State was renamed Karnataka on 1 November 1973, and the High Court came to be known as the High Court of Karnataka.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q196",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "KAS officers perform their functions in which of the following?",
+      "options": {
+        "A": "State departments and field offices",
+        "B": "Only the High Court",
+        "C": "Only the Legislative Assembly",
+        "D": "Only the Governor's office"
+      },
+      "correctAnswer": "A",
+      "explanation": "KAS is a State civil service through which officers perform executive, revenue, developmental and administrative functions in State departments and field offices.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q197",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 200, the Governor may return which type of Bill for reconsideration?",
+      "options": {
+        "A": "A non-Money Bill",
+        "B": "A Money Bill",
+        "C": "A constitutional amendment Bill",
+        "D": "Any Bill without exception"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 200 permits the Governor to assent to a Bill, withhold assent, return a non-Money Bill for reconsideration, or reserve a Bill for the consideration of the President.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q198",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A Money Bill in the State Legislature is defined under which Article?",
+      "options": {
+        "A": "Article 197",
+        "B": "Article 199",
+        "C": "Article 200",
+        "D": "Article 207"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under Article 199, a Bill is a Money Bill if it contains only provisions dealing with specified financial matters.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q199",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Speaker's decision on whether a Bill is a Money Bill is final under Article 199, subject to which of the following?",
+      "options": {
+        "A": "Constitutional interpretation by courts",
+        "B": "The Governor's approval",
+        "C": "The President's approval",
+        "D": "The Legislative Council's concurrence"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Speaker's decision on whether a Bill is a Money Bill is final under the Article, subject to constitutional interpretation by courts.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q200",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Legislative Assembly chooses how many of its members to be Speaker and Deputy Speaker?",
+      "options": {
+        "A": "One member as Speaker only",
+        "B": "Two members — Speaker and Deputy Speaker",
+        "C": "Three members",
+        "D": "Four members"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Legislative Assembly chooses two of its members to be Speaker and Deputy Speaker under Article 178.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q201",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Legislative Council elects its Chairman and Deputy Chairman from among whom?",
+      "options": {
+        "A": "Its own members",
+        "B": "Members of the Legislative Assembly",
+        "C": "Members of Parliament from Karnataka",
+        "D": "Nominated experts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Council elects a Chairman and Deputy Chairman from among its members under Article 182.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q202",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A High Court Judge may be removed by the President in the same manner and on the same grounds as which other judge?",
+      "options": {
+        "A": "A Judge of the Supreme Court",
+        "B": "A District Judge",
+        "C": "A Magistrate",
+        "D": "A Tribunal member"
+      },
+      "correctAnswer": "A",
+      "explanation": "A High Court Judge may be removed by the President in the same manner and on the same grounds as a Judge of the Supreme Court: proved misbehaviour or incapacity, following the prescribed parliamentary address and special-majority process.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q203",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 217, a person must have been an advocate of a High Court for at least how many years to be appointed a High Court Judge?",
+      "options": {
+        "A": "Five years",
+        "B": "Seven years",
+        "C": "Ten years",
+        "D": "Fifteen years"
+      },
+      "correctAnswer": "C",
+      "explanation": "The person must have held a judicial office in India for at least ten years, or have been an advocate of a High Court for at least ten years, under Article 217.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q204",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 217, a person must have held a judicial office in India for at least how many years to be appointed a High Court Judge?",
+      "options": {
+        "A": "Five years",
+        "B": "Seven years",
+        "C": "Ten years",
+        "D": "Fifteen years"
+      },
+      "correctAnswer": "C",
+      "explanation": "The person must have held a judicial office in India for at least ten years, or have been an advocate of a High Court for at least ten years, under Article 217.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q205",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "District Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Superintendent of Police supervises which of the following within the district?",
+      "options": {
+        "A": "Crime prevention and investigation",
+        "B": "Revenue collection",
+        "C": "Land administration",
+        "D": "Panchayat administration"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Superintendent of Police heads district police administration, maintains public order and supervises crime prevention and investigation within the district.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q206",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 159, the oath is administered to the Governor by the Chief Justice of which court?",
+      "options": {
+        "A": "The High Court exercising jurisdiction in the State",
+        "B": "The Supreme Court",
+        "C": "The District Court",
+        "D": "The Sessions Court"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chief Justice of the High Court exercising jurisdiction in the State administers the oath under Article 159.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q207",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Karnataka Legislature participates in which constitutional function mentioned in the notes?",
+      "options": {
+        "A": "Electing the President through the electoral college",
+        "B": "Appointing the Chief Justice of India",
+        "C": "Conducting UPSC examinations",
+        "D": "Issuing currency notes"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Legislature participates in specified constitutional functions such as electing the President through the electoral college.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q208",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 173, what is the minimum age to become a member of the Legislative Assembly and the Legislative Council respectively?",
+      "options": {
+        "A": "25 years and 30 years",
+        "B": "30 years and 25 years",
+        "C": "21 years and 25 years",
+        "D": "25 years and 35 years"
+      },
+      "correctAnswer": "A",
+      "explanation": "A person must be at least 25 years old for the Legislative Assembly and at least 30 years old for the Legislative Council, under Article 173.",
+      "source": "Karnataka Government Notes, Sections E and F"
+    },
+    {
+      "id": "Q209",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Governor causes supplementary, additional or excess grants to be presented as required by which framework?",
+      "options": {
+        "A": "The Constitution",
+        "B": "The Legislative Council's rules",
+        "C": "The Chief Minister's discretion",
+        "D": "The High Court's orders"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Governor causes supplementary, additional or excess grants to be presented as constitutionally required.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q210",
+      "subject": "Indian Constitution",
+      "topic": "Chief Minister and Council of Ministers",
+      "chapter": "Council of Ministers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Article makes the Council of Ministers collectively responsible to the Legislative Assembly?",
+      "options": {
+        "A": "Article 163",
+        "B": "Article 164(2)",
+        "C": "Article 165",
+        "D": "Article 167"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Council of Ministers is collectively responsible to the Legislative Assembly under Article 164(2).",
+      "source": "Karnataka Government Notes, Section C"
+    },
+    {
+      "id": "Q211",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka State Constitutional Framework",
+      "chapter": "Karnataka Government",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is NOT a component of the Karnataka State executive?",
+      "options": {
+        "A": "Governor",
+        "B": "Chief Minister",
+        "C": "Council of Ministers",
+        "D": "Speaker of the Legislative Assembly"
+      },
+      "correctAnswer": "D",
+      "explanation": "The State executive consists of the Governor, the Chief Minister and the Council of Ministers, with the Advocate General as the State's highest law officer. The Speaker is a legislative office, not part of the executive.",
+      "source": "Karnataka Government Notes, Section A"
+    },
+    {
+      "id": "Q212",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The High Court's principal seat at Bengaluru is located opposite which building?",
+      "options": {
+        "A": "Vidhana Soudha",
+        "B": "Suvarna Vidhana Soudha",
+        "C": "Raj Bhavan",
+        "D": "Legislative Council building"
+      },
+      "correctAnswer": "A",
+      "explanation": "The High Court's principal seat in Bengaluru functions in the historic Attara Kacheri building opposite Vidhana Soudha.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q213",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under Article 171, the members elected by the Legislative Assembly must be chosen from among which persons?",
+      "options": {
+        "A": "Persons who are not Assembly members",
+        "B": "Only Assembly members",
+        "C": "Only former Ministers",
+        "D": "Only retired civil servants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 171, one-third are elected by members of the Legislative Assembly from among persons who are not Assembly members.",
+      "source": "Karnataka Government Notes, Section F"
+    },
+    {
+      "id": "Q214",
+      "subject": "Indian Constitution",
+      "topic": "Governor of Karnataka",
+      "chapter": "Governor",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Under Article 155, the Governor is appointed by warrant under whose hand and seal?",
+      "options": {
+        "A": "The President",
+        "B": "The Chief Justice",
+        "C": "The Prime Minister",
+        "D": "The Speaker"
+      },
+      "correctAnswer": "A",
+      "explanation": "The President of India appoints the Governor by warrant under his or her hand and seal under Article 155.",
+      "source": "Karnataka Government Notes, Section B"
+    },
+    {
+      "id": "Q215",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Legislative Assembly ordinarily continues for five years from which date?",
+      "options": {
+        "A": "The date appointed for its first meeting",
+        "B": "The date of the election notification",
+        "C": "The date of the Governor's assent",
+        "D": "The date of the Budget presentation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under Article 172, the Legislative Assembly ordinarily continues for five years from the date appointed for its first meeting, unless sooner dissolved.",
+      "source": "Karnataka Government Notes, Section D and E"
+    },
+    {
+      "id": "Q216",
+      "subject": "Indian Constitution",
+      "topic": "State and District Administration",
+      "chapter": "State Administration",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The State Secretariat assists the Council of Ministers in which of the following?",
+      "options": {
+        "A": "Cabinet work and legislative business",
+        "B": "Administering the oath to the Governor",
+        "C": "Deciding Money Bill status",
+        "D": "Issuing writs"
+      },
+      "correctAnswer": "A",
+      "explanation": "The State Secretariat assists the Chief Minister and Council of Ministers in policy formulation, coordination, inter-departmental consultation, Cabinet work, legislative business and monitoring implementation.",
+      "source": "Karnataka Government Notes, Section H"
+    },
+    {
+      "id": "Q217",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka High Court",
+      "chapter": "High Court",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is true about the High Court's writ jurisdiction compared to the Supreme Court's Article 32 jurisdiction?",
+      "options": {
+        "A": "The High Court's jurisdiction is wider in subject matter",
+        "B": "The High Court's jurisdiction is narrower in subject matter",
+        "C": "Both are identical",
+        "D": "The High Court has no writ jurisdiction"
+      },
+      "correctAnswer": "A",
+      "explanation": "This jurisdiction is wider in subject matter than Article 32 jurisdiction of the Supreme Court.",
+      "source": "Karnataka Government Notes, Section G"
+    },
+    {
+      "id": "Q218",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislature",
+      "chapter": "State Legislature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The State Legislature holds the executive accountable through which of the following?",
+      "options": {
+        "A": "Questions, motions and committees",
+        "B": "Writs",
+        "C": "Ordinances",
+        "D": "Pardons"
+      },
+      "correctAnswer": "A",
+      "explanation": "It holds the executive accountable through questions, motions and committees.",
+      "source": "Karnataka Government Notes, Section D"
+    },
+    {
+      "id": "Q219",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Assembly",
+      "chapter": "Legislative Assembly",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If the Legislative Council does not return a Money Bill within 14 days, the Bill is deemed passed by both Houses in which form?",
+      "options": {
+        "A": "In the form passed by the Assembly",
+        "B": "In the form recommended by the Council",
+        "C": "In the form amended by the Governor",
+        "D": "In the form proposed by the Chief Minister"
+      },
+      "correctAnswer": "A",
+      "explanation": "If the Council does not return it within 14 days, it is deemed passed by both Houses in the form passed by the Assembly.",
+      "source": "Karnataka Government Notes, Section E"
+    },
+    {
+      "id": "Q220",
+      "subject": "Indian Constitution",
+      "topic": "Karnataka Legislative Council",
+      "chapter": "Legislative Council",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Legislative Council is a continuing House. What does this mean?",
+      "options": {
+        "A": "It is not subject to dissolution",
+        "B": "It never adjourns",
+        "C": "Its members have life tenure",
+        "D": "It cannot be abolished"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Legislative Council is a continuing House and is not subject to dissolution.",
+      "source": "Karnataka Government Notes, Section D and F"
+    }
+  ]
+}

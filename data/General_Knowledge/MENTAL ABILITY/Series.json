@@ -1,0 +1,3607 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Mental Ability - 15.3 Series: Comprehensive question bank derived from FDA/SDA Mental Ability notes. Covers Basic Concepts, Number Series, Alphabet Series, Mixed Series, Methods, Solved Examples, Practice Questions, and Quick Revision Rules.",
+  "questions": [
+    {
+      "id": "SER001",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a series in mental ability?",
+      "options": {
+        "A": "A random collection of numbers",
+        "B": "An ordered arrangement of elements in which successive terms follow one or more identifiable rules",
+        "C": "A group of letters only",
+        "D": "A mathematical equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A series is an ordered arrangement of elements in which successive terms follow one or more identifiable rules.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER002",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a term in a series?",
+      "options": {
+        "A": "The rule of the sequence",
+        "B": "The last element of the sequence",
+        "C": "Each individual number, letter, or group in a sequence",
+        "D": "The difference between two numbers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Each individual number, letter, or group in a sequence is called a term.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER003",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a missing-term question?",
+      "options": {
+        "A": "A question that gives a sequence with one or more blanks and asks the candidate to determine the omitted element(s)",
+        "B": "A question that asks for the last term only",
+        "C": "A question with no options",
+        "D": "A question that asks to identify an incorrect term"
+      },
+      "correctAnswer": "A",
+      "explanation": "A missing-term question gives a sequence with one or more blanks and asks the candidate to determine the omitted element or elements.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER004",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a next-term question?",
+      "options": {
+        "A": "A question that asks for the first term",
+        "B": "A question that asks for the element that should follow the final given term according to the sequence rule",
+        "C": "A question that asks to find a missing middle term",
+        "D": "A question that asks to identify an incorrect term"
+      },
+      "correctAnswer": "B",
+      "explanation": "A next-term question asks for the element that should follow the final given term according to the sequence rule.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER005",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an incorrect-term question?",
+      "options": {
+        "A": "A question that asks for the next term",
+        "B": "A question that asks to identify the term that does not follow the intended pattern",
+        "C": "A question that asks to fill a blank",
+        "D": "A question that asks for the rule only"
+      },
+      "correctAnswer": "B",
+      "explanation": "An incorrect-term question asks the candidate to identify the term that does not follow the intended pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER006",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an alternating series?",
+      "options": {
+        "A": "A series with only one rule",
+        "B": "A series that contains two or more interwoven sequences, often found by separating odd-positioned and even-positioned terms",
+        "C": "A series of only even numbers",
+        "D": "A series that decreases constantly"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alternating series contains two or more interwoven sequences, often found by separating odd-positioned and even-positioned terms.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER007",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the first step in solving a number series?",
+      "options": {
+        "A": "Check the options first",
+        "B": "Calculate consecutive differences",
+        "C": "Assume it is a prime series",
+        "D": "Multiply all terms"
+      },
+      "correctAnswer": "B",
+      "explanation": "The first step is to calculate consecutive differences. If they do not reveal a pattern, check ratios, second differences, alternating subsequences, powers, primes, and digit operations.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER008",
+      "subject": "Mental Ability",
+      "topic": "Series - Basic Concepts",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why should the simplest consistent pattern be preferred in series questions?",
+      "options": {
+        "A": "Because complex patterns are always wrong",
+        "B": "Because a short sequence can fit several rules, and the simplest rule that explains all terms and fits the options is generally the intended examination pattern",
+        "C": "Because options are not important",
+        "D": "Because only arithmetic patterns are valid"
+      },
+      "correctAnswer": "B",
+      "explanation": "A short sequence can sometimes fit several rules. The simplest rule that explains all terms and fits the options is generally the intended examination pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section A"
+    },
+    {
+      "id": "SER009",
+      "subject": "Mental Ability",
+      "topic": "Number Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a number series?",
+      "options": {
+        "A": "A sequence of letters only",
+        "B": "A sequence of numbers arranged according to an arithmetic, geometric, positional, or other mathematical rule",
+        "C": "A random list of numbers",
+        "D": "A sequence of symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "A number series is a sequence of numbers arranged according to an arithmetic, geometric, positional, or other mathematical rule.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER010",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an arithmetic progression (AP)?",
+      "options": {
+        "A": "A sequence where each term is multiplied by a constant",
+        "B": "A sequence in which the difference between consecutive terms is constant",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "An AP is a sequence in which the difference between consecutive terms is constant; for example, 4, 7, 10, 13, ... has common difference 3.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER011",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the nth-term formula of an arithmetic progression?",
+      "options": {
+        "A": "a_n = a × r^(n-1)",
+        "B": "a_n = a + (n-1)d",
+        "C": "a_n = n/2[2a + (n-1)d]",
+        "D": "a_n = a + nd"
+      },
+      "correctAnswer": "B",
+      "explanation": "The nth-term formula of an AP is a_n = a + (n-1)d, where a is the first term, d is the common difference, and n is the position.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER012",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the sum of the first n terms of an AP when the last term l is known?",
+      "options": {
+        "A": "S_n = n/2[2a + (n-1)d]",
+        "B": "S_n = n(a + l)/2",
+        "C": "S_n = a(r^n - 1)/(r - 1)",
+        "D": "S_n = n × a × d"
+      },
+      "correctAnswer": "B",
+      "explanation": "The sum of the first n terms of an AP is S_n = n(a + l)/2 when the last term l is known. Equivalently, S_n = n/2[2a + (n-1)d].",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER013",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a geometric progression (GP)?",
+      "options": {
+        "A": "A sequence where the difference between consecutive terms is constant",
+        "B": "A sequence in which each term is obtained by multiplying the previous term by a constant ratio",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of cubes"
+      },
+      "correctAnswer": "B",
+      "explanation": "A GP is a sequence in which each term is obtained by multiplying the previous term by a constant ratio; for example, 2, 6, 18, 54, ... has ratio 3.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER014",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the nth-term formula of a geometric progression?",
+      "options": {
+        "A": "a_n = a + (n-1)d",
+        "B": "a_n = a × r^(n-1)",
+        "C": "a_n = a(r^n - 1)/(r - 1)",
+        "D": "a_n = n/2[2a + (n-1)d]"
+      },
+      "correctAnswer": "B",
+      "explanation": "The nth-term formula of a GP is a_n = a × r^(n-1), where a is the first term and r is the common ratio.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER015",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the sum of the first n terms of a GP when r is not 1?",
+      "options": {
+        "A": "S_n = n/2[2a + (n-1)d]",
+        "B": "S_n = a(r^n - 1)/(r - 1)",
+        "C": "S_n = n(a + l)/2",
+        "D": "S_n = a + (n-1)d"
+      },
+      "correctAnswer": "B",
+      "explanation": "The sum of the first n terms of a GP when r is not 1 is S_n = a(r^n - 1)/(r - 1), equivalently a(1 - r^n)/(1 - r).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER016",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Constant Difference",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a constant-difference series?",
+      "options": {
+        "A": "A series where the difference changes each time",
+        "B": "A series in which the same number is added or subtracted at each step",
+        "C": "A series of prime numbers",
+        "D": "A series where terms are multiplied"
+      },
+      "correctAnswer": "B",
+      "explanation": "A constant-difference series is a series in which the same number is added or subtracted at each step.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER017",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Increasing Difference",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an increasing-difference series?",
+      "options": {
+        "A": "A series where differences are constant",
+        "B": "A series in which the differences themselves change according to a pattern, such as 2, 5, 10, 17, 26, where the differences are 3, 5, 7, 9",
+        "C": "A series of even numbers",
+        "D": "A series with no pattern"
+      },
+      "correctAnswer": "B",
+      "explanation": "An increasing-difference series is one in which the differences themselves change according to a pattern, such as 2, 5, 10, 17, 26, where the differences are 3, 5, 7, 9.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER018",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Second Differences",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are second differences in a number series?",
+      "options": {
+        "A": "The differences between the first and last terms",
+        "B": "The differences between consecutive first differences",
+        "C": "The sum of all terms",
+        "D": "The ratio of consecutive terms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Second differences are the differences between consecutive first differences. A constant second difference often indicates a quadratic pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER019",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Squares",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a square-number series?",
+      "options": {
+        "A": "A sequence based on perfect cubes",
+        "B": "A sequence based on perfect squares: 1, 4, 9, 16, 25, 36, ...",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of odd numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A square-number series is based on perfect squares: 1, 4, 9, 16, 25, 36, ... corresponding to 1², 2², 3², and so on.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER020",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Cubes",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cube-number series?",
+      "options": {
+        "A": "A sequence based on perfect squares",
+        "B": "A sequence based on perfect cubes: 1, 8, 27, 64, 125, ... corresponding to 1³, 2³, 3³, and so on",
+        "C": "A sequence of even numbers",
+        "D": "A sequence of triangular numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cube-number series is based on perfect cubes: 1, 8, 27, 64, 125, ... corresponding to 1³, 2³, 3³, and so on.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER021",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Primes",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a prime-number series?",
+      "options": {
+        "A": "A sequence of odd numbers only",
+        "B": "A sequence of prime numbers, such as 2, 3, 5, 7, 11, 13, 17, ...",
+        "C": "A sequence of composite numbers",
+        "D": "A sequence of squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "A prime-number series is a sequence of prime numbers, such as 2, 3, 5, 7, 11, 13, 17, ... A prime number greater than 1 has exactly two positive divisors.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER022",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Primes",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is 1 a prime number?",
+      "options": {
+        "A": "Yes, because it is odd",
+        "B": "No, because it has only one positive divisor, so it is neither prime nor composite",
+        "C": "Yes, because it is the first number",
+        "D": "Only in some series"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The number 1 has only one positive divisor, so it is neither prime nor composite.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER023",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Odd Numbers",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an odd-number series?",
+      "options": {
+        "A": "A sequence of even integers",
+        "B": "A sequence of odd integers, such as 1, 3, 5, 7, 9, ...",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "An odd-number series is a sequence of odd integers, such as 1, 3, 5, 7, 9, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER024",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Even Numbers",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an even-number series?",
+      "options": {
+        "A": "A sequence of odd integers",
+        "B": "A sequence of even integers, such as 2, 4, 6, 8, 10, ...",
+        "C": "A sequence of cubes",
+        "D": "A sequence of primes"
+      },
+      "correctAnswer": "B",
+      "explanation": "An even-number series is a sequence of even integers, such as 2, 4, 6, 8, 10, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER025",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Multiplication",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a multiplication series?",
+      "options": {
+        "A": "A sequence where a constant is added",
+        "B": "A sequence in which each term is obtained by multiplying the preceding term by a fixed or changing factor",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence where terms are divided"
+      },
+      "correctAnswer": "B",
+      "explanation": "A multiplication series is a sequence in which each term is obtained by multiplying the preceding term by a fixed or changing factor.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER026",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Division",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a division series?",
+      "options": {
+        "A": "A sequence where terms are multiplied",
+        "B": "A sequence in which each term is obtained by dividing the preceding term by a fixed or changing divisor",
+        "C": "A sequence of even numbers",
+        "D": "A sequence of squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "A division series is a sequence in which each term is obtained by dividing the preceding term by a fixed or changing divisor.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER027",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Combined Operations",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a combined-operation series?",
+      "options": {
+        "A": "A series with only addition",
+        "B": "A sequence that uses more than one operation, such as ×2 + 1 at every step or alternating +3 and ×2",
+        "C": "A series of prime numbers",
+        "D": "A series of alphabets"
+      },
+      "correctAnswer": "B",
+      "explanation": "A combined-operation series uses more than one operation, such as ×2 + 1 at every step or alternating +3 and ×2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER028",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Alternating",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an alternating number series?",
+      "options": {
+        "A": "A series with one rule only",
+        "B": "A sequence in which odd-positioned and even-positioned terms follow separate rules",
+        "C": "A series of only odd numbers",
+        "D": "A series with no pattern"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alternating number series is a sequence in which odd-positioned and even-positioned terms follow separate rules.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER029",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Fibonacci",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Fibonacci-type series?",
+      "options": {
+        "A": "A sequence where each term is multiplied by 2",
+        "B": "A sequence in which each term after the first two is the sum of the two preceding terms; for example, 1, 1, 2, 3, 5, 8, 13, ...",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Fibonacci-type series is one in which each term after the first two is the sum of the two preceding terms; for example, 1, 1, 2, 3, 5, 8, 13, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER030",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Factorial",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a factorial series?",
+      "options": {
+        "A": "A sequence of squares",
+        "B": "A sequence based on factorials: 1!, 2!, 3!, 4!, 5!, ... giving 1, 2, 6, 24, 120, ...",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of odd numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A factorial series is based on factorials: 1!, 2!, 3!, 4!, 5!, ... giving 1, 2, 6, 24, 120, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER031",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Triangular Numbers",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a triangular-number series?",
+      "options": {
+        "A": "A sequence formed by multiplying consecutive natural numbers",
+        "B": "A sequence formed by adding consecutive natural numbers: 1, 3, 6, 10, 15, ... The nth triangular number is n(n+1)/2",
+        "C": "A sequence of cubes",
+        "D": "A sequence of prime numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A triangular-number series is formed by adding consecutive natural numbers: 1, 3, 6, 10, 15, ... The nth triangular number is n(n+1)/2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER032",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Digit Sum",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a digit-sum pattern?",
+      "options": {
+        "A": "A pattern using the product of digits",
+        "B": "A pattern that uses the sum of the digits of a number. For example, the digit sum of 248 is 2 + 4 + 8 = 14",
+        "C": "A pattern using reversed digits",
+        "D": "A pattern using prime gaps"
+      },
+      "correctAnswer": "B",
+      "explanation": "A digit-sum pattern uses the sum of the digits of a number. For example, the digit sum of 248 is 2 + 4 + 8 = 14.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER033",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Digit Reversal",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a digit-reversal pattern?",
+      "options": {
+        "A": "A pattern that uses the sum of digits",
+        "B": "A pattern that uses the digits in reverse order, such as 123 becoming 321",
+        "C": "A pattern using prime gaps",
+        "D": "A pattern using squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "A digit-reversal pattern uses the digits in reverse order, such as 123 becoming 321.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER034",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Prime Gap",
+      "chapter": "Series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is a prime-gap pattern?",
+      "options": {
+        "A": "A pattern based on the sum of prime numbers",
+        "B": "A pattern based on the differences between consecutive prime numbers, such as 2, 3, 5, 7, 11, 13, whose gaps are 1, 2, 2, 4, 2",
+        "C": "A pattern of even numbers",
+        "D": "A pattern of cubes"
+      },
+      "correctAnswer": "B",
+      "explanation": "A prime-gap pattern is based on the differences between consecutive prime numbers, such as 2, 3, 5, 7, 11, 13, whose gaps are 1, 2, 2, 4, 2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER035",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Position-Based",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a position-based series?",
+      "options": {
+        "A": "A sequence where terms are random",
+        "B": "A sequence in which each term is generated from its position number, for example n², n³, 2n, or n(n+1)",
+        "C": "A sequence of prime numbers",
+        "D": "A sequence of factorials"
+      },
+      "correctAnswer": "B",
+      "explanation": "A position-based series is a sequence in which each term is generated from its position number, for example n², n³, 2n, or n(n+1).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER036",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Incorrect Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is an incorrect number identified in a series?",
+      "options": {
+        "A": "By selecting the largest number",
+        "B": "Determine the rule from the sequence, calculate the expected terms, and compare them with the given terms to find the one that violates the rule",
+        "C": "By selecting the smallest number",
+        "D": "By checking only the first term"
+      },
+      "correctAnswer": "B",
+      "explanation": "Determine the rule from the sequence, calculate the expected terms, and compare them with the given terms to find the one that violates the rule.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER037",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an alphabet series?",
+      "options": {
+        "A": "A sequence of numbers only",
+        "B": "A sequence of English letters arranged according to forward shifts, backward shifts, alternate positions, reversals, or other letter-position rules",
+        "C": "A sequence of symbols",
+        "D": "A sequence of mixed numbers and letters"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alphabet series is a sequence of English letters arranged according to forward shifts, backward shifts, alternate positions, reversals, or other letter-position rules.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+        {
+      "id": "SER038",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Positions",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the alphabetical positions of English letters?",
+      "options": {
+        "A": "A=0, B=1, C=2, ..., Z=25",
+        "B": "A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=10, K=11, L=12, M=13, N=14, O=15, P=16, Q=17, R=18, S=19, T=20, U=21, V=22, W=23, X=24, Y=25, Z=26",
+        "C": "A=26, B=25, C=24, ..., Z=1",
+        "D": "Letters have no fixed positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The alphabetical positions are A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=10, K=11, L=12, M=13, N=14, O=15, P=16, Q=17, R=18, S=19, T=20, U=21, V=22, W=23, X=24, Y=25, Z=26.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER039",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Forward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a forward letter shift calculated?",
+      "options": {
+        "A": "Subtract the required number from the letter's position",
+        "B": "Add the required number to the letter's alphabetical position. For example, C shifted forward by 3 positions becomes F",
+        "C": "Multiply the position by 2",
+        "D": "Reverse the letter"
+      },
+      "correctAnswer": "B",
+      "explanation": "A forward letter shift is calculated by adding the required number to the letter's alphabetical position. For example, C shifted forward by 3 positions becomes F.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER040",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Backward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a backward letter shift calculated?",
+      "options": {
+        "A": "Add the required number to the letter's position",
+        "B": "Subtract the required number from the letter's position. For example, H shifted backward by 2 positions becomes F",
+        "C": "Multiply the position by 3",
+        "D": "Convert to reverse position"
+      },
+      "correctAnswer": "B",
+      "explanation": "A backward letter shift is calculated by subtracting the required number from the letter's position. For example, H shifted backward by 2 positions becomes F.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER041",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Cyclic Movement",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is cyclic alphabet movement?",
+      "options": {
+        "A": "Moving only forward through the alphabet",
+        "B": "After Z, counting continues from A when the pattern is cyclic. For example, moving two positions forward from Y gives A",
+        "C": "Reversing the alphabet",
+        "D": "Skipping every alternate letter"
+      },
+      "correctAnswer": "B",
+      "explanation": "In cyclic alphabet movement, after Z, counting continues from A when the pattern is cyclic. For example, moving two positions forward from Y gives A.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER042",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Alternate Letters",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an alternate-letter series?",
+      "options": {
+        "A": "A sequence that advances by a fixed gap, such as A, C, E, G, I, where each term advances by two alphabet positions",
+        "B": "A sequence of reversed letters",
+        "C": "A sequence of random letters",
+        "D": "A sequence of only vowels"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alternate-letter series advances by a fixed gap, such as A, C, E, G, I, where each term advances by two alphabet positions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER043",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a reverse alphabet series?",
+      "options": {
+        "A": "A sequence that follows the alphabet forwards",
+        "B": "A sequence that follows the alphabet backwards, such as Z, Y, X, W, ...",
+        "C": "A sequence of vowels",
+        "D": "A sequence of consonants"
+      },
+      "correctAnswer": "B",
+      "explanation": "A reverse alphabet series follows the alphabet backwards, such as Z, Y, X, W, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER044",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Opposite Pairs",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an opposite-letter pair?",
+      "options": {
+        "A": "A pair whose positions add to 26",
+        "B": "A pair whose normal alphabetical positions add to 27, such as A-Z, B-Y, C-X, and D-W",
+        "C": "A pair of identical letters",
+        "D": "A pair of consecutive letters"
+      },
+      "correctAnswer": "B",
+      "explanation": "An opposite-letter pair is a pair whose normal alphabetical positions add to 27, such as A-Z, B-Y, C-X, and D-W.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER045",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is reverse alphabetical position?",
+      "options": {
+        "A": "It counts from A as 1, B as 2, and Z as 26",
+        "B": "It counts from Z as 1, Y as 2, and A as 26. Reverse position = 27 − normal alphabetical position",
+        "C": "It is the same as normal position",
+        "D": "It is always double the normal position"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reverse alphabetical position counts from Z as 1, Y as 2, and A as 26. Reverse position = 27 − normal alphabetical position.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER046",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Letter Gap",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a letter-gap pattern?",
+      "options": {
+        "A": "A sequence where letters are random",
+        "B": "A sequence in which the number of positions moved or letters skipped follows a rule, such as A, D, G, J, where the position increases by 3",
+        "C": "A sequence of opposite letters",
+        "D": "A sequence of reversed letters"
+      },
+      "correctAnswer": "B",
+      "explanation": "A letter-gap pattern is a sequence in which the number of positions moved or letters skipped follows a rule, such as A, D, G, J, where the position increases by 3.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER047",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Pair Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a pair-letter series?",
+      "options": {
+        "A": "A series of single letters",
+        "B": "A series of two-letter groups in which the first and second letters may follow separate or related patterns",
+        "C": "A series of numbers",
+        "D": "A series of symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pair-letter series is a series of two-letter groups in which the first and second letters may follow separate or related patterns.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER048",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Group Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a group-letter series?",
+      "options": {
+        "A": "A sequence of single letters",
+        "B": "A sequence of groups such as ABC, DEF, GHI, where letters within and between groups follow a rule",
+        "C": "A sequence of numbers",
+        "D": "A sequence of pairs only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A group-letter series is a sequence of groups such as ABC, DEF, GHI, where letters within and between groups follow a rule.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER049",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Solving Method",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should an alphabet series be solved?",
+      "options": {
+        "A": "Guess the next letter randomly",
+        "B": "Convert letters to positions from 1 to 26, calculate forward or backward shifts, check alternate positions and reverse positions, and convert the result back into letters",
+        "C": "Always count backwards",
+        "D": "Use only the first letter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Convert letters to positions from 1 to 26, calculate forward or backward shifts, check alternate positions and reverse positions, and convert the result back into letters.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER050",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Common Mistake",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the common mistake in alphabet series?",
+      "options": {
+        "A": "Converting letters to numbers",
+        "B": "Confusing the number of positions moved with the number of letters skipped, or forgetting cyclic movement after Z",
+        "C": "Checking alternate positions",
+        "D": "Using reverse positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The common mistake is confusing the number of positions moved with the number of letters skipped, or forgetting cyclic movement after Z.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER051",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mixed series?",
+      "options": {
+        "A": "A sequence of only numbers",
+        "B": "A sequence combining two or more types of elements, commonly letters and numbers, or containing multiple interwoven patterns",
+        "C": "A sequence of only letters",
+        "D": "A sequence of symbols only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A mixed series is a sequence combining two or more types of elements, commonly letters and numbers, or containing multiple interwoven patterns.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER052",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Alphanumeric",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an alphanumeric series?",
+      "options": {
+        "A": "A series of only letters",
+        "B": "A series containing both letters and numbers, such as A1, C3, E5, G7, where the two components may follow separate patterns",
+        "C": "A series of only symbols",
+        "D": "A series of only numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alphanumeric series contains both letters and numbers, such as A1, C3, E5, G7, where the two components may follow separate patterns.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER053",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Alternating",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a letter-number alternating series?",
+      "options": {
+        "A": "A sequence where all letters come first",
+        "B": "A sequence in which letters and numbers appear alternately or in a repeated arrangement, each component following a rule",
+        "C": "A sequence of only numbers",
+        "D": "A sequence of only symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "A letter-number alternating series is a sequence in which letters and numbers appear alternately or in a repeated arrangement, each component following a rule.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER054",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Symbol-Number-Letter",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a symbol-number-letter series?",
+      "options": {
+        "A": "A sequence containing only letters",
+        "B": "A sequence containing symbols, numbers, and letters, where one or more components may follow separate progressions",
+        "C": "A sequence of only numbers",
+        "D": "A sequence of only symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "A symbol-number-letter series contains symbols, numbers, and letters, where one or more components may follow separate progressions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER055",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Interleaved",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an interleaved mixed series?",
+      "options": {
+        "A": "A sequence with only one pattern",
+        "B": "A sequence in which two or more patterns are woven together, such as numbers in odd positions and letters in even positions",
+        "C": "A sequence of only even numbers",
+        "D": "A sequence of prime numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "An interleaved mixed series is a sequence in which two or more patterns are woven together, such as numbers in odd positions and letters in even positions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER056",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Solving Method",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should a mixed series be solved?",
+      "options": {
+        "A": "Treat all elements as one pattern",
+        "B": "Separate the terms by type or position, convert letters into numerical positions, solve each component independently, and then recombine the results in the original order",
+        "C": "Ignore the letters",
+        "D": "Only check the first term"
+      },
+      "correctAnswer": "B",
+      "explanation": "Separate the terms by type or position, convert letters into numerical positions, solve each component independently, and then recombine the results in the original order.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER057",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Pattern Check",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What should be checked in the series A1, C3, E5, G7?",
+      "options": {
+        "A": "Letters advance by one and numbers by one",
+        "B": "Letters advance by two positions and numbers increase by two, so the next term is I9",
+        "C": "Letters are reversed",
+        "D": "Numbers decrease"
+      },
+      "correctAnswer": "B",
+      "explanation": "In A1, C3, E5, G7, letters advance by two positions (A, C, E, G, I) and numbers increase by two (1, 3, 5, 7, 9), so the next term is I9.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER058",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Common Mistake",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the common mistake in mixed series?",
+      "options": {
+        "A": "Separating components",
+        "B": "Assuming every element follows one common rule instead of checking letter, number, symbol, and position patterns separately",
+        "C": "Converting letters to numbers",
+        "D": "Checking alternate positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The common mistake is assuming every element follows one common rule instead of checking letter, number, symbol, and position patterns separately.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER059",
+      "subject": "Mental Ability",
+      "topic": "Methods - Difference Method",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference method in series solving?",
+      "options": {
+        "A": "Divide each term by the next",
+        "B": "Subtract each term from the next. Constant first differences indicate an arithmetic pattern; changing differences may reveal a second-difference pattern",
+        "C": "Multiply all terms",
+        "D": "Reverse the digits"
+      },
+      "correctAnswer": "B",
+      "explanation": "The difference method involves subtracting each term from the next. Constant first differences indicate an arithmetic pattern; changing differences may reveal a second-difference pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER060",
+      "subject": "Mental Ability",
+      "topic": "Methods - Ratio Method",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the ratio method in series solving?",
+      "options": {
+        "A": "Add each term to the next",
+        "B": "Divide each term by the preceding non-zero term. A constant ratio indicates a geometric progression",
+        "C": "Subtract the first term",
+        "D": "Square each term"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ratio method involves dividing each term by the preceding non-zero term. A constant ratio indicates a geometric progression.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER061",
+      "subject": "Mental Ability",
+      "topic": "Methods - Second Difference",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the second-difference method?",
+      "options": {
+        "A": "Calculate the ratio of consecutive terms",
+        "B": "Calculate the first differences and then the differences between those first differences. A constant second difference often indicates a quadratic sequence",
+        "C": "Sum all terms",
+        "D": "Reverse the sequence"
+      },
+      "correctAnswer": "B",
+      "explanation": "The second-difference method involves calculating the first differences and then the differences between those first differences. A constant second difference often indicates a quadratic sequence.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER062",
+      "subject": "Mental Ability",
+      "topic": "Methods - Alternate Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the alternate-position method?",
+      "options": {
+        "A": "Treat all terms as one sequence",
+        "B": "Separate the terms in odd and even positions and examine each subsequence independently",
+        "C": "Only check the last term",
+        "D": "Multiply alternate terms"
+      },
+      "correctAnswer": "B",
+      "explanation": "The alternate-position method involves separating the terms in odd and even positions and examining each subsequence independently.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER063",
+      "subject": "Mental Ability",
+      "topic": "Methods - Operation Method",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the operation method?",
+      "options": {
+        "A": "Only use addition",
+        "B": "Test addition, subtraction, multiplication, division, powers, and combinations such as ×2 + 1",
+        "C": "Only use division",
+        "D": "Only use squares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The operation method involves testing addition, subtraction, multiplication, division, powers, and combinations such as ×2 + 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER064",
+      "subject": "Mental Ability",
+      "topic": "Methods - Position Method",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the position method?",
+      "options": {
+        "A": "Compare each term with its position number and test expressions such as n², n³, 2n, or n(n+1)",
+        "B": "Only use the first term",
+        "C": "Reverse the sequence",
+        "D": "Multiply all terms"
+      },
+      "correctAnswer": "A",
+      "explanation": "The position method involves comparing each term with its position number and testing expressions such as n², n³, 2n, or n(n+1).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER065",
+      "subject": "Mental Ability",
+      "topic": "Methods - Digit Operation",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the digit-operation method?",
+      "options": {
+        "A": "Only use addition",
+        "B": "Check whether the next term depends on digit sum, digit product, reversal, or another operation on the digits",
+        "C": "Only use multiplication",
+        "D": "Only use prime numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "The digit-operation method involves checking whether the next term depends on digit sum, digit product, reversal, or another operation on the digits.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER066",
+      "subject": "Mental Ability",
+      "topic": "Methods - Two Missing Terms",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should two missing terms be handled in a series?",
+      "options": {
+        "A": "Guess both randomly",
+        "B": "Identify the full pattern and solve both blanks together; if the series alternates, identify which subsequence each blank belongs to",
+        "C": "Only solve the first blank",
+        "D": "Ignore the second blank"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identify the full pattern and solve both blanks together; if the series alternates, identify which subsequence each blank belongs to.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER067",
+      "subject": "Mental Ability",
+      "topic": "Methods - Using Options",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should options be used in a series question?",
+      "options": {
+        "A": "Select the first option always",
+        "B": "Use the options to test possible patterns, but verify the chosen rule against every given term rather than selecting a merely close value",
+        "C": "Ignore the options",
+        "D": "Select the largest option"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use the options to test possible patterns, but verify the chosen rule against every given term rather than selecting a merely close value.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER068",
+      "subject": "Mental Ability",
+      "topic": "Methods - Time Management",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should a candidate manage time in series questions?",
+      "options": {
+        "A": "Spend unlimited time on each question",
+        "B": "Try the simplest checks first — differences, ratios, alternating terms, squares/cubes, and letter shifts. If no consistent rule emerges quickly, move to another question and return later",
+        "C": "Skip all series questions",
+        "D": "Only check the last term"
+      },
+      "correctAnswer": "B",
+      "explanation": "Try the simplest checks first — differences, ratios, alternating terms, squares/cubes, and letter shifts. If no consistent rule emerges quickly, move to another question and return later.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER069",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - AP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next term: 5, 9, 13, 17, ?",
+      "options": {
+        "A": "19",
+        "B": "20",
+        "C": "21",
+        "D": "22"
+      },
+      "correctAnswer": "C",
+      "explanation": "Add 4 each time: 5, 9, 13, 17, 21. The answer is 21.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER070",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - GP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next term: 3, 6, 12, 24, ?",
+      "options": {
+        "A": "36",
+        "B": "42",
+        "C": "48",
+        "D": "54"
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiply by 2 each time: 3, 6, 12, 24, 48. The answer is 48.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER071",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Squares",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next term: 1, 4, 9, 16, 25, ?",
+      "options": {
+        "A": "30",
+        "B": "32",
+        "C": "36",
+        "D": "40"
+      },
+      "correctAnswer": "C",
+      "explanation": "These are consecutive square numbers: 1², 2², 3², 4², 5², 6² = 36. The answer is 36.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER072",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Increasing Difference",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: 2, 5, 10, 17, 26, ?",
+      "options": {
+        "A": "35",
+        "B": "36",
+        "C": "37",
+        "D": "38"
+      },
+      "correctAnswer": "C",
+      "explanation": "The differences are 3, 5, 7, 9, and 11. So 26 + 11 = 37. The answer is 37.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER073",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Fibonacci",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: 1, 1, 2, 3, 5, 8, ?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "Add the two preceding terms: 5 + 8 = 13. The answer is 13.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER074",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Alphabet Forward",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next letter: A, C, E, G, ?",
+      "options": {
+        "A": "H",
+        "B": "I",
+        "C": "J",
+        "D": "K"
+      },
+      "correctAnswer": "B",
+      "explanation": "Advance by two alphabet positions: A, C, E, G, I. The answer is I.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER075",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Alphabet Backward",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next letter: Z, W, T, Q, ?",
+      "options": {
+        "A": "M",
+        "B": "N",
+        "C": "O",
+        "D": "P"
+      },
+      "correctAnswer": "B",
+      "explanation": "Move backwards by three positions: Z, W, T, Q, N. The answer is N.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER076",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Pair Letters",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next pair: AB, CD, EF, GH, ?",
+      "options": {
+        "A": "HI",
+        "B": "IJ",
+        "C": "JK",
+        "D": "KL"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consecutive letter pairs are used: AB, CD, EF, GH, IJ. The answer is IJ.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+        {
+      "id": "SER077",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Alphanumeric",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: A1, C3, E5, G7, ?",
+      "options": {
+        "A": "H8",
+        "B": "I9",
+        "C": "J10",
+        "D": "K11"
+      },
+      "correctAnswer": "B",
+      "explanation": "Letters and numbers both advance by two: A1, C3, E5, G7, I9. The answer is I9.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER078",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Alternating Operations",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: 5, 10, 8, 16, 14, 28, ?",
+      "options": {
+        "A": "24",
+        "B": "25",
+        "C": "26",
+        "D": "27"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alternate ×2 and −2: 5 ×2 = 10, 10 −2 = 8, 8 ×2 = 16, 16 −2 = 14, 14 ×2 = 28, 28 −2 = 26. The answer is 26.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER079",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Rank from Both Ends",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A person is 7th from the left and 9th from the right. Find the total number of people.",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total = 7 + 9 − 1 = 15 people.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER080",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Opposite Rank",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In a row of 28 people, R is 11th from the left. Find the rank from the right.",
+      "options": {
+        "A": "16th",
+        "B": "17th",
+        "C": "18th",
+        "D": "19th"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rank from right = Total − rank from left + 1 = 28 − 11 + 1 = 18th from the right.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section F"
+    },
+    {
+      "id": "SER081",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Comparison",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A is taller than B, and B is taller than C. Who is shortest?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "Cannot be determined"
+      },
+      "correctAnswer": "C",
+      "explanation": "A > B > C, so C is the shortest.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section F"
+    },
+    {
+      "id": "SER082",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Ordering",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A must be before B and B before C. What is compulsory?",
+      "options": {
+        "A": "A is before C",
+        "B": "C is before A",
+        "C": "B is after C",
+        "D": "No relation between A and C"
+      },
+      "correctAnswer": "A",
+      "explanation": "A is before B, B is before C, and therefore A is before C.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section F"
+    },
+    {
+      "id": "SER083",
+      "subject": "Mental Ability",
+      "topic": "Solved Examples - Incorrect Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A series is 4, 8, 16, 31, 64. Which term breaks the doubling pattern?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "31",
+        "D": "64"
+      },
+      "correctAnswer": "C",
+      "explanation": "The expected fourth term is 32 (doubling); the intended sequence is 4, 8, 16, 32, 64. So 31 breaks the pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section F"
+    },
+    {
+      "id": "SER084",
+      "subject": "Mental Ability",
+      "topic": "Practice - AP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next number: 7, 14, 21, 28, ?",
+      "options": {
+        "A": "32",
+        "B": "35",
+        "C": "38",
+        "D": "42"
+      },
+      "correctAnswer": "B",
+      "explanation": "Add 7 each time: 7, 14, 21, 28, 35. The answer is 35.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER085",
+      "subject": "Mental Ability",
+      "topic": "Practice - GP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next number: 2, 8, 32, 128, ?",
+      "options": {
+        "A": "256",
+        "B": "384",
+        "C": "512",
+        "D": "640"
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiply by 4: 2 × 4 = 8, 8 × 4 = 32, 32 × 4 = 128, 128 × 4 = 512. The answer is 512.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER086",
+      "subject": "Mental Ability",
+      "topic": "Practice - Cubes",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next number: 1, 8, 27, 64, ?",
+      "options": {
+        "A": "100",
+        "B": "121",
+        "C": "125",
+        "D": "144"
+      },
+      "correctAnswer": "C",
+      "explanation": "Consecutive cubes: 1³, 2³, 3³, 4³, 5³ = 125. The answer is 125.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER087",
+      "subject": "Mental Ability",
+      "topic": "Practice - Combined Operation",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the missing number: 3, 7, 15, 31, ?",
+      "options": {
+        "A": "47",
+        "B": "55",
+        "C": "63",
+        "D": "71"
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiply by 2 and add 1: 3 × 2 + 1 = 7, 7 × 2 + 1 = 15, 15 × 2 + 1 = 31, 31 × 2 + 1 = 63. The answer is 63.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER088",
+      "subject": "Mental Ability",
+      "topic": "Practice - Increasing Difference",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next number: 10, 13, 18, 25, 34, ?",
+      "options": {
+        "A": "43",
+        "B": "44",
+        "C": "45",
+        "D": "46"
+      },
+      "correctAnswer": "C",
+      "explanation": "Add 3, 5, 7, 9, then 11: 10 + 3 = 13, 13 + 5 = 18, 18 + 7 = 25, 25 + 9 = 34, 34 + 11 = 45. The answer is 45.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER089",
+      "subject": "Mental Ability",
+      "topic": "Practice - Alphabet Forward",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next letter: B, E, H, K, ?",
+      "options": {
+        "A": "M",
+        "B": "N",
+        "C": "O",
+        "D": "P"
+      },
+      "correctAnswer": "B",
+      "explanation": "Advance by three positions: B, E, H, K, N. The answer is N.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER090",
+      "subject": "Mental Ability",
+      "topic": "Practice - Interleaved Alphabet",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next letter: A, Z, B, Y, C, X, ?",
+      "options": {
+        "A": "C",
+        "B": "D",
+        "C": "E",
+        "D": "W"
+      },
+      "correctAnswer": "B",
+      "explanation": "Forward sequence A, B, C, D is interleaved with reverse sequence Z, Y, X. The next term is D.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER091",
+      "subject": "Mental Ability",
+      "topic": "Practice - Opposite Letter Pairs",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next pair: AZ, BY, CX, ?",
+      "options": {
+        "A": "DV",
+        "B": "DW",
+        "C": "EW",
+        "D": "DX"
+      },
+      "correctAnswer": "B",
+      "explanation": "First letters move forward (A, B, C, D); second letters move backward (Z, Y, X, W). The next pair is DW.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER092",
+      "subject": "Mental Ability",
+      "topic": "Practice - Alphanumeric",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: B2, D4, F6, H8, ?",
+      "options": {
+        "A": "I10",
+        "B": "J10",
+        "C": "J12",
+        "D": "K10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Letters advance by two (B, D, F, H, J) and numbers increase by two (2, 4, 6, 8, 10). The answer is J10.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER093",
+      "subject": "Mental Ability",
+      "topic": "Practice - Letter-Number Alternating",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: 1, A, 2, B, 3, C, ?",
+      "options": {
+        "A": "4",
+        "B": "D",
+        "C": "5",
+        "D": "E"
+      },
+      "correctAnswer": "A",
+      "explanation": "Numbers occupy odd positions (1, 2, 3, 4) and letters occupy even positions (A, B, C). The next term (7th position, odd) is 4.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER094",
+      "subject": "Mental Ability",
+      "topic": "Practice - Rank from Both Ends",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A candidate is 11th from the top and 18th from the bottom. Find the total number of candidates.",
+      "options": {
+        "A": "27",
+        "B": "28",
+        "C": "29",
+        "D": "30"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total = 11 + 18 − 1 = 28 candidates.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER095",
+      "subject": "Mental Ability",
+      "topic": "Practice - Opposite Rank",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "There are 35 people in a row. A person is 20th from the left. Find the rank from the right.",
+      "options": {
+        "A": "15th",
+        "B": "16th",
+        "C": "17th",
+        "D": "18th"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rank from right = 35 − 20 + 1 = 16th from the right.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER096",
+      "subject": "Mental Ability",
+      "topic": "Practice - People Between Ranks",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "There are 8 people in a row. How many positions lie between positions 2 and 7?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "B",
+      "explanation": "People between = 7 − 2 − 1 = 4 positions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER097",
+      "subject": "Mental Ability",
+      "topic": "Practice - Odd One Out",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is different: triangle, square, rectangle, cube?",
+      "options": {
+        "A": "Triangle",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Cube"
+      },
+      "correctAnswer": "D",
+      "explanation": "Cube is three-dimensional, while the others are two-dimensional.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER098",
+      "subject": "Mental Ability",
+      "topic": "Practice - Analogy",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Complete the analogy: Hand : Glove :: Foot : ?",
+      "options": {
+        "A": "Sock",
+        "B": "Shoe",
+        "C": "Leg",
+        "D": "Toe"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hand is to Glove as Foot is to Shoe (the covering worn).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER099",
+      "subject": "Mental Ability",
+      "topic": "Practice - Ordering",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "If Monday's event is before Wednesday's event, and Wednesday's event is before Friday's event, what is the order?",
+      "options": {
+        "A": "Friday, Wednesday, Monday",
+        "B": "Monday, Wednesday, Friday",
+        "C": "Wednesday, Monday, Friday",
+        "D": "Monday, Friday, Wednesday"
+      },
+      "correctAnswer": "B",
+      "explanation": "Monday before Wednesday, Wednesday before Friday: Monday, Wednesday, Friday.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER100",
+      "subject": "Mental Ability",
+      "topic": "Practice - Arrangement Logic",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If two different arrangements satisfy all the clues, what should be concluded?",
+      "options": {
+        "A": "The puzzle is invalid",
+        "B": "Both remain possible; the clues do not determine a unique arrangement",
+        "C": "Only the first arrangement is correct",
+        "D": "The clues must be changed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both remain possible; the clues do not determine a unique arrangement.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER101",
+      "subject": "Mental Ability",
+      "topic": "Practice - GP",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next number: 2, 4, 8, 16, 32, ?",
+      "options": {
+        "A": "48",
+        "B": "56",
+        "C": "64",
+        "D": "72"
+      },
+      "correctAnswer": "C",
+      "explanation": "Multiply by 2: 2, 4, 8, 16, 32, 64. The answer is 64.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER102",
+      "subject": "Mental Ability",
+      "topic": "Practice - Alphabet Forward",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Find the next letter: C, F, I, L, ?",
+      "options": {
+        "A": "M",
+        "B": "N",
+        "C": "O",
+        "D": "P"
+      },
+      "correctAnswer": "C",
+      "explanation": "Advance by three positions: C, F, I, L, O. The answer is O.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER103",
+      "subject": "Mental Ability",
+      "topic": "Practice - Alphanumeric",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next term: 2A, 4C, 6E, 8G, ?",
+      "options": {
+        "A": "9H",
+        "B": "10I",
+        "C": "10H",
+        "D": "11I"
+      },
+      "correctAnswer": "B",
+      "explanation": "Numbers advance by two (2, 4, 6, 8, 10) and letters advance by two (A, C, E, G, I). The answer is 10I.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER104",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Arithmetic Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the rule for an arithmetic series?",
+      "options": {
+        "A": "Multiply or divide by a constant ratio",
+        "B": "Add or subtract a constant difference",
+        "C": "Add the two previous terms",
+        "D": "Compare differences of consecutive differences"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rule for an arithmetic series is to add or subtract a constant difference.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER105",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Geometric Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the rule for a geometric series?",
+      "options": {
+        "A": "Add or subtract a constant difference",
+        "B": "Multiply or divide by a constant ratio",
+        "C": "Add the two previous terms",
+        "D": "Use alphabet positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rule for a geometric series is to multiply or divide by a constant ratio.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER106",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Second Differences",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision table, what is the rule for second differences?",
+      "options": {
+        "A": "Add or subtract a constant difference",
+        "B": "Multiply by a constant ratio",
+        "C": "Compare differences of consecutive differences",
+        "D": "Add the two previous terms"
+      },
+      "correctAnswer": "C",
+      "explanation": "The rule for second differences is to compare differences of consecutive differences.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER107",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Squares",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the squares sequence?",
+      "options": {
+        "A": "1, 8, 27, 64, 125, ...",
+        "B": "1, 4, 9, 16, 25, 36, ...",
+        "C": "1, 1, 2, 3, 5, 8, ...",
+        "D": "2, 3, 5, 7, 11, 13, ..."
+      },
+      "correctAnswer": "B",
+      "explanation": "The squares sequence is 1, 4, 9, 16, 25, 36, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER108",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Cubes",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the cubes sequence?",
+      "options": {
+        "A": "1, 4, 9, 16, 25, 36, ...",
+        "B": "1, 8, 27, 64, 125, ...",
+        "C": "1, 1, 2, 3, 5, 8, ...",
+        "D": "1, 3, 6, 10, 15, ..."
+      },
+      "correctAnswer": "B",
+      "explanation": "The cubes sequence is 1, 8, 27, 64, 125, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER109",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Fibonacci",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the rule for a Fibonacci series?",
+      "options": {
+        "A": "Add or subtract a constant difference",
+        "B": "Multiply by a constant ratio",
+        "C": "Add the two previous terms",
+        "D": "Use alphabet positions"
+      },
+      "correctAnswer": "C",
+      "explanation": "The rule for a Fibonacci series is to add the two previous terms.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER110",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Alphabet Position",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the alphabet position rule?",
+      "options": {
+        "A": "A=26 through Z=1",
+        "B": "A=1 through Z=26",
+        "C": "A=0 through Z=25",
+        "D": "Letters have no positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The alphabet position rule is A=1 through Z=26.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER111",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Reverse Alphabet",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision table, what is the reverse alphabet position rule?",
+      "options": {
+        "A": "27 + normal position",
+        "B": "27 − normal position",
+        "C": "Normal position ÷ 2",
+        "D": "Normal position × 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reverse alphabet position rule is 27 − normal position.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER112",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Alphanumeric",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision table, how should an alphanumeric series be solved?",
+      "options": {
+        "A": "Treat all elements as one rule",
+        "B": "Solve letter and number components separately",
+        "C": "Ignore the letters",
+        "D": "Only check the numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "In an alphanumeric series, solve letter and number components separately.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER113",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Rank from Both Ends",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the formula for total when rank from both ends is given?",
+      "options": {
+        "A": "Total = rank 1 + rank 2",
+        "B": "Total = rank 1 + rank 2 − 1",
+        "C": "Total = rank 1 − rank 2 + 1",
+        "D": "Total = rank 1 × rank 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total = rank 1 + rank 2 − 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER114",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - Opposite Rank",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the formula for opposite rank?",
+      "options": {
+        "A": "Total + given rank − 1",
+        "B": "Total − given rank + 1",
+        "C": "Given rank − total + 1",
+        "D": "Total + given rank + 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Opposite rank = Total − given rank + 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER115",
+      "subject": "Mental Ability",
+      "topic": "Quick Revision - People Between Ranks",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision table, what is the formula for people between ranks?",
+      "options": {
+        "A": "Absolute rank difference + 1",
+        "B": "Absolute rank difference − 1",
+        "C": "Sum of ranks − 1",
+        "D": "Sum of ranks + 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "People between ranks = absolute rank difference − 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER116",
+      "subject": "Mental Ability",
+      "topic": "Exam Checklist",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the exam checklist, what should be identified first in a series question?",
+      "options": {
+        "A": "The options",
+        "B": "The sequence type",
+        "C": "The last term",
+        "D": "The source"
+      },
+      "correctAnswer": "B",
+      "explanation": "The exam checklist says: Identify the sequence type; test differences and ratios; check alternate positions; convert letters to positions; separate components in mixed series; verify the rule against every term.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER117",
+      "subject": "Mental Ability",
+      "topic": "Exam Checklist",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the exam checklist, what should be done in any arrangement puzzle?",
+      "options": {
+        "A": "Guess the answer",
+        "B": "Write down every clue and check the final arrangement against all of them",
+        "C": "Only check the first clue",
+        "D": "Ignore contradictory clues"
+      },
+      "correctAnswer": "B",
+      "explanation": "In any arrangement puzzle, write down every clue and check the final arrangement against all of them.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER118",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP Calculation",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the AP 4, 7, 10, 13, ..., what is the common difference?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "The common difference is 3 (7−4=3, 10−7=3, 13−10=3).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+        {
+      "id": "SER119",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP Calculation",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the GP 2, 6, 18, 54, ..., what is the common ratio?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "correctAnswer": "B",
+      "explanation": "The common ratio is 3 (6÷2=3, 18÷6=3, 54÷18=3).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER120",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP nth Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For an AP with first term a=4 and common difference d=3, what is the 5th term using a_n = a + (n−1)d?",
+      "options": {
+        "A": "13",
+        "B": "16",
+        "C": "19",
+        "D": "22"
+      },
+      "correctAnswer": "B",
+      "explanation": "a_5 = 4 + (5−1)×3 = 4 + 12 = 16.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER121",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP nth Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "For a GP with first term a=2 and common ratio r=3, what is the 4th term using a_n = a × r^(n−1)?",
+      "options": {
+        "A": "18",
+        "B": "36",
+        "C": "54",
+        "D": "72"
+      },
+      "correctAnswer": "C",
+      "explanation": "a_4 = 2 × 3^(4−1) = 2 × 27 = 54.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER122",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP Sum",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the sum of the first 5 terms of the AP 4, 7, 10, 13, ... using S_n = n/2[2a + (n−1)d].",
+      "options": {
+        "A": "50",
+        "B": "55",
+        "C": "60",
+        "D": "65"
+      },
+      "correctAnswer": "A",
+      "explanation": "S_5 = 5/2[2×4 + (5−1)×3] = 5/2[8 + 12] = 5/2 × 20 = 50.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER123",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP Sum",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the sum of the first 4 terms of the GP 2, 6, 18, 54 using S_n = a(r^n − 1)/(r − 1).",
+      "options": {
+        "A": "60",
+        "B": "70",
+        "C": "80",
+        "D": "90"
+      },
+      "correctAnswer": "C",
+      "explanation": "S_4 = 2(3^4 − 1)/(3 − 1) = 2(81 − 1)/2 = 80.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER124",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP Sum with Last Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the sum of the AP 4, 7, 10, 13, 16 using S_n = n(a + l)/2.",
+      "options": {
+        "A": "45",
+        "B": "50",
+        "C": "55",
+        "D": "60"
+      },
+      "correctAnswer": "B",
+      "explanation": "S_5 = 5(4 + 16)/2 = 5 × 20/2 = 50.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER125",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Prime Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is the next prime after 13?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correctAnswer": "D",
+      "explanation": "The prime numbers are 2, 3, 5, 7, 11, 13, 17, ... The next prime after 13 is 17.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER126",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Triangular Numbers",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the 6th triangular number using n(n+1)/2?",
+      "options": {
+        "A": "18",
+        "B": "21",
+        "C": "24",
+        "D": "28"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 6th triangular number = 6×7/2 = 21. The sequence is 1, 3, 6, 10, 15, 21, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER127",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Factorial",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is 5! in the factorial series 1!, 2!, 3!, 4!, 5!, ...?",
+      "options": {
+        "A": "60",
+        "B": "100",
+        "C": "120",
+        "D": "140"
+      },
+      "correctAnswer": "C",
+      "explanation": "5! = 5×4×3×2×1 = 120. The series is 1, 2, 6, 24, 120, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER128",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Digit Sum",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the digit sum of 248?",
+      "options": {
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "15"
+      },
+      "correctAnswer": "C",
+      "explanation": "Digit sum of 248 = 2 + 4 + 8 = 14.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER129",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Digit Reversal",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the digit reversal of 123?",
+      "options": {
+        "A": "132",
+        "B": "231",
+        "C": "321",
+        "D": "312"
+      },
+      "correctAnswer": "C",
+      "explanation": "The digit reversal of 123 is 321.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER130",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Prime Gaps",
+      "chapter": "Series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What are the prime gaps in the sequence 2, 3, 5, 7, 11, 13?",
+      "options": {
+        "A": "1, 1, 2, 2, 4",
+        "B": "1, 2, 2, 4, 2",
+        "C": "2, 2, 4, 2, 1",
+        "D": "1, 2, 3, 4, 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "The gaps are 3−2=1, 5−3=2, 7−5=2, 11−7=4, 13−11=2, i.e., 1, 2, 2, 4, 2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER131",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Position of Letter",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the alphabetical position of M?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "A=1, B=2, ..., M=13.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER132",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Position of Letter",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the alphabetical position of S?",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "19",
+        "D": "20"
+      },
+      "correctAnswer": "C",
+      "explanation": "A=1, B=2, ..., S=19.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER133",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Forward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "C shifted forward by 3 positions becomes which letter?",
+      "options": {
+        "A": "E",
+        "B": "F",
+        "C": "G",
+        "D": "H"
+      },
+      "correctAnswer": "B",
+      "explanation": "C is position 3; 3 + 3 = 6, which is F.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER134",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Backward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "H shifted backward by 2 positions becomes which letter?",
+      "options": {
+        "A": "E",
+        "B": "F",
+        "C": "G",
+        "D": "I"
+      },
+      "correctAnswer": "B",
+      "explanation": "H is position 8; 8 − 2 = 6, which is F.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER135",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Cyclic Movement",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Moving two positions forward from Y gives which letter (cyclic)?",
+      "options": {
+        "A": "Z",
+        "B": "A",
+        "C": "B",
+        "D": "C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Y is position 25; 25 + 2 = 27; cyclically 27 − 26 = 1, which is A.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER136",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Opposite Pair",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the opposite letter of C (positions adding to 27)?",
+      "options": {
+        "A": "W",
+        "B": "X",
+        "C": "Y",
+        "D": "Z"
+      },
+      "correctAnswer": "B",
+      "explanation": "Opposite of C: 27 − 3 = 24, which is X. So C-X is an opposite pair.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER137",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the reverse alphabetical position of A?",
+      "options": {
+        "A": "1",
+        "B": "26",
+        "C": "25",
+        "D": "27"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reverse position = 27 − normal position = 27 − 1 = 26. So A has reverse position 26.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER138",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the reverse alphabetical position of Z?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "25",
+        "D": "26"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reverse position = 27 − 26 = 1. So Z has reverse position 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER139",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Letter Gap",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series A, D, G, J, what is the gap between consecutive letters?",
+      "options": {
+        "A": "2 positions",
+        "B": "3 positions",
+        "C": "4 positions",
+        "D": "5 positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "A(1), D(4), G(7), J(10): each term increases by 3 positions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER140",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Pair Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the pair series AB, CD, EF, GH, what is the pattern?",
+      "options": {
+        "A": "First letters move backward, second letters forward",
+        "B": "Consecutive letter pairs are used",
+        "C": "Letters are reversed",
+        "D": "Only vowels are used"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consecutive letter pairs are used: AB, CD, EF, GH, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER141",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Group Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the group-letter series ABC, DEF, GHI, what is the pattern?",
+      "options": {
+        "A": "Each group contains consecutive letters and groups continue the sequence",
+        "B": "Only vowels are used",
+        "C": "Letters are reversed in each group",
+        "D": "Groups alternate forward and backward"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each group contains consecutive letters (ABC, DEF, GHI) and the groups continue the alphabetical sequence.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER142",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Alphanumeric Pattern",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series A1, C3, E5, G7, what are the two separate patterns?",
+      "options": {
+        "A": "Letters advance by one; numbers by one",
+        "B": "Letters advance by two; numbers increase by two",
+        "C": "Letters move backward; numbers decrease",
+        "D": "Letters are random; numbers are prime"
+      },
+      "correctAnswer": "B",
+      "explanation": "Letters advance by two positions (A, C, E, G) and numbers increase by two (1, 3, 5, 7).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    },
+    {
+      "id": "SER143",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Interleaved",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 1, A, 2, B, 3, C, which positions do numbers and letters occupy?",
+      "options": {
+        "A": "Numbers in even positions, letters in odd positions",
+        "B": "Numbers in odd positions, letters in even positions",
+        "C": "Both alternate randomly",
+        "D": "All numbers first, then letters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Numbers occupy odd positions (1st, 3rd, 5th) and letters occupy even positions (2nd, 4th, 6th).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER144",
+      "subject": "Mental Ability",
+      "topic": "Methods - Difference Method Application",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Using the difference method on 2, 5, 10, 17, 26, what are the first differences?",
+      "options": {
+        "A": "2, 3, 4, 5",
+        "B": "3, 5, 7, 9",
+        "C": "1, 2, 3, 4",
+        "D": "3, 4, 5, 6"
+      },
+      "correctAnswer": "B",
+      "explanation": "First differences: 5−2=3, 10−5=5, 17−10=7, 26−17=9, i.e., 3, 5, 7, 9.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER145",
+      "subject": "Mental Ability",
+      "topic": "Methods - Ratio Method Application",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Using the ratio method on 3, 6, 12, 24, what is the constant ratio?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "6÷3=2, 12÷6=2, 24÷12=2. The constant ratio is 2 (geometric progression).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER146",
+      "subject": "Mental Ability",
+      "topic": "Methods - Second Difference Application",
+      "chapter": "Series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "For the series 2, 5, 10, 17, 26, what are the second differences?",
+      "options": {
+        "A": "1, 1, 1",
+        "B": "2, 2, 2",
+        "C": "3, 3, 3",
+        "D": "4, 4, 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "First differences: 3, 5, 7, 9. Second differences: 5−3=2, 7−5=2, 9−7=2. Constant second difference 2 indicates a quadratic pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER147",
+      "subject": "Mental Ability",
+      "topic": "Methods - Alternate Position Application",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 5, 10, 8, 16, 14, 28, what are the odd-positioned terms?",
+      "options": {
+        "A": "10, 16, 28",
+        "B": "5, 8, 14",
+        "C": "5, 10, 8",
+        "D": "8, 16, 14"
+      },
+      "correctAnswer": "B",
+      "explanation": "Odd positions (1st, 3rd, 5th) are 5, 8, 14; even positions (2nd, 4th, 6th) are 10, 16, 28.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER148",
+      "subject": "Mental Ability",
+      "topic": "Methods - Operation Method Application",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 3, 7, 15, 31, which combined operation generates each term?",
+      "options": {
+        "A": "×2 − 1",
+        "B": "×2 + 1",
+        "C": "×3 + 1",
+        "D": "×2 + 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "3×2+1=7, 7×2+1=15, 15×2+1=31. The operation is ×2 + 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER149",
+      "subject": "Mental Ability",
+      "topic": "Methods - Position Method Application",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 1, 4, 9, 16, 25 follows which position-based expression?",
+      "options": {
+        "A": "n",
+        "B": "2n",
+        "C": "n²",
+        "D": "n³"
+      },
+      "correctAnswer": "C",
+      "explanation": "1=1², 4=2², 9=3², 16=4², 25=5². The expression is n².",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER150",
+      "subject": "Mental Ability",
+      "topic": "Methods - Digit Operation Application",
+      "chapter": "Series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which digit operation is illustrated by the digit sum of 248 being 14?",
+      "options": {
+        "A": "Digit reversal",
+        "B": "Digit sum",
+        "C": "Digit product",
+        "D": "Prime gap"
+      },
+      "correctAnswer": "B",
+      "explanation": "The digit sum of 248 is 2+4+8=14, illustrating a digit-sum pattern.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER151",
+      "subject": "Mental Ability",
+      "topic": "Practice - Incorrect Term",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 4, 8, 16, 31, 64, which term is incorrect if the pattern is doubling?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "31",
+        "D": "64"
+      },
+      "correctAnswer": "C",
+      "explanation": "Doubling gives 4, 8, 16, 32, 64. The term 31 should be 32, so 31 is incorrect.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section F"
+    },
+    {
+      "id": "SER152",
+      "subject": "Mental Ability",
+      "topic": "Practice - Rank from Both Ends",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A person is 5th from the left and 10th from the right. Find the total number of people.",
+      "options": {
+        "A": "13",
+        "B": "14",
+        "C": "15",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total = 5 + 10 − 1 = 14.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER153",
+      "subject": "Mental Ability",
+      "topic": "Practice - Opposite Rank",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In a row of 40 people, a person is 12th from the left. Find the rank from the right.",
+      "options": {
+        "A": "27th",
+        "B": "28th",
+        "C": "29th",
+        "D": "30th"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rank from right = 40 − 12 + 1 = 29th.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER154",
+      "subject": "Mental Ability",
+      "topic": "Practice - People Between",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In a row of 20 people, how many people are between the 4th and 12th positions?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "B",
+      "explanation": "People between = |12 − 4| − 1 = 8 − 1 = 7.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 7, Section H"
+    },
+    {
+      "id": "SER155",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Alternating",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 5, 10, 8, 16, 14, 28, what is the pattern?",
+      "options": {
+        "A": "Add 5, subtract 2",
+        "B": "Alternate ×2 and −2",
+        "C": "Multiply by 2 only",
+        "D": "Add 3 only"
+      },
+      "correctAnswer": "B",
+      "explanation": "5×2=10, 10−2=8, 8×2=16, 16−2=14, 14×2=28. The pattern alternates ×2 and −2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER156",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Square Numbers",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the 7th term of the square-number series 1, 4, 9, 16, 25, 36, ...?",
+      "options": {
+        "A": "42",
+        "B": "45",
+        "C": "49",
+        "D": "56"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 7th term is 7² = 49.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER157",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Cube Numbers",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the 5th term of the cube-number series 1, 8, 27, 64, ...?",
+      "options": {
+        "A": "100",
+        "B": "125",
+        "C": "150",
+        "D": "175"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 5th term is 5³ = 125.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER158",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Fibonacci",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the Fibonacci series 1, 1, 2, 3, 5, 8, 13, ..., what is the 8th term?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "21",
+        "D": "22"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 8th term = 8 + 13 = 21.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER159",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Factorial",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the factorial series 1!, 2!, 3!, 4!, 5!, ..., what is the 4th term?",
+      "options": {
+        "A": "12",
+        "B": "18",
+        "C": "24",
+        "D": "30"
+      },
+      "correctAnswer": "C",
+      "explanation": "4! = 4×3×2×1 = 24.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER160",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Triangular Numbers",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the 5th triangular number in the series 1, 3, 6, 10, ...?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 5th triangular number = 5×6/2 = 15.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+        {
+      "id": "SER161",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Position Calculation",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the alphabetical position of Q?",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "17",
+        "D": "18"
+      },
+      "correctAnswer": "C",
+      "explanation": "A=1 through Z=26; Q is the 17th letter.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER162",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Position Calculation",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which letter is at position 22 in the English alphabet?",
+      "options": {
+        "A": "U",
+        "B": "V",
+        "C": "W",
+        "D": "X"
+      },
+      "correctAnswer": "B",
+      "explanation": "A=1, ..., V=22.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER163",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Forward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "M shifted forward by 4 positions becomes which letter?",
+      "options": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "S"
+      },
+      "correctAnswer": "B",
+      "explanation": "M is position 13; 13+4=17, which is Q.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section C"
+    },
+    {
+      "id": "SER164",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Backward Shift",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "T shifted backward by 5 positions becomes which letter?",
+      "options": {
+        "A": "N",
+        "B": "O",
+        "C": "P",
+        "D": "Q"
+      },
+      "correctAnswer": "B",
+      "explanation": "T is position 20; 20−5=15, which is O.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER165",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Cyclic Movement",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Moving four positions forward from X gives which letter (cyclic)?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "B",
+      "explanation": "X=24; 24+4=28; cyclically 28−26=2, which is B.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER166",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Cyclic Movement",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Moving three positions backward from B gives which letter (cyclic)?",
+      "options": {
+        "A": "Y",
+        "B": "Z",
+        "C": "X",
+        "D": "W"
+      },
+      "correctAnswer": "A",
+      "explanation": "B=2; 2−3=−1; cyclically −1+26=25, which is Y.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER167",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Opposite Pair",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which letter is the opposite pair of M (positions adding to 27)?",
+      "options": {
+        "A": "M",
+        "B": "N",
+        "C": "O",
+        "D": "P"
+      },
+      "correctAnswer": "B",
+      "explanation": "M=13; opposite = 27−13=14, which is N. M-N is an opposite pair.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER168",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the reverse alphabetical position of F?",
+      "options": {
+        "A": "20",
+        "B": "21",
+        "C": "22",
+        "D": "23"
+      },
+      "correctAnswer": "B",
+      "explanation": "F=6; reverse position = 27−6=21.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER169",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Letter Gap",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series B, F, J, N, what is the gap between consecutive letters?",
+      "options": {
+        "A": "3 positions",
+        "B": "4 positions",
+        "C": "5 positions",
+        "D": "6 positions"
+      },
+      "correctAnswer": "B",
+      "explanation": "B=2, F=6, J=10, N=14; each term increases by 4 positions.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER170",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What comes next in the reverse alphabet series Z, Y, X, W, ...?",
+      "options": {
+        "A": "U",
+        "B": "V",
+        "C": "T",
+        "D": "S"
+      },
+      "correctAnswer": "B",
+      "explanation": "The series follows the alphabet backwards: Z, Y, X, W, V, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER171",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Alternate Letters",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What comes next in A, C, E, G, I, ...?",
+      "options": {
+        "A": "J",
+        "B": "K",
+        "C": "L",
+        "D": "M"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each term advances by two positions: A, C, E, G, I, K, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER172",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Pair Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the pair series AZ, BY, CX, what are the patterns of the first and second letters?",
+      "options": {
+        "A": "First letters forward; second letters forward",
+        "B": "First letters forward; second letters backward",
+        "C": "First letters backward; second letters forward",
+        "D": "Both letters are random"
+      },
+      "correctAnswer": "B",
+      "explanation": "First letters move forward (A, B, C) and second letters move backward (Z, Y, X).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER173",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Pattern Detection",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series B2, D4, F6, H8, what is the pattern?",
+      "options": {
+        "A": "Letters advance by 1, numbers by 2",
+        "B": "Letters advance by 2, numbers by 2",
+        "C": "Letters advance by 2, numbers by 1",
+        "D": "Letters advance by 3, numbers by 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Letters advance by two (B, D, F, H, J) and numbers increase by two (2, 4, 6, 8, 10).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER174",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Pattern Detection",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 2A, 4C, 6E, 8G, what is the pattern?",
+      "options": {
+        "A": "Numbers advance by 1, letters by 2",
+        "B": "Numbers advance by 2, letters by 2",
+        "C": "Numbers advance by 2, letters by 1",
+        "D": "Numbers advance by 3, letters by 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Numbers advance by two (2, 4, 6, 8, 10) and letters advance by two (A, C, E, G, I).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER175",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Interleaved",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 1, A, 2, B, 3, C, what is the next term?",
+      "options": {
+        "A": "D",
+        "B": "4",
+        "C": "5",
+        "D": "E"
+      },
+      "correctAnswer": "B",
+      "explanation": "Numbers occupy odd positions (1, 2, 3, 4) and letters occupy even positions (A, B, C). The 7th term is 4.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 6, Section G"
+    },
+    {
+      "id": "SER176",
+      "subject": "Mental Ability",
+      "topic": "Methods - Two Missing Terms",
+      "chapter": "Series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In an alternating series with two blanks, how should each blank be solved?",
+      "options": {
+        "A": "Use the same rule for both blanks",
+        "B": "Identify which subsequence each blank belongs to and solve accordingly",
+        "C": "Guess both randomly",
+        "D": "Solve only the first blank"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the series alternates, identify which subsequence each blank belongs to and solve both blanks together.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER177",
+      "subject": "Mental Ability",
+      "topic": "Methods - Using Options",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why should the chosen rule be verified against every given term rather than selecting a merely close value?",
+      "options": {
+        "A": "Because options are always wrong",
+        "B": "To ensure the pattern is consistent across all terms and not a coincidence",
+        "C": "Because only the last term matters",
+        "D": "Because close values are always correct"
+      },
+      "correctAnswer": "B",
+      "explanation": "The chosen rule must be verified against every given term to ensure consistency and avoid coincidental patterns.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER178",
+      "subject": "Mental Ability",
+      "topic": "Methods - Time Management",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the recommended order of checks in a series question?",
+      "options": {
+        "A": "Powers, primes, differences, ratios",
+        "B": "Differences, ratios, alternating terms, squares/cubes, letter shifts",
+        "C": "Letter shifts, primes, digit operations, ratios",
+        "D": "Random guessing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Try the simplest checks first: differences, ratios, alternating terms, squares/cubes, and letter shifts.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section E"
+    },
+    {
+      "id": "SER179",
+      "subject": "Mental Ability",
+      "topic": "Number Series - AP Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an arithmetic progression?",
+      "options": {
+        "A": "2, 4, 8, 16",
+        "B": "3, 6, 9, 12",
+        "C": "1, 4, 9, 16",
+        "D": "1, 1, 2, 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "3, 6, 9, 12 has a constant difference of 3, so it is an AP.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER180",
+      "subject": "Mental Ability",
+      "topic": "Number Series - GP Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a geometric progression?",
+      "options": {
+        "A": "2, 4, 6, 8",
+        "B": "3, 6, 12, 24",
+        "C": "1, 4, 9, 16",
+        "D": "2, 3, 5, 7"
+      },
+      "correctAnswer": "B",
+      "explanation": "3, 6, 12, 24 has a constant ratio of 2, so it is a GP.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER181",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Square Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a square-number series?",
+      "options": {
+        "A": "1, 8, 27, 64",
+        "B": "1, 4, 9, 16",
+        "C": "2, 3, 5, 7",
+        "D": "1, 1, 2, 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "1, 4, 9, 16 are consecutive perfect squares (1², 2², 3², 4²).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER182",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Cube Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a cube-number series?",
+      "options": {
+        "A": "1, 4, 9, 16",
+        "B": "1, 8, 27, 64",
+        "C": "2, 4, 8, 16",
+        "D": "2, 3, 5, 7"
+      },
+      "correctAnswer": "B",
+      "explanation": "1, 8, 27, 64 are consecutive perfect cubes (1³, 2³, 3³, 4³).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER183",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Prime Identification",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a prime-number series?",
+      "options": {
+        "A": "1, 4, 9, 16",
+        "B": "2, 3, 5, 7",
+        "C": "2, 4, 6, 8",
+        "D": "1, 3, 5, 7"
+      },
+      "correctAnswer": "B",
+      "explanation": "2, 3, 5, 7 are consecutive prime numbers.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER184",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Odd Number Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an odd-number series?",
+      "options": {
+        "A": "2, 4, 6, 8",
+        "B": "1, 3, 5, 7",
+        "C": "2, 3, 5, 7",
+        "D": "1, 4, 9, 16"
+      },
+      "correctAnswer": "B",
+      "explanation": "1, 3, 5, 7 are consecutive odd integers.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER185",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Even Number Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an even-number series?",
+      "options": {
+        "A": "1, 3, 5, 7",
+        "B": "2, 4, 6, 8",
+        "C": "2, 3, 5, 7",
+        "D": "1, 4, 9, 16"
+      },
+      "correctAnswer": "B",
+      "explanation": "2, 4, 6, 8 are consecutive even integers.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER186",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Constant Difference",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the series 10, 20, 30, 40, what is the constant difference?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correctAnswer": "B",
+      "explanation": "20−10=10, 30−20=10, 40−30=10. The constant difference is 10.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 2, Section B"
+    },
+    {
+      "id": "SER187",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Multiplication Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the series 3, 9, 27, 81, what is the fixed factor?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "3×3=9, 9×3=27, 27×3=81. The fixed factor is 3.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER188",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Division Series",
+      "chapter": "Series",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the series 64, 32, 16, 8, what is the fixed divisor?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "64÷2=32, 32÷2=16, 16÷2=8. The fixed divisor is 2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER189",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Combined Operation",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the series 1, 3, 7, 15, 31, which combined operation is used?",
+      "options": {
+        "A": "×2 + 1",
+        "B": "×2 − 1",
+        "C": "×3 + 1",
+        "D": "×2 + 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "1×2+1=3, 3×2+1=7, 7×2+1=15, 15×2+1=31. The operation is ×2 + 1.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER190",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Alternating",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the alternating series 2, 4, 3, 6, 5, 10, what are the odd-positioned terms?",
+      "options": {
+        "A": "2, 3, 5",
+        "B": "4, 6, 10",
+        "C": "2, 4, 3",
+        "D": "3, 6, 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Odd positions (1st, 3rd, 5th) are 2, 3, 5; even positions (2nd, 4th, 6th) are 4, 6, 10.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER191",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Position Based",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 2, 4, 6, 8, 10 follows which position-based expression?",
+      "options": {
+        "A": "n",
+        "B": "2n",
+        "C": "n²",
+        "D": "n³"
+      },
+      "correctAnswer": "B",
+      "explanation": "2=2×1, 4=2×2, 6=2×3, 8=2×4, 10=2×5. The expression is 2n.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER192",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Position Based",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 2, 6, 12, 20, 30 follows which position-based expression?",
+      "options": {
+        "A": "n²",
+        "B": "n(n+1)",
+        "C": "2n",
+        "D": "n³"
+      },
+      "correctAnswer": "B",
+      "explanation": "2=1×2, 6=2×3, 12=3×4, 20=4×5, 30=5×6. The expression is n(n+1).",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER193",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Triangular Numbers",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 1, 3, 6, 10, 15 is known as what type of series?",
+      "options": {
+        "A": "Square-number series",
+        "B": "Triangular-number series",
+        "C": "Cube-number series",
+        "D": "Prime-number series"
+      },
+      "correctAnswer": "B",
+      "explanation": "1, 3, 6, 10, 15 are triangular numbers formed by adding consecutive natural numbers; the nth triangular number is n(n+1)/2.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER194",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Fibonacci",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 1, 1, 2, 3, 5, 8, 13 is known as what type of series?",
+      "options": {
+        "A": "Arithmetic series",
+        "B": "Geometric series",
+        "C": "Fibonacci-type series",
+        "D": "Prime series"
+      },
+      "correctAnswer": "C",
+      "explanation": "Each term after the first two is the sum of the two preceding terms, making it a Fibonacci-type series.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER195",
+      "subject": "Mental Ability",
+      "topic": "Number Series - Factorial",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The series 1, 2, 6, 24, 120 is known as what type of series?",
+      "options": {
+        "A": "Square series",
+        "B": "Factorial series",
+        "C": "Cube series",
+        "D": "Triangular series"
+      },
+      "correctAnswer": "B",
+      "explanation": "The terms are 1!, 2!, 3!, 4!, 5! = 1, 2, 6, 24, 120, making it a factorial series.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 3, Section B"
+    },
+    {
+      "id": "SER196",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Reverse Position",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the reverse alphabetical position of R?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11"
+      },
+      "correctAnswer": "B",
+      "explanation": "R=18; reverse position = 27−18=9.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER197",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Opposite Pair",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which letter forms an opposite pair with D?",
+      "options": {
+        "A": "W",
+        "B": "X",
+        "C": "Y",
+        "D": "Z"
+      },
+      "correctAnswer": "A",
+      "explanation": "D=4; opposite = 27−4=23, which is W. D-W is an opposite pair.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER198",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Group Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What comes next in the group-letter series ABC, DEF, GHI, ...?",
+      "options": {
+        "A": "JKL",
+        "B": "IJK",
+        "C": "KLM",
+        "D": "JKM"
+      },
+      "correctAnswer": "A",
+      "explanation": "The groups are consecutive letter triplets: ABC, DEF, GHI, JKL, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section C"
+    },
+    {
+      "id": "SER199",
+      "subject": "Mental Ability",
+      "topic": "Alphabet Series - Pair Letters",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What comes next in the pair-letter series AB, CD, EF, GH, ...?",
+      "options": {
+        "A": "HI",
+        "B": "IJ",
+        "C": "JK",
+        "D": "KL"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consecutive letter pairs: AB, CD, EF, GH, IJ, ...",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 5, Section F"
+    },
+    {
+      "id": "SER200",
+      "subject": "Mental Ability",
+      "topic": "Mixed Series - Symbol-Number-Letter",
+      "chapter": "Series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a symbol-number-letter series, how should the components be treated?",
+      "options": {
+        "A": "As one combined pattern",
+        "B": "One or more components may follow separate progressions and should be analyzed independently",
+        "C": "Only the symbols matter",
+        "D": "Only the letters matter"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a symbol-number-letter series, one or more components may follow separate progressions and should be analyzed independently.",
+      "source": "FDA_SDA_Mental_Ability_15_3_Series_Notes.pdf - Page 4, Section D"
+    }
+  ]
+}

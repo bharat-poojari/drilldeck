@@ -1,0 +1,3537 @@
+{
+  "exam": "KEA FDA/SDA",
+  "version": "1.0.0",
+  "description": "Comprehensive question bank on Karnataka Agriculture based on Karnataka Economic Survey 2025-26 and related sources. Covers all topics from the provided PDF notes.",
+  "subject": "Karnataka Agriculture",
+  "totalQuestions": 520,
+  "questions": [
+    {
+      "id": "AG001",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Importance of Agriculture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What do agriculture and allied activities support in Karnataka?",
+      "options": {
+        "A": "Only urban livelihoods",
+        "B": "Rural livelihoods, food and raw materials, employment, inputs to agro-based industries, and economic and social stability",
+        "C": "Only industrial growth",
+        "D": "Only export promotion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agriculture and allied activities support rural livelihoods, provide food and raw materials, generate employment, supply inputs to agro-based industries and contribute to the State's economic and social stability.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG002",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Allied Activities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is NOT an allied agricultural activity?",
+      "options": {
+        "A": "Livestock rearing",
+        "B": "Sericulture",
+        "C": "Steel manufacturing",
+        "D": "Apiculture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Allied activities include livestock rearing, dairy, poultry, sheep and goat rearing, fisheries, sericulture, apiculture and horticulture. Steel manufacturing is an industrial activity.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG003",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Diverse Production",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is Karnataka suitable for diverse agricultural production?",
+      "options": {
+        "A": "Uniform rainfall throughout the state",
+        "B": "Varied rainfall, temperature, altitude, soils and landforms",
+        "C": "Only one type of soil",
+        "D": "Absence of coastal areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka has varied rainfall, temperature, altitude, soils and landforms, ranging from the humid coastal belt and Western Ghats to the semi-arid Deccan plateau and irrigated river valleys.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG004",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Crop Seasons",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three main agricultural seasons in Karnataka?",
+      "options": {
+        "A": "Spring, Summer, Winter",
+        "B": "Kharif, Rabi, Summer",
+        "C": "Monsoon, Post-monsoon, Dry",
+        "D": "Pre-monsoon, Monsoon, Post-monsoon"
+      },
+      "correctAnswer": "B",
+      "explanation": "The three main agricultural seasons in Karnataka are Kharif, Rabi and Summer.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG005",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Kharif Season",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are Kharif crops generally sown in Karnataka?",
+      "options": {
+        "A": "October to December",
+        "B": "February to May",
+        "C": "June to July with the onset of South-West Monsoon",
+        "D": "January to March"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kharif crops are generally sown with the onset of the South-West Monsoon, mainly from June to July, and harvested from September to December depending on the crop.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG006",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Rabi Season",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When are Rabi crops generally harvested in Karnataka?",
+      "options": {
+        "A": "September to December",
+        "B": "February to April",
+        "C": "June to July",
+        "D": "May to June"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rabi crops are generally sown after the monsoon, mainly from October to December, and harvested from February to April.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG007",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Summer Season",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Summer crops in Karnataka are generally cultivated between which months?",
+      "options": {
+        "A": "June and September",
+        "B": "October and January",
+        "C": "February and May",
+        "D": "November and February"
+      },
+      "correctAnswer": "C",
+      "explanation": "Summer crops are generally cultivated between February and May, often with irrigation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG008",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Cropped Area",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the average total cropped area in Karnataka from 2020-21 to 2024-25 according to the Karnataka Economic Survey 2025-26?",
+      "options": {
+        "A": "100.50 lakh hectares",
+        "B": "111.99 lakh hectares",
+        "C": "120.75 lakh hectares",
+        "D": "95.25 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Economic Survey 2025-26 reports an average total cropped area of 111.99 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG009",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Cropped Area",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the average Kharif cropped area in Karnataka from 2020-21 to 2024-25?",
+      "options": {
+        "A": "23.64 lakh hectares",
+        "B": "6.09 lakh hectares",
+        "C": "82.25 lakh hectares",
+        "D": "111.99 lakh hectares"
+      },
+      "correctAnswer": "C",
+      "explanation": "The average Kharif cropped area was 82.25 lakh hectares, Rabi 23.64 lakh hectares and Summer 6.09 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG010",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Cropped Area",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the average Rabi cropped area in Karnataka from 2020-21 to 2024-25?",
+      "options": {
+        "A": "82.25 lakh hectares",
+        "B": "23.64 lakh hectares",
+        "C": "6.09 lakh hectares",
+        "D": "111.99 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The average Rabi cropped area was 23.64 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG011",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Cropped Area",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the average Summer cropped area in Karnataka from 2020-21 to 2024-25?",
+      "options": {
+        "A": "82.25 lakh hectares",
+        "B": "23.64 lakh hectares",
+        "C": "6.09 lakh hectares",
+        "D": "111.99 lakh hectares"
+      },
+      "correctAnswer": "C",
+      "explanation": "The average Summer cropped area was 6.09 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG012",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Area 2024-25",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the estimated total area under major crops in Karnataka in 2024-25?",
+      "options": {
+        "A": "107.1 lakh hectares",
+        "B": "112.09 lakh hectares",
+        "C": "111.99 lakh hectares",
+        "D": "85.71 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The estimated total area under major crops in 2024-25 was 112.09 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG013",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Area 2024-25",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the area under food grains in Karnataka in 2024-25?",
+      "options": {
+        "A": "78.6 lakh hectares",
+        "B": "85.71 lakh hectares",
+        "C": "112.09 lakh hectares",
+        "D": "107.1 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 2024-25, 85.71 lakh hectares were under food grains.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG014",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Food Production 2024-25",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the estimated food-grain production in Karnataka in 2024-25?",
+      "options": {
+        "A": "136.22 lakh tonnes",
+        "B": "151.57 lakh tonnes",
+        "C": "112.09 lakh tonnes",
+        "D": "107.1 lakh tonnes"
+      },
+      "correctAnswer": "B",
+      "explanation": "The estimated food-grain production in 2024-25 was 151.57 lakh tonnes.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG015",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Second Advance Estimates 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the Second Advance Estimates for 2025-26, what was the total major crop area in Karnataka?",
+      "options": {
+        "A": "112.09 lakh hectares",
+        "B": "107.1 lakh hectares",
+        "C": "111.99 lakh hectares",
+        "D": "85.71 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total major crop area was estimated at 107.1 lakh hectares for 2025-26.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG016",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Second Advance Estimates 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "According to the Second Advance Estimates for 2025-26, what was the area under food grains in Karnataka?",
+      "options": {
+        "A": "85.71 lakh hectares",
+        "B": "78.6 lakh hectares",
+        "C": "107.1 lakh hectares",
+        "D": "112.09 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "Food grains occupied 78.6 lakh hectares according to the Second Advance Estimates for 2025-26.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG017",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Second Advance Estimates 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the estimated food production in Karnataka according to the Second Advance Estimates for 2025-26?",
+      "options": {
+        "A": "151.57 lakh tonnes",
+        "B": "136.22 lakh tonnes",
+        "C": "112.09 lakh tonnes",
+        "D": "107.1 lakh tonnes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Estimated food production was 136.22 lakh tonnes according to the Second Advance Estimates for 2025-26.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG018",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by cereals on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "28%",
+        "B": "45%",
+        "C": "10%",
+        "D": "9%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cereals occupied 45% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG019",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by pulses on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "45%",
+        "B": "28%",
+        "C": "10%",
+        "D": "7%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pulses occupied 28% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG020",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by oilseeds on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "28%",
+        "B": "45%",
+        "C": "10%",
+        "D": "7%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Oilseeds occupied 10% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG021",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by cotton on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "9%",
+        "B": "7%",
+        "C": "10%",
+        "D": "1%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cotton occupied 7% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG022",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by sugarcane on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "7%",
+        "B": "9%",
+        "C": "10%",
+        "D": "1%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sugarcane occupied 9% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG023",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Statistics",
+      "chapter": "Crop Groups",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What proportion of Karnataka's cropped area was occupied by tobacco on average according to the 2025-26 Survey?",
+      "options": {
+        "A": "9%",
+        "B": "7%",
+        "C": "10%",
+        "D": "1%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Tobacco occupied 1% of total agricultural cropped area on average.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG024",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Structural Challenges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major structural challenge facing Karnataka agriculture?",
+      "options": {
+        "A": "Excess irrigation",
+        "B": "Dependence on monsoon rainfall",
+        "C": "Large and consolidated holdings",
+        "D": "Low input costs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major structural challenges include dependence on monsoon rainfall, recurring droughts and floods, uneven irrigation, small and fragmented holdings, groundwater stress, soil nutrient deficiencies, price volatility, rising input costs, post-harvest losses and uneven access to markets and technology.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG025",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Operational Holdings",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the average size of operational holdings in Karnataka as per the Census?",
+      "options": {
+        "A": "2.50 hectares",
+        "B": "1.36 hectares",
+        "C": "3.00 hectares",
+        "D": "0.80 hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The average size of operational holdings was 1.36 hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG026",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Operational Holdings",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many operational holdings were recorded in Karnataka as per the Census?",
+      "options": {
+        "A": "86.81 lakh",
+        "B": "118.05 lakh",
+        "C": "80 lakh",
+        "D": "44 lakh"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Census recorded 86.81 lakh operational holdings operating 118.05 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG027",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agriculture Overview",
+      "chapter": "Operational Holdings",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What percentage of operational holdings in Karnataka were small and marginal?",
+      "options": {
+        "A": "44%",
+        "B": "80%",
+        "C": "60%",
+        "D": "50%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Small and marginal holdings made up about 80% of holdings and operated 44% of the area.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG028",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Food Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major food crop grown in Karnataka?",
+      "options": {
+        "A": "Cotton",
+        "B": "Ragi (finger millet)",
+        "C": "Sugarcane",
+        "D": "Coffee"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major food crops include rice (paddy), ragi (finger millet), jowar (sorghum), maize, bajra (pearl millet), wheat and other millets and cereals.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG029",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Pulse Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major pulse crop grown in Karnataka?",
+      "options": {
+        "A": "Groundnut",
+        "B": "Tur (pigeon pea)",
+        "C": "Sunflower",
+        "D": "Sugarcane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major pulse crops include tur or pigeon pea (red gram), Bengal gram (chickpea), green gram, black gram, horse gram and cowpea.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG030",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Oilseed Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major oilseed crop grown in Karnataka?",
+      "options": {
+        "A": "Ragi",
+        "B": "Groundnut",
+        "C": "Jowar",
+        "D": "Cotton"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major oilseed crops include groundnut, sunflower, soybean, sesame, safflower and castor.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG031",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Commercial Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an important commercial crop grown in Karnataka?",
+      "options": {
+        "A": "Ragi",
+        "B": "Sugarcane",
+        "C": "Green gram",
+        "D": "Horse gram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important commercial crops include sugarcane, cotton, tobacco, coffee, arecanut, coconut, cashew, rubber and plantation crops.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG032",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Northern Dry Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are especially associated with the northern dry districts of Karnataka?",
+      "options": {
+        "A": "Paddy and coconut",
+        "B": "Jowar, bajra, tur, chickpea, sunflower, cotton and maize",
+        "C": "Coffee and cardamom",
+        "D": "Rubber and tea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jowar, bajra, tur, chickpea, sunflower, cotton, maize and other dryland crops are important in different parts of northern Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG033",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Southern and Central Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are important in the southern and central districts of Karnataka?",
+      "options": {
+        "A": "Ragi, paddy, maize, pulses, sugarcane, coconut, arecanut and mulberry",
+        "B": "Only wheat and barley",
+        "C": "Only cotton and tobacco",
+        "D": "Only coffee and pepper"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ragi, paddy, maize, pulses, sugarcane, coconut, arecanut, mulberry and a wide range of horticultural crops are grown according to local rainfall and irrigation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG034",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Coastal and Malnad Regions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are important in the coastal and Malnad regions of Karnataka?",
+      "options": {
+        "A": "Jowar and bajra",
+        "B": "Paddy, arecanut, coconut, cashew, pepper, cardamom, ginger and turmeric",
+        "C": "Wheat and barley",
+        "D": "Cotton and sunflower"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paddy, arecanut, coconut, cashew, pepper, cardamom, ginger, turmeric, banana and other plantation and horticultural crops are important in coastal and Malnad regions.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG035",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Staple Millet",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which crop is known as a staple millet of southern Karnataka?",
+      "options": {
+        "A": "Jowar",
+        "B": "Bajra",
+        "C": "Ragi (finger millet)",
+        "D": "Maize"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ragi or finger millet is a major staple millet, particularly in the old Mysuru region and adjoining dry districts.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG036",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Black Soil Belt",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are popularly associated with the black-soil belt of northern Karnataka?",
+      "options": {
+        "A": "Paddy and coconut",
+        "B": "Jowar, cotton, tur and other dryland crops",
+        "C": "Coffee and cardamom",
+        "D": "Rubber and tea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jowar, cotton, tur and other dryland crops are important in the black-soil areas of northern Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG037",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Cauvery Command Area",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are strongly associated with the Cauvery command area in Karnataka?",
+      "options": {
+        "A": "Coffee and pepper",
+        "B": "Paddy and sugarcane",
+        "C": "Cotton and sunflower",
+        "D": "Jowar and bajra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paddy and sugarcane are important irrigated crops in parts of the Cauvery basin, especially in Mandya and adjoining districts.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG038",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Coffee",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which crop is Karnataka particularly famous for in the coffee sector?",
+      "options": {
+        "A": "Tea",
+        "B": "Coffee (Arabica and Robusta)",
+        "C": "Cocoa",
+        "D": "Rubber"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coffee, especially Arabica and Robusta, grown mainly in the Western Ghats districts of Kodagu, Chikkamagaluru and Hassan.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG039",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Coffee Districts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which are the principal coffee-growing districts of Karnataka?",
+      "options": {
+        "A": "Belagavi, Bagalkot and Vijayapura",
+        "B": "Kodagu, Chikkamagaluru and Hassan",
+        "C": "Kalaburagi, Bidar and Yadgir",
+        "D": "Mysuru, Mandya and Chamarajanagar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kodagu, Chikkamagaluru and Hassan are the principal coffee-growing districts of Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG040",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Sugarcane Areas",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which are the important sugarcane-growing areas of Karnataka?",
+      "options": {
+        "A": "Kodagu, Chikkamagaluru and Hassan",
+        "B": "Belagavi, Bagalkot, Vijayapura, Mandya, Mysuru, Bidar and Kalaburagi",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kolar, Chikkaballapur and Ramanagara"
+      },
+      "correctAnswer": "B",
+      "explanation": "Belagavi, Bagalkot, Vijayapura, Mandya, Mysuru, Bidar, Kalaburagi and parts of other irrigated districts are important sugarcane-growing areas.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG041",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Cotton Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are known for cotton cultivation in Karnataka?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Vijayapura, Bagalkot, Ballari, Raichur, Dharwad, Haveri, Gadag and other northern and central districts",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Mandya, Mysuru and Chamarajanagar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cotton is important in parts of Vijayapura, Bagalkot, Ballari, Raichur, Dharwad, Haveri, Gadag and other northern and central districts.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG042",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Tur Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are important for tur or pigeon pea cultivation in Karnataka?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Kalaburagi, Bidar, Yadgir, Raichur, Vijayapura and other districts of the northern dry belt",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Mandya, Mysuru and Chamarajanagar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kalaburagi, Bidar, Yadgir, Raichur, Vijayapura and other districts of the northern dry belt are important tur-growing areas.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG043",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Crop Trends",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops showed a higher trend in recent years according to the 2025-26 Survey?",
+      "options": {
+        "A": "Paddy, jowar, bajra and cotton",
+        "B": "Maize, tur, green gram, soybean and sugarcane",
+        "C": "Groundnut, sunflower and cotton",
+        "D": "Ragi, wheat and barley"
+      },
+      "correctAnswer": "B",
+      "explanation": "Maize, tur, green gram, soybean and sugarcane showed a higher trend in recent years.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG045",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Crop Losses 2025",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How much agricultural crop area was damaged due to excess rainfall and floods in 2025 according to a district joint survey?",
+      "options": {
+        "A": "10.50 lakh hectares",
+        "B": "13.83 lakh hectares",
+        "C": "15.25 lakh hectares",
+        "D": "8.75 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "A district joint survey reported damage to 13.83 lakh hectares of agricultural crops.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG046",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Crop Losses 2025",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts were majorly affected by crop losses due to excess rainfall and floods in 2025?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Kalaburagi, Vijayapura, Bidar, Yadgir and Gadag",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Mandya, Mysuru and Chamarajanagar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major affected districts included Kalaburagi, Vijayapura, Bidar, Yadgir and Gadag.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG047",
+      "subject": "Karnataka Agriculture",
+      "topic": "Major Crops",
+      "chapter": "Crop Losses 2025",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops were among those affected by excess rainfall and floods in 2025?",
+      "options": {
+        "A": "Coffee, pepper and cardamom",
+        "B": "Tur, green gram, cotton, maize and soybean",
+        "C": "Ragi, wheat and barley",
+        "D": "Coconut, arecanut and cashew"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tur, green gram, cotton, maize and soybean were among the affected crops.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG048",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Kharif Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a typical Kharif crop in Karnataka?",
+      "options": {
+        "A": "Wheat",
+        "B": "Paddy",
+        "C": "Chickpea",
+        "D": "Safflower"
+      },
+      "correctAnswer": "B",
+      "explanation": "Typical Kharif crops include paddy, ragi, jowar, maize, tur, green gram, soybean, groundnut and cotton.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG049",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Kharif Features",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the main feature of Kharif season in Karnataka?",
+      "options": {
+        "A": "Sown after monsoon with residual moisture",
+        "B": "Sown with monsoon; rainfall-dependent in many areas",
+        "C": "Usually depends more heavily on irrigation",
+        "D": "Grown only in coastal areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kharif crops are sown with the monsoon and are rainfall-dependent in many areas.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG050",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Rabi Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a typical Rabi crop in Karnataka?",
+      "options": {
+        "A": "Paddy",
+        "B": "Cotton",
+        "C": "Chickpea",
+        "D": "Soybean"
+      },
+      "correctAnswer": "C",
+      "explanation": "Typical Rabi crops include jowar, chickpea, wheat, safflower, some pulses and oilseeds.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG051",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Rabi Features",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is important for Rabi crops in Karnataka?",
+      "options": {
+        "A": "Heavy monsoon rainfall",
+        "B": "Residual moisture and irrigation",
+        "C": "Only coastal humidity",
+        "D": "Only summer heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rabi crops are sown after monsoon; residual moisture and irrigation are important.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG052",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Summer Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a typical Summer crop in Karnataka?",
+      "options": {
+        "A": "Wheat",
+        "B": "Safflower",
+        "C": "Vegetables",
+        "D": "Chickpea"
+      },
+      "correctAnswer": "C",
+      "explanation": "Typical Summer crops include paddy, maize, pulses, vegetables and fodder crops.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG053",
+      "subject": "Karnataka Agriculture",
+      "topic": "Crop Seasons",
+      "chapter": "Summer Features",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the main feature of Summer crops in Karnataka?",
+      "options": {
+        "A": "Rainfall-dependent",
+        "B": "Usually depends more heavily on irrigation",
+        "C": "Grown only in black soil",
+        "D": "Grown without any water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Summer crops usually depend more heavily on irrigation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG054",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is irrigation?",
+      "options": {
+        "A": "Natural rainfall on agricultural land",
+        "B": "Artificial supply of water to agricultural land to support crop growth",
+        "C": "Flooding of fields during monsoon",
+        "D": "Storage of grains in warehouses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Irrigation is the artificial supply of water to agricultural land to support crop growth when rainfall is insufficient or irregular.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG055",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Importance",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is irrigation important in Karnataka?",
+      "options": {
+        "A": "Because the state receives no rainfall",
+        "B": "Because a large part of the State has semi-arid or drought-prone conditions",
+        "C": "Because all crops need flooding",
+        "D": "Because irrigation is cheaper than rainfall"
+      },
+      "correctAnswer": "B",
+      "explanation": "A large part of the State has semi-arid or drought-prone conditions. Irrigation stabilises yields, reduces monsoon dependence, supports high-value crops and enables multiple cropping.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG056",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Rainfall",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monsoon provides the major share of Karnataka's rainfall?",
+      "options": {
+        "A": "North-East Monsoon",
+        "B": "South-West Monsoon",
+        "C": "Western Disturbances",
+        "D": "Cyclonic storms"
+      },
+      "correctAnswer": "B",
+      "explanation": "The South-West Monsoon provides more than 73% of the State's annual rainfall according to the Karnataka Economic Survey 2025-26.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG057",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Rainfall",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the annual average rainfall of Karnataka reported in the 2025-26 Survey?",
+      "options": {
+        "A": "1,000 millimetres",
+        "B": "1,200 millimetres",
+        "C": "1,355 millimetres",
+        "D": "1,500 millimetres"
+      },
+      "correctAnswer": "C",
+      "explanation": "The annual average rainfall of Karnataka is 1,355 millimetres according to the 2025-26 Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG058",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "River Basins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river basin has the largest drainage area in Karnataka?",
+      "options": {
+        "A": "Cauvery basin",
+        "B": "Krishna basin",
+        "C": "Godavari basin",
+        "D": "North Pennar basin"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Krishna basin has 58.93% of the State's drainage area according to the Survey's river-basin table.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG059",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "River Basins",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river basin has the second-largest drainage area in Karnataka?",
+      "options": {
+        "A": "Krishna basin",
+        "B": "Godavari basin",
+        "C": "Cauvery basin",
+        "D": "Palar basin"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Cauvery basin accounts for 18.84% of the State's drainage area in the Survey table.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG060",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "River Basins",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major river basin associated with Karnataka?",
+      "options": {
+        "A": "Ganga",
+        "B": "Yamuna",
+        "C": "Krishna",
+        "D": "Brahmaputra"
+      },
+      "correctAnswer": "C",
+      "explanation": "Major river basins associated with Karnataka include Krishna, Cauvery, Godavari, North Pennar, South Pennar, Palar and the west-flowing river systems.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG061",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Irrigation Potential",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the ultimate irrigation potential under Major and Medium Irrigation Projects in Karnataka?",
+      "options": {
+        "A": "30.92 lakh hectares",
+        "B": "42.08 lakh hectares",
+        "C": "11.16 lakh hectares",
+        "D": "50.00 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ultimate irrigation potential under Major and Medium Irrigation Projects in Karnataka is 42.08 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG062",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Irrigation Potential",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How much irrigation potential had been achieved under Major and Medium Irrigation Projects by December 2025?",
+      "options": {
+        "A": "42.08 lakh hectares",
+        "B": "30.92 lakh hectares",
+        "C": "11.16 lakh hectares",
+        "D": "25.00 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "30.92 lakh hectares had been achieved by December 2025, leaving 11.16 lakh hectares yet to be achieved.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG063",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Irrigation Potential",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How much irrigation potential remained to be achieved under Major and Medium Irrigation Projects by December 2025?",
+      "options": {
+        "A": "42.08 lakh hectares",
+        "B": "30.92 lakh hectares",
+        "C": "11.16 lakh hectares",
+        "D": "18.84 lakh hectares"
+      },
+      "correctAnswer": "C",
+      "explanation": "11.16 lakh hectares remained yet to be achieved according to the 2025-26 Economic Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG064",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Types of Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major type of irrigation in Karnataka?",
+      "options": {
+        "A": "Canal irrigation",
+        "B": "Solar irrigation",
+        "C": "Wind irrigation",
+        "D": "Nuclear irrigation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major types of irrigation include canal irrigation, tank irrigation, well and borewell irrigation, lift irrigation, drip irrigation and sprinkler irrigation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG065",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Canal Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is canal irrigation?",
+      "options": {
+        "A": "Storing rainwater in tanks",
+        "B": "Conveying water from rivers or reservoirs through an engineered network of canals",
+        "C": "Using pumps to raise water",
+        "D": "Supplying water directly to roots through emitters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Canal irrigation conveys water from rivers or reservoirs through an engineered network of main canals, branch canals and field channels to agricultural land.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG066",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Tank Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is tank irrigation?",
+      "options": {
+        "A": "Using pumps to lift water",
+        "B": "Storing rainwater or runoff in tanks and distributing it to nearby fields",
+        "C": "Supplying water through spray nozzles",
+        "D": "Conveying water through canals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tank irrigation stores rainwater or runoff in tanks and distributes it to nearby agricultural fields; tanks also help recharge groundwater.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG067",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Lift Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is lift irrigation?",
+      "options": {
+        "A": "Using gravity to convey water",
+        "B": "Using pumps to raise water from rivers or reservoirs to higher elevation fields",
+        "C": "Storing water in tanks",
+        "D": "Supplying water through drip emitters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lift irrigation uses pumps to raise water from rivers, reservoirs or other sources to fields situated at a higher elevation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG068",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Drip Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is drip irrigation?",
+      "options": {
+        "A": "Flooding the entire field with water",
+        "B": "Supplying water slowly and directly near the plant root zone through emitters",
+        "C": "Spraying water through nozzles",
+        "D": "Using canals to convey water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Drip irrigation supplies water slowly and directly near the plant root zone through emitters and pipes, reducing evaporation and conveyance losses.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG069",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Sprinkler Irrigation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sprinkler irrigation?",
+      "options": {
+        "A": "Supplying water directly to roots",
+        "B": "Distributing water through pressurised pipes and spray nozzles simulating rainfall",
+        "C": "Storing water in tanks",
+        "D": "Using pumps to lift water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sprinkler irrigation distributes water through pressurised pipes and spray nozzles, simulating rainfall over crops.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG070",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Water Efficiency",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which irrigation method is generally most water-efficient for orchards and row crops?",
+      "options": {
+        "A": "Canal irrigation",
+        "B": "Flood irrigation",
+        "C": "Drip irrigation",
+        "D": "Tank irrigation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Drip irrigation is generally highly water-efficient when properly designed and maintained because it applies water close to the root zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG071",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Potential Created vs Utilised",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between irrigation potential created and irrigation potential utilised?",
+      "options": {
+        "A": "They are the same",
+        "B": "Potential created is the area infrastructure can irrigate; potential utilised is the area actually irrigated",
+        "C": "Potential created is always less than utilised",
+        "D": "Potential utilised is the area that can be irrigated; created is the area actually irrigated"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potential created is the area that infrastructure is capable of irrigating; potential utilised is the area actually irrigated during a specified period. They are not the same.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG072",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Water Resources Department",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the objective of the Water Resources Department regarding irrigation potential?",
+      "options": {
+        "A": "To reduce irrigation potential",
+        "B": "To harness surface water for irrigation, drinking and industrial purposes and work towards 42.08 lakh hectares",
+        "C": "To focus only on drinking water",
+        "D": "To construct only tanks"
+      },
+      "correctAnswer": "B",
+      "explanation": "The objective is to harness surface water for irrigation, drinking and industrial purposes and work towards the State's ultimate irrigation potential of 42.08 lakh hectares through major and medium projects.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG073",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Krishi Bhagya",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Krishi Bhagya scheme intended to do?",
+      "options": {
+        "A": "Provide crop insurance",
+        "B": "Support rainfed farmers through farm ponds and water-conservation measures",
+        "C": "Provide free electricity",
+        "D": "Construct canals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Krishi Bhagya supports rainfed farmers through farm ponds and related water-conservation and protective-irrigation measures to improve resilience in dryland agriculture.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG074",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Krishi Bhagya",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many farm ponds were constructed under Krishi Bhagya-related allocations by December 2025?",
+      "options": {
+        "A": "3,529",
+        "B": "4,529",
+        "C": "5,529",
+        "D": "6,529"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Economic Survey 2025-26 reports 4,529 farm ponds constructed up to December 2025.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG075",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Micro-Irrigation",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the micro-irrigation achievement reported for the agriculture department in 2025-26 up to December 2025?",
+      "options": {
+        "A": "50,956 hectares",
+        "B": "1,00,956 hectares",
+        "C": "1,50,956 hectares",
+        "D": "30,653.66 hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "Micro-irrigation coverage reached 1,00,956 hectares under the programme.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG076",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Micro-Irrigation Horticulture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the micro-irrigation coverage reported for horticulture under PM-RKVY up to December 2025?",
+      "options": {
+        "A": "1,00,956 hectares",
+        "B": "30,653.66 hectares",
+        "C": "35,021 hectares",
+        "D": "246.66 hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "Micro-irrigation coverage for horticulture under PM-RKVY was 30,653.66 hectares, benefiting 35,021 farmers through subsidies of 246.66 crore.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG077",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Micro-Irrigation Horticulture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many farmers benefited from micro-irrigation under PM-RKVY for horticulture up to December 2025?",
+      "options": {
+        "A": "25,021",
+        "B": "35,021",
+        "C": "45,021",
+        "D": "30,653"
+      },
+      "correctAnswer": "B",
+      "explanation": "35,021 farmers benefited through subsidies of 246.66 crore.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG078",
+      "subject": "Karnataka Agriculture",
+      "topic": "Irrigation",
+      "chapter": "Challenges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major irrigation challenge in Karnataka?",
+      "options": {
+        "A": "Excess water availability",
+        "B": "Uneven distribution of water and inter-state river disputes",
+        "C": "No groundwater depletion",
+        "D": "Complete projects"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major irrigation challenges include uneven distribution of water, inter-state river disputes, droughts, groundwater depletion, inefficient flood irrigation, incomplete projects, waterlogging and salinity in some command areas, and high costs of energy and infrastructure.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG079",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Number of Zones",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How many agro-climatic zones has Karnataka traditionally been divided into?",
+      "options": {
+        "A": "Five",
+        "B": "Eight",
+        "C": "Ten",
+        "D": "Twelve"
+      },
+      "correctAnswer": "C",
+      "explanation": "Karnataka has traditionally been divided into ten agro-climatic zones based on rainfall distribution, soil, altitude and cropping pattern.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG080",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Redefinition",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which institution has been entrusted with technical work to redefine Karnataka's agro-climatic zones?",
+      "options": {
+        "A": "ISRO",
+        "B": "Karnataka State Remote Sensing Applications Centre (KSRsAC), Bengaluru",
+        "C": "NITI Aayog",
+        "D": "Indian Meteorological Department"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka State Remote Sensing Applications Centre (KSRsAC), Bengaluru, with technical support from other institutions, has been entrusted with this work.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG081",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Ten Zones",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is one of the ten traditional agro-climatic zones of Karnataka?",
+      "options": {
+        "A": "North Eastern Transition Zone",
+        "B": "Central Highlands Zone",
+        "C": "Southern Plateau Zone",
+        "D": "Western Coastal Plain Zone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ten traditional agro-climatic zones include North Eastern Transition Zone; North Eastern Dry Zone; Northern Dry Zone; Central Dry Zone; Eastern Dry Zone; Southern Dry Zone; Southern Transition Zone; Northern Transition Zone; Hilly Zone; and Coastal Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG082",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "North Eastern Transition Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the North Eastern Transition Zone of Karnataka?",
+      "options": {
+        "A": "Bidar and parts of Kalaburagi",
+        "B": "Mysuru and Mandya",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Kolar and Chikkaballapur"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bidar and parts of Kalaburagi (formerly Gulbarga) broadly fall in the North Eastern Transition Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG083",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "North Eastern Dry Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the North Eastern Dry Zone of Karnataka?",
+      "options": {
+        "A": "Bidar and parts of Kalaburagi",
+        "B": "Parts of Kalaburagi, Yadgir and Raichur",
+        "C": "Mysuru and Chamarajanagar",
+        "D": "Udupi and Dakshina Kannada"
+      },
+      "correctAnswer": "B",
+      "explanation": "Parts of Kalaburagi, Yadgir and Raichur broadly fall in the North Eastern Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG084",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Northern Dry Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Northern Dry Zone of Karnataka?",
+      "options": {
+        "A": "Parts of Koppal, Gadag, Dharwad, Belagavi, Vijayapura, Bagalkot, Ballari, Davanagere and Raichur",
+        "B": "Bengaluru Urban and Bengaluru Rural",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Mysuru and Mandya"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parts of Koppal, Gadag, Dharwad, Belagavi, Vijayapura, Bagalkot, Ballari, Davanagere and Raichur broadly fall in the Northern Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG085",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Central Dry Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Central Dry Zone of Karnataka?",
+      "options": {
+        "A": "Bidar and Kalaburagi",
+        "B": "Chitradurga, parts of Davanagere, Tumakuru, Chikkamagaluru and Hassan",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Kolar and Chikkaballapur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chitradurga, parts of Davanagere, Tumakuru, Chikkamagaluru and Hassan broadly fall in the Central Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG086",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Eastern Dry Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Eastern Dry Zone of Karnataka?",
+      "options": {
+        "A": "Bengaluru Urban, Bengaluru Rural, Ramanagara, Kolar, Chikkaballapur and parts of Tumakuru",
+        "B": "Bidar and Kalaburagi",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Mysuru and Mandya"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bengaluru Urban, Bengaluru Rural, Ramanagara, Kolar, Chikkaballapur and parts of Tumakuru broadly fall in the Eastern Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG087",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Southern Dry Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Southern Dry Zone of Karnataka?",
+      "options": {
+        "A": "Bidar and Kalaburagi",
+        "B": "Mysuru, Chamarajanagar, Mandya and parts of Tumakuru and Hassan",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Kolar and Chikkaballapur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mysuru, Chamarajanagar, Mandya and parts of Tumakuru and Hassan broadly fall in the Southern Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG089",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Northern Transition Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Northern Transition Zone of Karnataka?",
+      "options": {
+        "A": "Parts of Belagavi, Dharwad, Haveri and Gadag",
+        "B": "Bidar and Kalaburagi",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Mysuru and Mandya"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parts of Belagavi, Dharwad, Haveri and Gadag broadly fall in the Northern Transition Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG090",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Hilly Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Hilly Zone of Karnataka?",
+      "options": {
+        "A": "Uttara Kannada, parts of Belagavi, Dharwad, Haveri, Shivamogga, Chikkamagaluru, Kodagu and Hassan",
+        "B": "Bidar and Kalaburagi",
+        "C": "Udupi and Dakshina Kannada",
+        "D": "Kolar and Chikkaballapur"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uttara Kannada, parts of Belagavi, Dharwad, Haveri, Shivamogga, Chikkamagaluru, Kodagu and Hassan broadly fall in the Hilly Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG091",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Coastal Zone",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts broadly fall in the Coastal Zone of Karnataka?",
+      "options": {
+        "A": "Udupi, Dakshina Kannada and coastal parts of Uttara Kannada",
+        "B": "Bidar and Kalaburagi",
+        "C": "Mysuru and Mandya",
+        "D": "Kolar and Chikkaballapur"
+      },
+      "correctAnswer": "A",
+      "explanation": "Udupi, Dakshina Kannada and coastal parts of Uttara Kannada broadly fall in the Coastal Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG092",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Northern Dry Zone Crops",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are common in the Northern Dry Zone of Karnataka?",
+      "options": {
+        "A": "Paddy, arecanut and coconut",
+        "B": "Jowar, bajra, tur, chickpea, sunflower, cotton and other dryland crops",
+        "C": "Coffee, pepper and cardamom",
+        "D": "Rubber, tea and cocoa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Jowar, bajra, tur, chickpea, sunflower, cotton and other dryland crops are common in the Northern Dry Zone.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG093",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Southern and Eastern Dry Zones Crops",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are common in the Southern Dry and Eastern Dry Zones of Karnataka?",
+      "options": {
+        "A": "Jowar, bajra and cotton",
+        "B": "Ragi, groundnut, pulses, maize, mulberry and dryland horticultural crops",
+        "C": "Coffee, pepper and cardamom",
+        "D": "Rubber, tea and cocoa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ragi, groundnut, pulses, maize, mulberry and dryland horticultural crops are common; irrigated pockets also grow paddy and sugarcane.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG094",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Hilly and Coastal Zones Crops",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which crops are common in the Hilly and Coastal Zones of Karnataka?",
+      "options": {
+        "A": "Jowar, bajra and cotton",
+        "B": "Paddy, arecanut, coconut, coffee, pepper, cardamom, cashew, ginger and turmeric",
+        "C": "Wheat, barley and mustard",
+        "D": "Ragi, groundnut and sunflower"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paddy, arecanut, coconut, coffee, pepper, cardamom, cashew, ginger, turmeric and other plantation crops are common in the Hilly and Coastal Zones.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG095",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Coffee Districts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which districts are especially associated with coffee cultivation in Karnataka?",
+      "options": {
+        "A": "Belagavi, Bagalkot and Vijayapura",
+        "B": "Kodagu, Chikkamagaluru and Hassan",
+        "C": "Kalaburagi, Bidar and Yadgir",
+        "D": "Mysuru, Mandya and Chamarajanagar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kodagu, Chikkamagaluru and Hassan are especially associated with coffee cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG096",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Arecanut Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are especially associated with arecanut cultivation in Karnataka?",
+      "options": {
+        "A": "Shivamogga, Chikkamagaluru, Davanagere, Uttara Kannada, Dakshina Kannada and parts of Hassan",
+        "B": "Bidar, Kalaburagi and Yadgir",
+        "C": "Kolar, Chikkaballapur and Ramanagara",
+        "D": "Belagavi, Bagalkot and Vijayapura"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shivamogga, Chikkamagaluru, Davanagere, Uttara Kannada, Dakshina Kannada and parts of Hassan are especially associated with arecanut cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG097",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Ragi Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are especially associated with ragi cultivation in Karnataka?",
+      "options": {
+        "A": "Mandya, Mysuru, Ramanagara, Bengaluru Rural, Chikkaballapur, Kolar, Tumakuru and Chitradurga",
+        "B": "Bidar, Kalaburagi and Yadgir",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Belagavi, Bagalkot and Vijayapura"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mandya, Mysuru, Ramanagara, Bengaluru Rural, Chikkaballapur, Kolar, Tumakuru and Chitradurga are especially associated with ragi cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG098",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agro-Climatic Zones",
+      "chapter": "Sugarcane Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are especially associated with sugarcane cultivation in Karnataka?",
+      "options": {
+        "A": "Belagavi, Bagalkot, Mandya, Mysuru, Vijayapura and parts of Bidar and Kalaburagi",
+        "B": "Kodagu, Hassan and Chikkamagaluru",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kolar, Chikkaballapur and Ramanagara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Belagavi, Bagalkot, Mandya, Mysuru, Vijayapura and parts of Bidar and Kalaburagi are especially associated with sugarcane cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG099",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is horticulture?",
+      "options": {
+        "A": "Cultivation of only food grains",
+        "B": "Branch of agriculture concerned with fruits, vegetables, flowers, spices, plantation crops, medicinal and aromatic plants",
+        "C": "Rearing of livestock",
+        "D": "Cultivation of only pulses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Horticulture is the branch of agriculture concerned with the cultivation, production, management and marketing of fruits, vegetables, flowers, spices, plantation crops, medicinal and aromatic plants.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG100",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Importance",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does horticulture provide to farmers?",
+      "options": {
+        "A": "Only staple food",
+        "B": "Higher-value crop options, diversified farm income, processing and export support",
+        "C": "Only fodder",
+        "D": "Only timber"
+      },
+      "correctAnswer": "B",
+      "explanation": "Horticulture provides higher-value crop options, diversifies farm income, supports processing and exports, creates rural employment and can be suitable for several dryland and irrigated agro-climatic regions.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG101",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Fruit Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major fruit crop grown in Karnataka?",
+      "options": {
+        "A": "Tur",
+        "B": "Mango",
+        "C": "Jowar",
+        "D": "Groundnut"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major fruit crops include mango, banana, grapes, pomegranate, citrus, guava, sapota, papaya, pineapple, jackfruit and watermelon.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG102",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Vegetable Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major vegetable crop grown in Karnataka?",
+      "options": {
+        "A": "Ragi",
+        "B": "Tomato",
+        "C": "Cotton",
+        "D": "Sugarcane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major vegetable crops include tomato, onion, potato, chilli, brinjal, cabbage, cauliflower, beans, carrot, cucumber and okra.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG103",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Spice Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an important spice crop grown in Karnataka?",
+      "options": {
+        "A": "Wheat",
+        "B": "Chilli",
+        "C": "Barley",
+        "D": "Maize"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important spice crops include chilli, pepper, cardamom, ginger, turmeric, coriander and other spices.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG104",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Plantation Crops",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an important plantation crop of Karnataka?",
+      "options": {
+        "A": "Wheat",
+        "B": "Arecanut",
+        "C": "Barley",
+        "D": "Green gram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Important plantation and garden crops include arecanut, coconut, coffee, cashew, cocoa, rubber and oil palm.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG105",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Grape Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are known for grape cultivation in Karnataka?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Vijayapura, Bagalkot, Belagavi, Koppal and parts of Bengaluru Rural",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kalaburagi, Bidar and Yadgir"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vijayapura, Bagalkot, Belagavi, Koppal and parts of Bengaluru Rural and other suitable districts are known for grape cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG106",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Mango Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are known for mango cultivation in Karnataka?",
+      "options": {
+        "A": "Kolar, Ramanagara, Chikkaballapur, Bengaluru Rural and Dharwad",
+        "B": "Kodagu, Hassan and Chikkamagaluru",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kalaburagi, Bidar and Yadgir"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kolar, Ramanagara, Chikkaballapur, Bengaluru Rural, Dharwad and other districts are known for mango cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG107",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Pomegranate Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are important for pomegranate cultivation in Karnataka?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Bagalkot, Vijayapura, Belagavi, Koppal and other northern dry districts",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kolar, Chikkaballapur and Ramanagara"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bagalkot, Vijayapura, Belagavi, Koppal and other northern dry districts are important for pomegranate cultivation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG108",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Tomato Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are important for tomato production in Karnataka?",
+      "options": {
+        "A": "Kodagu, Hassan and Chikkamagaluru",
+        "B": "Kolar, Chikkaballapur, Bengaluru Rural, Bengaluru Urban and other vegetable-growing districts",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Kalaburagi, Bidar and Yadgir"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kolar, Chikkaballapur, Bengaluru Rural, Bengaluru Urban and other vegetable-growing districts are important for tomato production.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG109",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Protected Cultivation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are protected cultivation methods in horticulture?",
+      "options": {
+        "A": "Growing crops in open fields",
+        "B": "Polythouses, greenhouses, shade-net houses and other structures that modify the crop environment",
+        "C": "Using only natural rainfall",
+        "D": "Growing crops without any structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Protected cultivation includes polythouses, greenhouses, shade-net houses and other structures that modify the crop environment to improve quality, productivity and resource-use efficiency.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG110",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Precision Horticulture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is precision horticulture?",
+      "options": {
+        "A": "Growing crops without technology",
+        "B": "Using sensors, data, targeted irrigation, fertigation, remote sensing and other technologies to manage crops accurately",
+        "C": "Growing only one crop",
+        "D": "Using only manual labour"
+      },
+      "correctAnswer": "B",
+      "explanation": "Precision horticulture uses sensors, data, targeted irrigation, fertigation, remote sensing and other technologies to manage crops and inputs accurately.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG111",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Post-Harvest Management",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is post-harvest management in horticulture?",
+      "options": {
+        "A": "Only harvesting crops",
+        "B": "Cleaning, grading, sorting, packaging, pre-cooling, storage, cold-chain transport, processing and marketing after harvest",
+        "C": "Only sowing seeds",
+        "D": "Only irrigation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Post-harvest management includes cleaning, grading, sorting, packaging, pre-cooling, storage, cold-chain transport, processing and marketing after harvest to reduce losses and maintain quality.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG112",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Apiculture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is apiculture?",
+      "options": {
+        "A": "Rearing of silkworms",
+        "B": "Scientific rearing and management of honeybees",
+        "C": "Growing fruits",
+        "D": "Rearing of fish"
+      },
+      "correctAnswer": "B",
+      "explanation": "Apiculture is the scientific rearing and management of honeybees for honey, wax and other products, as well as for pollination services.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG113",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Support Figures 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many grafts and seedlings were produced in Karnataka in 2025-26 up to December against a target of 70.80 lakh?",
+      "options": {
+        "A": "20.95 lakh",
+        "B": "26.95 lakh",
+        "C": "30.95 lakh",
+        "D": "43.60 lakh"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Survey reports 26.95 lakh grafts and seedlings produced against a target of 70.80 lakh; 43.60 lakh were available for sale.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG114",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Support Figures 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many grafts and seedlings were available for sale in Karnataka in 2025-26 up to December?",
+      "options": {
+        "A": "26.95 lakh",
+        "B": "43.60 lakh",
+        "C": "70.80 lakh",
+        "D": "30.65 lakh"
+      },
+      "correctAnswer": "B",
+      "explanation": "43.60 lakh grafts and seedlings were available for sale.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG115",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Apiculture Achievements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many beneficiaries were trained under the apiculture programme up to December 2025?",
+      "options": {
+        "A": "759",
+        "B": "859",
+        "C": "959",
+        "D": "1,059"
+      },
+      "correctAnswer": "B",
+      "explanation": "859 beneficiaries were trained under the apiculture programme up to December 2025.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG116",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Apiculture Achievements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many honey boxes were distributed under the apiculture programme up to December 2025?",
+      "options": {
+        "A": "6,245",
+        "B": "7,245",
+        "C": "8,245",
+        "D": "9,245"
+      },
+      "correctAnswer": "B",
+      "explanation": "7,245 honey boxes were distributed under the apiculture programme.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG117",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Apiculture Achievements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many Madhuvanas were established under the apiculture programme up to December 2025?",
+      "options": {
+        "A": "15",
+        "B": "17",
+        "C": "19",
+        "D": "21"
+      },
+      "correctAnswer": "B",
+      "explanation": "17 Madhuvanas were established under the apiculture programme.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG118",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Apiculture Achievements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many honey extractors were supported under the apiculture programme up to December 2025?",
+      "options": {
+        "A": "38",
+        "B": "48",
+        "C": "58",
+        "D": "68"
+      },
+      "correctAnswer": "B",
+      "explanation": "48 honey extractors were supported under the apiculture programme.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG119",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Cold Storage",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the purpose of horticulture cold-storage infrastructure?",
+      "options": {
+        "A": "To increase perishability",
+        "B": "To slow deterioration, reduce post-harvest losses and maintain quality",
+        "C": "To increase price fluctuations",
+        "D": "To reduce market value"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cold storage slows deterioration, reduces post-harvest losses, allows better timing of sales and helps maintain quality and market value of perishable produce.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG120",
+      "subject": "Karnataka Agriculture",
+      "topic": "Horticulture",
+      "chapter": "Constraints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major constraint in horticulture?",
+      "options": {
+        "A": "Excess cold chain infrastructure",
+        "B": "Perishability and inadequate cold chains",
+        "C": "Stable prices",
+        "D": "No pest problems"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major constraints include perishability, inadequate cold chains, price fluctuations, pest and disease risks, water scarcity, fragmented production, quality standards and limited processing or market access in some regions.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG121",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sericulture?",
+      "options": {
+        "A": "Rearing of honeybees",
+        "B": "Scientific cultivation of mulberry and rearing of silkworms for silk cocoons and raw silk",
+        "C": "Growing fruits",
+        "D": "Rearing of fish"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sericulture is the scientific cultivation of mulberry or other host plants and rearing of silkworms for the production of silk cocoons and raw silk.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG122",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Silkworm",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which silkworm is most widely used in Karnataka's mulberry sericulture?",
+      "options": {
+        "A": "Tasar silkworm",
+        "B": "Mulberry silkworm (Bombyx mori)",
+        "C": "Eri silkworm",
+        "D": "Muga silkworm"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mulberry silkworm, Bombyx mori, is most widely used in Karnataka's mulberry sericulture.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG123",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Food Plant",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which plant is the principal food plant for the mulberry silkworm?",
+      "options": {
+        "A": "Castor",
+        "B": "Mulberry (Morus species)",
+        "C": "Arjun",
+        "D": "Asan"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mulberry (Morus species) is the principal food plant for the mulberry silkworm.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG124",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Importance",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is Karnataka important in Indian sericulture?",
+      "options": {
+        "A": "It has no silk industry",
+        "B": "It is one of India's leading silk-producing States with a long-established ecosystem",
+        "C": "It produces only tasar silk",
+        "D": "It imports all silk"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka is one of India's leading silk-producing States and has a long-established mulberry cultivation, cocoon-rearing, reeling, weaving and silk-marketing ecosystem.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG125",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Districts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which districts are important for sericulture in Karnataka?",
+      "options": {
+        "A": "Ramanagara, Chikkaballapur, Kolar, Bengaluru Rural, Mandya, Mysuru and Tumakuru",
+        "B": "Bidar, Kalaburagi and Yadgir",
+        "C": "Udupi, Dakshina Kannada and Uttara Kannada",
+        "D": "Belagavi, Bagalkot and Vijayapura"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ramanagara, Chikkaballapur, Kolar, Bengaluru Rural, Mandya, Mysuru, Tumakuru and other southern districts are important for sericulture.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG126",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Cocoon Market",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which market is particularly famous for silk cocoons in Karnataka?",
+      "options": {
+        "A": "Mysuru",
+        "B": "Ramanagara",
+        "C": "Belagavi",
+        "D": "Kalaburagi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ramanagara is a major cocoon market; Shidlaghatta is another important silk-market centre.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG127",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Production 2024-25",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was Karnataka's mulberry silk production in 2024-25?",
+      "options": {
+        "A": "10,854.57 metric tonnes",
+        "B": "13,276.64 metric tonnes",
+        "C": "12,276.64 metric tonnes",
+        "D": "14,276.64 metric tonnes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka's mulberry silk production in 2024-25 was 13,276.64 metric tonnes according to the Karnataka Economic Survey 2025-26.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG128",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Mulberry Area",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the area under mulberry cultivation in Karnataka at the end of December 2025?",
+      "options": {
+        "A": "1,12,939 hectares",
+        "B": "1,22,939 hectares",
+        "C": "1,32,939 hectares",
+        "D": "1,42,939 hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The area under mulberry cultivation was 1,22,939 hectares at the end of December 2025.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG130",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Allocation 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What overall allocation was provided for sericulture development in 2025-26?",
+      "options": {
+        "A": "387.059 crore",
+        "B": "487.059 crore",
+        "C": "587.059 crore",
+        "D": "687.059 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "The overall allocation for sericulture development in 2025-26 was 487.059 crore, including State and District Sector schemes, PMKSY assistance and the Silk Samagra central-sector scheme.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG131",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Bivoltine Silk",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is bivoltine silk?",
+      "options": {
+        "A": "Silk produced by silkworms that complete one generation in a year",
+        "B": "Silk produced by silkworm races that complete two generations in a year, generally finer and stronger",
+        "C": "Silk produced only in coastal areas",
+        "D": "Silk produced without mulberry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bivoltine silk is produced by silkworm races that complete two generations (broods) in a year; it is generally associated with finer, stronger and higher-quality silk, though it requires suitable rearing conditions.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG132",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Silk Production Stages",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is the correct sequence of stages in silk production?",
+      "options": {
+        "A": "Reeling, mulberry cultivation, cocoon formation, weaving",
+        "B": "Mulberry cultivation, silkworm rearing, cocoon formation, reeling, weaving",
+        "C": "Weaving, reeling, cocoon formation, mulberry cultivation",
+        "D": "Cocoon formation, mulberry cultivation, reeling, weaving"
+      },
+      "correctAnswer": "B",
+      "explanation": "The main stages are: mulberry cultivation; silkworm egg incubation; silkworm rearing; cocoon formation and harvesting; cocoon drying or stifling; reeling; twisting; weaving; dyeing and finishing.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG133",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Silk Reeling",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is silk reeling?",
+      "options": {
+        "A": "Cultivation of mulberry",
+        "B": "Process of unwinding continuous silk filaments from cocoons to produce raw silk yarn",
+        "C": "Weaving of silk fabric",
+        "D": "Dyeing of silk"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silk reeling is the process of unwinding continuous silk filaments from cocoons and combining them to produce raw silk yarn.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG134",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Benefits",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a major benefit of sericulture?",
+      "options": {
+        "A": "Only large-scale employment",
+        "B": "Generates rural employment, supplementary income and supports women's livelihoods",
+        "C": "Requires no labour",
+        "D": "Produces only export goods"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sericulture generates rural employment, provides supplementary income, supports women's livelihoods, encourages small-scale enterprise and supplies raw material to silk-based textile industries.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG135",
+      "subject": "Karnataka Agriculture",
+      "topic": "Sericulture",
+      "chapter": "Problems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major problem faced by sericulture?",
+      "options": {
+        "A": "Stable cocoon prices",
+        "B": "Silkworm disease and fluctuating cocoon prices",
+        "C": "No competition from imported silk",
+        "D": "Low labour requirements"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major problems include silkworm disease, fluctuating cocoon prices, quality variation, high labour requirements, climate sensitivity, input costs, competition from imported silk and the need for modern reeling and market infrastructure.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG136",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is dairy farming?",
+      "options": {
+        "A": "Rearing of silkworms",
+        "B": "Rearing and management of milch animals for milk and milk products",
+        "C": "Growing fruits",
+        "D": "Catching fish"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dairy farming is the rearing and management of milch animals for the production and sale of milk and milk products.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG137",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Importance",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is dairy important to Karnataka's rural economy?",
+      "options": {
+        "A": "It provides only seasonal income",
+        "B": "It provides regular cash income, employment, nutrition and reduces risk from crop failure",
+        "C": "It requires no investment",
+        "D": "It is only for export"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dairy provides regular cash income, creates employment, supports nutrition, diversifies farm income and can reduce the risk associated with crop failure.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG138",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "KMF",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which organisation is the apex cooperative dairy federation in Karnataka?",
+      "options": {
+        "A": "Karnataka Milk Federation (KMF)",
+        "B": "Karnataka Silk Marketing Board",
+        "C": "Karnataka Fisheries Federation",
+        "D": "Karnataka Horticulture Department"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka Co-operative Milk Producers' Federation Limited (KMF) is the apex cooperative dairy federation in Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG139",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Nandini Brand",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which brand is marketed by Karnataka Milk Federation?",
+      "options": {
+        "A": "Amul",
+        "B": "Nandini",
+        "C": "Mother Dairy",
+        "D": "Milma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nandini is the brand marketed by Karnataka Milk Federation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG140",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "KDDC Establishment",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was the Karnataka Dairy Development Corporation established?",
+      "options": {
+        "A": "1964",
+        "B": "1974",
+        "C": "1984",
+        "D": "1994"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Dairy Development Corporation was established in 1974 with World Bank assistance under Operation Flood-I; later evolved into the Karnataka Milk Federation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG141",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Three-Tier Structure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the three-tier structure of Karnataka's dairy cooperative system?",
+      "options": {
+        "A": "Village societies, district unions, state federation",
+        "B": "State government, district panchayat, village panchayat",
+        "C": "Private companies, cooperatives, government",
+        "D": "Farmers, traders, consumers"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three-tier structure consists of Village-level Primary Milk Producers' Cooperative Societies; district-level Milk Unions; and the State-level Karnataka Co-operative Milk Producers' Federation (KMF).",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG142",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Milk Unions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many District Milk Unions are there in Karnataka's dairy cooperative system?",
+      "options": {
+        "A": "14",
+        "B": "16",
+        "C": "18",
+        "D": "20"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are 16 District Milk Unions in Karnataka's dairy cooperative system.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG143",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Primary Societies",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many Primary Milk Producers' Cooperative Societies are there in Karnataka?",
+      "options": {
+        "A": "14,142",
+        "B": "15,142",
+        "C": "16,142",
+        "D": "17,142"
+      },
+      "correctAnswer": "C",
+      "explanation": "There are 16,142 Primary Milk Producers' Cooperative Societies, including 4,813 women's milk cooperative societies.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG144",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Women's Societies",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many women's milk cooperative societies are there in Karnataka?",
+      "options": {
+        "A": "3,813",
+        "B": "4,813",
+        "C": "5,813",
+        "D": "6,813"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are 4,813 women's milk cooperative societies.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG145",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Members",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many milk producer members were reported in the KMF network?",
+      "options": {
+        "A": "17.19 lakh",
+        "B": "27.19 lakh",
+        "C": "37.19 lakh",
+        "D": "47.19 lakh"
+      },
+      "correctAnswer": "B",
+      "explanation": "27.19 lakh members were reported, of whom 9.06 lakh were active members, according to the 2025-26 Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG146",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Active Members",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many active members were reported in the KMF network?",
+      "options": {
+        "A": "7.06 lakh",
+        "B": "8.06 lakh",
+        "C": "9.06 lakh",
+        "D": "10.06 lakh"
+      },
+      "correctAnswer": "C",
+      "explanation": "9.06 lakh active members were reported in the KMF network according to the 2025-26 Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG147",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Milk Production 2024-25",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was Karnataka's milk production in 2024-25?",
+      "options": {
+        "A": "11.89 million metric tonnes",
+        "B": "12.89 million metric tonnes",
+        "C": "13.89 million metric tonnes",
+        "D": "14.89 million metric tonnes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Karnataka's milk production in 2024-25 was 13.89 million metric tonnes.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG148",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Daily Procurement",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the average daily milk procurement by KMF during 2025-26 as reported in the Survey?",
+      "options": {
+        "A": "50 lakh litres per day",
+        "B": "75 lakh litres per day",
+        "C": "1 crore litres per day",
+        "D": "1.5 crore litres per day"
+      },
+      "correctAnswer": "C",
+      "explanation": "The average daily milk procurement by KMF during 2025-26 was approximately 1 crore litres per day.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG149",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Peak Procurement",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was KMF's record peak daily milk procurement in 2025?",
+      "options": {
+        "A": "96.54 lakh litres",
+        "B": "106.54 lakh litres",
+        "C": "116.54 lakh litres",
+        "D": "126.54 lakh litres"
+      },
+      "correctAnswer": "B",
+      "explanation": "KMF's record peak daily milk procurement was 106.54 lakh litres on 21 June 2025.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG150",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Milk Incentive",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the milk incentive provided by the Karnataka Government to eligible milk producers?",
+      "options": {
+        "A": "2 per litre",
+        "B": "3 per litre",
+        "C": "5 per litre",
+        "D": "10 per litre"
+      },
+      "correctAnswer": "C",
+      "explanation": "The State provides an incentive of 5 per litre for the supply of quality milk, transferred through Direct Benefit Transfer after verification.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG151",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Ksheerabhagya",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Ksheerabhagya scheme?",
+      "options": {
+        "A": "A crop insurance scheme",
+        "B": "A nutrition programme supplying free milk powder to schoolchildren and Anganwadi children",
+        "C": "A irrigation scheme",
+        "D": "A housing scheme"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ksheerabhagya is a Karnataka Government nutrition programme under which milk powder is supplied free of cost five days a week to schoolchildren in Classes I to X and children attending Anganwadi centres.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG152",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Ksheerabhagya Beneficiaries",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many children benefit from Ksheerabhagya according to the 2025-26 Survey?",
+      "options": {
+        "A": "More than 50 lakh children",
+        "B": "More than 75 lakh children",
+        "C": "More than one crore children",
+        "D": "More than two crore children"
+      },
+      "correctAnswer": "C",
+      "explanation": "More than one crore children benefit from Ksheerabhagya according to the 2025-26 Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG153",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Artificial Insemination",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is artificial insemination in dairy development?",
+      "options": {
+        "A": "Natural breeding of animals",
+        "B": "Controlled introduction of semen into a female animal's reproductive tract to improve breeding and genetics",
+        "C": "Feeding animals artificially",
+        "D": "Milking animals by machine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Artificial insemination is the controlled introduction of semen into a female animal's reproductive tract to improve breeding, genetics and herd productivity.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG154",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Sex-Sorted Semen",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of sex-sorted semen?",
+      "options": {
+        "A": "To produce only male calves",
+        "B": "To increase the probability of producing calves of a desired sex, commonly female calves in dairy",
+        "C": "To reduce milk production",
+        "D": "To cure animal diseases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sex-sorted semen increases the probability of producing calves of a desired sex; in dairy systems it is commonly used to increase the proportion of female calves.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG155",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "AMCU",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many Automatic Milk Collection Unit (AMCU) units were reported in Karnataka?",
+      "options": {
+        "A": "11,985",
+        "B": "12,985",
+        "C": "13,985",
+        "D": "14,985"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Survey reports 12,985 Automatic Milk Collection Unit (AMCU) units.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG156",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Bulk Milk Coolers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many Bulk Milk Coolers were reported in Karnataka?",
+      "options": {
+        "A": "1,324",
+        "B": "2,324",
+        "C": "3,324",
+        "D": "4,324"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Survey reports 2,324 Bulk Milk Coolers.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG157",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Processing Plants",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many milk processing plants are there in Karnataka with combined processing capacity of 1.37 crore litres per day?",
+      "options": {
+        "A": "35",
+        "B": "40",
+        "C": "45",
+        "D": "50"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Survey reports 45 milk processing plants with combined processing capacity of 1.37 crore litres per day.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG158",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "BMC Purpose",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of a Bulk Milk Cooler (BMC)?",
+      "options": {
+        "A": "To heat milk",
+        "B": "To rapidly cool collected milk to slow bacterial growth and preserve quality",
+        "C": "To add water to milk",
+        "D": "To package milk"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Bulk Milk Cooler rapidly cools collected milk at or near the village collection point to slow bacterial growth and preserve quality before transport to a processing plant.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG159",
+      "subject": "Karnataka Agriculture",
+      "topic": "Dairy",
+      "chapter": "Challenges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major dairy challenge in Karnataka?",
+      "options": {
+        "A": "Excess fodder availability",
+        "B": "Fodder shortages and feed costs",
+        "C": "No animal diseases",
+        "D": "Stable milk prices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major dairy challenges include fodder shortages, feed costs, animal diseases, heat stress, low productivity in some herds, uneven veterinary access, milk price fluctuations and the need for stronger chilling and processing infrastructure.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG160",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does fisheries include?",
+      "options": {
+        "A": "Only catching fish",
+        "B": "Catching, culture, processing and marketing of fish and other aquatic organisms",
+        "C": "Only fish processing",
+        "D": "Only fish marketing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fisheries includes the catching, culture, processing and marketing of fish and other aquatic organisms from marine, inland and brackish-water resources.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG161",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad types of fisheries in Karnataka?",
+      "options": {
+        "A": "Freshwater and saltwater",
+        "B": "Marine fisheries and inland fisheries",
+        "C": "River and lake fisheries",
+        "D": "Pond and tank fisheries"
+      },
+      "correctAnswer": "B",
+      "explanation": "The two broad types are marine fisheries along the Arabian Sea coast and inland fisheries in rivers, reservoirs, lakes, tanks, ponds and other freshwater bodies.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG162",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Aquaculture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is aquaculture?",
+      "options": {
+        "A": "Catching wild fish",
+        "B": "Controlled cultivation of fish, shellfish, aquatic plants and other aquatic organisms",
+        "C": "Processing fish",
+        "D": "Marketing fish"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aquaculture is the controlled cultivation of fish, shellfish, aquatic plants and other aquatic organisms in freshwater, brackish-water or marine environments.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG163",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Mariculture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is mariculture?",
+      "options": {
+        "A": "Aquaculture practised in freshwater",
+        "B": "Aquaculture practised in seawater or marine environments",
+        "C": "Fishing in rivers",
+        "D": "Fish processing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mariculture is aquaculture practised in seawater or marine environments.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG164",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Brackish-Water Aquaculture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is brackish-water aquaculture?",
+      "options": {
+        "A": "Farming in pure seawater",
+        "B": "Farming in water with salinity between freshwater and seawater",
+        "C": "Farming in freshwater only",
+        "D": "Farming on land"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brackish-water aquaculture is the farming of aquatic organisms in water with salinity between freshwater and seawater, often in estuaries, creeks and coastal ponds.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG165",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Coastline",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the length of Karnataka's coastline according to the 2025-26 Economic Survey?",
+      "options": {
+        "A": "220 kilometres",
+        "B": "320 kilometres",
+        "C": "420 kilometres",
+        "D": "520 kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka's coastline is 320 kilometres according to the 2025-26 Economic Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG166",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Continental Shelf",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the continental shelf area associated with Karnataka in the Survey?",
+      "options": {
+        "A": "17,000 square kilometres",
+        "B": "27,000 square kilometres",
+        "C": "37,000 square kilometres",
+        "D": "47,000 square kilometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "The continental shelf area associated with Karnataka is 27,000 square kilometres.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG167",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Inland Water Resources",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the inland water resource area reported for Karnataka?",
+      "options": {
+        "A": "4.83 lakh hectares",
+        "B": "5.83 lakh hectares",
+        "C": "6.83 lakh hectares",
+        "D": "7.83 lakh hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The inland water resource area reported for Karnataka is 5.83 lakh hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG168",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Brackish-Water Area",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the brackish-water area reported for Karnataka?",
+      "options": {
+        "A": "About 5,000 hectares",
+        "B": "About 8,000 hectares",
+        "C": "About 10,000 hectares",
+        "D": "About 15,000 hectares"
+      },
+      "correctAnswer": "B",
+      "explanation": "The brackish-water area reported for Karnataka is about 8,000 hectares.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG169",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "People Engaged",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many people were engaged in fisheries activities in Karnataka according to the 2025-26 Survey?",
+      "options": {
+        "A": "About 7.84 lakh",
+        "B": "About 8.84 lakh",
+        "C": "About 9.84 lakh",
+        "D": "About 10.84 lakh"
+      },
+      "correctAnswer": "C",
+      "explanation": "About 9.84 lakh fishermen were engaged, including 3.31 lakh in marine fisheries and 6.53 lakh in inland fisheries.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG170",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Fish Production 2024-25",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was Karnataka's total fish production in 2024-25?",
+      "options": {
+        "A": "8.63 lakh metric tonnes",
+        "B": "9.63 lakh metric tonnes",
+        "C": "10.63 lakh metric tonnes",
+        "D": "11.63 lakh metric tonnes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka's total fish production in 2024-25 was 9.63 lakh metric tonnes.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG171",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Fish Production 2025-26",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was fish production in Karnataka in 2025-26 up to the end of December 2025?",
+      "options": {
+        "A": "5.59 lakh metric tonnes",
+        "B": "6.59 lakh metric tonnes",
+        "C": "7.59 lakh metric tonnes",
+        "D": "8.59 lakh metric tonnes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fish production in 2025-26 up to December 2025 was 6.59 lakh metric tonnes.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG172",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "GSDP Share",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the fisheries sector's share in Karnataka's GSDP in the 2025-26 Survey?",
+      "options": {
+        "A": "0.28 per cent",
+        "B": "0.48 per cent",
+        "C": "0.68 per cent",
+        "D": "0.88 per cent"
+      },
+      "correctAnswer": "B",
+      "explanation": "The fisheries sector's share in Karnataka's GSDP was 0.48 per cent in the 2025-26 Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG173",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Fishing Boats",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many fishing boats were engaged in marine fishing in Karnataka?",
+      "options": {
+        "A": "15,246",
+        "B": "20,246",
+        "C": "25,246",
+        "D": "30,246"
+      },
+      "correctAnswer": "C",
+      "explanation": "25,246 boats were engaged: 4,828 mechanised boats, 11,443 motorised boats, 8,953 traditional boats and 22 deep-sea fishing vessels.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG175",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Motorised Boats",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many motorised boats were engaged in marine fishing in Karnataka?",
+      "options": {
+        "A": "10,443",
+        "B": "11,443",
+        "C": "12,443",
+        "D": "13,443"
+      },
+      "correctAnswer": "B",
+      "explanation": "There were 11,443 motorised boats engaged in marine fishing in Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG176",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Traditional Boats",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many traditional boats were engaged in marine fishing in Karnataka?",
+      "options": {
+        "A": "7,953",
+        "B": "8,953",
+        "C": "9,953",
+        "D": "10,953"
+      },
+      "correctAnswer": "B",
+      "explanation": "There were 8,953 traditional boats engaged in marine fishing in Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG177",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Fish Seed Centres",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many fish seed production centres were reported in Karnataka?",
+      "options": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "18"
+      },
+      "correctAnswer": "C",
+      "explanation": "16 fish seed production centres were reported in Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG178",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Fish Seed Production",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was fish seed production in 2025-26 up to December 2025?",
+      "options": {
+        "A": "5,311.50 lakh fry-size fish seeds",
+        "B": "6,311.50 lakh fry-size fish seeds",
+        "C": "7,311.50 lakh fry-size fish seeds",
+        "D": "8,311.50 lakh fry-size fish seeds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fish seed production was 6,311.50 lakh fry-size fish seeds against a target of 10,000 lakh.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG179",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "PMMSY",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Pradhan Mantri Matsya Sampada Yojana (PMMSY)?",
+      "options": {
+        "A": "A crop insurance scheme",
+        "B": "A flagship scheme for sustainable development of fisheries including production, aquaculture, infrastructure and marketing",
+        "C": "A dairy development scheme",
+        "D": "A sericulture scheme"
+      },
+      "correctAnswer": "B",
+      "explanation": "PMMSY is a Government of India flagship scheme for sustainable and responsible development of fisheries, including production, aquaculture, infrastructure, post-harvest management, value addition and marketing.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG180",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "FFPO",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Fish Farmer Producer Organisation (FFPO)?",
+      "options": {
+        "A": "A government department",
+        "B": "A collective institution of fishers or fish farmers for input access, production, aggregation and marketing",
+        "C": "A private company",
+        "D": "A bank"
+      },
+      "correctAnswer": "B",
+      "explanation": "An FFPO is a collective institution of fishers or fish farmers formed to improve input access, production, aggregation, processing, bargaining power and marketing.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG181",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "FFPOs Registered",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many Fish Farmer Producer Organisations were reported as registered in Karnataka by the 2025-26 Survey?",
+      "options": {
+        "A": "52",
+        "B": "62",
+        "C": "72",
+        "D": "82"
+      },
+      "correctAnswer": "B",
+      "explanation": "62 Fish Farmer Producer Organisations were reported as registered in Karnataka.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG182",
+      "subject": "Karnataka Agriculture",
+      "topic": "Fisheries",
+      "chapter": "Challenges",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a major fisheries challenge in Karnataka?",
+      "options": {
+        "A": "Excess fish stocks",
+        "B": "Monsoon-related fishing restrictions and cyclones",
+        "C": "No post-harvest losses",
+        "D": "Adequate cold chains"
+      },
+      "correctAnswer": "B",
+      "explanation": "Major fisheries challenges include monsoon-related fishing restrictions, cyclones and rough seas, declining or variable fish stocks, ageing boats, safety at sea, inadequate cold chains, post-harvest losses, limited processing capacity and environmental degradation.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG183",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Definition",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is agricultural marketing?",
+      "options": {
+        "A": "Only selling produce",
+        "B": "Activities involved in moving farm produce from producers to consumers including assembling, grading, storage, transport, processing, price discovery, sale and payment",
+        "C": "Only storing produce",
+        "D": "Only transporting produce"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agricultural marketing covers the activities involved in moving farm produce from producers to consumers, including assembling, grading, storage, transport, processing, price discovery, sale and payment.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG184",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Importance",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is agricultural marketing important?",
+      "options": {
+        "A": "It increases transaction costs",
+        "B": "It reduces transaction costs and post-harvest losses and helps farmers obtain remunerative prices",
+        "C": "It reduces market access",
+        "D": "It increases intermediaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Efficient marketing reduces transaction costs and post-harvest losses, improves price discovery, expands market access and helps farmers obtain remunerative prices.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG185",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "APMC",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an Agricultural Produce Market Committee (APMC)?",
+      "options": {
+        "A": "A private trading company",
+        "B": "A statutory market-regulating institution established under State agricultural marketing law",
+        "C": "A farmer cooperative",
+        "D": "A bank"
+      },
+      "correctAnswer": "B",
+      "explanation": "An APMC is a statutory market-regulating institution established under State agricultural marketing law to regulate notified agricultural produce markets and trading activities.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG186",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Number of APMCs",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many APMCs were reported in Karnataka in the 2025-26 Economic Survey?",
+      "options": {
+        "A": "150",
+        "B": "160",
+        "C": "170",
+        "D": "180"
+      },
+      "correctAnswer": "C",
+      "explanation": "170 APMCs were reported in Karnataka in the 2025-26 Economic Survey.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG187",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "ReMS",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Rashtriya e-Market Services Limited (ReMS)?",
+      "options": {
+        "A": "A private company",
+        "B": "A special purpose vehicle established to implement agricultural marketing reforms and electronic trading",
+        "C": "A government department",
+        "D": "A farmer cooperative"
+      },
+      "correctAnswer": "B",
+      "explanation": "ReMS is a special purpose vehicle established to implement agricultural marketing reforms and electronic trading through Karnataka's Unified Market Platform.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG188",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "ReMS Establishment",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When was ReMS established?",
+      "options": {
+        "A": "20 January 2012",
+        "B": "20 January 2014",
+        "C": "20 January 2016",
+        "D": "20 January 2018"
+      },
+      "correctAnswer": "B",
+      "explanation": "ReMS was established on 20 January 2014.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG189",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "UMP",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Unified Market Platform (UMP)?",
+      "options": {
+        "A": "A physical market",
+        "B": "Karnataka's electronic agricultural trading platform that links regulated markets and supports online bidding and electronic payment",
+        "C": "A warehouse",
+        "D": "A cold storage"
+      },
+      "correctAnswer": "B",
+      "explanation": "UMP is Karnataka's electronic agricultural trading platform that links regulated markets and supports online bidding, transparent price discovery and electronic payment.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG190",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "APMCs Linked to UMP",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many APMCs were linked to the Unified Market Platform by December 2025?",
+      "options": {
+        "A": "157",
+        "B": "167",
+        "C": "177",
+        "D": "187"
+      },
+      "correctAnswer": "B",
+      "explanation": "167 APMCs were linked to the Unified Market Platform by December 2025.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG191",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "e-NAM APMCs",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Karnataka APMCs were linked to the Government of India's e-NAM platform as stated in the 2025-26 Survey?",
+      "options": {
+        "A": "Bengaluru and Mysuru APMCs",
+        "B": "Kalaburagi and Chincholi APMCs",
+        "C": "Belagavi and Hubballi APMCs",
+        "D": "Mangaluru and Udupi APMCs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kalaburagi and Chincholi APMCs were linked to the Government of India's e-NAM platform.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG192",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "UMP Transactions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What was the cumulative transaction volume and value of the Unified Market Platform by December 2025?",
+      "options": {
+        "A": "10.67 crore MT; 3,39,852.54 crore",
+        "B": "12.67 crore MT; 4,39,852.54 crore",
+        "C": "14.67 crore MT; 5,39,852.54 crore",
+        "D": "16.67 crore MT; 6,39,852.54 crore"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cumulative transaction volume and value of the UMP by December 2025 was 12.67 crore metric tonnes of agricultural commodities valued at 4,39,852.54 crore.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG193",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "e-NAM",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is e-NAM?",
+      "options": {
+        "A": "A state scheme",
+        "B": "National Agriculture Market - a pan-India electronic trading portal",
+        "C": "A private company",
+        "D": "A cold storage chain"
+      },
+      "correctAnswer": "B",
+      "explanation": "The National Agriculture Market (e-NAM) is a pan-India electronic trading portal that networks APMC mandis to create a more integrated national market for agricultural commodities.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG194",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "MSP",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Minimum Support Price (MSP)?",
+      "options": {
+        "A": "A price announced by the Government of India for selected crops to provide price assurance",
+        "B": "A state tax",
+        "C": "A market fee",
+        "D": "A subsidy"
+      },
+      "correctAnswer": "A",
+      "explanation": "MSP is a price announced by the Government of India for selected agricultural commodities to provide price assurance to farmers; procurement at MSP depends on notified crops, agencies, quality norms and operational arrangements.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG195",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "MSP vs Minimum Floor Price",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between MSP and Karnataka's Minimum Floor Price scheme?",
+      "options": {
+        "A": "They are the same",
+        "B": "MSP is announced by the Union Government; Karnataka's Minimum Floor Price is a State-level intervention",
+        "C": "MSP is a state scheme; Minimum Floor Price is central",
+        "D": "Both are state schemes"
+      },
+      "correctAnswer": "B",
+      "explanation": "MSP is announced by the Union Government for notified crops. Karnataka's Minimum Floor Price scheme is a State-level intervention for notified agricultural and horticultural commodities when market prices fall sharply, with the aim of protecting farmers from distress sales.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG196",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Price Support Scheme",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Price Support Scheme?",
+      "options": {
+        "A": "A state scheme",
+        "B": "A Government of India procurement intervention for notified crops when market prices fall below MSP",
+        "C": "A private insurance scheme",
+        "D": "A marketing fee"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is a Government of India procurement intervention for notified crops, implemented through designated agencies when market prices fall below MSP and prescribed conditions are met.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG197",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Commodities Procured",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which commodities were procured under Karnataka's support-price scheme during 2025-26 as reported in the Survey?",
+      "options": {
+        "A": "Only paddy and wheat",
+        "B": "Green gram, urad dal, sunflower, soybean, groundnut, maize and cotton",
+        "C": "Only sugarcane and cotton",
+        "D": "Only coffee and pepper"
+      },
+      "correctAnswer": "B",
+      "explanation": "Green gram, urad dal, sunflower, soybean, groundnut, maize and cotton were among the listed commodities; the Survey reports procurement from 1,55,793 registered farmers up to the reporting period.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG198",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Grading",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is grading of agricultural produce?",
+      "options": {
+        "A": "Classification of produce according to defined quality parameters",
+        "B": "Storage of produce",
+        "C": "Transport of produce",
+        "D": "Sale of produce"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grading is the classification of produce according to defined quality parameters such as size, weight, colour, moisture, purity and defects.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG199",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "Assaying",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is assaying in agricultural markets?",
+      "options": {
+        "A": "Storage of produce",
+        "B": "Testing of a commodity's quality and composition against specified standards",
+        "C": "Transport of produce",
+        "D": "Sale of produce"
+      },
+      "correctAnswer": "B",
+      "explanation": "Assaying is the testing of a commodity's quality and composition against specified standards to support reliable grading and fair price discovery.",
+      "source": "Karnataka Economic Survey 2025-26"
+    },
+    {
+      "id": "AG200",
+      "subject": "Karnataka Agriculture",
+      "topic": "Agricultural Marketing",
+      "chapter": "FPO",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Farmer Producer Organisation (FPO)?",
+      "options": {
+        "A": "A government department",
+        "B": "A farmer-owned collective enterprise that aggregates produce and improves bargaining power",
+        "C": "A private company",
+        "D": "A bank"
+      },
+      "correctAnswer": "B",
+      "explanation": "An FPO is a farmer-owned collective enterprise that aggregates produce and inputs, improves bargaining power, enables economies of scale and supports processing and marketing.",
+      "source": "Karnataka Economic Survey 2025-26"
+    }
+  ]
+}

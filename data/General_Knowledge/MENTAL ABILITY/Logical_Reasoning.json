@@ -1,0 +1,4093 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Logical Reasoning question bank for KEA FDA/SDA Mental Ability 15.1, derived comprehensively from the supplied comprehensive notes (Foundations, Statements, Conclusions, Assumptions, Arguments, Inference, Cause and Effect, Connected Reasoning Tools, Solved Examples, Practice Questions, Quick Revision Rules).",
+  "questions": [
+    {
+      "id": "LR001",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is logical reasoning?",
+      "options": {
+        "A": "Memorising facts from textbooks",
+        "B": "The systematic process of examining information, identifying relationships, evaluating evidence, and reaching conclusions that follow from given premises",
+        "C": "Guessing the answer based on personal experience",
+        "D": "Applying mathematical formulas only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Logical reasoning is the systematic process of examining information, identifying relationships, evaluating evidence, and reaching conclusions that follow from the given premises.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR002",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a premise in a reasoning question?",
+      "options": {
+        "A": "The final answer claimed to follow from information",
+        "B": "A statement or piece of information accepted as the starting point for a logical argument",
+        "C": "A personal opinion of the examiner",
+        "D": "An assumption that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "A premise is a statement or piece of information accepted as the starting point for a logical argument. A conclusion is the result claimed to follow from one or more premises.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR003",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between validity and truth?",
+      "options": {
+        "A": "Validity concerns reality; truth concerns logical structure",
+        "B": "Truth concerns whether a statement matches reality; validity concerns whether a conclusion follows logically from its premises",
+        "C": "They mean exactly the same thing",
+        "D": "Validity applies only to mathematics; truth applies only to science"
+      },
+      "correctAnswer": "B",
+      "explanation": "Truth concerns whether a statement matches reality. Validity concerns whether a conclusion follows logically from its premises. An argument can be valid in structure even when one or more premises are factually false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR004",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the most important rule for statement-based reasoning questions?",
+      "options": {
+        "A": "Reject a premise if it conflicts with everyday experience",
+        "B": "Treat the information supplied in the question as the basis of the answer and do not introduce outside information",
+        "C": "Always use personal knowledge to verify the statements",
+        "D": "Select the option that sounds most reasonable in real life"
+      },
+      "correctAnswer": "B",
+      "explanation": "Treat the information supplied in the question as the basis of the answer. Do not reject a premise merely because it conflicts with everyday experience, and do not introduce outside information unless the question expressly asks for factual knowledge.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR005",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between deduction and induction?",
+      "options": {
+        "A": "Deduction gives probable conclusions; induction gives guaranteed conclusions",
+        "B": "Deduction aims at a conclusion that must follow if premises are true; induction uses observations to support a probable conclusion that is not guaranteed",
+        "C": "Both give guaranteed conclusions",
+        "D": "Both give only probable conclusions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deduction aims at a conclusion that must follow if the premises are true and the reasoning is valid. Induction uses observations or examples to support a probable conclusion, but the conclusion is not guaranteed.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR006",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations of Logical Reasoning",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between an assumption and an inference?",
+      "options": {
+        "A": "An assumption is derived from the argument; an inference supports the argument",
+        "B": "An assumption is an unstated idea taken for granted; an inference is a conclusion drawn from the information provided",
+        "C": "Both are explicitly stated in the passage",
+        "D": "An inference is always false; an assumption is always true"
+      },
+      "correctAnswer": "B",
+      "explanation": "An assumption is an unstated idea that a speaker or argument takes for granted. An inference is a conclusion drawn from the information provided. An assumption supports the argument; an inference is derived from it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR007",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a statement in logical reasoning?",
+      "options": {
+        "A": "A question that can be answered",
+        "B": "A declarative sentence that asserts something and can be evaluated as true or false",
+        "C": "A command or request",
+        "D": "An emotional expression"
+      },
+      "correctAnswer": "B",
+      "explanation": "A statement is a declarative sentence that asserts something and can be evaluated as true or false. Questions, commands, and requests are generally not statements because they do not assert a truth-valued proposition.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR008",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a simple statement?",
+      "options": {
+        "A": "A statement joined to another by AND or OR",
+        "B": "A statement that expresses one proposition without joining it to another proposition through a logical connector",
+        "C": "A statement that is always true",
+        "D": "A statement that contains a negation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A simple statement expresses one proposition without joining it to another proposition through a logical connector. Example: 'The examination begins at 10 a.m.'",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR009",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a compound statement?",
+      "options": {
+        "A": "A statement with only one proposition",
+        "B": "A statement formed by combining two or more propositions using logical connectors such as AND, OR, NOT, IF-THEN, or IF AND ONLY IF",
+        "C": "A statement that cannot be evaluated as true or false",
+        "D": "A statement that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "A compound statement is formed by combining two or more propositions using logical connectors such as AND, OR, NOT, IF-THEN, or IF AND ONLY IF.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR010",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When is the conjunction 'P and Q' true?",
+      "options": {
+        "A": "When at least one of P or Q is true",
+        "B": "Only when both P and Q are true",
+        "C": "When P is true and Q is false",
+        "D": "When both P and Q are false"
+      },
+      "correctAnswer": "B",
+      "explanation": "The conjunction 'P and Q' is true only when both P and Q are true. If either part is false, the conjunction is false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR011",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'or' mean in standard logical reasoning unless the question indicates an exclusive meaning?",
+      "options": {
+        "A": "Exclusive OR: exactly one of P or Q is true",
+        "B": "Inclusive OR: 'P or Q' is true when at least one of P or Q is true, including when both are true",
+        "C": "Neither P nor Q is true",
+        "D": "Both P and Q must be false"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unless the question indicates an exclusive meaning, logical OR is inclusive: 'P or Q' is true when at least one of P or Q is true, including when both are true.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR012",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does 'not' mean in logic?",
+      "options": {
+        "A": "It confirms the truth of a proposition",
+        "B": "It reverses the truth value of a proposition",
+        "C": "It makes a proposition neither true nor false",
+        "D": "It combines two propositions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negation reverses the truth value of a proposition. If P is true, NOT P is false; if P is false, NOT P is true.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR013",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'if P, then Q' mean?",
+      "options": {
+        "A": "Q is sufficient for P and P is necessary for Q",
+        "B": "Whenever P occurs, Q must follow; P is the sufficient condition and Q is the necessary condition",
+        "C": "P and Q are always both true",
+        "D": "P occurs only when Q is false"
+      },
+      "correctAnswer": "B",
+      "explanation": "It means that whenever P occurs, Q must follow. P is the sufficient condition and Q is the necessary condition. The conditional is false only when P is true and Q is false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR014",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'P only if Q' mean?",
+      "options": {
+        "A": "Q is sufficient for P",
+        "B": "Q is necessary for P; it is written P → Q and does not mean Q alone guarantees P",
+        "C": "P and Q are unrelated",
+        "D": "P is necessary for Q"
+      },
+      "correctAnswer": "B",
+      "explanation": "'P only if Q' means that Q is necessary for P. It is written P → Q. It does not mean that Q alone guarantees P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR015",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'P if Q' mean?",
+      "options": {
+        "A": "P is necessary for Q",
+        "B": "Q is sufficient for P; it is written Q → P",
+        "C": "P and Q are equivalent",
+        "D": "Q is necessary for P"
+      },
+      "correctAnswer": "B",
+      "explanation": "'P if Q' means that Q is sufficient for P. It is written Q → P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR016",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'P if and only if Q' mean?",
+      "options": {
+        "A": "P implies Q only",
+        "B": "P and Q imply each other: P → Q and Q → P; both are necessary and sufficient for one another",
+        "C": "Q implies P only",
+        "D": "P and Q are unrelated"
+      },
+      "correctAnswer": "B",
+      "explanation": "It means P and Q imply each other: P → Q and Q → P. Both are necessary and sufficient for one another.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR017",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a universal statement?",
+      "options": {
+        "A": "A statement about at least one member of a group",
+        "B": "A statement that makes a claim about every member of a group, using words like 'all', 'every', and 'each'",
+        "C": "A statement that makes no claim at all",
+        "D": "A statement about only one specific individual"
+      },
+      "correctAnswer": "B",
+      "explanation": "A universal statement makes a claim about every member of a group. Common words are 'all', 'every', and 'each'. Example: 'All applicants must carry an identity card.'",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR018",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a particular statement?",
+      "options": {
+        "A": "A statement about every member of a group",
+        "B": "A statement that makes a claim about at least one or some members of a group, using words like 'some', 'a few', and 'at least one'",
+        "C": "A statement that is always false",
+        "D": "A statement that cannot be tested"
+      },
+      "correctAnswer": "B",
+      "explanation": "A particular statement makes a claim about at least one or some members of a group. Common words are 'some', 'a few', and 'at least one'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR019",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does 'None A are B' mean in categorical statements?",
+      "options": {
+        "A": "All A are B",
+        "B": "No member of group A belongs to group B; the two groups have no members in common",
+        "C": "Some A are B",
+        "D": "At least one A is B"
+      },
+      "correctAnswer": "B",
+      "explanation": "'None A are B' means that no member of group A belongs to group B. The two groups have no members in common.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR020",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'Some A are B' mean in syllogism questions?",
+      "options": {
+        "A": "All A are B",
+        "B": "At least one A is also B; it does not mean 'all A are B' and does not necessarily mean 'some A are not B'",
+        "C": "No A is B",
+        "D": "All B are A"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Some A are B' means at least one A is also B. It does not mean 'all A are B', and it does not necessarily mean 'some A are not B'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR021",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does 'Some A are not B' mean?",
+      "options": {
+        "A": "All A are outside B",
+        "B": "At least one member of A is outside group B; it does not mean that every member of A is outside B",
+        "C": "No A is B",
+        "D": "All A are B"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Some A are not B' means at least one member of A is outside group B. It does not mean that every member of A is outside B.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR022",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should the word 'only' be interpreted in 'Only A are B'?",
+      "options": {
+        "A": "Every A is B",
+        "B": "Every B is A; it does not state that every A is B",
+        "C": "Some A are B",
+        "D": "No A is B"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 'only A are B', every B is A; it does not state that every A is B. For example, 'Only graduates are eligible' means all eligible persons are graduates.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR023",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should 'unless' be interpreted in logical reasoning?",
+      "options": {
+        "A": "P unless Q is commonly understood as 'if not Q, then P'; in many aptitude questions it can also be expressed as 'P or Q'",
+        "B": "P unless Q always means 'if Q, then P'",
+        "C": "P unless Q means P and Q are unrelated",
+        "D": "P unless Q means both P and Q must be false"
+      },
+      "correctAnswer": "A",
+      "explanation": "'P unless Q' is commonly understood as 'if not Q, then P'. In many aptitude questions it can also be expressed as 'P or Q'. Read the exact wording and context carefully.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR024",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a contradictory pair of statements?",
+      "options": {
+        "A": "Two statements that can both be true",
+        "B": "Two statements that cannot both be true and cannot both be false, referring to the same group and subject",
+        "C": "Two statements that can both be false",
+        "D": "Two statements that mean the same thing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two statements are contradictory when they cannot both be true and cannot both be false. For example, 'All students passed' and 'Some students did not pass' are contradictory when they refer to the same group and examination.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR025",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between contrary and contradictory statements?",
+      "options": {
+        "A": "Contrary statements cannot both be true but may both be false; contradictory statements cannot both be true or both be false",
+        "B": "Contrary statements cannot both be false but may both be true; contradictory statements may both be true",
+        "C": "Both types of statements may both be true",
+        "D": "Both types of statements may both be false"
+      },
+      "correctAnswer": "A",
+      "explanation": "Contrary statements cannot both be true, but they may both be false. Contradictory statements cannot both be true or both be false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR026",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a consistent set of statements?",
+      "options": {
+        "A": "A set of statements where at least one statement is false",
+        "B": "A set of statements that can all be true together without creating a logical contradiction",
+        "C": "A set of statements that are all false",
+        "D": "A set of statements that contradict each other"
+      },
+      "correctAnswer": "B",
+      "explanation": "A set of statements is consistent if all of them can be true together without creating a logical contradiction.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR027",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should a candidate identify the main claim in a long statement?",
+      "options": {
+        "A": "By counting the number of words",
+        "B": "By identifying the subject, the claim made about it, limiting words such as all/some/only, and any condition or exception, and separating supporting details from the central proposition",
+        "C": "By selecting the last sentence only",
+        "D": "By ignoring quantifiers and conditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identify the subject, the claim made about it, limiting words such as all/some/only, and any condition or exception. Separate supporting details from the central proposition.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR028",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a conclusion?",
+      "options": {
+        "A": "An unstated idea taken for granted",
+        "B": "A proposition that is claimed to follow from one or more given statements or premises",
+        "C": "A question asked about the premises",
+        "D": "A personal opinion unrelated to the premises"
+      },
+      "correctAnswer": "B",
+      "explanation": "A conclusion is a proposition that is claimed to follow from one or more given statements or premises.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR029",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When does a conclusion logically follow from premises?",
+      "options": {
+        "A": "When it is merely possible or likely given the premises",
+        "B": "When it must be true if the given premises are true",
+        "C": "When it is consistent with the premises but not necessary",
+        "D": "When it sounds reasonable in everyday life"
+      },
+      "correctAnswer": "B",
+      "explanation": "A conclusion follows when it must be true if the given premises are true. A conclusion that is merely possible, likely, or consistent with the premises does not necessarily follow.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR030",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a direct conclusion?",
+      "options": {
+        "A": "A conclusion reached through a long chain of reasoning",
+        "B": "A conclusion that follows immediately from a single statement or a straightforward combination of the given statements, without requiring unsupported assumptions",
+        "C": "A conclusion that requires outside knowledge",
+        "D": "A conclusion that contradicts the premises"
+      },
+      "correctAnswer": "B",
+      "explanation": "A direct conclusion follows immediately from a single statement or a straightforward combination of the given statements, without requiring unsupported assumptions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR031",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an indirect conclusion?",
+      "options": {
+        "A": "A conclusion that follows from a single statement only",
+        "B": "A conclusion reached by combining two or more premises through a chain of valid reasoning",
+        "C": "A conclusion that is always false",
+        "D": "A conclusion based on personal opinion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An indirect conclusion is reached by combining two or more premises through a chain of valid reasoning.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR032",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a syllogism?",
+      "options": {
+        "A": "A form of inductive reasoning based on examples",
+        "B": "A form of deductive reasoning in which a conclusion is tested against two or more premises, commonly using categorical statements such as all, some, and no",
+        "C": "A method of guessing the answer",
+        "D": "A type of mathematical equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A syllogism is a form of deductive reasoning in which a conclusion is tested against two or more premises, commonly using categorical statements such as all, some, and no.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR033",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can Venn diagrams help solve syllogisms?",
+      "options": {
+        "A": "They replace logical reasoning entirely",
+        "B": "They represent categories as circles and help show inclusion, exclusion, and overlap, making it easier to test whether a proposed conclusion is certain, impossible, or only possible",
+        "C": "They are useful only for mathematical problems",
+        "D": "They prove causation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Venn diagrams represent categories as circles. They help show inclusion, exclusion, and overlap between groups and make it easier to test whether a proposed conclusion is certain, impossible, or only possible.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR034",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What follows from 'All A are B'?",
+      "options": {
+        "A": "Every B is A",
+        "B": "Every A is inside B; it does not establish that every B is A, and it does not establish that any A exists unless existence is separately given",
+        "C": "Some A are not B",
+        "D": "No A is B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Every A is inside B. It does not establish that every B is A, and it does not establish that any A exists unless existence is separately given or the examination convention explicitly assumes it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR035",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What follows from 'No A is B'?",
+      "options": {
+        "A": "All A are B",
+        "B": "A and B have no overlap; if something is A, it cannot be B, and vice versa",
+        "C": "Some A are B",
+        "D": "All B are A"
+      },
+      "correctAnswer": "B",
+      "explanation": "A and B have no overlap. Therefore, if something is A, it cannot be B, and vice versa.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR036",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What follows from 'Some A are B'?",
+      "options": {
+        "A": "All A are B",
+        "B": "At least one item belongs to both A and B; it does not establish that all A are B or that all B are A",
+        "C": "No A is B",
+        "D": "All B are A"
+      },
+      "correctAnswer": "B",
+      "explanation": "At least one item belongs to both A and B. It does not establish that all A are B or that all B are A.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR037",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can 'All A are B' be converted into 'All B are A'?",
+      "options": {
+        "A": "Yes, always",
+        "B": "No, this is an invalid conversion; from 'All A are B', one can conclude that all A lie within B, but not that B lies entirely within A",
+        "C": "Yes, but only when A and B have equal size",
+        "D": "Yes, if A and B are both non-empty"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. This is an invalid conversion. From 'All A are B', one can conclude that all A lie within B, but not that B lies entirely within A.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+        {
+      "id": "LR039",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can 'Some A are B' be converted into 'Some B are A'?",
+      "options": {
+        "A": "No, this is invalid",
+        "B": "Yes, the same overlapping members belong to both groups",
+        "C": "Only when all A are B",
+        "D": "Only when no A is B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. The same overlapping members belong to both groups.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR040",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an either-or conclusion?",
+      "options": {
+        "A": "A conclusion used when two alternatives are mutually exclusive and collectively exhaustive under the question's logical conditions; it should not be selected merely because two conclusions appear different",
+        "B": "A conclusion that is always true regardless of the premises",
+        "C": "A conclusion that combines two unrelated facts",
+        "D": "A conclusion that is always false"
+      },
+      "correctAnswer": "A",
+      "explanation": "An either-or conclusion is used when two alternatives are mutually exclusive and collectively exhaustive under the question's logical conditions. It should not be selected merely because two conclusions appear different.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR041",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a possibility conclusion?",
+      "options": {
+        "A": "A conclusion that must be true in every arrangement",
+        "B": "A conclusion that can be true without contradicting the premises; possibility is weaker than certainty",
+        "C": "A conclusion that contradicts the premises",
+        "D": "A conclusion that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "A possibility conclusion is one that can be true without contradicting the premises. Possibility is weaker than certainty: a possible conclusion need not be true in every arrangement.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR042",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the common mistake in conclusion questions?",
+      "options": {
+        "A": "Testing whether the conclusion is necessary given the premises",
+        "B": "Treating a conclusion that sounds reasonable or is generally true as one that logically follows; the test is necessity, not plausibility",
+        "C": "Checking the exact wording of the premises",
+        "D": "Rejecting conclusions that add unsupported details"
+      },
+      "correctAnswer": "B",
+      "explanation": "Treating a conclusion that sounds reasonable or is generally true as one that logically follows. The test is necessity, not plausibility.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR043",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an assumption?",
+      "options": {
+        "A": "A conclusion that follows from the premises",
+        "B": "An unstated proposition that is taken for granted and on which a statement, proposal, or argument depends",
+        "C": "A fact that is explicitly stated in the passage",
+        "D": "A statement that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "An assumption is an unstated proposition that is taken for granted and on which a statement, proposal, or argument depends.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR044",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an implicit assumption?",
+      "options": {
+        "A": "An assumption that is directly written in the statement",
+        "B": "An assumption that is not directly written in the statement but is required or presupposed for the statement or argument to make sense",
+        "C": "An assumption that is always false",
+        "D": "An assumption that is a conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An implicit assumption is not directly written in the statement but is required or presupposed for the statement or argument to make sense.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR045",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an explicit assumption?",
+      "options": {
+        "A": "An assumption that is stated openly rather than left unstated",
+        "B": "An assumption that is always hidden",
+        "C": "An assumption that is a conclusion",
+        "D": "An assumption that is a fact"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strictly speaking, an explicit assumption is stated openly rather than left unstated. In many aptitude questions, the task is to distinguish what is stated from what is implicitly taken for granted.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR046",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a necessary assumption?",
+      "options": {
+        "A": "An assumption that is always true in reality",
+        "B": "An unstated condition that must be true for the argument or recommendation to work as intended",
+        "C": "An assumption that is explicitly stated",
+        "D": "An assumption that is unrelated to the argument"
+      },
+      "correctAnswer": "B",
+      "explanation": "A necessary assumption is an unstated condition that must be true for the argument or recommendation to work as intended.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR047",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a hidden assumption?",
+      "options": {
+        "A": "An assumption that is openly stated",
+        "B": "An unstated belief connecting the evidence to the conclusion, which may concern the reliability of information, the relevance of evidence, or the expected effect of an action",
+        "C": "An assumption that is always false",
+        "D": "An assumption that is a conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "A hidden assumption is an unstated belief connecting the evidence to the conclusion. It may concern the reliability of information, the relevance of evidence, or the expected effect of an action.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR048",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How can a necessary assumption be tested?",
+      "options": {
+        "A": "By checking whether the assumption is popular",
+        "B": "By using the negation test: temporarily deny the proposed assumption; if the argument collapses or loses its essential support, the assumption is likely necessary",
+        "C": "By checking whether the assumption is explicitly stated",
+        "D": "By counting the number of words in the assumption"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use the negation test: temporarily deny the proposed assumption. If the argument collapses or loses its essential support, the assumption is likely necessary. If the argument remains intact, it may not be necessary.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR049",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an assumption in an advertisement?",
+      "options": {
+        "A": "The advertisement assumes that the target audience wants the advertised benefit, can access the product, and considers the claimed feature relevant",
+        "B": "The advertisement assumes that everyone will buy the product",
+        "C": "The advertisement assumes that the product is free",
+        "D": "The advertisement assumes that no one will buy the product"
+      },
+      "correctAnswer": "A",
+      "explanation": "An advertisement may assume that the target audience wants the advertised benefit, can access the product, and considers the claimed feature relevant. Select only assumptions supported by the wording, not every possible marketing belief.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR050",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an assumption in a policy proposal?",
+      "options": {
+        "A": "The proposal assumes that the identified problem exists, the proposed measure can influence it, the responsible authority can implement the measure, and the expected benefits justify the costs",
+        "B": "The proposal assumes that the policy will fail",
+        "C": "The proposal assumes that no authority is needed",
+        "D": "The proposal assumes that costs are irrelevant"
+      },
+      "correctAnswer": "A",
+      "explanation": "A policy proposal may assume that the identified problem exists, the proposed measure can influence it, the responsible authority can implement the measure, and the expected benefits justify the costs.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR051",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does an assumption have to be universally true?",
+      "options": {
+        "A": "Yes, an assumption must be true in all circumstances",
+        "B": "No, it only needs to be a premise taken for granted within the particular argument; it may be questionable in reality",
+        "C": "Yes, otherwise the argument is invalid",
+        "D": "No, an assumption must always be false"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It only needs to be a premise taken for granted within the particular argument. It may be questionable in reality, but the question asks whether the argument relies on it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR052",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between an assumption and a fact?",
+      "options": {
+        "A": "A fact is accepted without being established; an assumption is presented as established",
+        "B": "A fact is presented as established information; an assumption is accepted without being directly established in the argument",
+        "C": "Both are explicitly stated in the argument",
+        "D": "Both are unstated"
+      },
+      "correctAnswer": "B",
+      "explanation": "A fact is presented as established information. An assumption is accepted without being directly established in the argument.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR053",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between an assumption and a conclusion?",
+      "options": {
+        "A": "An assumption is the claim the reasoning attempts to establish; a conclusion is an unstated supporting idea",
+        "B": "An assumption is an unstated supporting idea on which the reasoning depends; a conclusion is the claim that the reasoning attempts to establish",
+        "C": "Both are unstated supporting ideas",
+        "D": "Both are claims that the reasoning attempts to establish"
+      },
+      "correctAnswer": "B",
+      "explanation": "An assumption is an unstated supporting idea on which the reasoning depends. A conclusion is the claim that the reasoning attempts to establish.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR054",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an argument in logical reasoning?",
+      "options": {
+        "A": "A quarrel between two people",
+        "B": "A set of statements in which one or more premises are offered as support for a conclusion",
+        "C": "A single statement that is always true",
+        "D": "A question asked to test knowledge"
+      },
+      "correctAnswer": "B",
+      "explanation": "An argument is a set of statements in which one or more premises are offered as support for a conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR055",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a strong argument?",
+      "options": {
+        "A": "An argument that is popular and emotionally appealing",
+        "B": "An argument that is relevant to the issue, logically connected to the conclusion, supported by credible or significant reasons, and directly addresses the question being asked",
+        "C": "An argument that uses long words",
+        "D": "An argument that attacks the person making a claim"
+      },
+      "correctAnswer": "B",
+      "explanation": "A strong argument is relevant to the issue, logically connected to the conclusion, and supported by credible or significant reasons. It directly addresses the question being asked.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR056",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a weak argument?",
+      "options": {
+        "A": "An argument that is relevant and well-supported",
+        "B": "An argument that is irrelevant, unsupported, vague, based on an incorrect assumption, emotionally manipulative, or insufficient to support the conclusion",
+        "C": "An argument that provides credible evidence",
+        "D": "An argument that directly addresses the issue"
+      },
+      "correctAnswer": "B",
+      "explanation": "A weak argument is irrelevant, unsupported, vague, based on an incorrect assumption, emotionally manipulative, or insufficient to support the conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR057",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What makes an argument relevant?",
+      "options": {
+        "A": "It uses statistics",
+        "B": "It directly concerns the issue under discussion and provides a reason for or against the proposed action or claim",
+        "C": "It is supported by many people",
+        "D": "It uses emotional language"
+      },
+      "correctAnswer": "B",
+      "explanation": "An argument is relevant when it directly concerns the issue under discussion and provides a reason for or against the proposed action or claim.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR058",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What makes an argument logical?",
+      "options": {
+        "A": "It uses coherent reasoning, avoids contradictions, and provides premises that genuinely support its conclusion",
+        "B": "It uses long and complex sentences",
+        "C": "It is supported by a majority of people",
+        "D": "It attacks the opponent's character"
+      },
+      "correctAnswer": "A",
+      "explanation": "A logical argument uses coherent reasoning, avoids contradictions, and provides premises that genuinely support its conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR059",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a fact-based argument?",
+      "options": {
+        "A": "An argument that relies on personal preference",
+        "B": "An argument that relies on verifiable information, evidence, data, or established conditions rather than merely personal preference",
+        "C": "An argument that relies on emotions",
+        "D": "An argument that attacks the person making a claim"
+      },
+      "correctAnswer": "B",
+      "explanation": "A fact-based argument relies on verifiable information, evidence, data, or established conditions rather than merely personal preference.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR060",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an opinion-based argument?",
+      "options": {
+        "A": "An argument that relies on verifiable data",
+        "B": "An argument that expresses a personal judgment or preference; it can still be relevant but by itself may provide weaker support than reliable evidence",
+        "C": "An argument that uses statistics",
+        "D": "An argument that is always strong"
+      },
+      "correctAnswer": "B",
+      "explanation": "An opinion-based argument expresses a personal judgment or preference. An opinion can still be relevant, but by itself it may provide weaker support than reliable evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR061",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an argument from consequences?",
+      "options": {
+        "A": "An argument that supports or opposes an action by explaining its likely benefits, harms, costs, or wider effects",
+        "B": "An argument that evaluates whether a proposal can practically be implemented",
+        "C": "An argument that refers to a rule, right, or duty",
+        "D": "An argument that attacks the person making a claim"
+      },
+      "correctAnswer": "A",
+      "explanation": "An argument from consequences supports or opposes an action by explaining its likely benefits, harms, costs, or wider effects.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR062",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an argument from feasibility?",
+      "options": {
+        "A": "An argument that supports or opposes an action by explaining its benefits and harms",
+        "B": "An argument that evaluates whether a proposal can practically be implemented, considering resources, time, infrastructure, authority, and operational constraints",
+        "C": "An argument that refers to fairness and equality",
+        "D": "An argument that uses emotional language"
+      },
+      "correctAnswer": "B",
+      "explanation": "An argument from feasibility evaluates whether a proposal can practically be implemented, considering resources, time, infrastructure, authority, and operational constraints.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR063",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an argument from principle?",
+      "options": {
+        "A": "An argument that relies on statistical data",
+        "B": "An argument that supports or opposes an action by referring to a rule, right, duty, fairness, equality, or other normative principle",
+        "C": "An argument that evaluates feasibility",
+        "D": "An argument that attacks the person making a claim"
+      },
+      "correctAnswer": "B",
+      "explanation": "An argument from principle supports or opposes an action by referring to a rule, right, duty, fairness, equality, or other normative principle.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR064",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should strong and weak arguments be evaluated?",
+      "options": {
+        "A": "By checking whether the argument is emotionally appealing",
+        "B": "By checking whether each argument addresses the exact issue, whether its reason is significant, whether the premise is credible, and whether the conclusion follows; ignore emotional language and unrelated details",
+        "C": "By checking how many people support the argument",
+        "D": "By checking the length of the argument"
+      },
+      "correctAnswer": "B",
+      "explanation": "Check whether each argument addresses the exact issue, whether its reason is significant, whether the premise is credible, and whether the conclusion follows. Ignore emotional language and unrelated details.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR065",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is an argument strong merely because many people support it?",
+      "options": {
+        "A": "Yes, popularity proves correctness",
+        "B": "No, popularity does not prove correctness; the argument must still be relevant and logically supported",
+        "C": "Yes, if the majority supports it, it is always strong",
+        "D": "Only if the majority is unanimous"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Popularity does not prove correctness. The argument must still be relevant and logically supported.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR066",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is an argument strong merely because it uses statistics?",
+      "options": {
+        "A": "Yes, statistics always make an argument strong",
+        "B": "No, statistics must be relevant, reliable, correctly interpreted, and sufficiently connected to the conclusion",
+        "C": "Yes, if the statistics are large numbers",
+        "D": "Only if the statistics come from a government source"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Statistics must be relevant, reliable, correctly interpreted, and sufficiently connected to the conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR067",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an ad hominem argument?",
+      "options": {
+        "A": "An argument that attacks the person making a claim instead of addressing the claim or evidence; it is generally a weak form of reasoning",
+        "B": "An argument that presents only two choices",
+        "C": "An argument that draws a broad conclusion from too few examples",
+        "D": "An argument that uses the conclusion itself as support"
+      },
+      "correctAnswer": "A",
+      "explanation": "It attacks the person making a claim instead of addressing the claim or evidence. It is generally a weak form of reasoning.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR068",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a false dilemma?",
+      "options": {
+        "A": "An argument that attacks the person making a claim",
+        "B": "An argument that presents only two choices when additional reasonable alternatives may exist",
+        "C": "An argument that draws a broad conclusion from too few examples",
+        "D": "An argument that uses the conclusion itself as support"
+      },
+      "correctAnswer": "B",
+      "explanation": "A false dilemma presents only two choices when additional reasonable alternatives may exist.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR069",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a hasty generalisation?",
+      "options": {
+        "A": "An argument that draws a broad conclusion from too few or unrepresentative examples",
+        "B": "An argument that presents only two choices",
+        "C": "An argument that attacks the person making a claim",
+        "D": "An argument that claims one step will inevitably lead to extreme consequences"
+      },
+      "correctAnswer": "A",
+      "explanation": "It draws a broad conclusion from too few or unrepresentative examples.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR070",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a circular argument?",
+      "options": {
+        "A": "An argument that uses the conclusion itself, or a restatement of it, as support instead of providing independent evidence",
+        "B": "An argument that presents only two choices",
+        "C": "An argument that draws a broad conclusion from too few examples",
+        "D": "An argument that attacks the person making a claim"
+      },
+      "correctAnswer": "A",
+      "explanation": "It uses the conclusion itself, or a restatement of it, as support instead of providing independent evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR071",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a slippery-slope argument?",
+      "options": {
+        "A": "An argument that attacks the person making a claim",
+        "B": "An argument that claims that one step will inevitably lead to a chain of extreme consequences without adequately establishing the causal links",
+        "C": "An argument that presents only two choices",
+        "D": "An argument that uses the conclusion itself as support"
+      },
+      "correctAnswer": "B",
+      "explanation": "It claims that one step will inevitably lead to a chain of extreme consequences without adequately establishing the causal links.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR072",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an inference?",
+      "options": {
+        "A": "An unstated idea taken for granted",
+        "B": "A conclusion drawn from evidence, observations, or information supplied in a question",
+        "C": "A statement that is explicitly written in the passage",
+        "D": "A personal opinion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An inference is a conclusion drawn from evidence, observations, or information supplied in a question.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR073",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a direct inference?",
+      "options": {
+        "A": "An inference obtained by connecting multiple pieces of information",
+        "B": "An inference that follows clearly from the given information with little or no intermediate reasoning",
+        "C": "An inference that is always false",
+        "D": "An inference based on outside knowledge"
+      },
+      "correctAnswer": "B",
+      "explanation": "A direct inference follows clearly from the given information with little or no intermediate reasoning.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR074",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an indirect inference?",
+      "options": {
+        "A": "An inference that follows from a single sentence only",
+        "B": "An inference obtained by connecting multiple pieces of information or identifying a relationship that is not stated in one sentence",
+        "C": "An inference that is always false",
+        "D": "An inference that is explicitly stated"
+      },
+      "correctAnswer": "B",
+      "explanation": "An indirect inference is obtained by connecting multiple pieces of information or identifying a relationship that is not stated in one sentence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR075",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a factual inference?",
+      "options": {
+        "A": "An inference based on personal opinion",
+        "B": "A conclusion supported by the facts or data supplied; it must not go beyond what those facts reasonably establish",
+        "C": "An inference that goes beyond the facts",
+        "D": "An inference based on guesswork"
+      },
+      "correctAnswer": "B",
+      "explanation": "A factual inference is a conclusion supported by the facts or data supplied. It must not go beyond what those facts reasonably establish.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR076",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an inference from a passage?",
+      "options": {
+        "A": "A conclusion that is explicitly written in the passage",
+        "B": "A conclusion that can reasonably be drawn from the passage, even if it is not expressed in exactly the same words",
+        "C": "A conclusion based on outside knowledge",
+        "D": "A conclusion that contradicts the passage"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is a conclusion that can reasonably be drawn from the passage, even if it is not expressed in exactly the same words.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR077",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between an inference and a guess?",
+      "options": {
+        "A": "An inference is supported by identifiable evidence and reasoning; a guess is not necessarily supported by sufficient evidence",
+        "B": "A guess is supported by evidence; an inference is not",
+        "C": "Both are supported by evidence",
+        "D": "Both are unsupported"
+      },
+      "correctAnswer": "A",
+      "explanation": "An inference is supported by identifiable evidence and reasoning. A guess is not necessarily supported by sufficient evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR078",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a certain inference and a probable inference?",
+      "options": {
+        "A": "A certain inference must follow from the premises; a probable inference is supported by the evidence but could be false",
+        "B": "A certain inference could be false; a probable inference must follow from the premises",
+        "C": "Both must follow from the premises",
+        "D": "Both could be false"
+      },
+      "correctAnswer": "A",
+      "explanation": "A certain inference must follow from the premises. A probable inference is supported by the evidence but could be false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+        {
+      "id": "LR079",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can an inference use outside knowledge in standard passage-based reasoning?",
+      "options": {
+        "A": "Yes, outside knowledge is always preferred over the passage",
+        "B": "No, use the passage as the primary evidence and avoid outside facts unless the question explicitly requires general knowledge",
+        "C": "Yes, outside knowledge is required for all inferences",
+        "D": "No, the passage should never be used"
+      },
+      "correctAnswer": "B",
+      "explanation": "In standard passage-based reasoning, use the passage as the primary evidence and avoid outside facts unless the question explicitly requires general knowledge.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR080",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an implied idea?",
+      "options": {
+        "A": "An idea that is directly stated in the passage",
+        "B": "An idea that is not directly stated but is reasonably suggested by the wording, context, or relationship between the supplied facts",
+        "C": "An idea that is unrelated to the passage",
+        "D": "An idea that contradicts the passage"
+      },
+      "correctAnswer": "B",
+      "explanation": "An implied idea is not directly stated but is reasonably suggested by the wording, context, or relationship between the supplied facts.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR081",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should a candidate answer 'which statement can be inferred' questions?",
+      "options": {
+        "A": "By selecting the longest option",
+        "B": "By identifying the exact evidence, testing each option against it, rejecting options that add unsupported details or use extreme words, and selecting only the conclusion adequately supported by the information",
+        "C": "By selecting the option that sounds most reasonable in everyday life",
+        "D": "By selecting the option that repeats the passage word for word"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identify the exact evidence, test each option against it, reject options that add unsupported details or use extreme words, and select only the conclusion adequately supported by the information.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR082",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Do words such as 'always', 'never', 'all', and 'only' require special care in inference questions?",
+      "options": {
+        "A": "No, these words have no effect on the conclusion",
+        "B": "Yes, these words make strong or absolute claims; a passage that describes a few cases usually cannot support an absolute conclusion",
+        "C": "No, these words are always wrong",
+        "D": "Yes, these words always make the option correct"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. These words make strong or absolute claims. A passage that describes a few cases usually cannot support an absolute conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR083",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between correlation and inference of causation?",
+      "options": {
+        "A": "Correlation proves causation; a causal inference is unnecessary",
+        "B": "Correlation means two variables vary together but does not by itself prove that one causes the other; a causal inference requires additional evidence about timing, mechanism, alternative explanations, and confounding factors",
+        "C": "Correlation and causation are the same thing",
+        "D": "Causation always implies correlation in reverse"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correlation means two variables vary together. It does not by itself prove that one causes the other. A causal inference requires additional evidence about timing, mechanism, alternative explanations, and confounding factors.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR084",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cause-and-effect relationship?",
+      "options": {
+        "A": "A relationship in which two events occur at the same time without any connection",
+        "B": "A relationship that exists when one event or condition produces, contributes to, or helps explain another event or condition",
+        "C": "A relationship in which two events are unrelated",
+        "D": "A relationship based only on sequence in time"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cause-and-effect relationship exists when one event or condition produces, contributes to, or helps explain another event or condition.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR085",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cause?",
+      "options": {
+        "A": "An outcome produced by one or more factors",
+        "B": "A factor or event that brings about or contributes to an outcome",
+        "C": "A conclusion drawn from evidence",
+        "D": "An assumption taken for granted"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cause is a factor or event that brings about or contributes to an outcome.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR086",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an effect?",
+      "options": {
+        "A": "A factor that brings about an outcome",
+        "B": "An outcome or consequence produced or influenced by one or more causes",
+        "C": "An unstated idea taken for granted",
+        "D": "A statement that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "An effect is an outcome or consequence produced or influenced by one or more causes.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR087",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a direct cause?",
+      "options": {
+        "A": "A cause that influences an outcome through intermediate factors",
+        "B": "A cause that has an immediate causal connection with the effect, without a substantial chain of intermediate events",
+        "C": "An earlier or more distant factor",
+        "D": "A third variable that influences both variables"
+      },
+      "correctAnswer": "B",
+      "explanation": "A direct cause has an immediate causal connection with the effect, without a substantial chain of intermediate events.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR088",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an indirect cause?",
+      "options": {
+        "A": "A cause that has an immediate connection with the effect",
+        "B": "A cause that influences an outcome through one or more intermediate factors",
+        "C": "The factor closest in time to the effect",
+        "D": "A variable that influences both variables being studied"
+      },
+      "correctAnswer": "B",
+      "explanation": "An indirect cause influences an outcome through one or more intermediate factors.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR089",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an immediate cause?",
+      "options": {
+        "A": "An earlier factor that contributes through intervening conditions",
+        "B": "The factor closest in time or causal sequence to the observed effect",
+        "C": "A cause that influences through multiple intermediate factors",
+        "D": "A third variable that creates an apparent relationship"
+      },
+      "correctAnswer": "B",
+      "explanation": "An immediate cause is the factor closest in time or causal sequence to the observed effect.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR090",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a remote cause?",
+      "options": {
+        "A": "The factor closest in time to the effect",
+        "B": "An earlier or more distant factor that contributes to the effect through intervening conditions",
+        "C": "A cause with an immediate connection to the effect",
+        "D": "A third variable that distorts a relationship"
+      },
+      "correctAnswer": "B",
+      "explanation": "A remote cause is an earlier or more distant factor that contributes to the effect through intervening conditions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR091",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can one effect have multiple causes?",
+      "options": {
+        "A": "No, every effect has exactly one cause",
+        "B": "Yes, many outcomes result from several interacting factors; for example, crop loss may result from drought, pests, poor soil, and inadequate irrigation",
+        "C": "Only in physical sciences",
+        "D": "No, multiple causes always contradict each other"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. Many outcomes result from several interacting factors. For example, crop loss may result from drought, pests, poor soil, and inadequate irrigation.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR092",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can one cause produce multiple effects?",
+      "options": {
+        "A": "No, every cause produces exactly one effect",
+        "B": "Yes, a severe flood may damage houses, roads, crops, public utilities, and transport systems",
+        "C": "Only if the cause is natural",
+        "D": "No, multiple effects always contradict each other"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. A severe flood may damage houses, roads, crops, public utilities, and transport systems.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR093",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a necessary condition?",
+      "options": {
+        "A": "Something that is enough to guarantee an outcome",
+        "B": "Something that must be present for an outcome to occur; if it is absent, the outcome cannot occur under the stated conditions",
+        "C": "A factor that is unrelated to the outcome",
+        "D": "A condition that always produces the outcome"
+      },
+      "correctAnswer": "B",
+      "explanation": "A necessary condition is something that must be present for an outcome to occur. If it is absent, the outcome cannot occur under the stated conditions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR094",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a sufficient condition?",
+      "options": {
+        "A": "Something that must be present for an outcome to occur",
+        "B": "Something that is enough to guarantee an outcome under the stated logical rules, although the outcome may also occur for other reasons",
+        "C": "A condition that is unrelated to the outcome",
+        "D": "A condition that prevents the outcome"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sufficient condition is enough to guarantee an outcome under the stated logical rules, although the outcome may also occur for other reasons.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR095",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a necessary and sufficient condition?",
+      "options": {
+        "A": "A necessary condition guarantees the result; a sufficient condition must exist for the result",
+        "B": "A necessary condition must exist for the result; a sufficient condition guarantees the result; in 'P if Q', Q is sufficient for P, and in 'P only if Q', Q is necessary for P",
+        "C": "Both are identical concepts",
+        "D": "Neither is related to conditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "A necessary condition must exist for the result; a sufficient condition guarantees the result. In 'P if Q', Q is sufficient for P. In 'P only if Q', Q is necessary for P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR096",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is reverse causation?",
+      "options": {
+        "A": "When the assumed direction of cause and effect is reversed: the supposed effect may actually influence the supposed cause",
+        "B": "When two variables vary together",
+        "C": "When a third variable influences both variables",
+        "D": "When one cause produces multiple effects"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reverse causation occurs when the assumed direction of cause and effect is reversed: the supposed effect may actually influence the supposed cause.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR097",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a confounding factor?",
+      "options": {
+        "A": "A factor that directly causes the effect",
+        "B": "A third variable that influences both variables being studied and can create or distort an apparent relationship between them",
+        "C": "A factor that is unrelated to both variables",
+        "D": "A factor that reverses cause and effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "A confounding factor is a third variable that influences both variables being studied and can create or distort an apparent relationship between them.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR098",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why does correlation not prove causation?",
+      "options": {
+        "A": "Because correlation always proves causation",
+        "B": "Because two events may occur together due to coincidence, a common cause, reverse causation, or another confounding factor; additional evidence is needed to establish causation",
+        "C": "Because correlation is never observed in reality",
+        "D": "Because causation always follows correlation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two events may occur together because of coincidence, a common cause, reverse causation, or another confounding factor. Additional evidence is needed to establish causation.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR099",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a cause-and-effect pair?",
+      "options": {
+        "A": "A pair of events that occur at the same time with no connection",
+        "B": "A pair of events in which one is reasonably identified as the cause and the other as the resulting effect; the time order and logical connection should be examined",
+        "C": "A pair of unrelated statements",
+        "D": "A pair of assumptions"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is a pair of events in which one is reasonably identified as the cause and the other as the resulting effect. The time order and logical connection should be examined.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR100",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should statement-pair cause-and-effect questions be solved?",
+      "options": {
+        "A": "By checking whether the events occur together only",
+        "B": "By checking whether the events are related, whether the proposed cause occurs before the effect, whether the relationship is plausible and direct enough, and whether a third factor could explain both; mere sequence is not proof of causation",
+        "C": "By selecting the option that lists the events in alphabetical order",
+        "D": "By assuming that the first event is always the cause"
+      },
+      "correctAnswer": "B",
+      "explanation": "Check whether the events are related, whether the proposed cause occurs before the effect, whether the relationship is plausible and direct enough, and whether a third factor could explain both. Do not treat mere sequence as proof of causation.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR101",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Does an event that occurs first always cause an event that occurs later?",
+      "options": {
+        "A": "Yes, temporal order proves causation",
+        "B": "No, temporal order is necessary for many causal relationships, but it is not sufficient to prove causation",
+        "C": "Yes, if the events occur close in time",
+        "D": "No, temporal order is irrelevant to causation"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Temporal order is necessary for many causal relationships, but it is not sufficient to prove causation.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR102",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a feedback loop?",
+      "options": {
+        "A": "A loop in which an outcome later influences the factor that produced it; positive feedback amplifies a change, while negative feedback tends to reduce or stabilise it",
+        "B": "A situation where one cause produces multiple unrelated effects",
+        "C": "A third variable that influences both variables",
+        "D": "A situation where two events occur together by coincidence"
+      },
+      "correctAnswer": "A",
+      "explanation": "A feedback loop occurs when an outcome later influences the factor that produced it. Positive feedback amplifies a change, while negative feedback tends to reduce or stabilise it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR103",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a truth table?",
+      "options": {
+        "A": "A table that lists all possible truth-value combinations of propositions and shows the truth value of a compound statement for each combination",
+        "B": "A table of mathematical values",
+        "C": "A table that lists only true statements",
+        "D": "A table that lists assumptions"
+      },
+      "correctAnswer": "A",
+      "explanation": "A truth table lists all possible truth-value combinations of propositions and shows the truth value of a compound statement for each combination.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR104",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a logical contradiction?",
+      "options": {
+        "A": "A situation where a proposition and its negation are both asserted, or when a set of claims cannot all be true together",
+        "B": "A situation where a proposition is true",
+        "C": "A situation where two propositions are logically equivalent",
+        "D": "A situation where an argument is strong"
+      },
+      "correctAnswer": "A",
+      "explanation": "A contradiction occurs when a proposition and its negation are both asserted, or when a set of claims cannot all be true together.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR105",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a logical equivalent?",
+      "options": {
+        "A": "Two propositions that always have different truth values",
+        "B": "Two propositions that have the same truth value under every possible assignment of truth values",
+        "C": "Two propositions that cannot both be true",
+        "D": "Two propositions that are unrelated"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two propositions are logically equivalent when they have the same truth value under every possible assignment of truth values.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR106",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the contrapositive of 'If P, then Q'?",
+      "options": {
+        "A": "If Q, then P",
+        "B": "If not P, then not Q",
+        "C": "If not Q, then not P",
+        "D": "If P, then not Q"
+      },
+      "correctAnswer": "C",
+      "explanation": "The contrapositive is 'If not Q, then not P'. It is logically equivalent to the original conditional.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR107",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the converse of 'If P, then Q' equivalent to the original?",
+      "options": {
+        "A": "Yes, the converse is always equivalent",
+        "B": "No, the converse is 'If Q, then P'; it is not generally equivalent and may be false even when the original conditional is true",
+        "C": "Yes, if P and Q are both true",
+        "D": "No, the converse is 'If not Q, then not P'"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The converse is 'If Q, then P'. It is not generally equivalent and may be false even when the original conditional is true.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR108",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the inverse of 'If P, then Q' equivalent to the original?",
+      "options": {
+        "A": "Yes, the inverse is always equivalent",
+        "B": "No, the inverse is 'If not P, then not Q'; it is not generally equivalent to the original, although it is equivalent to the converse",
+        "C": "Yes, if P is false",
+        "D": "No, the inverse is 'If Q, then P'"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The inverse is 'If not P, then not Q'. It is not generally equivalent to the original, although it is equivalent to the converse.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR109",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the fallacy of affirming the consequent?",
+      "options": {
+        "A": "The invalid form: If P then Q; not P; therefore not Q",
+        "B": "The invalid form: If P then Q; Q; therefore P; Q may have occurred for another reason",
+        "C": "The valid form: If P then Q; P; therefore Q",
+        "D": "The valid form: If P then Q; not Q; therefore not P"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is the invalid form: If P then Q; Q; therefore P. Q may have occurred for another reason.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR110",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the fallacy of denying the antecedent?",
+      "options": {
+        "A": "The invalid form: If P then Q; not P; therefore not Q; Q may still occur for another reason",
+        "B": "The invalid form: If P then Q; Q; therefore P",
+        "C": "The valid form: If P then Q; P; therefore Q",
+        "D": "The valid form: If P then Q; not Q; therefore not P"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is the invalid form: If P then Q; not P; therefore not Q. Q may still occur for another reason.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR111",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the best first step in a statement-based question?",
+      "options": {
+        "A": "Read the instruction and identify whether the task asks for what definitely follows, what is assumed, which argument is strong, what can be inferred, or which event causes another",
+        "B": "Select the longest option",
+        "C": "Guess the answer based on personal experience",
+        "D": "Skip the instructions and read only the options"
+      },
+      "correctAnswer": "A",
+      "explanation": "Read the instruction and identify whether the task asks for what definitely follows, what is assumed, which argument is strong, what can be inferred, or which event causes another.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR112",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should extreme answer choices be handled?",
+      "options": {
+        "A": "They should always be rejected",
+        "B": "Test words such as all, never, only, must, completely, and impossible carefully; they are not automatically wrong, but they require evidence strong enough to justify an absolute claim",
+        "C": "They should always be selected",
+        "D": "They should be ignored completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Test words such as all, never, only, must, completely, and impossible carefully. They are not automatically wrong, but they require evidence strong enough to justify an absolute claim.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR113",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the safest method when two options appear correct?",
+      "options": {
+        "A": "Select the longer option",
+        "B": "Compare each option with the exact wording of the premises and prefer the option that is fully supported and introduces the fewest unstated assumptions",
+        "C": "Select the option that sounds more reasonable in everyday life",
+        "D": "Select the first option"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compare each option with the exact wording of the premises. Prefer the option that is fully supported and introduces the fewest unstated assumptions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR114",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Should a candidate use personal opinions in logical reasoning questions?",
+      "options": {
+        "A": "Yes, personal opinion is the basis of logical validity",
+        "B": "No, apply the rules of reasoning and the information given; personal agreement or disagreement is not the test of logical validity",
+        "C": "Yes, if the opinion is widely shared",
+        "D": "No, but only for inference questions"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Apply the rules of reasoning and the information given. Personal agreement or disagreement is not the test of logical validity.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR115",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Statements: All clerks are employees. Some employees are graduates. Conclusion: Some clerks are graduates. Does it follow?",
+      "options": {
+        "A": "Yes, because some employees are graduates",
+        "B": "No, the graduates among employees need not be clerks; the premises do not establish an overlap between clerks and graduates",
+        "C": "Yes, because all clerks are employees",
+        "D": "Yes, because all employees are graduates"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The graduates among employees need not be clerks. The premises do not establish an overlap between clerks and graduates.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR116",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Statements: No bird is a mammal. All sparrows are birds. Conclusion: No sparrow is a mammal. Does it follow?",
+      "options": {
+        "A": "No, sparrows may be mammals",
+        "B": "Yes, sparrows are included in birds, and birds have no overlap with mammals",
+        "C": "Yes, but only if some birds are mammals",
+        "D": "No, the premises are contradictory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. Sparrows are included in birds, and birds have no overlap with mammals.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+        {
+      "id": "LR118",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Question: Should schools provide clean drinking water? Argument: Yes, because safe water helps protect students' health. Is it strong?",
+      "options": {
+        "A": "No, it is unrelated to the issue",
+        "B": "Yes, it is directly relevant and gives a significant reason supporting the proposal",
+        "C": "No, it is based on personal opinion only",
+        "D": "Yes, but only if the water is free"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. It is directly relevant and gives a significant reason supporting the proposal.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR119",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Passage: A shop reduced its prices. The number of customers increased the following week. What can be inferred?",
+      "options": {
+        "A": "The price reduction caused the increase in customers with certainty",
+        "B": "The price reduction was followed by an increase in customers; it may have contributed to the increase, but the information alone does not prove that the price reduction caused it",
+        "C": "The shop will always have more customers now",
+        "D": "The price reduction was irrelevant to customers"
+      },
+      "correctAnswer": "B",
+      "explanation": "The price reduction was followed by an increase in customers. It may have contributed to the increase, but the information alone does not prove that the price reduction caused it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR120",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Event I: Continuous heavy rain. Event II: Water level in a nearby river rises. Identify the likely relationship.",
+      "options": {
+        "A": "Event II is the cause of Event I",
+        "B": "Continuous heavy rain can be a cause of a rising river level, although other factors such as upstream rainfall and dam releases may also contribute",
+        "C": "The events are unrelated",
+        "D": "The events are merely coincidental with no causal possibility"
+      },
+      "correctAnswer": "B",
+      "explanation": "Continuous heavy rain can be a cause of a rising river level, although other factors such as upstream rainfall and dam releases may also contribute.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR121",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Statement: Only candidates with valid hall tickets may enter the examination hall. What follows?",
+      "options": {
+        "A": "Every person with a valid hall ticket will necessarily be admitted",
+        "B": "Every candidate permitted to enter must have a valid hall ticket; the statement does not say that every person with a valid hall ticket will necessarily be admitted",
+        "C": "No candidate without a hall ticket can write the exam",
+        "D": "Hall tickets are not required for entry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Every candidate permitted to enter must have a valid hall ticket. The statement does not say that every person with a valid hall ticket will necessarily be admitted.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR122",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Statement: If the application is submitted after the deadline, it will be rejected. The application was not rejected. What follows logically?",
+      "options": {
+        "A": "The application was submitted after the deadline",
+        "B": "The application was not submitted after the deadline, provided the conditional rule is treated as true and applicable (contrapositive)",
+        "C": "The application was rejected for another reason",
+        "D": "The deadline was extended"
+      },
+      "correctAnswer": "B",
+      "explanation": "The application was not submitted after the deadline, provided the conditional rule is treated as true and applicable. This is the contrapositive.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR123",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Statement: All A are B. Some B are C. Does 'Some A are C' follow?",
+      "options": {
+        "A": "Yes, because some B are C",
+        "B": "No, the members that are both B and C may lie outside A",
+        "C": "Yes, because all A are B",
+        "D": "Yes, because some A are B"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The members that are both B and C may lie outside A.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR124",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Solved Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Statement: Some teachers are writers. Conclusion: Some writers are teachers. Does it follow?",
+      "options": {
+        "A": "No, the conversion is invalid",
+        "B": "Yes, the overlap described by 'some teachers are writers' is the same overlap described by 'some writers are teachers'",
+        "C": "Yes, but only if all teachers are writers",
+        "D": "No, because writers may not be teachers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. The overlap described by 'some teachers are writers' is the same overlap described by 'some writers are teachers'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR125",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "All pens are stationery items. All stationery items are useful. Conclusion: All pens are useful. Does it follow?",
+      "options": {
+        "A": "No, pens may not be useful",
+        "B": "Yes, the inclusion relationship passes from pens to stationery items and then to useful items",
+        "C": "Yes, but only if some pens are useful",
+        "D": "No, stationery items are not necessarily useful"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. The inclusion relationship passes from pens to stationery items and then to useful items.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR126",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "No engineer is an artist. Some artists are singers. Conclusion: Some singers are not engineers. Does it follow?",
+      "options": {
+        "A": "No, singers may all be engineers",
+        "B": "Yes, the artists who are singers cannot be engineers because no engineer is an artist",
+        "C": "Yes, because all singers are artists",
+        "D": "No, the premises are contradictory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. The artists who are singers cannot be engineers because no engineer is an artist.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR127",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "All applicants submitted forms. Ravi is an applicant. What follows?",
+      "options": {
+        "A": "Ravi did not submit a form",
+        "B": "Ravi submitted a form",
+        "C": "Ravi is not an applicant",
+        "D": "Ravi's form was rejected"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ravi submitted a form.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR128",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Some books are novels. All novels are interesting. What follows?",
+      "options": {
+        "A": "All books are interesting",
+        "B": "Some books are interesting",
+        "C": "No books are interesting",
+        "D": "All novels are books"
+      },
+      "correctAnswer": "B",
+      "explanation": "Some books are interesting.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR129",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "All buses are vehicles. Some vehicles are electric. Conclusion: Some buses are electric. Does it follow?",
+      "options": {
+        "A": "Yes, because some vehicles are electric",
+        "B": "No, the electric vehicles may not include any buses",
+        "C": "Yes, because all buses are vehicles",
+        "D": "Yes, because all vehicles are buses"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. The electric vehicles may not include any buses.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR130",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Statement: Install streetlights to improve road safety. Identify a likely assumption.",
+      "options": {
+        "A": "The proposal assumes that streetlights are always free",
+        "B": "The proposal assumes that inadequate lighting contributes to road-safety risks and that streetlights can improve visibility",
+        "C": "The proposal assumes that road accidents never occur",
+        "D": "The proposal assumes that streetlights cause accidents"
+      },
+      "correctAnswer": "B",
+      "explanation": "The proposal assumes that inadequate lighting contributes to road-safety risks and that streetlights can improve visibility.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR131",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Should public offices provide online services? Argument: Yes, because online services can reduce the need for citizens to travel for routine work. Is it strong?",
+      "options": {
+        "A": "No, it is irrelevant to the issue",
+        "B": "Yes, it is relevant and identifies a practical benefit, though other considerations may also matter",
+        "C": "No, it is based only on emotion",
+        "D": "Yes, because all citizens have internet access"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes. It is relevant and identifies a practical benefit, though other considerations may also matter.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR132",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A report says that areas with more trees often have lower surface temperatures. What is a cautious inference?",
+      "options": {
+        "A": "Trees are the only cause of lower surface temperatures",
+        "B": "Tree cover may help reduce surface temperatures; the statement does not, by itself, prove that trees are the only cause",
+        "C": "Lower surface temperatures cause tree growth exclusively",
+        "D": "There is no relationship between trees and temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tree cover may help reduce surface temperatures. The statement does not, by itself, prove that trees are the only cause.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR133",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A factory releases untreated wastewater into a river. Fish deaths are reported downstream. Identify the likely cause and effect.",
+      "options": {
+        "A": "Fish deaths caused the untreated wastewater release",
+        "B": "The untreated wastewater is a plausible cause, and fish deaths are the possible effect; further evidence would be needed to establish the exact causal mechanism",
+        "C": "There is no possible causal link",
+        "D": "The river caused the factory to release wastewater"
+      },
+      "correctAnswer": "B",
+      "explanation": "The untreated wastewater is a plausible cause, and fish deaths are the possible effect. Further evidence would be needed to establish the exact causal mechanism.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR134",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If a person is a citizen, the person is eligible for benefit X. Meera is not eligible for benefit X. What follows under the stated rule?",
+      "options": {
+        "A": "Meera is a citizen",
+        "B": "Meera is not a citizen, by the contrapositive, assuming the rule is complete and applies to her case",
+        "C": "Meera may be a citizen but ineligible",
+        "D": "Nothing can be concluded"
+      },
+      "correctAnswer": "B",
+      "explanation": "Meera is not a citizen, by the contrapositive, assuming the rule is complete and applies to her case.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR135",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which is stronger: 'The road should be repaired because potholes have caused accidents' or 'The road should be repaired because its colour is unattractive'?",
+      "options": {
+        "A": "The second, because colour is more important",
+        "B": "The first, because it gives a safety-related reason directly connected to road repair",
+        "C": "Both are equally strong",
+        "D": "Neither is strong"
+      },
+      "correctAnswer": "B",
+      "explanation": "The first argument is stronger because it gives a safety-related reason directly connected to road repair.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR136",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A school introduced extra classes and examination scores improved. Can one conclude that extra classes caused the improvement?",
+      "options": {
+        "A": "Yes, the sequence proves causation",
+        "B": "Not conclusively; other factors such as student effort, teaching changes, or differences in the examination may have contributed",
+        "C": "Yes, because scores improved after the classes",
+        "D": "No, extra classes never affect scores"
+      },
+      "correctAnswer": "B",
+      "explanation": "Not conclusively. Other factors such as student effort, teaching changes, or differences in the examination may have contributed.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR137",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the contrapositive of 'If the alarm is set, the indicator light is on'?",
+      "options": {
+        "A": "If the indicator light is on, the alarm is set",
+        "B": "If the indicator light is not on, the alarm is not set",
+        "C": "If the alarm is not set, the indicator light is not on",
+        "D": "If the alarm is set, the indicator light is not on"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the indicator light is not on, the alarm is not set.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR138",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is wrong with the reasoning 'If it rains, the ground becomes wet; the ground is wet; therefore it rained'?",
+      "options": {
+        "A": "It denies the antecedent",
+        "B": "It affirms the consequent; the ground may be wet for another reason, such as cleaning or a water leak",
+        "C": "It uses the contrapositive correctly",
+        "D": "Nothing is wrong; the reasoning is valid"
+      },
+      "correctAnswer": "B",
+      "explanation": "It affirms the consequent. The ground may be wet for another reason, such as cleaning or a water leak.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR139",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A notice says, 'Only registered candidates may attend the interview.' What is the necessary condition for attending?",
+      "options": {
+        "A": "Being interviewed",
+        "B": "Being a registered candidate is necessary for attending the interview",
+        "C": "Being a graduate",
+        "D": "Having prior experience"
+      },
+      "correctAnswer": "B",
+      "explanation": "Being a registered candidate is necessary for attending the interview.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR140",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for 'All A are B'?",
+      "options": {
+        "A": "All B are A; the conversion is valid",
+        "B": "A is included in B; do not reverse it to 'All B are A'",
+        "C": "No A is B",
+        "D": "Some A are not B"
+      },
+      "correctAnswer": "B",
+      "explanation": "All A are B: A is included in B; do not reverse it to All B are A.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR141",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for 'No A is B'?",
+      "options": {
+        "A": "A and B overlap",
+        "B": "A and B do not overlap; conversion to 'No B is A' is valid",
+        "C": "All A are B",
+        "D": "Some A are B"
+      },
+      "correctAnswer": "B",
+      "explanation": "No A is B: A and B do not overlap; conversion to No B is A is valid.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR142",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for 'Some A are not B'?",
+      "options": {
+        "A": "All A are outside B",
+        "B": "At least one A lies outside B; do not reverse automatically",
+        "C": "No A is B",
+        "D": "All A are B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Some A are not B: At least one A lies outside B; do not reverse automatically.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR143",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for 'If P, then Q'?",
+      "options": {
+        "A": "Q is sufficient for P; P is necessary for Q",
+        "B": "P is sufficient for Q; Q is necessary for P",
+        "C": "P and Q are equivalent",
+        "D": "P is necessary for Q; Q is sufficient for P"
+      },
+      "correctAnswer": "B",
+      "explanation": "If P, then Q: P is sufficient for Q; Q is necessary for P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR144",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for the contrapositive?",
+      "options": {
+        "A": "'If P then Q' is equivalent to 'If Q then P'",
+        "B": "'If P then Q' is equivalent to 'If not Q then not P'",
+        "C": "'If P then Q' is equivalent to 'If not P then not Q'",
+        "D": "'If P then Q' is not equivalent to any other statement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Contrapositive: If P then Q is equivalent to If not Q then not P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR145",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is the rule for the converse?",
+      "options": {
+        "A": "'If Q then P' is generally equivalent to the original",
+        "B": "'If Q then P' is not generally equivalent to the original",
+        "C": "'If Q then P' is always true when the original is true",
+        "D": "'If Q then P' is the contrapositive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Converse: If Q then P; not generally equivalent to the original.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR146",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is required of a valid inference?",
+      "options": {
+        "A": "It may add facts from personal knowledge",
+        "B": "It must be supported by the supplied information; do not add facts",
+        "C": "It must be popular",
+        "D": "It must be emotionally appealing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inference: Must be supported by the supplied information; do not add facts.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR147",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what is an assumption?",
+      "options": {
+        "A": "An explicit fact stated in the passage",
+        "B": "An unstated idea on which the argument depends",
+        "C": "A conclusion drawn from the passage",
+        "D": "A statement that is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "Assumption: An unstated idea on which the argument depends.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR148",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what makes a strong argument?",
+      "options": {
+        "A": "It is relevant, significant, logical, and adequately supported",
+        "B": "It is popular and emotionally appealing",
+        "C": "It is long and complex",
+        "D": "It attacks the opponent's character"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strong argument: Relevant, significant, logical, and adequately supported.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR149",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the quick revision rules, what must be checked in cause-and-effect questions?",
+      "options": {
+        "A": "Only the sequence of events",
+        "B": "The causal connection; sequence or correlation alone is not proof",
+        "C": "Only the popularity of the events",
+        "D": "Only whether the events are emotionally appealing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cause and effect: Check causal connection; sequence or correlation alone is not proof.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR150",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Final Exam Approach",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the recommended final exam approach for logical reasoning?",
+      "options": {
+        "A": "First identify the question type; then underline quantifiers and conditions; represent category relationships if needed; test each option strictly against the premises; and select only what is logically justified",
+        "B": "First select the longest option; then check if it matches personal opinion",
+        "C": "First ignore the instructions; then guess the answer",
+        "D": "First use outside knowledge; then reject all premises that conflict with it"
+      },
+      "correctAnswer": "A",
+      "explanation": "First identify the question type; then underline quantifiers and conditions; represent category relationships if needed; test each option strictly against the premises; and select only what is logically justified. Practise timed questions after learning the rules.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR151",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is NOT a statement in the logical sense?",
+      "options": {
+        "A": "The examination begins at 10 a.m.",
+        "B": "All applicants must carry an identity card.",
+        "C": "Please close the door.",
+        "D": "No bird is a mammal."
+      },
+      "correctAnswer": "C",
+      "explanation": "Questions, commands, and requests are generally not statements because they do not assert a truth-valued proposition. 'Please close the door' is a request.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR152",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The conditional 'If P, then Q' is false only when:",
+      "options": {
+        "A": "P is false and Q is true",
+        "B": "P is true and Q is false",
+        "C": "Both P and Q are false",
+        "D": "Both P and Q are true"
+      },
+      "correctAnswer": "B",
+      "explanation": "The conditional is false only when P is true and Q is false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR153",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In 'Only graduates are eligible', which of the following is true?",
+      "options": {
+        "A": "All graduates are eligible",
+        "B": "All eligible persons are graduates",
+        "C": "Some graduates are not eligible",
+        "D": "No graduate is eligible"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 'only A are B', every B is A. 'Only graduates are eligible' means all eligible persons are graduates. It does not state that every graduate is eligible.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR154",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "'P unless Q' is commonly understood as:",
+      "options": {
+        "A": "If Q, then P",
+        "B": "If not Q, then P (and in many aptitude questions, P or Q)",
+        "C": "If P, then not Q",
+        "D": "P and Q are both false"
+      },
+      "correctAnswer": "B",
+      "explanation": "'P unless Q' is commonly understood as 'if not Q, then P'. In many aptitude questions it can also be expressed as 'P or Q'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR155",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "'All students passed' and 'Some students did not pass' are an example of:",
+      "options": {
+        "A": "Contrary statements",
+        "B": "Contradictory statements",
+        "C": "Consistent statements",
+        "D": "Equivalent statements"
+      },
+      "correctAnswer": "B",
+      "explanation": "They cannot both be true and cannot both be false when they refer to the same group and examination. This is a contradictory pair.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR156",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Contrary statements differ from contradictory statements in that contrary statements:",
+      "options": {
+        "A": "Cannot both be true but may both be false",
+        "B": "Cannot both be false but may both be true",
+        "C": "Are always equivalent",
+        "D": "Are always consistent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Contrary statements cannot both be true, but they may both be false. Contradictory statements cannot both be true or both be false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR157",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The negation test for a necessary assumption involves:",
+      "options": {
+        "A": "Temporarily denying the proposed assumption and checking whether the argument collapses",
+        "B": "Checking whether the assumption is explicitly stated",
+        "C": "Counting how many people believe the assumption",
+        "D": "Replacing the assumption with its conclusion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Use the negation test: temporarily deny the proposed assumption. If the argument collapses or loses its essential support, the assumption is likely necessary.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+        {
+      "id": "LR158",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An assumption in an argument:",
+      "options": {
+        "A": "Must be universally true in reality to be valid",
+        "B": "Only needs to be a premise taken for granted within the particular argument and may be questionable in reality",
+        "C": "Is always explicitly stated in the passage",
+        "D": "Is the same as the conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An assumption does not have to be universally true. It only needs to be a premise taken for granted within the particular argument. It may be questionable in reality, but the question asks whether the argument relies on it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR159",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of an ad hominem argument?",
+      "options": {
+        "A": "The proposal is bad because it will increase costs",
+        "B": "The proposal is bad because its supporter is dishonest",
+        "C": "The proposal is bad because it violates the principle of fairness",
+        "D": "The proposal is bad because it cannot be implemented with available resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ad hominem argument attacks the person making a claim instead of addressing the claim or evidence. It is generally a weak form of reasoning.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR160",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of a false dilemma?",
+      "options": {
+        "A": "Either we ban all cars or the environment will be destroyed",
+        "B": "We should improve public transport because it reduces congestion",
+        "C": "The policy is feasible because resources are available",
+        "D": "The policy is fair because it treats all citizens equally"
+      },
+      "correctAnswer": "A",
+      "explanation": "A false dilemma presents only two choices when additional reasonable alternatives may exist. 'Either we ban all cars or the environment will be destroyed' ignores other alternatives.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR161",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of a hasty generalisation?",
+      "options": {
+        "A": "All four students I met from that school are bright; therefore, all students in that school are bright",
+        "B": "The policy is feasible because resources are available",
+        "C": "The argument is strong because it directly addresses the issue",
+        "D": "The measure is justified because it protects public health"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hasty generalisation draws a broad conclusion from too few or unrepresentative examples.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR162",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of a circular argument?",
+      "options": {
+        "A": "The book is reliable because it is trustworthy",
+        "B": "The book is reliable because it was published by a reputable press",
+        "C": "The book is reliable because experts reviewed it",
+        "D": "The book is reliable because it cites primary sources"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circular argument uses the conclusion itself, or a restatement of it, as support instead of providing independent evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR163",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of a slippery-slope argument?",
+      "options": {
+        "A": "If we allow students to use calculators, soon they will forget all basic arithmetic and education will collapse",
+        "B": "If we allow calculators, students may complete calculations faster",
+        "C": "Calculators are useful tools for complex calculations",
+        "D": "Calculators should be permitted because they are widely available"
+      },
+      "correctAnswer": "A",
+      "explanation": "A slippery-slope argument claims that one step will inevitably lead to a chain of extreme consequences without adequately establishing the causal links.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR164",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which type of argument supports or opposes an action by explaining its likely benefits, harms, costs, or wider effects?",
+      "options": {
+        "A": "Argument from feasibility",
+        "B": "Argument from consequences",
+        "C": "Argument from principle",
+        "D": "Ad hominem argument"
+      },
+      "correctAnswer": "B",
+      "explanation": "An argument from consequences supports or opposes an action by explaining its likely benefits, harms, costs, or wider effects.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR165",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An argument that evaluates whether a proposal can practically be implemented, considering resources, time, infrastructure, authority, and operational constraints, is called:",
+      "options": {
+        "A": "Argument from consequences",
+        "B": "Argument from principle",
+        "C": "Argument from feasibility",
+        "D": "Circular argument"
+      },
+      "correctAnswer": "C",
+      "explanation": "An argument from feasibility evaluates whether a proposal can practically be implemented, considering resources, time, infrastructure, authority, and operational constraints.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR166",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An argument that refers to a rule, right, duty, fairness, equality, or other normative principle is called:",
+      "options": {
+        "A": "Argument from feasibility",
+        "B": "Argument from consequences",
+        "C": "Argument from principle",
+        "D": "Hasty generalisation"
+      },
+      "correctAnswer": "C",
+      "explanation": "An argument from principle supports or opposes an action by referring to a rule, right, duty, fairness, equality, or other normative principle.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR167",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In standard passage-based reasoning, which of the following is the best approach?",
+      "options": {
+        "A": "Use the passage as primary evidence and avoid outside facts unless explicitly required",
+        "B": "Use outside knowledge as the primary evidence",
+        "C": "Ignore the passage and rely on general knowledge",
+        "D": "Use only personal experience"
+      },
+      "correctAnswer": "A",
+      "explanation": "In standard passage-based reasoning, use the passage as the primary evidence and avoid outside facts unless the question explicitly requires general knowledge.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR168",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about extreme words such as 'always', 'never', 'all', and 'only' in inference questions?",
+      "options": {
+        "A": "They always make the option correct",
+        "B": "They are automatically wrong and should be rejected",
+        "C": "They require evidence strong enough to justify an absolute claim; a passage describing a few cases usually cannot support such a conclusion",
+        "D": "They have no effect on the validity of an inference"
+      },
+      "correctAnswer": "C",
+      "explanation": "These words make strong or absolute claims. A passage that describes a few cases usually cannot support an absolute conclusion. They are not automatically wrong, but they require strong evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR169",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of a confounding factor?",
+      "options": {
+        "A": "Ice cream sales and drowning incidents both increase in summer because hot weather increases both",
+        "B": "Heavy rain causes rivers to rise",
+        "C": "A flood damages houses and roads",
+        "D": "A factory releases wastewater, causing fish deaths"
+      },
+      "correctAnswer": "A",
+      "explanation": "A confounding factor is a third variable (hot weather) that influences both variables being studied (ice cream sales and drowning incidents) and can create or distort an apparent relationship between them.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR170",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following illustrates reverse causation?",
+      "options": {
+        "A": "Assuming that watching violent TV causes aggression, when in fact aggressive children may prefer violent TV",
+        "B": "Heavy rain causes flooding",
+        "C": "A flood damages crops and roads",
+        "D": "Poor soil and pests cause crop loss"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reverse causation occurs when the assumed direction of cause and effect is reversed: the supposed effect may actually influence the supposed cause.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR171",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an example of positive feedback?",
+      "options": {
+        "A": "A change that amplifies itself, such as more ice melting leading to more heat absorption and further melting",
+        "B": "A change that stabilises the system",
+        "C": "A change that reduces the initial cause",
+        "D": "A change that has no effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Positive feedback amplifies a change, while negative feedback tends to reduce or stabilise it.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR172",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following illustrates negative feedback?",
+      "options": {
+        "A": "A thermostat turning off the heater when the room reaches the desired temperature",
+        "B": "More ice melting leading to more heat absorption",
+        "C": "A flood damaging more houses",
+        "D": "A factory releasing more wastewater, causing more fish deaths"
+      },
+      "correctAnswer": "A",
+      "explanation": "Negative feedback tends to reduce or stabilise a change. A thermostat turning off the heater stabilises the temperature.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR173",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is the contrapositive of 'If the application is complete, it will be processed'?",
+      "options": {
+        "A": "If the application is processed, it is complete",
+        "B": "If the application is not processed, it is not complete",
+        "C": "If the application is not complete, it will not be processed",
+        "D": "If the application is processed, it is not complete"
+      },
+      "correctAnswer": "B",
+      "explanation": "The contrapositive of 'If P, then Q' is 'If not Q, then not P'. Here, 'If the application is not processed, then it is not complete'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR174",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The inverse of 'If P, then Q' is:",
+      "options": {
+        "A": "If Q, then P",
+        "B": "If not P, then not Q",
+        "C": "If not Q, then not P",
+        "D": "If P, then not Q"
+      },
+      "correctAnswer": "B",
+      "explanation": "The inverse is 'If not P, then not Q'. It is not generally equivalent to the original, although it is equivalent to the converse.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR175",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "'If P then Q; Q; therefore P' is an example of:",
+      "options": {
+        "A": "Valid modus ponens",
+        "B": "Valid modus tollens",
+        "C": "The fallacy of affirming the consequent",
+        "D": "The fallacy of denying the antecedent"
+      },
+      "correctAnswer": "C",
+      "explanation": "This is the invalid form of affirming the consequent. Q may have occurred for another reason.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR176",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "'If P then Q; not P; therefore not Q' is an example of:",
+      "options": {
+        "A": "Valid modus ponens",
+        "B": "Valid modus tollens",
+        "C": "The fallacy of affirming the consequent",
+        "D": "The fallacy of denying the antecedent"
+      },
+      "correctAnswer": "D",
+      "explanation": "This is the invalid form of denying the antecedent. Q may still occur for another reason.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR177",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "'If P then Q; not Q; therefore not P' is an example of:",
+      "options": {
+        "A": "Valid modus tollens (contrapositive reasoning)",
+        "B": "Invalid affirming the consequent",
+        "C": "Invalid denying the antecedent",
+        "D": "A circular argument"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is valid modus tollens, which follows the contrapositive. 'If P then Q' is equivalent to 'If not Q then not P'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR178",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about a contradiction?",
+      "options": {
+        "A": "It occurs when a proposition and its negation are both asserted, or when a set of claims cannot all be true together",
+        "B": "It occurs when two propositions are logically equivalent",
+        "C": "It occurs when a proposition is true",
+        "D": "It occurs when an argument is strong"
+      },
+      "correctAnswer": "A",
+      "explanation": "A contradiction occurs when a proposition and its negation are both asserted, or when a set of claims cannot all be true together.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR179",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Two propositions are logically equivalent when:",
+      "options": {
+        "A": "They have the same truth value under every possible assignment of truth values",
+        "B": "They sometimes have the same truth value",
+        "C": "They can never both be true",
+        "D": "They are both false in every case"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two propositions are logically equivalent when they have the same truth value under every possible assignment of truth values.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR180",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which statement correctly distinguishes the converse, inverse, and contrapositive of 'If P, then Q'?",
+      "options": {
+        "A": "Converse: If Q then P; Inverse: If not P then not Q; Contrapositive: If not Q then not P",
+        "B": "Converse: If not Q then not P; Inverse: If Q then P; Contrapositive: If not P then not Q",
+        "C": "Converse: If not P then not Q; Inverse: If not Q then not P; Contrapositive: If Q then P",
+        "D": "All three are logically equivalent to the original"
+      },
+      "correctAnswer": "A",
+      "explanation": "The converse is 'If Q then P'; the inverse is 'If not P then not Q'; the contrapositive is 'If not Q then not P'. Only the contrapositive is logically equivalent to the original.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR181",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly describes the relationship between 'All A are B' and 'All B are A'?",
+      "options": {
+        "A": "They are logically equivalent",
+        "B": "'All A are B' does not imply 'All B are A'; the conversion is invalid",
+        "C": "'All B are A' implies 'All A are B'",
+        "D": "Both statements are always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "From 'All A are B', one can conclude that all A lie within B, but not that B lies entirely within A. The conversion is invalid.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR182",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which conversions are valid according to the notes?",
+      "options": {
+        "A": "'No A is B' to 'No B is A' and 'Some A are B' to 'Some B are A'",
+        "B": "'All A are B' to 'All B are A' and 'Some A are not B' to 'Some B are not A'",
+        "C": "'All A are B' to 'All B are A' only",
+        "D": "No conversions are valid in logic"
+      },
+      "correctAnswer": "A",
+      "explanation": "'No A is B' can be converted to 'No B is A' because the groups are mutually exclusive. 'Some A are B' can be converted to 'Some B are A' because the same overlapping members belong to both groups.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR183",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under what condition should an either-or conclusion be selected?",
+      "options": {
+        "A": "Whenever two conclusions appear different",
+        "B": "When two alternatives are mutually exclusive and collectively exhaustive under the question's logical conditions",
+        "C": "Whenever the conclusion sounds reasonable",
+        "D": "Whenever the conclusion is popular"
+      },
+      "correctAnswer": "B",
+      "explanation": "An either-or conclusion is used when two alternatives are mutually exclusive and collectively exhaustive under the question's logical conditions. It should not be selected merely because two conclusions appear different.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR184",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which statement best describes a possibility conclusion?",
+      "options": {
+        "A": "It must be true in every arrangement",
+        "B": "It can be true without contradicting the premises; possibility is weaker than certainty",
+        "C": "It contradicts the premises",
+        "D": "It is always false"
+      },
+      "correctAnswer": "B",
+      "explanation": "A possibility conclusion is one that can be true without contradicting the premises. Possibility is weaker than certainty: a possible conclusion need not be true in every arrangement.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR185",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In syllogism questions, 'Some A are B' does NOT necessarily mean:",
+      "options": {
+        "A": "At least one A is also B",
+        "B": "Some B are A",
+        "C": "All A are B",
+        "D": "There is an overlap between A and B"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Some A are B' means at least one A is also B. It does not mean 'all A are B', and it does not necessarily mean 'some A are not B'.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR186",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An argument can be valid in structure even when:",
+      "options": {
+        "A": "One or more premises are factually false",
+        "B": "The conclusion is true",
+        "C": "All premises are true",
+        "D": "The reasoning is invalid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Truth concerns whether a statement matches reality. Validity concerns whether a conclusion follows logically from its premises. An argument can be valid in structure even when one or more premises are factually false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR187",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly distinguishes deduction from induction?",
+      "options": {
+        "A": "Deduction gives probable conclusions; induction gives guaranteed conclusions",
+        "B": "Deduction gives conclusions that must follow if premises are true; induction gives probable conclusions that are not guaranteed",
+        "C": "Both give guaranteed conclusions",
+        "D": "Both give only probable conclusions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deduction aims at a conclusion that must follow if the premises are true and the reasoning is valid. Induction uses observations or examples to support a probable conclusion, but the conclusion is not guaranteed.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR188",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Foundations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In statement-based reasoning questions, what should a candidate do if a premise conflicts with everyday experience?",
+      "options": {
+        "A": "Reject the premise immediately",
+        "B": "Treat the supplied information as the basis of the answer and not reject the premise merely because it conflicts with everyday experience",
+        "C": "Replace the premise with personal knowledge",
+        "D": "Ignore the question"
+      },
+      "correctAnswer": "B",
+      "explanation": "Treat the information supplied in the question as the basis of the answer. Do not reject a premise merely because it conflicts with everyday experience, and do not introduce outside information unless the question expressly asks for factual knowledge.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR189",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is a hidden assumption connecting evidence to a conclusion?",
+      "options": {
+        "A": "The reliability of the information used as evidence",
+        "B": "The length of the argument",
+        "C": "The popularity of the conclusion",
+        "D": "The emotional tone of the argument"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hidden assumption is an unstated belief connecting the evidence to the conclusion. It may concern the reliability of information, the relevance of evidence, or the expected effect of an action.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR190",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "When evaluating strong and weak arguments, which of the following should be ignored?",
+      "options": {
+        "A": "Whether the argument addresses the exact issue",
+        "B": "Whether the premise is credible",
+        "C": "Emotional language and unrelated details",
+        "D": "Whether the conclusion follows"
+      },
+      "correctAnswer": "C",
+      "explanation": "Check whether each argument addresses the exact issue, whether its reason is significant, whether the premise is credible, and whether the conclusion follows. Ignore emotional language and unrelated details.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR191",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about statistics in arguments?",
+      "options": {
+        "A": "Any statistic makes an argument strong",
+        "B": "Statistics must be relevant, reliable, correctly interpreted, and sufficiently connected to the conclusion",
+        "C": "Statistics are always irrelevant",
+        "D": "Statistics are only useful in mathematics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statistics must be relevant, reliable, correctly interpreted, and sufficiently connected to the conclusion. Using statistics alone does not make an argument strong.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR192",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes a factual inference?",
+      "options": {
+        "A": "A conclusion supported by the facts or data supplied, not going beyond what those facts reasonably establish",
+        "B": "A conclusion based on personal opinion",
+        "C": "A conclusion that adds outside knowledge",
+        "D": "A guess without evidence"
+      },
+      "correctAnswer": "A",
+      "explanation": "A factual inference is a conclusion supported by the facts or data supplied. It must not go beyond what those facts reasonably establish.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR193",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An implied idea in a passage is:",
+      "options": {
+        "A": "Directly stated in the passage",
+        "B": "Not directly stated but reasonably suggested by the wording, context, or relationship between the supplied facts",
+        "C": "Unrelated to the passage",
+        "D": "Contradicted by the passage"
+      },
+      "correctAnswer": "B",
+      "explanation": "An implied idea is not directly stated but is reasonably suggested by the wording, context, or relationship between the supplied facts.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR194",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about the relationship between temporal order and causation?",
+      "options": {
+        "A": "Temporal order is necessary for many causal relationships but is not sufficient to prove causation",
+        "B": "Temporal order always proves causation",
+        "C": "Temporal order is irrelevant to causation",
+        "D": "Causation always occurs without temporal order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Temporal order is necessary for many causal relationships, but it is not sufficient to prove causation.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR195",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In 'P if Q', which condition is sufficient and which is necessary?",
+      "options": {
+        "A": "Q is sufficient for P; P is necessary for Q",
+        "B": "P is sufficient for Q; Q is necessary for P",
+        "C": "Both P and Q are necessary",
+        "D": "Neither P nor Q is sufficient"
+      },
+      "correctAnswer": "A",
+      "explanation": "In 'P if Q', Q is sufficient for P, written Q → P. In 'P only if Q', Q is necessary for P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR196",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In 'P only if Q', which condition is necessary and which is sufficient?",
+      "options": {
+        "A": "Q is necessary for P; Q does not alone guarantee P",
+        "B": "P is necessary for Q; P guarantees Q",
+        "C": "Both P and Q are sufficient",
+        "D": "Neither P nor Q is necessary"
+      },
+      "correctAnswer": "A",
+      "explanation": "'P only if Q' means Q is necessary for P. It does not mean that Q alone guarantees P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+        {
+      "id": "LR198",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly represents 'P only if Q'?",
+      "options": {
+        "A": "Q → P",
+        "B": "P → Q",
+        "C": "P ↔ Q",
+        "D": "¬P → Q"
+      },
+      "correctAnswer": "B",
+      "explanation": "'P only if Q' means Q is necessary for P and is written P → Q.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR199",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly represents 'P if Q'?",
+      "options": {
+        "A": "P → Q",
+        "B": "Q → P",
+        "C": "P ↔ Q",
+        "D": "¬Q → P"
+      },
+      "correctAnswer": "B",
+      "explanation": "'P if Q' means Q is sufficient for P and is written Q → P.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR200",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly represents 'P if and only if Q'?",
+      "options": {
+        "A": "P → Q only",
+        "B": "Q → P only",
+        "C": "P → Q and Q → P",
+        "D": "Neither P → Q nor Q → P"
+      },
+      "correctAnswer": "C",
+      "explanation": "'P if and only if Q' means P and Q imply each other: P → Q and Q → P. Both are necessary and sufficient for one another.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR201",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is a particular statement?",
+      "options": {
+        "A": "All applicants must carry an identity card",
+        "B": "Every student passed the examination",
+        "C": "Some students passed the examination",
+        "D": "Each member must pay the fee"
+      },
+      "correctAnswer": "C",
+      "explanation": "A particular statement makes a claim about at least one or some members of a group. 'Some students passed the examination' is a particular statement.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR202",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is a universal statement?",
+      "options": {
+        "A": "Some applicants were selected",
+        "B": "A few students failed",
+        "C": "Every candidate must submit the form",
+        "D": "At least one member attended"
+      },
+      "correctAnswer": "C",
+      "explanation": "A universal statement makes a claim about every member of a group. 'Every candidate must submit the form' is a universal statement.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR203",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following statements is consistent?",
+      "options": {
+        "A": "All students passed and some students did not pass (same group and examination)",
+        "B": "No bird is a mammal and all sparrows are birds",
+        "C": "All A are B and no A is B",
+        "D": "P is true and not P is true"
+      },
+      "correctAnswer": "B",
+      "explanation": "A set of statements is consistent if all of them can be true together without creating a logical contradiction. 'No bird is a mammal' and 'all sparrows are birds' can both be true.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR204",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Statements",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following pairs of statements is contradictory?",
+      "options": {
+        "A": "'All students passed' and 'Some students did not pass' (same group and examination)",
+        "B": "'All students passed' and 'All students failed'",
+        "C": "'Some students passed' and 'Some students failed'",
+        "D": "'No student passed' and 'No student failed'"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two statements are contradictory when they cannot both be true and cannot both be false. 'All students passed' and 'Some students did not pass' are contradictory when they refer to the same group and examination.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR205",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is an indirect conclusion?",
+      "options": {
+        "A": "A conclusion that follows immediately from a single statement",
+        "B": "A conclusion reached by combining two or more premises through a chain of valid reasoning",
+        "C": "A conclusion that requires outside knowledge",
+        "D": "A conclusion that contradicts the premises"
+      },
+      "correctAnswer": "B",
+      "explanation": "An indirect conclusion is reached by combining two or more premises through a chain of valid reasoning.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR206",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In a syllogism, Venn diagrams are primarily used to:",
+      "options": {
+        "A": "Represent categories as circles and show inclusion, exclusion, and overlap to test whether a conclusion is certain, impossible, or only possible",
+        "B": "Calculate numerical answers",
+        "C": "Prove causation",
+        "D": "Measure the strength of an argument"
+      },
+      "correctAnswer": "A",
+      "explanation": "Venn diagrams represent categories as circles. They help show inclusion, exclusion, and overlap between groups and make it easier to test whether a proposed conclusion is certain, impossible, or only possible.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR207",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "From 'All A are B', which of the following necessarily follows?",
+      "options": {
+        "A": "All B are A",
+        "B": "Every A is inside B",
+        "C": "Some A are not B",
+        "D": "No A is B"
+      },
+      "correctAnswer": "B",
+      "explanation": "From 'All A are B', every A is inside B. It does not establish that every B is A, and it does not establish that any A exists unless existence is separately given.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR208",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Conclusions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "From 'No A is B', which of the following follows?",
+      "options": {
+        "A": "All A are B",
+        "B": "If something is A, it cannot be B, and vice versa",
+        "C": "Some A are B",
+        "D": "All B are A"
+      },
+      "correctAnswer": "B",
+      "explanation": "From 'No A is B', A and B have no overlap. Therefore, if something is A, it cannot be B, and vice versa.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR209",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about an explicit assumption?",
+      "options": {
+        "A": "It is stated openly rather than left unstated",
+        "B": "It is always hidden",
+        "C": "It is the conclusion of the argument",
+        "D": "It is a fact presented as established information"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strictly speaking, an explicit assumption is stated openly rather than left unstated. In many aptitude questions, the task is to distinguish what is stated from what is implicitly taken for granted.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR210",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Assumptions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A necessary assumption is one that:",
+      "options": {
+        "A": "Must be true for the argument or recommendation to work as intended",
+        "B": "Is always explicitly stated",
+        "C": "Is universally true in reality",
+        "D": "Is the same as the conclusion"
+      },
+      "correctAnswer": "A",
+      "explanation": "A necessary assumption is an unstated condition that must be true for the argument or recommendation to work as intended.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR211",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following makes an argument weak?",
+      "options": {
+        "A": "It is relevant and supported by credible reasons",
+        "B": "It is irrelevant, unsupported, vague, based on an incorrect assumption, emotionally manipulative, or insufficient to support the conclusion",
+        "C": "It directly addresses the issue",
+        "D": "It provides significant evidence"
+      },
+      "correctAnswer": "B",
+      "explanation": "A weak argument is irrelevant, unsupported, vague, based on an incorrect assumption, emotionally manipulative, or insufficient to support the conclusion.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR212",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes a fact-based argument?",
+      "options": {
+        "A": "It relies on verifiable information, evidence, data, or established conditions rather than merely personal preference",
+        "B": "It relies on personal judgment",
+        "C": "It relies on emotional appeals",
+        "D": "It attacks the person making the claim"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fact-based argument relies on verifiable information, evidence, data, or established conditions rather than merely personal preference.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR213",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Arguments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An opinion-based argument:",
+      "options": {
+        "A": "Can still be relevant but by itself may provide weaker support than reliable evidence",
+        "B": "Is always irrelevant",
+        "C": "Is always stronger than a fact-based argument",
+        "D": "Cannot be evaluated at all"
+      },
+      "correctAnswer": "A",
+      "explanation": "An opinion-based argument expresses a personal judgment or preference. An opinion can still be relevant, but by itself it may provide weaker support than reliable evidence.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR214",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following distinguishes a certain inference from a probable inference?",
+      "options": {
+        "A": "A certain inference must follow from the premises; a probable inference is supported by the evidence but could be false",
+        "B": "A certain inference could be false; a probable inference must follow from the premises",
+        "C": "Both are guaranteed to be true",
+        "D": "Both are guaranteed to be false"
+      },
+      "correctAnswer": "A",
+      "explanation": "A certain inference must follow from the premises. A probable inference is supported by the evidence but could be false.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR215",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about correlation and causation?",
+      "options": {
+        "A": "Correlation means two variables vary together; it does not by itself prove that one causes the other",
+        "B": "Correlation always proves causation",
+        "C": "Causation never requires evidence",
+        "D": "Correlation and causation are identical"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correlation means two variables vary together. It does not by itself prove that one causes the other. A causal inference requires additional evidence about timing, mechanism, alternative explanations, and confounding factors.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR216",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly describes the relationship between a necessary condition and an outcome?",
+      "options": {
+        "A": "If the necessary condition is absent, the outcome cannot occur under the stated conditions",
+        "B": "If the necessary condition is present, the outcome must occur",
+        "C": "The necessary condition guarantees the outcome",
+        "D": "The necessary condition is unrelated to the outcome"
+      },
+      "correctAnswer": "A",
+      "explanation": "A necessary condition is something that must be present for an outcome to occur. If it is absent, the outcome cannot occur under the stated conditions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR217",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following correctly describes a sufficient condition?",
+      "options": {
+        "A": "It is enough to guarantee an outcome under the stated logical rules, although the outcome may also occur for other reasons",
+        "B": "It must be present for the outcome to occur",
+        "C": "It prevents the outcome from occurring",
+        "D": "It is unrelated to the outcome"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sufficient condition is enough to guarantee an outcome under the stated logical rules, although the outcome may also occur for other reasons.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR218",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about a remote cause?",
+      "options": {
+        "A": "It is an earlier or more distant factor that contributes to the effect through intervening conditions",
+        "B": "It is the factor closest in time to the effect",
+        "C": "It has an immediate causal connection with the effect",
+        "D": "It is a third variable that distorts a relationship"
+      },
+      "correctAnswer": "A",
+      "explanation": "A remote cause is an earlier or more distant factor that contributes to the effect through intervening conditions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR219",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about an indirect cause?",
+      "options": {
+        "A": "It influences an outcome through one or more intermediate factors",
+        "B": "It has an immediate causal connection with the effect",
+        "C": "It is the factor closest in time to the effect",
+        "D": "It is a third variable that influences both variables"
+      },
+      "correctAnswer": "A",
+      "explanation": "An indirect cause influences an outcome through one or more intermediate factors.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR220",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about an immediate cause?",
+      "options": {
+        "A": "It is the factor closest in time or causal sequence to the observed effect",
+        "B": "It is an earlier factor contributing through intervening conditions",
+        "C": "It influences through multiple intermediate factors",
+        "D": "It is a third variable that creates an apparent relationship"
+      },
+      "correctAnswer": "A",
+      "explanation": "An immediate cause is the factor closest in time or causal sequence to the observed effect.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR221",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is true about a direct cause?",
+      "options": {
+        "A": "It has an immediate causal connection with the effect, without a substantial chain of intermediate events",
+        "B": "It influences an outcome through multiple intermediate factors",
+        "C": "It is an earlier or more distant factor",
+        "D": "It is a third variable that influences both variables"
+      },
+      "correctAnswer": "A",
+      "explanation": "A direct cause has an immediate causal connection with the effect, without a substantial chain of intermediate events.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR222",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes an effect?",
+      "options": {
+        "A": "An outcome or consequence produced or influenced by one or more causes",
+        "B": "A factor that brings about an outcome",
+        "C": "An unstated idea taken for granted",
+        "D": "A statement that is always false"
+      },
+      "correctAnswer": "A",
+      "explanation": "An effect is an outcome or consequence produced or influenced by one or more causes.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR223",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes a cause?",
+      "options": {
+        "A": "A factor or event that brings about or contributes to an outcome",
+        "B": "An outcome produced by one or more factors",
+        "C": "A conclusion drawn from evidence",
+        "D": "An assumption taken for granted"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cause is a factor or event that brings about or contributes to an outcome.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR224",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Cause and Effect",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes a cause-and-effect relationship?",
+      "options": {
+        "A": "A relationship that exists when one event or condition produces, contributes to, or helps explain another event or condition",
+        "B": "A relationship in which two events occur at the same time without any connection",
+        "C": "A relationship in which two events are unrelated",
+        "D": "A relationship based only on sequence in time"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cause-and-effect relationship exists when one event or condition produces, contributes to, or helps explain another event or condition.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR225",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes a truth table?",
+      "options": {
+        "A": "A table that lists all possible truth-value combinations of propositions and shows the truth value of a compound statement for each combination",
+        "B": "A table of mathematical values",
+        "C": "A table that lists only true statements",
+        "D": "A table that lists assumptions"
+      },
+      "correctAnswer": "A",
+      "explanation": "A truth table lists all possible truth-value combinations of propositions and shows the truth value of a compound statement for each combination.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR226",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is NOT logically equivalent to 'If P, then Q'?",
+      "options": {
+        "A": "If not Q, then not P",
+        "B": "If Q, then P",
+        "C": "The contrapositive of 'If P, then Q'",
+        "D": "Not Q implies not P"
+      },
+      "correctAnswer": "B",
+      "explanation": "'If Q, then P' is the converse, which is not generally equivalent to the original. The contrapositive 'If not Q, then not P' is equivalent.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR227",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is logically equivalent to 'If P, then Q'?",
+      "options": {
+        "A": "If Q, then P",
+        "B": "If not P, then not Q",
+        "C": "If not Q, then not P",
+        "D": "P and not Q"
+      },
+      "correctAnswer": "C",
+      "explanation": "The contrapositive 'If not Q, then not P' is logically equivalent to the original conditional.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR228",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following best describes the safest method when two options appear correct?",
+      "options": {
+        "A": "Select the longer option",
+        "B": "Compare each option with the exact wording of the premises and prefer the option that is fully supported and introduces the fewest unstated assumptions",
+        "C": "Select the option that sounds more reasonable in everyday life",
+        "D": "Select the first option"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compare each option with the exact wording of the premises. Prefer the option that is fully supported and introduces the fewest unstated assumptions.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR229",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is the best first step in a statement-based question?",
+      "options": {
+        "A": "Read the instruction and identify whether the task asks for what definitely follows, what is assumed, which argument is strong, what can be inferred, or which event causes another",
+        "B": "Select the longest option",
+        "C": "Guess the answer based on personal experience",
+        "D": "Skip the instructions and read only the options"
+      },
+      "correctAnswer": "A",
+      "explanation": "Read the instruction and identify whether the task asks for what definitely follows, what is assumed, which argument is strong, what can be inferred, or which event causes another.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    },
+    {
+      "id": "LR230",
+      "subject": "Mental Ability",
+      "topic": "Logical Reasoning",
+      "chapter": "Connected Reasoning Tools",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Should a candidate use personal opinions in logical reasoning questions?",
+      "options": {
+        "A": "Yes, personal opinion is the basis of logical validity",
+        "B": "No, apply the rules of reasoning and the information given; personal agreement or disagreement is not the test of logical validity",
+        "C": "Yes, if the opinion is widely shared",
+        "D": "No, but only for inference questions"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Apply the rules of reasoning and the information given. Personal agreement or disagreement is not the test of logical validity.",
+      "source": "FDA_SDA_Mental_Ability_15_1_Logical_Reasoning_Notes.pdf"
+    }
+  ]
+}

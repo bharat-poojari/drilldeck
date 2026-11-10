@@ -1,0 +1,1807 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Environmental Laws & Institutions — comprehensive question bank derived from FDA/SDA competitive examination notes (legal position checked to November 2026). Every point from the source PDF is covered exactly once.",
+  "questions": [
+    {
+      "id": "E001",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the term 'environment' include under environmental law?",
+      "options": {
+        "A": "Only air and water",
+        "B": "Water, air and land and the interrelationship among and between them and human beings, other living creatures, plants, micro-organisms and property",
+        "C": "Only forests and wildlife",
+        "D": "Only land and property"
+      },
+      "correctAnswer": "B",
+      "explanation": "The environment includes water, air and land and the interrelationship that exists among and between water, air, land, human beings, other living creatures, plants, micro-organisms and property.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E002",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is environmental protection?",
+      "options": {
+        "A": "Only punishment of polluters",
+        "B": "Prevention, reduction and control of environmental damage and conservation and improvement of air, water, land, ecosystems and biodiversity",
+        "C": "Only planting trees",
+        "D": "Only closing industries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental protection means the prevention, reduction and control of environmental damage and the conservation and improvement of air, water, land, ecosystems and biodiversity.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E003",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sustainable development?",
+      "options": {
+        "A": "Development at any cost",
+        "B": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs",
+        "C": "Only economic growth",
+        "D": "Only environmental conservation without development"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E004",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which report popularised the modern definition of sustainable development?",
+      "options": {
+        "A": "Stockholm Report",
+        "B": "Our Common Future (Brundtland Report), 1987",
+        "C": "Rio Declaration",
+        "D": "Kyoto Protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Our Common Future, also known as the Brundtland Report, published in 1987 by the World Commission on Environment and Development, popularised the modern definition of sustainable development.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E005",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three pillars of sustainable development?",
+      "options": {
+        "A": "Air, water and land",
+        "B": "Economic development, social inclusion and environmental protection",
+        "C": "Forests, wildlife and rivers",
+        "D": "Legislature, executive and judiciary"
+      },
+      "correctAnswer": "B",
+      "explanation": "The three pillars of sustainable development are economic development, social inclusion and environmental protection.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E006",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which constitutional provision directs the State to protect and improve the environment?",
+      "options": {
+        "A": "Article 21",
+        "B": "Article 48A",
+        "C": "Article 51A(g)",
+        "D": "Article 32"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 48A, a Directive Principle of State Policy, directs the State to protect and improve the environment. It was inserted by the 42nd Constitutional Amendment Act, 1976.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E007",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which fundamental duty concerns environmental protection?",
+      "options": {
+        "A": "Article 51A(a)",
+        "B": "Article 51A(g)",
+        "C": "Article 48A",
+        "D": "Article 21"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 51A(g) requires every citizen to protect and improve the natural environment, including forests, lakes, rivers and wildlife, and to have compassion for living creatures.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E008",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which constitutional amendment inserted Articles 48A and 51A(g)?",
+      "options": {
+        "A": "42nd Constitutional Amendment Act, 1976",
+        "B": "44th Constitutional Amendment Act, 1978",
+        "C": "52nd Constitutional Amendment Act, 1985",
+        "D": "73rd Constitutional Amendment Act, 1992"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 42nd Constitutional Amendment Act, 1976 inserted Article 48A and Article 51A(g).",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E009",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which constitutional article provides the right to life and has been interpreted to include aspects of a clean and healthy environment?",
+      "options": {
+        "A": "Article 14",
+        "B": "Article 19",
+        "C": "Article 21",
+        "D": "Article 32"
+      },
+      "correctAnswer": "C",
+      "explanation": "Article 21 provides the right to life and has been interpreted to include aspects of a clean and healthy environment.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E010",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which constitutional writ jurisdiction can be used in environmental matters?",
+      "options": {
+        "A": "Article 32 in the Supreme Court and Article 226 in High Courts",
+        "B": "Article 226 in the Supreme Court and Article 32 in High Courts",
+        "C": "Article 136 only",
+        "D": "Article 143 only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Supreme Court may act under Article 32 and High Courts under Article 226, subject to the requirements of the case.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E011",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the public trust doctrine?",
+      "options": {
+        "A": "The State owns all natural resources absolutely",
+        "B": "The principle that the State holds certain natural resources in trust for public use and must protect them for the public, subject to law",
+        "C": "Private ownership of all natural resources",
+        "D": "The principle that citizens can use resources without any restriction"
+      },
+      "correctAnswer": "B",
+      "explanation": "The public trust doctrine is the principle that the State holds certain natural resources in trust for public use and must protect them for the public, subject to law.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E012",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the polluter-pays principle?",
+      "options": {
+        "A": "The government pays for all pollution",
+        "B": "The polluter should bear the costs of preventing, controlling and remedying pollution, including environmental restoration where legally required",
+        "C": "Citizens pay for pollution",
+        "D": "Pollution is free of cost"
+      },
+      "correctAnswer": "B",
+      "explanation": "The polluter-pays principle means the polluter should bear the costs of preventing, controlling and remedying pollution, including environmental restoration where legally required.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E013",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the precautionary principle?",
+      "options": {
+        "A": "Wait for complete scientific proof before taking action",
+        "B": "Where there is a threat of serious or irreversible environmental harm, lack of complete scientific certainty should not be used to postpone appropriate preventive measures",
+        "C": "Prevention is not necessary",
+        "D": "Only cure after damage is sufficient"
+      },
+      "correctAnswer": "B",
+      "explanation": "The precautionary principle states that where there is a threat of serious or irreversible environmental harm, lack of complete scientific certainty should not be used to postpone appropriate preventive measures.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E014",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the principle of intergenerational equity?",
+      "options": {
+        "A": "Only present generation has rights over natural resources",
+        "B": "Natural resources and environmental quality should be protected so that future generations are not unfairly deprived of their benefits",
+        "C": "Future generations have no rights",
+        "D": "Resources can be exhausted completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "The principle of intergenerational equity means natural resources and environmental quality should be protected so that future generations are not unfairly deprived of their benefits.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E015",
+      "subject": "Environmental Laws",
+      "topic": "Environmental Protection",
+      "chapter": "Meaning, Principles and Constitutional Provisions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the principle of sustainable use?",
+      "options": {
+        "A": "Use resources as fast as possible",
+        "B": "Natural resources should be used in a manner that maintains ecological functions and does not undermine their long-term availability",
+        "C": "Never use natural resources",
+        "D": "Use only imported resources"
+      },
+      "correctAnswer": "B",
+      "explanation": "The principle of sustainable use means natural resources should be used in a manner that maintains ecological functions and does not undermine their long-term availability.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.1"
+    },
+    {
+      "id": "E016",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Act is commonly described as the umbrella legislation for environmental protection in India?",
+      "options": {
+        "A": "Water (Prevention and Control of Pollution) Act, 1974",
+        "B": "Air (Prevention and Control of Pollution) Act, 1981",
+        "C": "Environment (Protection) Act, 1986",
+        "D": "Wild Life (Protection) Act, 1972"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Environment (Protection) Act, 1986 is commonly described as the umbrella legislation for environmental protection in India.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E017",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Environment (Protection) Act enacted and when did it come into force?",
+      "options": {
+        "A": "Enacted 1986; Act No. 29 of 1986; came into force on 19 November 1986",
+        "B": "Enacted 1974; Act No. 6 of 1974; came into force on 1 January 1975",
+        "C": "Enacted 1981; Act No. 14 of 1981; came into force on 1 April 1982",
+        "D": "Enacted 1972; Act No. 53 of 1972; came into force on 9 September 1972"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Environment (Protection) Act was enacted in 1986 as Act No. 29 of 1986 and came into force on 19 November 1986.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E018",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why was the Environment (Protection) Act, 1986 enacted?",
+      "options": {
+        "A": "To provide for the protection and improvement of the environment and matters connected with it, following the 1972 UN Conference on the Human Environment and the Bhopal gas disaster context",
+        "B": "To regulate only water pollution",
+        "C": "To regulate only air pollution",
+        "D": "To regulate only wildlife trade"
+      },
+      "correctAnswer": "A",
+      "explanation": "The EPA 1986 was enacted to provide for the protection and improvement of the environment and matters connected with it; it followed the 1972 United Nations Conference on the Human Environment and the Bhopal gas disaster context.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E019",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which ministry administers the Environment (Protection) Act?",
+      "options": {
+        "A": "Ministry of Home Affairs",
+        "B": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+        "C": "Ministry of Finance",
+        "D": "Ministry of Agriculture"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India, administers the Environment (Protection) Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E020",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the territorial extent of the Environment (Protection) Act?",
+      "options": {
+        "A": "Only Karnataka",
+        "B": "Only union territories",
+        "C": "The whole of India",
+        "D": "Only coastal areas"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Environment (Protection) Act extends to the whole of India.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E021",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 2(a) of the Environment (Protection) Act define?",
+      "options": {
+        "A": "Pollution",
+        "B": "Environment, including water, air and land and their interrelationships with human beings, other living creatures, plants, micro-organisms and property",
+        "C": "Hazardous substance",
+        "D": "Occupier"
+      },
+      "correctAnswer": "B",
+      "explanation": "Section 2(a) defines environment, including water, air and land and their interrelationships with human beings, other living creatures, plants, micro-organisms and property.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E022",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What power is given to the Central Government under Section 3 of the Environment (Protection) Act?",
+      "options": {
+        "A": "Power to take measures to protect and improve environmental quality and prevent, control and abate environmental pollution",
+        "B": "Power to grant environmental clearance only",
+        "C": "Power to punish only individuals",
+        "D": "Power to regulate only wildlife"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 3 gives the Central Government power to take measures to protect and improve environmental quality and prevent, control and abate environmental pollution.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E023",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Section 3(3) of the Environment (Protection) Act?",
+      "options": {
+        "A": "It empowers the Central Government to constitute authorities, by notification, for exercising powers and performing functions under the Act",
+        "B": "It prohibits all industries",
+        "C": "It deals with hazardous substances",
+        "D": "It provides for sampling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 3(3) empowers the Central Government to constitute authorities, by notification, for exercising powers and performing functions under the Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E024",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 5 of the Environment (Protection) Act empower the Central Government to do?",
+      "options": {
+        "A": "Issue written directions to any person, officer or authority, including directions for closure, prohibition or regulation of an industry, operation or process, or stoppage or regulation of electricity, water or other services",
+        "B": "Only issue warnings",
+        "C": "Only grant consents",
+        "D": "Only conduct research"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 5 empowers the Central Government to issue written directions to any person, officer or authority, including directions for closure, prohibition or regulation of an industry, operation or process, or stoppage or regulation of electricity, water or other services.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E025",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Section 7 of the Environment (Protection) Act?",
+      "options": {
+        "A": "It prohibits persons carrying on an industry, operation or process from discharging or emitting environmental pollutants in excess of prescribed standards",
+        "B": "It provides for entry and inspection",
+        "C": "It provides for sampling",
+        "D": "It deals with hazardous substances"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 7 prohibits persons carrying on an industry, operation or process from discharging or emitting environmental pollutants in excess of prescribed standards.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E026",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 8 of the Environment (Protection) Act deal with?",
+      "options": {
+        "A": "Handling of hazardous substances only in accordance with prescribed procedures and safeguards",
+        "B": "Power to take samples",
+        "C": "Power of entry and inspection",
+        "D": "Closure directions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 8 deals with handling of hazardous substances only in accordance with prescribed procedures and safeguards.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E027",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Section 10 of the Environment (Protection) Act?",
+      "options": {
+        "A": "It provides authorised persons powers of entry, inspection and examination for enforcing the Act",
+        "B": "It provides for closure of industries",
+        "C": "It deals with hazardous substances",
+        "D": "It provides for sampling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 10 provides authorised persons powers of entry, inspection and examination for enforcing the Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E028",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Section 11 of the Environment (Protection) Act deal with?",
+      "options": {
+        "A": "The power to take samples of air, water, soil or other substances for analysis, subject to prescribed procedure",
+        "B": "Power of entry and inspection",
+        "C": "Closure directions",
+        "D": "Hazardous substances handling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 11 deals with the power to take samples of air, water, soil or other substances for analysis, subject to prescribed procedure.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E029",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of environmental laboratories under the Environment (Protection) Act?",
+      "options": {
+        "A": "They analyse environmental samples and provide analytical support in accordance with the Act and applicable rules",
+        "B": "They grant environmental clearances",
+        "C": "They issue closure directions",
+        "D": "They constitute authorities"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental laboratories analyse environmental samples and provide analytical support in accordance with the Act and applicable rules.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E030",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Environment (Protection) Rules, 1986?",
+      "options": {
+        "A": "Rules made under the Environment (Protection) Act, 1986, including provisions relating to standards and procedures",
+        "B": "A separate Act of Parliament",
+        "C": "A constitutional amendment",
+        "D": "A judicial decision"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Environment (Protection) Rules, 1986 are rules made under the Environment (Protection) Act, 1986, including provisions relating to standards and procedures.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E031",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between an Act and Rules?",
+      "options": {
+        "A": "An Act is primary legislation enacted by Parliament; Rules are delegated legislation made under authority granted by the Act and must remain consistent with it",
+        "B": "Rules are primary legislation and Acts are delegated legislation",
+        "C": "Both are enacted by Parliament",
+        "D": "Both are made by the judiciary"
+      },
+      "correctAnswer": "A",
+      "explanation": "An Act is primary legislation enacted by Parliament; Rules are delegated legislation made under authority granted by the Act and must remain consistent with it.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E032",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "EPA 1986",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between an environmental standard and an environmental clearance condition?",
+      "options": {
+        "A": "A standard prescribes a general permissible limit or requirement; an environmental clearance condition is a project-specific safeguard imposed during approval",
+        "B": "A standard is project-specific and a clearance condition is general",
+        "C": "Both are the same",
+        "D": "Both are issued by the judiciary"
+      },
+      "correctAnswer": "A",
+      "explanation": "A standard prescribes a general permissible limit or requirement; an environmental clearance condition is a project-specific safeguard imposed during approval.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.2"
+    },
+    {
+      "id": "E033",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the Noise Pollution (Regulation and Control) Rules, 2000?",
+      "options": {
+        "A": "Rules under the Environment (Protection) Act that prescribe ambient noise standards for different areas and regulate loudspeakers and public-address systems",
+        "B": "Rules under the Air Act only",
+        "C": "Rules under the Water Act only",
+        "D": "Rules under the Wildlife Act"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Noise Pollution (Regulation and Control) Rules, 2000 are rules under the Environment (Protection) Act that prescribe ambient noise standards for different areas and regulate loudspeakers and public-address systems.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E034",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Wetlands (Conservation and Management) Rules, 2017?",
+      "options": {
+        "A": "Rules providing a framework for identifying, conserving and managing notified wetlands and regulating specified activities in them",
+        "B": "Rules for forest conservation",
+        "C": "Rules for wildlife trade",
+        "D": "Rules for air pollution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wetlands (Conservation and Management) Rules, 2017 provide a framework for identifying, conserving and managing notified wetlands and regulating specified activities in them.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E035",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Coastal Regulation Zone (CRZ) notifications?",
+      "options": {
+        "A": "Notifications under the Environment (Protection) Act regulating activities and development in designated coastal stretches to protect coastal ecosystems and communities",
+        "B": "Notifications under the Wildlife Act",
+        "C": "Notifications under the Forest Act",
+        "D": "Notifications under the Water Act"
+      },
+      "correctAnswer": "A",
+      "explanation": "CRZ notifications are notifications under the Environment (Protection) Act regulating activities and development in designated coastal stretches to protect coastal ecosystems and communities.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E036",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Environment Audit Rules, 2025?",
+      "options": {
+        "A": "Rules notified in 2025 establishing a structured system using Registered Environment Auditors to audit compliance with environmental safeguards, emissions and waste-management requirements",
+        "B": "Rules for forest conservation",
+        "C": "Rules for wildlife protection",
+        "D": "Rules for water pollution only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Environment Audit Rules, 2025 establish a structured system using Registered Environment Auditors to audit compliance with environmental safeguards, emissions and waste-management requirements.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E037",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the Environment Protection (Management of Contaminated Sites) Rules, 2025?",
+      "options": {
+        "A": "Rules notified in 2025 establishing a framework for identifying, reporting, assessing and managing contaminated sites",
+        "B": "Rules for air pollution control",
+        "C": "Rules for wildlife trade",
+        "D": "Rules for forest diversion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Environment Protection (Management of Contaminated Sites) Rules, 2025 establish a framework for identifying, reporting, assessing and managing contaminated sites.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E038",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Environment (Construction and Demolition) Waste Management Rules, 2025?",
+      "options": {
+        "A": "A 2025 regulatory framework assigning responsibilities for collection, handling, processing and environmentally sound management of construction and demolition waste, including producer-related obligations",
+        "B": "Rules for biomedical waste",
+        "C": "Rules for plastic waste",
+        "D": "Rules for e-waste"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Environment (Construction and Demolition) Waste Management Rules, 2025 assign responsibilities for collection, handling, processing and environmentally sound management of construction and demolition waste, including producer-related obligations.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+        {
+      "id": "E040",
+      "subject": "Environmental Laws",
+      "topic": "Environment (Protection) Act, 1986",
+      "chapter": "Important Environment-Related Rules",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What four waste streams are specified for source segregation under the Solid Waste Management Rules, 2026?",
+      "options": {
+        "A": "Wet waste, dry waste, sanitary waste and special-care waste",
+        "B": "Plastic, paper, glass and metal",
+        "C": "Biomedical, hazardous, e-waste and battery waste",
+        "D": "Organic, inorganic, recyclable and non-recyclable"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Solid Waste Management Rules, 2026 specify four waste streams for source segregation: wet waste, dry waste, sanitary waste and special-care waste.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 1.3"
+    },
+    {
+      "id": "E041",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which principal central law protects wild animals, birds and plants in India?",
+      "options": {
+        "A": "The Wild Life (Protection) Act, 1972",
+        "B": "The Forest (Conservation) Act, 1980",
+        "C": "The Environment (Protection) Act, 1986",
+        "D": "The Biological Diversity Act, 2002"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wild Life (Protection) Act, 1972 is the principal central law protecting wild animals, birds and plants in India.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E042",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Wild Life (Protection) Act enacted?",
+      "options": {
+        "A": "1972",
+        "B": "1974",
+        "C": "1980",
+        "D": "1986"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wild Life (Protection) Act was enacted in 1972.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E043",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major objectives of the Wild Life (Protection) Act?",
+      "options": {
+        "A": "Protection of wild animals, birds and plants; conservation of habitats; regulation of hunting; and control of illegal trade in wildlife and wildlife products",
+        "B": "Only regulation of hunting",
+        "C": "Only protection of tigers",
+        "D": "Only regulation of zoos"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major objectives of the Wild Life (Protection) Act are protection of wild animals, birds and plants; conservation of habitats; regulation of hunting; and control of illegal trade in wildlife and wildlife products.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E044",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which ministry administers the Wild Life (Protection) Act?",
+      "options": {
+        "A": "Ministry of Environment, Forest and Climate Change",
+        "B": "Ministry of Home Affairs",
+        "C": "Ministry of Agriculture",
+        "D": "Ministry of Finance"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ministry of Environment, Forest and Climate Change administers the Wild Life (Protection) Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E045",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the legal position on hunting under the Wild Life (Protection) Act?",
+      "options": {
+        "A": "Hunting of wild animals listed under the Act is generally prohibited, subject to limited statutory exceptions and permissions",
+        "B": "Hunting is freely permitted",
+        "C": "Hunting is permitted only in national parks",
+        "D": "Hunting is permitted without any conditions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hunting of wild animals listed under the Act is generally prohibited, subject to limited statutory exceptions and permissions.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E046",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a protected area under wildlife law?",
+      "options": {
+        "A": "An area legally notified for conservation, such as a national park, wildlife sanctuary, conservation reserve or community reserve",
+        "B": "Any forest land",
+        "C": "Any private agricultural land",
+        "D": "Any urban area"
+      },
+      "correctAnswer": "A",
+      "explanation": "A protected area under wildlife law is an area legally notified for conservation, such as a national park, wildlife sanctuary, conservation reserve or community reserve.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E047",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a national park under the Wild Life (Protection) Act?",
+      "options": {
+        "A": "A protected area notified under the Wild Life (Protection) Act with strong restrictions on activities and rights, subject to the statutory process and applicable provisions",
+        "B": "An area where all human activities are freely permitted",
+        "C": "A private garden",
+        "D": "An urban recreational area"
+      },
+      "correctAnswer": "A",
+      "explanation": "A national park is a protected area notified under the Wild Life (Protection) Act with strong restrictions on activities and rights, subject to the statutory process and applicable provisions.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E048",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a wildlife sanctuary?",
+      "options": {
+        "A": "An area notified for protecting wildlife and habitat, where activities and rights are regulated under the Act",
+        "B": "An area with no restrictions on human activities",
+        "C": "A zoo",
+        "D": "A botanical garden"
+      },
+      "correctAnswer": "A",
+      "explanation": "A wildlife sanctuary is an area notified for protecting wildlife and habitat, where activities and rights are regulated under the Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E049",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a conservation reserve?",
+      "options": {
+        "A": "A government-owned area, often adjoining national parks or sanctuaries or linking protected areas, declared for conservation after the statutory process",
+        "B": "A privately owned area with no regulation",
+        "C": "An urban park",
+        "D": "An agricultural field"
+      },
+      "correctAnswer": "A",
+      "explanation": "A conservation reserve is a government-owned area, often adjoining national parks or sanctuaries or linking protected areas, declared for conservation after the statutory process.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E050",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a community reserve?",
+      "options": {
+        "A": "Private or community land voluntarily offered for conservation and notified under the Act, with community participation in its management",
+        "B": "Government land with no community participation",
+        "C": "An urban housing colony",
+        "D": "An industrial area"
+      },
+      "correctAnswer": "A",
+      "explanation": "A community reserve is private or community land voluntarily offered for conservation and notified under the Act, with community participation in its management.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E051",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a tiger reserve?",
+      "options": {
+        "A": "An area notified for tiger conservation under the statutory framework, generally comprising a core or critical tiger habitat and a buffer area",
+        "B": "A zoo with tigers",
+        "C": "A private tiger breeding farm",
+        "D": "An urban safari park"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tiger reserve is an area notified for tiger conservation under the statutory framework, generally comprising a core or critical tiger habitat and a buffer area.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E052",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a critical tiger habitat?",
+      "options": {
+        "A": "The core area of a tiger reserve identified under the Wild Life (Protection) Act through the prescribed process",
+        "B": "The buffer area of a tiger reserve",
+        "C": "Any forest with tigers",
+        "D": "A zoo enclosure for tigers"
+      },
+      "correctAnswer": "A",
+      "explanation": "A critical tiger habitat is the core area of a tiger reserve identified under the Wild Life (Protection) Act through the prescribed process.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E053",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the National Board for Wildlife (NBWL)?",
+      "options": {
+        "A": "A statutory national body constituted under the Wild Life (Protection) Act to promote conservation and development of wildlife and forests",
+        "B": "A private NGO",
+        "C": "A state-level body only",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Board for Wildlife is a statutory national body constituted under the Wild Life (Protection) Act to promote conservation and development of wildlife and forests.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E054",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the ex-officio Chairperson of the National Board for Wildlife?",
+      "options": {
+        "A": "The Prime Minister of India",
+        "B": "The President of India",
+        "C": "The Union Environment Minister",
+        "D": "The Chief Justice of India"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Prime Minister of India is the ex-officio Chairperson of the National Board for Wildlife.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E055",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Standing Committee of the NBWL?",
+      "options": {
+        "A": "A committee constituted from among NBWL members to exercise delegated functions as provided under the Act",
+        "B": "A separate statutory authority",
+        "C": "A judicial body",
+        "D": "A state-level committee"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Standing Committee of the NBWL is a committee constituted from among NBWL members to exercise delegated functions as provided under the Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E056",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the National Tiger Conservation Authority (NTCA)?",
+      "options": {
+        "A": "A statutory authority established under the Wild Life (Protection) Act, as amended in 2006, to strengthen tiger conservation and tiger-reserve management",
+        "B": "A private tiger conservation NGO",
+        "C": "A state government department",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Tiger Conservation Authority is a statutory authority established under the Wild Life (Protection) Act, as amended in 2006, to strengthen tiger conservation and tiger-reserve management.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E057",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Wildlife Crime Control Bureau (WCCB)?",
+      "options": {
+        "A": "A statutory body established under the Wild Life (Protection) Act to combat organised wildlife crime and illegal wildlife trade",
+        "B": "A state police unit",
+        "C": "A private security agency",
+        "D": "A judicial body"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wildlife Crime Control Bureau is a statutory body established under the Wild Life (Protection) Act to combat organised wildlife crime and illegal wildlife trade.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E058",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Central Zoo Authority (CZA)?",
+      "options": {
+        "A": "A statutory authority under the Wild Life (Protection) Act responsible for recognition and oversight of zoos and prescribed standards for zoo management",
+        "B": "A private zoo association",
+        "C": "A state-level body only",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Zoo Authority is a statutory authority under the Wild Life (Protection) Act responsible for recognition and oversight of zoos and prescribed standards for zoo management.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E059",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the 2022 amendment to the Wild Life (Protection) Act known for?",
+      "options": {
+        "A": "The Wild Life (Protection) Amendment Act, 2022 rationalised schedules, strengthened implementation of CITES-related controls and introduced provisions relating to invasive alien species and wildlife trade",
+        "B": "It abolished all schedules",
+        "C": "It legalised all wildlife trade",
+        "D": "It removed all protected areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wild Life (Protection) Amendment Act, 2022 rationalised schedules, strengthened implementation of CITES-related controls and introduced provisions relating to invasive alien species and wildlife trade.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E060",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When did the major provisions of the Wild Life (Protection) Amendment Act, 2022 come into force?",
+      "options": {
+        "A": "1 April 2023",
+        "B": "1 January 2022",
+        "C": "15 August 2022",
+        "D": "26 January 2023"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major provisions of the Wild Life (Protection) Amendment Act, 2022 came into force on 1 April 2023.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E061",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many schedules are in the amended Wild Life (Protection) Act framework and what do they cover?",
+      "options": {
+        "A": "Four schedules: Schedule I for animal species receiving the highest protection; Schedule II for other protected animal species; Schedule III for protected plant species; and Schedule IV for specimens listed under CITES",
+        "B": "Three schedules: animals, birds and plants",
+        "C": "Five schedules: animals, birds, plants, reptiles and fish",
+        "D": "Two schedules: protected and unprotected species"
+      },
+      "correctAnswer": "A",
+      "explanation": "The amended Wild Life (Protection) Act framework has four schedules: Schedule I for animal species receiving the highest protection; Schedule II for other protected animal species; Schedule III for protected plant species; and Schedule IV for specimens listed under CITES.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E062",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is CITES?",
+      "options": {
+        "A": "The Convention on International Trade in Endangered Species of Wild Fauna and Flora, an international agreement regulating international trade in listed wild animals and plants to ensure that trade does not threaten their survival",
+        "B": "A central Indian wildlife law",
+        "C": "A state wildlife board",
+        "D": "A zoo authority"
+      },
+      "correctAnswer": "A",
+      "explanation": "CITES is the Convention on International Trade in Endangered Species of Wild Fauna and Flora, an international agreement regulating international trade in listed wild animals and plants to ensure that trade does not threaten their survival.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E063",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an invasive alien species?",
+      "options": {
+        "A": "A non-native species whose introduction or spread threatens biodiversity, ecosystems or related services",
+        "B": "Any native species",
+        "C": "An endangered species",
+        "D": "A domesticated animal"
+      },
+      "correctAnswer": "A",
+      "explanation": "An invasive alien species is a non-native species whose introduction or spread threatens biodiversity, ecosystems or related services.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E064",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Project Tiger?",
+      "options": {
+        "A": "A centrally supported tiger-conservation programme launched in 1973 to maintain viable tiger populations in natural habitats through habitat protection, anti-poaching and reserve management",
+        "B": "A zoo breeding programme",
+        "C": "A private safari project",
+        "D": "A state government scheme only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Project Tiger is a centrally supported tiger-conservation programme launched in 1973 to maintain viable tiger populations in natural habitats through habitat protection, anti-poaching and reserve management.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E065",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Project Elephant?",
+      "options": {
+        "A": "A centrally supported programme launched in 1992 for the protection of elephants, their habitats and migration corridors and for reducing human-elephant conflict",
+        "B": "A zoo elephant breeding programme",
+        "C": "A private tourism project",
+        "D": "A state government scheme only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Project Elephant is a centrally supported programme launched in 1992 for the protection of elephants, their habitats and migration corridors and for reducing human-elephant conflict.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E066",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Wild Life (Protection) Act, 1972",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between in-situ and ex-situ conservation?",
+      "options": {
+        "A": "In-situ conservation protects species in their natural habitats; ex-situ conservation protects them outside their natural habitats, such as in zoos, botanical gardens, seed banks and captive-breeding facilities",
+        "B": "In-situ conservation protects species in zoos; ex-situ conservation protects them in natural habitats",
+        "C": "Both are the same",
+        "D": "In-situ is for plants only; ex-situ is for animals only"
+      },
+      "correctAnswer": "A",
+      "explanation": "In-situ conservation protects species in their natural habitats; ex-situ conservation protects them outside their natural habitats, such as in zoos, botanical gardens, seed banks and captive-breeding facilities.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.1"
+    },
+    {
+      "id": "E067",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Biological Diversity Act, 2002?",
+      "options": {
+        "A": "A law providing for conservation of biological diversity, sustainable use of its components and fair and equitable sharing of benefits arising from biological resources and associated knowledge",
+        "B": "A law for forest diversion",
+        "C": "A law for air pollution",
+        "D": "A law for water pollution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Biological Diversity Act, 2002 provides for conservation of biological diversity, sustainable use of its components and fair and equitable sharing of benefits arising from biological resources and associated knowledge.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E068",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which bodies are created under the Biological Diversity Act?",
+      "options": {
+        "A": "The National Biodiversity Authority, State Biodiversity Boards and Biodiversity Management Committees at local-body level",
+        "B": "Only the National Biodiversity Authority",
+        "C": "Only State Biodiversity Boards",
+        "D": "Only Biodiversity Management Committees"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Biological Diversity Act creates the National Biodiversity Authority, State Biodiversity Boards and Biodiversity Management Committees at local-body level.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E069",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Biodiversity Authority (NBA)?",
+      "options": {
+        "A": "A statutory body established under the Biological Diversity Act, 2002, to regulate specified access to biological resources and associated knowledge and advise on biodiversity conservation and benefit-sharing",
+        "B": "A private NGO",
+        "C": "A state-level body only",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Biodiversity Authority is a statutory body established under the Biological Diversity Act, 2002, to regulate specified access to biological resources and associated knowledge and advise on biodiversity conservation and benefit-sharing.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E070",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Biodiversity Management Committee (BMC)?",
+      "options": {
+        "A": "A local-level committee constituted by a local body under the Biological Diversity Act to promote conservation, sustainable use and documentation of biodiversity",
+        "B": "A national-level committee",
+        "C": "A state-level committee",
+        "D": "A judicial committee"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Biodiversity Management Committee is a local-level committee constituted by a local body under the Biological Diversity Act to promote conservation, sustainable use and documentation of biodiversity.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E071",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a People's Biodiversity Register (PBR)?",
+      "options": {
+        "A": "A local document recording biodiversity and associated knowledge in a particular area, prepared through the prescribed participatory process",
+        "B": "A national database of all species",
+        "C": "A state government register of forests",
+        "D": "A judicial record of wildlife cases"
+      },
+      "correctAnswer": "A",
+      "explanation": "A People's Biodiversity Register is a local document recording biodiversity and associated knowledge in a particular area, prepared through the prescribed participatory process.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E072",
+      "subject": "Environmental Laws",
+      "topic": "Wildlife Protection",
+      "chapter": "Biological Diversity Act, 2002",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Biodiversity Heritage Site?",
+      "options": {
+        "A": "An area of biodiversity importance notified by a State Government under the Biological Diversity Act, in consultation with local bodies, for conservation",
+        "B": "A national park",
+        "C": "A wildlife sanctuary",
+        "D": "A zoo"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Biodiversity Heritage Site is an area of biodiversity importance notified by a State Government under the Biological Diversity Act, in consultation with local bodies, for conservation.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 2.2"
+    },
+    {
+      "id": "E073",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which constitutional amendment transferred forests to the Concurrent List?",
+      "options": {
+        "A": "42nd Constitutional Amendment Act, 1976",
+        "B": "44th Constitutional Amendment Act, 1978",
+        "C": "52nd Constitutional Amendment Act, 1985",
+        "D": "73rd Constitutional Amendment Act, 1992"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 42nd Constitutional Amendment Act, 1976 transferred forests to the Concurrent List.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E074",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which list and entry contain forests in the Seventh Schedule?",
+      "options": {
+        "A": "Concurrent List, Entry 17A",
+        "B": "State List, Entry 17",
+        "C": "Union List, Entry 17",
+        "D": "Concurrent List, Entry 17B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forests are contained in the Concurrent List, Entry 17A of the Seventh Schedule.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E075",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which list and entry contain protection of wild animals and birds?",
+      "options": {
+        "A": "Concurrent List, Entry 17B",
+        "B": "State List, Entry 17",
+        "C": "Union List, Entry 17A",
+        "D": "Concurrent List, Entry 17A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Protection of wild animals and birds is contained in the Concurrent List, Entry 17B of the Seventh Schedule.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E076",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which constitutional article directs protection of forests and wildlife?",
+      "options": {
+        "A": "Article 48A",
+        "B": "Article 21",
+        "C": "Article 51A(g)",
+        "D": "Article 32"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 48A directs the State to protect and improve the environment and to safeguard the forests and wildlife of the country.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E077",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which fundamental duty includes protection of forests and wildlife?",
+      "options": {
+        "A": "Article 51A(g)",
+        "B": "Article 48A",
+        "C": "Article 21",
+        "D": "Article 14"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 51A(g) includes the fundamental duty to protect and improve the natural environment, including forests, lakes, rivers and wildlife.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E078",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year was the original Forest (Conservation) Act enacted?",
+      "options": {
+        "A": "1980",
+        "B": "1972",
+        "C": "1974",
+        "D": "1986"
+      },
+      "correctAnswer": "A",
+      "explanation": "The original Forest (Conservation) Act was enacted in 1980.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E079",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the current title of the amended 1980 forest-conservation law?",
+      "options": {
+        "A": "The Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980",
+        "B": "The Forest Conservation Act, 1980",
+        "C": "The Forest Rights Act, 2006",
+        "D": "The Indian Forest Act, 1927"
+      },
+      "correctAnswer": "A",
+      "explanation": "Following the 2023 amendment, the current title of the amended 1980 forest-conservation law is the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+        {
+      "id": "E080",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the main objective of the Forest (Conservation) Act, 1980?",
+      "options": {
+        "A": "To check deforestation and regulate diversion of forest land for non-forest purposes through prior approval of the Central Government",
+        "B": "To promote deforestation for agriculture",
+        "C": "To regulate only wildlife trade",
+        "D": "To regulate only water pollution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main objective of the Forest (Conservation) Act, 1980 was to check deforestation and regulate diversion of forest land for non-forest purposes through prior approval of the Central Government.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E081",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Section 2 of the 1980 forest-conservation law?",
+      "options": {
+        "A": "It restricts State Governments and other authorities from making specified orders, such as deservering forests or permitting use of forest land for non-forest purposes, without prior approval of the Central Government, subject to the Act",
+        "B": "It prohibits all forestry activities",
+        "C": "It deals with wildlife trade",
+        "D": "It provides for water pollution control"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 2 of the 1980 forest-conservation law restricts State Governments and other authorities from making specified orders, such as deservering forests or permitting use of forest land for non-forest purposes, without prior approval of the Central Government, subject to the Act.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E082",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is meant by diversion of forest land?",
+      "options": {
+        "A": "Use of forest land for a purpose other than the purpose recognised as forest use under the applicable law and approval framework",
+        "B": "Planting more trees on forest land",
+        "C": "Protecting forest land from encroachment",
+        "D": "Conducting wildlife surveys in forests"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diversion of forest land means use of forest land for a purpose other than the purpose recognised as forest use under the applicable law and approval framework.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E083",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is compensatory afforestation?",
+      "options": {
+        "A": "Planting trees and undertaking related measures on designated land to compensate for forest land diverted for approved non-forest use, subject to applicable rules and conditions",
+        "B": "Cutting trees to compensate for lost forest",
+        "C": "Compensating forest dwellers in cash",
+        "D": "Fining industries for forest diversion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compensatory afforestation means planting trees and undertaking related measures on designated land to compensate for forest land diverted for approved non-forest use, subject to applicable rules and conditions.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E084",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Compensatory Afforestation Fund Management and Planning Authority (CAMPA)?",
+      "options": {
+        "A": "The institutional framework for managing and utilising funds collected for compensatory afforestation and related forest and wildlife measures",
+        "B": "A private afforestation company",
+        "C": "A state government department",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "CAMPA is the institutional framework for managing and utilising funds collected for compensatory afforestation and related forest and wildlife measures.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E085",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Act provides the statutory framework for the National and State Compensatory Afforestation Funds?",
+      "options": {
+        "A": "The Compensatory Afforestation Fund Act, 2016",
+        "B": "The Forest (Conservation) Act, 1980",
+        "C": "The Indian Forest Act, 1927",
+        "D": "The Forest Rights Act, 2006"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Compensatory Afforestation Fund Act, 2016 provides the statutory framework for the National and State Compensatory Afforestation Funds.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E086",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Forest Rights Act, 2006?",
+      "options": {
+        "A": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, which recognises and vests specified forest rights in eligible forest-dwelling Scheduled Tribes and other traditional forest dwellers",
+        "B": "A law for forest diversion",
+        "C": "A law for wildlife trade",
+        "D": "A law for pollution control"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Forest Rights Act, 2006 is the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, which recognises and vests specified forest rights in eligible forest-dwelling Scheduled Tribes and other traditional forest dwellers.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E087",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does the Forest Rights Act simply grant ownership over all forest land to forest dwellers?",
+      "options": {
+        "A": "No. It recognises specified individual and community rights subject to eligibility, evidence, statutory limits and the prescribed process",
+        "B": "Yes, it grants ownership over all forest land",
+        "C": "Yes, it grants ownership over all government land",
+        "D": "No, it does not recognise any rights"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Forest Rights Act does not simply grant ownership over all forest land. It recognises specified individual and community rights subject to eligibility, evidence, statutory limits and the prescribed process.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E088",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Indian Forest Act, 1927?",
+      "options": {
+        "A": "A central law consolidating provisions relating to forests, forest produce and transit of forest produce, including the classification and regulation of certain forests",
+        "B": "A law for wildlife protection",
+        "C": "A law for water pollution",
+        "D": "A law for air pollution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Indian Forest Act, 1927 is a central law consolidating provisions relating to forests, forest produce and transit of forest produce, including the classification and regulation of certain forests.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E089",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are reserved forests?",
+      "options": {
+        "A": "Forests constituted under the Indian Forest Act, 1927 or applicable state law, with a high degree of legal protection and regulated rights",
+        "B": "Forests with no legal protection",
+        "C": "Private forests",
+        "D": "Urban parks"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reserved forests are forests constituted under the Indian Forest Act, 1927 or applicable state law, with a high degree of legal protection and regulated rights.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E090",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are protected forests?",
+      "options": {
+        "A": "Government forests or land declared protected under the Indian Forest Act or applicable state law, with restrictions and regulated rights",
+        "B": "Forests with no legal protection",
+        "C": "Private forests",
+        "D": "Forests in national parks only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Protected forests are government forests or land declared protected under the Indian Forest Act or applicable state law, with restrictions and regulated rights.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E091",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Constitutional and Statutory Framework",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are village forests?",
+      "options": {
+        "A": "Forests assigned to a village community under the relevant provisions of the Indian Forest Act, 1927 or applicable state law",
+        "B": "Forests owned by private companies",
+        "C": "Forests in urban areas",
+        "D": "Forests in national parks only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Village forests are forests assigned to a village community under the relevant provisions of the Indian Forest Act, 1927 or applicable state law.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.1"
+    },
+    {
+      "id": "E092",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Ministry of Environment, Forest and Climate Change?",
+      "options": {
+        "A": "The Union ministry responsible for national policy, legislation and programmes relating to environment, forests, wildlife and climate change",
+        "B": "A state government department",
+        "C": "A private NGO",
+        "D": "A judicial tribunal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ministry of Environment, Forest and Climate Change is the Union ministry responsible for national policy, legislation and programmes relating to environment, forests, wildlife and climate change.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E093",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Forest Survey of India (FSI)?",
+      "options": {
+        "A": "An organisation under MoEFCC that assesses and monitors forest resources and publishes the India State of Forest Report at periodic intervals",
+        "B": "A private forestry company",
+        "C": "A state government department",
+        "D": "A judicial body"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Forest Survey of India is an organisation under MoEFCC that assesses and monitors forest resources and publishes the India State of Forest Report at periodic intervals.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E094",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the India State of Forest Report (ISFR)?",
+      "options": {
+        "A": "A periodic assessment published by FSI that reports forest cover, tree cover and related forest-resource information",
+        "B": "A state government report only",
+        "C": "A private consultancy report",
+        "D": "A judicial report"
+      },
+      "correctAnswer": "A",
+      "explanation": "The India State of Forest Report is a periodic assessment published by FSI that reports forest cover, tree cover and related forest-resource information.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E095",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the National Afforestation Programme?",
+      "options": {
+        "A": "A programme framework supporting afforestation and eco-restoration through participatory forest-management institutions; programme names and implementation arrangements may change over time",
+        "B": "A private afforestation company",
+        "C": "A judicial programme",
+        "D": "A state government scheme only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The National Afforestation Programme is a programme framework supporting afforestation and eco-restoration through participatory forest-management institutions; programme names and implementation arrangements may change over time.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E096",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Green India Mission?",
+      "options": {
+        "A": "A mission under the National Action Plan on Climate Change intended to protect, restore and enhance forest and tree cover and ecosystem services",
+        "B": "A private plantation drive",
+        "C": "A state government scheme only",
+        "D": "A judicial initiative"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Green India Mission is a mission under the National Action Plan on Climate Change intended to protect, restore and enhance forest and tree cover and ecosystem services.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E097",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Joint Forest Management (JFM)?",
+      "options": {
+        "A": "A participatory approach in which forest departments and local communities cooperate in protection, regeneration and management of forests under state-specific arrangements",
+        "B": "A private forest management company",
+        "C": "A judicial process",
+        "D": "A nationalised forest industry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Joint Forest Management is a participatory approach in which forest departments and local communities cooperate in protection, regeneration and management of forests under state-specific arrangements.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E098",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is social forestry?",
+      "options": {
+        "A": "Raising and managing trees on non-forest land, including community, farm, roadside and institutional land, to meet local needs and improve environmental services",
+        "B": "Managing government reserved forests",
+        "C": "Managing national parks",
+        "D": "Managing wildlife sanctuaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social forestry means raising and managing trees on non-forest land, including community, farm, roadside and institutional land, to meet local needs and improve environmental services.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E099",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is agroforestry?",
+      "options": {
+        "A": "Integrating trees with crops and/or livestock on the same land-management unit",
+        "B": "Growing only crops without trees",
+        "C": "Growing only trees without crops",
+        "D": "Managing only government forests"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agroforestry is integrating trees with crops and/or livestock on the same land-management unit.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E100",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between afforestation and reforestation?",
+      "options": {
+        "A": "Afforestation establishes tree cover on land not recently forested; reforestation restores tree cover on land that was previously forested",
+        "B": "Afforestation restores previously forested land; reforestation establishes trees on land not recently forested",
+        "C": "Both are the same",
+        "D": "Afforestation is for government land only; reforestation is for private land only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Afforestation establishes tree cover on land not recently forested; reforestation restores tree cover on land that was previously forested.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    },
+    {
+      "id": "E101",
+      "subject": "Environmental Laws",
+      "topic": "Forest Conservation",
+      "chapter": "Forest Institutions and Conservation Programmes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Forest Department?",
+      "options": {
+        "A": "It manages and protects state forests and wildlife, enforces relevant forest and wildlife laws, supports afforestation and habitat management, and works with local communities",
+        "B": "It only issues environmental clearances",
+        "C": "It only regulates water pollution",
+        "D": "It only regulates air pollution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Forest Department manages and protects state forests and wildlife, enforces relevant forest and wildlife laws, supports afforestation and habitat management, and works with local communities.",
+      "source": "Environmental_Laws_and_Institutions.pdf, Section 3.2"
+    }
+  ]
+}

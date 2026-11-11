@@ -1,0 +1,2131 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank on Social and Cultural History of Karnataka - Religion and Philosophy, derived from FDA & SDA exam-oriented notes. Covers Vachana movement, Lingayat movement, Haridasa movement, saints, philosophical traditions, Jainism, Buddhism, Sufism, Islam, Christianity, folk religion and pilgrimage centres.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by religion?",
+      "options": {
+        "A": "A system of beliefs, worship, ethical values, rituals and practices through which individuals and communities understand the sacred and their relationship with it",
+        "B": "The systematic examination of fundamental questions about reality, knowledge, consciousness, ethics, God and liberation",
+        "C": "A political ideology governing state administration",
+        "D": "A form of economic organisation based on trade"
+      },
+      "correctAnswer": "A",
+      "explanation": "Religion is a system of beliefs, worship, ethical values, rituals and practices through which individuals and communities understand the sacred and their relationship with it.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q002",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by philosophy?",
+      "options": {
+        "A": "A system of beliefs and rituals centred on the sacred",
+        "B": "The systematic examination of fundamental questions about reality, knowledge, consciousness, ethics, God and liberation",
+        "C": "The study of ancient inscriptions and monuments",
+        "D": "The practice of devotional singing in temples"
+      },
+      "correctAnswer": "B",
+      "explanation": "Philosophy is the systematic examination of fundamental questions about reality, knowledge, consciousness, ethics, God and liberation.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q003",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Karnataka important in the religious history of India?",
+      "options": {
+        "A": "It was the only region where Buddhism flourished",
+        "B": "It has been a major centre for Jainism, Buddhism, Shaivism, Vaishnavism, Lingayat traditions, Hindu philosophical schools, Sufi traditions, Islam, Christianity and diverse local folk religions",
+        "C": "It was the birthplace of Adi Shankaracharya",
+        "D": "It was the centre of the Mughal Empire"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka has been a major centre for Jainism, Buddhism, Shaivism, Vaishnavism, Lingayat traditions, Hindu philosophical schools, Sufi traditions, Islam, Christianity and diverse local folk religions.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q004",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which factors helped different religious traditions flourish in Karnataka?",
+      "options": {
+        "A": "Only royal patronage",
+        "B": "Only trade routes",
+        "C": "Royal patronage, trade routes, monasteries and maths, pilgrimage centres, local devotional movements, literary activity and interaction among communities",
+        "D": "Only foreign invasions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Royal patronage, trade routes, monasteries and maths, pilgrimage centres, local devotional movements, literary activity and interaction among communities helped different religious traditions flourish in Karnataka.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q005",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bhakti?",
+      "options": {
+        "A": "The performance of elaborate Vedic sacrifices",
+        "B": "Loving devotion or personal commitment to a deity, expressed through prayer, song, service, remembrance and surrender",
+        "C": "The study of ancient philosophical texts",
+        "D": "The practice of severe physical austerities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bhakti is loving devotion or personal commitment to a deity, expressed through prayer, song, service, remembrance and surrender.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q006",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Moksha or Mukti?",
+      "options": {
+        "A": "The attainment of worldly wealth",
+        "B": "Liberation from the cycle of birth and death (samsara)",
+        "C": "The performance of religious rituals",
+        "D": "The study of the Vedas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moksha or Mukti means liberation from the cycle of birth and death (samsara), though different philosophical traditions explain its nature differently.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q007",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dharma?",
+      "options": {
+        "A": "Duty, moral order, righteous conduct and the principles that sustain individual and social life",
+        "B": "The cycle of birth and death",
+        "C": "The performance of music and dance",
+        "D": "The worship of a personal deity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dharma refers to duty, moral order, righteous conduct and the principles that sustain individual and social life; it means various by context and tradition.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q008",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Overview",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a religious movement and a philosophical school?",
+      "options": {
+        "A": "A religious movement is more systematic than a philosophical school",
+        "B": "A religious movement is a social and devotional current involving communities and practices, while a philosophical school presents a more systematic account of reality, knowledge and liberation",
+        "C": "A philosophical school involves communities, while a religious movement is purely theoretical",
+        "D": "There is no difference between the two"
+      },
+      "correctAnswer": "B",
+      "explanation": "A religious movement is a social and devotional current involving communities and practices, while a philosophical school presents a more systematic account of reality, knowledge and liberation; a movement may contain several philosophical interpretations.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q009",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was the Vachana movement?",
+      "options": {
+        "A": "A 12th-century Kannada devotional, spiritual and social reform movement led by Basavanna and other Sharanas in the Kalyana region",
+        "B": "A 16th-century Vaishnava devotional movement",
+        "C": "A 13th-century philosophical school founded by Madhvacharya",
+        "D": "A 19th-century Christian missionary movement"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vachana movement was a major 12th-century Kannada devotional, spiritual and social reform movement led by Basavanna and other Sharanas in the Kalyana region.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q010",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did the Vachana movement flourish?",
+      "options": {
+        "A": "8th century CE",
+        "B": "10th century CE",
+        "C": "12th century CE",
+        "D": "16th century CE"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Vachana movement flourished mainly during the 12th century CE.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q011",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where was the Vachana movement centred?",
+      "options": {
+        "A": "Udupi",
+        "B": "Kalyana, present-day Basavakalyan in Bidar district",
+        "C": "Shravanabelagola",
+        "D": "Sringeri"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kalyana, present-day Basavakalyan in Bidar district, Karnataka, was its principal historical centre.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q012",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the leading figure of the Vachana movement?",
+      "options": {
+        "A": "Allama Prabhu",
+        "B": "Basavanna (Basaveshwara)",
+        "C": "Akka Mahadevi",
+        "D": "Madhvacharya"
+      },
+      "correctAnswer": "B",
+      "explanation": "Basavanna, also known as Basaveshwara, was the leading figure of the Vachana movement.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q013",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What were Vachanas?",
+      "options": {
+        "A": "Long epic poems in Sanskrit",
+        "B": "Short Kannada devotional and philosophical utterances, generally written in a direct prose-poetic style and often ending with a personal divine signature (ankita)",
+        "C": "Temple inscriptions in stone",
+        "D": "Philosophical treatises in Pali"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vachanas were short Kannada devotional and philosophical utterances, generally written in a direct prose-poetic style and often ending with a personal divine signature (ankita).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q014",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What language did the Vachanakaras use?",
+      "options": {
+        "A": "Sanskrit",
+        "B": "Pali",
+        "C": "Kannada, often in an accessible form that communicated spiritual and ethical ideas beyond the learned elite",
+        "D": "Persian"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Vachanakaras used Kannada, often in an accessible form that communicated spiritual and ethical ideas beyond the learned elite.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q015",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What were the major aims of the Vachana movement?",
+      "options": {
+        "A": "To promote personal devotion to Shiva, ethical conduct, dignity of labour, social equality, sharing, and criticism of empty ritual and social discrimination",
+        "B": "To establish a new empire in Karnataka",
+        "C": "To spread Buddhism across South India",
+        "D": "To promote Sanskrit as the sole language of worship"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major aims of the Vachana movement were to promote personal devotion to Shiva, ethical conduct, dignity of labour, social equality, sharing, and criticism of empty ritual and social discrimination.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q016",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What social practices did many Vachanakaras criticise?",
+      "options": {
+        "A": "Caste-based hierarchy, untouchability, ritualism without ethical substance, hypocrisy and discrimination against women and disadvantaged communities",
+        "B": "The use of Kannada in worship",
+        "C": "The wearing of the Ishtalinga",
+        "D": "The practice of Kayaka"
+      },
+      "correctAnswer": "A",
+      "explanation": "Many Vachanakaras criticised caste-based hierarchy, untouchability, ritualism without ethical substance, hypocrisy and discrimination against women and disadvantaged communities.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q017",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kayaka?",
+      "options": {
+        "A": "The principle of honest work and dignity of labour; work performed sincerely is treated as a form of worship",
+        "B": "The principle of sharing resources with the community",
+        "C": "The personal emblem of Shiva worn by a devotee",
+        "D": "The six-stage spiritual framework"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kayaka is the principle of honest work and dignity of labour; work performed sincerely is treated as a form of worship.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q018",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dasoha?",
+      "options": {
+        "A": "The principle of honest work and dignity of labour",
+        "B": "The principle of sharing the fruits of one's labour and resources for the welfare of others and the community",
+        "C": "The practice of ritual bathing in sacred rivers",
+        "D": "The worship of ancestors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dasoha is the principle of sharing the fruits of one's labour and resources for the welfare of others and the community.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q019",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Ishtalinga?",
+      "options": {
+        "A": "A temple dedicated to Shiva",
+        "B": "The personal emblem of Shiva worn and worshipped by a Lingayat devotee; it represents direct personal devotion without dependence on an intermediary priest for personal worship",
+        "C": "A sacred text of the Lingayat tradition",
+        "D": "A pilgrimage centre in Karnataka"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ishtalinga is the personal emblem of Shiva worn and worshipped by a Lingayat devotee; it represents direct personal devotion without dependence on an intermediary priest for personal worship.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q020",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Anubhava Mantapa?",
+      "options": {
+        "A": "A temple dedicated to Vishnu",
+        "B": "An assembly or forum at Kalyana where Sharanas discussed spiritual, ethical and social questions",
+        "C": "A Jain monastery in Shravanabelagola",
+        "D": "A Sufi shrine in Gulbarga"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anubhava Mantapa is traditionally described as an assembly or forum at Kalyana where Sharanas discussed spiritual, ethical and social questions.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q021",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is traditionally associated with presiding over Anubhava Mantapa?",
+      "options": {
+        "A": "Basavanna",
+        "B": "Allama Prabhu",
+        "C": "Akka Mahadevi",
+        "D": "Channabasavanna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Allama Prabhu is traditionally regarded as the spiritual presiding figure of Anubhava Mantapa.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q022",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is the historical structure and exact institutional form of Anubhava Mantapa fully settled?",
+      "options": {
+        "A": "Yes, historians agree on its exact form",
+        "B": "No, it is central to Lingayat tradition, but historians debate the precise nature, scale and documentary history of the institution as described in later accounts",
+        "C": "It is a modern invention with no historical basis",
+        "D": "It was a Buddhist institution"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. It is central to Lingayat tradition, but historians debate the precise nature, scale and documentary history of the institution as described in later accounts.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q023",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of women in the Vachana movement?",
+      "options": {
+        "A": "Women were not allowed to participate",
+        "B": "Women Sharanes composed vachanas and participated in spiritual debate, challenging restrictions on women's religious and intellectual participation",
+        "C": "Women only performed domestic duties",
+        "D": "Women led the movement politically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Women Sharanes composed vachanas and participated in spiritual debate, challenging restrictions on women's religious and intellectual participation.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q024",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important women Vachanakaras.",
+      "options": {
+        "A": "Akka Mahadevi, Neelambike, Gangambike, Aydakki Lakkamma, Satyakka and other Sharanes",
+        "B": "Basavanna, Allama Prabhu and Channabasavanna",
+        "C": "Madhvacharya, Sripadaraya and Vyasatirtha",
+        "D": "Purandara Dasa, Kanaka Dasa and Vijaya Dasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important women Vachanakaras include Akka Mahadevi, Neelambike, Gangambike, Aydakki Lakkamma, Satyakka and other Sharanes.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q025",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of the Vachana movement in Kannada history?",
+      "options": {
+        "A": "It strengthened Kannada as a medium of spiritual and philosophical expression and connected literary creativity with ethical and social reform",
+        "B": "It replaced Kannada with Sanskrit in religious literature",
+        "C": "It led to the decline of Kannada literature",
+        "D": "It was limited to the royal court"
+      },
+      "correctAnswer": "A",
+      "explanation": "It strengthened Kannada as a medium of spiritual and philosophical expression and connected literary creativity with ethical and social reform.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q026",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the ankita in a vachana?",
+      "options": {
+        "A": "The opening invocation",
+        "B": "The poet's devotional signature, usually a chosen name of the deity, used at the end of the vachana",
+        "C": "The rhythmic metre of the poem",
+        "D": "The title of the vachana"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ankita is the poet's devotional signature, usually a chosen name of the deity, used at the end of the vachana.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q027",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a vachana and a conventional metrical poem?",
+      "options": {
+        "A": "A vachana uses a fixed classical metre, while a conventional poem does not",
+        "B": "A vachana generally uses a flexible prose-poetic structure and conversational expression rather than depending on a fixed classical metre",
+        "C": "A vachana is always longer than a conventional poem",
+        "D": "There is no difference"
+      },
+      "correctAnswer": "B",
+      "explanation": "A vachana generally uses a flexible prose-poetic structure and conversational expression rather than depending on a fixed classical metre.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q028",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Lingayatism?",
+      "options": {
+        "A": "A Vaishnava tradition centred on Vishnu",
+        "B": "A Shaiva religious tradition whose followers centre their devotion on Shiva, especially through the personal Ishtalinga",
+        "C": "A Buddhist tradition",
+        "D": "A Jain tradition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lingayatism is a Shaiva religious tradition whose followers centre their devotion on Shiva, especially through the personal Ishtalinga.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q029",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the most prominent historical leader associated with the 12th-century Lingayat movement?",
+      "options": {
+        "A": "Madhvacharya",
+        "B": "Basavanna (Basaveshwara), a minister and religious-social reformer associated with Kalyana",
+        "C": "Ramanujacharya",
+        "D": "Adi Shankaracharya"
+      },
+      "correctAnswer": "B",
+      "explanation": "Basavanna (Basaveshwara), a minister and religious-social reformer associated with Kalyana, is the most prominent historical leader associated with the 12th-century Lingayat movement.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q030",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When did the Lingayat movement associated with Basavanna become prominent?",
+      "options": {
+        "A": "In the 8th century CE during the Rashtrakuta period",
+        "B": "In the 12th century CE, during the reign of the Kalachuri ruler Bijjala II at Kalyana",
+        "C": "In the 16th century CE during the Vijayanagara period",
+        "D": "In the 19th century CE during British rule"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Lingayat movement associated with Basavanna became prominent in the 12th century CE, during the reign of the Kalachuri ruler Bijjala II at Kalyana.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q031",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Bijjala II?",
+      "options": {
+        "A": "A Kalachuri ruler under whose political authority Basavanna served as a minister at Kalyana",
+        "B": "A Vijayanagara emperor",
+        "C": "A Western Ganga king",
+        "D": "A Rashtrakuta ruler"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bijjala II was a Kalachuri ruler under whose political authority Basavanna served as a minister at Kalyana.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q032",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the relationship between the Vachana movement and Lingayat tradition?",
+      "options": {
+        "A": "They are unrelated",
+        "B": "The 12th-century Vachana movement was a formative spiritual and literary current closely associated with the development of the Lingayat community and its teachings",
+        "C": "The Vachana movement was a Vaishnava movement",
+        "D": "The Lingayat tradition predates the Vachana movement by centuries"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 12th-century Vachana movement was a formative spiritual and literary current closely associated with the development of the Lingayat community and its teachings.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q033",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Ishtalinga Diksha?",
+      "options": {
+        "A": "The initiation in which a guru gives a devotee the personal Ishtalinga, which the devotee wears and worships",
+        "B": "The ritual burial of the dead",
+        "C": "The study of the Vedas",
+        "D": "The performance of temple rituals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ishtalinga Diksha is the initiation in which a guru gives a devotee the personal Ishtalinga, which the devotee wears and worships.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q034",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three traditional pillars of Lingayat spiritual life?",
+      "options": {
+        "A": "Guru, Linga and Jangama",
+        "B": "Brahma, Vishnu and Shiva",
+        "C": "Dharma, Artha and Kama",
+        "D": "Sravana, Manana and Nididhyasana"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three traditional pillars of Lingayat spiritual life are Guru, Linga and Jangama.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q035",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does Guru mean in the Lingayat tradition?",
+      "options": {
+        "A": "The spiritual teacher who guides the devotee towards knowledge and realisation",
+        "B": "The personal emblem of Shiva",
+        "C": "A realised spiritual person or itinerant teacher",
+        "D": "The six-stage spiritual framework"
+      },
+      "correctAnswer": "A",
+      "explanation": "Guru is the spiritual teacher who guides the devotee towards knowledge and realisation.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q036",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does Linga mean in the Lingayat tradition?",
+      "options": {
+        "A": "The spiritual teacher",
+        "B": "Shiva, worshipped personally through the Ishtalinga",
+        "C": "A realised spiritual person",
+        "D": "The community of devotees"
+      },
+      "correctAnswer": "B",
+      "explanation": "Linga refers to Shiva, worshipped personally through the Ishtalinga.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q037",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does Jangama mean?",
+      "options": {
+        "A": "The spiritual teacher",
+        "B": "The personal emblem of Shiva",
+        "C": "A realised spiritual person or itinerant religious teacher who embodies and communicates the spiritual teaching",
+        "D": "The six-stage spiritual framework"
+      },
+      "correctAnswer": "C",
+      "explanation": "Jangama refers to a realised spiritual person or itinerant religious teacher who embodies and communicates the spiritual teaching.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q038",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Shatsthala?",
+      "options": {
+        "A": "The eight protective spiritual disciplines",
+        "B": "A six-stage spiritual framework in the Lingayat tradition describing the devotee's progression towards union or realisation of Shiva",
+        "C": "The five modes of religious conduct",
+        "D": "The three pillars of Lingayat spiritual life"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shatsthala is a six-stage spiritual framework in the Lingayat tradition describing the devotee's progression towards union or realisation of Shiva.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q039",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Ashtavarana?",
+      "options": {
+        "A": "The eight protective spiritual disciplines or supports traditionally identified in Lingayat teaching: Guru, Linga, Jangama, Padodaka, Prasada, Vibhuti, Rudraksha and Mantra",
+        "B": "The five modes of religious conduct",
+        "C": "The six-stage spiritual framework",
+        "D": "The three pillars of Lingayat spiritual life"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ashtavarana means the eight protective spiritual disciplines or supports traditionally identified in Lingayat teaching: Guru, Linga, Jangama, Padodaka, Prasada, Vibhuti, Rudraksha and Mantra.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+        {
+      "id": "Q041",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Lingachara?",
+      "options": {
+        "A": "Conduct centred on devotion to and worship of the Linga",
+        "B": "Righteous and ethical conduct in everyday life",
+        "C": "Humility and service",
+        "D": "Conduct associated with the community of Shiva's devotees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lingachara is conduct centred on devotion to and worship of the Linga.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q042",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Sadachara?",
+      "options": {
+        "A": "Conduct centred on devotion to the Linga",
+        "B": "Righteous and ethical conduct in everyday life",
+        "C": "Conduct expressing reverence for Shiva",
+        "D": "Humility and service"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sadachara is righteous and ethical conduct in everyday life.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q043",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Shivachara?",
+      "options": {
+        "A": "Conduct centred on devotion to the Linga",
+        "B": "Righteous and ethical conduct in everyday life",
+        "C": "Conduct expressing reverence for Shiva and respect for devotees",
+        "D": "Humility and service"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shivachara is conduct expressing reverence for Shiva and respect for devotees.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q044",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Ganachara?",
+      "options": {
+        "A": "Conduct centred on devotion to the Linga",
+        "B": "Righteous and ethical conduct in everyday life",
+        "C": "Conduct associated with commitment to the community of Shiva's devotees and defence of its religious principles",
+        "D": "Humility and service"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ganachara is conduct associated with commitment to the community of Shiva's devotees and defence of its religious principles.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q045",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bhrityachara?",
+      "options": {
+        "A": "Conduct centred on devotion to the Linga",
+        "B": "Righteous and ethical conduct in everyday life",
+        "C": "Conduct associated with the community of Shiva's devotees",
+        "D": "Humility and service, living as a servant of Shiva and the spiritual community"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bhrityachara is humility and service, living as a servant of Shiva and the spiritual community.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q046",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the traditional Lingayat practice regarding the dead?",
+      "options": {
+        "A": "Cremation is universally practised",
+        "B": "Burial (samadhi) is traditionally practised in many Lingayat communities rather than cremation; practices can vary by community and circumstance",
+        "C": "The dead are immersed in rivers",
+        "D": "The dead are left in towers for birds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Burial (samadhi) is traditionally practised in many Lingayat communities rather than cremation; practices can vary by community and circumstance.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q047",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Lingayat and Veerashaiva?",
+      "options": {
+        "A": "They are completely unrelated traditions",
+        "B": "The terms are closely related and are sometimes used interchangeably, but their historical, doctrinal and community meanings are debated",
+        "C": "Veerashaiva is a Vaishnava tradition",
+        "D": "Lingayat is a Buddhist tradition"
+      },
+      "correctAnswer": "B",
+      "explanation": "The terms are closely related and are sometimes used interchangeably, but their historical, doctrinal and community meanings are debated. Some Lingayat groups identify as a distinct tradition rooted in Basavanna's teachings, while Veerashaiva groups emphasise a broader Shaiva lineage and shared identity.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q048",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Should Lingayatism be described simply as a movement founded from nothing by Basavanna?",
+      "options": {
+        "A": "Yes, Basavanna created it entirely from nothing",
+        "B": "No, Basavanna was a decisive 12th-century reformer and organiser, but Shaiva and Veerashaiva traditions and earlier lineages existed before him; the exact historical relationship is debated",
+        "C": "Yes, it has no connection to earlier Shaiva traditions",
+        "D": "No, it was founded by Madhvacharya"
+      },
+      "correctAnswer": "B",
+      "explanation": "No. Basavanna was a decisive 12th-century reformer and organiser, but Shaiva and Veerashaiva traditions and earlier lineages existed before him; the exact historical relationship is debated.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q049",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of the Lingayat movement in Karnataka?",
+      "options": {
+        "A": "It shaped Karnataka's religious identity, Kannada devotional literature, social thought, community institutions and traditions of education and service",
+        "B": "It led to the decline of Kannada literature",
+        "C": "It was limited to the royal family",
+        "D": "It had no lasting impact"
+      },
+      "correctAnswer": "A",
+      "explanation": "It shaped Karnataka's religious identity, Kannada devotional literature, social thought, community institutions and traditions of education and service.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q050",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Lingayat Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Lingayat maths?",
+      "options": {
+        "A": "Religious and educational institutions led by pontiffs or swamis that preserve teachings, conduct religious activities and often support education and social service",
+        "B": "Temples dedicated to Vishnu",
+        "C": "Buddhist monasteries",
+        "D": "Jain pilgrimage centres"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mathas are religious and educational institutions led by pontiffs or swamis that preserve teachings, conduct religious activities and often support education and social service.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q051",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Basavanna?",
+      "options": {
+        "A": "A 12th-century philosopher, minister, social reformer and Vachana poet who advocated devotion, Kayaka, Dasoha and ethical equality",
+        "B": "A 13th-century philosopher who founded Dvaita Vedanta",
+        "C": "A 16th-century Haridasa composer",
+        "D": "An 8th-century Advaita philosopher"
+      },
+      "correctAnswer": "A",
+      "explanation": "Basavanna was a 12th-century philosopher, minister, social reformer and Vachana poet who advocated devotion, Kayaka, Dasoha and ethical equality.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q052",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Basavanna's ankita?",
+      "options": {
+        "A": "Gudeshwara",
+        "B": "Kudalasangamadeva",
+        "C": "Channamallikarjuna",
+        "D": "Kapilasadhammallikarjuna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Basavanna's ankita was Kudalasangamadeva.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q053",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where is Kudalasangama?",
+      "options": {
+        "A": "A pilgrimage centre in present-day Bagalkot district, Karnataka, associated with the confluence of the Krishna and Malaprabha rivers and with Basavanna",
+        "B": "A pilgrimage centre in Hassan district",
+        "C": "A Sufi shrine in Gulbarga",
+        "D": "A Jain centre in Dakshina Kannada"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kudalasangama is a pilgrimage centre in present-day Bagalkot district, Karnataka, associated with the confluence of the Krishna and Malaprabha rivers and with Basavanna.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q054",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Allama Prabhu?",
+      "options": {
+        "A": "A 12th-century mystic, philosopher and Vachana poet known for profound spiritual and non-dual expression",
+        "B": "A 16th-century Haridasa composer",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A Jain monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Allama Prabhu was a 12th-century mystic, philosopher and Vachana poet known for profound spiritual and non-dual expression.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q055",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Allama Prabhu's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Gudeshwara (Guheshwara)",
+        "C": "Channamallikarjuna",
+        "D": "Ramanatha"
+      },
+      "correctAnswer": "B",
+      "explanation": "Allama Prabhu's ankita was Gudeshwara (Guheshwara).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q056",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Akka Mahadevi?",
+      "options": {
+        "A": "A 12th-century woman mystic and Vachana poet whose devotion was directed to Channamallikarjuna",
+        "B": "A 16th-century Haridasa composer",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A Jain nun"
+      },
+      "correctAnswer": "A",
+      "explanation": "Akka Mahadevi was a 12th-century woman mystic and Vachana poet whose devotion was directed to Channamallikarjuna.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q057",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Akka Mahadevi's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Gudeshwara",
+        "C": "Channamallikarjuna",
+        "D": "Kapilasadhammallikarjuna"
+      },
+      "correctAnswer": "C",
+      "explanation": "Akka Mahadevi's ankita was Channamallikarjuna.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q058",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which place is associated with Akka Mahadevi's spiritual journey?",
+      "options": {
+        "A": "Srisailam is strongly associated with her later spiritual life in traditional accounts",
+        "B": "Udupi",
+        "C": "Shravanabelagola",
+        "D": "Gulbarga"
+      },
+      "correctAnswer": "A",
+      "explanation": "Srisailam is strongly associated with Akka Mahadevi's later spiritual life in traditional accounts.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q059",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Channabasavanna?",
+      "options": {
+        "A": "A major Sharana thinker and Vachana composer, traditionally identified as Basavanna's nephew",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Sufi saint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Channabasavanna was a major Sharana thinker and Vachana composer, traditionally identified as Basavanna's nephew.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q060",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Channabasavanna's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Kudalachannasangama",
+        "C": "Channamallikarjuna",
+        "D": "Ramanatha"
+      },
+      "correctAnswer": "B",
+      "explanation": "Channabasavanna's ankita was Kudalachannasangama.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q061",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Siddharama of Sonnalige?",
+      "options": {
+        "A": "A 12th-century Sharana saint and Vachana poet associated with Sonnalige, identified with present-day Solapur",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Jain Tirthankara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Siddharama was a 12th-century Sharana saint and Vachana poet associated with Sonnalige, identified with present-day Solapur.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q062",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Siddharama's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Gudeshwara",
+        "C": "Kapilasadhammallikarjuna (Kapilasiddhamallikarjuna)",
+        "D": "Ramanatha"
+      },
+      "correctAnswer": "C",
+      "explanation": "Siddharama's ankita was Kapilasadhammallikarjuna (also written Kapilasiddhamallikarjuna).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q063",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Jedara Dasimayya?",
+      "options": {
+        "A": "An early Vachana poet traditionally regarded as one of the earliest Sharanas",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Sufi saint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jedara Dasimayya was an early Vachana poet traditionally regarded as one of the earliest Sharanas.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q064",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Jedara Dasimayya's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Gudeshwara",
+        "C": "Channamallikarjuna",
+        "D": "Ramanatha"
+      },
+      "correctAnswer": "D",
+      "explanation": "Jedara Dasimayya's ankita was Ramanatha.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q065",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Ambigara Chowdaiah?",
+      "options": {
+        "A": "A Vachana poet associated with the boatman community and known for direct criticism of hypocrisy and social injustice",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Jain monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ambigara Chowdaiah was a Vachana poet associated with the boatman community and known for direct criticism of hypocrisy and social injustice.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q066",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Ambigara Chowdaiah's ankita?",
+      "options": {
+        "A": "Kudalasangamadeva",
+        "B": "Prabhudeva",
+        "C": "Channamallikarjuna",
+        "D": "Ramanatha"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ambigara Chowdaiah's ankita was Prabhudeva.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q067",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Madara Chennaiah?",
+      "options": {
+        "A": "An early Sharana poet traditionally associated with the leather-working community and remembered for his devotional and egalitarian outlook",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Sufi saint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madara Chennaiah was an early Sharana poet traditionally associated with the leather-working community and remembered for his devotional and egalitarian outlook.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q068",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Madivala Machideva?",
+      "options": {
+        "A": "A Sharana and Vachana poet traditionally associated with the washerman community and known for his devotion and service",
+        "B": "A 13th-century Dvaita philosopher",
+        "C": "A 16th-century Haridasa composer",
+        "D": "A Jain monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madivala Machideva was a Sharana and Vachana poet traditionally associated with the washerman community and known for his devotion and service.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q069",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Sharana Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Sharanes and Sharanas?",
+      "options": {
+        "A": "They represent a diverse community of women and men who contributed vachanas and promoted spiritual practice and ethical reform",
+        "B": "They were only from the Brahmin community",
+        "C": "They were political rulers",
+        "D": "They opposed the use of Kannada"
+      },
+      "correctAnswer": "A",
+      "explanation": "They represent a diverse community of women and men who contributed vachanas and promoted spiritual practice and ethical reform.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q070",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was the Haridasa movement?",
+      "options": {
+        "A": "A Kannada Vaishnava devotional movement that spread bhakti to Vishnu through songs, kirtanas and accessible compositions",
+        "B": "A Shaiva reform movement of the 12th century",
+        "C": "A Jain monastic movement",
+        "D": "A Sufi order"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Haridasa movement was a Kannada Vaishnava devotional movement that spread bhakti to Vishnu through songs, kirtanas and accessible compositions.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q071",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the word Haridasa mean?",
+      "options": {
+        "A": "Servant or devotee of Hari, a name of Vishnu",
+        "B": "Devotee of Shiva",
+        "C": "Follower of Jainism",
+        "D": "A Buddhist monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Haridasa means servant or devotee of Hari, a name of Vishnu.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q072",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which philosophical school strongly influenced the Haridasa movement?",
+      "options": {
+        "A": "Advaita Vedanta",
+        "B": "Dvaita Vedanta, established by Madhvacharya",
+        "C": "Vishishtadvaita Vedanta",
+        "D": "Buddhism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dvaita Vedanta, established by Madhvacharya, strongly influenced the Haridasa movement.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q073",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who founded Dvaita Vedanta?",
+      "options": {
+        "A": "Adi Shankaracharya",
+        "B": "Ramanujacharya",
+        "C": "Madhvacharya, the 13th-century philosopher associated with Udupi",
+        "D": "Basavanna"
+      },
+      "correctAnswer": "C",
+      "explanation": "Madhvacharya, the 13th-century philosopher associated with Udupi, founded Dvaita Vedanta.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q074",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the central idea of Dvaita philosophy?",
+      "options": {
+        "A": "It teaches the ultimate non-difference of Atman and Brahman",
+        "B": "It teaches a real distinction between God, individual souls and matter, and holds Vishnu to be the supreme reality",
+        "C": "It teaches that individual souls and the universe are real and exist in dependence on Brahman",
+        "D": "It denies the existence of God"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dvaita philosophy teaches a real distinction between God, individual souls and matter, and holds Vishnu to be the supreme reality.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q075",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When did the Haridasa movement become especially influential?",
+      "options": {
+        "A": "During the 8th century CE",
+        "B": "During the 12th century CE",
+        "C": "It flourished particularly during the Vijayanagara period, especially from the 15th and 16th centuries onward, while its roots are earlier",
+        "D": "During the 19th century CE"
+      },
+      "correctAnswer": "C",
+      "explanation": "It flourished particularly during the Vijayanagara period, especially from the 15th and 16th centuries onward, while its roots are earlier.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q076",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dasa Sahitya?",
+      "options": {
+        "A": "The devotional literature composed by Haridasas, mainly in Kannada",
+        "B": "The Vachana literature of the Sharanas",
+        "C": "Jain philosophical texts",
+        "D": "Sufi poetry in Persian"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dasa Sahitya is the devotional literature composed by Haridasas, mainly in Kannada.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q077",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Devaranamas?",
+      "options": {
+        "A": "Devotional songs in praise of God, especially Vishnu and his forms",
+        "B": "Temple inscriptions",
+        "C": "Philosophical treatises",
+        "D": "Folk dance forms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Devaranamas are devotional songs in praise of God, especially Vishnu and his forms.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q078",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the main purpose of Haridasa compositions in Kannada?",
+      "options": {
+        "A": "To communicate devotion, moral values and Dvaita teachings to ordinary people in an accessible language and musical form",
+        "B": "To replace Sanskrit in all religious rituals",
+        "C": "To promote Jainism",
+        "D": "To document royal history"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main purpose was to communicate devotion, moral values and Dvaita teachings to ordinary people in an accessible language and musical form.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q079",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Dasakuta and Vyasakuta?",
+      "options": {
+        "A": "Two traditional groupings associated with the Madhva tradition: Dasakuta communicated teachings through devotional compositions, while Vyasakuta focused on scriptural learning and exposition",
+        "B": "Two types of Vachanas",
+        "C": "Two Jain sects",
+        "D": "Two Sufi orders"
+      },
+      "correctAnswer": "A",
+      "explanation": "They are two traditional groupings associated with the Madhva tradition: Dasakuta communicated teachings through devotional compositions, while Vyasakuta focused on scriptural learning and exposition.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q080",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which empire provided important patronage to the Haridasa tradition?",
+      "options": {
+        "A": "The Vijayanagara Empire",
+        "B": "The Mughal Empire",
+        "C": "The Maurya Empire",
+        "D": "The Gupta Empire"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vijayanagara Empire provided important patronage to the Haridasa tradition.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q081",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of the Haridasa movement in Karnataka music?",
+      "options": {
+        "A": "It enriched devotional music and contributed substantially to the teaching repertoire and development of Carnatic music",
+        "B": "It led to the decline of Carnatic music",
+        "C": "It was limited to folk music",
+        "D": "It had no impact on music"
+      },
+      "correctAnswer": "A",
+      "explanation": "It enriched devotional music and contributed substantially to the teaching repertoire and development of Carnatic music.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+        {
+      "id": "Q083",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Madhvacharya?",
+      "options": {
+        "A": "A 13th-century philosopher and theologian who founded the Dvaita school of Vedanta",
+        "B": "A 12th-century Vachana poet",
+        "C": "An 8th-century Advaita philosopher",
+        "D": "A 16th-century Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madhvacharya was a 13th-century philosopher and theologian who founded the Dvaita school of Vedanta.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q084",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the traditional birthplace of Madhvacharya?",
+      "options": {
+        "A": "Pajaka near Udupi in present-day Karnataka",
+        "B": "Kalyana in Bidar district",
+        "C": "Sringeri in Chikkamagaluru district",
+        "D": "Melukote in Mandya district"
+      },
+      "correctAnswer": "A",
+      "explanation": "The traditional birthplace of Madhvacharya is Pajaka near Udupi in present-day Karnataka.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q085",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the importance of Udupi in the Madhva tradition?",
+      "options": {
+        "A": "Udupi became a major centre of Madhva philosophy and Krishna worship",
+        "B": "Udupi was the birthplace of Basavanna",
+        "C": "Udupi was a Jain pilgrimage centre",
+        "D": "Udupi was the capital of the Vijayanagara Empire"
+      },
+      "correctAnswer": "A",
+      "explanation": "Udupi became a major centre of Madhva philosophy and Krishna worship.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q086",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Sripadaraya?",
+      "options": {
+        "A": "An important early Haridasa saint and pontiff associated with the Dvaita tradition and the development of Kannada devotional music",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Jain monk",
+        "D": "A Sufi saint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sripadaraya was an important early Haridasa saint and pontiff associated with the Dvaita tradition and the development of Kannada devotional music.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q087",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Sripadaraya's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Purandara Vittal",
+        "D": "Kaginele Adikeshava"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sripadaraya's ankita was Ranga Vittal.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q088",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Vyasatirtha (Vyasaraja)?",
+      "options": {
+        "A": "A prominent Dvaita philosopher, scholar and spiritual teacher associated with the Vijayanagara court",
+        "B": "A 12th-century Vachana poet",
+        "C": "An 8th-century Advaita philosopher",
+        "D": "A Jain Tirthankara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vyasatirtha was a prominent Dvaita philosopher, scholar and spiritual teacher associated with the Vijayanagara court.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q089",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Vyasatirtha's contribution?",
+      "options": {
+        "A": "He defended and developed Dvaita philosophy and supported the Haridasa tradition; he was also associated with the spiritual guidance of Vijayanagara ruler Krishnadevaraya",
+        "B": "He founded the Lingayat movement",
+        "C": "He established the Sringeri Sharada Peetham",
+        "D": "He commissioned the Gommateshwara statue"
+      },
+      "correctAnswer": "A",
+      "explanation": "He defended and developed Dvaita philosophy and supported the Haridasa tradition; he was also associated with the spiritual guidance of Vijayanagara ruler Krishnadevaraya.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q090",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Vyasatirtha's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Purandara Vittal",
+        "D": "Vijaya Vittal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vyasatirtha's ankita was Sri Krishna.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q091",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Purandara Dasa?",
+      "options": {
+        "A": "A major 16th-century Haridasa composer, remembered for devotional songs and for systematising the foundational teaching method of Carnatic music",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A Jain monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purandara Dasa was a major 16th-century Haridasa composer, remembered for devotional songs and for systematising the foundational teaching method of Carnatic music.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q092",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Purandara Dasa's original name according to traditional accounts?",
+      "options": {
+        "A": "Srinivasa Nayaka",
+        "B": "Kaginele Adikeshava",
+        "C": "Vijaya Vittal",
+        "D": "Gopala Vittal"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to traditional accounts, Purandara Dasa's original name was Srinivasa Nayaka.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q093",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Purandara Dasa's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Purandara Vittal (Purandara Vittala)",
+        "D": "Kaginele Adikeshava"
+      },
+      "correctAnswer": "C",
+      "explanation": "Purandara Dasa's ankita was Purandara Vittal (Purandara Vittala).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q094",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Purandara Dasa called the father of Carnatic music?",
+      "options": {
+        "A": "He is traditionally credited with systematising basic music lessons and composing a large body of devotional songs that shaped Carnatic music pedagogy",
+        "B": "He invented the veena",
+        "C": "He wrote the first treatise on music in Sanskrit",
+        "D": "He established the first music college"
+      },
+      "correctAnswer": "A",
+      "explanation": "He is traditionally credited with systematising basic music lessons and composing a large body of devotional songs that shaped Carnatic music pedagogy.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q095",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Kanaka Dasa?",
+      "options": {
+        "A": "A 16th-century Haridasa saint, poet and composer known for devotional works and social insight",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A Jain Tirthankara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kanaka Dasa was a 16th-century Haridasa saint, poet and composer known for devotional works and social insight.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q096",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Kanaka Dasa's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Purandara Vittal",
+        "D": "Kaginele Adikeshava"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kanaka Dasa's ankita was Kaginele Adikeshava.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q097",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the important works of Kanaka Dasa?",
+      "options": {
+        "A": "Ramadhanya Charitre, Mohanatarangini, Nalacharitre and Haribhaktisara",
+        "B": "Harikathamrutasara and Dasa Sahitya",
+        "C": "Vachanas and Mantra Gopya",
+        "D": "Ramayana and Mahabharata"
+      },
+      "correctAnswer": "A",
+      "explanation": "The important works of Kanaka Dasa include Ramadhanya Charitre, Mohanatarangini, Nalacharitre and Haribhaktisara.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q098",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Vijaya Dasa?",
+      "options": {
+        "A": "An 18th-century Haridasa composer who helped revive and strengthen the Dasa tradition in North Karnataka",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A 16th-century Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijaya Dasa was an 18th-century Haridasa composer who helped revive and strengthen the Dasa tradition in North Karnataka.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q099",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Vijaya Dasa's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Vijaya Vittal (Vijaya Vittala)",
+        "D": "Gopala Vittal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vijaya Dasa's ankita was Vijaya Vittal (Vijaya Vittala).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q100",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Gopala Dasa?",
+      "options": {
+        "A": "An 18th-century Haridasa saint and composer associated with the Dasa tradition of North Karnataka",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A 16th-century Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gopala Dasa was an 18th-century Haridasa saint and composer associated with the Dasa tradition of North Karnataka.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q101",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Gopala Dasa's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Vijaya Vittal",
+        "D": "Gopala Vittal (Gopala Vittala)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gopala Dasa's ankita was Gopala Vittal (Gopala Vittala).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q102",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Jagannatha Dasa?",
+      "options": {
+        "A": "An 18th-century Haridasa scholar and composer, known for the philosophical devotional work Harikathamrutasara",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A 16th-century Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jagannatha Dasa was an 18th-century Haridasa scholar and composer, known for the philosophical devotional work Harikathamrutasara.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q103",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was Jagannatha Dasa's ankita?",
+      "options": {
+        "A": "Ranga Vittal",
+        "B": "Sri Krishna",
+        "C": "Vijaya Vittal",
+        "D": "Jagannatha Vittal (Jagannatha Vittala)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Jagannatha Dasa's ankita was Jagannatha Vittal (Jagannatha Vittala).",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q104",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Harikathamrutasara?",
+      "options": {
+        "A": "A major Kannada philosophical and devotional work by Jagannatha Dasa explaining Dvaita teachings",
+        "B": "A Vachana collection by Basavanna",
+        "C": "A Jain text on karma",
+        "D": "A Sufi treatise"
+      },
+      "correctAnswer": "A",
+      "explanation": "Harikathamrutasara is a major Kannada philosophical and devotional work by Jagannatha Dasa explaining Dvaita teachings.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q105",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Prasanna Venkata Dasa?",
+      "options": {
+        "A": "A Haridasa composer associated with the later Dasa tradition",
+        "B": "A 12th-century Vachana poet",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A Jain monk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prasanna Venkata Dasa was a Haridasa composer associated with the later Dasa tradition.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q106",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Haridasa Saints",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Haridasa saints are especially important for FDA and SDA examinations?",
+      "options": {
+        "A": "Madhvacharya, Sripadaraya, Vyasatirtha, Purandara Dasa, Kanaka Dasa, Vijaya Dasa, Gopala Dasa and Jagannatha Dasa",
+        "B": "Basavanna, Allama Prabhu, Akka Mahadevi and Channabasavanna",
+        "C": "Adi Shankaracharya and Ramanujacharya",
+        "D": "Chavundaraya and Bijjala II"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madhvacharya, Sripadaraya, Vyasatirtha, Purandara Dasa, Kanaka Dasa, Vijaya Dasa, Gopala Dasa and Jagannatha Dasa are especially important Haridasa saints for FDA and SDA examinations.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q107",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Advaita Vedanta?",
+      "options": {
+        "A": "The non-dualistic philosophy associated with Adi Shankaracharya, which teaches the ultimate non-difference of Atman and Brahman",
+        "B": "The dualistic philosophy of Madhvacharya",
+        "C": "The qualified non-dualism of Ramanujacharya",
+        "D": "The Shaiva philosophy of Basavanna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Advaita Vedanta is the non-dualistic philosophy associated with Adi Shankaracharya, which teaches the ultimate non-difference of Atman and Brahman.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q108",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Adi Shankaracharya?",
+      "options": {
+        "A": "An 8th-century philosopher who systematised Advaita Vedanta and established monastic centres in different parts of India",
+        "B": "A 13th-century philosopher who founded Dvaita Vedanta",
+        "C": "An 11th-12th-century Vaishnava philosopher",
+        "D": "A 12th-century Vachana poet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adi Shankaracharya was an 8th-century philosopher who systematised Advaita Vedanta and established monastic centres in different parts of India.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q109",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dvaita Vedanta?",
+      "options": {
+        "A": "The non-dualistic philosophy of Adi Shankaracharya",
+        "B": "The dualistic philosophy of Madhvacharya, which maintains an eternal distinction between God, souls and matter",
+        "C": "The qualified non-dualism of Ramanujacharya",
+        "D": "A Buddhist philosophical school"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dvaita Vedanta is the dualistic philosophy of Madhvacharya, which maintains an eternal distinction between God, souls and matter.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q110",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Vishishtadvaita Vedanta?",
+      "options": {
+        "A": "Non-dualism pure and simple",
+        "B": "Dualism of God and soul",
+        "C": "Qualified non-dualism, associated with Ramanujacharya, teaching that individual souls and the universe are real and exist in dependence on Brahman",
+        "D": "A materialist philosophy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vishishtadvaita is qualified non-dualism, associated with Ramanujacharya, teaching that individual souls and the universe are real and exist in dependence on Brahman.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q111",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Ramanujacharya?",
+      "options": {
+        "A": "An 11th-12th-century Vaishnava philosopher and theologian who systematised Vishishtadvaita Vedanta",
+        "B": "An 8th-century Advaita philosopher",
+        "C": "A 13th-century Dvaita philosopher",
+        "D": "A 12th-century Vachana poet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ramanujacharya was an 11th-12th-century Vaishnava philosopher and theologian who systematised Vishishtadvaita Vedanta.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q112",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of Melukote in the Vaishnava tradition?",
+      "options": {
+        "A": "Melukote (Tirunarayanapura) in Mandya district is a major Sri Vaishnava pilgrimage centre associated with Ramanujacharya and the Cheluvanarayana Swamy temple",
+        "B": "Melukote is a Jain pilgrimage centre",
+        "C": "Melukote is a Sufi shrine",
+        "D": "Melukote is a Buddhist site"
+      },
+      "correctAnswer": "A",
+      "explanation": "Melukote (Tirunarayanapura) in Mandya district is a major Sri Vaishnava pilgrimage centre associated with Ramanujacharya and the Cheluvanarayana Swamy temple.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q113",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Advaita, Dvaita and Vishishtadvaita?",
+      "options": {
+        "A": "Advaita teaches ultimate non-duality; Dvaita teaches a real and enduring distinction between God, souls and matter; Vishishtadvaita teaches unity of Brahman qualified by real souls and the universe",
+        "B": "All three teach complete dualism",
+        "C": "All three teach complete non-dualism",
+        "D": "Advaita and Dvaita are identical"
+      },
+      "correctAnswer": "A",
+      "explanation": "Advaita teaches ultimate non-duality; Dvaita teaches a real and enduring distinction between God, souls and matter; Vishishtadvaita teaches unity of Brahman qualified by real souls and the universe.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q114",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Shaivism?",
+      "options": {
+        "A": "A broad Hindu religious tradition centred on the worship of Shiva as the supreme deity or as a central manifestation of the divine",
+        "B": "A tradition centred on Vishnu",
+        "C": "A tradition centred on the Divine Feminine",
+        "D": "A Buddhist tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shaivism is a broad Hindu religious tradition centred on the worship of Shiva as the supreme deity or as a central manifestation of the divine.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q115",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Vaishnavism?",
+      "options": {
+        "A": "A tradition centred on Shiva",
+        "B": "A Hindu tradition centred on Vishnu and his avatars, especially Rama and Krishna",
+        "C": "A tradition centred on the Divine Feminine",
+        "D": "A Jain tradition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vaishnavism is a Hindu tradition centred on Vishnu and his avatars, especially Rama and Krishna.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q116",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Shaktism?",
+      "options": {
+        "A": "A tradition centred on Shiva",
+        "B": "A tradition centred on Vishnu",
+        "C": "A Hindu tradition that worships the Divine Feminine or Shakti as the supreme power",
+        "D": "A Buddhist tradition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shaktism is a Hindu tradition that worships the Divine Feminine or Shakti as the supreme power.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q117",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Smarta tradition?",
+      "options": {
+        "A": "The Smarta tradition is associated with Advaita Vedanta and the worship of multiple forms of the divine, often through the Panchayatana system",
+        "B": "A Shaiva sect that worships only Shiva",
+        "C": "A Vaishnava sect that worships only Vishnu",
+        "D": "A Buddhist school"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Smarta tradition is associated with Advaita Vedanta and the worship of multiple forms of the divine, often through the Panchayatana system.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q118",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Panchayatana worship?",
+      "options": {
+        "A": "Worship of five deities—usually Shiva, Vishnu, Devi, Surya and Ganesha—together",
+        "B": "Worship of a single deity",
+        "C": "Worship of ancestors",
+        "D": "Worship of trees and animals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Panchayatana worship is a form of worship in which five deities—usually Shiva, Vishnu, Devi, Surya and Ganesha—are worshipped together.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q119",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the philosophical tradition of Veerashaivism?",
+      "options": {
+        "A": "A Buddhist philosophical school",
+        "B": "A Vaishnava tradition",
+        "C": "A Shaiva tradition with distinctive teachings on Shiva, the Linga, spiritual discipline and liberation; its doctrinal relationship with Lingayat identity is a subject of historical and community debate",
+        "D": "A Jain tradition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Veerashaiva philosophy is a Shaiva tradition with distinctive teachings on Shiva, the Linga, spiritual discipline and liberation; its doctrinal relationship with Lingayat identity is a subject of historical and community debate.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    },
+    {
+      "id": "Q120",
+      "subject": "Karnataka History",
+      "topic": "Religion and Philosophy",
+      "chapter": "Hindu Philosophical Traditions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Shakti-Vishishtadvaita?",
+      "options": {
+        "A": "A philosophical formulation associated with some Veerashaiva/Lingayat scholastic traditions, explaining the relation between Shiva, Shakti and the individual soul",
+        "B": "A Buddhist doctrine",
+        "C": "A Jain theory of karma",
+        "D": "A Sufi concept"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shakti-Vishishtadvaita is a philosophical formulation associated with some Veerashaiva/Lingayat scholastic traditions, explaining the relation between Shiva, Shakti and the individual soul.",
+      "source": "Karnataka_Religion_Philosophy.pdf"
+    }
+  ]
+}

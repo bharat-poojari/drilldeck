@@ -1,0 +1,4489 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Question bank on Architecture of Karnataka (FDA/SDA examination notes). Covers Early and Later Chalukya, Hoysala, Vijayanagara, Mysore/Wodeyar architecture, other major monuments, architectural vocabulary and UNESCO World Heritage sites.",
+  "questions": [
+    {
+      "id": "AK001",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is temple architecture?",
+      "options": {
+        "A": "The planning and construction of religious buildings, including sanctums, halls, towers, gateways and sculptural decoration",
+        "B": "The construction of forts and military structures",
+        "C": "The design of palaces and royal residences",
+        "D": "The layout of urban marketplaces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Temple architecture refers to the planning and construction of religious buildings, including sanctums, halls, towers, gateways and sculptural decoration.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK002",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three broad Indian temple architectural traditions?",
+      "options": {
+        "A": "Nagara, Dravida and Vesara",
+        "B": "Hoysala, Chalukya and Vijayanagara",
+        "C": "Buddhist, Jain and Hindu",
+        "D": "Indo-Saracenic, Neo-Dravidian and Gothic"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three broad traditions are Nagara (mainly northern), Dravida (mainly southern), and Vesara (a term often used for Deccan hybrid traditions; its precise application is debated).",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK003",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a garbhagriha?",
+      "options": {
+        "A": "A pillared hall used for assembly",
+        "B": "The inner sanctum housing the principal deity or sacred symbol",
+        "C": "A monumental gateway tower",
+        "D": "A temple tank or stepped reservoir"
+      },
+      "correctAnswer": "B",
+      "explanation": "The garbhagriha is the inner sanctum housing the principal deity or sacred symbol.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK004",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mandapa?",
+      "options": {
+        "A": "A pillared hall used for assembly, worship or ceremonial activities",
+        "B": "The superstructure above the sanctum",
+        "C": "A circumambulatory passage",
+        "D": "A raised platform supporting a temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mandapa is a pillared hall used for assembly, worship or ceremonial activities.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK005",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an antarala?",
+      "options": {
+        "A": "A temple tank",
+        "B": "The vestibule or intermediate space connecting the sanctum to the hall",
+        "C": "A gateway tower",
+        "D": "A ceremonial pavilion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An antarala is the vestibule or intermediate space connecting the sanctum to the hall.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK006",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a shikhara?",
+      "options": {
+        "A": "A circumambulatory passage",
+        "B": "The superstructure above the sanctum; the term is used differently in different regional traditions",
+        "C": "A pillared hall",
+        "D": "A decorated gateway"
+      },
+      "correctAnswer": "B",
+      "explanation": "A shikhara is the superstructure above the sanctum; the term is used differently in different regional traditions.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK007",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a vimana in South Indian temple architecture?",
+      "options": {
+        "A": "A gateway tower",
+        "B": "The sanctum and its tower or superstructure",
+        "C": "A temple tank",
+        "D": "A raised platform"
+      },
+      "correctAnswer": "B",
+      "explanation": "In South Indian temple architecture, a vimana is the sanctum and its tower or superstructure.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK008",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a gopura?",
+      "options": {
+        "A": "A monumental gateway tower, particularly prominent in southern temple complexes",
+        "B": "The inner sanctum",
+        "C": "A pillared hall",
+        "D": "A circumambulatory passage"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gopura is a monumental gateway tower, particularly prominent in southern temple complexes.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK009",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a pradakshinapatha?",
+      "options": {
+        "A": "A ceremonial pavilion",
+        "B": "A circumambulatory passage for ritual movement around a sanctum",
+        "C": "A temple tank",
+        "D": "A gateway arch"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pradakshinapatha is a circumambulatory passage for ritual movement around a sanctum.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK010",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a jagati?",
+      "options": {
+        "A": "A raised platform or plinth supporting a temple, sometimes used for circumambulation",
+        "B": "A ribbed stone element near the top of a temple tower",
+        "C": "A decorated gateway",
+        "D": "A pillared pavilion"
+      },
+      "correctAnswer": "A",
+      "explanation": "A jagati is a raised platform or plinth supporting a temple, sometimes used for circumambulation.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK011",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a pushkarini?",
+      "options": {
+        "A": "A ceremonial pavilion",
+        "B": "A temple tank or stepped ritual water reservoir",
+        "C": "A gateway tower",
+        "D": "A raised platform"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pushkarini is a temple tank or stepped ritual water reservoir.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK012",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a kalyan mandapa?",
+      "options": {
+        "A": "A ceremonial pavilion, especially associated with divine marriage festivals",
+        "B": "The inner sanctum",
+        "C": "A circumambulatory passage",
+        "D": "A temple tank"
+      },
+      "correctAnswer": "A",
+      "explanation": "A kalyan mandapa is a ceremonial pavilion, especially associated with divine marriage festivals.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK013",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a stellate temple plan?",
+      "options": {
+        "A": "A star-shaped ground plan created by projecting and recessing the temple walls",
+        "B": "A circular ground plan",
+        "C": "A rectangular ground plan",
+        "D": "A horseshoe-shaped plan"
+      },
+      "correctAnswer": "A",
+      "explanation": "A stellate temple plan is a star-shaped ground plan created by projecting and recessing the temple walls.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK014",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a lathe-turned pillar?",
+      "options": {
+        "A": "A stone pillar shaped with a lathe-like turning technique, producing smooth and often symmetrical surfaces",
+        "B": "A pillar carved with animal figures",
+        "C": "A pillar made of wood",
+        "D": "A pillar with musical notes"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lathe-turned pillar is a stone pillar shaped with a lathe-like turning technique, producing smooth and often symmetrical surfaces.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK015",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is soapstone in Hoysala architecture?",
+      "options": {
+        "A": "Chloritic schist, a relatively workable stone suited to fine carving",
+        "B": "A type of sandstone",
+        "C": "A type of granite",
+        "D": "A type of marble"
+      },
+      "correctAnswer": "A",
+      "explanation": "Soapstone in Hoysala architecture is chloritic schist, a relatively workable stone suited to fine carving.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK016",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a frieze?",
+      "options": {
+        "A": "A continuous horizontal band of sculptural or ornamental decoration",
+        "B": "A vertical pillar",
+        "C": "A dome-shaped roof",
+        "D": "A stepped tank"
+      },
+      "correctAnswer": "A",
+      "explanation": "A frieze is a continuous horizontal band of sculptural or ornamental decoration.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK017",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an amalaka?",
+      "options": {
+        "A": "A ribbed stone element commonly found near the top of northern Nagara-style temple towers",
+        "B": "A pillared hall",
+        "C": "A temple tank",
+        "D": "A gateway tower"
+      },
+      "correctAnswer": "A",
+      "explanation": "An amalaka is a ribbed stone element commonly found near the top of northern Nagara-style temple towers.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK018",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a sukhanas?",
+      "options": {
+        "A": "A projection or vestibule superstructure, often described as the nose of the principal tower",
+        "B": "A circumambulatory passage",
+        "C": "A ceremonial pavilion",
+        "D": "A raised platform"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sukhanas is a projection or vestibule superstructure, often described as the nose of the principal tower.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK019",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a torana?",
+      "options": {
+        "A": "A decorated gateway or arch-like entrance element",
+        "B": "A temple tank",
+        "C": "A pillared hall",
+        "D": "A circumambulatory passage"
+      },
+      "correctAnswer": "A",
+      "explanation": "A torana is a decorated gateway or arch-like entrance element.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK020",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mantapa?",
+      "options": {
+        "A": "An alternative transliteration of mandapa, meaning a pillared pavilion or hall",
+        "B": "A type of temple tank",
+        "C": "A gateway tower",
+        "D": "A raised platform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mantapa is an alternative transliteration of mandapa, meaning a pillared pavilion or hall.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK021",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which dynasty developed the major early Chalukya monuments in Karnataka?",
+      "options": {
+        "A": "The Early or Badami Chalukyas",
+        "B": "The Hoysalas",
+        "C": "The Vijayanagara rulers",
+        "D": "The Wodeyars"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Early or Badami Chalukyas developed the major early Chalukya monuments, especially during the 6th-8th centuries CE.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK022",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was the capital of the Early Chalukyas?",
+      "options": {
+        "A": "Vatapi, now Badami in Bagalkot district",
+        "B": "Halebidu",
+        "C": "Hampi",
+        "D": "Mysuru"
+      },
+      "correctAnswer": "A",
+      "explanation": "The capital of the Early Chalukyas was Vatapi, now Badami in Bagalkot district.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK023",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which three places form the best-known Early Chalukya architectural centres?",
+      "options": {
+        "A": "Badami, Aihole and Pattadakal",
+        "B": "Belur, Halebidu and Somanathapura",
+        "C": "Hampi, Vijayapura and Bidar",
+        "D": "Mysuru, Srirangapatna and Bengaluru"
+      },
+      "correctAnswer": "A",
+      "explanation": "Badami, Aihole and Pattadakal form the best-known Early Chalukya architectural centres.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK024",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Aihole important in Indian architecture?",
+      "options": {
+        "A": "It contains numerous early experimental temple forms, showing developments in structural and rock-cut temple design",
+        "B": "It is the site of the largest Hoysala temple",
+        "C": "It is the capital of the Vijayanagara Empire",
+        "D": "It is known for the Gol Gumbaz"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aihole contains numerous early experimental temple forms, showing developments in structural and rock-cut temple design.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK025",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Aihole sometimes called a cradle of Indian temple architecture?",
+      "options": {
+        "A": "Because of its diversity of early temple experiments; the expression is descriptive, not a claim that all Indian temple architecture began there",
+        "B": "Because it was the first capital of the Chalukyas",
+        "C": "Because it contains the oldest surviving temple in India",
+        "D": "Because it was built by the Hoysalas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aihole is called a cradle of Indian temple architecture because of its diversity of early temple experiments; the expression is descriptive, not a claim that all Indian temple architecture began there.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK026",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which district contains Badami, Aihole and Pattadakal?",
+      "options": {
+        "A": "Bagalkot district, Karnataka",
+        "B": "Hassan district",
+        "C": "Vijayanagara district",
+        "D": "Mysuru district"
+      },
+      "correctAnswer": "A",
+      "explanation": "Badami, Aihole and Pattadakal are located in Bagalkot district, Karnataka.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK027",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the main building material of many Early Chalukya temples?",
+      "options": {
+        "A": "Locally available sandstone",
+        "B": "Soapstone (chloritic schist)",
+        "C": "Granite",
+        "D": "Teakwood"
+      },
+      "correctAnswer": "A",
+      "explanation": "Many Early Chalukya temples were built using locally available sandstone.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK028",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which religions are represented in the Badami cave temples?",
+      "options": {
+        "A": "Hindu traditions and Jainism",
+        "B": "Buddhism and Jainism",
+        "C": "Hinduism and Buddhism",
+        "D": "Islam and Hinduism"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Badami cave temples represent Hindu traditions and Jainism.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK029",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many principal numbered rock-cut caves are there at Badami?",
+      "options": {
+        "A": "Four major numbered caves, including three Hindu caves and one Jain cave",
+        "B": "Three caves, all Hindu",
+        "C": "Five caves, all Jain",
+        "D": "Two caves, one Hindu and one Jain"
+      },
+      "correctAnswer": "A",
+      "explanation": "There are four major numbered rock-cut caves at Badami, including three Hindu caves and one Jain cave.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK030",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Badami cave is associated with Jain iconography?",
+      "options": {
+        "A": "Cave 4",
+        "B": "Cave 1",
+        "C": "Cave 2",
+        "D": "Cave 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cave 4 at Badami is associated with Jain iconography.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK031",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Durga Temple at Aihole known for?",
+      "options": {
+        "A": "Its distinctive apsidal or horseshoe-ended plan and colonnaded ambulatory; its name does not establish that it was dedicated to goddess Durga",
+        "B": "Its star-shaped plan",
+        "C": "Its massive dome",
+        "D": "Its musical pillars"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Durga Temple at Aihole is known for its distinctive apsidal or horseshoe-ended plan and colonnaded ambulatory; its name does not establish that it was dedicated to goddess Durga.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK032",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Lad Khan Temple at Aihole?",
+      "options": {
+        "A": "An early structural temple known for its hall-like form and experimental roof and plan",
+        "B": "A rock-cut cave temple",
+        "C": "A Jain temple with a tall gopura",
+        "D": "A temple with a stone chariot"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lad Khan Temple at Aihole is an early structural temple known for its hall-like form and experimental roof and plan.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK033",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Meguti Jain Temple at Aihole known for?",
+      "options": {
+        "A": "Its 634 CE inscription composed by Ravikirti, praising Pulakeshin II",
+        "B": "Its stone chariot",
+        "C": "Its musical pillars",
+        "D": "Its massive dome"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Meguti Jain Temple at Aihole is known for its 634 CE inscription composed by Ravikirti, praising Pulakeshin II.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK034",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Chalukya king is praised in the Aihole inscription?",
+      "options": {
+        "A": "Pulakeshin II",
+        "B": "Vikramaditya II",
+        "C": "Vijayaditya",
+        "D": "Kirtivarman I"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Aihole inscription praises Pulakeshin II.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK035",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who composed the famous Aihole inscription?",
+      "options": {
+        "A": "Ravikirti",
+        "B": "Kalhana",
+        "C": "Banabhatta",
+        "D": "Bilhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "The famous Aihole inscription was composed by Ravikirti.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK036",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Chalukyan centre served as an important ceremonial and coronation site?",
+      "options": {
+        "A": "Pattadakal",
+        "B": "Badami",
+        "C": "Aihole",
+        "D": "Mahakuta"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pattadakal served as an important ceremonial and coronation site for the Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK037",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What architectural styles coexist at Pattadakal?",
+      "options": {
+        "A": "Northern Nagara and southern Dravida forms, including combinations and regional innovations",
+        "B": "Only Dravida forms",
+        "C": "Only Nagara forms",
+        "D": "Indo-Saracenic and Gothic forms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Northern Nagara and southern Dravida forms coexist at Pattadakal, including combinations and regional innovations.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK038",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many principal Hindu temples and Jain sanctuaries are described by UNESCO at Pattadakal?",
+      "options": {
+        "A": "Nine Hindu temples and one Jain sanctuary",
+        "B": "Seven Hindu temples and two Jain sanctuaries",
+        "C": "Ten Hindu temples only",
+        "D": "Five Hindu temples and three Jain sanctuaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNESCO describes nine Hindu temples and one Jain sanctuary at Pattadakal.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK039",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which queen commissioned the Virupaksha Temple at Pattadakal?",
+      "options": {
+        "A": "Queen Lokamahadevi, around 740 CE",
+        "B": "Queen Trailokyamahadevi",
+        "C": "Queen Shantala Devi",
+        "D": "Maharani Vani Vilas Sannidhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Queen Lokamahadevi commissioned the Virupaksha Temple at Pattadakal around 740 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK040",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why was the Virupaksha Temple at Pattadakal commissioned?",
+      "options": {
+        "A": "To commemorate the victory of her husband Vikramaditya II over the Pallavas",
+        "B": "To celebrate the birth of a prince",
+        "C": "To mark the founding of the Chalukya dynasty",
+        "D": "To honour the Jain saint Bahubali"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Virupaksha Temple at Pattadakal was commissioned to commemorate the victory of Queen Lokamahadevi's husband Vikramaditya II over the Pallavas.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK041",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Pattadakal is associated with Queen Trailokyamahadevi?",
+      "options": {
+        "A": "The Mallikarjuna Temple",
+        "B": "The Virupaksha Temple",
+        "C": "The Papanatha Temple",
+        "D": "The Sangameshvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mallikarjuna Temple at Pattadakal is traditionally associated with the patronage of Queen Trailokyamahadevi.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK042",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the earlier name of the Virupaksha Temple at Pattadakal?",
+      "options": {
+        "A": "Lokeshvara, associated with its patron Lokamahadevi",
+        "B": "Vijayanarayana",
+        "C": "Chennakeshava",
+        "D": "Kashivishveshvara"
+      },
+      "correctAnswer": "A",
+      "explanation": "The earlier name of the Virupaksha Temple at Pattadakal was Lokeshvara, associated with its patron Lokamahadevi.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK043",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Pattadakal temple is notable for its Nagara-style tower?",
+      "options": {
+        "A": "The Papanatha Temple",
+        "B": "The Virupaksha Temple",
+        "C": "The Mallikarjuna Temple",
+        "D": "The Sangameshvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Papanatha Temple shows northern-style features, including a Nagara-style tower, alongside other stylistic influences.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+        {
+      "id": "AK044",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name major temples at Pattadakal.",
+      "options": {
+        "A": "Virupaksha, Mallikarjuna, Sangameshvara, Papanatha, Kashi Vishvanatha, Galaganatha, Jambulinga, Kadasiddheshvara and Chandrashekhara, plus a Jain temple",
+        "B": "Chennakeshava, Hoysaleshvara and Keshava",
+        "C": "Vitthala, Virupaksha and Krishna Temple",
+        "D": "Doddabasappa, Trikuteshwara and Mallikarjuna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major temples at Pattadakal include Virupaksha, Mallikarjuna, Sangameshvara, Papanatha, Kashi Vishvanatha, Galaganatha, Jambulinga, Kadasiddheshvara and Chandrashekhara, plus a Jain temple.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK045",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year did Pattadakal become a UNESCO World Heritage Site?",
+      "options": {
+        "A": "1987",
+        "B": "1986",
+        "C": "2023",
+        "D": "1979"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pattadakal became a UNESCO World Heritage Site in 1987.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK046",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Chalukya ruler is associated with the construction of the Sangameshvara Temple at Pattadakal?",
+      "options": {
+        "A": "Vijayaditya, with later work continuing under subsequent rulers",
+        "B": "Pulakeshin II",
+        "C": "Vikramaditya II",
+        "D": "Kirtivarman I"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayaditya is associated with the construction of the Sangameshvara Temple at Pattadakal, with later work continuing under subsequent rulers.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK047",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Mahakuta temple complex?",
+      "options": {
+        "A": "An important Early Chalukya Shaiva temple complex near Badami",
+        "B": "A Hoysala temple complex near Belur",
+        "C": "A Vijayanagara temple complex at Hampi",
+        "D": "A Western Chalukya temple complex at Itagi"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahakuta temple complex is an important Early Chalukya Shaiva temple complex near Badami.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK048",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which lake lies beside the Badami cave temples?",
+      "options": {
+        "A": "Agastya Lake",
+        "B": "Sannathi Lake",
+        "C": "Pushkarini Lake",
+        "D": "Tungabhadra Lake"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agastya Lake lies beside the Badami cave temples.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK049",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which dynasty is associated with Later Western Chalukya architecture?",
+      "options": {
+        "A": "The Western Chalukyas of Kalyani, prominent in the 10th-12th centuries",
+        "B": "The Early Badami Chalukyas",
+        "C": "The Hoysalas",
+        "D": "The Wodeyars"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Western Chalukyas of Kalyani, prominent in the 10th-12th centuries, are associated with Later Western Chalukya architecture.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK050",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was a major capital of the Western Chalukyas of Kalyani?",
+      "options": {
+        "A": "Kalyani, now Basavakalyan in Bidar district",
+        "B": "Vatapi (Badami)",
+        "C": "Dorasamudra (Halebidu)",
+        "D": "Hampi"
+      },
+      "correctAnswer": "A",
+      "explanation": "A major capital of the Western Chalukyas of Kalyani was Kalyani, now Basavakalyan in Bidar district.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK051",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is Western Chalukya architecture often characterised?",
+      "options": {
+        "A": "A transitional Deccan tradition with richly articulated plans, sculpted pillars and features influencing later Hoysala temples",
+        "B": "A purely Nagara tradition with amalaka towers",
+        "C": "An Indo-Saracenic style with domes and arches",
+        "D": "A rock-cut tradition with cave temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "Western Chalukya architecture is often characterised as a transitional Deccan tradition with richly articulated plans, sculpted pillars and features influencing later Hoysala temples.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK052",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which site is famous for the Mahadeva Temple of the Western Chalukyas?",
+      "options": {
+        "A": "Itagi in Koppal district",
+        "B": "Lakkundi in Gadag district",
+        "C": "Dambal in Gadag district",
+        "D": "Kuruvatti in Ballari district"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahadeva Temple of the Western Chalukyas is famous at Itagi in Koppal district.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK053",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Mahadeva Temple at Itagi sometimes called?",
+      "options": {
+        "A": "Devalaya Chakravarti, or emperor among temples, in a historic inscriptional description",
+        "B": "The Stone Chariot",
+        "C": "The Cradle of Indian Temple Architecture",
+        "D": "The Emperor's Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahadeva Temple at Itagi is sometimes called Devalaya Chakravarti, or emperor among temples, in a historic inscriptional description.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK054",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Lakkundi is associated with Western Chalukya architecture?",
+      "options": {
+        "A": "Kashivishveshvara Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kashivishveshvara Temple at Lakkundi is associated with Western Chalukya architecture.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK055",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which town is known for many Western Chalukya temples and stepped wells?",
+      "options": {
+        "A": "Lakkundi in Gadag district",
+        "B": "Itagi in Koppal district",
+        "C": "Dambal in Gadag district",
+        "D": "Kuruvatti in Ballari district"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lakkundi in Gadag district is known for many Western Chalukya temples and stepped wells.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK056",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which major temple at Dambal belongs to the Western Chalukya tradition?",
+      "options": {
+        "A": "Doddabasappa Temple",
+        "B": "Kashivishveshvara Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Doddabasappa Temple at Dambal belongs to the Western Chalukya tradition.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK057",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Gadag is associated with the Western Chalukyas?",
+      "options": {
+        "A": "Trikuteshwara Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Kashivishveshvara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Trikuteshwara Temple at Gadag is associated with the Western Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK058",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Kuruvatti is a Western Chalukya monument?",
+      "options": {
+        "A": "Mallikarjuna Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Kashivishveshvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mallikarjuna Temple at Kuruvatti is a Western Chalukya monument.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK059",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What stone is frequently associated with Western Chalukya carving?",
+      "options": {
+        "A": "Soapstone and other locally available stones, depending on site and construction phase",
+        "B": "Only granite",
+        "C": "Only sandstone",
+        "D": "Only marble"
+      },
+      "correctAnswer": "A",
+      "explanation": "Soapstone and other locally available stones, depending on site and construction phase, are frequently associated with Western Chalukya carving.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK060",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "During which centuries did Hoysala temple architecture flourish?",
+      "options": {
+        "A": "Mainly the 11th-14th centuries, with its celebrated surviving temples concentrated in the 12th-13th centuries",
+        "B": "Mainly the 6th-8th centuries",
+        "C": "Mainly the 14th-16th centuries",
+        "D": "Mainly the 16th-18th centuries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hoysala temple architecture flourished mainly in the 11th-14th centuries, with its celebrated surviving temples concentrated in the 12th-13th centuries.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK061",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What was the major Hoysala capital?",
+      "options": {
+        "A": "Dorasamudra, now Halebidu; Belur was an earlier important centre",
+        "B": "Vatapi (Badami)",
+        "C": "Hampi",
+        "D": "Kalyani"
+      },
+      "correctAnswer": "A",
+      "explanation": "The major Hoysala capital was Dorasamudra, now Halebidu; Belur was an earlier important centre.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK062",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which stone is characteristic of Hoysala temples?",
+      "options": {
+        "A": "Chloritic schist, commonly called soapstone",
+        "B": "Sandstone",
+        "C": "Granite",
+        "D": "Marble"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chloritic schist, commonly called soapstone, is characteristic of Hoysala temples.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK063",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a hallmark of Hoysala temple ground plans?",
+      "options": {
+        "A": "Complex stellate or star-shaped plans, often set on raised platforms",
+        "B": "Circular plans with domes",
+        "C": "Rectangular plans without platforms",
+        "D": "Apsidal or horseshoe-ended plans"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hallmark of Hoysala temple ground plans is complex stellate or star-shaped plans, often set on raised platforms.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK064",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a hallmark of Hoysala sculptural decoration?",
+      "options": {
+        "A": "Dense and intricate carvings, narrative panels, horizontal friezes, bracket figures and elaborate pillars",
+        "B": "Plain unadorned walls",
+        "C": "Large painted murals only",
+        "D": "Geometric tilework"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hallmark of Hoysala sculptural decoration is dense and intricate carvings, narrative panels, horizontal friezes, bracket figures and elaborate pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK065",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are madanikas or shilabalikas?",
+      "options": {
+        "A": "Decorative female bracket figures, often representing dancers, musicians or idealised figures",
+        "B": "Male guardian figures at temple entrances",
+        "C": "Animal figures on friezes",
+        "D": "Deities in the sanctum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Madanikas or shilabalikas are decorative female bracket figures, often representing dancers, musicians or idealised figures.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK066",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are ekakuta, dvikuta and trikuta temples?",
+      "options": {
+        "A": "Temples with one, two and three sanctums respectively",
+        "B": "Temples with one, two and three towers respectively",
+        "C": "Temples with one, two and three gateways respectively",
+        "D": "Temples with one, two and three tanks respectively"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ekakuta, dvikuta and trikuta temples have one, two and three sanctums respectively.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK067",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the Sala emblem represent?",
+      "options": {
+        "A": "A legendary figure named Sala confronting an animal, conventionally shown as a tiger or lion in varying depictions",
+        "B": "A dancing female figure",
+        "C": "A mythical bird",
+        "D": "A sacred cow"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sala emblem represents a legendary figure named Sala confronting an animal, conventionally shown as a tiger or lion in varying depictions.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK068",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which ruler commissioned the Chennakeshava Temple at Belur?",
+      "options": {
+        "A": "Hoysala king Vishnuvardhana",
+        "B": "Narasimha III",
+        "C": "Somanatha Dandanayaka",
+        "D": "Ketumalla"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hoysala king Vishnuvardhana commissioned the Chennakeshava Temple at Belur.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK069",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Chennakeshava Temple at Belur consecrated?",
+      "options": {
+        "A": "1117 CE",
+        "B": "1268 CE",
+        "C": "981 CE",
+        "D": "1336 CE"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chennakeshava Temple at Belur was consecrated in 1117 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK070",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "To which deity is the Chennakeshava Temple at Belur dedicated?",
+      "options": {
+        "A": "Vishnu in the form of Keshava/Chennakeshava",
+        "B": "Shiva",
+        "C": "Jain Tirthankara",
+        "D": "Durga"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chennakeshava Temple at Belur is dedicated to Vishnu in the form of Keshava/Chennakeshava.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK071",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is Belur located?",
+      "options": {
+        "A": "Hassan district, Karnataka",
+        "B": "Mysuru district",
+        "C": "Vijayanagara district",
+        "D": "Bagalkot district"
+      },
+      "correctAnswer": "A",
+      "explanation": "Belur is located in Hassan district, Karnataka.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK072",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is another name associated with the Belur Chennakeshava Temple?",
+      "options": {
+        "A": "Vijayanarayana Temple",
+        "B": "Lokeshvara Temple",
+        "C": "Hoysaleshvara Temple",
+        "D": "Keshava Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "Another name associated with the Belur Chennakeshava Temple is Vijayanarayana Temple.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK073",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which queen is associated with Hoysala art and dance and the Belur complex?",
+      "options": {
+        "A": "Shantala Devi, queen of Vishnuvardhana",
+        "B": "Lokamahadevi",
+        "C": "Trailokyamahadevi",
+        "D": "Vani Vilas Sannidhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shantala Devi, queen of Vishnuvardhana, is associated with Hoysala art and dance and the Belur complex.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK074",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which famous Hoysala temple is located at Halebidu?",
+      "options": {
+        "A": "Hoysaleshvara Temple, dedicated to Shiva",
+        "B": "Chennakeshava Temple",
+        "C": "Keshava Temple",
+        "D": "Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Hoysaleshvara Temple, dedicated to Shiva, is located at Halebidu.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK075",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is notable about the Halebidu Hoysaleshvara Temple plan?",
+      "options": {
+        "A": "It is a double-shrine or dvikuta Shaiva temple with elaborate sculpture",
+        "B": "It is a trikuta temple with three sanctums",
+        "C": "It is an ekakuta temple with one sanctum",
+        "D": "It has an apsidal plan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Halebidu Hoysaleshvara Temple is a double-shrine or dvikuta Shaiva temple with elaborate sculpture.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK076",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is associated with the patronage of the Hoysaleshvara Temple?",
+      "options": {
+        "A": "Ketumalla, a wealthy patron or official, is traditionally associated with its commissioning during Vishnuvardhana's reign",
+        "B": "Somanatha Dandanayaka",
+        "C": "Queen Shantala Devi",
+        "D": "Narasimha III"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ketumalla, a wealthy patron or official, is traditionally associated with the commissioning of the Hoysaleshvara Temple during Vishnuvardhana's reign.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK077",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temple is located at Somanathapura?",
+      "options": {
+        "A": "Keshava Temple, also called Chennakeshava Temple",
+        "B": "Hoysaleshvara Temple",
+        "C": "Lakshmi Devi Temple",
+        "D": "Veera Narayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Keshava Temple, also called Chennakeshava Temple, is located at Somanathapura.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK078",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who commissioned the Keshava Temple at Somanathapura?",
+      "options": {
+        "A": "Somanatha Dandanayaka, a commander under Hoysala ruler Narasimha III",
+        "B": "Vishnuvardhana",
+        "C": "Ketumalla",
+        "D": "Krishnadevaraya"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somanatha Dandanayaka, a commander under Hoysala ruler Narasimha III, commissioned the Keshava Temple at Somanathapura.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK079",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Keshava Temple at Somanathapura founded?",
+      "options": {
+        "A": "1268 CE",
+        "B": "1117 CE",
+        "C": "981 CE",
+        "D": "1336 CE"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Keshava Temple at Somanathapura was founded in 1268 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK080",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the shrine arrangement of the Somanathapura Keshava Temple?",
+      "options": {
+        "A": "A trikuta or three-sanctum plan",
+        "B": "A dvikuta or two-sanctum plan",
+        "C": "An ekakuta or one-sanctum plan",
+        "D": "A single apsidal shrine"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Somanathapura Keshava Temple has a trikuta or three-sanctum plan.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK081",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which district contains Somanathapura?",
+      "options": {
+        "A": "Mysuru district, Karnataka",
+        "B": "Hassan district",
+        "C": "Vijayanagara district",
+        "D": "Bagalkot district"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somanathapura is located in Mysuru district, Karnataka.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK082",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which three Hoysala temples were inscribed together by UNESCO?",
+      "options": {
+        "A": "Chennakeshava at Belur, Hoysaleshvara at Halebidu and Keshava at Somanathapura",
+        "B": "Virupaksha, Mallikarjuna and Papanatha at Pattadakal",
+        "C": "Vitthala, Virupaksha and Krishna Temple at Hampi",
+        "D": "Doddabasappa, Trikuteshwara and Mallikarjuna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chennakeshava at Belur, Hoysaleshvara at Halebidu and Keshava at Somanathapura were inscribed together by UNESCO as the Sacred Ensembles of the Hoysalas.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK083",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year were the Sacred Ensembles of the Hoysalas inscribed by UNESCO?",
+      "options": {
+        "A": "2023",
+        "B": "1986",
+        "C": "1987",
+        "D": "2014"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sacred Ensembles of the Hoysalas were inscribed by UNESCO in 2023.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK084",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Arasikere?",
+      "options": {
+        "A": "Ishvara Temple, noted for its architectural plan",
+        "B": "Amruteshvara Temple",
+        "C": "Lakshmi Narasimha Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ishvara Temple at Arasikere is noted for its architectural plan.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+        {
+      "id": "AK085",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Amruthapura?",
+      "options": {
+        "A": "Amruteshvara Temple, a 12th-century Shaiva temple in Chikkamagaluru district",
+        "B": "Ishvara Temple",
+        "C": "Lakshmi Narasimha Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Amruteshvara Temple at Amruthapura is a 12th-century Shaiva temple in Chikkamagaluru district.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK086",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Nuggehalli?",
+      "options": {
+        "A": "Lakshmi Narasimha Temple, associated with the Hoysala period",
+        "B": "Amruteshvara Temple",
+        "C": "Ishvara Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Narasimha Temple at Nuggehalli is associated with the Hoysala period.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK087",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Hosaholalu?",
+      "options": {
+        "A": "Lakshminarayana Temple, noted for its ornate sculpture",
+        "B": "Lakshmi Narasimha Temple",
+        "C": "Amruteshvara Temple",
+        "D": "Ishvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshminarayana Temple at Hosaholalu is noted for its ornate sculpture.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK088",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Belavadi?",
+      "options": {
+        "A": "Veera Narayana Temple, known for its three shrines",
+        "B": "Lakshmi Devi Temple",
+        "C": "Lakshminarayana Temple",
+        "D": "Ishvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Veera Narayana Temple at Belavadi is known for its three shrines.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK089",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is at Doddagaddavalli?",
+      "options": {
+        "A": "Lakshmi Devi Temple, a notable early Hoysala monument",
+        "B": "Veera Narayana Temple",
+        "C": "Lakshminarayana Temple",
+        "D": "Lakshmi Narasimha Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Devi Temple at Doddagaddavalli is a notable early Hoysala monument.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK090",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Hoysala artist signatures?",
+      "options": {
+        "A": "Some sculptures bear the names of sculptors, offering evidence about artistic workshops and individual artisans",
+        "B": "They indicate the reigning king",
+        "C": "They record the temple's consecration date",
+        "D": "They mark the temple's geographical location"
+      },
+      "correctAnswer": "A",
+      "explanation": "Some Hoysala sculptures bear the names of sculptors, offering evidence about artistic workshops and individual artisans.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK091",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name two well-known Hoysala sculptors.",
+      "options": {
+        "A": "Dasoja and his son Chavana, associated with sculptural work at Belur",
+        "B": "Ravikirti and Bilhana",
+        "C": "Henry Irwin and E. W. Fritchley",
+        "D": "Somanatha Dandanayaka and Ketumalla"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dasoja and his son Chavana are associated with sculptural work at Belur.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK092",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Hoysala and Early Chalukya temple design?",
+      "options": {
+        "A": "Hoysala temples typically emphasise intricate soapstone carving and complex star plans; Early Chalukya monuments prominently experiment with sandstone, rock-cut forms and northern/southern structural styles",
+        "B": "Hoysala temples use granite while Early Chalukya temples use soapstone",
+        "C": "Hoysala temples are rock-cut while Early Chalukya temples are structural",
+        "D": "Hoysala temples are Indo-Saracenic while Early Chalukya temples are Dravida"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hoysala temples typically emphasise intricate soapstone carving and complex star plans; Early Chalukya monuments prominently experiment with sandstone, rock-cut forms and northern/southern structural styles.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK093",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When did the Vijayanagara Empire exist?",
+      "options": {
+        "A": "Traditionally dated from 1336 CE, with the empire remaining a major power until the 16th century and successor authority continuing later",
+        "B": "From the 6th to 8th centuries CE",
+        "C": "From the 11th to 14th centuries CE",
+        "D": "From the 16th to 18th centuries CE"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vijayanagara Empire is traditionally dated from 1336 CE, remaining a major power until the 16th century, with successor authority continuing later.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK094",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who are traditionally credited with founding Vijayanagara?",
+      "options": {
+        "A": "Harihara I and Bukka Raya I of the Sangama dynasty",
+        "B": "Krishnadevaraya and his brother",
+        "C": "Vishnuvardhana and his queen",
+        "D": "Pulakeshin II and Vikramaditya II"
+      },
+      "correctAnswer": "A",
+      "explanation": "Harihara I and Bukka Raya I of the Sangama dynasty are traditionally credited with founding Vijayanagara.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK095",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where was the principal capital of Vijayanagara?",
+      "options": {
+        "A": "Hampi, on the Tungabhadra River",
+        "B": "Badami, on the Malaprabha River",
+        "C": "Halebidu, in Hassan district",
+        "D": "Srirangapatna, on the Kaveri River"
+      },
+      "correctAnswer": "A",
+      "explanation": "The principal capital of Vijayanagara was Hampi, on the Tungabhadra River.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK096",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which district contains the core Hampi heritage area today?",
+      "options": {
+        "A": "Vijayanagara district, Karnataka; older official references may say Ballari district",
+        "B": "Hassan district",
+        "C": "Mysuru district",
+        "D": "Bagalkot district"
+      },
+      "correctAnswer": "A",
+      "explanation": "The core Hampi heritage area is in Vijayanagara district, Karnataka; older official references may say Ballari district.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK097",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the dominant temple architectural style at Vijayanagara?",
+      "options": {
+        "A": "A monumental southern Dravida tradition, with distinctive imperial gateways, pillared halls and temple streets",
+        "B": "A purely Nagara tradition with amalaka towers",
+        "C": "An Indo-Saracenic style with domes and arches",
+        "D": "A Hoysala-style stellate tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dominant temple architectural style at Vijayanagara is a monumental southern Dravida tradition, with distinctive imperial gateways, pillared halls and temple streets.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK098",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Raya Gopura?",
+      "options": {
+        "A": "A tall, monumental gateway tower characteristic of later Vijayanagara temple development",
+        "B": "A pillared hall with musical pillars",
+        "C": "A royal ceremonial platform",
+        "D": "A stepped tank in the royal enclosure"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Raya Gopura is a tall, monumental gateway tower characteristic of later Vijayanagara temple development.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK099",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a yali pillar?",
+      "options": {
+        "A": "A sculpted pillar depicting a mythical leonine or composite creature, common in Vijayanagara halls",
+        "B": "A pillar with musical notes",
+        "C": "A lathe-turned pillar",
+        "D": "A pillar carved with female bracket figures"
+      },
+      "correctAnswer": "A",
+      "explanation": "A yali pillar is a sculpted pillar depicting a mythical leonine or composite creature, common in Vijayanagara halls.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK100",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a kalyan mandapa in Vijayanagara temples?",
+      "options": {
+        "A": "A ceremonial hall often decorated with carved pillars",
+        "B": "A stepped tank for ritual bathing",
+        "C": "A royal audience hall",
+        "D": "A monumental gateway tower"
+      },
+      "correctAnswer": "A",
+      "explanation": "A kalyan mandapa in Vijayanagara temples is a ceremonial hall often decorated with carved pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK101",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which building materials were widely used at Hampi?",
+      "options": {
+        "A": "Local granite, with brick and lime mortar also used in superstructures and other buildings",
+        "B": "Soapstone and sandstone only",
+        "C": "Marble and teakwood",
+        "D": "Laterite and mud"
+      },
+      "correctAnswer": "A",
+      "explanation": "Local granite was widely used at Hampi, with brick and lime mortar also used in superstructures and other buildings.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK102",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Hampi temple is dedicated to Vitthala, a form of Vishnu?",
+      "options": {
+        "A": "The Vitthala Temple (also spelled Vittala/Vitlala)",
+        "B": "The Virupaksha Temple",
+        "C": "The Krishna Temple",
+        "D": "The Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vitthala Temple at Hampi is dedicated to Vitthala, a form of Vishnu.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK103",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is the famous Stone Chariot located?",
+      "options": {
+        "A": "Within the Vitthala Temple complex at Hampi",
+        "B": "At the Virupaksha Temple, Hampi",
+        "C": "At the Chennakeshava Temple, Belur",
+        "D": "At the Keshava Temple, Somanathapura"
+      },
+      "correctAnswer": "A",
+      "explanation": "The famous Stone Chariot is located within the Vitthala Temple complex at Hampi.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK104",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the Stone Chariot at Hampi represent?",
+      "options": {
+        "A": "A shrine for Garuda, the vehicle of Vishnu, fashioned as a stone chariot",
+        "B": "A royal procession vehicle",
+        "C": "A war chariot of Krishnadevaraya",
+        "D": "A symbol of the Sun god"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Stone Chariot at Hampi represents a shrine for Garuda, the vehicle of Vishnu, fashioned as a stone chariot.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK105",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temple at Hampi is associated with musical pillars?",
+      "options": {
+        "A": "Vitthala Temple, especially its celebrated pillared hall",
+        "B": "Virupaksha Temple",
+        "C": "Krishna Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vitthala Temple at Hampi is associated with musical pillars, especially its celebrated pillared hall.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK106",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Hampi temple remains a major active place of worship?",
+      "options": {
+        "A": "Virupaksha Temple, dedicated to Shiva",
+        "B": "Vitthala Temple",
+        "C": "Krishna Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Virupaksha Temple, dedicated to Shiva, remains a major active place of worship at Hampi.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK107",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Hampi is associated with Krishnadevaraya's reign and a Krishna image?",
+      "options": {
+        "A": "Krishna Temple, associated with Krishnadevaraya's campaign and temple patronage",
+        "B": "Virupaksha Temple",
+        "C": "Vitthala Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Krishna Temple at Hampi is associated with Krishnadevaraya's campaign and temple patronage.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK108",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monumental monolithic sculpture at Hampi depicts Narasimha?",
+      "options": {
+        "A": "Lakshmi Narasimha, commonly called Ugra Narasimha",
+        "B": "Bahubali",
+        "C": "Garuda",
+        "D": "Yali"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Narasimha, commonly called Ugra Narasimha, is a monumental monolithic sculpture at Hampi depicting Narasimha.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK109",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi structure is known as the Lotus Mahal?",
+      "options": {
+        "A": "A pavilion in the Zenana Enclosure combining elements of different architectural traditions",
+        "B": "A stepped tank in the Royal Enclosure",
+        "C": "A temple hall with musical pillars",
+        "D": "A royal audience hall"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lotus Mahal is a pavilion in the Zenana Enclosure at Hampi combining elements of different architectural traditions.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK110",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monument shows Indo-Islamic features in a royal setting?",
+      "options": {
+        "A": "Elephant Stables, with varied domes and arched forms",
+        "B": "Vitthala Temple",
+        "C": "Virupaksha Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Elephant Stables at Hampi show Indo-Islamic features in a royal setting, with varied domes and arched forms.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK111",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the Mahanavami Dibba used for?",
+      "options": {
+        "A": "A large ceremonial platform associated with royal festivals, processions and public displays",
+        "B": "A stepped tank for ritual bathing",
+        "C": "A royal residence",
+        "D": "A temple gateway tower"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahanavami Dibba was a large ceremonial platform associated with royal festivals, processions and public displays.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK112",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which royal structure at Hampi is known for its stepped tank?",
+      "options": {
+        "A": "The stepped tank in the Royal Enclosure, part of a sophisticated hydraulic system",
+        "B": "The Queen's Bath",
+        "C": "The Lotus Mahal",
+        "D": "The Elephant Stables"
+      },
+      "correctAnswer": "A",
+      "explanation": "The stepped tank in the Royal Enclosure at Hampi is part of a sophisticated hydraulic system.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK113",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Queen's Bath at Hampi?",
+      "options": {
+        "A": "A royal-period water pavilion showing architectural elements often described as Indo-Islamic",
+        "B": "A stepped tank in the Royal Enclosure",
+        "C": "A ceremonial platform for festivals",
+        "D": "A temple tank for ritual bathing"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Queen's Bath at Hampi is a royal-period water pavilion showing architectural elements often described as Indo-Islamic.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK114",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was the function of the long bazaar streets at Hampi?",
+      "options": {
+        "A": "They linked temple precincts and urban markets and were used for commerce and processional activity",
+        "B": "They were royal residential quarters",
+        "C": "They served as military parade grounds",
+        "D": "They were ceremonial bathing areas"
+      },
+      "correctAnswer": "A",
+      "explanation": "The long bazaar streets at Hampi linked temple precincts and urban markets and were used for commerce and processional activity.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK115",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which ruler is especially associated with Vijayanagara's architectural zenith?",
+      "options": {
+        "A": "Krishnadevaraya, who reigned from 1509 to 1529/1530 CE",
+        "B": "Harihara I",
+        "C": "Bukka Raya I",
+        "D": "Vishnuvardhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Krishnadevaraya, who reigned from 1509 to 1529/1530 CE, is especially associated with Vijayanagara's architectural zenith.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK116",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happened after the Battle of Talikota in 1565?",
+      "options": {
+        "A": "Vijayanagara suffered a major military defeat, followed by destruction and abandonment of much of the capital, though the polity continued elsewhere",
+        "B": "Vijayanagara was founded",
+        "C": "The Hoysala dynasty came to power",
+        "D": "Hampi was rebuilt as a modern city"
+      },
+      "correctAnswer": "A",
+      "explanation": "After the Battle of Talikota in 1565, Vijayanagara suffered a major military defeat, followed by destruction and abandonment of much of the capital, though the polity continued elsewhere.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK117",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In which year did the Group of Monuments at Hampi enter the UNESCO World Heritage List?",
+      "options": {
+        "A": "1986",
+        "B": "1987",
+        "C": "2023",
+        "D": "1979"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Hampi entered the UNESCO World Heritage List in 1986.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK118",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which two major architectural spheres coexist in Vijayanagara remains?",
+      "options": {
+        "A": "Religious Dravidian temple architecture and royal/secular buildings incorporating varied Deccan and Indo-Islamic elements",
+        "B": "Nagara and Vesara temple architecture only",
+        "C": "Hoysala and Chalukya architecture only",
+        "D": "Buddhist and Jain architecture only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Religious Dravidian temple architecture and royal/secular buildings incorporating varied Deccan and Indo-Islamic elements coexist in Vijayanagara remains.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK119",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which important Jain monument is found in Hampi?",
+      "options": {
+        "A": "The Ganagitti Jain Temple, associated with the early Vijayanagara period",
+        "B": "The Meguti Jain Temple",
+        "C": "The Keshava Temple",
+        "D": "The Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ganagitti Jain Temple at Hampi is associated with the early Vijayanagara period.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK120",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which dynasty is most closely associated with Mysore palace architecture?",
+      "options": {
+        "A": "The Wodeyar or Wadiyar dynasty of Mysore",
+        "B": "The Hoysalas",
+        "C": "The Vijayanagara rulers",
+        "D": "The Adil Shahis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Wodeyar or Wadiyar dynasty of Mysore is most closely associated with Mysore palace architecture.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK121",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the official name of Mysore Palace?",
+      "options": {
+        "A": "Amba Vilas Palace",
+        "B": "Jagannohan Palace",
+        "C": "Lalitha Mahal",
+        "D": "Daria Daulat Bagh"
+      },
+      "correctAnswer": "A",
+      "explanation": "The official name of Mysore Palace is Amba Vilas Palace.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK122",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which architectural style characterises the present Mysore Palace?",
+      "options": {
+        "A": "Indo-Saracenic, combining Indian and European architectural elements",
+        "B": "Neo-Dravidian",
+        "C": "Hoysala",
+        "D": "Tudor Gothic"
+      },
+      "correctAnswer": "A",
+      "explanation": "The present Mysore Palace is characterised by the Indo-Saracenic style, combining Indian and European architectural elements.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK123",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who designed the present Mysore Palace?",
+      "options": {
+        "A": "British architect Henry Irwin",
+        "B": "E. W. Fritchley",
+        "C": "Kengal Hanumanthai",
+        "D": "Somanatha Dandanayaka"
+      },
+      "correctAnswer": "A",
+      "explanation": "The present Mysore Palace was designed by British architect Henry Irwin.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK124",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the present Mysore Palace constructed?",
+      "options": {
+        "A": "From 1897 to 1912, following a fire that destroyed the earlier wooden palace",
+        "B": "From 1861 to 1870",
+        "C": "From 1921 to 1930",
+        "D": "From 1950 to 1956"
+      },
+      "correctAnswer": "A",
+      "explanation": "The present Mysore Palace was constructed from 1897 to 1912, following a fire that destroyed the earlier wooden palace.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK125",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was the regent under whom the new Mysore Palace was commissioned?",
+      "options": {
+        "A": "Maharani Vani Vilas Sannidhana, during the minority of Krishnaraja Wadiyar IV",
+        "B": "Queen Lokamahadevi",
+        "C": "Queen Shantala Devi",
+        "D": "Maharani Trailokyamahadevi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Maharani Vani Vilas Sannidhana commissioned the new Mysore Palace as regent during the minority of Krishnaraja Wadiyar IV.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+        {
+      "id": "AK126",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which palace hall is noted for stained glass and ceremonial decoration?",
+      "options": {
+        "A": "The Kalyana Mantapa of Mysore Palace",
+        "B": "The Durbar Hall of Mysore Palace",
+        "C": "The Ambavilas Hall",
+        "D": "The Jagannohan Gallery"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kalyana Mantapa of Mysore Palace is noted for stained glass and ceremonial decoration.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK127",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Durbar Hall of Mysore Palace?",
+      "options": {
+        "A": "An ornate ceremonial audience hall associated with royal court functions",
+        "B": "A temple tank",
+        "C": "A stepped well",
+        "D": "A royal garden pavilion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Durbar Hall of Mysore Palace is an ornate ceremonial audience hall associated with royal court functions.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK128",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of Mysore Dasara to palace heritage?",
+      "options": {
+        "A": "It preserves ceremonial traditions of the Wodeyar court and the palace's role in state celebrations",
+        "B": "It marks the consecration of the Chennakeshava Temple",
+        "C": "It commemorates the Battle of Talikota",
+        "D": "It celebrates the founding of Vijayanagara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mysore Dasara preserves ceremonial traditions of the Wodeyar court and the palace's role in state celebrations.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK129",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Jagannohan Palace?",
+      "options": {
+        "A": "A historic Mysuru palace built in the 19th century, now known for its art gallery and collections",
+        "B": "A summer palace built by Tipu Sultan",
+        "C": "The official residence of the Wodeyar dynasty today",
+        "D": "A palace in Bengaluru built in Tudor style"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jagannohan Palace is a historic Mysuru palace built in the 19th century, now known for its art gallery and collections.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK130",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Jagannohan Palace built?",
+      "options": {
+        "A": "1861",
+        "B": "1897",
+        "C": "1921",
+        "D": "1956"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jagannohan Palace was built in 1861.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK131",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Lalitha Mahal?",
+      "options": {
+        "A": "A grand palace in Mysuru built in the early 20th century, noted for its European-inspired architecture",
+        "B": "A Hoysala temple at Somanathapura",
+        "C": "A summer palace at Srirangapatna",
+        "D": "A palace in Bengaluru with Tudor features"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lalitha Mahal is a grand palace in Mysuru built in the early 20th century, noted for its European-inspired architecture.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK132",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Lalitha Mahal completed?",
+      "options": {
+        "A": "1921",
+        "B": "1861",
+        "C": "1897",
+        "D": "1912"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lalitha Mahal was completed in 1921.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK133",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who designed Lalitha Mahal?",
+      "options": {
+        "A": "Architect E. W. Fritchley is commonly credited with its design",
+        "B": "Henry Irwin",
+        "C": "Kengal Hanumanthai",
+        "D": "Chavana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Architect E. W. Fritchley is commonly credited with the design of Lalitha Mahal.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK134",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bangalore Palace known for?",
+      "options": {
+        "A": "Its Tudor-inspired and Gothic-revival features, towers and royal residential history",
+        "B": "Its Indo-Saracenic domes",
+        "C": "Its Hoysala-style stellate plan",
+        "D": "Its Dravida gopuras"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bangalore Palace is known for its Tudor-inspired and Gothic-revival features, towers and royal residential history.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK135",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Mysore architectural period?",
+      "options": {
+        "A": "It reflects Wodeyar patronage of palaces, civic buildings, temples and public institutions, including Indo-Saracenic and European-influenced designs",
+        "B": "It marks the introduction of rock-cut cave architecture",
+        "C": "It represents the earliest phase of Indian temple architecture",
+        "D": "It is known only for Jain monuments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mysore architectural period reflects Wodeyar patronage of palaces, civic buildings, temples and public institutions, including Indo-Saracenic and European-influenced designs.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK136",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which building in Mysuru is associated with the Oriental Research Institute?",
+      "options": {
+        "A": "The historic building originally associated with Jubilee Hall houses the Oriental Research Institute",
+        "B": "Jagannohan Palace",
+        "C": "Lalitha Mahal",
+        "D": "Amba Vilas Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "The historic building originally associated with Jubilee Hall houses the Oriental Research Institute in Mysuru.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK137",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which palace at Srirangapatna is associated with Tipu Sultan?",
+      "options": {
+        "A": "Daria Daulat Bagh, a summer palace built in 1784, known for its painted wooden interiors",
+        "B": "Lalitha Mahal",
+        "C": "Jagannohan Palace",
+        "D": "Bangalore Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daria Daulat Bagh at Srirangapatna is a summer palace built in 1784, associated with Tipu Sultan and known for its painted wooden interiors.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK138",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the architectural material of Daria Daulat Bagh?",
+      "options": {
+        "A": "Predominantly teakwood, with painted decorative surfaces",
+        "B": "Granite and lime mortar",
+        "C": "Soapstone",
+        "D": "Marble and sandstone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daria Daulat Bagh is predominantly built of teakwood, with painted decorative surfaces.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK139",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which fort is associated with Tipu Sultan and Hyder Ali?",
+      "options": {
+        "A": "Srirangapatna Fort, strengthened and used during the Mysore kingdom's military history",
+        "B": "Bidar Fort",
+        "C": "Badami Fort",
+        "D": "Hampi Fort"
+      },
+      "correctAnswer": "A",
+      "explanation": "Srirangapatna Fort is associated with Tipu Sultan and Hyder Ali and was strengthened and used during the Mysore kingdom's military history.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK140",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Bengaluru monument is associated with Tipu Sultan?",
+      "options": {
+        "A": "Tipu Sultan's Summer Palace, a teakwood palace in Bengaluru",
+        "B": "Vidhana Soudha",
+        "C": "Attara Kacheri",
+        "D": "Bangalore Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tipu Sultan's Summer Palace is a teakwood palace in Bengaluru associated with Tipu Sultan.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK141",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru structure is a prominent example of Indo-Saracenic civic architecture?",
+      "options": {
+        "A": "Attara Kacheri and other colonial-era buildings are important civic heritage; Attara Kacheri is principally neoclassical rather than Indo-Saracenic",
+        "B": "Vidhana Soudha",
+        "C": "Bangalore Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Attara Kacheri and other colonial-era buildings are important civic heritage; Attara Kacheri is principally neoclassical rather than Indo-Saracenic.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK142",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What style characterises the Vidhana Soudha in Bengaluru?",
+      "options": {
+        "A": "A modern monumental design often described as Neo-Dravidian, incorporating Indian architectural motifs",
+        "B": "Indo-Saracenic",
+        "C": "Tudor Gothic",
+        "D": "Hoysala"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vidhana Soudha in Bengaluru is a modern monumental design often described as Neo-Dravidian, incorporating Indian architectural motifs.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK143",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was the political leader most closely associated with construction of Vidhana Soudha?",
+      "options": {
+        "A": "Kengal Hanumanthai, Chief Minister of Mysore State",
+        "B": "Henry Irwin",
+        "C": "Krishnadevaraya",
+        "D": "Vishnuvardhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kengal Hanumanthai, Chief Minister of Mysore State, was the political leader most closely associated with the construction of Vidhana Soudha.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK144",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Vidhana Soudha completed?",
+      "options": {
+        "A": "1956",
+        "B": "1921",
+        "C": "1912",
+        "D": "1986"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vidhana Soudha was completed in 1956.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK145",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which dynasty is associated with the Gomateshwara statue at Shravanabelagola?",
+      "options": {
+        "A": "The Western Gangas; the monument was commissioned by Chavundaraya",
+        "B": "The Hoysalas",
+        "C": "The Vijayanagara rulers",
+        "D": "The Adil Shahis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Western Gangas are associated with the Gomateshwara statue at Shravanabelagola; it was commissioned by Chavundaraya.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK146",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was the Gomateshwara statue consecrated?",
+      "options": {
+        "A": "981 CE",
+        "B": "1117 CE",
+        "C": "1268 CE",
+        "D": "1336 CE"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gomateshwara statue at Shravanabelagola was consecrated in 981 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK147",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is depicted in the Gomateshwara monolith?",
+      "options": {
+        "A": "Bahubali, revered in Jainism",
+        "B": "Mahavira",
+        "C": "Narasimha",
+        "D": "Garuda"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gomateshwara monolith depicts Bahubali, revered in Jainism.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK148",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dynasty built many temples at Talakad?",
+      "options": {
+        "A": "Western Gangas, followed by later Chola, Hoysala and other patronage",
+        "B": "The Adil Shahis only",
+        "C": "The Wodeyars only",
+        "D": "The Bahmanis only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Western Gangas built many temples at Talakad, followed by later Chola, Hoysala and other patronage.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK149",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dynasty is associated with the early temple at Banavasi?",
+      "options": {
+        "A": "Kadambas; the Madhukeshwara Temple preserves elements from multiple later phases",
+        "B": "Hoysalas",
+        "C": "Adil Shahis",
+        "D": "Western Gangas"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kadambas are associated with the early temple at Banavasi; the Madhukeshwara Temple preserves elements from multiple later phases.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK150",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Karnataka site is famous for the Keshava Temple built by Hoysala patron Somanatha?",
+      "options": {
+        "A": "Somanathapura",
+        "B": "Belur",
+        "C": "Halebidu",
+        "D": "Arasikere"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somanathapura is famous for the Keshava Temple built by Hoysala patron Somanatha Dandanayaka.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK151",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which city is known for the Gol Gumbaz?",
+      "options": {
+        "A": "Vijayapura (Bijapur)",
+        "B": "Bidar",
+        "C": "Kalaburagi",
+        "D": "Hampi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayapura (Bijapur) is known for the Gol Gumbaz.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK152",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who commissioned Gol Gumbaz?",
+      "options": {
+        "A": "Muhammad Adil Shah of the Adil Shahi dynasty; it is his mausoleum",
+        "B": "Ibrahim Adil Shah II",
+        "C": "Mahmud Gawan",
+        "D": "Tipu Sultan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gol Gumbaz was commissioned by Muhammad Adil Shah of the Adil Shahi dynasty; it is his mausoleum.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK153",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Gol Gumbaz famous for?",
+      "options": {
+        "A": "Its vast unsupported masonry dome and whispering gallery",
+        "B": "Its stone chariot",
+        "C": "Its musical pillars",
+        "D": "Its star-shaped plan"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gol Gumbaz is famous for its vast unsupported masonry dome and whispering gallery.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK154",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which city is famous for Ibrahim Rauza?",
+      "options": {
+        "A": "Vijayapura, Karnataka",
+        "B": "Bidar",
+        "C": "Kalaburagi",
+        "D": "Srirangapatna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ibrahim Rauza is famous in Vijayapura, Karnataka.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK155",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is commemorated at Ibrahim Rauza?",
+      "options": {
+        "A": "Ibrahim Adil Shah II and members of his family",
+        "B": "Muhammad Adil Shah",
+        "C": "Mahmud Gawan",
+        "D": "Tipu Sultan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ibrahim Rauza commemorates Ibrahim Adil Shah II and members of his family.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK156",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which city is famous for the Bidar Fort?",
+      "options": {
+        "A": "Bidar, associated with Bahmani and later Barid Shahi rulers",
+        "B": "Vijayapura",
+        "C": "Kalaburagi",
+        "D": "Hampi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bidar is famous for the Bidar Fort, associated with Bahmani and later Barid Shahi rulers.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK157",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Mahmud Gawan Madrasa?",
+      "options": {
+        "A": "A 15th-century Islamic educational monument in Bidar associated with Bahmani minister Mahmud Gawan",
+        "B": "A Hoysala temple at Somanathapura",
+        "C": "A Wodeyar palace in Mysuru",
+        "D": "A Vijayanagara royal pavilion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mahmud Gawan Madrasa is a 15th-century Islamic educational monument in Bidar associated with Bahmani minister Mahmud Gawan.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK158",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monument in Kalaburagi is associated with the Bahmani Sultanate?",
+      "options": {
+        "A": "The Gulbarga Jama Masjid, within the historic fort complex",
+        "B": "The Gol Gumbaz",
+        "C": "The Ibrahim Rauza",
+        "D": "The Mahmud Gawan Madrasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gulbarga Jama Masjid, within the historic fort complex in Kalaburagi, is associated with the Bahmani Sultanate.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK159",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Srirangapatna?",
+      "options": {
+        "A": "A fortified island town on the Kaveri associated with the Wodeyars, Hyder Ali and Tipu Sultan, with important temples, palaces and military remains",
+        "B": "A Hoysala capital with star-shaped temples",
+        "C": "A Chalukyan coronation site",
+        "D": "A Bahmani fort city"
+      },
+      "correctAnswer": "A",
+      "explanation": "Srirangapatna is a fortified island town on the Kaveri associated with the Wodeyars, Hyder Ali and Tipu Sultan, with important temples, palaces and military remains.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK160",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which site is known for the Keshava Temple at Somanathapura and its stellate design?",
+      "options": {
+        "A": "Somanathapura, representing mature Hoysala architecture",
+        "B": "Belur",
+        "C": "Halebidu",
+        "D": "Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somanathapura, representing mature Hoysala architecture, is known for the Keshava Temple and its stellate design.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK161",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the Badami cave temples?",
+      "options": {
+        "A": "They illustrate early Deccan rock-cut Hindu and Jain art under the Chalukyas",
+        "B": "They are the earliest Hoysala temples",
+        "C": "They are Vijayanagara royal monuments",
+        "D": "They are Bahmani Islamic monuments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Badami cave temples illustrate early Deccan rock-cut Hindu and Jain art under the Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK162",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Pattadakal?",
+      "options": {
+        "A": "It preserves a remarkable synthesis of northern and southern temple architecture under the Early Chalukyas",
+        "B": "It preserves the royal and hydraulic remains of the Vijayanagara capital",
+        "C": "It is the site of the Gol Gumbaz",
+        "D": "It is the birthplace of Hoysala architecture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pattadakal preserves a remarkable synthesis of northern and southern temple architecture under the Early Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK163",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Hampi?",
+      "options": {
+        "A": "It preserves the religious, urban, royal and hydraulic remains of the Vijayanagara capital",
+        "B": "It preserves the rock-cut caves of the Early Chalukyas",
+        "C": "It is the site of the Keshava Temple",
+        "D": "It is the capital of the Adil Shahis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hampi preserves the religious, urban, royal and hydraulic remains of the Vijayanagara capital.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK164",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Mysore Palace?",
+      "options": {
+        "A": "It is a major Wodeyar-era Indo-Saracenic royal complex and a focal point of Mysuru Dasara",
+        "B": "It is a Hoysala trikuta temple",
+        "C": "It is a Bahmani mausoleum",
+        "D": "It is a Vijayanagara royal platform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mysore Palace is a major Wodeyar-era Indo-Saracenic royal complex and a focal point of Mysuru Dasara.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK165",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Karnataka Chalukyan monument group is on the UNESCO World Heritage List?",
+      "options": {
+        "A": "Group of Monuments at Pattadakal (1987)",
+        "B": "Group of Monuments at Hampi (1986)",
+        "C": "Sacred Ensembles of the Hoysalas (2023)",
+        "D": "Badami Cave Temples (1986)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Pattadakal is on the UNESCO World Heritage List, inscribed in 1987.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK166",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Vijayanagara monument group is on the UNESCO World Heritage List?",
+      "options": {
+        "A": "Group of Monuments at Hampi (1986)",
+        "B": "Group of Monuments at Pattadakal (1987)",
+        "C": "Sacred Ensembles of the Hoysalas (2023)",
+        "D": "Srirangapatna Monuments (1986)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Hampi is on the UNESCO World Heritage List, inscribed in 1986.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+        {
+      "id": "AK167",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Hoysala monument group is on the UNESCO World Heritage List?",
+      "options": {
+        "A": "Sacred Ensembles of the Hoysalas (2023)",
+        "B": "Group of Monuments at Hampi (1986)",
+        "C": "Group of Monuments at Pattadakal (1987)",
+        "D": "Belur Monuments (1986)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sacred Ensembles of the Hoysalas were inscribed on the UNESCO World Heritage List in 2023.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK168",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temples comprise the UNESCO Sacred Ensembles of the Hoysalas?",
+      "options": {
+        "A": "Chennakeshava Temple at Belur, Hoysaleshvara Temple at Halebidu and Keshava Temple at Somanathapura",
+        "B": "Virupaksha, Mallikarjuna and Papanatha temples at Pattadakal",
+        "C": "Vitthala, Virupaksha and Krishna temples at Hampi",
+        "D": "Ishvara, Amruteshvara and Lakshmi Devi temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "The UNESCO Sacred Ensembles of the Hoysalas comprise the Chennakeshava Temple at Belur, Hoysaleshvara Temple at Halebidu and Keshava Temple at Somanathapura.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK169",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the chronological order of UNESCO inscriptions for Hampi, Pattadakal and the Hoysala ensembles?",
+      "options": {
+        "A": "Hampi 1986; Pattadakal 1987; Hoysala ensembles 2023",
+        "B": "Pattadakal 1986; Hampi 1987; Hoysala ensembles 2023",
+        "C": "Hoysala ensembles 1986; Hampi 1987; Pattadakal 2023",
+        "D": "Hampi 1987; Pattadakal 1986; Hoysala ensembles 2014"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chronological order of UNESCO inscriptions is Hampi 1986; Pattadakal 1987; Hoysala ensembles 2023.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK170",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which monument was built by Queen Lokamahadevi?",
+      "options": {
+        "A": "Virupaksha Temple, Pattadakal",
+        "B": "Chennakeshava Temple, Belur",
+        "C": "Keshava Temple, Somanathapura",
+        "D": "Hoysaleshvara Temple, Halebidu"
+      },
+      "correctAnswer": "A",
+      "explanation": "Queen Lokamahadevi built the Virupaksha Temple at Pattadakal.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK171",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temple was commissioned by Vishnuvardhana?",
+      "options": {
+        "A": "Chennakeshava Temple, Belur",
+        "B": "Keshava Temple, Somanathapura",
+        "C": "Virupaksha Temple, Pattadakal",
+        "D": "Hoysaleshvara Temple, Halebidu"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chennakeshava Temple at Belur was commissioned by Hoysala king Vishnuvardhana.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK172",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temple was commissioned by Somanatha Dandanayaka?",
+      "options": {
+        "A": "Keshava Temple, Somanathapura",
+        "B": "Chennakeshava Temple, Belur",
+        "C": "Hoysaleshvara Temple, Halebidu",
+        "D": "Virupaksha Temple, Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Keshava Temple at Somanathapura was commissioned by Somanatha Dandanayaka.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK173",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who designed the present Mysore Palace?",
+      "options": {
+        "A": "Henry Irwin",
+        "B": "E. W. Fritchley",
+        "C": "Kengal Hanumanthai",
+        "D": "Dasoja"
+      },
+      "correctAnswer": "A",
+      "explanation": "The present Mysore Palace was designed by Henry Irwin.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK174",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the most characteristic stone of mature Hoysala temples?",
+      "options": {
+        "A": "Soapstone (chloritic schist)",
+        "B": "Sandstone",
+        "C": "Granite",
+        "D": "Marble"
+      },
+      "correctAnswer": "A",
+      "explanation": "Soapstone (chloritic schist) is the most characteristic stone of mature Hoysala temples.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK175",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which architectural tradition is famous for Raya Gopuras and yali pillars?",
+      "options": {
+        "A": "Vijayanagara architecture",
+        "B": "Hoysala architecture",
+        "C": "Early Chalukya architecture",
+        "D": "Wodeyar architecture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayanagara architecture is famous for Raya Gopuras and yali pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK176",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which architectural site is known for the Stone Chariot?",
+      "options": {
+        "A": "Vitthala Temple, Hampi",
+        "B": "Chennakeshava Temple, Belur",
+        "C": "Keshava Temple, Somanathapura",
+        "D": "Virupaksha Temple, Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vitthala Temple at Hampi is known for the Stone Chariot.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK177",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which site is known for the Aihole inscription of Ravikirti?",
+      "options": {
+        "A": "Meguti Jain Temple, Aihole",
+        "B": "Virupaksha Temple, Pattadakal",
+        "C": "Chennakeshava Temple, Belur",
+        "D": "Keshava Temple, Somanathapura"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Meguti Jain Temple at Aihole is known for the Aihole inscription of Ravikirti.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK178",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which temple is associated with musical pillars?",
+      "options": {
+        "A": "Vitthala Temple, Hampi",
+        "B": "Virupaksha Temple, Hampi",
+        "C": "Chennakeshava Temple, Belur",
+        "D": "Hoysaleshvara Temple, Halebidu"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vitthala Temple at Hampi is associated with musical pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK179",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which city is associated with Gol Gumbaz?",
+      "options": {
+        "A": "Vijayapura",
+        "B": "Bidar",
+        "C": "Kalaburagi",
+        "D": "Hampi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayapura is associated with Gol Gumbaz.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK180",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which monument is a giant Jain monolith commissioned by Chavundaraya?",
+      "options": {
+        "A": "Gomateshwara at Shravanabelagola",
+        "B": "Ganagitti Jain Temple at Hampi",
+        "C": "Meguti Jain Temple at Aihole",
+        "D": "Lakshmi Devi Temple at Doddagaddavalli"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gomateshwara monolith at Shravanabelagola is a giant Jain monolith commissioned by Chavundaraya.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK181",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to the vestibule connecting the sanctum to the hall?",
+      "options": {
+        "A": "Antarala",
+        "B": "Mandapa",
+        "C": "Garbhagriha",
+        "D": "Gopura"
+      },
+      "correctAnswer": "A",
+      "explanation": "The antarala is the vestibule or intermediate space connecting the sanctum to the hall.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK182",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a raised platform or plinth supporting a temple?",
+      "options": {
+        "A": "Jagati",
+        "B": "Pushkarini",
+        "C": "Torana",
+        "D": "Amalaka"
+      },
+      "correctAnswer": "A",
+      "explanation": "A jagati is a raised platform or plinth supporting a temple, sometimes used for circumambulation.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK183",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a stepped ritual water reservoir at a temple?",
+      "options": {
+        "A": "Pushkarini",
+        "B": "Jagati",
+        "C": "Antarala",
+        "D": "Sukhanas"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pushkarini is a temple tank or stepped ritual water reservoir.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK184",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a ribbed stone element near the top of a Nagara-style temple tower?",
+      "options": {
+        "A": "Amalaka",
+        "B": "Sukhanas",
+        "C": "Torana",
+        "D": "Frieze"
+      },
+      "correctAnswer": "A",
+      "explanation": "An amalaka is a ribbed stone element commonly found near the top of northern Nagara-style temple towers.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK185",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a projection or vestibule superstructure described as the nose of the principal tower?",
+      "options": {
+        "A": "Sukhanas",
+        "B": "Amalaka",
+        "C": "Torana",
+        "D": "Jagati"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sukhanas is a projection or vestibule superstructure, often described as the nose of the principal tower.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK186",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a decorated gateway or arch-like entrance element?",
+      "options": {
+        "A": "Torana",
+        "B": "Gopura",
+        "C": "Pushkarini",
+        "D": "Kalyan mandapa"
+      },
+      "correctAnswer": "A",
+      "explanation": "A torana is a decorated gateway or arch-like entrance element.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK187",
+      "subject": "Karnataka Architecture",
+      "topic": "Architectural Fundamentals",
+      "chapter": "Architectural Fundamentals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which term refers to a continuous horizontal band of sculptural or ornamental decoration?",
+      "options": {
+        "A": "Frieze",
+        "B": "Amalaka",
+        "C": "Shikhara",
+        "D": "Mandapa"
+      },
+      "correctAnswer": "A",
+      "explanation": "A frieze is a continuous horizontal band of sculptural or ornamental decoration.",
+      "source": "Karnataka_Architecture.pdf, Section 1"
+    },
+    {
+      "id": "AK188",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Early Chalukya temple is known for its apsidal or horseshoe-ended plan?",
+      "options": {
+        "A": "Durga Temple at Aihole",
+        "B": "Lad Khan Temple at Aihole",
+        "C": "Meguti Jain Temple at Aihole",
+        "D": "Virupaksha Temple at Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Durga Temple at Aihole is known for its distinctive apsidal or horseshoe-ended plan and colonnaded ambulatory.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK189",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Early Chalukya temple is known for its hall-like form and experimental roof and plan?",
+      "options": {
+        "A": "Lad Khan Temple at Aihole",
+        "B": "Durga Temple at Aihole",
+        "C": "Meguti Jain Temple at Aihole",
+        "D": "Papanatha Temple at Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lad Khan Temple at Aihole is an early structural temple known for its hall-like form and experimental roof and plan.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK190",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Early Chalukya inscription is dated 634 CE and composed by Ravikirti?",
+      "options": {
+        "A": "The Aihole inscription at the Meguti Jain Temple",
+        "B": "The Pattadakal inscription at the Virupaksha Temple",
+        "C": "The Badami inscription at Cave 4",
+        "D": "The Mahakuta inscription"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Aihole inscription at the Meguti Jain Temple is dated 634 CE and was composed by Ravikirti, praising Pulakeshin II.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK191",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which queen commissioned the Mallikarjuna Temple at Pattadakal?",
+      "options": {
+        "A": "Queen Trailokyamahadevi",
+        "B": "Queen Lokamahadevi",
+        "C": "Queen Shantala Devi",
+        "D": "Maharani Vani Vilas Sannidhana"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mallikarjuna Temple at Pattadakal is traditionally associated with the patronage of Queen Trailokyamahadevi.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK192",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is a dvikuta Shaiva temple with elaborate sculpture at Halebidu?",
+      "options": {
+        "A": "Hoysaleshvara Temple",
+        "B": "Chennakeshava Temple",
+        "C": "Keshava Temple",
+        "D": "Veera Narayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Hoysaleshvara Temple at Halebidu is a double-shrine or dvikuta Shaiva temple with elaborate sculpture.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK193",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple is a trikuta or three-sanctum plan at Somanathapura?",
+      "options": {
+        "A": "Keshava Temple",
+        "B": "Hoysaleshvara Temple",
+        "C": "Chennakeshava Temple",
+        "D": "Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Keshava Temple at Somanathapura has a trikuta or three-sanctum plan.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK194",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monument is a pavilion in the Zenana Enclosure combining elements of different architectural traditions?",
+      "options": {
+        "A": "Lotus Mahal",
+        "B": "Elephant Stables",
+        "C": "Mahanavami Dibba",
+        "D": "Queen's Bath"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lotus Mahal is a pavilion in the Zenana Enclosure at Hampi combining elements of different architectural traditions.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK195",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monument is a large ceremonial platform associated with royal festivals and public displays?",
+      "options": {
+        "A": "Mahanavami Dibba",
+        "B": "Lotus Mahal",
+        "C": "Elephant Stables",
+        "D": "Queen's Bath"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahanavami Dibba is a large ceremonial platform associated with royal festivals, processions and public displays.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK196",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monument is a royal-period water pavilion showing Indo-Islamic architectural elements?",
+      "options": {
+        "A": "Queen's Bath",
+        "B": "Lotus Mahal",
+        "C": "Mahanavami Dibba",
+        "D": "Elephant Stables"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Queen's Bath at Hampi is a royal-period water pavilion showing architectural elements often described as Indo-Islamic.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK197",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monument shows varied domes and arched forms in a royal setting?",
+      "options": {
+        "A": "Elephant Stables",
+        "B": "Lotus Mahal",
+        "C": "Queen's Bath",
+        "D": "Mahanavami Dibba"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Elephant Stables at Hampi show varied domes and arched forms in a royal setting, with Indo-Islamic features.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK198",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Mysuru palace is noted for its European-inspired architecture and was completed in 1921?",
+      "options": {
+        "A": "Lalitha Mahal",
+        "B": "Jagannohan Palace",
+        "C": "Amba Vilas Palace",
+        "D": "Bangalore Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lalitha Mahal is a grand palace in Mysuru built in the early 20th century, noted for its European-inspired architecture, and was completed in 1921.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK199",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Mysuru palace built in 1861 is now known for its art gallery and collections?",
+      "options": {
+        "A": "Jagannohan Palace",
+        "B": "Lalitha Mahal",
+        "C": "Amba Vilas Palace",
+        "D": "Daria Daulat Bagh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jagannohan Palace is a historic Mysuru palace built in 1861, now known for its art gallery and collections.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK200",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monument in Bidar is a 15th-century Islamic educational monument associated with Bahmani minister Mahmud Gawan?",
+      "options": {
+        "A": "Mahmud Gawan Madrasa",
+        "B": "Gulbarga Jama Masjid",
+        "C": "Bidar Fort",
+        "D": "Ibrahim Rauza"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mahmud Gawan Madrasa is a 15th-century Islamic educational monument in Bidar associated with Bahmani minister Mahmud Gawan.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK201",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monument in Kalaburagi is associated with the Bahmani Sultanate within the historic fort complex?",
+      "options": {
+        "A": "Gulbarga Jama Masjid",
+        "B": "Mahmud Gawan Madrasa",
+        "C": "Gol Gumbaz",
+        "D": "Ibrahim Rauza"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gulbarga Jama Masjid within the historic fort complex in Kalaburagi is associated with the Bahmani Sultanate.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK202",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Srirangapatna palace is a summer palace built in 1784 with painted wooden interiors?",
+      "options": {
+        "A": "Daria Daulat Bagh",
+        "B": "Lalitha Mahal",
+        "C": "Jagannohan Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daria Daulat Bagh at Srirangapatna is a summer palace built in 1784, known for its painted wooden interiors.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK203",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru palace associated with Tipu Sultan is built predominantly of teakwood?",
+      "options": {
+        "A": "Tipu Sultan's Summer Palace",
+        "B": "Bangalore Palace",
+        "C": "Vidhana Soudha",
+        "D": "Attara Kacheri"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tipu Sultan's Summer Palace in Bengaluru is a teakwood palace associated with Tipu Sultan.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK204",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru building is principally neoclassical rather than Indo-Saracenic?",
+      "options": {
+        "A": "Attara Kacheri",
+        "B": "Vidhana Soudha",
+        "C": "Bangalore Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Attara Kacheri is principally neoclassical rather than Indo-Saracenic; it is an important colonial-era civic heritage building.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK205",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru palace is known for Tudor-inspired and Gothic-revival features?",
+      "options": {
+        "A": "Bangalore Palace",
+        "B": "Tipu Sultan's Summer Palace",
+        "C": "Vidhana Soudha",
+        "D": "Attara Kacheri"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bangalore Palace is known for its Tudor-inspired and Gothic-revival features, towers and royal residential history.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK206",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which UNESCO World Heritage site in Karnataka is associated with the Early Chalukyas and preserves a synthesis of northern and southern temple architecture?",
+      "options": {
+        "A": "Group of Monuments at Pattadakal",
+        "B": "Group of Monuments at Hampi",
+        "C": "Sacred Ensembles of the Hoysalas",
+        "D": "Badami Cave Temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Pattadakal, a UNESCO World Heritage site, preserves a remarkable synthesis of northern and southern temple architecture under the Early Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Sections 2 and 8"
+    },
+    {
+      "id": "AK207",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which UNESCO World Heritage site in Karnataka preserves the religious, urban, royal and hydraulic remains of a capital city?",
+      "options": {
+        "A": "Group of Monuments at Hampi",
+        "B": "Group of Monuments at Pattadakal",
+        "C": "Sacred Ensembles of the Hoysalas",
+        "D": "Gol Gumbaz"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Hampi preserves the religious, urban, royal and hydraulic remains of the Vijayanagara capital.",
+      "source": "Karnataka_Architecture.pdf, Sections 5 and 8"
+    },
+        {
+      "id": "AK209",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Early Chalukya ruler is associated with the construction of the Sangameshvara Temple at Pattadakal?",
+      "options": {
+        "A": "Vijayaditya",
+        "B": "Pulakeshin II",
+        "C": "Vikramaditya II",
+        "D": "Kirtivarman I"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayaditya is associated with the construction of the Sangameshvara Temple at Pattadakal, with later work continuing under subsequent rulers.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK210",
+      "subject": "Karnataka Architecture",
+      "topic": "Early Chalukya Architecture",
+      "chapter": "Early Chalukya Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which lake lies beside the Badami cave temples?",
+      "options": {
+        "A": "Agastya Lake",
+        "B": "Sannathi Lake",
+        "C": "Pushkarini Lake",
+        "D": "Tungabhadra Lake"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agastya Lake lies beside the Badami cave temples.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK211",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which Western Chalukya temple at Itagi is called Devalaya Chakravarti?",
+      "options": {
+        "A": "Mahadeva Temple",
+        "B": "Kashivishveshvara Temple",
+        "C": "Doddabasappa Temple",
+        "D": "Trikuteshwara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mahadeva Temple at Itagi is sometimes called Devalaya Chakravarti, or emperor among temples, in a historic inscriptional description.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK212",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Western Chalukya temple at Lakkundi is associated with the Kashivishveshvara Temple?",
+      "options": {
+        "A": "Kashivishveshvara Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kashivishveshvara Temple at Lakkundi is associated with Western Chalukya architecture.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK213",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Western Chalukya temple at Dambal is a major monument of the tradition?",
+      "options": {
+        "A": "Doddabasappa Temple",
+        "B": "Kashivishveshvara Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Doddabasappa Temple at Dambal belongs to the Western Chalukya tradition.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK214",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Western Chalukya temple at Gadag is associated with the tradition?",
+      "options": {
+        "A": "Trikuteshwara Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Kashivishveshvara Temple",
+        "D": "Mallikarjuna Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Trikuteshwara Temple at Gadag is associated with the Western Chalukyas.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK215",
+      "subject": "Karnataka Architecture",
+      "topic": "Later Western Chalukya Architecture",
+      "chapter": "Later Western Chalukya / Kalyani Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Western Chalukya temple at Kuruvatti is a monument of the tradition?",
+      "options": {
+        "A": "Mallikarjuna Temple",
+        "B": "Doddabasappa Temple",
+        "C": "Trikuteshwara Temple",
+        "D": "Kashivishveshvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Mallikarjuna Temple at Kuruvatti is a Western Chalukya monument.",
+      "source": "Karnataka_Architecture.pdf, Section 3"
+    },
+    {
+      "id": "AK216",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Arasikere is noted for its architectural plan?",
+      "options": {
+        "A": "Ishvara Temple",
+        "B": "Amruteshvara Temple",
+        "C": "Lakshmi Narasimha Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ishvara Temple at Arasikere is noted for its architectural plan.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK217",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Amruthapura is a 12th-century Shaiva temple in Chikkamagaluru district?",
+      "options": {
+        "A": "Amruteshvara Temple",
+        "B": "Ishvara Temple",
+        "C": "Lakshmi Narasimha Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Amruteshvara Temple at Amruthapura is a 12th-century Shaiva temple in Chikkamagaluru district.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK218",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Nuggehalli is associated with the Hoysala period?",
+      "options": {
+        "A": "Lakshmi Narasimha Temple",
+        "B": "Amruteshvara Temple",
+        "C": "Ishvara Temple",
+        "D": "Lakshminarayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Narasimha Temple at Nuggehalli is associated with the Hoysala period.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK219",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Hosaholalu is noted for its ornate sculpture?",
+      "options": {
+        "A": "Lakshminarayana Temple",
+        "B": "Lakshmi Narasimha Temple",
+        "C": "Amruteshvara Temple",
+        "D": "Ishvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshminarayana Temple at Hosaholalu is noted for its ornate sculpture.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK220",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Belavadi is known for its three shrines?",
+      "options": {
+        "A": "Veera Narayana Temple",
+        "B": "Lakshmi Devi Temple",
+        "C": "Lakshminarayana Temple",
+        "D": "Ishvara Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Veera Narayana Temple at Belavadi is known for its three shrines.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK221",
+      "subject": "Karnataka Architecture",
+      "topic": "Hoysala Architecture",
+      "chapter": "Hoysala Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Doddagaddavalli is a notable early Hoysala monument?",
+      "options": {
+        "A": "Lakshmi Devi Temple",
+        "B": "Veera Narayana Temple",
+        "C": "Lakshminarayana Temple",
+        "D": "Lakshmi Narasimha Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Devi Temple at Doddagaddavalli is a notable early Hoysala monument.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK222",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi temple is dedicated to Shiva and remains a major active place of worship?",
+      "options": {
+        "A": "Virupaksha Temple",
+        "B": "Vitthala Temple",
+        "C": "Krishna Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Virupaksha Temple, dedicated to Shiva, remains a major active place of worship at Hampi.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK223",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi temple is associated with Krishnadevaraya's campaign and temple patronage?",
+      "options": {
+        "A": "Krishna Temple",
+        "B": "Virupaksha Temple",
+        "C": "Vitthala Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Krishna Temple at Hampi is associated with Krishnadevaraya's campaign and temple patronage.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK224",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi monolithic sculpture is commonly called Ugra Narasimha?",
+      "options": {
+        "A": "Lakshmi Narasimha",
+        "B": "Bahubali",
+        "C": "Garuda",
+        "D": "Yali"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Lakshmi Narasimha at Hampi is commonly called Ugra Narasimha.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK225",
+      "subject": "Karnataka Architecture",
+      "topic": "Vijayanagara Architecture",
+      "chapter": "Vijayanagara Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi Jain monument is associated with the early Vijayanagara period?",
+      "options": {
+        "A": "Ganagitti Jain Temple",
+        "B": "Meguti Jain Temple",
+        "C": "Keshava Temple",
+        "D": "Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ganagitti Jain Temple at Hampi is associated with the early Vijayanagara period.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK226",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Mysore Palace hall is an ornate ceremonial audience hall associated with royal court functions?",
+      "options": {
+        "A": "Durbar Hall",
+        "B": "Kalyana Mantapa",
+        "C": "Jagannohan Gallery",
+        "D": "Ambavilas Hall"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Durbar Hall of Mysore Palace is an ornate ceremonial audience hall associated with royal court functions.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK227",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Mysore Palace hall is noted for stained glass and ceremonial decoration?",
+      "options": {
+        "A": "Kalyana Mantapa",
+        "B": "Durbar Hall",
+        "C": "Ambavilas Hall",
+        "D": "Jagannohan Gallery"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kalyana Mantapa of Mysore Palace is noted for stained glass and ceremonial decoration.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK228",
+      "subject": "Karnataka Architecture",
+      "topic": "Mysore / Wodeyar Architecture",
+      "chapter": "Mysore / Wodeyar Architecture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Mysuru building originally associated with Jubilee Hall houses the Oriental Research Institute?",
+      "options": {
+        "A": "The historic building originally associated with Jubilee Hall",
+        "B": "Jagannohan Palace",
+        "C": "Lalitha Mahal",
+        "D": "Amba Vilas Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "The historic building originally associated with Jubilee Hall houses the Oriental Research Institute in Mysuru.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK229",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dynasty built many temples at Talakad, followed by later Chola, Hoysala and other patronage?",
+      "options": {
+        "A": "Western Gangas",
+        "B": "Kadambas",
+        "C": "Adil Shahis",
+        "D": "Bahmanis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Western Gangas built many temples at Talakad, followed by later Chola, Hoysala and other patronage.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK230",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dynasty is associated with the early temple at Banavasi, where the Madhukeshwara Temple preserves elements from multiple later phases?",
+      "options": {
+        "A": "Kadambas",
+        "B": "Western Gangas",
+        "C": "Hoysalas",
+        "D": "Adil Shahis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kadambas are associated with the early temple at Banavasi; the Madhukeshwara Temple preserves elements from multiple later phases.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK231",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which city is famous for Ibrahim Rauza, commemorating Ibrahim Adil Shah II and his family?",
+      "options": {
+        "A": "Vijayapura",
+        "B": "Bidar",
+        "C": "Kalaburagi",
+        "D": "Srirangapatna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ibrahim Rauza in Vijayapura commemorates Ibrahim Adil Shah II and members of his family.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK232",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which fort city is associated with Bahmani and later Barid Shahi rulers?",
+      "options": {
+        "A": "Bidar",
+        "B": "Vijayapura",
+        "C": "Kalaburagi",
+        "D": "Srirangapatna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bidar Fort is associated with Bahmani and later Barid Shahi rulers.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK233",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Srirangapatna fort is associated with Tipu Sultan and Hyder Ali?",
+      "options": {
+        "A": "Srirangapatna Fort",
+        "B": "Bidar Fort",
+        "C": "Badami Fort",
+        "D": "Hampi Fort"
+      },
+      "correctAnswer": "A",
+      "explanation": "Srirangapatna Fort is associated with Tipu Sultan and Hyder Ali and was strengthened and used during the Mysore kingdom's military history.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK234",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Srirangapatna palace is a summer palace built in 1784 with painted wooden interiors?",
+      "options": {
+        "A": "Daria Daulat Bagh",
+        "B": "Lalitha Mahal",
+        "C": "Jagannohan Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Daria Daulat Bagh at Srirangapatna is a summer palace built in 1784, known for its painted wooden interiors.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK235",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru building is principally neoclassical rather than Indo-Saracenic?",
+      "options": {
+        "A": "Attara Kacheri",
+        "B": "Vidhana Soudha",
+        "C": "Bangalore Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Attara Kacheri is principally neoclassical rather than Indo-Saracenic; it is an important colonial-era civic heritage building.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK236",
+      "subject": "Karnataka Architecture",
+      "topic": "Other Major Monuments",
+      "chapter": "Other Major Monuments and Dynastic Contributions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Bengaluru structure is a modern monumental design often described as Neo-Dravidian?",
+      "options": {
+        "A": "Vidhana Soudha",
+        "B": "Attara Kacheri",
+        "C": "Bangalore Palace",
+        "D": "Tipu Sultan's Summer Palace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vidhana Soudha in Bengaluru is a modern monumental design often described as Neo-Dravidian, incorporating Indian architectural motifs.",
+      "source": "Karnataka_Architecture.pdf, Section 6"
+    },
+    {
+      "id": "AK237",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which UNESCO World Heritage site in Karnataka is associated with the Vijayanagara capital and was inscribed in 1986?",
+      "options": {
+        "A": "Group of Monuments at Hampi",
+        "B": "Group of Monuments at Pattadakal",
+        "C": "Sacred Ensembles of the Hoysalas",
+        "D": "Badami Cave Temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Hampi, associated with the Vijayanagara capital, was inscribed on the UNESCO World Heritage List in 1986.",
+      "source": "Karnataka_Architecture.pdf, Sections 5 and 8"
+    },
+    {
+      "id": "AK238",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which UNESCO World Heritage site in Karnataka is associated with the Early Chalukyas and was inscribed in 1987?",
+      "options": {
+        "A": "Group of Monuments at Pattadakal",
+        "B": "Group of Monuments at Hampi",
+        "C": "Sacred Ensembles of the Hoysalas",
+        "D": "Badami Cave Temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Group of Monuments at Pattadakal, associated with the Early Chalukyas, was inscribed on the UNESCO World Heritage List in 1987.",
+      "source": "Karnataka_Architecture.pdf, Sections 2 and 8"
+    },
+    {
+      "id": "AK239",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which UNESCO World Heritage site in Karnataka is associated with the Hoysalas and was inscribed in 2023?",
+      "options": {
+        "A": "Sacred Ensembles of the Hoysalas",
+        "B": "Group of Monuments at Hampi",
+        "C": "Group of Monuments at Pattadakal",
+        "D": "Badami Cave Temples"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sacred Ensembles of the Hoysalas were inscribed on the UNESCO World Heritage List in 2023.",
+      "source": "Karnataka_Architecture.pdf, Sections 4 and 8"
+    },
+    {
+      "id": "AK240",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Pattadakal was commissioned by Queen Lokamahadevi to commemorate Vikramaditya II's victory over the Pallavas?",
+      "options": {
+        "A": "Virupaksha Temple",
+        "B": "Mallikarjuna Temple",
+        "C": "Sangameshvara Temple",
+        "D": "Papanatha Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Virupaksha Temple at Pattadakal was commissioned by Queen Lokamahadevi to commemorate the victory of her husband Vikramaditya II over the Pallavas.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK241",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Belur was commissioned by Hoysala king Vishnuvardhana and consecrated in 1117 CE?",
+      "options": {
+        "A": "Chennakeshava Temple",
+        "B": "Hoysaleshvara Temple",
+        "C": "Keshava Temple",
+        "D": "Veera Narayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Chennakeshava Temple at Belur was commissioned by Hoysala king Vishnuvardhana and consecrated in 1117 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK242",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which temple at Somanathapura was commissioned by Somanatha Dandanayaka and founded in 1268 CE?",
+      "options": {
+        "A": "Keshava Temple",
+        "B": "Chennakeshava Temple",
+        "C": "Hoysaleshvara Temple",
+        "D": "Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Keshava Temple at Somanathapura was commissioned by Somanatha Dandanayaka and founded in 1268 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK243",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hoysala temple at Halebidu is a dvikuta Shaiva temple with elaborate sculpture?",
+      "options": {
+        "A": "Hoysaleshvara Temple",
+        "B": "Chennakeshava Temple",
+        "C": "Keshava Temple",
+        "D": "Veera Narayana Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Hoysaleshvara Temple at Halebidu is a double-shrine or dvikuta Shaiva temple with elaborate sculpture.",
+      "source": "Karnataka_Architecture.pdf, Section 4"
+    },
+    {
+      "id": "AK244",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Hampi temple is known for its Stone Chariot and musical pillars?",
+      "options": {
+        "A": "Vitthala Temple",
+        "B": "Virupaksha Temple",
+        "C": "Krishna Temple",
+        "D": "Ganagitti Jain Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Vitthala Temple at Hampi is known for its Stone Chariot and musical pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK245",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which Aihole temple is known for its 634 CE inscription composed by Ravikirti?",
+      "options": {
+        "A": "Meguti Jain Temple",
+        "B": "Durga Temple",
+        "C": "Lad Khan Temple",
+        "D": "Virupaksha Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Meguti Jain Temple at Aihole is known for its 634 CE inscription composed by Ravikirti, praising Pulakeshin II.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    },
+    {
+      "id": "AK246",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which city is associated with the Gol Gumbaz, famous for its vast unsupported masonry dome and whispering gallery?",
+      "options": {
+        "A": "Vijayapura",
+        "B": "Bidar",
+        "C": "Kalaburagi",
+        "D": "Hampi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayapura is associated with the Gol Gumbaz, famous for its vast unsupported masonry dome and whispering gallery.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK247",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which monument at Shravanabelagola is a giant Jain monolith commissioned by Chavundaraya and consecrated in 981 CE?",
+      "options": {
+        "A": "Gomateshwara",
+        "B": "Ganagitti Jain Temple",
+        "C": "Meguti Jain Temple",
+        "D": "Lakshmi Devi Temple"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gomateshwara monolith at Shravanabelagola is a giant Jain monolith commissioned by Chavundaraya and consecrated in 981 CE.",
+      "source": "Karnataka_Architecture.pdf, Section 7"
+    },
+    {
+      "id": "AK248",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which architectural tradition is famous for Raya Gopuras and yali pillars?",
+      "options": {
+        "A": "Vijayanagara architecture",
+        "B": "Hoysala architecture",
+        "C": "Early Chalukya architecture",
+        "D": "Wodeyar architecture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vijayanagara architecture is famous for Raya Gopuras and yali pillars.",
+      "source": "Karnataka_Architecture.pdf, Section 8"
+    },
+    {
+      "id": "AK249",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which architectural site is known for the Stone Chariot within the Vitthala Temple complex?",
+      "options": {
+        "A": "Hampi",
+        "B": "Belur",
+        "C": "Somanathapura",
+        "D": "Pattadakal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hampi is known for the Stone Chariot within the Vitthala Temple complex.",
+      "source": "Karnataka_Architecture.pdf, Section 5"
+    },
+    {
+      "id": "AK250",
+      "subject": "Karnataka Architecture",
+      "topic": "UNESCO World Heritage Sites",
+      "chapter": "UNESCO and High-Priority Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which site is known for the Aihole inscription of Ravikirti at the Meguti Jain Temple?",
+      "options": {
+        "A": "Aihole",
+        "B": "Pattadakal",
+        "C": "Badami",
+        "D": "Mahakuta"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aihole is known for the Aihole inscription of Ravikirti at the Meguti Jain Temple.",
+      "source": "Karnataka_Architecture.pdf, Section 2"
+    }
+  ]
+}

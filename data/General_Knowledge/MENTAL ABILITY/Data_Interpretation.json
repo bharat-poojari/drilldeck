@@ -1,0 +1,2275 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Data Interpretation question bank derived from Mental Ability - Data Interpretation comprehensive notes. Covers Fundamentals, Tables, Graphs & Charts, Percentages & Proportions, Ratios & Proportions, Averages/Totals/Comparative Measures, Comparative Data, Question Types, Solved Sets, and Formulas. Verify before formal examination use.",
+  "questions": [
+    {
+      "id": "DI001",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Data Interpretation (DI)?",
+      "options": {
+        "A": "The process of collecting raw data from the field",
+        "B": "The process of reading, organising, analysing, comparing, and drawing conclusions from numerical or categorical information presented in tables, graphs, and charts",
+        "C": "The process of storing data in a computer",
+        "D": "The process of deleting unnecessary data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data Interpretation is the analysis of information presented in a structured form to answer questions, identify patterns, calculate values, and make comparisons.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI002",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is data?",
+      "options": {
+        "A": "A collection of facts, figures, observations, or measurements gathered for reference or analysis",
+        "B": "Only numerical values stored in a table",
+        "C": "A graph drawn on paper",
+        "D": "The conclusion drawn from a chart"
+      },
+      "correctAnswer": "A",
+      "explanation": "Data is a collection of facts, figures, observations, or measurements gathered for reference or analysis.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI003",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is raw data?",
+      "options": {
+        "A": "Data already summarised in a pie chart",
+        "B": "Information in its original, unprocessed form before classification, summarisation, or analysis",
+        "C": "Data that has been averaged",
+        "D": "Data presented only in percentages"
+      },
+      "correctAnswer": "B",
+      "explanation": "Raw data is information in its original, unprocessed form before classification, summarisation, or analysis.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI004",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is structured data?",
+      "options": {
+        "A": "Data organised according to a defined format, such as rows and columns in a table",
+        "B": "Any data written in a paragraph",
+        "C": "Data without any units",
+        "D": "Data that cannot be compared"
+      },
+      "correctAnswer": "A",
+      "explanation": "Structured data is organised according to a defined format, such as rows and columns in a table.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI005",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a data set?",
+      "options": {
+        "A": "A single number",
+        "B": "A collection of related observations or values used for analysis",
+        "C": "A type of graph",
+        "D": "A unit of measurement"
+      },
+      "correctAnswer": "B",
+      "explanation": "A data set is a collection of related observations or values used for analysis.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI006",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a variable in data interpretation?",
+      "options": {
+        "A": "A fixed constant that never changes",
+        "B": "A characteristic that can take different values, such as year, population, income, production, or number of candidates",
+        "C": "A type of pie chart",
+        "D": "The title of a table"
+      },
+      "correctAnswer": "B",
+      "explanation": "A variable is a characteristic that can take different values, such as year, population, income, production, or number of candidates.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI007",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is frequency?",
+      "options": {
+        "A": "The number of times a particular value or category occurs",
+        "B": "The average of all values",
+        "C": "The difference between the largest and smallest value",
+        "D": "The unit of a data set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frequency is the number of times a particular value or category occurs.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI008",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does a unit of measurement specify?",
+      "options": {
+        "A": "The colour of a chart",
+        "B": "What a number represents, such as rupees, persons, kilograms, tonnes, kilometres, or percentage",
+        "C": "The title of a graph",
+        "D": "The number of rows in a table"
+      },
+      "correctAnswer": "B",
+      "explanation": "A unit specifies what a number represents, such as rupees, persons, kilograms, tonnes, kilometres, or percentage.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI009",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why must the title and unit be checked before solving a DI question?",
+      "options": {
+        "A": "Because the title identifies the subject and scope of the data, while the unit tells how to interpret the figures; ignoring units can produce a numerically correct but contextually wrong answer",
+        "B": "Because titles are always printed in bold",
+        "C": "Because units are optional in exams",
+        "D": "Because checking them saves time only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The title identifies the subject and scope of the data, while the unit tells how to interpret the figures. Ignoring units can produce a numerically correct but contextually wrong answer.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI010",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an absolute value in a data set?",
+      "options": {
+        "A": "A percentage or ratio",
+        "B": "The actual reported quantity, such as 450 students or 8 lakh",
+        "C": "The average of a data set",
+        "D": "A value that is always negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "An absolute value is the actual reported quantity, such as 450 students or 8 lakh.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI011",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a relative value?",
+      "options": {
+        "A": "The actual reported quantity",
+        "B": "A value that expresses one quantity in relation to another, such as a percentage, ratio, or proportion",
+        "C": "The largest value in a table",
+        "D": "The unit of measurement"
+      },
+      "correctAnswer": "B",
+      "explanation": "A relative value expresses one quantity in relation to another, such as a percentage, ratio, or proportion.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI012",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a trend in data?",
+      "options": {
+        "A": "A single outlier",
+        "B": "The general direction in which data changes over time, such as increasing, decreasing, or remaining broadly stable",
+        "C": "The title of a table",
+        "D": "The unit of a graph"
+      },
+      "correctAnswer": "B",
+      "explanation": "A trend is the general direction in which data changes over time, such as increasing, decreasing, or remaining broadly stable.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI013",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an outlier?",
+      "options": {
+        "A": "The most frequent value",
+        "B": "A value that is unusually far from the other observations in a data set",
+        "C": "The average of all values",
+        "D": "The middle value of a data set"
+      },
+      "correctAnswer": "B",
+      "explanation": "An outlier is a value that is unusually far from the other observations in a data set.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI014",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Fundamentals of Data Interpretation",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an estimate?",
+      "options": {
+        "A": "An exact value calculated to two decimal places",
+        "B": "An approximate value obtained by rounding or using a reasonable calculation when an exact value is unnecessary",
+        "C": "A value that is always wrong",
+        "D": "The maximum value in a data set"
+      },
+      "correctAnswer": "B",
+      "explanation": "An estimate is an approximate value obtained by rounding or using a reasonable calculation when an exact value is unnecessary.",
+      "source": "Data_Interpretation.pdf - Section A"
+    },
+    {
+      "id": "DI015",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a data table?",
+      "options": {
+        "A": "A visual display using bars",
+        "B": "A structure that organises information into rows and columns so that values can be located and compared systematically",
+        "C": "A circle divided into sectors",
+        "D": "A list of unorganised raw data"
+      },
+      "correctAnswer": "B",
+      "explanation": "A data table organises information into rows and columns so that values can be located and compared systematically.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI016",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does a row usually represent in a table?",
+      "options": {
+        "A": "A variable or measurement",
+        "B": "One item, category, location, group, or time period, depending on the table design",
+        "C": "The title of the table",
+        "D": "The unit of measurement"
+      },
+      "correctAnswer": "B",
+      "explanation": "A row usually represents one item, category, location, group, or time period, depending on the table design.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI017",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does a column usually represent in a table?",
+      "options": {
+        "A": "One category or time period",
+        "B": "A variable or measurement, such as year, sales, expenditure, profit, or population",
+        "C": "The total of a row",
+        "D": "The legend of a chart"
+      },
+      "correctAnswer": "B",
+      "explanation": "A column usually represents a variable or measurement, such as year, sales, expenditure, profit, or population.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI018",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a simple table?",
+      "options": {
+        "A": "A table that presents one or a small number of variables for different categories or periods",
+        "B": "A table with more than ten columns",
+        "C": "A table that classifies data by two variables",
+        "D": "A table drawn as a circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "A simple table presents one or a small number of variables for different categories or periods.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI019",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a two-way table?",
+      "options": {
+        "A": "A table with only one row",
+        "B": "A table that classifies data according to two variables, such as gender and department or region and product",
+        "C": "A table with two titles",
+        "D": "A table that cannot be totalled"
+      },
+      "correctAnswer": "B",
+      "explanation": "A two-way table classifies data according to two variables, such as gender and department or region and product.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI020",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a multiple or complex table?",
+      "options": {
+        "A": "A table with only percentages",
+        "B": "A table that presents several variables or categories and may require combining values from different rows and columns",
+        "C": "A table with a single value",
+        "D": "A table without headings"
+      },
+      "correctAnswer": "B",
+      "explanation": "A multiple or complex table presents several variables or categories and may require combining values from different rows and columns.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI021",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How should a table-based DI question be approached?",
+      "options": {
+        "A": "Read the title, identify row and column headings, note the units, locate the required cells, and then perform only the calculation asked",
+        "B": "Calculate every possible value first",
+        "C": "Ignore the headings and read numbers randomly",
+        "D": "Convert all values to percentages first"
+      },
+      "correctAnswer": "A",
+      "explanation": "Read the title, identify row and column headings, note the units, locate the required cells, and then perform only the calculation asked.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI022",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a row total calculated?",
+      "options": {
+        "A": "By adding all relevant values across that row",
+        "B": "By adding all values down a column",
+        "C": "By multiplying the first and last value in the row",
+        "D": "By averaging all rows"
+      },
+      "correctAnswer": "A",
+      "explanation": "A row total is calculated by adding all relevant values across that row.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI023",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a column total calculated?",
+      "options": {
+        "A": "By adding all relevant values down that column",
+        "B": "By adding all values across a row",
+        "C": "By dividing the column by the number of rows",
+        "D": "By subtracting the smallest from the largest"
+      },
+      "correctAnswer": "A",
+      "explanation": "A column total is calculated by adding all relevant values down that column.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI024",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a grand total calculated?",
+      "options": {
+        "A": "By adding only the first row and first column",
+        "B": "By adding all category totals, ensuring that no value is counted twice",
+        "C": "By averaging all row totals",
+        "D": "By multiplying row totals"
+      },
+      "correctAnswer": "B",
+      "explanation": "A grand total is calculated by adding all category totals, ensuring that no value is counted twice.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI025",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is an average from a table calculated?",
+      "options": {
+        "A": "Sum of the relevant values ÷ Number of values",
+        "B": "Largest value − Smallest value",
+        "C": "Sum of values × Number of values",
+        "D": "Number of values ÷ Sum of values"
+      },
+      "correctAnswer": "A",
+      "explanation": "Average = Sum of the relevant values ÷ Number of values.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI026",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Tables",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a common table-reading error?",
+      "options": {
+        "A": "Using a calculator",
+        "B": "Reading the correct number from the wrong row, column, year, or unit",
+        "C": "Reading the title of the table",
+        "D": "Checking the units before calculation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reading the correct number from the wrong row, column, year, or unit is a common error. Trace both the row heading and column heading before using a figure.",
+      "source": "Data_Interpretation.pdf - Section B"
+    },
+    {
+      "id": "DI027",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a graph?",
+      "options": {
+        "A": "A visual representation of data that helps show patterns, relationships, changes, or comparisons",
+        "B": "A table of raw numbers",
+        "C": "A written paragraph describing data",
+        "D": "A unit of measurement"
+      },
+      "correctAnswer": "A",
+      "explanation": "A graph is a visual representation of data that helps show patterns, relationships, changes, or comparisons.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI028",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a chart?",
+      "options": {
+        "A": "A visual display of information, often using bars, lines, sectors, symbols, or pictures",
+        "B": "A collection of raw data",
+        "C": "A unit of measurement",
+        "D": "A type of average"
+      },
+      "correctAnswer": "A",
+      "explanation": "A chart is a visual display of information, often using bars, lines, sectors, symbols, or pictures.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI029",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a bar graph?",
+      "options": {
+        "A": "A circle divided into sectors",
+        "B": "A graph that uses rectangular bars to compare values across separate categories, where bar lengths or heights are proportional to the values",
+        "C": "A graph that connects data points with a line",
+        "D": "A graph using pictures only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A bar graph uses rectangular bars to compare values across separate categories. Bar lengths or heights are proportional to the values.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI030",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a horizontal bar graph?",
+      "options": {
+        "A": "It displays categories along the vertical axis and values along the horizontal axis",
+        "B": "It displays categories along the horizontal axis and values along the vertical axis",
+        "C": "It uses sectors instead of bars",
+        "D": "It has no axes"
+      },
+      "correctAnswer": "A",
+      "explanation": "A horizontal bar graph displays categories along the vertical axis and values along the horizontal axis.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI031",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a vertical bar graph or column chart?",
+      "options": {
+        "A": "It displays categories along the vertical axis and values along the horizontal axis",
+        "B": "It displays categories along the horizontal axis and values along the vertical axis",
+        "C": "It connects data points with lines",
+        "D": "It uses pictures as symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "A vertical bar graph or column chart displays categories along the horizontal axis and values along the vertical axis.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI032",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a double bar graph?",
+      "options": {
+        "A": "A graph with two axes only",
+        "B": "A graph that uses two bars for each category to compare two related data series, such as male and female enrolment across years",
+        "C": "A graph with two titles",
+        "D": "A graph drawn twice"
+      },
+      "correctAnswer": "B",
+      "explanation": "A double bar graph uses two bars for each category to compare two related data series, such as male and female enrolment across years.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI033",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a multiple bar graph?",
+      "options": {
+        "A": "A graph that uses more than two bars for each category to compare several related series",
+        "B": "A graph with only one bar per category",
+        "C": "A graph that uses sectors",
+        "D": "A graph that uses pictures"
+      },
+      "correctAnswer": "A",
+      "explanation": "A multiple bar graph uses more than two bars for each category to compare several related series.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI034",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a line graph?",
+      "options": {
+        "A": "A graph that uses rectangular bars",
+        "B": "A graph that connects plotted data points and is particularly useful for showing changes or trends over time",
+        "C": "A circle divided into sectors",
+        "D": "A graph using pictures"
+      },
+      "correctAnswer": "B",
+      "explanation": "A line graph connects plotted data points and is particularly useful for showing changes or trends over time.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI035",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a pie chart?",
+      "options": {
+        "A": "A graph that uses bars of different heights",
+        "B": "A circle divided into sectors, with each sector representing a proportion of the total",
+        "C": "A graph that connects data points with a line",
+        "D": "A graph using symbols or pictures"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pie chart is a circle divided into sectors, with each sector representing a proportion of the total.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI036",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a histogram?",
+      "options": {
+        "A": "A circle divided into sectors",
+        "B": "A graph that displays the frequency distribution of continuous numerical data using adjoining rectangles for class intervals",
+        "C": "A graph that uses pictures to represent quantities",
+        "D": "A graph showing paired points"
+      },
+      "correctAnswer": "B",
+      "explanation": "A histogram displays the frequency distribution of continuous numerical data using adjoining rectangles for class intervals.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI037",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a bar graph and a histogram?",
+      "options": {
+        "A": "A bar graph usually compares separate categories and has gaps between bars; a histogram represents continuous class intervals and normally has adjoining bars",
+        "B": "A bar graph is always circular; a histogram is always triangular",
+        "C": "A bar graph has no axes; a histogram has axes",
+        "D": "A bar graph uses percentages only; a histogram uses ratios only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A bar graph usually compares separate categories and has gaps between bars; a histogram represents continuous class intervals and normally has adjoining bars.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI038",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a pictograph?",
+      "options": {
+        "A": "A graph that uses pictures or symbols to represent quantities, where each symbol has a specified value or key",
+        "B": "A graph that connects data points",
+        "C": "A circle divided into sectors",
+        "D": "A graph of continuous class intervals"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pictograph uses pictures or symbols to represent quantities. Each symbol has a specified value or key.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI039",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a scatter plot?",
+      "options": {
+        "A": "A graph that displays paired numerical observations as points to show the relationship or association between two variables",
+        "B": "A graph that uses rectangular bars",
+        "C": "A circle divided into sectors",
+        "D": "A graph that uses pictures"
+      },
+      "correctAnswer": "A",
+      "explanation": "A scatter plot displays paired numerical observations as points to show the relationship or association between two variables.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI040",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a stacked bar chart?",
+      "options": {
+        "A": "A chart that divides each bar into segments to show both the total and its component parts",
+        "B": "A chart with only one segment per bar",
+        "C": "A chart that uses a line only",
+        "D": "A chart with no bars"
+      },
+      "correctAnswer": "A",
+      "explanation": "A stacked bar chart divides each bar into segments to show both the total and its component parts.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI041",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a 100% stacked bar chart?",
+      "options": {
+        "A": "It displays each bar as 100% with segments showing the percentage composition of each category",
+        "B": "It displays only totals without components",
+        "C": "It displays a single bar only",
+        "D": "It displays values on a logarithmic scale"
+      },
+      "correctAnswer": "A",
+      "explanation": "A 100% stacked bar chart displays each bar as 100% with segments showing the percentage composition of each category.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI042",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a combo chart?",
+      "options": {
+        "A": "A chart that uses two chart types, such as bars and a line, to display related data series together",
+        "B": "A chart with two titles",
+        "C": "A chart with only one data series",
+        "D": "A chart that uses pictures"
+      },
+      "correctAnswer": "A",
+      "explanation": "A combination chart uses two chart types, such as bars and a line, to display related data series together.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI043",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the horizontal axis of a graph called?",
+      "options": {
+        "A": "Y-axis",
+        "B": "X-axis",
+        "C": "Z-axis",
+        "D": "Legend"
+      },
+      "correctAnswer": "B",
+      "explanation": "The horizontal axis is the X-axis.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI044",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the vertical axis of a graph called?",
+      "options": {
+        "A": "X-axis",
+        "B": "Y-axis",
+        "C": "Z-axis",
+        "D": "Scale"
+      },
+      "correctAnswer": "B",
+      "explanation": "The vertical axis is the Y-axis.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+        {
+      "id": "DI046",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why should the graph scale be checked before reading values?",
+      "options": {
+        "A": "A graph may use intervals such as 0, 10, 20 or 0, 50, 100; misreading the interval produces an incorrect value",
+        "B": "The scale always starts at zero",
+        "C": "The scale is only decorative",
+        "D": "The scale shows the title of the graph"
+      },
+      "correctAnswer": "A",
+      "explanation": "A graph may use intervals such as 0, 10, 20 or 0, 50, 100. Misreading the interval produces an incorrect value.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI047",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a truncated axis?",
+      "options": {
+        "A": "An axis that starts at a value other than zero, which can visually exaggerate differences",
+        "B": "An axis with no labels",
+        "C": "An axis drawn in a circle",
+        "D": "An axis that shows percentages only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A truncated axis starts at a value other than zero. It can visually exaggerate differences, so the axis labels and scale must be checked.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI048",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Graphs and Charts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a legend or key in a chart?",
+      "options": {
+        "A": "It explains the colours, patterns, lines, or symbols used to identify different data series",
+        "B": "It gives the title of the chart",
+        "C": "It shows the unit only",
+        "D": "It is the horizontal axis"
+      },
+      "correctAnswer": "A",
+      "explanation": "A legend explains the colours, patterns, lines, or symbols used to identify different data series.",
+      "source": "Data_Interpretation.pdf - Section C"
+    },
+    {
+      "id": "DI049",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a percentage?",
+      "options": {
+        "A": "A quantity expressed as a fraction of 100, represented by the symbol %",
+        "B": "A comparison of two quantities by division",
+        "C": "The sum of all values",
+        "D": "The middle value of a data set"
+      },
+      "correctAnswer": "A",
+      "explanation": "A percentage expresses a quantity as a fraction of 100 and is represented by the symbol %.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI050",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the basic percentage formula?",
+      "options": {
+        "A": "Percentage = (Part ÷ Whole) × 100",
+        "B": "Percentage = (Whole ÷ Part) × 100",
+        "C": "Percentage = Part × Whole × 100",
+        "D": "Percentage = Part + Whole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage = (Part ÷ Whole) × 100.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI051",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a part calculated when the percentage and whole are known?",
+      "options": {
+        "A": "Part = (Percentage ÷ 100) × Whole",
+        "B": "Part = (Whole ÷ Percentage) × 100",
+        "C": "Part = Percentage × Whole",
+        "D": "Part = Percentage + Whole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Part = (Percentage ÷ 100) × Whole.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI052",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is the whole calculated when the part and percentage are known?",
+      "options": {
+        "A": "Whole = (Part × 100) ÷ Percentage",
+        "B": "Whole = (Percentage × 100) ÷ Part",
+        "C": "Whole = Part × Percentage",
+        "D": "Whole = Part ÷ 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Whole = (Part × 100) ÷ Percentage.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI053",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is percentage increase calculated?",
+      "options": {
+        "A": "[(New value − Original value) ÷ Original value] × 100",
+        "B": "[(Original value − New value) ÷ Original value] × 100",
+        "C": "[(New value − Original value) ÷ New value] × 100",
+        "D": "(New value ÷ Original value) × 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage increase = [(New value − Original value) ÷ Original value] × 100.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI054",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is percentage decrease calculated?",
+      "options": {
+        "A": "[(Original value − New value) ÷ Original value] × 100",
+        "B": "[(New value − Original value) ÷ Original value] × 100",
+        "C": "[(Original value − New value) ÷ New value] × 100",
+        "D": "(Original value ÷ New value) × 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage decrease = [(Original value − New value) ÷ Original value] × 100.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI055",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the percentage change formula indicate?",
+      "options": {
+        "A": "Percentage change = [(Final value − Initial value) ÷ Initial value] × 100; a positive result indicates an increase and a negative result indicates a decrease",
+        "B": "Percentage change = [(Initial value − Final value) ÷ Final value] × 100; always positive",
+        "C": "Percentage change = Final value + Initial value",
+        "D": "Percentage change = Final value × Initial value"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage change = [(Final value − Initial value) ÷ Initial value] × 100. A positive result indicates an increase and a negative result indicates a decrease.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI056",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A value rises from 200 to 250. What is the percentage increase?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "30%",
+        "D": "50%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increase = 50. Percentage increase = (50 ÷ 200) × 100 = 25%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI057",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A value falls from 500 to 400. What is the percentage decrease?",
+      "options": {
+        "A": "10%",
+        "B": "20%",
+        "C": "25%",
+        "D": "50%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decrease = 100. Percentage decrease = (100 ÷ 500) × 100 = 20%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI058",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is 20% of 450?",
+      "options": {
+        "A": "80",
+        "B": "90",
+        "C": "100",
+        "D": "110"
+      },
+      "correctAnswer": "B",
+      "explanation": "(20 ÷ 100) × 450 = 90.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI059",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "A class has 240 students and 35% are girls. How many girls are there?",
+      "options": {
+        "A": "74",
+        "B": "84",
+        "C": "94",
+        "D": "104"
+      },
+      "correctAnswer": "B",
+      "explanation": "(35 ÷ 100) × 240 = 84 girls.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI060",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If 72 is 30% of a number, what is the number?",
+      "options": {
+        "A": "216",
+        "B": "240",
+        "C": "260",
+        "D": "280"
+      },
+      "correctAnswer": "B",
+      "explanation": "Number = (72 × 100) ÷ 30 = 240.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI061",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 1/2?",
+      "options": {
+        "A": "25%",
+        "B": "40%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "correctAnswer": "C",
+      "explanation": "1/2 = 50%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI062",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 1/4?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "30%",
+        "D": "40%"
+      },
+      "correctAnswer": "B",
+      "explanation": "1/4 = 25%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI063",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 3/4?",
+      "options": {
+        "A": "50%",
+        "B": "60%",
+        "C": "70%",
+        "D": "75%"
+      },
+      "correctAnswer": "D",
+      "explanation": "3/4 = 75%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI064",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 1/5?",
+      "options": {
+        "A": "10%",
+        "B": "15%",
+        "C": "20%",
+        "D": "25%"
+      },
+      "correctAnswer": "C",
+      "explanation": "1/5 = 20%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI065",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 1/8?",
+      "options": {
+        "A": "10.5%",
+        "B": "12.5%",
+        "C": "15%",
+        "D": "18%"
+      },
+      "correctAnswer": "B",
+      "explanation": "1/8 = 12.5%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI066",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the percentage equivalent of 1/10?",
+      "options": {
+        "A": "5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correctAnswer": "B",
+      "explanation": "1/10 = 10%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI067",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate percentage equivalent of 1/3?",
+      "options": {
+        "A": "25.00%",
+        "B": "30.33%",
+        "C": "33.33%",
+        "D": "36.67%"
+      },
+      "correctAnswer": "C",
+      "explanation": "1/3 ≈ 33.33%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI068",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the approximate percentage equivalent of 2/3?",
+      "options": {
+        "A": "60.00%",
+        "B": "63.33%",
+        "C": "66.67%",
+        "D": "70.00%"
+      },
+      "correctAnswer": "C",
+      "explanation": "2/3 ≈ 66.67%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI069",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If A is 25% more than B, by what percentage is B less than A?",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "25%",
+        "D": "30%"
+      },
+      "correctAnswer": "B",
+      "explanation": "If B = 100, A = 125. The difference 25 is 25/125 × 100 = 20% of A.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI070",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If A is 20% less than B, by what percentage is B more than A?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "30%",
+        "D": "35%"
+      },
+      "correctAnswer": "B",
+      "explanation": "If B = 100, A = 80. The difference 20 is 20/80 × 100 = 25% of A.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI071",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If a value increases by 20% and then decreases by 20%, is the final value unchanged?",
+      "options": {
+        "A": "Yes, it returns exactly to the original value",
+        "B": "No; taking 100 as the starting value, 100 × 1.20 × 0.80 = 96, giving a net decrease of 4%",
+        "C": "No; the net change is an increase of 4%",
+        "D": "Yes, because the percentages cancel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Taking 100 as the starting value: 100 × 1.20 × 0.80 = 96. The net decrease is 4%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI072",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the formula for the net effect of successive percentage changes a% and b%?",
+      "options": {
+        "A": "Net percentage change = a + b + (ab ÷ 100), using a negative sign for a decrease",
+        "B": "Net percentage change = a + b",
+        "C": "Net percentage change = a × b ÷ 100",
+        "D": "Net percentage change = (a + b) ÷ 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Net percentage change = a + b + (ab ÷ 100), using a negative sign for a decrease. The result is a percentage increase if positive and decrease if negative.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI073",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A value increases by 10% and then by 20%. What is the total percentage increase?",
+      "options": {
+        "A": "30%",
+        "B": "32%",
+        "C": "34%",
+        "D": "36%"
+      },
+      "correctAnswer": "B",
+      "explanation": "10 + 20 + (10 × 20 ÷ 100) = 30 + 2 = 32%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI074",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A value decreases by 10% and then by 20%. What is the total percentage decrease?",
+      "options": {
+        "A": "26%",
+        "B": "28%",
+        "C": "30%",
+        "D": "32%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using signed changes: −10 − 20 + [(−10)(−20) ÷ 100] = −30 + 2 = −28. The total decrease is 28%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI075",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a percentage-point difference?",
+      "options": {
+        "A": "The arithmetic difference between two percentages, e.g., a rise from 20% to 25% is 5 percentage points",
+        "B": "The relative change compared with the original percentage",
+        "C": "The product of two percentages",
+        "D": "The average of two percentages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage points measure the direct subtraction of two percentage values. A rise from 20% to 25% is 5 percentage points, while the relative percentage increase is 25%.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI076",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Percentages and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between percentage and percentage points?",
+      "options": {
+        "A": "Percentage points measure the direct subtraction of two percentage values; percentage change measures the relative change compared with the original percentage",
+        "B": "They are exactly the same thing",
+        "C": "Percentage points are always larger than percentage change",
+        "D": "Percentage change is measured in degrees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage points measure the direct subtraction of two percentage values; percentage change measures the relative change compared with the original percentage.",
+      "source": "Data_Interpretation.pdf - Section D"
+    },
+    {
+      "id": "DI077",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a ratio?",
+      "options": {
+        "A": "A comparison of two or more quantities of the same kind by division, written using a colon such as 3:5",
+        "B": "A fraction that describes a part of a whole only",
+        "C": "The sum of two quantities",
+        "D": "A percentage of a total"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ratio compares two or more quantities of the same kind by division and is written using a colon, such as 3:5.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI078",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does the ratio 3:5 mean?",
+      "options": {
+        "A": "For every 3 parts of the first quantity, there are 5 equal parts of the second quantity",
+        "B": "The first quantity is 3 more than the second",
+        "C": "The total is 3 + 5 = 8 parts always",
+        "D": "The second quantity is 5 less than the first"
+      },
+      "correctAnswer": "A",
+      "explanation": "For every 3 parts of the first quantity, there are 5 equal parts of the second quantity.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI079",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How can a ratio be simplified?",
+      "options": {
+        "A": "By dividing every term by the greatest common divisor; e.g., 18:24 simplifies to 3:4",
+        "B": "By adding the same number to every term",
+        "C": "By multiplying only the first term",
+        "D": "By converting it to a percentage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Divide every term by the greatest common divisor. For example, 18:24 simplifies to 3:4.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI080",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is a total divided in a given ratio?",
+      "options": {
+        "A": "Add the ratio parts, divide the total by that sum to find one part, and multiply by each ratio term",
+        "B": "Divide the total by each ratio term separately",
+        "C": "Multiply the total by each ratio term",
+        "D": "Subtract the ratio terms from the total"
+      },
+      "correctAnswer": "A",
+      "explanation": "Add the ratio parts, divide the total by that sum to find one part, and multiply by each ratio term.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI081",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Divide 720 in the ratio 5:7. What are the shares?",
+      "options": {
+        "A": "300 and 420",
+        "B": "320 and 400",
+        "C": "280 and 440",
+        "D": "350 and 370"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total parts = 12. One part = 720 ÷ 12 = 60. The shares are 5 × 60 = 300 and 7 × 60 = 420.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI082",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a proportion?",
+      "options": {
+        "A": "A statement that two ratios are equal, such as a:b = c:d",
+        "B": "A comparison of two quantities by division",
+        "C": "A percentage of a whole",
+        "D": "The average of two ratios"
+      },
+      "correctAnswer": "A",
+      "explanation": "A proportion states that two ratios are equal, such as a:b = c:d.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI083",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the cross-multiplication rule for a proportion a:b = c:d?",
+      "options": {
+        "A": "ad = bc, provided the denominators are non-zero",
+        "B": "ab = cd",
+        "C": "ac = bd",
+        "D": "a + d = b + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "If a:b = c:d, then ad = bc, provided the denominators are non-zero.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI084",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If 4:7 = x:35, what is x?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24"
+      },
+      "correctAnswer": "B",
+      "explanation": "4/7 = x/35, so x = 35 × 4 / 7 = 20.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI085",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the ratio of 40 to 60 in simplest form?",
+      "options": {
+        "A": "2:3",
+        "B": "3:2",
+        "C": "4:6",
+        "D": "1:2"
+      },
+      "correctAnswer": "A",
+      "explanation": "40:60 = 2:3.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI086",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If A:B = 2:3 and B:C = 4:5, what is A:B:C?",
+      "options": {
+        "A": "8:12:15",
+        "B": "2:3:5",
+        "C": "6:9:10",
+        "D": "4:6:15"
+      },
+      "correctAnswer": "A",
+      "explanation": "Make B equal: 2:3 becomes 8:12 and 4:5 becomes 12:15. Therefore A:B:C = 8:12:15.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI087",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If income and expenditure are in the ratio 5:3 and income is 40,000, what is expenditure?",
+      "options": {
+        "A": "20,000",
+        "B": "24,000",
+        "C": "28,000",
+        "D": "32,000"
+      },
+      "correctAnswer": "B",
+      "explanation": "5 parts = 40,000, so 1 part = 8,000. Expenditure = 3 parts = 24,000.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI088",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If boys:girls = 7:5 and total students are 480, how many girls are there?",
+      "options": {
+        "A": "180",
+        "B": "200",
+        "C": "220",
+        "D": "240"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total parts = 12; one part = 480 / 12 = 40; girls = 5 × 40 = 200.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI089",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a ratio and a fraction?",
+      "options": {
+        "A": "A fraction usually describes a part of a whole; a ratio compares quantities and may compare parts with parts or a part with another quantity",
+        "B": "A ratio is always greater than 1; a fraction is always less than 1",
+        "C": "They are exactly the same in all contexts",
+        "D": "A fraction uses a colon; a ratio uses a slash"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fraction usually describes a part of a whole. A ratio compares quantities and may compare parts with parts or a part with another quantity. The context determines the interpretation.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI090",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can quantities with different units be directly compared in a ratio?",
+      "options": {
+        "A": "Yes, units never matter in ratios",
+        "B": "No; they should first be converted to the same unit before forming the ratio",
+        "C": "Yes, but only if both are whole numbers",
+        "D": "No; ratios can never involve measurements"
+      },
+      "correctAnswer": "B",
+      "explanation": "They should first be converted to the same unit. For example, convert metres and centimetres to a common unit before forming the ratio.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+        {
+      "id": "DI091",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "If A is twice B, what is A:B?",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "2:2",
+        "D": "1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "If A = 2B, then A:B = 2:1.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI092",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Ratios and Proportions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If A is 40% of B, what is A:B?",
+      "options": {
+        "A": "2:5",
+        "B": "5:2",
+        "C": "4:10",
+        "D": "1:4"
+      },
+      "correctAnswer": "A",
+      "explanation": "A = 40% of B means A = 40/100 × B, so A:B = 40:100 = 2:5.",
+      "source": "Data_Interpretation.pdf - Section E"
+    },
+    {
+      "id": "DI093",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the arithmetic mean or average?",
+      "options": {
+        "A": "Average = Sum of observations ÷ Number of observations",
+        "B": "Average = Number of observations ÷ Sum of observations",
+        "C": "Average = Maximum − Minimum",
+        "D": "Average = Sum of observations × Number of observations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Average = Sum of observations ÷ Number of observations.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI094",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "The values are 12, 18, 20, and 30. What is their average?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sum = 80; average = 80 ÷ 4 = 20.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI095",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "If the average of 8 values is 25, what is their total?",
+      "options": {
+        "A": "180",
+        "B": "200",
+        "C": "220",
+        "D": "240"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total = Average × Number = 25 × 8 = 200.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI096",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "If the average of 5 numbers is 16 and a sixth number 22 is added, what is the new average?",
+      "options": {
+        "A": "16",
+        "B": "17",
+        "C": "18",
+        "D": "19"
+      },
+      "correctAnswer": "B",
+      "explanation": "Original total = 5 × 16 = 80. New total = 80 + 22 = 102. New average = 102 ÷ 6 = 17.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI097",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a weighted average?",
+      "options": {
+        "A": "A simple average where all values have equal importance",
+        "B": "An average that gives different importance or weight to different values, calculated as Sum of (value × weight) ÷ Sum of weights",
+        "C": "The average of only the highest and lowest values",
+        "D": "The median of a data set"
+      },
+      "correctAnswer": "B",
+      "explanation": "A weighted average gives different importance or weight to different values. Weighted average = Sum of (value × weight) ÷ Sum of weights.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI098",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the median?",
+      "options": {
+        "A": "The most frequently occurring value",
+        "B": "The middle value after arranging observations in ascending or descending order; for an even number, the average of the two middle values",
+        "C": "The difference between maximum and minimum",
+        "D": "The sum of all values divided by the number of values"
+      },
+      "correctAnswer": "B",
+      "explanation": "The median is the middle value after arranging observations in ascending or descending order. For an even number of observations, it is the average of the two middle values.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI099",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the mode?",
+      "options": {
+        "A": "The middle value of a data set",
+        "B": "The value that occurs most frequently",
+        "C": "The average of all values",
+        "D": "The difference between the largest and smallest values"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mode is the value that occurs most frequently.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI100",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the range?",
+      "options": {
+        "A": "Maximum value − Minimum value",
+        "B": "Maximum value + Minimum value",
+        "C": "Sum of all values ÷ Number of values",
+        "D": "The most frequent value"
+      },
+      "correctAnswer": "A",
+      "explanation": "Range = Maximum value − Minimum value.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI101",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a total or aggregate?",
+      "options": {
+        "A": "The sum of all relevant values in the specified group or period",
+        "B": "The average of all values",
+        "C": "The largest value in a group",
+        "D": "The difference between two values"
+      },
+      "correctAnswer": "A",
+      "explanation": "A total or aggregate is the sum of all relevant values in the specified group or period.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI102",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a per-capita value?",
+      "options": {
+        "A": "A quantity multiplied by the population",
+        "B": "A quantity divided by the relevant population, such as per-capita income = total income ÷ population",
+        "C": "The total income of a country",
+        "D": "The average of all income groups"
+      },
+      "correctAnswer": "B",
+      "explanation": "A per-capita value is a quantity divided by the relevant population, such as per-capita income = total income ÷ population.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI103",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the growth rate formula?",
+      "options": {
+        "A": "[(Current-period value − Previous-period value) ÷ Previous-period value] × 100",
+        "B": "[(Previous-period value − Current-period value) ÷ Current-period value] × 100",
+        "C": "Current-period value ÷ Previous-period value",
+        "D": "(Current-period value + Previous-period value) × 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Growth rate = [(Current-period value − Previous-period value) ÷ Previous-period value] × 100.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI104",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Averages, Totals and Basic Comparative Measures",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between absolute growth and percentage growth?",
+      "options": {
+        "A": "Absolute growth is the numerical difference between two values; percentage growth expresses that difference relative to the original value",
+        "B": "Absolute growth is always larger than percentage growth",
+        "C": "Percentage growth is the numerical difference; absolute growth is relative",
+        "D": "They are always equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Absolute growth is the numerical difference between two values; percentage growth expresses that difference relative to the original value.",
+      "source": "Data_Interpretation.pdf - Section F"
+    },
+    {
+      "id": "DI105",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is comparative data interpretation?",
+      "options": {
+        "A": "It compares two or more categories, groups, locations, or time periods using values, differences, ratios, percentages, averages, or trends",
+        "B": "It only calculates totals",
+        "C": "It only draws pie charts",
+        "D": "It only collects raw data"
+      },
+      "correctAnswer": "A",
+      "explanation": "Comparative data interpretation compares two or more categories, groups, locations, or time periods using values, differences, ratios, percentages, averages, or trends.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI106",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How is the absolute difference between two values calculated?",
+      "options": {
+        "A": "Absolute difference = Larger value − Smaller value",
+        "B": "Absolute difference = Larger value ÷ Smaller value",
+        "C": "Absolute difference = Larger value + Smaller value",
+        "D": "Absolute difference = Smaller value − Larger value"
+      },
+      "correctAnswer": "A",
+      "explanation": "Absolute difference = Larger value − Smaller value.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI107",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the percentage by which A exceeds B calculated?",
+      "options": {
+        "A": "[(A − B) ÷ B] × 100, assuming B is the reference or base value",
+        "B": "[(A − B) ÷ A] × 100",
+        "C": "[(B − A) ÷ B] × 100",
+        "D": "(A ÷ B) × 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage by which A exceeds B = [(A − B) ÷ B] × 100, assuming B is the reference or base value.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI108",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is the percentage by which A is less than B calculated?",
+      "options": {
+        "A": "[(B − A) ÷ B] × 100, using B as the base",
+        "B": "[(A − B) ÷ B] × 100",
+        "C": "[(B − A) ÷ A] × 100",
+        "D": "(B ÷ A) × 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage by which A is less than B = [(B − A) ÷ B] × 100, using B as the base.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI109",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do you identify the highest value in a table?",
+      "options": {
+        "A": "Compare values in the same unit and for the same measure, then select the largest",
+        "B": "Select the value in the last row",
+        "C": "Select the value in the first column",
+        "D": "Select the most frequently occurring value"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compare values in the same unit and for the same measure, then select the largest.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI110",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do you identify the lowest value in a chart?",
+      "options": {
+        "A": "Read the scale correctly and compare the relevant bars, points, or sectors",
+        "B": "Select the first bar from the left",
+        "C": "Select the bar with the most colour",
+        "D": "Select the value in the title"
+      },
+      "correctAnswer": "A",
+      "explanation": "Read the scale correctly and compare the relevant bars, points, or sectors.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI111",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do you compare two years of production?",
+      "options": {
+        "A": "Calculate the absolute difference and, if asked, divide the difference by the earlier year's value and multiply by 100",
+        "B": "Add the two years' values",
+        "C": "Multiply the two years' values",
+        "D": "Always divide the later year by the earlier year only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calculate the absolute difference and, if asked, divide the difference by the earlier year's value and multiply by 100.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI112",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "How do you compare category shares in a pie chart?",
+      "options": {
+        "A": "Compare sector angles or percentages; the larger angle or percentage represents the larger share",
+        "B": "Compare the colours of the sectors",
+        "C": "Count the number of sectors",
+        "D": "Always select the first sector"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compare sector angles or percentages. The larger angle or percentage represents the larger share.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI113",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do you compare two ratios?",
+      "options": {
+        "A": "Convert them to fractions or a common denominator, or cross-multiply to determine which is larger",
+        "B": "Add the terms of each ratio",
+        "C": "Compare only the first terms",
+        "D": "Always select the ratio with larger numbers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Convert them to fractions or a common denominator, or cross-multiply to determine which is larger.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI114",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How do you compare averages of groups with different sizes?",
+      "options": {
+        "A": "Calculate each group's total and divide by its own number of observations; do not compare totals as though they were averages",
+        "B": "Compare the totals directly",
+        "C": "Compare the largest value in each group",
+        "D": "Always use the group with more members as the answer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calculate each group's total and divide by its own number of observations. Do not compare totals as though they were averages.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI115",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a ranking based on data?",
+      "options": {
+        "A": "The ordering of categories from highest to lowest or lowest to highest according to a specified measure",
+        "B": "The average of all categories",
+        "C": "The difference between two categories",
+        "D": "The total of all categories"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ranking is the ordering of categories from highest to lowest or lowest to highest according to a specified measure.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI116",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a trend comparison?",
+      "options": {
+        "A": "It compares how values change over several periods, noting increases, decreases, stability, peaks, and troughs",
+        "B": "It compares only two values in one period",
+        "C": "It calculates the average of one period",
+        "D": "It ranks categories in one period only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A trend comparison compares how values change over several periods, noting increases, decreases, stability, peaks, and troughs.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI117",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a base year in comparative analysis?",
+      "options": {
+        "A": "A reference year against which values in other years are compared",
+        "B": "The year with the highest value",
+        "C": "The year with the lowest value",
+        "D": "The most recent year only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A base year is a reference year against which values in other years are compared.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI118",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Comparative Data",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the base value important in percentage comparison?",
+      "options": {
+        "A": "Percentage change depends on the chosen base; the same absolute difference can produce different percentage changes when the base values differ",
+        "B": "The base value is always 100",
+        "C": "The base value does not affect percentage change",
+        "D": "The base value is always the larger number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage change depends on the chosen base. The same absolute difference can produce different percentage changes when the base values differ.",
+      "source": "Data_Interpretation.pdf - Section G"
+    },
+    {
+      "id": "DI119",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a total-based DI question?",
+      "options": {
+        "A": "It asks for the sum of values across specified categories or periods",
+        "B": "It asks for the difference between two values",
+        "C": "It asks for the average of selected values",
+        "D": "It asks for a ratio between quantities"
+      },
+      "correctAnswer": "A",
+      "explanation": "A total-based DI question asks for the sum of values across specified categories or periods.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI120",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a difference-based DI question?",
+      "options": {
+        "A": "It asks how much one value exceeds or falls below another",
+        "B": "It asks for the sum of values",
+        "C": "It asks for the average of values",
+        "D": "It asks for a missing value"
+      },
+      "correctAnswer": "A",
+      "explanation": "A difference-based DI question asks how much one value exceeds or falls below another.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI121",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an average-based DI question?",
+      "options": {
+        "A": "It asks for the mean of selected values or groups",
+        "B": "It asks for the sum of values",
+        "C": "It asks for the largest value",
+        "D": "It asks for a ratio"
+      },
+      "correctAnswer": "A",
+      "explanation": "An average-based DI question asks for the mean of selected values or groups.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI122",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a percentage-based DI question?",
+      "options": {
+        "A": "It asks for a share, increase, decrease, or percentage comparison using a stated base",
+        "B": "It asks only for totals",
+        "C": "It asks only for differences",
+        "D": "It asks only for ratios"
+      },
+      "correctAnswer": "A",
+      "explanation": "A percentage-based DI question asks for a share, increase, decrease, or percentage comparison using a stated base.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI123",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a ratio-based DI question?",
+      "options": {
+        "A": "It asks for a comparison between two or more quantities in simplified ratio form",
+        "B": "It asks for the sum of values",
+        "C": "It asks for the average of values",
+        "D": "It asks for a trend over time"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ratio-based DI question asks for a comparison between two or more quantities in simplified ratio form.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI124",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a missing-value DI question?",
+      "options": {
+        "A": "It provides partial information and requires an unknown value to be calculated using totals, percentages, ratios, or averages",
+        "B": "It asks only for the highest value",
+        "C": "It asks only for the lowest value",
+        "D": "It asks for a graph to be drawn"
+      },
+      "correctAnswer": "A",
+      "explanation": "A missing-value DI question provides partial information and requires an unknown value to be calculated using totals, percentages, ratios, or averages.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI125",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a trend-based DI question?",
+      "options": {
+        "A": "It asks whether a quantity increased, decreased, fluctuated, or remained stable across periods",
+        "B": "It asks for the sum of values",
+        "C": "It asks for a ratio between categories",
+        "D": "It asks for the median only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A trend-based DI question asks whether a quantity increased, decreased, fluctuated, or remained stable across periods.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI126",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a maximum-minimum DI question?",
+      "options": {
+        "A": "It asks for the largest or smallest value, difference, share, or growth rate among the categories",
+        "B": "It asks for the average of all categories",
+        "C": "It asks for the total of all categories",
+        "D": "It asks for a missing value"
+      },
+      "correctAnswer": "A",
+      "explanation": "A maximum-minimum DI question asks for the largest or smallest value, difference, share, or growth rate among the categories.",
+      "source": "Data_Interpretation.pdf - Section H"
+    },
+    {
+      "id": "DI127",
+      "subject": "Mental Ability",
+      "topic": "Data Interpretation",
+      "chapter": "Common Data-Interpretation Question Types",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an approximate DI question?",
+      "options": {
+        "A": "It permits rounded calculations when answer options are sufficiently separated; avoid excessive rounding when options are close",
+        "B": "It always requires exact calculation to two decimal places",
+        "C": "It never allows rounding",
+        "D": "It asks for a graph to be drawn"
+      },
+      "correctAnswer": "A",
+      "explanation": "An approximate DI question permits rounded calculations when answer options are sufficiently separated. Avoid excessive rounding when options are close.",
+      "source": "Data_Interpretation.pdf - Section H"
+    }
+  ]
+}

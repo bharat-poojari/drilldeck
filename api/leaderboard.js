@@ -152,7 +152,7 @@ export default async function handler(req, res) {
   try {
     if (req.method === "GET") {
       const { data } = await readJsonFile(SCORES_FILE, EMPTY_SCORES);
-      if (!data || !Array.isArray(data.scores)) throw new Error("GitHub leaderboard storage must contain a scores array.");
+      if (!data || !Array.isArray(data.scores)) throw new Error("Leaderboard storage must contain a scores array.");
       const scores = sortScores(filterScores(data.scores, req)).slice(0, 100)
         .map((score, index) => publicScore(score, index + 1));
       return sendJson(res, 200, { scores });
@@ -174,7 +174,7 @@ export default async function handler(req, res) {
       let updatedScore = null;
       await updateJsonFile(SCORES_FILE, EMPTY_SCORES, data => {
         if (!data || !Array.isArray(data.scores)) {
-          throw new Error("GitHub leaderboard storage must contain a scores array.");
+          throw new Error("Leaderboard storage must contain a scores array.");
         }
         const index = data.scores.findIndex(item => item.id === id);
         if (index < 0 || !canManageScore(data.scores[index], ownerKey)) {
@@ -220,7 +220,7 @@ export default async function handler(req, res) {
     let savedScore = score;
     await updateJsonFile(SCORES_FILE, EMPTY_SCORES, data => {
       if (!data || !Array.isArray(data.scores)) {
-        throw new Error("GitHub leaderboard storage must contain a scores array.");
+        throw new Error("Leaderboard storage must contain a scores array.");
       }
       const existing = data.scores.find(item => item.id === score.id);
       if (existing) {

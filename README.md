@@ -79,7 +79,7 @@ Then open:
 http://127.0.0.1:8000
 ```
 
-This server provides the configuration-validation API needed to start a test and the same GitHub-backed chat and leaderboard handlers used in deployment. To enable shared chat and leaderboard locally, set `EXAMDESK_GITHUB_TOKEN`, `EXAMDESK_GITHUB_OWNER` and `EXAMDESK_GITHUB_REPO` in the shell before running `npm run dev`; otherwise those features return a configuration error. Test results and bookmarks remain local to the browser. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
+This server provides the configuration-validation API needed to start a test. Chat and leaderboard data use local JSON files in `.local-data/` by default, so no GitHub credentials are required for local practice; this directory is ignored by Git. To use GitHub-backed chat and leaderboard storage while running this server, set `DRILLDECK_USE_GITHUB_STORAGE=true` along with `EXAMDESK_GITHUB_TOKEN`, `EXAMDESK_GITHUB_OWNER` and `EXAMDESK_GITHUB_REPO`. Production continues to use the GitHub-backed handlers. Test results and bookmarks remain local to the browser. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
 
 ## Deploy chat and score sharing to Vercel
 

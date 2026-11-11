@@ -745,9 +745,20 @@ function updateConfigurationSummary(configuration, validation, availabilityText 
       ? "General Kannada, English & Computer Knowledge"
       : configuration.paper;
   $("wizard-summary-paper").textContent = paper;
-  $("wizard-summary-subjects").textContent = configuration.categories.length
-    ? configuration.categories.join(", ")
-    : "None selected";
+  const subjects = $("wizard-summary-subjects");
+  $("wizard-summary-subject-count").textContent = configuration.categories.length.toLocaleString();
+  subjects.replaceChildren();
+  for (const category of configuration.categories) {
+    const item = document.createElement("li");
+    item.textContent = category;
+    subjects.append(item);
+  }
+  if (!configuration.categories.length) {
+    const item = document.createElement("li");
+    item.className = "wizard-summary-subject-empty";
+    item.textContent = "None selected";
+    subjects.append(item);
+  }
   $("wizard-summary-topics").textContent = `${configuration.topics.length.toLocaleString()} selected`;
   $("wizard-summary-mode").textContent = configuration.quickTest
     ? "Quick Test"

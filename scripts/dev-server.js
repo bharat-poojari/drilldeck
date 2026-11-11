@@ -6,9 +6,14 @@ import { fileURLToPath } from "node:url";
 import configurationHandler from "../api/configuration.js";
 import chatHandler from "../api/chat.js";
 import leaderboardHandler from "../api/leaderboard.js";
+import { configureLocalJsonStorage } from "../lib/server/github-json.js";
 
 const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const PORT = Number(process.env.PORT || 8000);
+const useGitHubStorage = process.env.DRILLDECK_USE_GITHUB_STORAGE === "true";
+if (!useGitHubStorage) {
+  configureLocalJsonStorage(resolve(process.env.DRILLDECK_LOCAL_STORAGE_DIR || resolve(ROOT, ".local-data")));
+}
 const MAX_BODY_BYTES = 1024 * 1024;
 const MIME_TYPES = {
   ".css":"text/css; charset=utf-8",
@@ -132,7 +137,7 @@ async function handleStatic(req, res, pathname) {
     : decodedPath.endsWith("/")
       ? `${decodedPath.replace(/^[/\\]+|[/\\]+$/g, "")}/index.html`
       : decodedPath.replace(/^[/\\]+/, "");
-  const filePath = resolve(ROOT, relativePath);
+  let filePath = resolve(ROOT, relativePath);
   const fromRoot = relative(ROOT, filePath);
   const [first, ...rest] = fromRoot.split(sep);
   const publicFile = !rest.length && PUBLIC_FILES.has(first);
@@ -142,7 +147,16 @@ async function handleStatic(req, res, pathname) {
     return;
   }
   try {
-    const file = await stat(filePath);
+    let file;
+    try {
+      file = await stat(filePath);
+    } catch (error) {
+      if (decodedPath !== "/data/datasets.json" || (error.code !== "ENOENT" && error.code !== "ENOTDIR")) {
+        throw error;
+      }
+      filePath = resolve(ROOT, "public", "data", "datasets.json");
+      file = await stat(filePath);
+    }
     if (!file.isFile()) throw new Error("Not a file");
     res.writeHead(200, {
       "Cache-Control":"no-cache",
@@ -189,5 +203,7 @@ const server = createServer(async (req, res) => {
 
 server.listen(PORT, "127.0.0.1", () => {
   console.log(`DrillDeck local development server: http://127.0.0.1:${PORT}`);
-  console.log("Chat and leaderboard APIs use GitHub JSON storage; configure the GitHub storage environment variables to use them locally.");
+  console.log(useGitHubStorage
+    ? "Chat and leaderboard APIs use GitHub JSON storage."
+    : "Chat and leaderboard APIs use local JSON storage in .local-data/.");
 });

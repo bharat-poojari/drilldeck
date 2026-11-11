@@ -43,7 +43,12 @@ const includeDataset = await Promise.all(datasets.map(async relativePath => {
   const filePath = join(dataRoot, relativePath);
   let data;
   try {
-    data = JSON.parse(await readFile(filePath, "utf8"));
+    const contents = await readFile(filePath, "utf8");
+    if (!contents.trim()) {
+      console.warn(`Skipping empty question dataset "${relativePath}".`);
+      return false;
+    }
+    data = JSON.parse(contents);
   } catch (error) {
     throw new Error(`Invalid JSON in question dataset "${relativePath}": ${error.message}`, { cause: error });
   }

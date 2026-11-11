@@ -34,7 +34,7 @@ export default async function handler(req, res) {
   try {
     if (req.method === "GET") {
       const { data } = await readJsonFile(CHAT_FILE, EMPTY_CHAT);
-      if (!data || !Array.isArray(data.messages)) throw new Error("GitHub chat storage must contain a messages array.");
+      if (!data || !Array.isArray(data.messages)) throw new Error("Chat storage must contain a messages array.");
       return sendJson(res, 200, { messages: newestFirst(data.messages).slice(0, MAX_MESSAGES).map(publicMessage) });
     }
 
@@ -52,7 +52,7 @@ export default async function handler(req, res) {
 
     await updateJsonFile(CHAT_FILE, EMPTY_CHAT, data => {
       if (!data || !Array.isArray(data.messages)) {
-        throw new Error("GitHub chat storage must contain a messages array.");
+        throw new Error("Chat storage must contain a messages array.");
       }
       data.messages.push(message);
       data.messages = newestFirst(data.messages).slice(0, MAX_MESSAGES).reverse();

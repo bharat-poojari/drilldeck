@@ -1,0 +1,3517 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Extensive question bank derived from Karnataka Culture PDF. Verify and expand before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is meant by culture?",
+      "options": {
+        "A": "Only the religious practices of a community",
+        "B": "The collective way of life of a community, including language, literature, beliefs, customs, festivals, art, music, dance, food, dress, architecture and social practices",
+        "C": "The political system followed by a state",
+        "D": "Only the food and dress habits of a region"
+      },
+      "correctAnswer": "B",
+      "explanation": "Culture is the collective way of life of a community, including its language, literature, beliefs, customs, festivals, art, music, dance, food, dress, architecture and social practices.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major components of Karnataka culture?",
+      "options": {
+        "A": "Only Kannada language and literature",
+        "B": "Only folk and classical arts",
+        "C": "Kannada language and literature, folk and classical arts, music, dance, theatre, festivals, crafts, religious traditions, oral narratives and regional customs",
+        "D": "Only religious traditions and festivals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Major components include Kannada language and literature, folk and classical arts, music, dance, theatre, festivals, crafts, religious traditions, oral narratives and regional customs.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is Karnataka's culture described as diverse?",
+      "options": {
+        "A": "Because it has only one language and one festival",
+        "B": "Because it contains coastal, Malnad, southern plateau, northern plateau and Kodagu regions, each with distinct dialects, food habits, festivals, performance traditions and community practices",
+        "C": "Because it follows only North Indian traditions",
+        "D": "Because it has no folk traditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka's culture is diverse because the state contains coastal, Malnad, southern plateau, northern plateau and Kodagu regions, each with distinct dialects, food habits, festivals, performance traditions and community practices.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which geographical-cultural regions are commonly recognised in Karnataka?",
+      "options": {
+        "A": "Coastal Karnataka (Karavali), Malnad, southern Karnataka/Old Mysore region, northern Karnataka and Kodagu",
+        "B": "Only Coastal Karnataka and Malnad",
+        "C": "Only northern Karnataka and southern Karnataka",
+        "D": "Only Kodagu and Old Mysore region"
+      },
+      "correctAnswer": "A",
+      "explanation": "The commonly recognised regions are Coastal Karnataka (Karavali), Malnad, southern Karnataka/Old Mysore region, northern Karnataka and Kodagu; these are broad cultural-geographical zones, not administrative divisions.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which languages are spoken in Karnataka besides Kannada?",
+      "options": {
+        "A": "Only Hindi and English",
+        "B": "Tulu, Konkani, Kodava takk, Urdu, Marathi, Telugu, Tamil, Malayalam, Lambani, Beary and others",
+        "C": "Only Tulu and Konkani",
+        "D": "Only Urdu and Marathi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Besides Kannada, languages such as Tulu, Konkani, Kodava takk, Urdu, Marathi, Telugu, Tamil, Malayalam, Lambani, Beary and others are spoken by communities in different parts of the state.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the official language of Karnataka?",
+      "options": {
+        "A": "Tulu",
+        "B": "Konkani",
+        "C": "Kannada",
+        "D": "Kodava takk"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kannada is the official language of Karnataka.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Karnataka renamed from Mysore State?",
+      "options": {
+        "A": "1 November 1956",
+        "B": "1 November 1973",
+        "C": "26 January 1950",
+        "D": "15 August 1947"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karnataka was renamed from Mysore State on 1 November 1973; the state had been formed as Mysore State on 1 November 1956 through the reorganisation of states.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "Karnataka Culture",
+      "topic": "Introduction",
+      "chapter": "Karnataka Culture Introduction",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Karnataka Rajyotsava?",
+      "options": {
+        "A": "The state-formation day celebrated every year on 1 November",
+        "B": "A harvest festival celebrated in coastal Karnataka",
+        "C": "A literary conference held in Bengaluru",
+        "D": "A folk dance performed during Dasara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka Rajyotsava is the state-formation day celebrated every year on 1 November.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kannada belongs to which language family?",
+      "options": {
+        "A": "Indo-Aryan language family",
+        "B": "Dravidian language family",
+        "C": "Austroasiatic language family",
+        "D": "Sino-Tibetan language family"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada belongs to the Dravidian language family.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "To which branch of the Dravidian family does Kannada belong?",
+      "options": {
+        "A": "Central Dravidian branch",
+        "B": "North Dravidian branch",
+        "C": "South Dravidian branch",
+        "D": "South-Central Dravidian branch"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kannada is generally classified under the South Dravidian branch.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where is Kannada primarily spoken?",
+      "options": {
+        "A": "Only in Bengaluru",
+        "B": "Karnataka, with Kannada-speaking communities also found in neighbouring states and elsewhere in India and abroad",
+        "C": "Only in coastal Karnataka",
+        "D": "Only in northern Karnataka"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada is primarily spoken in Karnataka, with Kannada-speaking communities also found in neighbouring states and elsewhere in India and abroad.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the status of Kannada in India?",
+      "options": {
+        "A": "It is not recognised by the Constitution",
+        "B": "It is one of the languages included in the Eighth Schedule of the Constitution of India",
+        "C": "It is only a regional dialect",
+        "D": "It is only used in literature, not in administration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada is one of the languages included in the Eighth Schedule of the Constitution of India.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was Kannada included in the Eighth Schedule of the Constitution?",
+      "options": {
+        "A": "In 1947",
+        "B": "In 1950, when the Constitution came into force",
+        "C": "In 1956",
+        "D": "In 1973"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada was included in the Eighth Schedule in 1950, when the Constitution came into force.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "When was Kannada recognised as a Classical Language of India?",
+      "options": {
+        "A": "In 1950",
+        "B": "In 1973",
+        "C": "In 2008",
+        "D": "In 2010"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kannada was recognised as a Classical Language of India in 2008.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada Language",
+      "topic": "Language Family and Status",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Classical Language recognition signify?",
+      "options": {
+        "A": "It recognises a language's antiquity, rich ancient literary heritage and independent literary tradition under Government of India criteria",
+        "B": "It recognises a language as the only official language of India",
+        "C": "It recognises a language as a dialect of Sanskrit",
+        "D": "It recognises a language as a modern spoken form only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Classical Language recognition recognises a language's antiquity, rich ancient literary heritage and independent literary tradition under Government of India criteria.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada Language",
+      "topic": "Historical Stages",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the three broad historical stages of Kannada?",
+      "options": {
+        "A": "Old Kannada (Halegannada), Middle Kannada (Nadugannada) and Modern Kannada (Hosagannada)",
+        "B": "Ancient Kannada, Medieval Kannada and Contemporary Kannada",
+        "C": "Early Kannada, Later Kannada and New Kannada",
+        "D": "Classical Kannada, Folk Kannada and Modern Kannada"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three broad historical stages are Old Kannada (Halegannada), Middle Kannada (Nadugannada) and Modern Kannada (Hosagannada).",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada Language",
+      "topic": "Historical Stages",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Old Kannada?",
+      "options": {
+        "A": "The early historical stage of Kannada, represented in inscriptions and early literature, broadly extending from the early centuries of Kannada records to around the 12th century",
+        "B": "The stage of Kannada from the 12th to 18th centuries",
+        "C": "The modern stage shaped by print and journalism",
+        "D": "The stage of Kannada used only in folk songs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Old Kannada is the early historical stage of Kannada, represented in inscriptions and early literature, broadly extending from the early centuries of Kannada records to around the 12th century.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada Language",
+      "topic": "Historical Stages",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Middle Kannada?",
+      "options": {
+        "A": "The early stage represented in inscriptions up to the 12th century",
+        "B": "The transitional literary and linguistic stage broadly associated with the medieval period, especially from around the 12th to 18th centuries",
+        "C": "The contemporary stage shaped by print and education",
+        "D": "The stage of Kannada before the Christian era"
+      },
+      "correctAnswer": "B",
+      "explanation": "Middle Kannada is the transitional literary and linguistic stage broadly associated with the medieval period, especially from around the 12th to 18th centuries.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada Language",
+      "topic": "Historical Stages",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Modern Kannada?",
+      "options": {
+        "A": "The early historical stage of Kannada",
+        "B": "The medieval transitional stage",
+        "C": "The later and contemporary stage of Kannada, shaped by print, education, modern prose, journalism and present-day usage",
+        "D": "The stage of Kannada used only in inscriptions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Modern Kannada is the later and contemporary stage of Kannada, shaped by print, education, modern prose, journalism and present-day usage.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada Language",
+      "topic": "Inscriptions",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Halmidi inscription?",
+      "options": {
+        "A": "The earliest widely accepted substantial/complete Kannada inscription, generally dated to around the 5th century CE",
+        "B": "A 12th-century Vachana inscription",
+        "C": "A modern Kannada literary work",
+        "D": "A Sanskrit inscription found in North India"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Halmidi inscription is the earliest widely accepted substantial/complete Kannada inscription, generally dated to around the 5th century CE.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada Language",
+      "topic": "Inscriptions",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Where was the Halmidi inscription discovered?",
+      "options": {
+        "A": "At Halmidi village in present-day Hassan district, Karnataka",
+        "B": "At Nalanda in Bihar",
+        "C": "At Hampi in Vijayanagara district",
+        "D": "At Badami in Bagalkot district"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Halmidi inscription was discovered at Halmidi village in present-day Hassan district, Karnataka.",
+      "source": "Karnataka_Culture.pdf - Page 1"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada Language",
+      "topic": "Inscriptions",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is the Halmidi inscription important?",
+      "options": {
+        "A": "It is a major early epigraphic evidence for the use and development of Kannada as a written language",
+        "B": "It is the first Kannada novel",
+        "C": "It is a treatise on Kannada grammar",
+        "D": "It is a modern Kannada poem"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Halmidi inscription is important because it is a major early epigraphic evidence for the use and development of Kannada as a written language.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada Language",
+      "topic": "Script",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What script is used to write Kannada?",
+      "options": {
+        "A": "The Kannada script, which developed historically from the southern varieties of the Brahmi script through intermediate stages",
+        "B": "The Devanagari script",
+        "C": "The Arabic script",
+        "D": "The Roman script"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kannada script developed historically from the southern varieties of the Brahmi script through intermediate stages.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q024",
+      "subject": "Kannada Language",
+      "topic": "Script",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are Kannada and Telugu scripts historically related?",
+      "options": {
+        "A": "No, they developed independently from different sources",
+        "B": "Yes, both developed from southern Brahmi-derived script traditions and share historical palaeographic connections, although they are distinct modern scripts",
+        "C": "Yes, both use the same script even today",
+        "D": "No, Kannada uses Devanagari while Telugu uses Brahmi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Yes, both developed from southern Brahmi-derived script traditions and share historical palaeographic connections, although they are distinct modern scripts.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q025",
+      "subject": "Kannada Language",
+      "topic": "Dialects",
+      "chapter": "Kannada Language",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Kannada dialects?",
+      "options": {
+        "A": "Regional or social varieties of spoken Kannada that differ in pronunciation, vocabulary and some grammatical features",
+        "B": "Different scripts used to write Kannada",
+        "C": "Ancient forms of Kannada literature",
+        "D": "Foreign languages spoken in Karnataka"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kannada dialects are regional or social varieties of spoken Kannada that differ in pronunciation, vocabulary and some grammatical features.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada Language",
+      "topic": "Dialects",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name some broad regional varieties of Kannada.",
+      "options": {
+        "A": "Mysuru/Bengaluru Kannada, Dharwad/North Karnataka Kannada, coastal Kannada and dialects associated with regions such as Kolar and other localities",
+        "B": "Only Mysuru Kannada and Bengaluru Kannada",
+        "C": "Only coastal Kannada and Kodagu Kannada",
+        "D": "Only North Karnataka Kannada and South Karnataka Kannada"
+      },
+      "correctAnswer": "A",
+      "explanation": "Broad regional varieties include Mysuru/Bengaluru Kannada, Dharwad/North Karnataka Kannada, coastal Kannada and dialects associated with regions such as Kolar and other localities; these labels cover internal variation.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q027",
+      "subject": "Kannada Language",
+      "topic": "Dialects",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a language and a dialect?",
+      "options": {
+        "A": "A language is a broader linguistic system with social, literary and political recognition; a dialect is a regional or social variety within a language, though the boundary is not always purely linguistic",
+        "B": "A dialect is always written while a language is only spoken",
+        "C": "A language has no grammar while a dialect has grammar",
+        "D": "A dialect is always older than a language"
+      },
+      "correctAnswer": "A",
+      "explanation": "A language is a broader linguistic system with social, literary and political recognition; a dialect is a regional or social variety within a language, though the boundary is not always purely linguistic.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada Language",
+      "topic": "Inscriptions",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of inscriptions in Kannada language history?",
+      "options": {
+        "A": "Inscriptions provide evidence about early vocabulary, grammar, script, administration, donations, religion, political history and the spread of Kannada",
+        "B": "Inscriptions are only religious documents with no linguistic value",
+        "C": "Inscriptions are modern records created after the 20th century",
+        "D": "Inscriptions are written only in Sanskrit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inscriptions provide evidence about early vocabulary, grammar, script, administration, donations, religion, political history and the spread of Kannada.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada Language",
+      "topic": "Identity",
+      "chapter": "Kannada Language",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of Kannada language in Karnataka's identity?",
+      "options": {
+        "A": "It is only a literary language with no role in administration",
+        "B": "Kannada is a major medium of public life, education, administration, literature and cultural expression and is central to the state's linguistic identity",
+        "C": "It is only used in folk songs",
+        "D": "It is a foreign language adopted by the state"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada is a major medium of public life, education, administration, literature and cultural expression and is central to the state's linguistic identity.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada Literature",
+      "topic": "Introduction",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kannada literature?",
+      "options": {
+        "A": "Only ancient inscriptions in Kannada",
+        "B": "The body of oral and written literary works composed in Kannada, including poetry, prose, drama, vachanas, epics, novels, short stories and criticism",
+        "C": "Only modern Kannada novels",
+        "D": "Only Kannada folk songs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kannada literature is the body of oral and written literary works composed in Kannada, including poetry, prose, drama, vachanas, epics, novels, short stories and criticism.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada Literature",
+      "topic": "Early Works",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is generally regarded as the earliest available major work of Kannada literature?",
+      "options": {
+        "A": "Kavirajamarga, composed in the 9th century CE",
+        "B": "Sri Ramayana Darshanam",
+        "C": "Samskara",
+        "D": "Shabdamanidarpara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kavirajamarga, composed in the 9th century CE, is generally regarded as the earliest available major work of Kannada literature.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada Literature",
+      "topic": "Early Works",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who is traditionally associated with Kavirajamarga?",
+      "options": {
+        "A": "Rashtrakuta king Nripatunga Amoghavarsha I; the work also refers to the poet Srivijaya, and scholarly discussion exists about its authorship and composition",
+        "B": "Pampa",
+        "C": "Ranna",
+        "D": "Basavanna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rashtrakuta king Nripatunga Amoghavarsha I is traditionally associated with Kavirajamarga; the work also refers to the poet Srivijaya, and scholarly discussion exists about its authorship and composition.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada Literature",
+      "topic": "Early Works",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the importance of Kavirajamarga?",
+      "options": {
+        "A": "It is an early treatise on poetics and literary criticism and provides valuable evidence about the Kannada literary landscape and Kannada-speaking region of its time",
+        "B": "It is the first Kannada novel",
+        "C": "It is a modern collection of short stories",
+        "D": "It is a grammar of Sanskrit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kavirajamarga is an early treatise on poetics and literary criticism and provides valuable evidence about the Kannada literary landscape and Kannada-speaking region of its time.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada Literature",
+      "topic": "Early Poets",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who are the three celebrated early Kannada poets known as the Ratnatraya?",
+      "options": {
+        "A": "Adikavi Pampa, Sri Ponna and Ranna",
+        "B": "Basavanna, Allama Prabhu and Akka Mahadevi",
+        "C": "Kuvempu, D. R. Bendre and Masti Venkatesha Iyengar",
+        "D": "Purandara Dasa, Kanaka Dasa and Vijaya Dasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three celebrated early Kannada poets known as the Ratnatraya are Adikavi Pampa, Sri Ponna and Ranna.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada Literature",
+      "topic": "Early Poets",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is known as Adikavi in Kannada literature?",
+      "options": {
+        "A": "Ranna",
+        "B": "Pampa",
+        "C": "Sri Ponna",
+        "D": "Kumaravyasa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pampa is known as Adikavi in Kannada literature.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada Literature",
+      "topic": "Early Poets",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Pampa's famous works?",
+      "options": {
+        "A": "Adipurana and Vikramarjuna Vijaya (also known as Pampa Bharata)",
+        "B": "Shantipurana and Gadayuddha",
+        "C": "Ramadhanya Charite and Mohanatarangini",
+        "D": "Karnata Bharata Kathamanjari and Jaimini Bharata"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pampa's famous works are Adipurana and Vikramarjuna Vijaya (also known as Pampa Bharata).",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada Literature",
+      "topic": "Early Poets",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who wrote Shantipurana?",
+      "options": {
+        "A": "Pampa",
+        "B": "Sri Ponna",
+        "C": "Ranna",
+        "D": "Keshiraja"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sri Ponna wrote Shantipurana.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada Literature",
+      "topic": "Early Poets",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who wrote Gadayuddha?",
+      "options": {
+        "A": "Pampa",
+        "B": "Sri Ponna",
+        "C": "Ranna",
+        "D": "Lakshmisha"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ranna wrote Gadayuddha.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada Literature",
+      "topic": "Jain Tradition",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of the early Jain literary tradition in Kannada?",
+      "options": {
+        "A": "Jain scholars and poets made major contributions to early Kannada champu poetry, epics, biography and philosophical literature",
+        "B": "Jain scholars wrote only in Sanskrit, not Kannada",
+        "C": "Jain literature in Kannada began only in the 20th century",
+        "D": "Jain scholars contributed only to folk music"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jain scholars and poets made major contributions to early Kannada champu poetry, epics, biography and philosophical literature.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada Literature",
+      "topic": "Literary Styles",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Champu style?",
+      "options": {
+        "A": "A literary style that combines prose (gadya) and verse (padya) in one composition",
+        "B": "A style that uses only verse",
+        "C": "A style that uses only prose",
+        "D": "A style of folk dance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Champu style is a literary style that combines prose (gadya) and verse (padya) in one composition.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+        {
+      "id": "Q041",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Vachana literature?",
+      "options": {
+        "A": "A distinctive Kannada prose-poetic devotional form that expresses spiritual, ethical and social ideas in direct, accessible language",
+        "B": "A form of Kannada epic poetry written in Champu style",
+        "C": "A type of modern Kannada short story",
+        "D": "A collection of Sanskrit hymns translated into Kannada"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vachana literature is a distinctive Kannada prose-poetic devotional form that expresses spiritual, ethical and social ideas in direct, accessible language.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which movement is closely associated with the growth of Vachana literature?",
+      "options": {
+        "A": "The Navodaya movement",
+        "B": "The 12th-century Sharana or Lingayat social-religious movement",
+        "C": "The Pragatisheela movement",
+        "D": "The Navya movement"
+      },
+      "correctAnswer": "B",
+      "explanation": "The 12th-century Sharana or Lingayat social-religious movement is closely associated with the growth of Vachana literature.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who are major Vachana writers?",
+      "options": {
+        "A": "Basavanna, Allama Prabhu, Akka Mahadevi, Channabasavanna, Siddharama and many other Sharanas",
+        "B": "Pampa, Sri Ponna and Ranna",
+        "C": "Purandara Dasa, Kanaka Dasa and Vijaya Dasa",
+        "D": "Kuvempu, D. R. Bendre and Masti Venkatesha Iyengar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major Vachana writers include Basavanna, Allama Prabhu, Akka Mahadevi, Channabasavanna, Siddharama and many other Sharanas.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q044",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Basavanna?",
+      "options": {
+        "A": "A 12th-century social and religious reformer, statesman and leading Vachana composer associated with the Sharana movement and the ideas of kayaka and dasoha",
+        "B": "A 9th-century Rashtrakuta king",
+        "C": "A modern Kannada novelist",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "Basavanna was a 12th-century social and religious reformer, statesman and leading Vachana composer associated with the Sharana movement and the ideas of kayaka and dasoha.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Kayaka mean in the Sharana tradition?",
+      "options": {
+        "A": "Dignity of labour and the principle that work is a form of worship",
+        "B": "Sharing one's earnings with others",
+        "C": "A type of temple ritual",
+        "D": "A form of classical music"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kayaka means dignity of labour and the principle that work is a form of worship in the Sharana tradition.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q046",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Dasoha mean?",
+      "options": {
+        "A": "Dignity of labour",
+        "B": "Sharing one's earnings or resources for the welfare of others and the community",
+        "C": "A form of ritual dance",
+        "D": "A type of Kannada poetic metre"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dasoha means sharing one's earnings or resources for the welfare of others and the community.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q047",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was Allama Prabhu?",
+      "options": {
+        "A": "A major 12th-century mystic Vachana poet known for profound spiritual and philosophical expression; he is traditionally associated with Anubhava Mantapa",
+        "B": "A 9th-century poet who wrote Kavirajamarga",
+        "C": "A modern Kannada playwright",
+        "D": "A Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Allama Prabhu was a major 12th-century mystic Vachana poet known for profound spiritual and philosophical expression; he is traditionally associated with Anubhava Mantapa.",
+      "source": "Karnataka_Culture.pdf - Page 2"
+    },
+    {
+      "id": "Q048",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Akka Mahadevi?",
+      "options": {
+        "A": "A prominent 12th-century woman Vachana poet and mystic, known for her devotion to Channamallikarjuna",
+        "B": "A 20th-century Kannada novelist",
+        "C": "A Yakshagana artist",
+        "D": "A Kannada grammarian"
+      },
+      "correctAnswer": "A",
+      "explanation": "Akka Mahadevi was a prominent 12th-century woman Vachana poet and mystic, known for her devotion to Channamallikarjuna.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Anubhava Mantapa traditionally associated with?",
+      "options": {
+        "A": "A spiritual and deliberative assembly of Sharanas at Kalyana (Basavakalyana), associated with Basavanna and the 12th-century movement; descriptions of its exact historical institutional form are debated",
+        "B": "A modern literary academy in Bengaluru",
+        "C": "A folk theatre form of coastal Karnataka",
+        "D": "A traditional painting style of Mysuru"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Anubhava Mantapa is traditionally associated with a spiritual and deliberative assembly of Sharanas at Kalyana (Basavakalyana), associated with Basavanna and the 12th-century movement; descriptions of its exact historical institutional form are debated.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q050",
+      "subject": "Kannada Literature",
+      "topic": "Dasa Sahitya",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dasa Sahitya?",
+      "options": {
+        "A": "Devotional literature composed by the Haridasa movement, especially in Kannada, expressing bhakti through songs and compositions",
+        "B": "A collection of Vachanas by Sharanas",
+        "C": "A type of modern Kannada novel",
+        "D": "A form of folk theatre"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dasa Sahitya is devotional literature composed by the Haridasa movement, especially in Kannada, expressing bhakti through songs and compositions.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada Literature",
+      "topic": "Dasa Sahitya",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who are important Haridasa composers?",
+      "options": {
+        "A": "Purandara Dasa, Kanaka Dasa, Vijaya Dasa, Gopala Dasa and Jagannatha Dasa",
+        "B": "Basavanna, Allama Prabhu and Akka Mahadevi",
+        "C": "Pampa, Sri Ponna and Ranna",
+        "D": "Kuvempu, D. R. Bendre and Masti Venkatesha Iyengar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Haridasa composers include Purandara Dasa, Kanaka Dasa, Vijaya Dasa, Gopala Dasa and Jagannatha Dasa.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada Literature",
+      "topic": "Dasa Sahitya",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is called the father of Carnatic music?",
+      "options": {
+        "A": "Kanaka Dasa",
+        "B": "Purandara Dasa",
+        "C": "Tyagaraja",
+        "D": "Basavanna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Purandara Dasa is widely honoured by the title father of Carnatic music because of his systematic contribution to Carnatic music pedagogy.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada Literature",
+      "topic": "Dasa Sahitya",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are important compositions of Kanaka Dasa?",
+      "options": {
+        "A": "His notable works include Kirtanegalu and literary works such as Ramadhanya Charite, Mohanatarangini and Nalacharitre",
+        "B": "Adipurana and Vikramarjuna Vijaya",
+        "C": "Shantipurana and Gadayuddha",
+        "D": "Karnata Bharata Kathamanjari and Jaimini Bharata"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kanaka Dasa's notable works include Kirtanegalu and literary works such as Ramadhanya Charite, Mohanatarangini and Nalacharitre.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada Literature",
+      "topic": "Medieval Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Kumaravyasa in Kannada literature?",
+      "options": {
+        "A": "Kumaravyasa is renowned for his Kannada Mahabharata, known as Karnata Bharata Kathamanjari or Kumaravyasa Bharata",
+        "B": "Kumaravyasa wrote the first Kannada grammar",
+        "C": "Kumaravyasa was a modern Navodaya poet",
+        "D": "Kumaravyasa founded the Haridasa movement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kumaravyasa is renowned for his Kannada Mahabharata, known as Karnata Bharata Kathamanjari or Kumaravyasa Bharata.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada Literature",
+      "topic": "Medieval Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote Jaimini Bharata in Kannada?",
+      "options": {
+        "A": "Kumaravyasa",
+        "B": "Lakshmisha",
+        "C": "Keshiraja",
+        "D": "Ranna"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lakshmisha wrote Jaimini Bharata in Kannada.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada Literature",
+      "topic": "Medieval Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who wrote Shabdamanidarpara?",
+      "options": {
+        "A": "Keshiraja, a medieval Kannada grammarian",
+        "B": "Kumaravyasa",
+        "C": "Lakshmisha",
+        "D": "Basavanna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Keshiraja, a medieval Kannada grammarian, wrote Shabdamanidarpara.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada Literature",
+      "topic": "Medieval Literature",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the significance of Shabdamanidarpara?",
+      "options": {
+        "A": "It is a major medieval work on Kannada grammar",
+        "B": "It is the first Kannada novel",
+        "C": "It is a collection of Vachanas",
+        "D": "It is a treatise on Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shabdamanidarpara is a major medieval work on Kannada grammar.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Navodaya period in Kannada literature?",
+      "options": {
+        "A": "Navodaya means a literary renaissance or new awakening, associated with the growth of modern Kannada poetry and prose in the late 19th and early 20th centuries",
+        "B": "A 12th-century devotional movement",
+        "C": "A 21st-century digital literature movement",
+        "D": "A folk theatre tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Navodaya means a literary renaissance or new awakening, associated with the growth of modern Kannada poetry and prose in the late 19th and early 20th centuries.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important Navodaya writers.",
+      "options": {
+        "A": "B. M. Srikanthaik, Kuvempu, D. R. Bendre, Masti Venkatesha Iyengar, K. S. Narasimhaswamy and others",
+        "B": "Basavanna, Allama Prabhu and Akka Mahadevi",
+        "C": "Pampa, Sri Ponna and Ranna",
+        "D": "Gopalakrishna Adiga, U. R. Ananthamurthy and P. Lankesh"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Navodaya writers include B. M. Srikanthaik, Kuvempu, D. R. Bendre, Masti Venkatesha Iyengar, K. S. Narasimhaswamy and others.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Pragatisheela literature?",
+      "options": {
+        "A": "A progressive literary movement that emphasised social realities, inequality, labour, class and reform, especially in the mid-20th century",
+        "B": "A modernist movement exploring individual consciousness and alienation",
+        "C": "A movement foregrounding caste oppression",
+        "D": "A 12th-century devotional movement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pragatisheela literature is a progressive literary movement that emphasised social realities, inequality, labour, class and reform, especially in the mid-20th century.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name writers associated with Pragatisheela literature.",
+      "options": {
+        "A": "A. N. Krishna Rao (Anakru), T. R. Subba Rao (TaRaSu) and other progressive writers",
+        "B": "Gopalakrishna Adiga, U. R. Ananthamurthy and P. Lankesh",
+        "C": "Siddalingaiah, Devanur Mahadeva and Aravind Malagatti",
+        "D": "Kuvempu, D. R. Bendre and Masti Venkatesha Iyengar"
+      },
+      "correctAnswer": "A",
+      "explanation": "A. N. Krishna Rao (Anakru), T. R. Subba Rao (TaRaSu) and other progressive writers are commonly associated with Pragatisheela literature.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Navya literature?",
+      "options": {
+        "A": "A modernist movement in Kannada literature that explored individual consciousness, alienation, moral complexity and modern social experience, especially from the 1950s onward",
+        "B": "A progressive movement emphasising labour and class",
+        "C": "A movement foregrounding caste oppression",
+        "D": "A 19th-century literary renaissance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Navya literature is a modernist movement in Kannada literature that explored individual consciousness, alienation, moral complexity and modern social experience, especially from the 1950s onward.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important Navya writers.",
+      "options": {
+        "A": "Gopalakrishna Adiga, U. R. Ananthamurthy, P. Lankesh, Yashwant Chittal and others",
+        "B": "A. N. Krishna Rao and T. R. Subba Rao",
+        "C": "Siddalingaiah and Devanur Mahadeva",
+        "D": "Kuvempu and D. R. Bendre"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Navya writers include Gopalakrishna Adiga, U. R. Ananthamurthy, P. Lankesh, Yashwant Chittal and others.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q064",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are Dalit and Bandaya literary movements?",
+      "options": {
+        "A": "Dalit literature foregrounds caste oppression and the experiences of Dalit communities; Bandaya (rebel/protest) literature broadly challenges social injustice, inequality and oppression",
+        "B": "Both are medieval devotional movements",
+        "C": "Both are forms of Yakshagana",
+        "D": "Both are traditional folk dance forms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dalit literature foregrounds caste oppression and the experiences of Dalit communities; Bandaya (rebel/protest) literature broadly challenges social injustice, inequality and oppression.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada Literature",
+      "topic": "Modern Movements",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important Kannada Dalit/Bandaya writers.",
+      "options": {
+        "A": "Siddalingaiah, Devanur Mahadeva, Aravind Malagatti, K. B. Siddaiah and others; literary classifications can overlap",
+        "B": "Gopalakrishna Adiga, U. R. Ananthamurthy and P. Lankesh",
+        "C": "A. N. Krishna Rao and T. R. Subba Rao",
+        "D": "Kuvempu and Masti Venkatesha Iyengar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Kannada Dalit/Bandaya writers include Siddalingaiah, Devanur Mahadeva, Aravind Malagatti, K. B. Siddaiah and others; literary classifications can overlap.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q066",
+      "subject": "Kannada Literature",
+      "topic": "Genres",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major genres of Kannada literature?",
+      "options": {
+        "A": "Poetry, vachana, devotional songs, epic and purana, prose, novel, short story, drama, autobiography, biography, travel writing, essays and literary criticism",
+        "B": "Only poetry and drama",
+        "C": "Only novels and short stories",
+        "D": "Only vachanas and devotional songs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major genres of Kannada literature include poetry, vachana, devotional songs, epic and purana, prose, novel, short story, drama, autobiography, biography, travel writing, essays and literary criticism.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Kuvempu?",
+      "options": {
+        "A": "Kuppali Venkatappa Puttappa, popularly known as Kuvempu, was a major Kannada poet, novelist, playwright and thinker",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kuvempu was Kuppali Venkatappa Puttappa, a major Kannada poet, novelist, playwright and thinker.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kuvempu's famous epic poem?",
+      "options": {
+        "A": "Sri Ramayana Darshanam",
+        "B": "Samskara",
+        "C": "Karnata Bharata Kathamanjari",
+        "D": "Gadayuddha"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kuvempu's famous epic poem is Sri Ramayana Darshanam.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did Kuvempu receive for Sri Ramayana Darshanam?",
+      "options": {
+        "A": "The Jnanpith Award in 1967, the first Jnanpith Award given for Kannada literature",
+        "B": "The Sahitya Akademi Award in 1950",
+        "C": "The Jnanpith Award in 1973",
+        "D": "The Padma Vibhushan in 1980"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kuvempu received the Jnanpith Award in 1967 for Sri Ramayana Darshanam, the first Jnanpith Award given for Kannada literature.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Kuvempu's contribution to Karnataka?",
+      "options": {
+        "A": "He enriched modern Kannada literature and wrote the state anthem Jaya Bharata Jananiya Tanujate",
+        "B": "He wrote the Kannada grammar Shabdamanidarpara",
+        "C": "He founded the Haridasa movement",
+        "D": "He built the Qutub Minar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kuvempu enriched modern Kannada literature and wrote the state anthem Jaya Bharata Jananiya Tanujate.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who wrote the Karnataka state anthem Jaya Bharata Jananiya Tanujate?",
+      "options": {
+        "A": "Kuvempu",
+        "B": "D. R. Bendre",
+        "C": "Masti Venkatesha Iyengar",
+        "D": "V. K. Gokak"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kuvempu wrote the Karnataka state anthem Jaya Bharata Jananiya Tanujate.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q072",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was D. R. Bendre?",
+      "options": {
+        "A": "Dattatreya Ramachandra Bendre, a major Kannada poet associated with the Navodaya movement and the pen name Ambikatanayadatta",
+        "B": "A 12th-century Vachana poet",
+        "C": "A modern Kannada playwright known for Tughlaq",
+        "D": "A Haridasa composer"
+      },
+      "correctAnswer": "A",
+      "explanation": "D. R. Bendre was Dattatreya Ramachandra Bendre, a major Kannada poet associated with the Navodaya movement and the pen name Ambikatanayadatta.",
+      "source": "Karnataka_Culture.pdf - Page 3"
+    },
+    {
+      "id": "Q073",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which work earned D. R. Bendre the Jnanpith Award?",
+      "options": {
+        "A": "His overall contribution to Kannada poetry was recognised with the Jnanpith Award in 1973; the award was not for a single specified book",
+        "B": "Sri Ramayana Darshanam",
+        "C": "Samskara",
+        "D": "Tughlaq"
+      },
+      "correctAnswer": "A",
+      "explanation": "D. R. Bendre's overall contribution to Kannada poetry was recognised with the Jnanpith Award in 1973; the award was not for a single specified book.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was K. Shivaram Karanth?",
+      "options": {
+        "A": "A versatile Kannada novelist, playwright, environmentalist, scholar and cultural activist",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. Shivaram Karanth was a versatile Kannada novelist, playwright, environmentalist, scholar and cultural activist.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did K. Shivaram Karanth receive?",
+      "options": {
+        "A": "The Jnanpith Award in 1977",
+        "B": "The Jnanpith Award in 1967",
+        "C": "The Jnanpith Award in 1983",
+        "D": "The Jnanpith Award in 1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "K. Shivaram Karanth received the Jnanpith Award in 1977.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q076",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Masti Venkatesha Iyengar?",
+      "options": {
+        "A": "A major Kannada writer and short-story pioneer, known by the pen name Srinivasa",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A modern Kannada playwright known for Hayavadana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Masti Venkatesha Iyengar was a major Kannada writer and short-story pioneer, known by the pen name Srinivasa.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did Masti Venkatesha Iyengar receive?",
+      "options": {
+        "A": "The Jnanpith Award in 1983",
+        "B": "The Jnanpith Award in 1977",
+        "C": "The Jnanpith Award in 1990",
+        "D": "The Jnanpith Award in 1994"
+      },
+      "correctAnswer": "A",
+      "explanation": "Masti Venkatesha Iyengar received the Jnanpith Award in 1983.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was V. K. Gokak?",
+      "options": {
+        "A": "Vinayaka Krishna Gokak, a Kannada poet, scholar and educationist",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "V. K. Gokak was Vinayaka Krishna Gokak, a Kannada poet, scholar and educationist.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+        {
+      "id": "Q079",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did V. K. Gokak receive?",
+      "options": {
+        "A": "The Jnanpith Award in 1990",
+        "B": "The Jnanpith Award in 1983",
+        "C": "The Jnanpith Award in 1994",
+        "D": "The Jnanpith Award in 1998"
+      },
+      "correctAnswer": "A",
+      "explanation": "V. K. Gokak received the Jnanpith Award in 1990.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was U. R. Ananthamurthy?",
+      "options": {
+        "A": "A major Kannada novelist, short-story writer, critic and leading figure of the Navya movement",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "U. R. Ananthamurthy was a major Kannada novelist, short-story writer, critic and leading figure of the Navya movement.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which work is U. R. Ananthamurthy especially known for?",
+      "options": {
+        "A": "Samskara, a landmark modern Kannada novel",
+        "B": "Sri Ramayana Darshanam",
+        "C": "Tughlaq",
+        "D": "Gadayuddha"
+      },
+      "correctAnswer": "A",
+      "explanation": "U. R. Ananthamurthy is especially known for Samskara, a landmark modern Kannada novel.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did U. R. Ananthamurthy receive?",
+      "options": {
+        "A": "The Jnanpith Award in 1994",
+        "B": "The Jnanpith Award in 1990",
+        "C": "The Jnanpith Award in 1998",
+        "D": "The Jnanpith Award in 2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "U. R. Ananthamurthy received the Jnanpith Award in 1994.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Girish Karnad?",
+      "options": {
+        "A": "A Kannada playwright, actor, film director and intellectual whose plays often reinterpret history, mythology and folklore",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "Girish Karnad was a Kannada playwright, actor, film director and intellectual whose plays often reinterpret history, mythology and folklore.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important plays by Girish Karnad.",
+      "options": {
+        "A": "Tughlaq, Hayavadana, Nagamandala, Yayati and Tale-Danda",
+        "B": "Samskara, Bharathipura and Avasthe",
+        "C": "Sri Ramayana Darshanam and Jaya Bharata Jananiya Tanujate",
+        "D": "Gadayuddha and Shantipurana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important plays by Girish Karnad include Tughlaq, Hayavadana, Nagamandala, Yayati and Tale-Danda.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did Girish Karnad receive?",
+      "options": {
+        "A": "The Jnanpith Award in 1998",
+        "B": "The Jnanpith Award in 1994",
+        "C": "The Jnanpith Award in 2010",
+        "D": "The Jnanpith Award in 1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "Girish Karnad received the Jnanpith Award in 1998.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q086",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was Chandrashekhara Kambara?",
+      "options": {
+        "A": "A Kannada poet, playwright, folklorist and scholar known for drawing on North Karnataka folklore and oral traditions",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chandrashekhara Kambara is a Kannada poet, playwright, folklorist and scholar known for drawing on North Karnataka folklore and oral traditions.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which award did Chandrashekhara Kambara receive?",
+      "options": {
+        "A": "The Jnanpith Award in 2010",
+        "B": "The Jnanpith Award in 1998",
+        "C": "The Jnanpith Award in 1994",
+        "D": "The Jnanpith Award in 1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chandrashekhara Kambara received the Jnanpith Award in 2010.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada Literature",
+      "topic": "Literary Personalities",
+      "chapter": "Kannada Literary Personalities",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How many Kannada writers have received the Jnanpith Award through 2010?",
+      "options": {
+        "A": "Eight: Kuvempu, D. R. Bendre, K. Shivaram Karanth, Masti Venkatesha Iyengar, V. K. Gokak, U. R. Ananthamurthy, Girish Karnad and Chandrashekhara Kambara",
+        "B": "Six",
+        "C": "Ten",
+        "D": "Four"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eight Kannada writers received the Jnanpith Award through 2010: Kuvempu, D. R. Bendre, K. Shivaram Karanth, Masti Venkatesha Iyengar, V. K. Gokak, U. R. Ananthamurthy, Girish Karnad and Chandrashekhara Kambara.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada Literature",
+      "topic": "Literary Awards and Institutions",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Sahitya Akademi Award?",
+      "options": {
+        "A": "A national literary award given by the Sahitya Akademi for outstanding literary works in recognised Indian languages, including Kannada",
+        "B": "A state-level award given by the Karnataka Sahitya Akademi",
+        "C": "A film award given for Kannada cinema",
+        "D": "A folk art award given by the Janapada Academy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Sahitya Akademi Award is a national literary award given by the Sahitya Akademi for outstanding literary works in recognised Indian languages, including Kannada.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q090",
+      "subject": "Kannada Literature",
+      "topic": "Literary Awards and Institutions",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Karnataka Sahitya Akademi?",
+      "options": {
+        "A": "A state-level institution that promotes Kannada literature and literary activities in Karnataka; it is distinct from the national Sahitya Akademi",
+        "B": "The national academy for all Indian languages",
+        "C": "A theatre academy",
+        "D": "A folk art museum"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Sahitya Akademi is a state-level institution that promotes Kannada literature and literary activities in Karnataka; it is distinct from the national Sahitya Akademi.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada Literature",
+      "topic": "Literary Awards and Institutions",
+      "chapter": "Kannada Literature",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Kannada Sahitya Parishattu?",
+      "options": {
+        "A": "An organisation established to promote Kannada language, literature and culture; it is closely associated with the Kannada literary conference tradition",
+        "B": "A national literary award",
+        "C": "A folk dance form",
+        "D": "A museum near Ramanagara"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kannada Sahitya Parishattu is an organisation established to promote Kannada language, literature and culture; it is closely associated with the Kannada literary conference tradition.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada Literature",
+      "topic": "Literary Awards and Institutions",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Akhila Bharata Kannada Sahitya Sammelana?",
+      "options": {
+        "A": "A major literary conference of Kannada writers, scholars and readers organised under the Kannada Sahitya Parishattu tradition",
+        "B": "A national award for Kannada literature",
+        "C": "A folk theatre festival",
+        "D": "A state government department"
+      },
+      "correctAnswer": "A",
+      "explanation": "Akhila Bharata Kannada Sahitya Sammelana is a major literary conference of Kannada writers, scholars and readers organised under the Kannada Sahitya Parishattu tradition.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q093",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does Janapada mean?",
+      "options": {
+        "A": "Janapada refers to the people's or folk tradition: the collective oral, artistic, ritual, musical and material culture of ordinary communities",
+        "B": "A type of classical dance",
+        "C": "A modern literary movement",
+        "D": "A Kannada grammatical term"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada refers to the people's or folk tradition: the collective oral, artistic, ritual, musical and material culture of ordinary communities.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q094",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Janapada culture?",
+      "options": {
+        "A": "The living cultural heritage transmitted across generations through oral narratives, songs, proverbs, riddles, rituals, festivals, dances, crafts, games and customary knowledge",
+        "B": "A collection of modern Kannada novels",
+        "C": "A classical music tradition",
+        "D": "A type of temple architecture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada culture is the living cultural heritage transmitted across generations through oral narratives, songs, proverbs, riddles, rituals, festivals, dances, crafts, games and customary knowledge.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q095",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is folklore?",
+      "options": {
+        "A": "Folklore is the traditional knowledge and expressive culture of a community, commonly transmitted orally or through practice rather than solely through formal written texts",
+        "B": "A type of modern Kannada literature",
+        "C": "A classical dance form",
+        "D": "A form of temple architecture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Folklore is the traditional knowledge and expressive culture of a community, commonly transmitted orally or through practice rather than solely through formal written texts.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q096",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major forms of Karnataka folklore?",
+      "options": {
+        "A": "Folk songs, folk tales, legends, ballads, proverbs, riddles, ritual performances, folk theatre, dances, music, puppetry, crafts and community festivals",
+        "B": "Only folk songs and folk tales",
+        "C": "Only folk dances and music",
+        "D": "Only proverbs and riddles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major forms of Karnataka folklore include folk songs, folk tales, legends, ballads, proverbs, riddles, ritual performances, folk theatre, dances, music, puppetry, crafts and community festivals.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q097",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an oral tradition?",
+      "options": {
+        "A": "A tradition passed from one generation to another through speech, singing, performance, memory and customary practice",
+        "B": "A tradition recorded only in written manuscripts",
+        "C": "A modern digital tradition",
+        "D": "A tradition preserved only in museums"
+      },
+      "correctAnswer": "A",
+      "explanation": "An oral tradition is a tradition passed from one generation to another through speech, singing, performance, memory and customary practice.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q098",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are folk songs used for in Karnataka?",
+      "options": {
+        "A": "They accompany agricultural work, weddings, childbirth, festivals, worship, seasonal activities, lullabies, occupational life and community celebrations",
+        "B": "They are used only in classical music concerts",
+        "C": "They are used only in modern theatre",
+        "D": "They are used only in films"
+      },
+      "correctAnswer": "A",
+      "explanation": "Folk songs in Karnataka accompany agricultural work, weddings, childbirth, festivals, worship, seasonal activities, lullabies, occupational life and community celebrations.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q099",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a ballad?",
+      "options": {
+        "A": "A narrative song that tells a story, often about heroes, historical events, local deities or social memory",
+        "B": "A short proverb",
+        "C": "A type of folk dance",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "A ballad is a narrative song that tells a story, often about heroes, historical events, local deities or social memory.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q100",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a proverb?",
+      "options": {
+        "A": "A short traditional saying that expresses collective experience, practical wisdom or a moral observation",
+        "B": "A long narrative poem",
+        "C": "A type of folk dance",
+        "D": "A musical instrument"
+      },
+      "correctAnswer": "A",
+      "explanation": "A proverb is a short traditional saying that expresses collective experience, practical wisdom or a moral observation.",
+      "source": "Karnataka_Culture.pdf - Page 4"
+    },
+    {
+      "id": "Q101",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Culture",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a folk tale?",
+      "options": {
+        "A": "A traditional story passed down orally, often containing cultural values, humour, moral lessons, supernatural elements or local beliefs",
+        "B": "A modern short story",
+        "C": "A type of folk dance",
+        "D": "A form of classical music"
+      },
+      "correctAnswer": "A",
+      "explanation": "A folk tale is a traditional story passed down orally, often containing cultural values, humour, moral lessons, supernatural elements or local beliefs.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q102",
+      "subject": "Folk Traditions",
+      "topic": "Ritual Folklore",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is ritual folklore?",
+      "options": {
+        "A": "Folk practices and performances connected with worship, vows, seasonal rites, guardian spirits, ancestors and community deities",
+        "B": "A type of modern theatre",
+        "C": "A classical music tradition",
+        "D": "A form of Kannada grammar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ritual folklore refers to folk practices and performances connected with worship, vows, seasonal rites, guardian spirits, ancestors and community deities.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q103",
+      "subject": "Folk Traditions",
+      "topic": "Ritual Folklore",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bhoota Kola or Bhoota Aradhane?",
+      "options": {
+        "A": "A ritual performance tradition of coastal Karnataka in which a performer, through costume, dance and ritual, represents or invokes a local spirit/deity and acts as an oracle within the ritual setting",
+        "B": "A type of classical dance",
+        "C": "A modern Kannada play",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bhoota Kola or Bhoota Aradhane is a ritual performance tradition of coastal Karnataka in which a performer, through costume, dance and ritual, represents or invokes a local spirit/deity and acts as an oracle within the ritual setting.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q104",
+      "subject": "Folk Traditions",
+      "topic": "Ritual Folklore",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where is Bhoota Kola particularly associated?",
+      "options": {
+        "A": "Tulu-speaking coastal areas, especially Dakshina Kannada and Udupi regions",
+        "B": "Northern Karnataka",
+        "C": "Kodagu region",
+        "D": "Old Mysore region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bhoota Kola is particularly associated with Tulu-speaking coastal areas, especially Dakshina Kannada and Udupi regions.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q105",
+      "subject": "Folk Traditions",
+      "topic": "Ritual Folklore",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Nagamandala?",
+      "options": {
+        "A": "A traditional serpent-worship ritual of coastal Karnataka involving a ritual serpent design and night-long ceremonial performance",
+        "B": "A type of folk dance",
+        "C": "A classical music composition",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nagamandala is a traditional serpent-worship ritual of coastal Karnataka involving a ritual serpent design and night-long ceremonial performance.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q106",
+      "subject": "Folk Traditions",
+      "topic": "Ritual Folklore",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kambala?",
+      "options": {
+        "A": "A traditional buffalo-racing event associated with the agrarian communities of coastal Karnataka, especially the Tulu Nadu region",
+        "B": "A type of folk dance",
+        "C": "A classical music tradition",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kambala is a traditional buffalo-racing event associated with the agrarian communities of coastal Karnataka, especially the Tulu Nadu region.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q107",
+      "subject": "Folk Traditions",
+      "topic": "Festivals",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the significance of folk festivals?",
+      "options": {
+        "A": "They preserve community identity, seasonal knowledge, local belief systems, artistic skills and social solidarity",
+        "B": "They are only for entertainment",
+        "C": "They are only religious rituals",
+        "D": "They are only for tourists"
+      },
+      "correctAnswer": "A",
+      "explanation": "Folk festivals preserve community identity, seasonal knowledge, local belief systems, artistic skills and social solidarity.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q108",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Loka",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Janapada Loka?",
+      "options": {
+        "A": "A folk-culture museum and cultural centre near Ramanagara, Karnataka, dedicated to preserving and presenting Karnataka's folk traditions and material culture",
+        "B": "A classical dance academy",
+        "C": "A modern theatre in Bengaluru",
+        "D": "A literary conference"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada Loka is a folk-culture museum and cultural centre near Ramanagara, Karnataka, dedicated to preserving and presenting Karnataka's folk traditions and material culture.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q109",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Loka",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who founded Janapada Loka?",
+      "options": {
+        "A": "H. L. Nage Gowda, a folklorist, writer and former civil servant",
+        "B": "Kuvempu",
+        "C": "Girish Karnad",
+        "D": "Chandrashekhara Kambara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada Loka was founded by H. L. Nage Gowda, a folklorist, writer and former civil servant.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q110",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Loka",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When was Janapada Loka opened?",
+      "options": {
+        "A": "It was opened in 1994",
+        "B": "It was opened in 1973",
+        "C": "It was opened in 1956",
+        "D": "It was opened in 2008"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada Loka was opened in 1994.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q111",
+      "subject": "Folk Traditions",
+      "topic": "Janapada Loka",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Janapada Loka preserve?",
+      "options": {
+        "A": "Folk costumes, masks, puppets, musical instruments, agricultural tools, household objects, crafts, photographs and other artefacts representing rural life and folk culture",
+        "B": "Only modern paintings",
+        "C": "Only classical music records",
+        "D": "Only ancient manuscripts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Janapada Loka preserves folk costumes, masks, puppets, musical instruments, agricultural tools, household objects, crafts, photographs and other artefacts representing rural life and folk culture.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q112",
+      "subject": "Folk Traditions",
+      "topic": "Cultural Institutions",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Janapada Academy?",
+      "options": {
+        "A": "It promotes, documents and recognises folk arts, folk artists and folklore traditions of Karnataka",
+        "B": "It promotes only classical music",
+        "C": "It regulates elections in Karnataka",
+        "D": "It manages museums only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Janapada Academy promotes, documents and recognises folk arts, folk artists and folklore traditions of Karnataka.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q113",
+      "subject": "Folk Traditions",
+      "topic": "Cultural Institutions",
+      "chapter": "Folk Traditions and Janapada Culture",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Department of Kannada and Culture?",
+      "options": {
+        "A": "It supports and promotes Kannada language, literature, music, dance, theatre, folk arts, cultural programmes and heritage activities",
+        "B": "It conducts elections",
+        "C": "It issues currency notes",
+        "D": "It manages only museums"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Department of Kannada and Culture supports and promotes Kannada language, literature, music, dance, theatre, folk arts, cultural programmes and heritage activities.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q114",
+      "subject": "Folk Dances",
+      "topic": "Introduction",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a folk dance?",
+      "options": {
+        "A": "A community-based dance form rooted in local customs, occupations, rituals, festivals and collective celebrations",
+        "B": "A codified classical dance form",
+        "C": "A modern stage dance",
+        "D": "A form of martial arts"
+      },
+      "correctAnswer": "A",
+      "explanation": "A folk dance is a community-based dance form rooted in local customs, occupations, rituals, festivals and collective celebrations.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q115",
+      "subject": "Folk Dances",
+      "topic": "Dollo Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Dollo Kunitha?",
+      "options": {
+        "A": "A vigorous group drum-dance tradition of Karnataka in which performers dance while beating large drums called dollo",
+        "B": "A classical dance form",
+        "C": "A type of puppetry",
+        "D": "A form of folk theatre"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dollo Kunitha is a vigorous group drum-dance tradition of Karnataka in which performers dance while beating large drums called dollo.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q116",
+      "subject": "Folk Dances",
+      "topic": "Dollo Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "With which deity and community is Dollo Kunitha traditionally associated?",
+      "options": {
+        "A": "It is associated with the worship of Beeralingeshwara, a form associated with Lord Shiva, and traditionally linked to the Kuruba community",
+        "B": "It is associated with Draupadi worship and the Thigala community",
+        "C": "It is associated with Male Mahadeshwara and the Mysuru region",
+        "D": "It is associated with Mailara/Mylara and Gorava devotees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dollo Kunitha is associated with the worship of Beeralingeshwara, a form associated with Lord Shiva, and traditionally linked to the Kuruba community.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q117",
+      "subject": "Folk Dances",
+      "topic": "Dollo Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In which parts of Karnataka is Dollo Kunitha popular?",
+      "options": {
+        "A": "It is widely associated with central and northern parts of Karnataka and is performed across the state",
+        "B": "Only coastal Karnataka",
+        "C": "Only Kodagu",
+        "D": "Only Old Mysore region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dollo Kunitha is widely associated with central and northern parts of Karnataka and is performed across the state.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+        {
+      "id": "Q119",
+      "subject": "Folk Dances",
+      "topic": "Veeragase",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "During which occasions is Veeragase commonly performed?",
+      "options": {
+        "A": "During religious festivals, processions and cultural celebrations, particularly in parts of southern Karnataka",
+        "B": "Only during harvest season in coastal Karnataka",
+        "C": "Only during buffalo races",
+        "D": "Only in modern theatre festivals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Veeragase is commonly performed during religious festivals, processions and cultural celebrations, particularly in parts of southern Karnataka.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q120",
+      "subject": "Folk Dances",
+      "topic": "Kamsale",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kamsale?",
+      "options": {
+        "A": "A devotional folk performance in which performers use paired metal cymbal-like instruments called kamsale while singing and dancing",
+        "B": "A type of drum used in Yakshagana",
+        "C": "A form of puppetry",
+        "D": "A harvest festival"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kamsale is a devotional folk performance in which performers use paired metal cymbal-like instruments called kamsale while singing and dancing.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q121",
+      "subject": "Folk Dances",
+      "topic": "Kamsale",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "With which deity is Kamsale associated?",
+      "options": {
+        "A": "It is associated with the worship of Male Mahadeshwara",
+        "B": "It is associated with Draupadi worship",
+        "C": "It is associated with Beeralingeshwara",
+        "D": "It is associated with Veerabhadra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kamsale is associated with the worship of Male Mahadeshwara.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q122",
+      "subject": "Folk Dances",
+      "topic": "Kamsale",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Where is Kamsale especially popular?",
+      "options": {
+        "A": "The Mysuru region, including areas of Chamarajanagar and surrounding districts",
+        "B": "Coastal Karnataka",
+        "C": "Northern Karnataka",
+        "D": "Kodagu region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kamsale is especially popular in the Mysuru region, including areas of Chamarajanagar and surrounding districts.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q123",
+      "subject": "Folk Dances",
+      "topic": "Pooja Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Pooja Kunitha?",
+      "options": {
+        "A": "A ritual folk dance of southern Karnataka in which performers carry or balance decorated structures associated with worship",
+        "B": "A harvest dance of coastal Karnataka",
+        "C": "A buffalo-racing event",
+        "D": "A type of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pooja Kunitha is a ritual folk dance of southern Karnataka in which performers carry or balance decorated structures associated with worship.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q124",
+      "subject": "Folk Dances",
+      "topic": "Karaga",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Karaga?",
+      "options": {
+        "A": "A ritual festival and procession tradition of Bengaluru associated with Draupadi worship and the Thigala community; the central ritual object is the karaga carried by a priest/performer",
+        "B": "A type of drum used in Yakshagana",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karaga is a ritual festival and procession tradition of Bengaluru associated with Draupadi worship and the Thigala community; the central ritual object is the karaga carried by a priest/performer.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q125",
+      "subject": "Folk Dances",
+      "topic": "Huli Vesha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Huli Vesha?",
+      "options": {
+        "A": "A tiger-costume dance/performance popular in coastal Karnataka, especially during festivals such as Mangaluru Dasara",
+        "B": "A harvest dance of northern Karnataka",
+        "C": "A buffalo-racing event",
+        "D": "A type of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Huli Vesha is a tiger-costume dance/performance popular in coastal Karnataka, especially during festivals such as Mangaluru Dasara.",
+      "source": "Karnataka_Culture.pdf - Page 5"
+    },
+    {
+      "id": "Q126",
+      "subject": "Folk Dances",
+      "topic": "Suggi Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Suggi Kunitha?",
+      "options": {
+        "A": "A harvest-related folk dance tradition associated with coastal Karnataka, especially among communities celebrating the harvest season",
+        "B": "A ritual dance associated with Draupadi worship",
+        "C": "A type of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Suggi Kunitha is a harvest-related folk dance tradition associated with coastal Karnataka, especially among communities celebrating the harvest season.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q127",
+      "subject": "Folk Dances",
+      "topic": "Goravara Kunitha",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Goravara Kunitha?",
+      "options": {
+        "A": "A ritual dance tradition associated with Gorava devotees of Mailara/Mylara, involving distinctive costumes, devotional songs and performance practices",
+        "B": "A harvest dance of coastal Karnataka",
+        "C": "A buffalo-racing event",
+        "D": "A type of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Goravara Kunitha is a ritual dance tradition associated with Gorava devotees of Mailara/Mylara, involving distinctive costumes, devotional songs and performance practices.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q128",
+      "subject": "Folk Dances",
+      "topic": "Lambani Dance",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Lambani dance?",
+      "options": {
+        "A": "A community dance associated with the Banjara/Lambani people, known for colourful traditional attire, rhythmic movement and group performance",
+        "B": "A classical dance form",
+        "C": "A type of puppetry",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lambani dance is a community dance associated with the Banjara/Lambani people, known for colourful traditional attire, rhythmic movement and group performance.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q129",
+      "subject": "Folk Dances",
+      "topic": "Kodava Dance",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kodava dance?",
+      "options": {
+        "A": "A group of traditional dances of the Kodava community of Kodagu, performed during community festivals and ceremonies, often reflecting martial and social traditions",
+        "B": "A classical dance form",
+        "C": "A type of puppetry",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kodava dance is a group of traditional dances of the Kodava community of Kodagu, performed during community festivals and ceremonies, often reflecting martial and social traditions.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q130",
+      "subject": "Folk Dances",
+      "topic": "Garudi Gombe",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Garudi Gombe?",
+      "options": {
+        "A": "A giant puppet or doll performance tradition in which performers carry large hollow figures, commonly seen in processions and festivals",
+        "B": "A type of drum",
+        "C": "A classical dance form",
+        "D": "A form of folk theatre"
+      },
+      "correctAnswer": "A",
+      "explanation": "Garudi Gombe is a giant puppet or doll performance tradition in which performers carry large hollow figures, commonly seen in processions and festivals.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q131",
+      "subject": "Folk Dances",
+      "topic": "Gombe Aata",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Gombe Aata?",
+      "options": {
+        "A": "The traditional art of puppetry in Karnataka, including string, rod and shadow-puppet forms",
+        "B": "A harvest dance",
+        "C": "A buffalo-racing event",
+        "D": "A classical music tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gombe Aata is the traditional art of puppetry in Karnataka, including string, rod and shadow-puppet forms.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q132",
+      "subject": "Folk Dances",
+      "topic": "Togalu Gombeyaata",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Togalu Gombeyaata?",
+      "options": {
+        "A": "Karnataka's traditional leather shadow-puppetry form, using coloured translucent leather puppets to present stories, often from epics and puranas",
+        "B": "A giant puppet tradition",
+        "C": "A harvest dance",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Togalu Gombeyaata is Karnataka's traditional leather shadow-puppetry form, using coloured translucent leather puppets to present stories, often from epics and puranas.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q133",
+      "subject": "Folk Dances",
+      "topic": "Krishna Parijata",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Krishna Parijata?",
+      "options": {
+        "A": "A folk musical-dramatic performance tradition of North Karnataka, combining dialogue, music, song and acting, often based on mythological themes",
+        "B": "A classical dance form",
+        "C": "A type of puppetry",
+        "D": "A buffalo-racing event"
+      },
+      "correctAnswer": "A",
+      "explanation": "Krishna Parijata is a folk musical-dramatic performance tradition of North Karnataka, combining dialogue, music, song and acting, often based on mythological themes.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q134",
+      "subject": "Folk Dances",
+      "topic": "Jaggalige",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Jaggalige?",
+      "options": {
+        "A": "A folk percussion performance of Karnataka featuring large frame drums called jaggalige, played in coordinated groups",
+        "B": "A type of puppet",
+        "C": "A classical dance form",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Jaggalige is a folk percussion performance of Karnataka featuring large frame drums called jaggalige, played in coordinated groups.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q135",
+      "subject": "Folk Dances",
+      "topic": "Chande Performance",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Chande performance?",
+      "options": {
+        "A": "A powerful percussion tradition using the chande drum, prominent in Yakshagana and coastal Karnataka performance culture",
+        "B": "A harvest dance",
+        "C": "A type of puppetry",
+        "D": "A classical music tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chande performance is a powerful percussion tradition using the chande drum, prominent in Yakshagana and coastal Karnataka performance culture.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q136",
+      "subject": "Folk Dances",
+      "topic": "Folk vs Classical Dance",
+      "chapter": "Folk Dances and Performance Arts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between folk dance and classical dance?",
+      "options": {
+        "A": "Folk dance generally grows from community customs and local traditions, while classical dance is usually governed by codified techniques, formal training systems and established performance conventions; the distinction can overlap",
+        "B": "Folk dance is always performed on stage while classical dance is performed in villages",
+        "C": "Folk dance has no music while classical dance has music",
+        "D": "Folk dance is always religious while classical dance is always secular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Folk dance generally grows from community customs and local traditions, while classical dance is usually governed by codified techniques, formal training systems and established performance conventions; the distinction can overlap.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q137",
+      "subject": "Music",
+      "topic": "Classical Music Traditions",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two major classical music traditions practised in Karnataka?",
+      "options": {
+        "A": "Carnatic music and Hindustani classical music",
+        "B": "Folk music and film music",
+        "C": "Devotional music and light music",
+        "D": "Sugama Sangeetha and Bhava geethe"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two major classical music traditions practised in Karnataka are Carnatic music and Hindustani classical music.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q138",
+      "subject": "Music",
+      "topic": "Classical Music Traditions",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which region of Karnataka is especially associated with Hindustani classical music?",
+      "options": {
+        "A": "Northern Karnataka has a strong Hindustani music tradition, though both systems are practised across the state",
+        "B": "Coastal Karnataka only",
+        "C": "Kodagu only",
+        "D": "Southern Karnataka only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Northern Karnataka has a strong Hindustani music tradition, though both systems are practised across the state.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q139",
+      "subject": "Music",
+      "topic": "Classical Music Traditions",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which region is especially associated with Carnatic music?",
+      "options": {
+        "A": "Southern Karnataka has a strong Carnatic music tradition, though Carnatic music is practised throughout the state",
+        "B": "Northern Karnataka only",
+        "C": "Kodagu only",
+        "D": "Coastal Karnataka only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Southern Karnataka has a strong Carnatic music tradition, though Carnatic music is practised throughout the state.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q140",
+      "subject": "Music",
+      "topic": "Carnatic Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is known as the father of Carnatic music?",
+      "options": {
+        "A": "Purandara Dasa is traditionally honoured as the father of Carnatic music pedagogy",
+        "B": "Kanaka Dasa",
+        "C": "Tyagaraja",
+        "D": "Basavanna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purandara Dasa is traditionally honoured as the father of Carnatic music pedagogy.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q141",
+      "subject": "Music",
+      "topic": "Carnatic Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What was Purandara Dasa's contribution to music education?",
+      "options": {
+        "A": "He is traditionally credited with systematising foundational teaching exercises such as sarali variasi, jantai variasi and alankaras, and with composing many devotional songs",
+        "B": "He invented the maddale drum",
+        "C": "He wrote the first Kannada grammar",
+        "D": "He founded the Navya literary movement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purandara Dasa is traditionally credited with systematising foundational teaching exercises such as sarali variasi, jantai variasi and alankaras, and with composing many devotional songs.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q142",
+      "subject": "Music",
+      "topic": "Devotional Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Devaranama?",
+      "options": {
+        "A": "A devotional song, especially associated with the Haridasa tradition, composed in praise of a deity",
+        "B": "A folk dance form",
+        "C": "A type of puppet",
+        "D": "A Kannada grammar term"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Devaranama is a devotional song, especially associated with the Haridasa tradition, composed in praise of a deity.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q143",
+      "subject": "Music",
+      "topic": "Lyrical Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Bhava geethe?",
+      "options": {
+        "A": "A lyrical song genre in Kannada that sets modern poetry to music and emphasises poetic feeling and expression",
+        "B": "A devotional song of the Haridasa tradition",
+        "C": "A folk percussion performance",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Bhava geethe is a lyrical song genre in Kannada that sets modern poetry to music and emphasises poetic feeling and expression.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q144",
+      "subject": "Music",
+      "topic": "Light Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Sugama Sangeetha?",
+      "options": {
+        "A": "A light-classical or accessible musical style that presents poetry and literary compositions through melody",
+        "B": "A devotional song of the Haridasa tradition",
+        "C": "A folk percussion performance",
+        "D": "A type of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sugama Sangeetha is a light-classical or accessible musical style that presents poetry and literary compositions through melody.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q145",
+      "subject": "Music",
+      "topic": "Gamaka",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Gamaka?",
+      "options": {
+        "A": "A distinctive ornamentation or melodic inflection used in Indian classical music; Gamaka is also an important tradition in Kannada musical-literary performance",
+        "B": "A type of drum",
+        "C": "A folk dance form",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gamaka is a distinctive ornamentation or melodic inflection used in Indian classical music; Gamaka is also an important tradition in Kannada musical-literary performance.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q146",
+      "subject": "Music",
+      "topic": "Folk Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is folk music?",
+      "options": {
+        "A": "Music rooted in the everyday life, work, rituals, festivals and oral traditions of communities",
+        "B": "Music composed only for films",
+        "C": "Classical music performed in temples",
+        "D": "Music written only by court poets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Folk music is music rooted in the everyday life, work, rituals, festivals and oral traditions of communities.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q147",
+      "subject": "Music",
+      "topic": "Folk Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name examples of Karnataka folk music traditions.",
+      "options": {
+        "A": "Lavani (influenced by the wider Deccan tradition), Tatvapada singing devotional folk songs, work songs, wedding songs, lullabies, ballads and ritual songs",
+        "B": "Only Sugama Sangeetha and Bhava geethe",
+        "C": "Only Carnatic and Hindustani music",
+        "D": "Only Yakshagana music"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examples of Karnataka folk music traditions include Lavani (influenced by the wider Deccan tradition), Tatvapada singing devotional folk songs, work songs, wedding songs, lullabies, ballads and ritual songs.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q148",
+      "subject": "Music",
+      "topic": "Folk Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Tatvapada?",
+      "options": {
+        "A": "A philosophical or spiritual folk-song tradition that expresses ethical, devotional and experiential ideas in simple language",
+        "B": "A type of drum",
+        "C": "A classical dance form",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tatvapada is a philosophical or spiritual folk-song tradition that expresses ethical, devotional and experiential ideas in simple language.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q149",
+      "subject": "Music",
+      "topic": "Devotional Music",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Bhajana?",
+      "options": {
+        "A": "A devotional group-singing practice centred on the names or praises of a deity",
+        "B": "A type of folk dance",
+        "C": "A percussion instrument",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Bhajana is a devotional group-singing practice centred on the names or praises of a deity.",
+      "source": "Karnataka_Culture.pdf - Page 6"
+    },
+    {
+      "id": "Q150",
+      "subject": "Music",
+      "topic": "Instruments",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are common instruments used in Karnataka folk music?",
+      "options": {
+        "A": "Dollu, chande, maddale, tala, tamate, dhol, nadaswara, flute, harmonium and various regional percussion and string instruments",
+        "B": "Only the violin and piano",
+        "C": "Only the maddale and chande",
+        "D": "Only the flute and harmonium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common instruments used in Karnataka folk music include dollu, chande, maddale, tala, tamate, dhol, nadaswara, flute, harmonium and various regional percussion and string instruments.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q151",
+      "subject": "Music",
+      "topic": "Instruments",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the maddale?",
+      "options": {
+        "A": "A barrel-shaped hand drum used prominently in Yakshagana music",
+        "B": "A large frame drum used in Jaggalige",
+        "C": "A metal cymbal used in Kamsale",
+        "D": "A string instrument used in classical music"
+      },
+      "correctAnswer": "A",
+      "explanation": "The maddale is a barrel-shaped hand drum used prominently in Yakshagana music.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q152",
+      "subject": "Music",
+      "topic": "Instruments",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the chande?",
+      "options": {
+        "A": "A loud cylindrical percussion instrument used in coastal Karnataka, particularly in Yakshagana",
+        "B": "A barrel-shaped hand drum",
+        "C": "A metal cymbal used in Kamsale",
+        "D": "A string instrument used in classical music"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chande is a loud cylindrical percussion instrument used in coastal Karnataka, particularly in Yakshagana.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q153",
+      "subject": "Music",
+      "topic": "Rhythm",
+      "chapter": "Folk Music and Classical Music",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the tala in performance music?",
+      "options": {
+        "A": "A time-keeping or rhythmic cycle, often marked by hand gestures or cymbals",
+        "B": "A type of drum",
+        "C": "A melodic ornamentation",
+        "D": "A form of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tala is a time-keeping or rhythmic cycle, often marked by hand gestures or cymbals.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q154",
+      "subject": "Theatre",
+      "topic": "Introduction",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is theatre?",
+      "options": {
+        "A": "Theatre is a performing art in which actors present a story or dramatic action before an audience through speech, movement, music, costume, setting and stagecraft",
+        "B": "A type of folk dance",
+        "C": "A form of classical music",
+        "D": "A type of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theatre is a performing art in which actors present a story or dramatic action before an audience through speech, movement, music, costume, setting and stagecraft.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q155",
+      "subject": "Theatre",
+      "topic": "Forms",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are major forms of theatre in Karnataka?",
+      "options": {
+        "A": "Yakshagana, Bayalata, Sannata, Doddata, professional proscenium theatre, modern Kannada drama, folk musical theatre and community theatre",
+        "B": "Only Yakshagana",
+        "C": "Only modern Kannada drama",
+        "D": "Only Bayalata and Doddata"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major forms of theatre in Karnataka include Yakshagana, Bayalata, Sannata, Doddata, professional proscenium theatre, modern Kannada drama, folk musical theatre and community theatre.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q156",
+      "subject": "Theatre",
+      "topic": "Folk Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bayalata?",
+      "options": {
+        "A": "An open-air folk theatre tradition of Karnataka, generally performed in a village or public space; forms and regional styles vary",
+        "B": "A classical dance form",
+        "C": "A type of puppetry",
+        "D": "A form of classical music"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bayalata is an open-air folk theatre tradition of Karnataka, generally performed in a village or public space; forms and regional styles vary.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q157",
+      "subject": "Theatre",
+      "topic": "Folk Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Doddata?",
+      "options": {
+        "A": "A traditional folk theatre form of northern Karnataka, known for vigorous acting, music and mythological or historical narratives",
+        "B": "An open-air folk theatre form of southern Karnataka",
+        "C": "A type of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Doddata is a traditional folk theatre form of northern Karnataka, known for vigorous acting, music and mythological or historical narratives.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q158",
+      "subject": "Theatre",
+      "topic": "Folk Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Sannata?",
+      "options": {
+        "A": "A folk theatre tradition of northern Karnataka, often associated with smaller-scale performance and musical-dramatic storytelling",
+        "B": "An open-air folk theatre form of southern Karnataka",
+        "C": "A type of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sannata is a folk theatre tradition of northern Karnataka, often associated with smaller-scale performance and musical-dramatic storytelling.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q159",
+      "subject": "Theatre",
+      "topic": "Modern Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is professional Kannada theatre?",
+      "options": {
+        "A": "Organised modern theatre using written plays, trained actors, directors, stage design and formal theatre institutions",
+        "B": "An open-air folk theatre tradition",
+        "C": "A type of puppetry",
+        "D": "A form of Yakshagana"
+      },
+      "correctAnswer": "A",
+      "explanation": "Professional Kannada theatre is organised modern theatre using written plays, trained actors, directors, stage design and formal theatre institutions.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+        {
+      "id": "Q160",
+      "subject": "Theatre",
+      "topic": "Modern Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who were important pioneers of modern Kannada theatre?",
+      "options": {
+        "A": "T. P. Kailasam and Adya Rangacharya (Srianga); later playwrights include Girish Karnad and Chandrashekhara Kambara",
+        "B": "Pampa, Sri Ponna and Ranna",
+        "C": "Basavanna, Allama Prabhu and Akka Mahadevi",
+        "D": "Purandara Dasa and Kanaka Dasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Modern Kannada theatre developed through the contributions of several writers and theatre practitioners, including T. P. Kailasam and Adya Rangacharya (Srianga); later playwrights include Girish Karnad and Chandrashekhara Kambara.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q161",
+      "subject": "Theatre",
+      "topic": "Modern Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who was T. P. Kailasam?",
+      "options": {
+        "A": "A major Kannada playwright known for social themes, satire and modern dramatic writing",
+        "B": "A 12th-century Vachana poet",
+        "C": "A Haridasa composer",
+        "D": "A Yakshagana Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "T. P. Kailasam was a major Kannada playwright known for social themes, satire and modern dramatic writing.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q162",
+      "subject": "Theatre",
+      "topic": "Modern Theatre",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Name important Kannada playwrights.",
+      "options": {
+        "A": "T. P. Kailasam, Adya Rangacharya (Srianga), Girish Karnad, Chandrashekhara Kambara, P. Lankesh and others",
+        "B": "Pampa, Sri Ponna and Ranna",
+        "C": "Basavanna, Allama Prabhu and Akka Mahadevi",
+        "D": "Purandara Dasa and Kanaka Dasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Important Kannada playwrights include T. P. Kailasam, Adya Rangacharya (Srianga), Girish Karnad, Chandrashekhara Kambara, P. Lankesh and others.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q163",
+      "subject": "Theatre",
+      "topic": "Theatre Venues",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Rangashankara?",
+      "options": {
+        "A": "A major theatre venue in Bengaluru dedicated to regular theatre performances and theatre culture",
+        "B": "A folk art museum",
+        "C": "A literary academy",
+        "D": "A classical music school"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rangashankara is a major theatre venue in Bengaluru dedicated to regular theatre performances and theatre culture.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q164",
+      "subject": "Theatre",
+      "topic": "Theatre Venues",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Ravindra Kalakshetra?",
+      "options": {
+        "A": "A prominent cultural and theatre auditorium in Bengaluru used for plays, music and cultural events",
+        "B": "A folk art museum near Ramanagara",
+        "C": "A literary academy",
+        "D": "A classical music school"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ravindra Kalakshetra is a prominent cultural and theatre auditorium in Bengaluru used for plays, music and cultural events.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q165",
+      "subject": "Yakshagana",
+      "topic": "Introduction",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Yakshagana?",
+      "options": {
+        "A": "Yakshagana is a traditional musical dance-drama and folk theatre form of Karnataka, especially associated with the coastal and Malnad regions",
+        "B": "A classical dance form of Karnataka",
+        "C": "A type of puppetry",
+        "D": "A form of folk music"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yakshagana is a traditional musical dance-drama and folk theatre form of Karnataka, especially associated with the coastal and Malnad regions.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q166",
+      "subject": "Yakshagana",
+      "topic": "Etymology",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the word Yakshagana mean?",
+      "options": {
+        "A": "It is commonly explained as a combination of Yaksha (celestial being) and Gana (song/music), though this is an explanatory interpretation of the name",
+        "B": "It means 'dance of the demons'",
+        "C": "It means 'story of the kings'",
+        "D": "It means 'song of the farmers'"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word Yakshagana is commonly explained as a combination of Yaksha (celestial being) and Gana (song/music), though this is an explanatory interpretation of the name.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q167",
+      "subject": "Yakshagana",
+      "topic": "Regions",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which regions are strongly associated with Yakshagana?",
+      "options": {
+        "A": "Udupi, Dakshina Kannada and Uttara Kannada districts, with related forms also found in Malnad and other regions",
+        "B": "Only northern Karnataka",
+        "C": "Only Kodagu",
+        "D": "Only Old Mysore region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Udupi, Dakshina Kannada and Uttara Kannada districts are strongly associated with Yakshagana, with related forms also found in Malnad and other regions.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q168",
+      "subject": "Yakshagana",
+      "topic": "Elements",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the main elements of Yakshagana?",
+      "options": {
+        "A": "Dance, music, singing, dialogue, narration, elaborate costumes, make-up, facial expression and dramatic storytelling",
+        "B": "Only dance and music",
+        "C": "Only dialogue and acting",
+        "D": "Only puppetry and narration"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main elements of Yakshagana are dance, music, singing, dialogue, narration, elaborate costumes, make-up, facial expression and dramatic storytelling.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q169",
+      "subject": "Yakshagana",
+      "topic": "Styles",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad regional styles of Yakshagana?",
+      "options": {
+        "A": "Badagutittu (northern style) and Tenkutittu (southern style)",
+        "B": "Moodalapaya and Coastal style",
+        "C": "Himmela and Mummela",
+        "D": "Prasanga and Bhagavatha"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two broad regional styles of Yakshagana are Badagutittu (northern style) and Tenkutittu (southern style).",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q170",
+      "subject": "Yakshagana",
+      "topic": "Styles",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Badagutittu mean in Yakshagana?",
+      "options": {
+        "A": "The northern style, associated broadly with Udupi and Uttara Kannada areas",
+        "B": "The southern style, associated broadly with Dakshina Kannada and parts of Kasaragod",
+        "C": "The eastern/interior style",
+        "D": "The coastal style"
+      },
+      "correctAnswer": "A",
+      "explanation": "Badagutittu means the northern style, associated broadly with Udupi and Uttara Kannada areas.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q171",
+      "subject": "Yakshagana",
+      "topic": "Styles",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does Tenkutittu mean in Yakshagana?",
+      "options": {
+        "A": "The southern style, associated broadly with Dakshina Kannada and parts of Kasaragod",
+        "B": "The northern style, associated broadly with Udupi and Uttara Kannada areas",
+        "C": "The eastern/interior style",
+        "D": "The coastal style"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tenkutittu means the southern style, associated broadly with Dakshina Kannada and parts of Kasaragod.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q172",
+      "subject": "Yakshagana",
+      "topic": "Structure",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Prasanga in Yakshagana?",
+      "options": {
+        "A": "The dramatic episode or story performed, commonly drawn from the Ramayana, Mahabharata, Bhagavata Purana and local legends",
+        "B": "The lead singer and narrator",
+        "C": "The musical ensemble",
+        "D": "The actors and dancers"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Prasanga in Yakshagana is the dramatic episode or story performed, commonly drawn from the Ramayana, Mahabharata, Bhagavata Purana and local legends.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q173",
+      "subject": "Yakshagana",
+      "topic": "Structure",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Who is the Bhagavatha in Yakshagana?",
+      "options": {
+        "A": "The lead singer and narrator who guides the performance, sings the verses and helps carry the story",
+        "B": "The actor who plays the hero",
+        "C": "The drummer",
+        "D": "The troupe manager"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Bhagavatha in Yakshagana is the lead singer and narrator who guides the performance, sings the verses and helps carry the story.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q174",
+      "subject": "Yakshagana",
+      "topic": "Structure",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Himmela in Yakshagana?",
+      "options": {
+        "A": "Himmela refers to the musical ensemble accompanying the performance, including singers and instrumentalists",
+        "B": "The actors and dancers who enact the dramatic story",
+        "C": "The audience",
+        "D": "The stage designers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Himmela refers to the musical ensemble accompanying the performance, including singers and instrumentalists.",
+      "source": "Karnataka_Culture.pdf - Page 7"
+    },
+    {
+      "id": "Q175",
+      "subject": "Yakshagana",
+      "topic": "Structure",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Mummela in Yakshagana?",
+      "options": {
+        "A": "Mummela refers to the actors and dancers who enact the dramatic story",
+        "B": "The musical ensemble",
+        "C": "The lead singer and narrator",
+        "D": "The stage crew"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mummela refers to the actors and dancers who enact the dramatic story.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q176",
+      "subject": "Yakshagana",
+      "topic": "Instruments",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which instruments are prominent in Yakshagana?",
+      "options": {
+        "A": "Chande, maddale and tala are central instruments; harmonium and other instruments may also be used depending on the troupe and style",
+        "B": "Only the violin and flute",
+        "C": "Only the maddale",
+        "D": "Only the chande"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chande, maddale and tala are central instruments in Yakshagana; harmonium and other instruments may also be used depending on the troupe and style.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q177",
+      "subject": "Yakshagana",
+      "topic": "Costumes",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are Yakshagana costumes known for?",
+      "options": {
+        "A": "Large headgear, colourful layered costumes, ornaments, distinctive face-painting and striking character-specific make-up",
+        "B": "Simple everyday clothes",
+        "C": "Only white clothing",
+        "D": "Modern Western costumes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yakshagana costumes are known for large headgear, colourful layered costumes, ornaments, distinctive face-painting and striking character-specific make-up.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q178",
+      "subject": "Yakshagana",
+      "topic": "Troupes",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Yakshagana Mela?",
+      "options": {
+        "A": "A troupe or company that stages Yakshagana performances",
+        "B": "A type of costume",
+        "C": "A musical instrument",
+        "D": "A festival"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Yakshagana Mela is a troupe or company that stages Yakshagana performances.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q179",
+      "subject": "Yakshagana",
+      "topic": "Duration",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the traditional performance duration of Yakshagana?",
+      "options": {
+        "A": "Traditional performances may run through the night, although contemporary stage versions are often shorter",
+        "B": "Exactly one hour",
+        "C": "Exactly thirty minutes",
+        "D": "Exactly three hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Traditional Yakshagana performances may run through the night, although contemporary stage versions are often shorter.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q180",
+      "subject": "Yakshagana",
+      "topic": "Regional Forms",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is Moodalapaya Yakshagana?",
+      "options": {
+        "A": "A regional Yakshagana tradition associated with the eastern/interior parts of Karnataka, distinct in style and performance conventions from coastal forms",
+        "B": "The northern coastal style",
+        "C": "The southern coastal style",
+        "D": "A type of puppetry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Moodalapaya Yakshagana is a regional Yakshagana tradition associated with the eastern/interior parts of Karnataka, distinct in style and performance conventions from coastal forms.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q181",
+      "subject": "Yakshagana",
+      "topic": "Comparison",
+      "chapter": "Theatre and Yakshagana",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between Yakshagana and a conventional play?",
+      "options": {
+        "A": "Yakshagana integrates dance, live music, sung narration, stylised dialogue, elaborate make-up and improvisational performance, whereas conventional modern theatre may rely more on scripted dialogue and realistic staging",
+        "B": "Yakshagana uses no music while conventional plays use music",
+        "C": "Yakshagana is performed only indoors while conventional plays are performed outdoors",
+        "D": "Yakshagana has no costumes while conventional plays have costumes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yakshagana integrates dance, live music, sung narration, stylised dialogue, elaborate make-up and improvisational performance, whereas conventional modern theatre may rely more on scripted dialogue and realistic staging.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q182",
+      "subject": "Arts and Crafts",
+      "topic": "Painting",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Mysore painting?",
+      "options": {
+        "A": "A traditional South Indian painting style that developed under the patronage of the Mysore rulers and is known for delicate lines, graceful figures, rich colours and often gold-foil work",
+        "B": "A type of folk dance",
+        "C": "A form of puppetry",
+        "D": "A classical music tradition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mysore painting is a traditional South Indian painting style that developed under the patronage of the Mysore rulers and is known for delicate lines, graceful figures, rich colours and often gold-foil work.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q183",
+      "subject": "Arts and Crafts",
+      "topic": "Toys",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Channapatna toy-making?",
+      "options": {
+        "A": "A traditional lacquered wooden toy craft associated with Channapatna in Ramanagara district, known for brightly coloured turned-wood toys",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Channapatna toy-making is a traditional lacquered wooden toy craft associated with Channapatna in Ramanagara district, known for brightly coloured turned-wood toys.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q184",
+      "subject": "Arts and Crafts",
+      "topic": "Metal Craft",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Bidriware?",
+      "options": {
+        "A": "A metal inlay craft traditionally associated with Bidar, known for silver inlay on a dark alloy surface",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bidriware is a metal inlay craft traditionally associated with Bidar, known for silver inlay on a dark alloy surface.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q185",
+      "subject": "Arts and Crafts",
+      "topic": "Embroidery",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Kasuti?",
+      "options": {
+        "A": "A traditional embroidery craft of Karnataka, especially associated with northern Karnataka, featuring intricate geometric and patterned stitches",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kasuti is a traditional embroidery craft of Karnataka, especially associated with northern Karnataka, featuring intricate geometric and patterned stitches.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q186",
+      "subject": "Arts and Crafts",
+      "topic": "Handloom",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Ilkal saree?",
+      "options": {
+        "A": "A traditional handloom saree associated with Ilkal in Bagalkot district, known for its distinctive pallu and joining technique",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ilkal saree is a traditional handloom saree associated with Ilkal in Bagalkot district, known for its distinctive pallu and joining technique.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q187",
+      "subject": "Arts and Crafts",
+      "topic": "Handloom",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Molakalmuru silk saree?",
+      "options": {
+        "A": "A traditional silk saree associated with Molakalmuru in Chitradurga district",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molakalmuru silk saree is a traditional silk saree associated with Molakalmuru in Chitradurga district.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q188",
+      "subject": "Arts and Crafts",
+      "topic": "Wood Carving",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is sandalwood carving?",
+      "options": {
+        "A": "A craft tradition involving the carving of fragrant sandalwood into figures, decorative objects and religious artefacts",
+        "B": "A type of painting",
+        "C": "A form of puppetry",
+        "D": "A classical dance form"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sandalwood carving is a craft tradition involving the carving of fragrant sandalwood into figures, decorative objects and religious artefacts.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q189",
+      "subject": "Cultural Institutions",
+      "topic": "Fine Arts",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Karnataka Chitrakala Parishath?",
+      "options": {
+        "A": "A major fine-arts institution in Bengaluru that promotes visual arts, exhibitions, folk arts and art education",
+        "B": "A theatre academy",
+        "C": "A literary academy",
+        "D": "A folk art museum near Ramanagara"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karnataka Chitrakala Parishath is a major fine-arts institution in Bengaluru that promotes visual arts, exhibitions, folk arts and art education.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q190",
+      "subject": "Cultural Institutions",
+      "topic": "Academies",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Nataka Academy?",
+      "options": {
+        "A": "It promotes theatre and dramatic arts and recognises contributions to Karnataka's theatre traditions",
+        "B": "It promotes only classical music",
+        "C": "It promotes only visual arts",
+        "D": "It promotes only folk arts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Nataka Academy promotes theatre and dramatic arts and recognises contributions to Karnataka's theatre traditions.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q191",
+      "subject": "Cultural Institutions",
+      "topic": "Academies",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Sangeetha Nritya Academy?",
+      "options": {
+        "A": "It promotes music and dance traditions and recognises artists in these fields",
+        "B": "It promotes only theatre",
+        "C": "It promotes only visual arts",
+        "D": "It promotes only folk arts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Sangeetha Nritya Academy promotes music and dance traditions and recognises artists in these fields.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q192",
+      "subject": "Cultural Institutions",
+      "topic": "Academies",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Lalitakala Academy?",
+      "options": {
+        "A": "It promotes visual and fine arts, including painting and sculpture",
+        "B": "It promotes only theatre",
+        "C": "It promotes only classical music",
+        "D": "It promotes only folk arts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Lalitakala Academy promotes visual and fine arts, including painting and sculpture.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q193",
+      "subject": "Cultural Institutions",
+      "topic": "Academies",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Karnataka Shilpakala Academy?",
+      "options": {
+        "A": "It promotes sculpture and related traditional and contemporary art practices",
+        "B": "It promotes only theatre",
+        "C": "It promotes only classical music",
+        "D": "It promotes only folk arts"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Shilpakala Academy promotes sculpture and related traditional and contemporary art practices.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q194",
+      "subject": "Cultural Institutions",
+      "topic": "Academies",
+      "chapter": "Other Important Folk Arts, Crafts and Cultural Institutions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the role of the Department of Kannada and Culture?",
+      "options": {
+        "A": "It implements programmes and supports institutions and activities for the promotion of Kannada language, literature and cultural heritage",
+        "B": "It conducts elections",
+        "C": "It issues currency notes",
+        "D": "It manages only museums"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Department of Kannada and Culture implements programmes and supports institutions and activities for the promotion of Kannada language, literature and cultural heritage.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q195",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Exam-Focused Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kannada language family:",
+      "options": {
+        "A": "Dravidian",
+        "B": "Indo-Aryan",
+        "C": "Austroasiatic",
+        "D": "Sino-Tibetan"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kannada belongs to the Dravidian language family.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    },
+    {
+      "id": "Q196",
+      "subject": "Kannada Language",
+      "topic": "Quick Revision",
+      "chapter": "Exam-Focused Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Kannada's branch in the Dravidian family:",
+      "options": {
+        "A": "South Dravidian",
+        "B": "North Dravidian",
+        "C": "Central Dravidian",
+        "D": "South-Central Dravidian"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kannada belongs to the South Dravidian branch of the Dravidian language family.",
+      "source": "Karnataka_Culture.pdf - Page 8"
+    }
+  ]
+}

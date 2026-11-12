@@ -1,0 +1,2653 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Comprehensive question bank from FDA_SDA_Computer_Knowledge basic computer terminology notes. Verify before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a computer?",
+      "options": {
+        "A": "A device used only for typing documents",
+        "B": "An electronic programmable device that accepts data, processes it according to instructions, stores it and produces information",
+        "C": "A machine that only performs calculations",
+        "D": "A device used only for browsing the internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "A computer is an electronic programmable device that accepts data, processes it according to instructions, stores it and produces information.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is data?",
+      "options": {
+        "A": "Processed information with meaning",
+        "B": "Raw facts, figures or symbols that can be processed by a computer",
+        "C": "The final output produced by a computer",
+        "D": "A set of instructions for a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data consists of raw facts, figures or symbols that can be processed by a computer.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q2"
+    },
+    {
+      "id": "Q003",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is information?",
+      "options": {
+        "A": "Raw facts and figures",
+        "B": "Unprocessed symbols",
+        "C": "Data that has been processed or organised to make it meaningful and useful",
+        "D": "A set of instructions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Information is data that has been processed or organised to make it meaningful and useful.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q3"
+    },
+    {
+      "id": "Q004",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between data and information?",
+      "options": {
+        "A": "Data is processed input; information is raw output",
+        "B": "Data is raw input; information is processed data that has meaning in a particular context",
+        "C": "Data and information are the same thing",
+        "D": "Data is stored; information is never stored"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data is raw input; information is processed data that has meaning in a particular context.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q4"
+    },
+    {
+      "id": "Q005",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a computer system?",
+      "options": {
+        "A": "Only the hardware of a computer",
+        "B": "Only the software of a computer",
+        "C": "Hardware, software, data and users working together to perform computing tasks",
+        "D": "A single program running on a computer"
+      },
+      "correctAnswer": "C",
+      "explanation": "A computer system consists of hardware, software, data and users working together to perform computing tasks.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q5"
+    },
+    {
+      "id": "Q006",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is input?",
+      "options": {
+        "A": "The result produced after processing",
+        "B": "Data or instructions supplied to a computer for processing",
+        "C": "The retention of data for future use",
+        "D": "A set of instructions that tells a computer how to perform a task"
+      },
+      "correctAnswer": "B",
+      "explanation": "Input is data or instructions supplied to a computer for processing.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q6"
+    },
+    {
+      "id": "Q007",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is processing?",
+      "options": {
+        "A": "The operation performed on input data to produce useful results",
+        "B": "The retention of data for future use",
+        "C": "The information produced by a computer",
+        "D": "A device connected to a computer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Processing is the operation performed on input data to produce useful results.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q7"
+    },
+    {
+      "id": "Q008",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is output?",
+      "options": {
+        "A": "Raw facts supplied to a computer",
+        "B": "The operation performed on data",
+        "C": "The information or result produced by a computer after processing",
+        "D": "The retention of data for future use"
+      },
+      "correctAnswer": "C",
+      "explanation": "Output is the information or result produced by a computer after processing.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q8"
+    },
+    {
+      "id": "Q009",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is storage?",
+      "options": {
+        "A": "The operation performed on input data",
+        "B": "The retention of data, instructions and information for current or future use",
+        "C": "The information produced by a computer",
+        "D": "A device connected to a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Storage is the retention of data, instructions and information for current or future use.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q9"
+    },
+    {
+      "id": "Q010",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a program?",
+      "options": {
+        "A": "A physical component of a computer",
+        "B": "A set of instructions that tells a computer how to perform a task",
+        "C": "Raw facts and figures",
+        "D": "A device connected to a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A program is a set of instructions that tells a computer how to perform a task.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q10"
+    },
+    {
+      "id": "Q011",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a user?",
+      "options": {
+        "A": "A person or entity that interacts with a computer system or application",
+        "B": "A physical component of a computer",
+        "C": "A set of instructions",
+        "D": "A type of storage device"
+      },
+      "correctAnswer": "A",
+      "explanation": "A user is a person or entity that interacts with a computer system or application.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q11"
+    },
+    {
+      "id": "Q012",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a peripheral device?",
+      "options": {
+        "A": "The main processor of a computer",
+        "B": "A device connected to a computer to provide input, output, storage or communication functions",
+        "C": "A type of software",
+        "D": "The operating system of a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A peripheral is a device connected to a computer to provide input, output, storage or communication functions.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q12"
+    },
+    {
+      "id": "Q013",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a desktop computer?",
+      "options": {
+        "A": "A portable personal computer with an integrated screen",
+        "B": "A high-performance computer for technical tasks",
+        "C": "A personal computer designed for use at a fixed location, usually with separate components",
+        "D": "A computer built into a larger device"
+      },
+      "correctAnswer": "C",
+      "explanation": "A desktop computer is a personal computer designed for use at a fixed location, usually with separate components such as a monitor, keyboard and system unit.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q13"
+    },
+    {
+      "id": "Q014",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a laptop?",
+      "options": {
+        "A": "A personal computer designed for use at a fixed location",
+        "B": "A portable personal computer with an integrated screen, keyboard, pointing device and rechargeable battery",
+        "C": "A high-performance computer for scientific tasks",
+        "D": "A computer built into a larger device"
+      },
+      "correctAnswer": "B",
+      "explanation": "A laptop is a portable personal computer with an integrated screen, keyboard, pointing device and rechargeable battery.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q14"
+    },
+    {
+      "id": "Q015",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a workstation?",
+      "options": {
+        "A": "A portable personal computer",
+        "B": "A high-performance computer designed for technical, scientific, engineering or other demanding professional tasks",
+        "C": "A computer built into a larger device",
+        "D": "A computer that provides services to other computers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A workstation is a high-performance computer designed for technical, scientific, engineering or other demanding professional tasks.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q15"
+    },
+    {
+      "id": "Q016",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a server computer?",
+      "options": {
+        "A": "A portable personal computer",
+        "B": "A computer configured to provide services, resources or data to other computers over a network",
+        "C": "A computer built into a larger device",
+        "D": "A high-performance computer for scientific tasks"
+      },
+      "correctAnswer": "B",
+      "explanation": "A server computer is a computer configured to provide services, resources or data to other computers over a network.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q16"
+    },
+    {
+      "id": "Q017",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an embedded computer?",
+      "options": {
+        "A": "A computer built into a larger device to perform dedicated control or monitoring functions",
+        "B": "A portable personal computer",
+        "C": "A computer that provides services over a network",
+        "D": "A high-performance computer for scientific tasks"
+      },
+      "correctAnswer": "A",
+      "explanation": "An embedded computer is a computer built into a larger device to perform dedicated control or monitoring functions.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q17"
+    },
+    {
+      "id": "Q018",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a supercomputer?",
+      "options": {
+        "A": "A portable personal computer",
+        "B": "A computer built into a larger device",
+        "C": "A very powerful computer designed to perform extremely large-scale calculations and complex simulations",
+        "D": "A computer that provides services over a network"
+      },
+      "correctAnswer": "C",
+      "explanation": "A supercomputer is a very powerful computer designed to perform extremely large-scale calculations and complex simulations.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q18"
+    },
+    {
+      "id": "Q019",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is booting?",
+      "options": {
+        "A": "The process of starting a computer and loading the operating system into memory",
+        "B": "The process of shutting down a computer",
+        "C": "The process of installing software",
+        "D": "The process of connecting to the internet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Booting is the process of starting a computer and loading the operating system into memory.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q19"
+    },
+    {
+      "id": "Q020",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is rebooting?",
+      "options": {
+        "A": "Starting a computer for the first time",
+        "B": "Restarting a computer by shutting down and starting the system again, or by using a restart command",
+        "C": "Installing a new operating system",
+        "D": "Connecting a computer to a network"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rebooting is restarting a computer by shutting down and starting the system again, or by using a restart command.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q20"
+    },
+    {
+      "id": "Q021",
+      "subject": "Computer Knowledge",
+      "topic": "Basic Computer Concepts",
+      "chapter": "Basic Computer Terminology",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a user interface?",
+      "options": {
+        "A": "The physical components of a computer",
+        "B": "The means through which a user interacts with a computer, operating system or application",
+        "C": "A set of instructions for a computer",
+        "D": "A type of storage device"
+      },
+      "correctAnswer": "B",
+      "explanation": "A user interface is the means through which a user interacts with a computer, operating system or application.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 1, Q21"
+    },
+    {
+      "id": "Q022",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is computer hardware?",
+      "options": {
+        "A": "Programs and instructions that operate on a computer",
+        "B": "The physical components of a computer system that can be seen and touched",
+        "C": "Data stored on a computer",
+        "D": "The operating system of a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hardware refers to the physical components of a computer system that can be seen and touched.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q1"
+    },
+    {
+      "id": "Q023",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is an example of computer hardware?",
+      "options": {
+        "A": "Operating system",
+        "B": "Word processor",
+        "C": "CPU, motherboard, RAM, monitor, keyboard",
+        "D": "Web browser"
+      },
+      "correctAnswer": "C",
+      "explanation": "CPU, motherboard, RAM, storage drives, monitor, keyboard, mouse, printer, scanner and network adapter are examples of hardware.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q2"
+    },
+    {
+      "id": "Q024",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the CPU?",
+      "options": {
+        "A": "A storage device",
+        "B": "The Central Processing Unit that executes instructions and performs arithmetic, logical, control and data-processing operations",
+        "C": "An output device",
+        "D": "A type of software"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Central Processing Unit is the main processor that executes instructions and performs arithmetic, logical, control and data-processing operations.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q3"
+    },
+    {
+      "id": "Q025",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is the CPU called the brain of the computer?",
+      "options": {
+        "A": "Because it stores all data permanently",
+        "B": "Because it executes program instructions and coordinates many of the computer's operations",
+        "C": "Because it displays information on the screen",
+        "D": "Because it connects to the internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "The CPU is called the brain of the computer because it executes program instructions and coordinates many of the computer's operations.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q4"
+    },
+    {
+      "id": "Q026",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the main functional parts of a CPU?",
+      "options": {
+        "A": "Monitor, keyboard and mouse",
+        "B": "The Arithmetic Logic Unit (ALU), Control Unit (CU) and registers",
+        "C": "RAM, ROM and cache",
+        "D": "Hard disk, SSD and USB drive"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Arithmetic Logic Unit (ALU), Control Unit (CU) and registers are commonly identified as key CPU components.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q5"
+    },
+    {
+      "id": "Q027",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Arithmetic Logic Unit (ALU)?",
+      "options": {
+        "A": "The part of the processor that performs arithmetic operations and logical comparisons",
+        "B": "The part of the processor that directs and coordinates instruction execution",
+        "C": "A small, very fast storage location inside the processor",
+        "D": "The main circuit board of a computer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ALU is the part of the processor that performs arithmetic operations and logical comparisons.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q6"
+    },
+    {
+      "id": "Q028",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the Control Unit (CU)?",
+      "options": {
+        "A": "The part of the processor that performs arithmetic operations",
+        "B": "A small, very fast storage location inside the processor",
+        "C": "The part of the processor that directs and coordinates instruction execution and the movement of data within the computer",
+        "D": "The main circuit board of a computer"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Control Unit directs and coordinates instruction execution and the movement of data within the computer.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q7"
+    },
+    {
+      "id": "Q029",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a register?",
+      "options": {
+        "A": "A small, very fast storage location inside the processor used to hold data, instructions or addresses temporarily",
+        "B": "The main circuit board of a computer",
+        "C": "A volatile memory used to hold data currently being used",
+        "D": "A non-volatile memory used to store firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "A register is a small, very fast storage location inside the processor used to hold data, instructions or addresses temporarily.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q8"
+    },
+    {
+      "id": "Q030",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a motherboard?",
+      "options": {
+        "A": "A storage device that uses magnetic platters",
+        "B": "The main circuit board that connects the CPU, memory, storage interfaces, expansion components and other hardware",
+        "C": "A volatile memory used to hold data currently being used",
+        "D": "A small, very fast storage location inside the processor"
+      },
+      "correctAnswer": "B",
+      "explanation": "The motherboard is the main circuit board that connects the CPU, memory, storage interfaces, expansion components and other hardware.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q9"
+    },
+    {
+      "id": "Q031",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is RAM?",
+      "options": {
+        "A": "Non-volatile memory used to store firmware",
+        "B": "Random Access Memory; volatile main memory used to hold data and instructions currently being used by the processor",
+        "C": "Small, high-speed memory located in or near the CPU",
+        "D": "Non-volatile storage used to retain data when power is off"
+      },
+      "correctAnswer": "B",
+      "explanation": "RAM is Random Access Memory; volatile main memory used to hold data and instructions currently being used by the processor.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q10"
+    },
+    {
+      "id": "Q032",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is RAM called volatile memory?",
+      "options": {
+        "A": "Because its contents are normally lost when power is switched off",
+        "B": "Because it stores data permanently",
+        "C": "Because it is located in the CPU",
+        "D": "Because it is slower than secondary storage"
+      },
+      "correctAnswer": "A",
+      "explanation": "RAM is called volatile memory because its contents are normally lost when power is switched off.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q11"
+    },
+    {
+      "id": "Q033",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is ROM?",
+      "options": {
+        "A": "Volatile main memory used to hold data currently being used",
+        "B": "Small, high-speed memory located in or near the CPU",
+        "C": "Read Only Memory; non-volatile memory used to store firmware or other data that must be retained without power",
+        "D": "Non-volatile storage used to retain data and programs"
+      },
+      "correctAnswer": "C",
+      "explanation": "ROM is Read Only Memory; non-volatile memory used to store firmware or other data that must be retained without power.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q12"
+    },
+    {
+      "id": "Q034",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between RAM and ROM?",
+      "options": {
+        "A": "RAM is non-volatile; ROM is volatile",
+        "B": "RAM is generally volatile and used for active working data; ROM is non-volatile and commonly stores firmware or fixed instructions",
+        "C": "RAM is slower than ROM",
+        "D": "RAM is read-only; ROM is writable"
+      },
+      "correctAnswer": "B",
+      "explanation": "RAM is generally volatile and used for active working data; ROM is non-volatile and commonly stores firmware or fixed instructions.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q13"
+    },
+    {
+      "id": "Q035",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is cache memory?",
+      "options": {
+        "A": "Non-volatile storage used to retain data when power is off",
+        "B": "Small, high-speed memory located in or near the CPU that stores frequently used data and instructions to reduce access time",
+        "C": "Volatile main memory used to hold data currently being used",
+        "D": "A magnetic storage device that stores data on rotating platters"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cache memory is small, high-speed memory located in or near the CPU that stores frequently used data and instructions to reduce access time.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q14"
+    },
+    {
+      "id": "Q036",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is secondary storage?",
+      "options": {
+        "A": "Volatile memory used to hold data currently being used",
+        "B": "Non-volatile storage used to retain data and programs even when power is off",
+        "C": "Small, high-speed memory located in or near the CPU",
+        "D": "Non-volatile memory used to store firmware"
+      },
+      "correctAnswer": "B",
+      "explanation": "Secondary storage is non-volatile storage used to retain data and programs even when power is off.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q15"
+    },
+    {
+      "id": "Q037",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of secondary storage devices?",
+      "options": {
+        "A": "CPU, motherboard, RAM",
+        "B": "Monitor, printer, speakers",
+        "C": "Hard disk drives, solid-state drives, USB flash drives, memory cards, optical discs",
+        "D": "Keyboard, mouse, scanner"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hard disk drives, solid-state drives, USB flash drives, memory cards, optical discs and external drives are examples of secondary storage devices.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q16"
+    },
+    {
+      "id": "Q038",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Hard Disk Drive (HDD)?",
+      "options": {
+        "A": "A storage device that uses flash memory and has no moving parts",
+        "B": "A magnetic storage device that stores data on rotating platters",
+        "C": "A storage device that reads or writes data using laser light",
+        "D": "A portable data-storage device that connects through a USB interface"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Hard Disk Drive is a magnetic storage device that stores data on rotating platters.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q17"
+    },
+    {
+      "id": "Q039",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Solid-State Drive (SSD)?",
+      "options": {
+        "A": "A magnetic storage device that stores data on rotating platters",
+        "B": "A storage device that reads or writes data using laser light",
+        "C": "A storage device that uses flash memory and has no moving mechanical parts for data storage",
+        "D": "A portable data-storage device that connects through a USB interface"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Solid-State Drive uses flash memory and has no moving mechanical parts for data storage.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q18"
+    },
+    {
+      "id": "Q040",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between HDD and SSD?",
+      "options": {
+        "A": "HDD uses flash memory; SSD stores data magnetically",
+        "B": "HDD stores data magnetically on rotating platters; SSD uses flash memory and generally provides faster access and better resistance to mechanical shock",
+        "C": "HDD is faster than SSD",
+        "D": "SSD has moving parts; HDD has no moving parts"
+      },
+      "correctAnswer": "B",
+      "explanation": "An HDD stores data magnetically on rotating platters; an SSD uses flash memory and generally provides faster access and better resistance to mechanical shock.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q19"
+    },
+    {
+      "id": "Q041",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an optical storage device?",
+      "options": {
+        "A": "A storage device that stores data on rotating platters",
+        "B": "A storage device that uses flash memory",
+        "C": "A storage device that reads or writes data using laser light, such as a CD, DVD or Blu-ray drive",
+        "D": "A portable data-storage device that connects through a USB interface"
+      },
+      "correctAnswer": "C",
+      "explanation": "An optical storage device reads or writes data using laser light, such as a CD, DVD or Blu-ray drive.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q20"
+    },
+    {
+      "id": "Q042",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a USB flash drive?",
+      "options": {
+        "A": "A magnetic storage device that stores data on rotating platters",
+        "B": "A storage device that reads or writes data using laser light",
+        "C": "A portable data-storage device that uses flash memory and connects through a USB interface",
+        "D": "A storage device that uses flash memory and has no moving mechanical parts"
+      },
+      "correctAnswer": "C",
+      "explanation": "A USB flash drive is a portable data-storage device that uses flash memory and connects through a USB interface.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q21"
+    },
+        {
+      "id": "Q044",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of input devices?",
+      "options": {
+        "A": "Monitor, printer, speakers",
+        "B": "Keyboard, mouse, scanner, microphone, webcam, barcode reader, joystick, touchscreen",
+        "C": "Hard disk, SSD, USB drive",
+        "D": "CPU, RAM, motherboard"
+      },
+      "correctAnswer": "B",
+      "explanation": "Keyboard, mouse, scanner, microphone, webcam, barcode reader, joystick and touchscreen are examples of input devices.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q23"
+    },
+    {
+      "id": "Q045",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an output device?",
+      "options": {
+        "A": "A hardware device used to enter data into a computer",
+        "B": "A hardware device that presents processed information from a computer to the user or another system",
+        "C": "A device that can both send and receive data",
+        "D": "A hardware interface that enables a computer to connect to a network"
+      },
+      "correctAnswer": "B",
+      "explanation": "An output device is a hardware device that presents processed information from a computer to the user or another system.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q24"
+    },
+    {
+      "id": "Q046",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of output devices?",
+      "options": {
+        "A": "Keyboard, mouse, scanner",
+        "B": "Monitor, printer, speakers, headphones, projector",
+        "C": "Hard disk, SSD, USB drive",
+        "D": "CPU, RAM, motherboard"
+      },
+      "correctAnswer": "B",
+      "explanation": "Monitor, printer, speakers, headphones and projector are examples of output devices.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q25"
+    },
+    {
+      "id": "Q047",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an input-output device?",
+      "options": {
+        "A": "A device that only enters data into a computer",
+        "B": "A device that only presents information to the user",
+        "C": "A device that can both send data to and receive data from a computer, such as a touchscreen or network adapter",
+        "D": "A device used only for storage"
+      },
+      "correctAnswer": "C",
+      "explanation": "An input-output device can both send data to and receive data from a computer, such as a touchscreen or network adapter.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q26"
+    },
+    {
+      "id": "Q048",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a monitor?",
+      "options": {
+        "A": "An input device used to enter text",
+        "B": "An output device that displays text, images, video and other visual information",
+        "C": "A storage device that uses flash memory",
+        "D": "A device that converts physical documents into digital data"
+      },
+      "correctAnswer": "B",
+      "explanation": "A monitor is an output device that displays text, images, video and other visual information.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q27"
+    },
+    {
+      "id": "Q049",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a printer?",
+      "options": {
+        "A": "An input device that converts documents into digital data",
+        "B": "An output device that produces a physical copy of digital text or images on paper or another medium",
+        "C": "A device that displays visual information",
+        "D": "A storage device that uses laser light"
+      },
+      "correctAnswer": "B",
+      "explanation": "A printer is an output device that produces a physical copy of digital text or images on paper or another medium.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q28"
+    },
+    {
+      "id": "Q050",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a scanner?",
+      "options": {
+        "A": "An output device that produces physical copies",
+        "B": "An input device that converts physical documents or images into digital data",
+        "C": "A device that displays visual information",
+        "D": "A storage device that uses magnetic platters"
+      },
+      "correctAnswer": "B",
+      "explanation": "A scanner is an input device that converts physical documents or images into digital data.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q29"
+    },
+    {
+      "id": "Q051",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a keyboard?",
+      "options": {
+        "A": "An output device that displays text",
+        "B": "An input device used to enter text, numbers and commands",
+        "C": "A pointing device used to control a pointer",
+        "D": "A device that converts documents into digital data"
+      },
+      "correctAnswer": "B",
+      "explanation": "A keyboard is an input device used to enter text, numbers and commands.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q30"
+    },
+    {
+      "id": "Q052",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mouse?",
+      "options": {
+        "A": "An output device that displays text",
+        "B": "A pointing input device used to control a pointer and select or manipulate on-screen objects",
+        "C": "A device that converts physical documents into digital data",
+        "D": "A storage device that uses flash memory"
+      },
+      "correctAnswer": "B",
+      "explanation": "A mouse is a pointing input device used to control a pointer and select or manipulate on-screen objects.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3.1, Q31"
+    },
+    {
+      "id": "Q053",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a network interface card (NIC)?",
+      "options": {
+        "A": "A hardware interface that enables a computer or device to connect to a network",
+        "B": "A processor designed to accelerate graphics",
+        "C": "A component that converts electrical power",
+        "D": "A device used to enter data into a computer"
+      },
+      "correctAnswer": "A",
+      "explanation": "A network interface card is a hardware interface that enables a computer or device to connect to a network.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q32"
+    },
+    {
+      "id": "Q054",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a graphics processing unit (GPU)?",
+      "options": {
+        "A": "A component that converts electrical power",
+        "B": "A processor designed to accelerate graphics and other highly parallel computations",
+        "C": "A hardware interface that enables network connectivity",
+        "D": "A component used to remove heat from the computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A GPU is a processor designed to accelerate graphics and other highly parallel computations.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q33"
+    },
+    {
+      "id": "Q055",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a power supply unit (PSU)?",
+      "options": {
+        "A": "A processor designed to accelerate graphics",
+        "B": "A component that converts electrical power from an external source into suitable power for computer components",
+        "C": "A device used to remove heat from the computer",
+        "D": "A hardware interface that enables network connectivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "A power supply unit converts electrical power from an external source into suitable power for computer components.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q34"
+    },
+    {
+      "id": "Q056",
+      "subject": "Computer Knowledge",
+      "topic": "Hardware",
+      "chapter": "Hardware",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a cooling system in a computer?",
+      "options": {
+        "A": "A component that converts electrical power",
+        "B": "Fans, heat sinks or liquid-cooling components used to remove heat and maintain safe operating temperatures",
+        "C": "A processor designed to accelerate graphics",
+        "D": "A hardware interface that enables network connectivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cooling system consists of fans, heat sinks or liquid-cooling components used to remove heat and maintain safe operating temperatures.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 2, Q35"
+    },
+    {
+      "id": "Q057",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is computer software?",
+      "options": {
+        "A": "The physical components of a computer",
+        "B": "A collection of programs, instructions and related data that tells computer hardware what tasks to perform",
+        "C": "Data stored on a storage device",
+        "D": "A device connected to a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Software is a collection of programs, instructions and related data that tells computer hardware what tasks to perform.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q1"
+    },
+    {
+      "id": "Q058",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Can software be physically touched?",
+      "options": {
+        "A": "Yes, software is a physical object",
+        "B": "No, software is intangible, although it is stored on physical media and executed by hardware",
+        "C": "Yes, software is a hardware component",
+        "D": "No, software does not exist at all"
+      },
+      "correctAnswer": "B",
+      "explanation": "Software is intangible, although it is stored on physical media and executed by hardware.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q2"
+    },
+    {
+      "id": "Q059",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad categories of software?",
+      "options": {
+        "A": "Hardware and firmware",
+        "B": "System software and application software",
+        "C": "Freeware and shareware",
+        "D": "Open-source and proprietary software"
+      },
+      "correctAnswer": "B",
+      "explanation": "System software and application software are the two broad categories of software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q3"
+    },
+    {
+      "id": "Q060",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is system software?",
+      "options": {
+        "A": "Software designed to help users perform specific tasks",
+        "B": "Software that manages computer hardware and provides a platform or services for application programs",
+        "C": "Software stored in non-volatile memory that provides low-level control",
+        "D": "Software distributed for evaluation or limited use"
+      },
+      "correctAnswer": "B",
+      "explanation": "System software manages computer hardware and provides a platform or services for application programs.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q4"
+    },
+    {
+      "id": "Q061",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of system software?",
+      "options": {
+        "A": "Word processors, spreadsheets, web browsers",
+        "B": "Operating systems, device drivers, utility programs and language translators",
+        "C": "Media players, presentation software, accounting programs",
+        "D": "Antivirus tools, backup utilities, file-compression tools"
+      },
+      "correctAnswer": "B",
+      "explanation": "Operating systems, device drivers, utility programs and language translators are examples of system software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q5"
+    },
+    {
+      "id": "Q062",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is application software?",
+      "options": {
+        "A": "Software that manages computer hardware and provides a platform for other software",
+        "B": "Software designed to help users perform specific tasks, such as writing documents, calculating, browsing or editing images",
+        "C": "Software stored in non-volatile memory that provides low-level control",
+        "D": "Software whose source code is made available under a licence"
+      },
+      "correctAnswer": "B",
+      "explanation": "Application software is designed to help users perform specific tasks, such as writing documents, calculating, browsing or editing images.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q6"
+    },
+    {
+      "id": "Q063",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of application software?",
+      "options": {
+        "A": "Operating systems, device drivers, utility programs",
+        "B": "Word processors, spreadsheets, web browsers, media players, accounting programs and presentation software",
+        "C": "Language translators and firmware",
+        "D": "Antivirus tools and backup utilities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Word processors, spreadsheets, web browsers, media players, accounting programs and presentation software are examples of application software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q7"
+    },
+    {
+      "id": "Q064",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is utility software?",
+      "options": {
+        "A": "Software that helps users perform specific tasks",
+        "B": "Software designed to maintain, protect, manage or optimise a computer system",
+        "C": "Software stored in non-volatile memory that provides low-level control",
+        "D": "Software whose source code is made available under a licence"
+      },
+      "correctAnswer": "B",
+      "explanation": "Utility software is designed to maintain, protect, manage or optimise a computer system.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q8"
+    },
+    {
+      "id": "Q065",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following are examples of utility software?",
+      "options": {
+        "A": "Word processors and spreadsheets",
+        "B": "Antivirus tools, backup utilities, disk-management tools, file-compression tools and system-cleanup utilities",
+        "C": "Operating systems and device drivers",
+        "D": "Web browsers and media players"
+      },
+      "correctAnswer": "B",
+      "explanation": "Antivirus tools, backup utilities, disk-management tools, file-compression tools and system-cleanup utilities are examples of utility software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q9"
+    },
+    {
+      "id": "Q066",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is firmware?",
+      "options": {
+        "A": "Software designed to help users perform specific tasks",
+        "B": "Software stored in non-volatile memory that provides low-level control of a hardware device",
+        "C": "Software designed to maintain and optimise a computer system",
+        "D": "Software whose source code is made available under a licence"
+      },
+      "correctAnswer": "B",
+      "explanation": "Firmware is software stored in non-volatile memory that provides low-level control of a hardware device.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q10"
+    },
+    {
+      "id": "Q067",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a device driver?",
+      "options": {
+        "A": "Software that enables the operating system to communicate with and control a hardware device",
+        "B": "Software stored in non-volatile memory that provides low-level control",
+        "C": "Software designed to maintain and optimise a computer system",
+        "D": "Software whose source code is made available under a licence"
+      },
+      "correctAnswer": "A",
+      "explanation": "A device driver is software that enables the operating system to communicate with and control a hardware device.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q11"
+    },
+    {
+      "id": "Q068",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is open-source software?",
+      "options": {
+        "A": "Software controlled by an owner under a licence that restricts access to source code",
+        "B": "Software whose source code is made available under a licence that permits specified uses, inspection, modification and redistribution",
+        "C": "Software made available for use without a purchase price",
+        "D": "Software distributed for evaluation or limited use"
+      },
+      "correctAnswer": "B",
+      "explanation": "Open-source software is software whose source code is made available under a licence that permits specified uses, inspection, modification and redistribution.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q12"
+    },
+    {
+      "id": "Q069",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is proprietary software?",
+      "options": {
+        "A": "Software whose source code is made available under a licence",
+        "B": "Software controlled by an owner under a licence that restricts access to or use, modification or redistribution of its source code",
+        "C": "Software made available for use without a purchase price",
+        "D": "Software distributed for evaluation or limited use"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proprietary software is software controlled by an owner under a licence that restricts access to or use, modification or redistribution of its source code.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q13"
+    },
+    {
+      "id": "Q070",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is freeware?",
+      "options": {
+        "A": "Software whose source code is made available under a licence",
+        "B": "Software controlled by an owner under a restrictive licence",
+        "C": "Software made available for use without a purchase price, subject to its licence terms",
+        "D": "Software distributed for evaluation or limited use"
+      },
+      "correctAnswer": "C",
+      "explanation": "Freeware is software made available for use without a purchase price, subject to its licence terms.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q14"
+    },
+    {
+      "id": "Q071",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is shareware?",
+      "options": {
+        "A": "Software whose source code is made available under a licence",
+        "B": "Software made available for use without a purchase price",
+        "C": "Software distributed for evaluation or limited use, with payment commonly required for continued or full use",
+        "D": "Software controlled by an owner under a restrictive licence"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shareware is software distributed for evaluation or limited use, with payment commonly required for continued or full use.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q15"
+    },
+    {
+      "id": "Q072",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software licence?",
+      "options": {
+        "A": "A legal agreement that specifies the permitted use, copying, modification or distribution of software",
+        "B": "A type of software that manages hardware",
+        "C": "A program that helps users perform tasks",
+        "D": "A software update that fixes bugs"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software licence is a legal agreement that specifies the permitted use, copying, modification or distribution of software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q16"
+    },
+    {
+      "id": "Q073",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an installation?",
+      "options": {
+        "A": "The process of placing and configuring software so that it can run on a computer or device",
+        "B": "A change to software that fixes bugs",
+        "C": "A targeted software update to correct a defect",
+        "D": "An error in software that causes incorrect behaviour"
+      },
+      "correctAnswer": "A",
+      "explanation": "An installation is the process of placing and configuring software so that it can run on a computer or device.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q17"
+    },
+    {
+      "id": "Q074",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an update?",
+      "options": {
+        "A": "The process of placing software on a computer",
+        "B": "A change to software that may fix bugs, improve performance, add features or address security weaknesses",
+        "C": "A targeted software update to correct a defect",
+        "D": "An error in software that causes incorrect behaviour"
+      },
+      "correctAnswer": "B",
+      "explanation": "An update is a change to software that may fix bugs, improve performance, add features or address security weaknesses.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q18"
+    },
+    {
+      "id": "Q075",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a software patch?",
+      "options": {
+        "A": "The process of placing software on a computer",
+        "B": "A change to software that adds features",
+        "C": "A targeted software update, often issued to correct a defect or security vulnerability",
+        "D": "An error in software that causes incorrect behaviour"
+      },
+      "correctAnswer": "C",
+      "explanation": "A software patch is a targeted software update, often issued to correct a defect or security vulnerability.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q19"
+    },
+    {
+      "id": "Q076",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software version?",
+      "options": {
+        "A": "The process of placing software on a computer",
+        "B": "A specific release or state of a software product, usually identified by a version number or name",
+        "C": "A targeted software update to correct a defect",
+        "D": "An error in software that causes incorrect behaviour"
+      },
+      "correctAnswer": "B",
+      "explanation": "A software version is a specific release or state of a software product, usually identified by a version number or name.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q20"
+    },
+    {
+      "id": "Q077",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software bug?",
+      "options": {
+        "A": "The process of placing software on a computer",
+        "B": "A change to software that adds features",
+        "C": "A targeted software update to correct a defect",
+        "D": "An error or defect in software that causes incorrect, unexpected or unreliable behaviour"
+      },
+      "correctAnswer": "D",
+      "explanation": "A software bug is an error or defect in software that causes incorrect, unexpected or unreliable behaviour.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q21"
+    },
+    {
+      "id": "Q078",
+      "subject": "Computer Knowledge",
+      "topic": "Software",
+      "chapter": "Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software application or app?",
+      "options": {
+        "A": "A program or group of programs designed to perform tasks for users",
+        "B": "Software that manages computer hardware",
+        "C": "Software stored in non-volatile memory",
+        "D": "A legal agreement for software use"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software application or app is a program or group of programs designed to perform tasks for users.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 3, Q22"
+    },
+    {
+      "id": "Q079",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an operating system (OS)?",
+      "options": {
+        "A": "A physical component of a computer",
+        "B": "System software that manages computer hardware and software resources and provides common services for applications",
+        "C": "An application designed to help users perform specific tasks",
+        "D": "Software stored in non-volatile memory"
+      },
+      "correctAnswer": "B",
+      "explanation": "An operating system is system software that manages computer hardware and software resources and provides common services for applications.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q1"
+    },
+    {
+      "id": "Q080",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the main functions of an operating system?",
+      "options": {
+        "A": "Only managing files",
+        "B": "Process management, memory management, file management, device management, security, user-interface provision and resource allocation",
+        "C": "Only managing hardware",
+        "D": "Only providing a user interface"
+      },
+      "correctAnswer": "B",
+      "explanation": "The main functions of an operating system include process management, memory management, file management, device management, security, user-interface provision and resource allocation.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q2"
+    },
+    {
+      "id": "Q081",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a kernel?",
+      "options": {
+        "A": "A user interface for interacting with the operating system",
+        "B": "The central component of an operating system that manages core functions such as processes, memory, devices and system calls",
+        "C": "A text-based interface for entering commands",
+        "D": "A graphical interface using windows and icons"
+      },
+      "correctAnswer": "B",
+      "explanation": "The kernel is the central component of an operating system that manages core functions such as processes, memory, devices and system calls.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q3"
+    },
+    {
+      "id": "Q082",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a shell?",
+      "options": {
+        "A": "The central component of an operating system",
+        "B": "A user interface or command interpreter through which users interact with operating-system services",
+        "C": "A graphical interface using windows and icons",
+        "D": "A file system structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "A shell is a user interface or command interpreter through which users interact with operating-system services.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q4"
+    },
+    {
+      "id": "Q083",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Graphical User Interface (GUI)?",
+      "options": {
+        "A": "A text-based interface in which users enter commands",
+        "B": "A user interface that allows interaction through graphical elements such as windows, icons, menus and pointers",
+        "C": "The central component of an operating system",
+        "D": "A user interface or command interpreter"
+      },
+      "correctAnswer": "B",
+      "explanation": "A GUI is a user interface that allows interaction through graphical elements such as windows, icons, menus and pointers.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q5"
+    },
+    {
+      "id": "Q084",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Command-Line Interface (CLI)?",
+      "options": {
+        "A": "A user interface that allows interaction through windows and icons",
+        "B": "A text-based interface in which users enter commands to interact with a computer system",
+        "C": "The central component of an operating system",
+        "D": "A graphical user interface"
+      },
+      "correctAnswer": "B",
+      "explanation": "A CLI is a text-based interface in which users enter commands to interact with a computer system.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q6"
+    },
+    {
+      "id": "Q085",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of operating systems?",
+      "options": {
+        "A": "Microsoft Word, Excel, PowerPoint",
+        "B": "Microsoft Windows, GNU/Linux distributions, macOS, Android and iOS",
+        "C": "Google Chrome, Mozilla Firefox, Microsoft Edge",
+        "D": "MySQL, PostgreSQL, Oracle Database"
+      },
+      "correctAnswer": "B",
+      "explanation": "Microsoft Windows, GNU/Linux distributions, macOS, Android and iOS are examples of operating systems.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q7"
+    },
+    {
+      "id": "Q086",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is multitasking in an operating system?",
+      "options": {
+        "A": "The ability to support multiple user accounts",
+        "B": "The ability of an operating system to manage multiple tasks so they make progress during overlapping periods",
+        "C": "The ability to connect to a network",
+        "D": "The ability to store files on a disk"
+      },
+      "correctAnswer": "B",
+      "explanation": "Multitasking is the ability of an operating system to manage multiple tasks so they make progress during overlapping periods.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q8"
+    },
+    {
+      "id": "Q088",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a device driver in relation to an OS?",
+      "options": {
+        "A": "A user interface for interacting with the operating system",
+        "B": "A software component that allows the operating system to communicate with and control a hardware device",
+        "C": "The central component of an operating system",
+        "D": "A file system structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "A device driver in relation to an OS is a software component that allows the operating system to communicate with and control a hardware device.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q10"
+    },
+    {
+      "id": "Q089",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is booting in an operating system?",
+      "options": {
+        "A": "The process of installing an operating system",
+        "B": "The startup process in which firmware initialises hardware and a bootloader helps load the operating system",
+        "C": "The process of shutting down the operating system",
+        "D": "The process of updating the operating system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Booting in an operating system is the startup process in which firmware initialises hardware and a bootloader helps load the operating system.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q11"
+    },
+    {
+      "id": "Q090",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a file system?",
+      "options": {
+        "A": "A user interface for interacting with the operating system",
+        "B": "The method and data structures an operating system uses to organise, name, store and retrieve files on a storage device",
+        "C": "The central component of an operating system",
+        "D": "A software component that allows communication with hardware"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file system is the method and data structures an operating system uses to organise, name, store and retrieve files on a storage device.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q12"
+    },
+    {
+      "id": "Q091",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a process?",
+      "options": {
+        "A": "A program stored on a disk",
+        "B": "A program in execution, together with its current state and allocated resources",
+        "C": "A unit of execution within a process",
+        "D": "A memory-management technique"
+      },
+      "correctAnswer": "B",
+      "explanation": "A process is a program in execution, together with its current state and allocated resources.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q13"
+    },
+    {
+      "id": "Q092",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a thread?",
+      "options": {
+        "A": "A program in execution with its current state and resources",
+        "B": "A unit of execution within a process; a process may contain one or more threads",
+        "C": "A memory-management technique",
+        "D": "A system identity used to identify a user"
+      },
+      "correctAnswer": "B",
+      "explanation": "A thread is a unit of execution within a process; a process may contain one or more threads.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q14"
+    },
+    {
+      "id": "Q093",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is virtual memory?",
+      "options": {
+        "A": "A program in execution with its current state",
+        "B": "A memory-management technique that provides processes with virtual address spaces and uses hardware and storage mechanisms to manage memory",
+        "C": "A unit of execution within a process",
+        "D": "A system identity used to identify a user"
+      },
+      "correctAnswer": "B",
+      "explanation": "Virtual memory is a memory-management technique that provides processes with virtual address spaces and uses hardware and storage mechanisms to manage memory.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q15"
+    },
+    {
+      "id": "Q094",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a user account?",
+      "options": {
+        "A": "A program in execution with its current state",
+        "B": "A system identity used to identify a user and apply permissions and settings",
+        "C": "A memory-management technique",
+        "D": "A unit of execution within a process"
+      },
+      "correctAnswer": "B",
+      "explanation": "A user account is a system identity used to identify a user and apply permissions and settings.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q16"
+    },
+    {
+      "id": "Q095",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an administrator account?",
+      "options": {
+        "A": "An account with limited permissions intended for routine use",
+        "B": "An account with elevated permissions to perform system-wide configuration and management tasks",
+        "C": "A system identity used to identify a user",
+        "D": "A memory-management technique"
+      },
+      "correctAnswer": "B",
+      "explanation": "An administrator account is an account with elevated permissions to perform system-wide configuration and management tasks.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q17"
+    },
+    {
+      "id": "Q096",
+      "subject": "Computer Knowledge",
+      "topic": "Operating System",
+      "chapter": "Operating System",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a standard user account?",
+      "options": {
+        "A": "An account with elevated permissions to perform system-wide configuration",
+        "B": "An account with limited permissions intended for routine use without unrestricted system-level changes",
+        "C": "A system identity used to identify a user",
+        "D": "A program in execution"
+      },
+      "correctAnswer": "B",
+      "explanation": "A standard user account is an account with limited permissions intended for routine use without unrestricted system-level changes.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 4, Q18"
+    },
+    {
+      "id": "Q097",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file?",
+      "options": {
+        "A": "A container used to organise files and other folders",
+        "B": "A named collection of data stored on a storage device or within a file system",
+        "C": "The top-level directory of a file system",
+        "D": "A suffix in a filename that indicates the file type"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file is a named collection of data stored on a storage device or within a file system.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q1"
+    },
+    {
+      "id": "Q098",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What can a computer file contain?",
+      "options": {
+        "A": "Only text and numbers",
+        "B": "Text, numbers, images, audio, video, program instructions or other digital information",
+        "C": "Only program instructions",
+        "D": "Only images and video"
+      },
+      "correctAnswer": "B",
+      "explanation": "A computer file can contain text, numbers, images, audio, video, program instructions or other digital information.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q2"
+    },
+    {
+      "id": "Q099",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a filename?",
+      "options": {
+        "A": "The suffix in a filename that indicates the file type",
+        "B": "The name used to identify a file within a directory or file system location",
+        "C": "The address that identifies the location of a file or folder",
+        "D": "The amount of storage space occupied by a file"
+      },
+      "correctAnswer": "B",
+      "explanation": "A filename is the name used to identify a file within a directory or file system location.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q3"
+    },
+    {
+      "id": "Q100",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file extension?",
+      "options": {
+        "A": "The name used to identify a file within a directory",
+        "B": "The suffix in a filename, commonly following a dot, that often indicates the file type or associated application",
+        "C": "The address that identifies the location of a file",
+        "D": "The amount of storage space occupied by a file"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file extension is the suffix in a filename, commonly following a dot, that often indicates the file type or associated application.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q4"
+    },
+    {
+      "id": "Q101",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of file extensions?",
+      "options": {
+        "A": "html, css, js, php",
+        "B": "txt, pdf, docx, xlsx, pptx, jpg, png, mp3, mp4 and zip",
+        "C": "exe, msi, deb, rpm",
+        "D": "dat, log, tmp, bak"
+      },
+      "correctAnswer": "B",
+      "explanation": "txt, pdf, docx, xlsx, pptx, jpg, png, mp3, mp4 and zip are examples of file extensions.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q5"
+    },
+    {
+      "id": "Q102",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does a file extension always guarantee the actual file format?",
+      "options": {
+        "A": "Yes, the extension always indicates the exact file format",
+        "B": "No, extensions can be changed or misleading; the file's actual content and format determine what it is",
+        "C": "Yes, but only for text files",
+        "D": "No, extensions are never related to file format"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file extension does not always guarantee the actual file format; extensions can be changed or misleading, and the file's actual content and format determine what it is.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q6"
+    },
+    {
+      "id": "Q103",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a folder?",
+      "options": {
+        "A": "A named collection of data stored on a storage device",
+        "B": "A container used to organise files and other folders, also called a directory",
+        "C": "The top-level directory of a file system",
+        "D": "A suffix in a filename that indicates the file type"
+      },
+      "correctAnswer": "B",
+      "explanation": "A folder, also called a directory, is a container used to organise files and other folders.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q7"
+    },
+    {
+      "id": "Q104",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a directory?",
+      "options": {
+        "A": "A named collection of data stored on a storage device",
+        "B": "A file-system structure used to organise and locate files and subdirectories",
+        "C": "The top-level directory of a file system",
+        "D": "The amount of storage space occupied by a file"
+      },
+      "correctAnswer": "B",
+      "explanation": "A directory is a file-system structure used to organise and locate files and subdirectories.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q8"
+    },
+    {
+      "id": "Q105",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a subfolder?",
+      "options": {
+        "A": "The top-level directory of a file system",
+        "B": "A folder contained inside another folder",
+        "C": "A file marked as read-only",
+        "D": "A link that provides convenient access to another file"
+      },
+      "correctAnswer": "B",
+      "explanation": "A subfolder is a folder contained inside another folder.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q9"
+    },
+    {
+      "id": "Q106",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a root directory?",
+      "options": {
+        "A": "A folder contained inside another folder",
+        "B": "The top-level directory of a file system or volume",
+        "C": "A path that specifies a location from the current working directory",
+        "D": "A file marked as read-only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A root directory is the top-level directory of a file system or volume.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q10"
+    },
+    {
+      "id": "Q107",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file path?",
+      "options": {
+        "A": "The name used to identify a file within a directory",
+        "B": "The address or sequence of directory names that identifies the location of a file or folder",
+        "C": "The amount of storage space occupied by a file",
+        "D": "Information about a file such as its size and type"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file path is the address or sequence of directory names that identifies the location of a file or folder.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q11"
+    },
+    {
+      "id": "Q108",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an absolute path?",
+      "options": {
+        "A": "A path that identifies a location in relation to the current working directory",
+        "B": "A path that specifies a file or folder location from the root of the file system or volume",
+        "C": "A path that specifies a location from a defined starting point",
+        "D": "A path that is always relative to the current directory"
+      },
+      "correctAnswer": "B",
+      "explanation": "An absolute path is a path that specifies a file or folder location from the root of the file system or volume.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q12"
+    },
+    {
+      "id": "Q109",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a relative path?",
+      "options": {
+        "A": "A path that specifies a file or folder location from the root of the file system",
+        "B": "A path that identifies a location in relation to the current working directory or another defined starting point",
+        "C": "A path that always starts from the root directory",
+        "D": "A path that cannot be used in a command line"
+      },
+      "correctAnswer": "B",
+      "explanation": "A relative path is a path that identifies a location in relation to the current working directory or another defined starting point.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q13"
+    },
+    {
+      "id": "Q110",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file size?",
+      "options": {
+        "A": "The name used to identify a file",
+        "B": "The amount of storage space occupied by a file, commonly measured in bytes and larger units",
+        "C": "Information about a file such as its type and timestamps",
+        "D": "The address that identifies the location of a file"
+      },
+      "correctAnswer": "B",
+      "explanation": "File size is the amount of storage space occupied by a file, commonly measured in bytes and larger units.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q14"
+    },
+    {
+      "id": "Q111",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is file metadata?",
+      "options": {
+        "A": "The amount of storage space occupied by a file",
+        "B": "Information about a file, such as its name, size, type, timestamps, owner and permissions",
+        "C": "The address that identifies the location of a file",
+        "D": "The process of reducing the size of data"
+      },
+      "correctAnswer": "B",
+      "explanation": "File metadata is information about a file, such as its name, size, type, timestamps, owner and permissions.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q15"
+    },
+    {
+      "id": "Q112",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a hidden file?",
+      "options": {
+        "A": "A file that cannot be accessed by any user",
+        "B": "A file configured so that it is not normally displayed in standard file listings or file-manager views",
+        "C": "A file that is marked as read-only",
+        "D": "A file that has been compressed"
+      },
+      "correctAnswer": "B",
+      "explanation": "A hidden file is a file configured so that it is not normally displayed in standard file listings or file-manager views.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q16"
+    },
+    {
+      "id": "Q113",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a read-only file?",
+      "options": {
+        "A": "A file that is not displayed in standard file listings",
+        "B": "A file marked or permissioned so that ordinary users or applications cannot modify it without changing permissions or using elevated access",
+        "C": "A file that has been compressed to save space",
+        "D": "A file that is stored in the Recycle Bin"
+      },
+      "correctAnswer": "B",
+      "explanation": "A read-only file is a file marked or permissioned so that ordinary users or applications cannot modify it without changing permissions or using elevated access.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q17"
+    },
+    {
+      "id": "Q114",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is file compression?",
+      "options": {
+        "A": "Creating another copy of a file at a different location",
+        "B": "The process of reducing the size of data by encoding it more efficiently or removing redundancy",
+        "C": "Changing the name of a file",
+        "D": "Removing a file's directory entry"
+      },
+      "correctAnswer": "B",
+      "explanation": "File compression is the process of reducing the size of data by encoding it more efficiently or removing redundancy.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q18"
+    },
+    {
+      "id": "Q115",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a compressed archive?",
+      "options": {
+        "A": "A separate copy of a file retained so it can be restored",
+        "B": "A container that stores one or more files, often in compressed form, such as ZIP or 7z",
+        "C": "A link that provides convenient access to another file",
+        "D": "A file marked as read-only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A compressed archive is a container that stores one or more files, often in compressed form, such as ZIP or 7z.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q19"
+    },
+    {
+      "id": "Q116",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a backup file?",
+      "options": {
+        "A": "A file that is not displayed in standard file listings",
+        "B": "A separate copy of a file or data set retained so it can be restored if the original is lost or damaged",
+        "C": "A file marked as read-only",
+        "D": "A container that stores files in compressed form"
+      },
+      "correctAnswer": "B",
+      "explanation": "A backup file is a separate copy of a file or data set retained so it can be restored if the original is lost or damaged.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q20"
+    },
+    {
+      "id": "Q117",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is file copying?",
+      "options": {
+        "A": "Changing a file's location",
+        "B": "Creating another copy of a file at a different or the same storage location",
+        "C": "Changing the name of a file without changing its contents",
+        "D": "Removing a file's directory entry"
+      },
+      "correctAnswer": "B",
+      "explanation": "File copying is creating another copy of a file at a different or the same storage location.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q21"
+    },
+    {
+      "id": "Q118",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is file moving?",
+      "options": {
+        "A": "Creating another copy of a file at a different location",
+        "B": "Changing a file's location; depending on the file system and operation, this may involve updating directory information or copying and deleting data",
+        "C": "Changing the name of a file without changing its contents",
+        "D": "Removing a file's directory entry"
+      },
+      "correctAnswer": "B",
+      "explanation": "File moving is changing a file's location; depending on the file system and operation, this may involve updating directory information or copying and deleting data.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q22"
+    },
+    {
+      "id": "Q119",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is file renaming?",
+      "options": {
+        "A": "Changing a file's location",
+        "B": "Changing the name of a file without necessarily changing its contents",
+        "C": "Creating another copy of a file",
+        "D": "Removing a file's directory entry"
+      },
+      "correctAnswer": "B",
+      "explanation": "File renaming is changing the name of a file without necessarily changing its contents.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q23"
+    },
+    {
+      "id": "Q120",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is file deletion?",
+      "options": {
+        "A": "Creating another copy of a file at a different location",
+        "B": "Removing a file's directory entry or marking its storage space as reusable; secure erasure requires additional measures",
+        "C": "Changing the name of a file",
+        "D": "Reducing the size of data by encoding it more efficiently"
+      },
+      "correctAnswer": "B",
+      "explanation": "File deletion is removing a file's directory entry or marking its storage space as reusable; secure erasure requires additional measures.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q24"
+    },
+    {
+      "id": "Q121",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the Recycle Bin in Windows?",
+      "options": {
+        "A": "A folder that stores all files permanently",
+        "B": "A temporary location that commonly holds deleted local files so they can be restored or permanently removed, subject to deletion method and settings",
+        "C": "A tool for compressing files",
+        "D": "A link that provides access to another file"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Recycle Bin in Windows is a temporary location that commonly holds deleted local files so they can be restored or permanently removed, subject to deletion method and settings.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q25"
+    },
+    {
+      "id": "Q122",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a file permission?",
+      "options": {
+        "A": "A rule that determines which users or groups can read, write, execute or otherwise access a file",
+        "B": "A link that provides convenient access to another file",
+        "C": "A separate copy of a file retained for restoration",
+        "D": "A container that stores files in compressed form"
+      },
+      "correctAnswer": "A",
+      "explanation": "A file permission is a rule that determines which users or groups can read, write, execute or otherwise access a file.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q26"
+    },
+    {
+      "id": "Q123",
+      "subject": "Computer Knowledge",
+      "topic": "File and Folder",
+      "chapter": "File and Folder",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file shortcut?",
+      "options": {
+        "A": "A separate copy of a file retained for restoration",
+        "B": "A link or reference that provides convenient access to another file, folder or program without being the original item",
+        "C": "A rule that determines who can access a file",
+        "D": "A container that stores files in compressed form"
+      },
+      "correctAnswer": "B",
+      "explanation": "A file shortcut is a link or reference that provides convenient access to another file, folder or program without being the original item.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 5, Q27"
+    },
+    {
+      "id": "Q124",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a database?",
+      "options": {
+        "A": "A file stored on a storage device",
+        "B": "An organised collection of data stored and managed so that it can be accessed, updated and retrieved efficiently",
+        "C": "Software used to create documents",
+        "D": "A network of computers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database is an organised collection of data stored and managed so that it can be accessed, updated and retrieved efficiently.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q1"
+    },
+    {
+      "id": "Q125",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Database Management System (DBMS)?",
+      "options": {
+        "A": "An organised collection of data",
+        "B": "Software used to define, create, store, retrieve, update and administer databases",
+        "C": "A file system structure",
+        "D": "A type of network protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Database Management System is software used to define, create, store, retrieve, update and administer databases.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q2"
+    },
+    {
+      "id": "Q126",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of DBMS software?",
+      "options": {
+        "A": "Microsoft Word, Excel, PowerPoint",
+        "B": "MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, SQLite and MariaDB",
+        "C": "Google Chrome, Mozilla Firefox, Microsoft Edge",
+        "D": "Windows, Linux, macOS"
+      },
+      "correctAnswer": "B",
+      "explanation": "MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, SQLite and MariaDB are examples of DBMS software.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q3"
+    },
+    {
+      "id": "Q127",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a Relational Database Management System (RDBMS)?",
+      "options": {
+        "A": "A DBMS that organises data primarily into related tables made up of rows and columns",
+        "B": "A DBMS that uses document, key-value or graph models",
+        "C": "Software used to create spreadsheets",
+        "D": "A type of network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Relational Database Management System is a DBMS that organises data primarily into related tables made up of rows and columns.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q4"
+    },
+    {
+      "id": "Q128",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a table in a relational database?",
+      "options": {
+        "A": "A single data element or attribute",
+        "B": "A structured collection of related records organised into rows and columns",
+        "C": "A request to retrieve data",
+        "D": "A data structure that speeds up data retrieval"
+      },
+      "correctAnswer": "B",
+      "explanation": "A table in a relational database is a structured collection of related records organised into rows and columns.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q5"
+    },
+    {
+      "id": "Q130",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a column in a database table?",
+      "options": {
+        "A": "A record containing values for one item",
+        "B": "A field that stores a particular attribute for records in the table",
+        "C": "A request to retrieve data",
+        "D": "A data structure that speeds up data retrieval"
+      },
+      "correctAnswer": "B",
+      "explanation": "A column in a database table is a field that stores a particular attribute for records in the table.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q7"
+    },
+    {
+      "id": "Q131",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a record?",
+      "options": {
+        "A": "A single data element or attribute",
+        "B": "A collection of related field values describing one entity or instance in a database",
+        "C": "A request to retrieve data",
+        "D": "A data structure that speeds up data retrieval"
+      },
+      "correctAnswer": "B",
+      "explanation": "A record is a collection of related field values describing one entity or instance in a database.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q8"
+    },
+    {
+      "id": "Q132",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a field?",
+      "options": {
+        "A": "A single data element or attribute in a record or table column",
+        "B": "A collection of related records",
+        "C": "A request to retrieve data",
+        "D": "A data structure that speeds up data retrieval"
+      },
+      "correctAnswer": "A",
+      "explanation": "A field is a single data element or attribute in a record or table column.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q9"
+    },
+    {
+      "id": "Q133",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a primary key?",
+      "options": {
+        "A": "A column or set of columns that refers to a key in another table",
+        "B": "A column or set of columns that uniquely identifies each row in a table and cannot contain duplicate key values",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A primary key is a column or set of columns that uniquely identifies each row in a table and cannot contain duplicate key values.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q10"
+    },
+    {
+      "id": "Q134",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a foreign key?",
+      "options": {
+        "A": "A column or set of columns that uniquely identifies each row in a table",
+        "B": "A column or set of columns that refers to a candidate or primary key in another or the same table to establish a relationship",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A foreign key is a column or set of columns that refers to a candidate or primary key in another or the same table to establish a relationship.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q11"
+    },
+    {
+      "id": "Q135",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a database query?",
+      "options": {
+        "A": "A formatted presentation of selected database information",
+        "B": "A request to retrieve, insert, update, delete or otherwise manipulate data in a database",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database query is a request to retrieve, insert, update, delete or otherwise manipulate data in a database.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q12"
+    },
+    {
+      "id": "Q136",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is SQL?",
+      "options": {
+        "A": "A data structure that speeds up data retrieval",
+        "B": "Structured Query Language, a language commonly used to define, query and manipulate relational databases",
+        "C": "A logical unit of database work",
+        "D": "A user interface used to enter database records"
+      },
+      "correctAnswer": "B",
+      "explanation": "SQL stands for Structured Query Language, a language commonly used to define, query and manipulate relational databases.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q13"
+    },
+    {
+      "id": "Q137",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does SELECT do in SQL?",
+      "options": {
+        "A": "Adds new rows to a database table",
+        "B": "Retrieves data from one or more database tables or other query sources",
+        "C": "Modifies existing rows in a database table",
+        "D": "Removes selected rows from a database table"
+      },
+      "correctAnswer": "B",
+      "explanation": "SELECT retrieves data from one or more database tables or other query sources.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q14"
+    },
+    {
+      "id": "Q138",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does INSERT do in SQL?",
+      "options": {
+        "A": "Retrieves data from a table",
+        "B": "Adds new rows to a database table",
+        "C": "Modifies existing rows in a database table",
+        "D": "Removes selected rows from a database table"
+      },
+      "correctAnswer": "B",
+      "explanation": "INSERT adds new rows to a database table.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q15"
+    },
+    {
+      "id": "Q139",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UPDATE do in SQL?",
+      "options": {
+        "A": "Retrieves data from a table",
+        "B": "Adds new rows to a database table",
+        "C": "Modifies existing rows in a database table",
+        "D": "Removes selected rows from a database table"
+      },
+      "correctAnswer": "C",
+      "explanation": "UPDATE modifies existing rows in a database table.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q16"
+    },
+    {
+      "id": "Q140",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does DELETE do in SQL?",
+      "options": {
+        "A": "Retrieves data from a table",
+        "B": "Adds new rows to a database table",
+        "C": "Modifies existing rows in a database table",
+        "D": "Removes selected rows from a database table"
+      },
+      "correctAnswer": "D",
+      "explanation": "DELETE removes selected rows from a database table.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q17"
+    },
+    {
+      "id": "Q141",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database form?",
+      "options": {
+        "A": "A formatted presentation of selected database information",
+        "B": "A user interface used to enter, view or edit database records",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database form is a user interface used to enter, view or edit database records.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q18"
+    },
+    {
+      "id": "Q142",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database report?",
+      "options": {
+        "A": "A user interface used to enter database records",
+        "B": "A formatted presentation of selected database information, often designed for viewing or printing",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database report is a formatted presentation of selected database information, often designed for viewing or printing.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q19"
+    },
+    {
+      "id": "Q143",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database index?",
+      "options": {
+        "A": "A user interface used to enter database records",
+        "B": "A data structure that can speed up data retrieval from a table, usually at the cost of additional storage and maintenance",
+        "C": "A formatted presentation of selected database information",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database index is a data structure that can speed up data retrieval from a table, usually at the cost of additional storage and maintenance.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q20"
+    },
+    {
+      "id": "Q144",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is database normalisation?",
+      "options": {
+        "A": "The process of structuring relational tables to reduce unnecessary duplication and improve data integrity",
+        "B": "The process of creating a backup copy of the database",
+        "C": "The process of indexing data for faster retrieval",
+        "D": "The process of encrypting database records"
+      },
+      "correctAnswer": "A",
+      "explanation": "Database normalisation is the process of structuring relational tables to reduce unnecessary duplication and improve data integrity.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q21"
+    },
+    {
+      "id": "Q145",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is data redundancy?",
+      "options": {
+        "A": "The accuracy and consistency of stored data",
+        "B": "Unnecessary duplication of the same data in multiple places",
+        "C": "A logical unit of database work",
+        "D": "A data structure that speeds up retrieval"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data redundancy is unnecessary duplication of the same data in multiple places.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q22"
+    },
+    {
+      "id": "Q146",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is data integrity in a database?",
+      "options": {
+        "A": "Unnecessary duplication of the same data",
+        "B": "The accuracy, consistency and reliability of stored data, supported by constraints and validation rules",
+        "C": "A logical unit of database work",
+        "D": "A data structure that speeds up retrieval"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data integrity in a database is the accuracy, consistency and reliability of stored data, supported by constraints and validation rules.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q23"
+    },
+    {
+      "id": "Q147",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database transaction?",
+      "options": {
+        "A": "A copy of database data used to restore the database",
+        "B": "A logical unit of database work that is treated as a single operation or set of operations",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A user interface used to enter database records"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database transaction is a logical unit of database work that is treated as a single operation or set of operations.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q24"
+    },
+    {
+      "id": "Q148",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What are ACID properties in database transactions?",
+      "options": {
+        "A": "Access, Consistency, Integrity, Durability",
+        "B": "Atomicity, Consistency, Isolation and Durability",
+        "C": "Accuracy, Consistency, Isolation, Dependency",
+        "D": "Atomicity, Control, Integrity, Data"
+      },
+      "correctAnswer": "B",
+      "explanation": "ACID properties in database transactions are Atomicity, Consistency, Isolation and Durability.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q25"
+    },
+    {
+      "id": "Q149",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database backup?",
+      "options": {
+        "A": "A logical unit of database work",
+        "B": "A copy of database data and, where appropriate, related logs or configuration used to restore the database after loss or failure",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A user interface used to enter database records"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database backup is a copy of database data and, where appropriate, related logs or configuration used to restore the database after loss or failure.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q26"
+    },
+    {
+      "id": "Q150",
+      "subject": "Computer Knowledge",
+      "topic": "Database",
+      "chapter": "Database",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a database server?",
+      "options": {
+        "A": "A user interface used to enter database records",
+        "B": "A system that runs database-management software and provides database services to client applications or users",
+        "C": "A data structure that speeds up data retrieval",
+        "D": "A logical unit of database work"
+      },
+      "correctAnswer": "B",
+      "explanation": "A database server is a system that runs database-management software and provides database services to client applications or users.",
+      "source": "FDA_SDA_Computer_Knowledge notes, Section 6, Q27"
+    }
+  ]
+}

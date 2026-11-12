@@ -1,0 +1,3481 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank generated from 'Kannada_Origin_and_Development.pdf'. Comprehensive coverage of Kannada language history, Dravidian linguistics, inscriptions, literature, dialects, and vocabulary.",
+  "questions": [
+    {
+      "id": "KAN001",
+      "subject": "Kannada",
+      "topic": "Kannada Language Origin",
+      "chapter": "Origin and Development",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯು ಯಾವ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಇಂಡೋ-ಯುರೋಪಿಯನ್",
+        "B": "ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬ",
+        "C": "ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್",
+        "D": "ಸಿನೋ-ಟಿಬೆಟಿಯನ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡವು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದ ದಕ್ಷಿಣ ದ್ರಾವಿಡ ಭಾಷೆಯಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 1"
+    },
+    {
+      "id": "KAN002",
+      "subject": "Kannada",
+      "topic": "Kannada Language Origin",
+      "chapter": "Origin and Development",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಮೂಲವನ್ನು ಯಾವ ಪೂರ್ವೇನ ಭಾಷಾ ಹಂತದಿಂದ ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರೋಟೋ-ಇಂಡೋ-ಯುರೋಪಿಯನ್",
+        "B": "ಪ್ರೋಟೋ-ದ್ರಾವಿಡ",
+        "C": "ಪ್ರೋಟೋ-ದಕ್ಷಿಣ ದ್ರಾವಿಡ",
+        "D": "ಪ್ರೋಟೋ-ಮಧ್ಯ ದ್ರಾವಿಡ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಕನ್ನಡದ ಮೂಲವನ್ನು ಪ್ರೋಟೋ-ದ್ರಾವಿಡ ಭಾಷೆಯಿಂದ ವಿಕಸಿತವಾದ ಪ್ರೋಟೋ-ದಕ್ಷಿಣ ದ್ರಾವಿಡ ಭಾಷಾ ಹಂತಕ್ಕೆ ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 1"
+    },
+    {
+      "id": "KAN003",
+      "subject": "Kannada",
+      "topic": "Kannada Language Origin",
+      "chapter": "Origin and Development",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯು ಸಂಸ್ಕೃತ ಅಥವಾ ತಮಿಳಿನಿಂದ ನೇರವಾಗಿ ಹುಟ್ಟಿದೆ ಎಂದು ಹೇಳುವುದು ಸರಿಯೇ?",
+      "options": {
+        "A": "ಹೌದು, ಸಂಸ್ಕೃತದಿಂದ ಹುಟ್ಟಿದೆ",
+        "B": "ಹೌದು, ತಮಿಳಿನಿಂದ ಹುಟ್ಟಿದೆ",
+        "C": "ಇಲ್ಲ, ಅದು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬದ ಸ್ವತಂತ್ರ ಶಾಖೆ",
+        "D": "ಇಲ್ಲ, ಅದು ಪ್ರಾಕೃತದಿಂದ ಹುಟ್ಟಿದೆ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಕನ್ನಡವು ಸಂಸ್ಕೃತ ಅಥವಾ ತಮಿಳಿನಿಂದ ನೇರವಾಗಿ ಹುಟ್ಟಿದ ಭಾಷೆಯಲ್ಲ. ಅದು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬದ ಸ್ವತಂತ್ರ ಕೊಂಡಿಯಲ್ಲಿನ ಭಾಷಾ ವಿಕಾಸದ ಮೂಲಕ ರೂಪುಗೊಂಡಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 1"
+    },
+    {
+      "id": "KAN004",
+      "subject": "Kannada",
+      "topic": "Kannada Language Origin",
+      "chapter": "Origin and Development",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಉಗಮದ ನಿಖರ ವರ್ಷವನ್ನು ನಿರ್ಧರಿಸಬಹುದೇ?",
+      "options": {
+        "A": "ಹೌದು, ಕ್ರಿ.ಶ. 450",
+        "B": "ಹೌದು, ಕ್ರಿ.ಪೂ. 500",
+        "C": "ಇಲ್ಲ, ಭಾಷೆಗಳು ಕ್ರಮೇಣ ಬದಲಾಗುತ್ತವೆ",
+        "D": "ಹೌದು, ಕ್ರಿ.ಶ. 850"
+      },
+      "correctAnswer": "C",
+      "explanation": "ನಿರ್ಧರಿಸಲಾಗುವುದಿಲ್ಲ. ಭಾಷೆಗಳು ಮಾತನಾಡುವ ಸಮುದಾಯಗಳಲ್ಲಿ ಕ್ರಮೇಣ ಬದಲಾಗುತ್ತವೆ; ಒಂದೇ ದಿನ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ವರ್ಷದಲ್ಲಿ ಹುಟ್ಟಿಮುದಿಲ್ಲ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 1"
+    },
+    {
+      "id": "KAN005",
+      "subject": "Kannada",
+      "topic": "Kannada Language Origin",
+      "chapter": "Origin and Development",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಪುರಾತನತೆಯನ್ನು ತಿಳಿಯಲು ಯಾವ ಸಾಕ್ಷ್ಯಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೇವಲ ಶಾಸನಗಳು",
+        "B": "ಶಾಸನಗಳು, ತಾಮ್ರಪಟಗಳು, ನಾಣ್ಯಗಳು, ಗ್ರಂಥಗಳು, ವ್ಯಾಕರಣ ಲಕ್ಷಣಗಳು",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಕೃತಿಗಳು",
+        "D": "ಕೇವಲ ವಿದೇಶಿ ಪ್ರವಾಸಿಗರ ಬರಹಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶಾಸನಗಳು, ತಾಮ್ರಪಟಗಳು, ನಾಣ್ಯಗಳು, ಪ್ರಾಚೀನ ಸಾಹಿತ್ಯದ ಕೃತಿಗಳು, ಪದರೂಪಗಳು, ವ್ಯಾಕರಣ ಲಕ್ಷಣಗಳು, ಶಬ್ದಕೋಶಗಳು ಮತ್ತು ಇತರ ದ್ರಾವಿಡ ಭಾಷೆಗಳೊಂದಿಗೆ ಮಾಡುವ ಹೋಲಿಕೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 1"
+    },
+    {
+      "id": "KAN006",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Historical Stages",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಇತಿಹಾಸವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವಾಗ ಯಾವ ಪ್ರಮುಖ ಹಂತಗಳನ್ನು ಗುರುತಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಾಚೀನ, ಮಧ್ಯಕಾಲೀನ, ಆಧುನಿಕ",
+        "B": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡ",
+        "C": "ವೈದಿಕ, ಲೌಕಿಕ, ಶಾಸನ",
+        "D": "ಜೈನ, ವೀರಶೈವ, ಬ್ರಾಹ್ಮಣ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ ಮತ್ತು ಹೊಸಗನ್ನಡ ಎಂಬ ಮೂರು ಪ್ರಮುಖ ಹಂತಗಳನ್ನು ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN007",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Historical Stages",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡವನ್ನು ಯಾವ ಹಂತದ ಇತ್ತೀಚಿನ ಬೆಳವಣಿಗೆಯ ಹಂತವಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡ",
+        "B": "ನಡುಗನ್ನಡ",
+        "C": "ಹೊಸಗನ್ನಡ",
+        "D": "ಪ್ರೋಟೋ-ಕನ್ನಡ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಆಧುನಿಕ ಕನ್ನಡವನ್ನು ಹೊಸಗನ್ನಡದ ಇತ್ತೀಚಿನ ಬೆಳವಣಿಗೆಯ ಹಂತವಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN008",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Patronage",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ರಾಜವಂಶಗಳು ಪ್ರಮುಖ ಪೋಷಣೆ ನೀಡಿದವು?",
+      "options": {
+        "A": "ಮೌರ್ಯರು, ಗುಪ್ತರು, ಚೋಳರು",
+        "B": "ಕದಂಬರು, ಪಶ್ಚಿಮ ಗಂಗರು, ಬಾದಾಮಿ ಚಾಲುಕ್ಯರು, ರಾಷ್ಟ್ರಕೂಟರು, ಕಲ್ಯಾಣ ಚಾಲುಕ್ಯರು",
+        "C": "ಮೊಘಲರು, ಮರಾಠರು, ಬ್ರಿಟಿಷರು",
+        "D": "ಪಲ್ಲವರು, ಪಾಂಡ್ಯರು, ಚೇರರು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕದಂಬರು, ಪಶ್ಚಿಮ ಗಂಗರು, ಬಾದಾಮಿ ಚಾಲುಕ್ಯರು, ರಾಷ್ಟ್ರಕೂಟರು, ಕಲ್ಯಾಣ ಚಾಲುಕ್ಯರು, ಹೊಯ್ಸಳರು, ವಿಜಯನಗರದ ಅರಸರು ಮತ್ತು ಮೈಸೂರು ಅರಸರು ಕನ್ನಡದ ಶಾಸನ, ಸಾಹಿತ್ಯ ಮತ್ತು ಆಡಳಿತಾತ್ಮಕ ಬಳಕೆಗೆ ವಿವಿಧ ಕಾಲಗಳಲ್ಲಿ ಪೋಷಣೆ ನೀಡಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN009",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Jain Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಜೈನ ಧರ್ಮದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಯಾವುದೇ ಪಾತ್ರವಿಲ್ಲ",
+        "B": "ಜೈನ ಕವಿಗಳು ಮತ್ತು ಪಂಡಿತರು ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸಿದರು",
+        "C": "ಜೈನ ಧರ್ಮವು ಕನ್ನಡವನ್ನು ವಿರೋಧಿಸಿತು",
+        "D": "ಜೈನ ಧರ್ಮವು ಕೇವಲ ಸಂಸ್ಕೃತವನ್ನು ಬಳಸಿತು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಆರಂಭಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಪಂಡಿತರು ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸಿದರು. ಪಂಪ, ರನ್ನ ಮುಂತಾದ ಕವಿಗಳು ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯನ್ನು ಶಕ್ತಿಮಂತಗೊಳಿಸಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN010",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ವಚನ ಚಳವಳಿಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದ ಭಾಗವಾಗಿದೆ",
+        "B": "12ನೇ ಶತಮಾನದಲ್ಲಿ ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಗದ್ಯ-ಪದ್ಯದ ಅಭಿವ್ಯಕ್ತಿಗೆ ಬಲ ನೀಡಿತು",
+        "C": "ಇದು ಕೇವಲ ರಾಜರ ಆಸ್ಥಾನದಲ್ಲಿ ಬಳಕೆಯಾಯಿತು",
+        "D": "ಇದು ಇಂಗ್ಲಿಷ್ ಸಾಹಿತ್ಯದ ಪ್ರಭಾವ"
+      },
+      "correctAnswer": "B",
+      "explanation": "12ನೇ ಶತಮಾನದ ವಚನ ಚಳವಳಿಯು ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಕನ್ನಡ ಗದ್ಯ-ಪದ್ಯದ ಅಭಿವ್ಯಕ್ತಿಗೆ ಬಲ ನೀಡಿತು. ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು ಮುಂತಾದ ವಚನಕಾರರು ಪ್ರಮುಖರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN011",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಬೆಳವಣಿಗೆಗೆ ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಕೊಡುಗೆ ಏನು?",
+      "options": {
+        "A": "ಕೇವಲ ವೀರರಸ ಕಾವ್ಯಗಳು",
+        "B": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು ಮುಂತಾದ ಹರಿದಾಸರು ಭಕ್ತಿ, ನೀತಿ ಮತ್ತು ತತ್ವಜ್ಞಾನದ ಗಳನ್ನು ಜನಭಾಷೆಯಲ್ಲಿ ಹಾಡುಗಳ ಮೂಲಕ ಹರಡಿದರು",
+        "C": "ಕೇವಲ ಶೃಂಗಾರ ಕಾವ್ಯಗಳು",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ಗ್ರಂಥಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು ಮುಂತಾದ ಹರಿದಾಸರು ಭಕ್ತಿ, ನೀತಿ ಮತ್ತು ತತ್ವಜ್ಞಾನದ ಗಳನ್ನು ಜನಭಾಷೆಯಾದ ಕನ್ನಡದಲ್ಲಿ ಹಾಡುಗಳ ಮೂಲಕ ಹರಡಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN012",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Modern Kannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುದ್ರಣ, ಶಿಕ್ಷಣ ಮತ್ತು ಪತ್ರಿಕೋದ್ಯಮವು ಆಧುನಿಕ ಕನ್ನಡದ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರಿದವು?",
+      "options": {
+        "A": "ಯಾವುದೇ ಪ್ರಭಾವ ಬೀರಲಿಲ್ಲ",
+        "B": "ಮುದ್ರಣಾಲಯಗಳು, ಪಠ್ಯಪುಸ್ತಕಗಳು, ಪತ್ರಿಕೆಗಳು, ಆಧುನಿಕ ಶಿಕ್ಷಣ ಮತ್ತು ಗದ್ಯ ಬರವಣಿಗೆಯ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾದವು",
+        "C": "ಕೇವಲ ಪದ್ಯ ಸಾಹಿತ್ಯಕ್ಕೆ ಪ್ರೋತ್ಸಾಹ ನೀಡಿದವು",
+        "D": "ಸಂಸ್ಕೃತದ ಬಳಕೆಯನ್ನು ಹೆಚ್ಚಿಸಿದವು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಮುದ್ರಣಾಲಯಗಳು, ಪಠ್ಯಪುಸ್ತಕಗಳು, ಪತ್ರಿಕೆಗಳು, ಆಧುನಿಕ ಶಿಕ್ಷಣ ಮತ್ತು ಗದ್ಯ ಬರವಣಿಗೆಯ ಬೆಳವಣಿಗೆಯಿಂದ ಕನ್ನಡದ ಪ್ರಮಾಣಿತ ರೂಪ, ಪದಸಂಪತ್ತು, ವ್ಯಾಕರಣ ಮತ್ತು ಬಳಕೆ ಸುಧಾರಿಸಿತು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN013",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಇಂಡೋ-ಯುರೋಪಿಯನ್ ಭಾಷೆಗಳ ಗುಂಪು",
+        "B": "ಐತಿಹಾಸಿಕ-ಭಾಷಾಶಾಸ್ತ್ರೀಯವಾಗಿ ಒಂದೇ ಮೂಲಭಾಷೆಯಿಂದ ವಿಕಸಿತವಾದ ಸಂಬಂಧಿತ ಭಾಷೆಗಳ ಗುಂಪು",
+        "C": "ಆಫ್ರಿಕನ್ ಭಾಷೆಗಳ ಗುಂಪು",
+        "D": "ಚೀನೀ-ಟಿಬೆಟಿಯನ್ ಭಾಷೆಗಳ ಗುಂಪು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಐತಿಹಾಸಿಕ-ಭಾಷಾಶಾಸ್ತ್ರೀಯವಾಗಿ ಒಂದೇ ಮೂಲಭಾಷೆಯಿಂದ ವಿಕಸಿತವಾದ ಸಂಬಂಧಿತ ಭಾಷೆಗಳ ಗುಂಪನ್ನು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಕನ್ನಡ, ತಮಿಳು, ತೆಲುಗು ಮತ್ತು ಮಲಯಾಳಂ ಪ್ರಮುಖ ದ್ರಾವಿಡ ಭಾಷೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN014",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬದ ಪ್ರಮುಖ ವರ್ಗೀಕರಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಉತ್ತರ, ದಕ್ಷಿಣ, ಪೂರ್ವ, ಪಶ್ಚಿಮ",
+        "B": "ದಕ್ಷಿಣ ದ್ರಾವಿಡ, ದಕ್ಷಿಣ-ಮಧ್ಯ ದ್ರಾವಿಡ, ಮಧ್ಯ ದ್ರಾವಿಡ, ಉತ್ತರ ದ್ರಾವಿಡ",
+        "C": "ಹಳೆಯ, ಮಧ್ಯ, ಹೊಸ",
+        "D": "ಒಳನಾಡು, ಕರಾವಳಿ, ಬೆಟ್ಟ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ದ್ರಾವಿಡ ಭಾಷೆಗಳನ್ನು ದಕ್ಷಿಣ ದ್ರಾವಿಡ, ದಕ್ಷಿಣ-ಮಧ್ಯ ದ್ರಾವಿಡ, ಮಧ್ಯ ದ್ರಾವಿಡ ಮತ್ತು ಉತ್ತರ ದ್ರಾವಿಡ ಎಂಬ ನಾಲ್ಕು ದೊಡ್ಡ ಗುಂಪುಗಳಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN015",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಕ್ಷಿಣ ದ್ರಾವಿಡ ಗುಂಪಿನ ಪ್ರಮುಖ ಭಾಷೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕನ್ನಡ, ತಮಿಳು, ಮಲಯಾಳಂ, ತುಳು",
+        "B": "ತೆಲುಗು, ಗೊಂಡಿ, ಕೊಂಡ, ಕುಯಿ",
+        "C": "ಕುರುಖ್, ಮಲ್ತೋ, ಬ್ರಾಹುಯಿ",
+        "D": "ಕೋಲಾಮಿ, ನಾಯ್ಕಿ, ಪರ್ಜಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ, ತಮಿಳು, ಮಲಯಾಳಂ, ತುಳು, ಕೊಡವ ಮತ್ತು ತೋಡ ಭಾಷೆಗಳು ದಕ್ಷಿಣ ದ್ರಾವಿಡ ಗುಂಪಿಗೆ ಸೇರಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN016",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಕ್ಷಿಣ-ಮಧ್ಯ ದ್ರಾವಿಡ ಗುಂಪಿನ ಪ್ರಮುಖ ಭಾಷೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕನ್ನಡ, ತಮಿಳು, ಮಲಯಾಳಂ",
+        "B": "ತೆಲುಗು, ಗೊಂಡಿ, ಕೊಂಡ, ಕುಯಿ",
+        "C": "ಕೋಲಾಮಿ, ನಾಯ್ಕಿ, ಪರ್ಜಿ",
+        "D": "ಕುರುಖ್, ಮಲ್ತೋ, ಬ್ರಾಹುಯಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ತೆಲುಗು, ಗೊಂಡಿ, ಕೊಂಡ, ಕುಯಿ ಮತ್ತು ಸಂಬಂಧಿತ ಭಾಷೆಗಳು ಈ ಗುಂಪಿನಲ್ಲಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN017",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಮಧ್ಯ ದ್ರಾವಿಡ ಗುಂಪಿನ ಉದಾಹರಣೆಗಳನ್ನು ತಿಳಿಸಿ.",
+      "options": {
+        "A": "ಕನ್ನಡ, ತಮಿಳು, ಮಲಯಾಳಂ",
+        "B": "ಕೋಲಾಮಿ, ನಾಯ್ಕಿ, ಪರ್ಜಿ ಮತ್ತು ಗಡಬ ಭಾಷೆಗಳು",
+        "C": "ತೆಲುಗು, ಗೊಂಡಿ, ಕೊಂಡ",
+        "D": "ಕುರುಖ್, ಮಲ್ತೋ, ಬ್ರಾಹುಯಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕೋಲಾಮಿ, ನಾಯ್ಕಿ, ಪರ್ಜಿ ಮತ್ತು ಗಡಬ ಭಾಷೆಗಳನ್ನು ಮಧ್ಯ ದ್ರಾವಿಡ ಗುಂಪಿನಲ್ಲಿ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN018",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Dravidian Classification",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಉತ್ತರ ದ್ರಾವಿಡ ಗುಂಪಿನ ಪ್ರಮುಖ ಭಾಷೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕನ್ನಡ, ತಮಿಳು, ತೆಲುಗು",
+        "B": "ಕುರುಖ್ (ಓರಾಂವ್), ಮಲ್ತೋ ಮತ್ತು ಬ್ರಾಹುಯಿ",
+        "C": "ಗೊಂಡಿ, ಕೊಂಡ, ಕುಯಿ",
+        "D": "ತುಳು, ಕೊಡವ, ತೋಡ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕುರುಖ್ (ಓರಾಂವ್), ಮಲ್ತೋ ಮತ್ತು ಬ್ರಾಹುಯಿ ಉತ್ತರ ದ್ರಾವಿಡ ಗುಂಪಿನ ಪ್ರಮುಖ ಭಾಷೆಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN019",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Language Relations",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಮತ್ತು ತಮಿಳು ಭಾಷೆಗಳ ನಡುವೆ ಯಾವ ಸಂಬಂಧವಿದೆ?",
+      "options": {
+        "A": "ಎರಡೂ ಸಂಸ್ಕೃತದಿಂದ ಹುಟ್ಟಿವೆ",
+        "B": "ಎರಡೂ ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿವೆ ಆದರೆ ಐತಿಹಾಸಿಕವಾಗಿ ಸಂಬಂಧಿತ ಭಾಷೆಗಳಾಗಿವೆ, ಕನ್ನಡ ಮತ್ತು ತಮಿಳಿನ ನಡುವೆ ನೇರ ಸಂಬಂಧವಿಲ್ಲ",
+        "C": "ತಮಿಳು ಕನ್ನಡದಿಂದ ಹುಟ್ಟಿದೆ",
+        "D": "ಕನ್ನಡ ತಮಿಳಿನಿಂದ ಹುಟ್ಟಿದೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಎರಡೂ ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದ್ದರೂ ಐತಿಹಾಸಿಕವಾಗಿ ಸಂಬಂಧಿತ ಭಾಷೆಗಳಾಗಿವೆ. ಆದರೆ ಕನ್ನಡವು ತಮಿಳಿನಿಂದ ನೇರವಾಗಿ ಹುಟ್ಟಿದ ಭಾಷೆಯಲ್ಲ; ಎರಡೂ ಭಾಷೆಗಳು ಸಮಾನಾಂತರ ಪೂರ್ವಜ ಭಾಷಾ ಹಂತಗಳಿಂದ ವಿಕಸಿಸಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN020",
+      "subject": "Kannada",
+      "topic": "Dravidian Language Family",
+      "chapter": "Linguistic Features",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ದ್ರಾವಿಡ ಭಾಷೆಗಳನ್ನು ಗುರುತಿಸಲು ಯಾವ ಭಾಷಾ ಲಕ್ಷಣಗಳು ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": {
+        "A": "ಕೇವಲ ಧ್ವನಿ ವ್ಯವಸ್ಥೆ",
+        "B": "ವರ್ತನಾಯುಕ್ತ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಸಮಾನಾಂತರ ವರ್ಗಗಳು, ಸಂಬಂಧಿತ ಹೆಸರುಪದಗಳಿಗೆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಸರ್ವನಾಮಗಳಲ್ಲಿ ವಚನ-ಲಿಂಗ ಗುರುತುಗಳು",
+        "C": "ಕೇವಲ ಲಿಪಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವರ್ತನಾಯುಕ್ತ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಸಮಾನಾಂತರ ವರ್ಗಗಳು, ಸಂಬಂಧಿತ ಹೆಸರುಪದಗಳಿಗೆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಗಳ ಬಳಕೆ, ಸರ್ವನಾಮಗಳಲ್ಲಿ ವಚನ-ಲಿಂಗ ಗುರುತುಗಳು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN021",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Halmidi Inscription",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಎಲ್ಲಿದೆ?",
+      "options": {
+        "A": "ಮೈಸೂರು ಜಿಲ್ಲೆ",
+        "B": "ಹಾಸನ ಜಿಲ್ಲೆಯ ಬೇಲೂರು ತಾಲ್ಲೂಕಿನ ಹಲ್ಮಿಡಿ ಗ್ರಾಮ",
+        "C": "ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ",
+        "D": "ಧಾರವಾಡ ಜಿಲ್ಲೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಹಾಸನ ಜಿಲ್ಲೆಯ ಬೇಲೂರು ತಾಲ್ಲೂಕಿನ ಹಲ್ಮಿಡಿ ಗ್ರಾಮದಲ್ಲಿ ಪತ್ತೆಯಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN022",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Halmidi Inscription",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಯಾರು ಪತ್ತೆಹಚ್ಚಿದರು?",
+      "options": {
+        "A": "ಬಿ. ಎಲ್. ರೈಸ್",
+        "B": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ",
+        "C": "ಆರ್. ನರಸಿಂಹಾಚಾರ್",
+        "D": "ಡಿ. ಎಲ್. ನರಸಿಂಹಾಚಾರ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಅವರು 1936ರಲ್ಲಿ ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಗುರುತಿಸಿ ಪ್ರಕಟಿಸಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN023",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Halmidi Inscription",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಕಾಲಮಾನ ಎಷ್ಟು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 350",
+        "B": "ಕ್ರಿ.ಶ. ಸುಮಾರು 450 (ಕೆಲವು ವಿದ್ವಾಂಸರ ಪ್ರಕಾರ 500)",
+        "C": "ಕ್ರಿ.ಶ. 850",
+        "D": "ಕ್ರಿ.ಶ. 1200"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. ಸುಮಾರು 450ರ ಕಾಲಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ. ಆದರೆ ಕೆಲವು ವಿದ್ವಾಂಸರು ಕ್ರಿ.ಶ. ಸುಮಾರು 500ರ ಅವಧೆಗೆ ದಿನಾಂಕ ನಿರ್ಧರಿಸಿದ್ದಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+        {
+      "id": "KAN025",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Halmidi Inscription",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಯಾವ ರಾಜವಂಶದ ಕಾಲಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕೂಟರು",
+        "B": "ಕದಂಬರು",
+        "C": "ಪಶ್ಚಿಮ ಗಂಗರು",
+        "D": "ಚಾಲುಕ್ಯರು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇದನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕದಂಬ ಕಾಲದ್ದೆಂದು ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN026",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Halmidi Inscription",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನಕ್ಕಿಂತ ಹಳೆಯದಾದ ಕನ್ನಡ ಶಾಸನಗಳಿವೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಹಲ್ಮಿಡಿಯೇ ಅತ್ಯಂತ ಹಳೆಯದು",
+        "B": "ಹಲ್ಮಿಡಿಗಿಂತ ಹಳೆಯದೆನಿಸಬಹುದಾದ ಕೆಲವು ಶಾಸನಗಳು ಅಥವಾ ಶಾಸನದ ತುಣುಕುಗಳ ಬಗ್ಗೆ ವಿದ್ವಾಂಸರು ಚರ್ಚಿಸಿದ್ದಾರೆ",
+        "C": "ಹೌದು, ಅಶೋಕನ ಶಾಸನಗಳು",
+        "D": "ಹೌದು, ಮೌರ್ಯ ಶಾಸನಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿಗಿಂತ ಹಳೆಯದೆನಿಸಬಹುದಾದ ಕೆಲವು ಶಾಸನಗಳು ಅಥವಾ ಶಾಸನದ ತುಣುಕುಗಳ ಬಗ್ಗೆ ವಿದ್ವಾಂಸರು ಚರ್ಚಿಸಿದ್ದಾರೆ. ಕೆಲವು ತಾಮ್ರಪಟಗಳು, ಶಿಲಾಶಾಸನಗಳ ಪ್ರಾಚೀನ ದಾಖಲೆಗಳ ದಿನಾಂಕ ಮತ್ತು ಭಾಷಾ ಸ್ವರೂಪದ ಬಗ್ಗೆ ಅಧ್ಯಯನ ಮುಂದುವರಿದಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN027",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Epigraphy",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಶಾಸನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಲ್ಲು, ಸ್ತಂಭ, ಬಂಡೆ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಅಥವಾ ಇತರ ಶಾಶ್ವತ ವಸ್ತುಗಳ ಮೇಲೆ ಕೆತ್ತಿದ ಅಥವಾ ಬರೆದ ದಾಖಲೆ",
+        "B": "ಕೇವಲ ತಾಮ್ರಪಟ",
+        "C": "ಕೇವಲ ಕಲ್ಲಿನ ಮೇಲಿನ ಬರಹ",
+        "D": "ಕೇವಲ ದೇವಾಲಯದ ಗೋಡೆಯ ಬರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲ್ಲು, ಸ್ತಂಭ, ಬಂಡೆ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಅಥವಾ ಇತರ ಶಾಶ್ವತ ವಸ್ತುಗಳ ಮೇಲೆ ಕೆತ್ತಿದ ಅಥವಾ ಬರೆದ ದಾಖಲೆ ಯನ್ನು ಶಾಸನ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN028",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Epigraphy",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಶಾಸನಗಳು ಯಾವ ವಿಷಯಗಳನ್ನು ದಾಖಲಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯಗಳು",
+        "B": "ಭೂದಾನ, ದೇವಾಲಯಗಳಿಗೆ ದತ್ತಿ, ತೋಟಗಳ ವಿನಿಯೋಗ, ಯುದ್ಧ ವಿಜಯ, ಆಳ್ವಿಕೆ, ವೀರಮರಣ, ವ್ಯಾಪಾರ ಸಂಘಗಳು, ಧಾರ್ಮಿಕ ಚಟುವಟಿಕೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜರ ವಂಶಾವಳಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಭೂದಾನ, ದೇವಾಲಯಗಳಿಗೆ ದತ್ತಿ, ತೋಟಗಳ ವಿನಿಯೋಗ, ಯುದ್ಧ ವಿಜಯ, ಆಳ್ವಿಕೆ, ವೀರಮರಣ, ವ್ಯಾಪಾರ ಸಂಘಗಳು ಮತ್ತು ಧಾರ್ಮಿಕ ಚಟುವಟಿಕೆಗಳನ್ನು ದಾಖಲಿಸುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 3"
+    },
+    {
+      "id": "KAN029",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Epigraphy",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಸನಾಧ್ಯಯನ (ಶಾಸನಕಾಪ್ಯರ) ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೇವಲ ಶಾಸನಗಳ ಸಂಗ್ರಹ",
+        "B": "ಶಾಸನಗಳ ಓದು, ಲಿಪಿ, ಭಾಷೆ, ಕಾಲನಿರ್ಣಯ, ವಿಷಯ ಮತ್ತು ಐತಿಹಾಸಿಕ ಮಹತ್ವವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಕಾರ್ಯ",
+        "C": "ಕೇವಲ ಶಾಸನಗಳ ಪ್ರದರ್ಶನ",
+        "D": "ಕೇವಲ ಶಾಸನಗಳ ಸಂರಕ್ಷಣೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶಾಸನಗಳ ಓದು, ಲಿಪಿ, ಭಾಷೆ, ಕಾಲನಿರ್ಣಯ, ವಿಷಯ ಮತ್ತು ಐತಿಹಾಸಿಕ ಮಹತ್ವವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಕಾರ್ಯವೇ ಶಾಸನಾಧ್ಯಯನ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN030",
+      "subject": "Kannada",
+      "topic": "Inscriptions",
+      "chapter": "Epigraphy",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತಾಮ್ರಶಾಸನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಲ್ಲಿನ ಮೇಲೆ ಕೆತ್ತಿದ ಶಾಸನ",
+        "B": "ತಾಮ್ರದ ಫಲಕಗಳ ಮೇಲೆ ಕೆತ್ತಿದ ದಾನಪತ್ರ, ಭೂಮಿಯ ಹಕ್ಕು, ತೆರಿಗೆ ವಿನಾಯಿತಿ ಅಥವಾ ರಾಜಾಜ್ಞೆಯ ದಾಖಲೆ",
+        "C": "ಮರದ ಮೇಲೆ ಬರೆದ ದಾಖಲೆ",
+        "D": "ಜೇಡಿಮಣ್ಣಿನ ಮೇಲೆ ಬರೆದ ದಾಖಲೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ತಾಮ್ರದ ಫಲಕಗಳ ಮೇಲೆ ಕೆತ್ತಿದ ದಾನಪತ್ರ, ಭೂಮಿಯ ಹಕ್ಕು, ತೆರಿಗೆ ವಿನಾಯಿತಿ ಅಥವಾ ರಾಜಾಜ್ಞೆಯ ದಾಖಲೆಯನ್ನು ತಾಮ್ರಶಾಸನ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN031",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Early Kannada Literature",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವಡ್ಡಾರಾಧನೆ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗ",
+        "C": "ಪಂಪ ಭಾರತ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. ಸುಮಾರು 850ರ ಕವಿರಾಜಮಾರ್ಗವನ್ನು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಎಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 4"
+    },
+    {
+      "id": "KAN032",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kavirajamarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ದೊರೆ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷನ ಆಸ್ಥಾನಿಕ",
+        "C": "ರನ್ನ",
+        "D": "ಪೊನ್ನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ರಾಷ್ಟ್ರಕೂಟ ದೊರೆ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷನ ಆಸ್ಥಾನಿಕನಿಂದ ರಚಿತವಾದುದು; ಶ್ರೀವಿಜಯನ ಕರ್ತೃತ್ವದ ಪ್ರಸ್ತಾಪವೂ ಇದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN033",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kavirajamarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ವಿಷಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಕೃತಿ?",
+      "options": {
+        "A": "ಕಾವ್ಯಶಾಸ್ತ್ರ, ಅಲಂಕಾರ, ಕಾವ್ಯ ಮತ್ತು ಕವಿಯರ ಗುಣಗಳನ್ನು ವಿವರಿಸುವ ಗ್ರಂಥ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜರ ಚರಿತ್ರೆ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಕಾವ್ಯಶಾಸ್ತ್ರ, ಅಲಂಕಾರ, ಕಾವ್ಯ ಮತ್ತು ಕವಿಯರ ಗುಣಗಳನ್ನು ವಿವರಿಸುವ ಗ್ರಂಥವಾಗಿದೆ. ಸಂಸ್ಕೃತದ ಅಲಂಕಾರ ಕಾವ್ಯರೀತಿಯ ಪ್ರಭಾವ ಇದರಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN034",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kavirajamarga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಐತಿಹಾಸಿಕ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಕೇವಲ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ",
+        "B": "ಇದು 9ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಸಮೃದ್ಧ ಸಾಹಿತ್ಯ ಪರಂಪರೆ ಮತ್ತು ಪ್ರೌಢತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "C": "ಇದು ಕೇವಲ ಧಾರ್ಮಿಕ ಗ್ರಂಥ",
+        "D": "ಇದು ಕೇವಲ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇದು 9ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಸಮೃದ್ಧ ಸಾಹಿತ್ಯ ಪರಂಪರೆ ಮತ್ತು ಪ್ರೌಢತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದರಲ್ಲಿ ಕನ್ನಡ ನಾಡು, ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಹಿಂದಿನ ಕವಿಗಳ ಉಲ್ಲೇಖಗಳಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN035",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kavirajamarga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಕನ್ನಡ ನಾಡಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ಹೇಗೆ ವರ್ಣಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಕೇವಲ ಮೈಸೂರು ಪ್ರದೇಶ",
+        "B": "ಕಾವೇರಿಯಿಂದ ಗೋದಾವರಿವರೆಗೆ ಕನ್ನಡ ನಾಡಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖ ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿದೆ",
+        "C": "ಕೇವಲ ಕರಾವಳಿ ಪ್ರದೇಶ",
+        "D": "ಕೇವಲ ಉತ್ತರ ಕರ್ನಾಟಕ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕಾವೇರಿಯಿಂದ ಗೋದಾವರಿವರೆಗೆ ಕನ್ನಡ ನಾಡಿನ ವ್ಯಾಪ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖ ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿದೆ. ಅದನ್ನು ಆ ಕಾಲದ ಸಾಂಸ್ಕೃತಿಕ-ಸಾಹಿತ್ಯಿಕ ಭೌಗೋಳಿಕ ಕಲ್ಪನೆಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕು; ಇಂದಿನ ರಾಜ್ಯದ ಗಡಿಗಳೊಂದಿಗೆ ಸಮೀಕರಿಸಬಾರದು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN036",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Vaddaradhane",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದುದು",
+        "B": "ಕೇವಲ ಪದ್ಯಕೃತಿ",
+        "C": "ಕೇವಲ ನಾಟಕ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಮುಖವಾದುದು. ಇದನ್ನು ಶಿವಕೋಟಿಯಾಚಾರ್ಯರಿಂದ ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಜೈನ ಧಾರ್ಮಿಕ ಕಥನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN037",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಕೃತಿಗಳು",
+        "B": "ಕವಿರಾಜಮಾರ್ಗವು ಕಾವ್ಯಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಕೃತಿ; ವಡ್ಡಾರಾಧನೆ ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿ",
+        "C": "ಕವಿರಾಜಮಾರ್ಗ ಗದ್ಯಕೃತಿ; ವಡ್ಡಾರಾಧನೆ ಪದ್ಯಕೃತಿ",
+        "D": "ಎರಡೂ ಧಾರ್ಮಿಕ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಕಾವ್ಯಶಾಸ್ತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಕೃತಿ; ವಡ್ಡಾರಾಧನೆ ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿ. ಪ್ರಾಚೀನ/ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿಗೆ ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ಪ್ರಾಚೀನ/ಮೊದಲ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗೆ ವಡ್ಡಾರಾಧನೆ ಎಂಬ ವ್ಯತ್ಯಾಸವನ್ನು ಗಮನಿಸಬೇಕು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN038",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Ratnatrayaru",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು, ವ್ಯಾಸರಾಯರು",
+        "D": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ, ಹರಿಹರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಆದಿಕವಿ ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN039",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Pampa",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ",
+        "C": "ಗದಾಯುದ್ಧ ಮತ್ತು ಅಜಿತಪುರಾಣ",
+        "D": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಪಂಪ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ (ಪಂಪ ಭಾರತ) ಪಂಪನ ಪ್ರಸಿದ್ಧ ಕೃತೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN040",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Ponna",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶಾಂತಿಪುರಾಣವು ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತೆಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN041",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Ranna",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಗದಾಯುದ್ಧ ಮತ್ತು ಅಜಿತಪುರಾಣ",
+        "B": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "C": "ಶಾಂತಿಪುರಾಣ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗದಾಯುದ್ಧ ಮತ್ತು ಅಜಿತಪುರಾಣ ರನ್ನನ ಪ್ರಸಿದ್ಧ ಕೃತೆಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN042",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Origin",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ಮೂಲ ಯಾವ ಪ್ರಾಚೀನ ಲಿಪಿಯಿಂದ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ದೇವನಾಗರಿ",
+        "B": "ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳು",
+        "C": "ಗ್ರಂಥ ಲಿಪಿ",
+        "D": "ಅರಬಿಕ್ ಲಿಪಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯು ದೊರೆತ ಮೂಲ ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN043",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Language vs Script",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಕನ್ನಡ ಲಿಪಿಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಒಂದೇ",
+        "B": "ಭಾಷೆ ಎಂದರೆ ಮಾತನಾಡುವ, ಅರ್ಥೈಸುವ ಮತ್ತು ಬರೆಯುವ ಸಂವಹನ ವ್ಯವಸ್ಥೆ; ಲಿಪಿ ಎಂದರೆ ಭಾಷೆಯ ಧ್ವನಿಗಳನ್ನು ದೃಶ್ಯರೂಪಕ್ಕೆ ತರುವ ಬರವಣಿಗೆ ಪದ್ಧತಿ",
+        "C": "ಭಾಷೆ ಬರವಣಿಗೆ; ಲಿಪಿ ಮಾತನಾಡುವುದು",
+        "D": "ಎರಡೂ ಬೇರೆ ಬೇರೆ ಭಾಷೆಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಭಾಷೆ ಎಂದರೆ ಮಾತನಾಡುವ, ಅರ್ಥೈಸುವ ಮತ್ತು ಬರೆಯುವ ಸಂವಹನ ವ್ಯವಸ್ಥೆ; ಲಿಪಿ ಎಂದರೆ ಭಾಷೆಯ ಧ್ವನಿಗಳನ್ನು ದೃಶ್ಯರೂಪಕ್ಕೆ ತರುವ ಬರವಣಿಗೆ ಪದ್ಧತಿ. ಒಂದೇ ಭಾಷೆಯನ್ನು ಬೇರೆ ಲಿಪಿಗಳಲ್ಲಿಯೂ ಬರೆಯಬಹುದು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN044",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Brahmi Script",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಕೇವಲ ಸಂಸ್ಕೃತ ಲಿಪಿ",
+        "B": "ಪ್ರಾಚೀನ ಭಾರತದ ಪ್ರಮುಖ ಲಿಪಿಗಳಲ್ಲಿ ಒಂದು; ಅಶೋಕನ ಶಾಸನಗಳು ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ಪ್ರಸಿದ್ಧ ನಿದರ್ಶನ",
+        "C": "ಇದು ಕೇವಲ ತಮಿಳು ಲಿಪಿ",
+        "D": "ಇದು ಆಧುನಿಕ ಲಿಪಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬ್ರಾಹ್ಮೀ ಪ್ರಾಚೀನ ಭಾರತದ ಪ್ರಮುಖ ಲಿಪಿಗಳಲ್ಲಿ ಒಂದು. ಅಶೋಕನ ಶಾಸನಗಳು ಬ್ರಾಹ್ಮೀ ಲಿಪಿಯ ಪ್ರಸಿದ್ಧ ನಿದರ್ಶನಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN045",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Evolution",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ನೇರವಾಗಿ ಅಶೋಕನ ಬ್ರಾಹ್ಮೀಯಿಂದ ಒಂದೇ ಹಂತದಲ್ಲಿ ರೂಪುಗೊಂಡಿತೇ?",
+      "options": {
+        "A": "ಹೌದು, ನೇರವಾಗಿ ರೂಪುಗೊಂಡಿತು",
+        "B": "ಇಲ್ಲ, ಬ್ರಾಹ್ಮೀಯಿಂದ ದಕ್ಷಿಣ ಬ್ರಾಹ್ಮೀ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಲಿಪಿ ರೂಪಾಂತರಗಳ ಮೂಲಕ ಹಲವು ಹಂತಗಳಲ್ಲಿ ವಿಕಾಸವಾಯಿತು",
+        "C": "ಇಲ್ಲ, ಸಂಸ್ಕೃತದಿಂದ ನೇರವಾಗಿ ಬಂದಿತು",
+        "D": "ಹೌದು, ಒಂದೇ ಹಂತದಲ್ಲಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿ ನೇರವಾಗಿ ಅಶೋಕನ ಬ್ರಾಹ್ಮೀಯಿಂದ ಒಂದೇ ಹಂತದಲ್ಲಿ ರೂಪುಗೊಂಡಿಲ್ಲ. ಬ್ರಾಹ್ಮೀಯಿಂದ ದಕ್ಷಿಣ ಬ್ರಾಹ್ಮೀ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಲಿಪಿ ರೂಪಾಂತರಗಳ ಮೂಲಕ ಹಲವು ತಮಿಳುಗಳಲ್ಲಿ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆ ಬೆಳೆಯಿತು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN046",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Early Forms",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿಯ ಆರಂಭಿಕ ರೂಪ ಯಾವ ರಾಜವಂಶದ ಶಾಸನಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ಮೌರ್ಯರು",
+        "B": "ಆರಂಭಿಕ ಕದಂಬರು ಮತ್ತು ಬಾಹ್ಮನ ಚಾಲುಕ್ಯರ ಕಾಲದ ಶಾಸನಗಳಲ್ಲಿ ಪ್ರಾಚೀನ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿಯ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ",
+        "C": "ಮೊಘಲರು",
+        "D": "ಬ್ರಿಟಿಷರು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಆರಂಭಿಕ ಕದಂಬರು ಮತ್ತು ಬಾಹ್ಮನ ಚಾಲುಕ್ಯರ ಕಾಲದ ಶಾಸನಗಳಲ್ಲಿ ಪ್ರಾಚೀನ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿಯ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN047",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Kadamba Script",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕದಂಬ ಲಿಪಿಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಕೇವಲ ಸಂಸ್ಕೃತ ಲಿಪಿ",
+        "B": "ಕದಂಬ ಕಾಲದಲ್ಲಿ ಬಳಸಿದ ಲಿಪಿ ರೂಪಗಳು ದಕ್ಷಿಣ ಬ್ರಾಹ್ಮೀಯಿಂದ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆಯನ್ನು ನಡೆದ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+        "C": "ಇದು ಕೇವಲ ತಮಿಳು ಲಿಪಿ",
+        "D": "ಇದು ಆಧುನಿಕ ಲಿಪಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕದಂಬ ಕಾಲದಲ್ಲಿ ಬಳಸಿದ ಲಿಪಿ ರೂಪಗಳು ದಕ್ಷಿಣ ಬ್ರಾಹ್ಮೀಯಿಂದ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆಯನ್ನು ನಡೆದ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+        {
+      "id": "KAN049",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Characteristics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ಸ್ವರೂಪದ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಲಿಪಿಯು ಅಕ್ಷರಾಧಾರಿತ ಅಬುಗಿಡಾ ಪದ್ಧತಿಯಾಗಿದೆ. ವ್ಯಂಜನ ಅಕ್ಷರದಲ್ಲಿ ಸಹಜವಾಗಿ 'ಅ' ಸ್ವರ ಅಡಕವಾಗಿರುತ್ತದೆ; ಬೇರೆ ಸ್ವರಗಳನ್ನು ಸೂಚಿಸಲು ಮಾತ್ರೆಗಳು ಅಥವಾ ಸ್ವರಚಿಹ್ನೆಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಇದು ಕೇವಲ ವರ್ಣಮಾಲೆ",
+        "C": "ಇದು ಚಿತ್ರಲಿಪಿ",
+        "D": "ಇದು ಅಕ್ಷರಗಳಿಲ್ಲದ ಲಿಪಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯು ಅಕ್ಷರಾಧಾರಿತ ಅಬುಗಿಡಾ ಪದ್ಧತಿಯಾಗಿದೆ. ವ್ಯಂಜನ ಅಕ್ಷರದಲ್ಲಿ ಸಹಜವಾಗಿ 'ಅ' ಸ್ವರ ಅಡಕವಾಗಿರುತ್ತದೆ; ಬೇರೆ ಸ್ವರಗಳನ್ನು ಸೂಚಿಸಲು ಮಾತ್ರೆಗಳು ಅಥವಾ ಸ್ವರಚಿಹ್ನೆಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN050",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Characteristics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿ ಸ್ವರ ಮತ್ತು ವ್ಯಂಜನಗಳನ್ನು ಹೇಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸ್ವರಗಳು ಸ್ವತಂತ್ರ ಅಕ್ಷರಗಳಾಗಿ ಬರೆಯಲ್ಪಡುತ್ತವೆ. ವ್ಯಂಜನಗಳಿಗೆ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ, ಕಾ, ಕಿ, ಕು, ಕೇ ಮುಂತಾದ ರೂಪಗಳನ್ನು ರಚಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಎಲ್ಲಾ ಅಕ್ಷರಗಳೂ ಒಂದೇ ರೀತಿ",
+        "C": "ಸ್ವರಗಳಿಗೆ ಮಾತ್ರೆಗಳಿಲ್ಲ",
+        "D": "ವ್ಯಂಜನಗಳಿಗೆ ಸ್ವರಗಳಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರಗಳು ಸ್ವತಂತ್ರ ಅಕ್ಷರಗಳಾಗಿ ಬರೆಯಲ್ಪಡುತ್ತವೆ. ವ್ಯಂಜನಗಳಿಗೆ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ, ಕಾ, ಕಿ, ಕು, ಕೇ ಮುಂತಾದ ರೂಪಗಳನ್ನು ರಚಿಸಲಾಗುತ್ತದೆ. ಸ್ವರರಹಿತ ವ್ಯಂಜನವನ್ನು ಸೂಚಿಸಲು ಒತ್ತಕ್ಷರ/ವಿರಾಮ ಚಿಹ್ನೆ ಬಳಸುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN051",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script History",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ಅಕ್ಷರಗಳ ಆಕಾರಗಳು ಏಕೆ ಹೆಚ್ಚು ಬದಲಾಗಿವೆ?",
+      "options": {
+        "A": "ತಾಳೆಗರಿ ಮತ್ತು ಇತರ ಬರವಣಿಗೆ ಮಾಧ್ಯಮಗಳ ಮೇಲೆ ಬರೆಯುವ ತಂತ್ರ, ಬರವಣಿಗೆ ಉಪಕರಣಗಳು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಲಿಪಿ ವಿಕಾಸದಿಂದ ಕನ್ನಡ ಸೇರಿದಂತೆ ದಕ್ಷಿಣ ಭಾರತೀಯ ಲಿಪಿಗಳಲ್ಲಿ ವಿಕಾಸದ ಅಕ್ಷರರೂಪಗಳು ಬಳಸಿವೆ",
+        "B": "ಯಾವುದೇ ಕಾರಣವಿಲ್ಲ",
+        "C": "ಕೇವಲ ಅಲಂಕಾರಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳಿಗಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಳೆಗರಿ ಮತ್ತು ಇತರ ಬರವಣಿಗೆ ಮಾಧ್ಯಮಗಳ ಮೇಲೆ ಬರೆಯುವ ತಂತ್ರ, ಬರವಣಿಗೆ ಉಪಕರಣಗಳು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಲಿಪಿ ವಿಕಾಸದಿಂದ ಕನ್ನಡ ಸೇರಿದಂತೆ ದಕ್ಷಿಣ ಭಾರತೀಯ ಲಿಪಿಗಳಲ್ಲಿ ವಿಕಾಸದ ಅಕ್ಷರರೂಪಗಳು ಬಳಸಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN052",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Halegannada",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆಯ ಪ್ರಾಚೀನ ಸಾಹಿತ್ಯಿಕ ಮತ್ತು ಶಾಸನಿಕ ಹಂತ",
+        "B": "ಆಧುನಿಕ ಕನ್ನಡ",
+        "C": "ನಡುಗನ್ನಡ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಪ್ರಾಚೀನ ಸಾಹಿತ್ಯಿಕ ಮತ್ತು ಶಾಸನಿಕ ಹಂತವನ್ನು ಹಳೆಗನ್ನಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನದಿಂದ ಸುಮಾರು 12ನೇ ಶತಮಾನದವರೆಗಿನ ಭಾಷಾ ರೂಪಗಳನ್ನು ಈ ಹಂತಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN053",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Halegannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳೇನು?",
+      "options": {
+        "A": "ವಿಭಕ್ತಿ ಮತ್ತು ಕ್ರಿಯಾಪದ ರೂಪಗಳಲ್ಲಿ ಪ್ರಾಚೀನ ಪ್ರತ್ಯಯಗಳು, ವಿಶೇಷ ಪದರೂಪಗಳು, ಸಂಧಿ-ಸಮಾಸಗಳ ಬಳಕೆ, ಕಾವ್ಯದಲ್ಲಿ ಛಂದಸ್ಸಿನ ಕಟ್ಟುನಿಟ್ಟು ಮತ್ತು ಸಂಸ್ಕೃತ-ಪ್ರಾಕೃತ ಮೂಲದ ಪದಗಳ ಬಳಕೆ",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ಪದಗಳು",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳು",
+        "D": "ಕೇವಲ ಹಿಂದಿ ಪದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಭಕ್ತಿ ಮತ್ತು ಕ್ರಿಯಾಪದ ರೂಪಗಳಲ್ಲಿ ಪ್ರಾಚೀನ ಪ್ರತ್ಯಯಗಳು, ವಿಶೇಷ ಪದರೂಪಗಳು, ಸಂಧಿ-ಸಮಾಸಗಳ ಬಳಕೆ, ಕಾವ್ಯದಲ್ಲಿ ಛಂದಸ್ಸಿನ ಕಟ್ಟುನಿಟ್ಟು ಮತ್ತು ಸಂಸ್ಕೃತ-ಪ್ರಾಕೃತ ಮೂಲದ ಪದಗಳ ಬಳಕೆ ಹಳೆಗನ್ನಡದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN054",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Halegannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡದ ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪಂಪ (ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ), ಪೊನ್ನ (ಶಾಂತಿಪುರಾಣ), ರನ್ನ (ಗದಾಯುದ್ಧ, ಅಜಿತಪುರಾಣ)",
+        "B": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ, ಹರಿಹರ",
+        "C": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು",
+        "D": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನ ಹಳೆಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN055",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Nadugannada",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡದಿಂದ ಹೊಸಗನ್ನಡಕ್ಕೆ ಸಾಗುವ ಮಧ್ಯಂತರ ಭಾಷಾ ಹಂತ",
+        "B": "ಆಧುನಿಕ ಕನ್ನಡ",
+        "C": "ಪ್ರಾಚೀನ ಕನ್ನಡ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡದಿಂದ ಹೊಸಗನ್ನಡಕ್ಕೆ ಸಾಗುವ ಮಧ್ಯಂತರ ಭಾಷಾ ಹಂತವನ್ನು ನಡುಗನ್ನಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಸಾಮಾನ್ಯವಾಗಿ ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 17ನೇ ಶತಮಾನದವರೆಗಿನ ರೂಪಗಳನ್ನು ಈ ಹಂತದಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN056",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Nadugannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡದ ಪ್ರಮುಖ ಭಾಷಾ ಮತ್ತು ಸಾಹಿತ್ಯಿಕ ಲಕ್ಷಣಗಳೇನು?",
+      "options": {
+        "A": "ಪದರೂಪ ಮತ್ತು ವಾಕ್ಯರಚನೆಯಲ್ಲಿ ಬದಲಾವಣೆ, ಜನಭಾಷೆ ಪ್ರಭಾವ, ವಚನ ಸಾಹಿತ್ಯ, ರಗಳೆ, ಷಟ್ಪದಿ, ಕೀರ್ತನೆ ಮತ್ತು ಭಕ್ತಿ ಸಾಹಿತ್ಯ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್",
+        "D": "ಕೇವಲ ಪ್ರಾಕೃತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದರೂಪ ಮತ್ತು ವಾಕ್ಯರಚನೆಯಲ್ಲಿ ಬದಲಾವಣೆ, ಜನಭಾಷೆ ಪ್ರಭಾವ, ವಚನ ಸಾಹಿತ್ಯ, ರಗಳೆ, ಷಟ್ಪದಿ, ಕೀರ್ತನೆ ಮತ್ತು ಭಕ್ತಿ ಸಾಹಿತ್ಯ ನಡುಗನ್ನಡದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN057",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Nadugannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡದ ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವಚನ, ರಗಳೆ, ಷಟ್ಪದಿ ಕಾವ್ಯ, ಮಹಾಕಾವ್ಯ, ಕೀರ್ತನೆ ಮತ್ತು ಭಕ್ತಿಗೀತೆಗಳು",
+        "B": "ಕೇವಲ ಗದ್ಯ",
+        "C": "ಕೇವಲ ನಾಟಕ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ, ರಗಳೆ, ಷಟ್ಪದಿ ಕಾವ್ಯ, ಮಹಾಕಾವ್ಯ, ಕೀರ್ತನೆ ಮತ್ತು ಭಕ್ತಿಗೀತೆಗಳು ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN058",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Hosagannada",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ ಎಂದರೇನು?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡದ ನಂತರ ರೂಪುಗೊಂಡ ಇಂದಿನ ಕನ್ನಡಕ್ಕೆ ಆಧಾರವಾದ ಭಾಷಾ ಹಂತ",
+        "B": "ಪ್ರಾಚೀನ ಕನ್ನಡ",
+        "C": "ಸಂಸ್ಕೃತ",
+        "D": "ಪ್ರಾಕೃತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಡುಗನ್ನಡದ ನಂತರ ರೂಪುಗೊಂಡ ಇಂದಿನ ಕನ್ನಡಕ್ಕೆ ಆಧಾರವಾದ ಭಾಷಾ ಹಂತವನ್ನು ಹೊಸಗನ್ನಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಸಾಮಾನ್ಯವಾಗಿ 17ನೇ ಶತಮಾನದಿಂದ ಮುಂದಿನ ಭಾಷಾ ಬೆಳವಣಿಗೆಗಳನ್ನು ಈ ಹಂತದಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN059",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Hosagannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡದ ಬೆಳವಣಿಗೆಗೆ ಯಾವ ಅಂಶಗಳು ಕಾರಣವಾದವು?",
+      "options": {
+        "A": "ಮುದ್ರಣ ತಂತ್ರಜ್ಞಾನ, ಶಾಲಾ-ಕಾಲೇಜು ಶಿಕ್ಷಣ, ನೋಟ್ಬುಕು ಮತ್ತು ವ್ಯಾಕರಣ ರಚನೆ, ಪತ್ರಿಕೆಗಳು, ಅನುವಾದ, ಕಾದಂಬರಿ-ನಾಟಕ-ಪ್ರಬಂಧಗಳ ಬೆಳವಣಿಗೆ, ಆಡಳಿತ ಮತ್ತು ಮಾಧ್ಯಮಗಳ ಬಳಕೆ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳು",
+        "C": "ಕೇವಲ ರಾಜರ ಆಶ್ರಯ",
+        "D": "ಕೇವಲ ವಿದೇಶಿ ಪ್ರಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುದ್ರಣ ತಂತ್ರಜ್ಞಾನ, ಶಾಲಾ-ಕಾಲೇಜು ಶಿಕ್ಷಣ, ನೋಟ್ಬುಕು ಮತ್ತು ವ್ಯಾಕರಣ ರಚನೆ, ಪತ್ರಿಕೆಗಳು, ಅನುವಾದ, ಕಾದಂಬರಿ-ನಾಟಕ-ಪ್ರಬಂಧಗಳ ಬೆಳವಣಿಗೆ, ಆಡಳಿತ ಮತ್ತು ಮಾಧ್ಯಮಗಳ ಬಳಕೆ ಆಧುನಿಕ ಕನ್ನಡದ ಪ್ರಮಾಣೀಕರಣಕ್ಕೆ ಕಾರಣವಾದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN060",
+      "subject": "Kannada",
+      "topic": "Kannada Language Stages",
+      "chapter": "Stage Comparison",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ ಮತ್ತು ಹೊಸಗನ್ನಡದ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಹೇಗೆ ಸ್ಪಷ್ಟಪಡಿಸಬಹುದು?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡವು ಪ್ರಾಚೀನ ಶಾಸನ-ಕಾವ್ಯ ಭಾಷೆ; ನಡುಗನ್ನಡದಲ್ಲಿ ವಚನ ಮತ್ತು ಭಕ್ತಿ ಸಾಹಿತ್ಯದ ಮಧ್ಯಂತರ ಬಳಕೆಗಳ ಭಾಷೆ; ಹೊಸಗನ್ನಡದಲ್ಲಿ ಇಂದಿನ ಪ್ರಮಾಣಿತ ಕನ್ನಡದತ್ತ ಸಾಗಿದ ನಂತರ ರೂಪ",
+        "B": "ಎಲ್ಲಾ ಒಂದೇ ರೀತಿ",
+        "C": "ಹಳೆಗನ್ನಡ ಆಧುನಿಕ; ಹೊಸಗನ್ನಡ ಪ್ರಾಚೀನ",
+        "D": "ನಡುಗನ್ನಡ ಮತ್ತು ಹೊಸಗನ್ನಡ ಒಂದೇ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡವು ಪ್ರಾಚೀನ ಶಾಸನ-ಕಾವ್ಯ ಭಾಷೆ; ನಡುಗನ್ನಡದಲ್ಲಿ ವಚನ ಮತ್ತು ಭಕ್ತಿ ಸಾಹಿತ್ಯದ ಮಧ್ಯಂತರ ಬಳಕೆಗಳ ಭಾಷೆ; ಹೊಸಗನ್ನಡದಲ್ಲಿ ಇಂದಿನ ಪ್ರಮಾಣಿತ ಕನ್ನಡದತ್ತ ಸಾಗಿದ ನಂತರ ರೂಪ. ಈ ಕಟ್ಟುನಿಟ್ಟಾದ ಗೋಡೆಗಳಲ್ಲ; ಭಾಷಾ ಬದಲಾವಣೆ ನಿರಂತರವಾಗಿರುತ್ತದಿಂದ ಹಂತಗಳ ನಡುವೆ ಅತಿಕ್ರಮಣವಿರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN061",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Definition",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಉಪಭಾಷೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಭಾಷೆಯ ಭೌಗೋಳಿಕ ಪ್ರದೇಶ ಅಥವಾ ಸಮುದಾಯದ ಆಧಾರದ ಮೇಲೆ ಉಚ್ಚಾರಣೆ, ಪದಸಂಪತ್ತು, ವ್ಯಾಕರಣ ಅಥವಾ ವಾಕ್ಯರಚನೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಪ್ರಾದೇಶಿಕ ರೂಪಾಂತರ",
+        "B": "ಸಂಪೂರ್ಣ ಬೇರೆ ಭಾಷೆ",
+        "C": "ಕೇವಲ ಲಿಪಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಪ್ರಕಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಭಾಷೆಯ ಭೌಗೋಳಿಕ ಪ್ರದೇಶ ಅಥವಾ ಸಮುದಾಯದ ಆಧಾರದ ಮೇಲೆ ಉಚ್ಚಾರಣೆ, ಪದಸಂಪತ್ತು, ವ್ಯಾಕರಣ ಅಥವಾ ವಾಕ್ಯರಚನೆಯಲ್ಲಿ ಕಂಡುಬರುವ ಪ್ರಾದೇಶಿಕ ರೂಪಾಂತರವನ್ನು ಉಪಭಾಷೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN062",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Factors",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಾದೇಶಿಕ ಉಪಭಾಷೆಗಳು ಯಾವ ಅಂಶಗಳಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತವೆ?",
+      "options": {
+        "A": "ಭೌಗೋಳಿಕ ಅಂತರ, ನೆರೆ-ಭಾಷೆಗಳ ಸಂಪರ್ಕ, ವಲಸೆ, ವ್ಯಾಪಾರ, ಸಾಮಾಜಿಕ ಇತಿಹಾಸ, ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧ ಮತ್ತು ಸಮುದಾಯಗಳ ನಡುವಿನ ಸಂವಹನ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾರಣಗಳು",
+        "D": "ಕೇವಲ ಶಿಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭೌಗೋಳಿಕ ಅಂತರ, ನೆರೆ-ಭಾಷೆಗಳ ಸಂಪರ್ಕ, ವಲಸೆ, ವ್ಯಾಪಾರ, ಸಾಮಾಜಿಕ ಇತಿಹಾಸ, ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧ ಮತ್ತು ಸಮುದಾಯಗಳ ನಡುವಿನ ಸಂವಹನದಿಂದ ಉಪಭಾಷಾ ವ್ಯತ್ಯಾಸಗಳು ಬಳಸುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN063",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Major Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ಕನ್ನಡ ರೂಪಗಳನ್ನು ಹೆಸರಿಸಿ.",
+      "options": {
+        "A": "ಮೈಸೂರು-ಬೆಂಗಳೂರು ಭಾಗದ ದಕ್ಷಿಣ/ಮಧ್ಯ ಕನ್ನಡ, ಧಾರವಾಡ-ಹುಬ್ಬಳ್ಳಿ ಭಾಗದ ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಮಂಗಳೂರು-ಉಡುಪಿ ಭಾಗದ ಕರಾವಳಿ ಕನ್ನಡ, ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ/ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಭಾಗದ ಕನ್ನಡ",
+        "B": "ಕೇವಲ ಮೈಸೂರು ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ",
+        "D": "ಕೇವಲ ಕರಾವಳಿ ಕನ್ನಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೈಸೂರು-ಬೆಂಗಳೂರು ಭಾಗದ ದಕ್ಷಿಣ/ಮಧ್ಯ ಕನ್ನಡ, ಧಾರವಾಡ-ಹುಬ್ಬಳ್ಳಿ ಭಾಗದ ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಮಂಗಳೂರು-ಉಡುಪಿ ಭಾಗದ ಕರಾವಳಿ ಕನ್ನಡ, ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ/ಕಲ್ಯಾಣ ಕರ್ನಾಟಕ ಭಾಗದ ಕನ್ನಡ ಮತ್ತು ಮಲೆನಾಡು ಪ್ರದೇಶದ ಕನ್ನಡ ರೂಪಗಳು ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ರೂಪಗಳಾಗಿವೆ. ಇವುಗಳ ಒಳಗೂ ಸ್ಥಳೀಯ ವ್ಯತ್ಯಾಸಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN064",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Uttara Karnataka Dialect",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡದ ಕೆಲವು ಸಾಮಾನ್ಯ ಲಕ್ಷಣಗಳೇನು?",
+      "options": {
+        "A": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಹಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ವಿಶೇಷ ಉಚ್ಚಾರಣೆ, ಪದಸಂಪತ್ತು ಮತ್ತು ಕ್ರಿಯಾಪದದ ಬಳಕೆ ಕಂಡುಬರುತ್ತದೆ. ಮರಾಠಿ, ಉರ್ದು ಮತ್ತು ಇತರ ಭಾಷೆಗಳ ಸಂಪರ್ಕದಿಂದ ಕೆಲವು ಸ್ಥಳೀಯ ಪದವಿನ್ಯಾಸಗಳು ರೂಪುಗೊಂಡಿವೆ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಪದಗಳು",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳು",
+        "D": "ಯಾವುದೇ ವಿಶೇಷತೆ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಹಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ವಿಶೇಷ ಉಚ್ಚಾರಣೆ, ಪದಸಂಪತ್ತು ಮತ್ತು ಕ್ರಿಯಾಪದದ ಬಳಕೆ ಕಂಡುಬರುತ್ತದೆ. ಮರಾಠಿ, ಉರ್ದು ಮತ್ತು ಇತರ ಭಾಷೆಗಳ ಸಂಪರ್ಕದಿಂದ ಕೆಲವು ಸ್ಥಳೀಯ ಪದವಿನ್ಯಾಸಗಳು ರೂಪುಗೊಂಡಿವೆ. ಆದರೆ ಎಲ್ಲಾ ಉತ್ತರ ಕರ್ನಾಟಕ ಪ್ರದೇಶಗಳ ಮಾತು ಒಂದೇ ರೀತಿಯಲ್ಲ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN065",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Coastal Dialect",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಾವಳಿ ಕನ್ನಡದ ಮೇಲೆ ಯಾವ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ತುಳು, ಕೊಂಕಣಿ, ಮಲಯಾಳಂ ಮತ್ತು ಬ್ಯಾರಿ ಭಾಷೆಗಳ ಸಂಪರ್ಕದಿಂದ ಕರಾವಳಿ ಪ್ರದೇಶದ ಕನ್ನಡದಲ್ಲಿ ಸ್ಥಳೀಯ ಪದಸಂಪತ್ತು ಮತ್ತು ಉಚ್ಚಾರಣಾ ವೈಶಿಷ್ಟ್ಯಗಳು ಕಂಡುಬರುತ್ತವೆ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "C": "ಕೇವಲ ಹಿಂದಿ",
+        "D": "ಕೇವಲ ಫ್ರೆಂಚ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತುಳು, ಕೊಂಕಣಿ, ಮಲಯಾಳಂ ಮತ್ತು ಬ್ಯಾರಿ ಭಾಷೆಗಳ ಸಂಪರ್ಕದಿಂದ ಕರಾವಳಿ ಪ್ರದೇಶದ ಕನ್ನಡದಲ್ಲಿ ಸ್ಥಳೀಯ ಪದಸಂಪತ್ತು ಮತ್ತು ಉಚ್ಚಾರಣಾ ವೈಶಿಷ್ಟ್ಯಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN066",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Malnad Dialect",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಲೆನಾಡು ಕನ್ನಡದ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+      "options": {
+        "A": "ಮಲೆನಾಡಿನ ಭೌಗೋಳಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿಸರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪದಸಂಪತ್ತು, ಉಚ್ಚಾರಣೆ ಮತ್ತು ಸ್ಥಳೀಯ ವಾಕ್ಯರೀತಿಗಳು ಮಲೆನಾಡು ಕನ್ನಡದ ವೈವಿಧ್ಯವನ್ನು ರೂಪಿಸುತ್ತವೆ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್",
+        "D": "ಯಾವುದೇ ವಿಶೇಷತೆ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಲೆನಾಡಿನ ಭೌಗೋಳಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಪರಿಸರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪದಸಂಪತ್ತು, ಉಚ್ಚಾರಣೆ ಮತ್ತು ಸ್ಥಳೀಯ ವಾಕ್ಯರೀತಿಗಳು ಮಲೆನಾಡು ಕನ್ನಡದ ವೈವಿಧ್ಯವನ್ನು ರೂಪಿಸುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN067",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Social Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಮಾಜಿಕ ಉಪಭಾಷೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವಯಸ್ಸು, ವೃತ್ತಿ, ಶಿಕ್ಷಣ, ಸಾಮಾಜಿಕ ಗುಂಪು, ಸಮುದಾಯ, ಜೀವನಶೈಲಿ ಅಥವಾ ಸೊರೊಡಿತಿ ವಲಯದ ಆಧಾರದ ಮೇಲೆ ಒಂದು ಭಾಷೆಯಲ್ಲಿ ರೂಪುಗೊಳ್ಳುವ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಸಾಮಾಜಿಕ ಉಪಭಾಷೆ ಅಥವಾ ಸಮಾಜಭಾಷಾ ರೂಪ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಕೇವಲ ಭೌಗೋಳಿಕ ವ್ಯತ್ಯಾಸ",
+        "C": "ಕೇವಲ ಲಿಪಿ ವ್ಯತ್ಯಾಸ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ವ್ಯತ್ಯಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಯಸ್ಸು, ವೃತ್ತಿ, ಶಿಕ್ಷಣ, ಸಾಮಾಜಿಕ ಗುಂಪು, ಸಮುದಾಯ, ಜೀವನಶೈಲಿ ಅಥವಾ ಸೊರೊಡಿತಿ ವಲಯದ ಆಧಾರದ ಮೇಲೆ ಒಂದು ಭಾಷೆಯಲ್ಲಿ ರೂಪುಗೊಳ್ಳುವ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಸಾಮಾಜಿಕ ಉಪಭಾಷೆ ಅಥವಾ ಸಮಾಜಭಾಷಾ ರೂಪ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+        {
+      "id": "KAN069",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect vs Standard",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೃತ್ತಿಪರ ಭಾಷಾರೂಪಗಳಿಗೆ ಉದಾಹರಣೆ ನೀಡಿ.",
+      "options": {
+        "A": "ಕೃಷಿ, ಮೀನುಗಾರಿಕೆ, ನೇಕಾರಿಕೆ, ವೈದ್ಯಕೀಯ, ಕಾನೂನು, ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ವ್ಯಾಪಾರ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ಬಳಸುವ ವಿಶೇಷ ಪದಗಳು",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಪದಗಳು",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳು",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಪದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೃಷಿ, ಮೀನುಗಾರಿಕೆ, ನೇಕಾರಿಕೆ, ವೈದ್ಯಕೀಯ, ಕಾನೂನು, ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ವ್ಯಾಪಾರ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ಬಳಸುವ ವಿಶೇಷ ಪದಗಳು ವೃತ್ತಿಪರ ಭಾಷಾರೂಪಗಳ ಉದಾಹರಣೆಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN070",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Standard Kannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಮಾಣಿತ ಕನ್ನಡ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಶಿಕ್ಷಣ, ಆಡಳಿತ, ಮಾಧ್ಯಮ ಮತ್ತು ಅಧಿಕೃತ ಬರವಣಿಗೆಗಳಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಸ್ವೀಕರಿಸಲ್ಪಟ್ಟ ನಿಯಮಿತ ಲಿಖಿತ ರೂಪವನ್ನು ಪ್ರಮಾಣಿತ ಕನ್ನಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಕೇವಲ ಉಪಭಾಷೆ",
+        "C": "ಕೇವಲ ಪ್ರಾದೇಶಿಕ ಭಾಷೆ",
+        "D": "ಕೇವಲ ವೃತ್ತಿಪರ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿಕ್ಷಣ, ಆಡಳಿತ, ಮಾಧ್ಯಮ ಮತ್ತು ಅಧಿಕೃತ ಬರವಣಿಗೆಗಳಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಸ್ವೀಕರಿಸಲ್ಪಟ್ಟ ನಿಯಮಿತ ಲಿಖಿತ ರೂಪವನ್ನು ಪ್ರಮಾಣಿತ ಕನ್ನಡ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಪ್ರಮಾಣಿತ ರೂಪವು ಪ್ರಾದೇಶಿಕ ಉಪಭಾಷೆಗಳನ್ನು ತಪ್ಪು ಅಥವಾ ಕೀಳು ರೂಪಗಳಾಗಿ ಮಾಡಲ್ಲ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN071",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Importance",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ವೈವಿಧ್ಯವು ಭಾಷೆಗೆ ಹಾನಿಕರವೇ?",
+      "options": {
+        "A": "ಹೌದು, ಉಪಭಾಷೆಗಳು ಭಾಷೆಯನ್ನು ಹಾಳುಮಾಡುತ್ತವೆ",
+        "B": "ಇಲ್ಲ, ಉಪಭಾಷೆಗಳು ಭಾಷೆಯ ಜೀವಂತಿಕೆ, ಇತಿಹಾಸ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಸಂಪತ್ತನ್ನು ಒಳಗೊಂಡಿವೆ",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಪ್ರಮಾಣಿತ ರೂಪ ಮಾತ್ರ ಮುಖ್ಯ",
+        "D": "ಹೌದು, ಉಪಭಾಷೆಗಳನ್ನು ನಿರ್ಮೂಲನೆ ಮಾಡಬೇಕು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಉಪಭಾಷೆಗಳು ಭಾಷೆಯ ಜೀವಂತಿಕೆ, ಇತಿಹಾಸ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಸಂಪತ್ತನ್ನು ಒಳಗೊಂಡಿವೆ. ಪ್ರಮಾಣಿತ ರೂಪ ಸಹಾಯಕವಾಗಿರಬಹುದು, ಉಪಭಾಷೆಗಳು ಭಾಷೆಯ ಸಮೃದ್ಧ ಭಾಗವಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN072",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Sanskrit Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಪ್ರಭಾವ ಹೇಗೆ ಉಂಟಾಯಿತು?",
+      "options": {
+        "A": "ಧರ್ಮ, ತತ್ವಶಾಸ್ತ್ರ, ಶಿಕ್ಷಣ, ರಾಜಕೀಯ, ಶಾಸನ, ಕಾವ್ಯ ಮತ್ತು ಪಂಡಿತೀಯ ಪರಂಪರೆಯಿಂದ ಮೂಲಕ ಸಂಸ್ಕೃತದ ಪದಗಳು, ಪರಿಕಲ್ಪನೆಗಳು ಮತ್ತು ಸಾಹಿತ್ಯಿಕ ಮಾದರಿಗಳು ಕನ್ನಡಕ್ಕೆ ಬಂದವು",
+        "B": "ಕೇವಲ ಯುದ್ಧದಿಂದ",
+        "C": "ಕೇವಲ ವ್ಯಾಪಾರದಿಂದ",
+        "D": "ಕೇವಲ ಪ್ರವಾಸದಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧರ್ಮ, ತತ್ವಶಾಸ್ತ್ರ, ಶಿಕ್ಷಣ, ರಾಜಕೀಯ, ಶಾಸನ, ಕಾವ್ಯ ಮತ್ತು ಪಂಡಿತೀಯ ಪರಂಪರೆಯಿಂದ ಮೂಲಕ ಸಂಸ್ಕೃತದ ಪದಗಳು, ಪರಿಕಲ್ಪನೆಗಳು ಮತ್ತು ಸಾಹಿತ್ಯಿಕ ಮಾದರಿಗಳು ಕನ್ನಡಕ್ಕೆ ಬಂದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN073",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Sanskrit Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಪ್ರಾಕೃತ ಭಾಷೆಯ ಪ್ರಭಾವ ಎಷ್ಟು ಮಹತ್ವದ್ದಾಗಿದೆ?",
+      "options": {
+        "A": "ಪ್ರಾಕೃತವು ಪ್ರಾಚೀನ ಭಾರತದ ಆಡಳಿತ, ಧರ್ಮ ಮತ್ತು ಸಾಹಿತ್ಯಿಕ ಸಂವಹನದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿತ್ತು. ಜೈನ-ಬೌದ್ಧ ಪರಂಪರೆ, ವ್ಯಾಪಾರ ಮತ್ತು ಶಾಸನಗಳ ಸಂಬಂಧದಿಂದ ಪ್ರಾಕೃತದ ಪದಗಳು ಹಾಗೂ ಸಾಹಿತ್ಯಿಕ ಅಂಶಗಳು ಕನ್ನಡದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವು",
+        "B": "ಪ್ರಾಕೃತದ ಪ್ರಭಾವ ಇಲ್ಲ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತದ ಪ್ರಭಾವ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪ್ರಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಕೃತವು ಪ್ರಾಚೀನ ಭಾರತದ ಆಡಳಿತ, ಧರ್ಮ ಮತ್ತು ಸಾಹಿತ್ಯಿಕ ಸಂವಹನದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿತ್ತು. ಜೈನ-ಬೌದ್ಧ ಪರಂಪರೆ, ವ್ಯಾಪಾರ ಮತ್ತು ಶಾಸನಗಳ ಸಂಬಂಧದಿಂದ ಪ್ರಾಕೃತದ ಪದಗಳು ಹಾಗೂ ಸಾಹಿತ್ಯಿಕ ಅಂಶಗಳು ಕನ್ನಡದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN074",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Tatsama",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಸಮ ಪದಗಳನ್ನು ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಸ್ವೀಕರಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಕೆಲವು ಸಂಸ್ಕೃತ ಪದಗಳನ್ನು ಬಹುತೇಕ ಮೂಲರೂಪದಲ್ಲೇ ಸ್ವೀಕರಿಸಲಾಗಿದೆ; ಕೆಲವು ಪದಗಳು ಧ್ವನಿ ಬದಲಾವಣೆ ಮತ್ತು ಸ್ಥಳೀಯ ಬಳಕೆಯ ಮೂಲಕ ಪ್ರಮಾಣಿತ ಕನ್ನಡದಲ್ಲಿ ಸ್ವೀಕೃತವಾಗಿವೆ",
+        "B": "ಎಲ್ಲಾ ಪದಗಳು ಬದಲಾಗಿವೆ",
+        "C": "ಯಾವುದೇ ಪದ ಸ್ವೀಕರಿಸಿಲ್ಲ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಸಂಸ್ಕೃತ ಪದಗಳನ್ನು ಬಹುತೇಕ ಮೂಲರೂಪದಲ್ಲೇ ಸ್ವೀಕರಿಸಲಾಗಿದೆ; ಕೆಲವು ಪದಗಳು ಧ್ವನಿ ಬದಲಾವಣೆ ಮತ್ತು ಸ್ಥಳೀಯ ಬಳಕೆಯ ಮೂಲಕ ಪ್ರಮಾಣಿತ ಕನ್ನಡದಲ್ಲಿ ಸ್ವೀಕೃತವಾಗಿವೆ. ಈ ಪರಿಕಲ್ಪನೆಯಿಂದ ತತ್ಸಮ ಮತ್ತು ತದ್ಭವ ಪದಗಳ ವರ್ಗಗಳು ರೂಪುಗೊಂಡಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN075",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Tatsama",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತತ್ಸಮ ಪದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತದಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದು ಮೂಲ ಸಂಸ್ಕೃತ ರೂಪಕ್ಕೆ ಹೆಚ್ಚು ಹತ್ತಿರವಾಗಿ ಉಳಿದ ಪದಗಳನ್ನು ತತ್ಸಮ ಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ರೂಪಾಂತರಗೊಂಡ ಪದ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಬೇರೆ ಭಾಷೆಯಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಸ್ಕೃತದಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದು ಮೂಲ ಸಂಸ್ಕೃತ ರೂಪಕ್ಕೆ ಹೆಚ್ಚು ಹತ್ತಿರವಾಗಿ ಉಳಿದ ಪದಗಳನ್ನು ತತ್ಸಮ ಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗಳು: ವಿದ್ಯೆ, ಮಂತ್ರ, ದೇವ, ಧರ್ಮ, ಶಕ್ತಿ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN076",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Tadbhava",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತದ್ಭವ ಪದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಅಥವಾ ಪ್ರಾಕೃತ ಮೂಲದ ಪದವು ಕಾಲಕ್ರಮೇಣ ಧ್ವನಿ ಮತ್ತು ರೂಪ ಬದಲಾವಣೆಗಳನ್ನು ಪಡೆದು ಕನ್ನಡದಲ್ಲಿ ಬಳಕೆಯಾಗುವ ರೂಪ",
+        "B": "ಸಂಸ್ಕೃತದ ಮೂಲ ರೂಪ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಬೇರೆ ಭಾಷೆಯಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಸ್ಕೃತ ಅಥವಾ ಪ್ರಾಕೃತ ಮೂಲದ ಪದವು ಕಾಲಕ್ರಮೇಣ ಧ್ವನಿ ಮತ್ತು ರೂಪ ಬದಲಾವಣೆಗಳನ್ನು ಪಡೆದು ಕನ್ನಡದಲ್ಲಿ ಬಳಕೆಯಾಗುವ ರೂಪವನ್ನು ತದ್ಭವ ಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN077",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Deshya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೇಶ್ಯ ಪದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಸ್ವಂತ ಪದಸಂಪತ್ತಿಗೆ ಸೇರಿದ ಅಥವಾ ಕನ್ನಡದ ಸ್ಥಳೀಯ ಭಾಷಾ ಪರಂಪರೆಯಲ್ಲಿ ಬೆಳೆದ ಪದವನ್ನು ದೇಶ್ಯ ಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಸಂಸ್ಕೃತದಿಂದ ಬಂದ ಪದ",
+        "C": "ಇಂಗ್ಲಿಷ್‌ನಿಂದ ಬಂದ ಪದ",
+        "D": "ಉರ್ದುವಿನಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಸ್ವಂತ ಪದಸಂಪತ್ತಿಗೆ ಸೇರಿದ ಅಥವಾ ಕನ್ನಡದ ಸ್ಥಳೀಯ ಭಾಷಾ ಪರಂಪರೆಯಲ್ಲಿ ಬೆಳೆದ ಪದವನ್ನು ದೇಶ್ಯ ಪದ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗಳು: ಮನೆ, ಮಣಜು, ಕಣಜು, ನೀರು, ಮಗು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN078",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Anyadeshya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನ್ಯದೇಶ್ಯ/ಅನ್ಯದೇಶೀಯ ಪದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಬೇರೆ ಭಾಷೆಗಳಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದು ಕನ್ನಡದ ಸಮಾನಾರ್ಥ ಬಳಕೆಯಲ್ಲಿ ಸೇರಿಕೊಂಡ ಪದಗಳು",
+        "B": "ಸಂಸ್ಕೃತದಿಂದ ಬಂದ ಪದ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಪ್ರಾಕೃತದಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬೇರೆ ಭಾಷೆಗಳಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದು ಕನ್ನಡದ ಸಮಾನಾರ್ಥ ಬಳಕೆಯಲ್ಲಿ ಸೇರಿಕೊಂಡ ಪದಗಳನ್ನು ಅನ್ಯದೇಶ್ಯ ಪದಗಳು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಉದಾಹರಣೆಗೆ ಉರ್ದು/ಪರ್ಷಿಯನ್ ಮೂಲದ 'ಕಾಗದ', ದರ್ಖಾಸ್ತು, ಇಂಗ್ಲಿಷ್ ಮೂಲದ 'ಬಸ್', 'ರೈಲು', 'ಓಂಕೆಟ್' ಮುಂತಾದ ಪದಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN079",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Categories",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ತತ್ಸಮ, ತದ್ಭವ, ದೇಶ್ಯ ಮತ್ತು ಅನ್ಯದೇಶ್ಯ ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ತತ್ಸಮ ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರ, ತದ್ಭವ ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ಧ್ವನಿಬದಲಾವಣೆಯಿಂದ ಬಂದ ರೂಪ; ದೇಶ್ಯ ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ; ಅನ್ಯದೇಶ್ಯ ಇತರ ಭಾಷೆಗಳಿಂದ ಸ್ವೀಕೃತವಾದ ಪದ",
+        "B": "ಎಲ್ಲಾ ಒಂದೇ",
+        "C": "ತತ್ಸಮ ಮತ್ತು ತದ್ಭವ ಒಂದೇ",
+        "D": "ದೇಶ್ಯ ಮತ್ತು ಅನ್ಯದೇಶ್ಯ ಒಂದೇ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಸಮ ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರ, ತದ್ಭವ ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ಧ್ವನಿಬದಲಾವಣೆಯಿಂದ ಬಂದ ರೂಪ; ದೇಶ್ಯ ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ; ಅನ್ಯದೇಶ್ಯ ಇತರ ಭಾಷೆಗಳಿಂದ ಸ್ವೀಕೃತವಾದ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN080",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Persian and Arabic Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಪರ್ಷಿಯನ್ ಮತ್ತು ಅರೇಬಿಕ್ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಹೇಗೆ ಉಂಟಾಯಿತು?",
+      "options": {
+        "A": "ಮಧ್ಯಯುಗದ ಆಡಳಿತ, ವ್ಯಾಪಾರ, ಸೈನ್ಯ ಸಂಪರ್ಕ ಮತ್ತು ನಗರ ಸಂಸ್ಕೃತಿಗಳ ಮೂಲಕ ಪರ್ಷಿಯನ್ ಮತ್ತು ಅರೇಬಿಕ್ ಮೂಲದ ಪದಗಳು ಕನ್ನಡದ ಬೆಳವಣಿಗೆಗೆ ಬಂದವು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳಿಂದ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣದಿಂದ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯದಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಧ್ಯಯುಗದ ಆಡಳಿತ, ವ್ಯಾಪಾರ, ಸೈನ್ಯ ಸಂಪರ್ಕ ಮತ್ತು ನಗರ ಸಂಸ್ಕೃತಿಗಳ ಮೂಲಕ ಪರ್ಷಿಯನ್ ಮತ್ತು ಅರೇಬಿಕ್ ಮೂಲದ ಪದಗಳು ಕನ್ನಡದ ಬೆಳವಣಿಗೆಗೆ ಬಂದವು. ಅನೇಕ ಪದಗಳು ಉರ್ದು ಅಥವಾ ಇತರ ಸಂಪರ್ಕ ಭಾಷೆಗಳ ಮೂಲಕವೂ ಕನ್ನಡಕ್ಕೆ ಪ್ರವೇಶಿಸಿದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN081",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Urdu Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಉರ್ದು ಭಾಷೆಯ ಪ್ರಭಾವಕ್ಕೆ ಕಾರಣವೇನು?",
+      "options": {
+        "A": "ದಕ್ಷಿಣ ಭಾರತದ ಸುಲ್ತಾನರು, ಹೈದರಾಬಾದ್ ಸಂಸ್ಥಾನ, ನಗರ ಜೀವನ, ವ್ಯಾಪಾರ ಮತ್ತು ದೈನಂದಿನ ಸಂಪರ್ಕಗಳಿಂದ ಉರ್ದು ಮೂಲದ ಪದಗಳು ವಿಶೇಷವಾಗಿ ಕೆಲವು ಪ್ರದೇಶಗಳ ಕನ್ನಡದಲ್ಲಿ ಬೆಳವಣಿಗೆಗೆ ಬಂದವು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳಿಂದ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣದಿಂದ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯದಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಕ್ಷಿಣ ಭಾರತದ ಸುಲ್ತಾನರು, ಹೈದರಾಬಾದ್ ಸಂಸ್ಥಾನ, ನಗರ ಜೀವನ, ವ್ಯಾಪಾರ ಮತ್ತು ದೈನಂದಿನ ಸಂಪರ್ಕಗಳಿಂದ ಉರ್ದು ಮೂಲದ ಪದಗಳು ವಿಶೇಷವಾಗಿ ಕೆಲವು ಪ್ರದೇಶಗಳ ಕನ್ನಡದಲ್ಲಿ ಬೆಳವಣಿಗೆಗೆ ಬಂದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN082",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Marathi Influence",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಮರಾಠಿ ಭಾಷೆಯ ಪ್ರಭಾವ ಎಲ್ಲಿ ಹೆಚ್ಚು ಕಂಡುಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ಮಹಾರಾಷ್ಟ್ರ ಗಡಿಭಾಗ ಮತ್ತು ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ದೀರ್ಘಕಾಲದ ಆಡಳಿತ, ವ್ಯಾಪಾರ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಪರ್ಕದಿಂದ ಮರಾಠಿ ಪದಗಳು ಹಾಗೂ ಪದಪ್ರಯೋಗಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ",
+        "B": "ಕೇವಲ ಕರಾವಳಿ ಪ್ರದೇಶ",
+        "C": "ಕೇವಲ ಮೈಸೂರು ಪ್ರದೇಶ",
+        "D": "ಕೇವಲ ದಕ್ಷಿಣ ಕನ್ನಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾರಾಷ್ಟ್ರ ಗಡಿಭಾಗ ಮತ್ತು ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ದೀರ್ಘಕಾಲದ ಆಡಳಿತ, ವ್ಯಾಪಾರ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಪರ್ಕದಿಂದ ಮರಾಠಿ ಪದಗಳು ಹಾಗೂ ಪದಪ್ರಯೋಗಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN083",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "English Influence",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯ ಪ್ರಭಾವ ಹೇಗೆ ಹೆಚ್ಚಾಯಿತು?",
+      "options": {
+        "A": "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ, ಆಧುನಿಕ ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಕಾನೂನು, ರೈಲು, ಅಂಚೆ, ಕೈಗಾರಿಕೆ ಮತ್ತು ಜಾಗತಿಕ ಸಂಪರ್ಕದಿಂದ ಇಂಗ್ಲಿಷ್ ಪದಗಳು ಕನ್ನಡಕ್ಕೆ ಅನೇಕವಾಗಿ ಬಂದವು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳಿಂದ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯದಿಂದ",
+        "D": "ಕೇವಲ ವ್ಯಾಪಾರದಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ, ಆಧುನಿಕ ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಕಾನೂನು, ರೈಲು, ಅಂಚೆ, ಕೈಗಾರಿಕೆ ಮತ್ತು ಜಾಗತಿಕ ಸಂಪರ್ಕದಿಂದ ಇಂಗ್ಲಿಷ್ ಪದಗಳು ಕನ್ನಡಕ್ಕೆ ಅನೇಕವಾಗಿ ಬಂದವು. ಉದಾಹರಣೆಗಳು: ಶಲ್ಯ (ಮೂಲದ ಬಗ್ಗೆ ಪರಿಶೋಧನೆ ಅಗತ್ಯ), ಕಾಲೇಜು, ಬಸ್, ರೈಲು, ಕಂಪ್ಯೂಟರ್, ಮೊಬೈಲ್.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN084",
+      "subject": "Kannada",
+      "topic": "Kannada Language Contact",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಸಂಪರ್ಕ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಭಾಷೆಗಳನ್ನು ಮಾತನಾಡುವ ಜನರು ನಿರಂತರವಾಗಿ ಪರಸ್ಪರ ಸಂಪರ್ಕದಲ್ಲಿದ್ದಾಗ ಪದಗಳು, ಉಚ್ಚಾರಣೆ, ವ್ಯಾಕರಣ ಅಥವಾ ಅಭಿವ್ಯಕ್ತಿಗಳು ಪರಸ್ಪರ ಪ್ರಭಾವ ಬೀರುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಭಾಷಾ ಸಂಪರ್ಕ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಸಂಪರ್ಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಸಂಪರ್ಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಭಾಷೆಗಳನ್ನು ಮಾತನಾಡುವ ಜನರು ನಿರಂತರವಾಗಿ ಪರಸ್ಪರ ಸಂಪರ್ಕದಲ್ಲಿದ್ದಾಗ ಪದಗಳು, ಉಚ್ಚಾರಣೆ, ವ್ಯಾಕರಣ ಅಥವಾ ಅಭಿವ್ಯಕ್ತಿಗಳು ಪರಸ್ಪರ ಪ್ರಭಾವ ಬೀರುವ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಭಾಷಾ ಸಂಪರ್ಕ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN085",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Adaptation",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಸ್ವೀಕರಣ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಭಾಷೆಯಲ್ಲಿ ಮತ್ತೊಂದು ಭಾಷೆಯಿಂದ ಪದ, ಧ್ವನಿ, ರೂಪ, ವಾಕ್ಯರಚನೆ ಅಥವಾ ಪರಿಕಲ್ಪನೆಯನ್ನು ಸ್ವೀಕರಿಸಿ ಅಳವಡಿಸಿಕೊಳ್ಳುವುದನ್ನು ಭಾಷಾ ಸ್ವೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ",
+        "B": "ಭಾಷೆ ಬದಲಾವಣೆ",
+        "C": "ಧ್ವನಿ ಪರಿವರ್ತನೆ",
+        "D": "ಅರ್ಥ ಪರಿವರ್ತನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಭಾಷೆಯಲ್ಲಿ ಮತ್ತೊಂದು ಭಾಷೆಯಿಂದ ಪದ, ಧ್ವನಿ, ರೂಪ, ವಾಕ್ಯರಚನೆ ಅಥವಾ ಪರಿಕಲ್ಪನೆಯನ್ನು ಸ್ವೀಕರಿಸಿ ಅಳವಡಿಸಿಕೊಳ್ಳುವುದನ್ನು ಭಾಷಾ ಸ್ವೀಕರಣ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN086",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Adaptation",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಸ್ವೀಕರಣಕ್ಕೆ ಪ್ರಮುಖ ಕಾರಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವ್ಯಾಪಾರ, ವಲಸೆ, ಆಡಳಿತ, ಧರ್ಮ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಯುದ್ಧ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಹೊಸ ಪದ-ಪರಿಕಲ್ಪನೆಗಳ ಅಗತ್ಯ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾರಣ",
+        "D": "ಕೇವಲ ಶಿಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಾಪಾರ, ವಲಸೆ, ಆಡಳಿತ, ಧರ್ಮ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಯುದ್ಧ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಹೊಸ ಪದ-ಪರಿಕಲ್ಪನೆಗಳ ಅಗತ್ಯ ಭಾಷಾ ಸ್ವೀಕರಣಕ್ಕೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN087",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Adaptation",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ವೀಕೃತ ಪದವು ಕನ್ನಡದಲ್ಲಿ ಬಂದ ನಂತರ ಎನಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಅದು ಕನ್ನಡದ ಧ್ವನಿ ವ್ಯವಸ್ಥೆ, ಉಚ್ಚಾರಣೆ, ಲಿಂಗ-ವಚನ, ವಿಭಕ್ತಿ ಮತ್ತು ವಾಕ್ಯಪ್ರಯೋಗಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ",
+        "B": "ಬದಲಾಗುವುದಿಲ್ಲ",
+        "C": "ಸಂಸ್ಕೃತವಾಗುತ್ತದೆ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಆಗುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅದು ಕನ್ನಡದ ಧ್ವನಿ ವ್ಯವಸ್ಥೆ, ಉಚ್ಚಾರಣೆ, ಲಿಂಗ-ವಚನ, ವಿಭಕ್ತಿ ಮತ್ತು ವಾಕ್ಯಪ್ರಯೋಗಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ. ಉದಾಹರಣೆಗೆ ಇಂಗ್ಲಿಷ್ ಪದವು ಕನ್ನಡದಲ್ಲಿ 'ಬಸ್', 'ಬಸ್ಸು', 'ಬಸ್ನಲ್ಲಿ' ಎಂಬ ರೂಪಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+        {
+      "id": "KAN089",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಪರಿವರ್ತನೆಗೆ ಕಾರಣಗಳೇನು?",
+      "options": {
+        "A": "ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಉಚ್ಚಾರಣೆಯ ಬದಲಾವಣೆ, ಭಾಷಾ ಸಂಪರ್ಕ, ಸಾಮಾಜಿಕ ಬದಲಾವಣೆ, ಹೊಸ ತಂತ್ರಜ್ಞಾನ, ವಲಸೆ, ಶಿಕ್ಷಣ, ಮಾಧ್ಯಮ, ನಗರೀಕರಣ ಮತ್ತು ಹೊಸ ಅರ್ಥಗಳ ಅಗತ್ಯ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾರಣ",
+        "D": "ಕೇವಲ ಶಿಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಉಚ್ಚಾರಣೆಯ ಬದಲಾವಣೆ, ಭಾಷಾ ಸಂಪರ್ಕ, ಸಾಮಾಜಿಕ ಬದಲಾವಣೆ, ಹೊಸ ತಂತ್ರಜ್ಞಾನ, ವಲಸೆ, ಶಿಕ್ಷಣ, ಮಾಧ್ಯಮ, ನಗರೀಕರಣ ಮತ್ತು ಹೊಸ ಅರ್ಥಗಳ ಅಗತ್ಯ ಭಾಷಾ ಪರಿವರ್ತನೆಗೆ ಕಾರಣವಾಗುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN090",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Phonetic Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧ್ವನಿ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾಲಕ್ರಮೇಣ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಉಂಟಾಗುವ ನಿಯಮಿತ ಅಥವಾ ಅನಿಯಮಿತ ಬದಲಾವಣೆ",
+        "B": "ಕೇವಲ ಅರ್ಥ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಪದ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಲಕ್ರಮೇಣ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಉಂಟಾಗುವ ನಿಯಮಿತ ಅಥವಾ ಅನಿಯಮಿತ ಬದಲಾವಣೆಯನ್ನು ಧ್ವನಿ ಪರಿವರ್ತನೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN091",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Semantic Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅರ್ಥ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಪದದ ಅರ್ಥ ಕಾಲಕ್ರಮೇಣ ವಿಸ್ತರಿಸುವುದು, ಸೀಮಿತಗೊಳ್ಳುವುದು ಅಥವಾ ಬೇರೆ ಅರ್ಥ ಪಡೆಯುವುದು",
+        "B": "ಕೇವಲ ಧ್ವನಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಪದ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಪದದ ಅರ್ಥ ಕಾಲಕ್ರಮೇಣ ವಿಸ್ತರಿಸುವುದು, ಸೀಮಿತಗೊಳ್ಳುವುದು ಅಥವಾ ಬೇರೆ ಅರ್ಥ ಪಡೆಯುವುದನ್ನು ಅರ್ಥ ಪರಿವರ್ತನೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN092",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Lexical Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದಸಂಪತ್ತಿನ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹೊಸ ಪದಗಳು ಭಾಷೆಗೆ ಸೇರುತ್ತವೆ, ಹಳೆಯ ಪದಗಳು ಬಳಕೆಯಿಂದ ಕಡಿಮೆಯಾಗುತ್ತವೆ, ಹೊಸ ಅರ್ಥಗಳು ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಸ್ವೀಕೃತ ಪದಗಳು ಸಮನ್ವಯಗೊಳ್ಳುತ್ತವೆ",
+        "B": "ಕೇವಲ ಧ್ವನಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಅರ್ಥ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹೊಸ ಪದಗಳು ಭಾಷೆಗೆ ಸೇರುತ್ತವೆ, ಹಳೆಯ ಪದಗಳು ಬಳಕೆಯಿಂದ ಕಡಿಮೆಯಾಗುತ್ತವೆ, ಹೊಸ ಅರ್ಥಗಳು ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ ಮತ್ತು ಸ್ವೀಕೃತ ಪದಗಳು ಸಮನ್ವಯಗೊಳ್ಳುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN093",
+      "subject": "Kannada",
+      "topic": "Kannada Style",
+      "chapter": "Standard Language",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಶುದ್ಧತೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಸ್ಪಷ್ಟ, ವ್ಯಾಕರಣಸಮ್ಮತ, ಅರ್ಥಪೂರ್ಣ ಮತ್ತು ಓದುಗರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯನ್ನು ಬಳಸುವುದನ್ನು ಭಾಷಾ ಶುದ್ಧತೆಯ ಪ್ರಕ್ರಿಯೆ ಎಂದು ಅರ್ಥೈಸಬಹುದು",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಪದಗಳ ಬಳಕೆ",
+        "C": "ಕೇವಲ ದೇಶ್ಯ ಪದಗಳ ಬಳಕೆ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳ ಬಳಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಸ್ಪಷ್ಟ, ವ್ಯಾಕರಣಸಮ್ಮತ, ಅರ್ಥಪೂರ್ಣ ಮತ್ತು ಓದುಗರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯನ್ನು ಬಳಸುವುದನ್ನು ಭಾಷಾ ಶುದ್ಧತೆಯ ಪ್ರಕ್ರಿಯೆ ಎಂದು ಅರ್ಥೈಸಬಹುದು. ಶುದ್ಧತೆ ಎಂದರೆ ಇತರ ಭಾಷೆಗಳ ಪದಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಿರಸ್ಕರಿಸುವುದಲ್ಲ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN094",
+      "subject": "Kannada",
+      "topic": "Kannada Style",
+      "chapter": "Standard Language",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾಬಳಕೆಯಲ್ಲಿ ಪ್ರಮಾಣೀಕೃತ ರೂಪದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಶಿಕ್ಷಣ, ಪರೀಕ್ಷೆ, ಆಡಳಿತ, ಕಾನೂನು ಮತ್ತು ಅಧಿಕೃತ ಸಂವಹನದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ಬರವಣಿಗೆ ಹಾಗೂ ಅರ್ಥಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಲು ಪ್ರಮಾಣಿತ ರೂಪ ಸಹಾಯ ಮಾಡುತ್ತದೆ",
+        "B": "ಪ್ರಮಾಣಿತ ರೂಪ ಅಗತ್ಯವಿಲ್ಲ",
+        "C": "ಪ್ರಮಾಣಿತ ರೂಪ ಭಾಷೆಯನ್ನು ಹಾಳುಮಾಡುತ್ತದೆ",
+        "D": "ಪ್ರಮಾಣಿತ ರೂಪ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿಕ್ಷಣ, ಪರೀಕ್ಷೆ, ಆಡಳಿತ, ಕಾನೂನು ಮತ್ತು ಅಧಿಕೃತ ಸಂವಹನದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ಬರವಣಿಗೆ ಹಾಗೂ ಅರ್ಥಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಲು ಪ್ರಮಾಣಿತ ರೂಪ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN095",
+      "subject": "Kannada",
+      "topic": "Kannada Style",
+      "chapter": "Spoken vs Written",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾತನಾಡುವ ಕನ್ನಡ ಮತ್ತು ಬರೆಯುವ ಕನ್ನಡದ ನಡುವೆ ವ್ಯತ್ಯಾಸವಿದೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಎರಡೂ ಒಂದೇ",
+        "B": "ಹೌದು. ದೈನಂದಿನ ಮಾತಿನಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳು, ಪ್ರಾದೇಶಿಕ ಪದಗಳು ಮತ್ತು ಸಹಜ ಉಚ್ಚಾರಣೆಗಳು ಹೆಚ್ಚಿರಬಹುದು; ಅಧಿಕೃತ ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಮಾಣಿತ ಕಾಗುಣಿತ, ವಿರಾಮ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯರಚನೆಗೆ ಹೆಚ್ಚಿನ ಮಹತ್ವ ನೀಡಲಾಗುತ್ತದೆ",
+        "C": "ಮಾತಿನಲ್ಲಿ ಪ್ರಮಾಣಿತ ರೂಪ ಮಾತ್ರ",
+        "D": "ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಾದೇಶಿಕ ರೂಪ ಮಾತ್ರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹೌದು. ದೈನಂದಿನ ಮಾತಿನಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳು, ಪ್ರಾದೇಶಿಕ ಪದಗಳು ಮತ್ತು ಸಹಜ ಉಚ್ಚಾರಣೆಗಳು ಹೆಚ್ಚಿರಬಹುದು; ಅಧಿಕೃತ ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಮಾಣಿತ ಕಾಗುಣಿತ, ವಿರಾಮ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯರಚನೆಗೆ ಹೆಚ್ಚಿನ ಮಹತ್ವ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN096",
+      "subject": "Kannada",
+      "topic": "Kannada Style",
+      "chapter": "Language Purism",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಶುದ್ಧತೆ ಮತ್ತು ಭಾಷಾ ಬೆಳವಣಿಗೆ ಪರಸ್ಪರ ವಿರುದ್ಧವೇ?",
+      "options": {
+        "A": "ಹೌದು, ಶುದ್ಧತೆ ಬೆಳವಣಿಗೆಯನ್ನು ತಡೆಯುತ್ತದೆ",
+        "B": "ಇಲ್ಲ. ಸ್ಪಷ್ಟತೆ ಮತ್ತು ವ್ಯಾಕರಣಸಮ್ಮತತೆಯನ್ನು ಕಾಪಾಡುತ್ತಲೇ ಹೊಸ ಪದಗಳು, ತಂತ್ರಜ್ಞಾನ ಪದಗಳು ಮತ್ತು ಜನಪದ ಜೀವಂತ ರೂಪಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬಹುದು",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಶುದ್ಧತೆ ಮಾತ್ರ ಮುಖ್ಯ",
+        "D": "ಹೌದು, ಬೆಳವಣಿಗೆ ಮಾತ್ರ ಮುಖ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಸ್ಪಷ್ಟತೆ ಮತ್ತು ವ್ಯಾಕರಣಸಮ್ಮತತೆಯನ್ನು ಕಾಪಾಡುತ್ತಲೇ ಹೊಸ ಪದಗಳು, ತಂತ್ರಜ್ಞಾನ ಪದಗಳು ಮತ್ತು ಜನಪದ ಜೀವಂತ ರೂಪಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬಹುದು. ಜೀವಂತ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಗೆ ಬದಲಾವಣೆ ಸಹಜ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN097",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Vocabulary Analysis",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಅನ್ಯದೇಶ್ಯ ಪದಗಳನ್ನು ಗುರುತಿಸುವಾಗ ಯಾವ ಅಂಶ ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದದ ಮೂಲ ಭಾಷೆ ಮತ್ತು ಅದು ಕನ್ನಡಕ್ಕೆ ಬಂದ ಐತಿಹಾಸಿಕ ಮಾರ್ಗವನ್ನು ಗಮನಿಸಬೇಕು. ಕೇವಲ ಇಂದಿನ ಉಚ್ಚಾರಣೆಯನ್ನು ನೋಡಿ ಮೂಲವನ್ನು ನಿರ್ಧರಿಸುತ್ತಿಲ್ಲ; ನಿಘಂಟು ಅಥವಾ ವ್ಯುತ್ಪತ್ತಿ ವಿವರಣೆಯ ಮೂಲವನ್ನು ಪರಿಶೀಲಿಸಬೇಕು",
+        "B": "ಕೇವಲ ಪದದ ಉದ್ದ",
+        "C": "ಕೇವಲ ಪದದ ಮೊದಲ ಅಕ್ಷರ",
+        "D": "ಕೇವಲ ಪದದ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದದ ಮೂಲ ಭಾಷೆ ಮತ್ತು ಅದು ಕನ್ನಡಕ್ಕೆ ಬಂದ ಐತಿಹಾಸಿಕ ಮಾರ್ಗವನ್ನು ಗಮನಿಸಬೇಕು. ಕೇವಲ ಇಂದಿನ ಉಚ್ಚಾರಣೆಯನ್ನು ನೋಡಿ ಮೂಲವನ್ನು ನಿರ್ಧರಿಸುತ್ತಿಲ್ಲ; ನಿಘಂಟು ಅಥವಾ ವ್ಯುತ್ಪತ್ತಿ ವಿವರಣೆಯ ಮೂಲವನ್ನು ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN098",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆ ಯಾವ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಇಂಡೋ-ಯುರೋಪಿಯನ್",
+        "B": "ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬ",
+        "C": "ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್",
+        "D": "ಸಿನೋ-ಟಿಬೆಟಿಯನ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN099",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಮುಖ ಉಪಗುಂಪು ಯಾವುದು?",
+      "options": {
+        "A": "ಉತ್ತರ ದ್ರಾವಿಡ",
+        "B": "ದಕ್ಷಿಣ ದ್ರಾವಿಡ",
+        "C": "ಮಧ್ಯ ದ್ರಾವಿಡ",
+        "D": "ದಕ್ಷಿಣ-ಮಧ್ಯ ದ್ರಾವಿಡ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡದ ಪ್ರಮುಖ ಉಪಗುಂಪು ದಕ್ಷಿಣ ದ್ರಾವಿಡ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN100",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸ್ಥಳ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೈಸೂರು ಜಿಲ್ಲೆ",
+        "B": "ಹಾಸನ ಜಿಲ್ಲೆ",
+        "C": "ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ",
+        "D": "ಧಾರವಾಡ ಜಿಲ್ಲೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಹಾಸನ ಜಿಲ್ಲೆಯ ಬೇಲೂರು ತಾಲ್ಲೂಕಿನ ಹಲ್ಮಿಡಿ ಗ್ರಾಮದಲ್ಲಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN101",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸಾಮಾನ್ಯ ದಿನಾಂಕ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 350",
+        "B": "ಕ್ರಿ.ಶ. ಸುಮಾರು 450",
+        "C": "ಕ್ರಿ.ಶ. 850",
+        "D": "ಕ್ರಿ.ಶ. 1200"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸಾಮಾನ್ಯ ದಿನಾಂಕ ಕ್ರಿ.ಶ. ಸುಮಾರು 450; ಪರ್ಯಾಯ ವಿದ್ವಾಂಸರ ದಿನಾಂಕ ಸುಮಾರು 500.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN102",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಪತ್ತೆಹಚ್ಚಿದವರು ಯಾರು?",
+      "options": {
+        "A": "ಬಿ. ಎಲ್. ರೈಸ್",
+        "B": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ",
+        "C": "ಆರ್. ನರಸಿಂಹಾಚಾರ್",
+        "D": "ಡಿ. ಎಲ್. ನರಸಿಂಹಾಚಾರ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಅವರು 1936ರಲ್ಲಿ ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಪತ್ತೆಹಚ್ಚಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN103",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವಡ್ಡಾರಾಧನೆ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗ",
+        "C": "ಪಂಪ ಭಾರತ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಕವಿರಾಜಮಾರ್ಗ, ಸುಮಾರು ಕ್ರಿ.ಶ. 850.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN104",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ರಾಜನ ಆಸ್ಥಾನಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕದಂಬ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷ",
+        "C": "ಚಾಲುಕ್ಯ",
+        "D": "ಹೊಯ್ಸಳ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ರಾಷ್ಟ್ರಕೂಟ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷನ ಆಸ್ಥಾನಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN105",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಗದ್ಯಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ವಡ್ಡಾರಾಧನೆ",
+        "C": "ಪಂಪ ಭಾರತ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಗದ್ಯಕೃತಿ ವಡ್ಡಾರಾಧನೆ; ಶಿವಕೋಟಿಯಾಚಾರ್ಯರಿಗೆ ಸಂಬಂಧಿಸಲಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN106",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು, ವ್ಯಾಸರಾಯರು",
+        "D": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ, ಹರಿಹರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN107",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ, ಅಜಿತಪುರಾಣ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ಕೃತಿಗಳು ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN108",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಶಾಂತಿಪುರಾಣ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN109",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ, ಅಜಿತಪುರಾಣ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ರನ್ನನ ಕೃತಿಗಳು ಗದಾಯುದ್ಧ ಮತ್ತು ಅಜಿತಪುರಾಣ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN110",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ಮೂಲ ಪರಂಪರೆ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವನಾಗರಿ",
+        "B": "ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳು",
+        "C": "ಗ್ರಂಥ ಲಿಪಿ",
+        "D": "ಅರಬಿಕ್ ಲಿಪಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯ ಮೂಲ ಪರಂಪರೆ ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN111",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆ ಎಲ್ಲಿ ಸಮಾನವಾದ ರೂಪಗಳನ್ನು ಹಂಚಿಕೊಂಡಿದೆ?",
+      "options": {
+        "A": "ಪ್ರಾಚೀನ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆಯಲ್ಲಿ",
+        "B": "ಆಧುನಿಕ ಕನ್ನಡದಲ್ಲಿ ಮಾತ್ರ",
+        "C": "ಸಂಸ್ಕೃತದಲ್ಲಿ ಮಾತ್ರ",
+        "D": "ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರಾಚೀನ ಕನ್ನಡ-ತೆಲುಗು ಲಿಪಿ ಪರಂಪರೆಯಲ್ಲಿ ಸಮಾನವಾದ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN112",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಹಂತಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ್ರಾಚೀನ, ಮಧ್ಯಕಾಲೀನ, ಆಧುನಿಕ",
+        "B": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡ",
+        "C": "ವೈದಿಕ, ಲೌಕಿಕ, ಶಾಸನ",
+        "D": "ಜೈನ, ವೀರಶೈವ, ಬ್ರಾಹ್ಮಣ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಹಂತಗಳು ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN113",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಸಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾದ ಪದ",
+        "B": "ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ರೂಪಾಂತರಗೊಂಡ ಪದ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಬೇರೆ ಭಾಷೆಯಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಸಮ ಎಂದರೆ ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾದ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN114",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತದ್ಭವ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾದ ಪದ",
+        "B": "ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ರೂಪಾಂತರಗೊಂಡ ಪದ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಬೇರೆ ಭಾಷೆಯಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ತದ್ಭವ ಎಂದರೆ ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ರೂಪಾಂತರಗೊಂಡ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+        {
+      "id": "KAN116",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನ್ಯದೇಶ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾದ ಪದ",
+        "B": "ಸಂಸ್ಕೃತ/ಪ್ರಾಕೃತ ಮೂಲದಿಂದ ರೂಪಾಂತರಗೊಂಡ ಪದ",
+        "C": "ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದ",
+        "D": "ಬೇರೆ ಭಾಷೆಯಿಂದ ಬಂದ ಪದ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಅನ್ಯದೇಶ್ಯ ಎಂದರೆ ಬೇರೆ ಭಾಷೆಗಳಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದು ಸೇರಿಕೊಂಡ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN117",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲ ಉಂಟುಮಾಡುವ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಹಲವೆಡೆ ತಪ್ಪುಸದ ದಿನಾಂಕವನ್ನು ಎಲ್ಲ ಮೂಲಗಳೂ ಒಂದೇ ರೀತಿಯಲ್ಲಿ ನೀಡುವುದಿಲ್ಲ. ಸಾಮಾನ್ಯ ಪರೀಕ್ಷೆಗೆ 450 ಕ್ರಿ.ಶ; ಇತಿಹಾಸ ಅಧ್ಯಯನದಲ್ಲಿ ಸುಮಾರು 5ನೇ ಶತಮಾನ ಮತ್ತು ಪರ್ಯಾಯ ದಿನಾಂಕಗಳನ್ನೂ ತಿಳಿದಿರಬೇಕು",
+        "B": "ಎಲ್ಲಾ ದಿನಾಂಕಗಳು ಒಂದೇ",
+        "C": "ಯಾವುದೇ ಗೊಂದಲವಿಲ್ಲ",
+        "D": "ಕೇವಲ ಒಂದು ದಿನಾಂಕ ಮಾತ್ರ ಸರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಲವೆಡೆ ತಪ್ಪುಸದ ದಿನಾಂಕವನ್ನು ಎಲ್ಲ ಮೂಲಗಳೂ ಒಂದೇ ರೀತಿಯಲ್ಲಿ ನೀಡುವುದಿಲ್ಲ. ಸಾಮಾನ್ಯ ಪರೀಕ್ಷೆಗೆ 450 ಕ್ರಿ.ಶ; ಇತಿಹಾಸ ಅಧ್ಯಯನದಲ್ಲಿ ಸುಮಾರು 5ನೇ ಶತಮಾನ ಮತ್ತು ಪರ್ಯಾಯ ದಿನಾಂಕಗಳನ್ನೂ ತಿಳಿದಿರಬೇಕು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN118",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವನ್ನು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಇದು ಯಾವ ಅರ್ಥದಲ್ಲಿ?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಮೊದಲ ಶಾಸನ",
+        "B": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ",
+        "C": "ಕನ್ನಡದ ಮೊದಲ ಗದ್ಯಕೃತಿ",
+        "D": "ಕನ್ನಡದ ಮೊದಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಸಾಹಿತ್ಯಕ ಕೃತಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ವಡ್ಡಾರಾಧನೆ ಪ್ರಾಚೀನ/ಮೊದಲ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು ಗುರುತಿಸಲಾಗುತ್ತದೆ. ಪರೀಕ್ಷೆಯಲ್ಲಿ 'ಸಾಹಿತ್ಯ ಕೃತಿ' ಮತ್ತು 'ಗದ್ಯಕೃತಿ' ಪದಗಳನ್ನು ಗಮನಿಸಿ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN119",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಕನ್ನಡ ಲಿಪೆ ಒಂದೇ ಅಲ್ಲ. ಇದರರ್ಥವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆಯ ಮತ್ತು ಪರಂಪರೆ ದ್ರಾವಿಡ; ಕನ್ನಡ ಲಿಪೆಯ ಐತಿಹಾಸಿಕ ಮೂಲ ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ",
+        "B": "ಎರಡೂ ಒಂದೇ",
+        "C": "ಕನ್ನಡ ಲಿಪೆ ಸಂಸ್ಕೃತದಿಂದ ಬಂದಿದೆ",
+        "D": "ಕನ್ನಡ ಭಾಷೆ ಇಂಗ್ಲಿಷ್‌ನಿಂದ ಬಂದಿದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಮತ್ತು ಪರಂಪರೆ ದ್ರಾವಿಡ; ಕನ್ನಡ ಲಿಪೆಯ ಐತಿಹಾಸಿಕ ಮೂಲ ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಭಾಷೆ ಮತ್ತು ಲಿಪೆ ಬೇರೆ ಬೇರೆ ಪರಿಕಲ್ಪನೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN120",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡಗಳ ಕಾಲಮಾನಗಳು ಏನನ್ನು ಸೂಚಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ನಿಖರವಾದ ದಿನಾಂಕಗಳು",
+        "B": "ಅಧ್ಯಯನದ ಅನುಕೂಲಕ್ಕಾಗಿ ನೀಡಿರುವ ಅಂದಾಜು ಹಂತಗಳು",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಹಂತಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಹಂತಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡಗಳ ಕಾಲಮಾನಗಳು ಅಧ್ಯಯನದ ಅನುಕೂಲಕ್ಕಾಗಿ ನೀಡಿರುವ ಅಂದಾಜು ಹಂತಗಳು; ಅವುಗಳ ನಡುವೆ ಭಾಷಾ ಲಕ್ಷಣಗಳು ಕ್ರಮೇಣ ಬದಲಾಗುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN121",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Status",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಪಭಾಷೆಗಳನ್ನು ತಪ್ಪು ಕನ್ನಡವೆಂದು ಪರಿಗಣಿಸಬಹುದೇ?",
+      "options": {
+        "A": "ಹೌದು, ಉಪಭಾಷೆಗಳು ತಪ್ಪು",
+        "B": "ಇಲ್ಲ. ಅವು ಭಾಷೆಯ ಸಹಜ ಪ್ರಾದೇಶಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ವೈವಿಧ್ಯ",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಪ್ರಮಾಣಿತ ರೂಪ ಮಾತ್ರ ಸರಿ",
+        "D": "ಹೌದು, ಉಪಭಾಷೆಗಳನ್ನು ತ್ಯಜಿಸಬೇಕು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಉಪಭಾಷೆಗಳನ್ನು ತಪ್ಪು ಕನ್ನಡವೆಂದು ಪರಿಗಣಿಸಿಹರದು. ಅವು ಭಾಷೆಯ ಸಹಜ ಪ್ರಾದೇಶಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ವೈವಿಧ್ಯ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN122",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Early Literature",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಉಲ್ಲೇಖಿತವಾದ ಹಿಂದಿನ ಕವಿಗಳ ಬಗ್ಗೆ ಏನು ತಿಳಿಯುತ್ತದೆ?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಹಿಂದಿನ ಕವಿಗಳ ಉಲ್ಲೇಖಗಳಿವೆ, ಅವರ ಕೃತಿಗಳು ಲಭ್ಯವಿಲ್ಲ",
+        "B": "ಹಿಂದಿನ ಕವಿಗಳು ಇರಲಿಲ್ಲ",
+        "C": "ಹಿಂದಿನ ಕವಿಗಳು ಸಂಸ್ಕೃತದಲ್ಲಿ ಮಾತ್ರ ಬರೆದರು",
+        "D": "ಹಿಂದಿನ ಕವಿಗಳು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಬರೆದರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಹಿಂದಿನ ಕವಿಗಳ ಉಲ್ಲೇಖಗಳಿವೆ, ಅವರ ಕೃತಿಗಳು ಲಭ್ಯವಿಲ್ಲ. ಇದು 9ನೇ ಶತಮಾನಕ್ಕಿಂತ ಮೊದಲೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮೃದ್ಧವಾಗಿತ್ತು ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN123",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Terms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗದ್ಯಕೃತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪದ್ಯರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಕೃತಿ",
+        "B": "ಗದ್ಯರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಕೃತಿ",
+        "C": "ನಾಟಕ ರೂಪದ ಕೃತಿ",
+        "D": "ಚಿತ್ರಕಥೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಗದ್ಯರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಕೃತಿಯನ್ನು ಗದ್ಯಕೃತಿ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN124",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Terms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾವ್ಯಶಾಸ್ತ್ರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯದ ಸ್ವರೂಪ, ಲಕ್ಷಣ, ಅಲಂಕಾರ ಮತ್ತು ರಚನಾ ವಿಧಾನಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "B": "ಕೇವಲ ಕಥೆ",
+        "C": "ಕೇವಲ ನಾಟಕ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾವ್ಯದ ಸ್ವರೂಪ, ಲಕ್ಷಣ, ಅಲಂಕಾರ ಮತ್ತು ರಚನಾ ವಿಧಾನಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರವನ್ನು ಕಾವ್ಯಶಾಸ್ತ್ರ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN125",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Terms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಲಂಕಾರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯದ ಅಂದವನ್ನು ಹೆಚ್ಚಿಸುವ ಭಾಷಾ ವಿಶೇಷಗಳು",
+        "B": "ಕೇವಲ ವ್ಯಾಕರಣ",
+        "C": "ಕೇವಲ ಛಂದಸ್ಸು",
+        "D": "ಕೇವಲ ಪದಸಂಪತ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾವ್ಯದ ಅಂದವನ್ನು ಹೆಚ್ಚಿಸುವ ಭಾಷಾ ವಿಶೇಷಗಳನ್ನು ಅಲಂಕಾರ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN126",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Terms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾವ್ಯದಲ್ಲಿ ಛಂದಸ್ಸಿನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯದ ಲಯ, ಗತಿ ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ನಿರ್ಧರಿಸುವ ಅಂಶ",
+        "B": "ಕೇವಲ ಅಲಂಕಾರ",
+        "C": "ಕೇವಲ ವ್ಯಾಕರಣ",
+        "D": "ಕೇವಲ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾವ್ಯದ ಲಯ, ಗತಿ ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ನಿರ್ಧರಿಸುವ ಅಂಶವೇ ಛಂದಸ್ಸು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN127",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Terms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾವ್ಯದಲ್ಲಿ ರಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯ ಓದುವಾಗ ಉಂಟಾಗುವ ಆನಂದ ಅನುಭವ",
+        "B": "ಕೇವಲ ಅಲಂಕಾರ",
+        "C": "ಕೇವಲ ಛಂದಸ್ಸು",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾವ್ಯ ಓದುವಾಗ ಉಂಟಾಗುವ ಆನಂದ ಅನುಭವವನ್ನು ರಸ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN128",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಭಾರತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ ಕೃತಿಯ ಇನ್ನೊಂದು ಹೆಸರು",
+        "B": "ಪಂಪನ ಆದಿಪುರಾಣ",
+        "C": "ರನ್ನನ ಗದಾಯುದ್ಧ",
+        "D": "ಪೊನ್ನನ ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ ಕೃತಿಯನ್ನು ಪಂಪ ಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN129",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆದಿಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣದ ಕರ್ತೃ ಪಂಪ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN130",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಂತಿಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶಾಂತಿಪುರಾಣದ ಕರ್ತೃ ಪೊನ್ನ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN131",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗದಾಯುದ್ಧದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಗದಾಯುದ್ಧದ ಕರ್ತೃ ರನ್ನ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN132",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಜಿತಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಅಜಿತಪುರಾಣದ ಕರ್ತೃ ರನ್ನ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN133",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಕರ್ತೃ ಪಂಪ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN134",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Kannada Epics",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪಂಪನನ್ನು ಆದಿಕವಿ ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅವನು ಮೊದಲಿಗನಾದ ಕವಿ",
+        "B": "ಅವನು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹತ್ವದ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿ ಕವಿ",
+        "C": "ಅವನು ಕೇವಲ ಒಂದು ಕೃತಿ ಬರೆದ",
+        "D": "ಅವನು ಸಂಸ್ಕೃತ ಕವಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪನನ್ನು ಆದಿಕವಿ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ ಏಕೆಂದರೆ ಅವನು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹತ್ವದ ಮತ್ತು ಪ್ರಭಾವಶಾಲಿ ಕವಿ; ಅವನ ಕೃತಿಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮೇಲೆ ದೀರ್ಘಕಾಲದ ಪ್ರಭಾವ ಬೀರಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 5"
+    },
+    {
+      "id": "KAN135",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Vachana Movement",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಚಳವಳಿಯ ಪ್ರಮುಖರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು",
+        "D": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು ಮುಂತಾದ ವಚನಕಾರರು ಪ್ರಮುಖರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN136",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Haridasa Movement",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ",
+        "B": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು",
+        "C": "ಪಂಪ, ಪೊನ್ನ",
+        "D": "ರನ್ನ, ಕುಮಾರವ್ಯಾಸ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು ಮುಂತಾದ ಹರಿದಾಸರು ಪ್ರಮುಖರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN137",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Modern Kannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳು ಬೆಳೆದವು?",
+      "options": {
+        "A": "ಕಾದಂಬರಿ, ನಾಟಕ, ಪ್ರಬಂಧ, ಕವನ, ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ, ಅನುವಾದ",
+        "B": "ಕೇವಲ ವಚನ",
+        "C": "ಕೇವಲ ರಗಳೆ",
+        "D": "ಕೇವಲ ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾದಂಬರಿ, ನಾಟಕ, ಪ್ರಬಂಧ, ಕವನ, ವಿಜ್ಞಾನ ಸಾಹಿತ್ಯ, ಅನುವಾದ ಮುಂತಾದ ಪ್ರಕಾರಗಳು ಆಧುನಿಕ ಕನ್ನಡದಲ್ಲಿ ಬೆಳೆದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN138",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Modern Kannada",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡದ ಪ್ರಮಾಣೀಕರಣಕ್ಕೆ ಯಾವ ಅಂಶಗಳು ಕಾರಣವಾದವು?",
+      "options": {
+        "A": "ಮುದ್ರಣ, ಶಿಕ್ಷಣ, ಪತ್ರಿಕೆಗಳು, ವ್ಯಾಕರಣ ರಚನೆ, ಅನುವಾದ, ಆಡಳಿತ ಮತ್ತು ಮಾಧ್ಯಮಗಳ ಬಳಕೆ",
+        "B": "ಕೇವಲ ರಾಜರ ಆಶ್ರಯ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣಗಳು",
+        "D": "ಕೇವಲ ವಿದೇಶಿ ಪ್ರಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುದ್ರಣ, ಶಿಕ್ಷಣ, ಪತ್ರಿಕೆಗಳು, ವ್ಯಾಕರಣ ರಚನೆ, ಅನುವಾದ, ಆಡಳಿತ ಮತ್ತು ಮಾಧ್ಯಮಗಳ ಬಳಕೆ ಆಧುನಿಕ ಕನ್ನಡದ ಪ್ರಮಾಣೀಕರಣಕ್ಕೆ ಕಾರಣವಾದವು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN139",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವಚನ, ಕೀರ್ತನೆ, ಭಕ್ತಿಗೀತೆ, ರಗಳೆ",
+        "B": "ಕೇವಲ ಕಾದಂಬರಿ",
+        "C": "ಕೇವಲ ನಾಟಕ",
+        "D": "ಕೇವಲ ಪ್ರಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ, ಕೀರ್ತನೆ, ಭಕ್ತಿಗೀತೆ, ರಗಳೆ ಮುಂತಾದ ಪ್ರಕಾರಗಳು ಭಕ್ತಿ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN140",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈನ ಕವಿಗಳ ಕೊಡುಗೆ ಏನು?",
+      "options": {
+        "A": "ಆರಂಭಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರ",
+        "B": "ಯಾವುದೇ ಕೊಡುಗೆ ಇಲ್ಲ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯಕ್ಕೆ ಕೊಡುಗೆ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಸಾಹಿತ್ಯಕ್ಕೆ ಕೊಡುಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆರಂಭಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಪಂಡಿತರು ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN141",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವೀರಶೈವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರ ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನ",
+        "B": "ಕಾದಂಬರಿ",
+        "C": "ನಾಟಕ",
+        "D": "ಪ್ರಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನವು ವೀರಶೈವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN142",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೀರ್ತನೆ",
+        "B": "ಕಾದಂಬರಿ",
+        "C": "ನಾಟಕ",
+        "D": "ಪ್ರಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೀರ್ತನೆಯು ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಪ್ರಕಾರ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN143",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವಚನಗಳ ಭಾಷಾ ಶೈಲಿ ಹೇಗಿದೆ?",
+      "options": {
+        "A": "ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಗದ್ಯ-ಪದ್ಯ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್",
+        "D": "ಕೇವಲ ಪ್ರಾಕೃತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳ ಭಾಷಾ ಶೈಲಿ ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಗದ್ಯ-ಪದ್ಯವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN144",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Kannada Literature",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕೀರ್ತನೆಗಳ ಭಾಷಾ ಶೈಲಿ ಹೇಗಿದೆ?",
+      "options": {
+        "A": "ಜನಭಾಷೆಯಲ್ಲಿ ಸರಳ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "C": "ಕೇವಲ ಇಂಗ್ಲಿಷ್",
+        "D": "ಕೇವಲ ಪ್ರಾಕೃತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೀರ್ತನೆಗಳು ಜನಭಾಷೆಯಲ್ಲಿ ಸರಳ ಭಕ್ತಿ ಗೀತೆಗಳಾಗಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+        {
+      "id": "KAN146",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ದೀರ್ಘ ಪದ್ಯರೂಪ, ವೀರರಸ ಪ್ರಧಾನ, ಕಥನಾತ್ಮಕ ಶೈಲಿ",
+        "B": "ಸಣ್ಣ ಗದ್ಯ",
+        "C": "ಕೇವಲ ಭಕ್ತಿಗೀತೆ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯು ದೀರ್ಘ ಪದ್ಯರೂಪವಾಗಿದ್ದು, ವೀರರಸ ಪ್ರಧಾನ ಮತ್ತು ಕಥನಾತ್ಮಕ ಶೈಲಿಯನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN147",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಆರು ಪಾದಗಳಿರುವ ಪದ್ಯರೂಪ",
+        "B": "ಎರಡು ಪಾದಗಳಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ಗದ್ಯರೂಪ",
+        "D": "ನಾಟಕ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯು ಆರು ಪಾದಗಳಿರುವ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN148",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಷಟ್ಪದಿಯನ್ನು ಬಳಸಿದ ಪ್ರಮುಖ ಕವಿಗಳು ಯಾರು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ, ಹರಿಹರ",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ",
+        "D": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ, ಹರಿಹರ ಮುಂತಾದ ಕವಿಗಳು ಷಟ್ಪದಿಯನ್ನು ಬಳಸಿದ್ದಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN149",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕೀರ್ತನೆಗಳನ್ನು ಬಳಸಿದ ಪ್ರಮುಖರು ಯಾರು?",
+      "options": {
+        "A": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ",
+        "D": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು ಮುಂತಾದ ಹರಿದಾಸರು ಕೀರ್ತನೆಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN150",
+      "subject": "Kannada",
+      "topic": "Kannada Literature",
+      "chapter": "Literary Forms",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವಚನಗಳನ್ನು ಬಳಸಿದ ಪ್ರಮುಖರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಪುರಂದರದಾಸರು, ಕನಕದಾಸರು",
+        "D": "ಕುಮಾರವ್ಯಾಸ, ರಾಘವಾಂಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣ, ಅಕ್ಕಮಹಾದೇವಿ, ಅಲ್ಲಮಪ್ರಭು ಮುಂತಾದ ವಚನಕಾರರು ವಚನಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 2"
+    },
+    {
+      "id": "KAN151",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Language Periods",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನದಿಂದ ಸುಮಾರು 12ನೇ ಶತಮಾನ",
+        "B": "ಕ್ರಿ.ಶ. 12ನೇ ಶತಮಾನದಿಂದ 17ನೇ ಶತಮಾನ",
+        "C": "ಕ್ರಿ.ಶ. 17ನೇ ಶತಮಾನದಿಂದ ಇಂದಿನವರೆಗೆ",
+        "D": "ಕ್ರಿ.ಪೂ. 500 ರಿಂದ ಕ್ರಿ.ಶ. 500"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನದಿಂದ ಸುಮಾರು 12ನೇ ಶತಮಾನದವರೆಗೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN152",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Language Periods",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನ",
+        "B": "ಕ್ರಿ.ಶ. ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 17ನೇ ಶತಮಾನ",
+        "C": "ಕ್ರಿ.ಶ. 17ನೇ ಶತಮಾನದಿಂದ ಇಂದಿನವರೆಗೆ",
+        "D": "ಕ್ರಿ.ಪೂ. 500 ರಿಂದ ಕ್ರಿ.ಶ. 500"
+      },
+      "correctAnswer": "B",
+      "explanation": "ನಡುಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 17ನೇ ಶತಮಾನದವರೆಗೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN153",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Language Periods",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನ",
+        "B": "ಕ್ರಿ.ಶ. 12ನೇ ಶತಮಾನದಿಂದ 17ನೇ ಶತಮಾನ",
+        "C": "ಕ್ರಿ.ಶ. 17ನೇ ಶತಮಾನದಿಂದ ಮುಂದಿನ ಭಾಷಾ ಬೆಳವಣಿಗೆಗಳು",
+        "D": "ಕ್ರಿ.ಪೂ. 500 ರಿಂದ ಕ್ರಿ.ಶ. 500"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಹೊಸಗನ್ನಡದ ಕಾಲಮಾನ ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 17ನೇ ಶತಮಾನದಿಂದ ಮುಂದಿನ ಭಾಷಾ ಬೆಳವಣಿಗೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 7"
+    },
+    {
+      "id": "KAN154",
+      "subject": "Kannada",
+      "topic": "Kannada Language History",
+      "chapter": "Language Periods",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಹಂತಗಳ ನಡುವೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಗಡಿಗಳಿವೆಯೇ?",
+      "options": {
+        "A": "ಹೌದು, ಕಟ್ಟುನಿಟ್ಟಾದ ಗಡಿಗಳಿವೆ",
+        "B": "ಇಲ್ಲ, ಭಾಷಾ ಬದಲಾವಣೆ ನಿರಂತರವಾಗಿರುತ್ತದೆ, ಹಂತಗಳ ನಡುವೆ ಅತಿಕ್ರಮಣವಿರುತ್ತದೆ",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಪ್ರತಿ ಹಂತವೂ ಸಂಪೂರ್ಣ ಬೇರೆ",
+        "D": "ಹೌದು, ಪ್ರತಿ ಹಂತವೂ ಸಂಪೂರ್ಣ ಬೇರೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಭಾಷಾ ಬದಲಾವಣೆ ನಿರಂತರವಾಗಿರುತ್ತದೆ; ಹಂತಗಳ ನಡುವೆ ಅತಿಕ್ರಮಣವಿರುತ್ತದೆ. ಈ ಹಂತಗಳು ಅಧ್ಯಯನದ ಅನುಕೂಲಕ್ಕಾಗಿ ನೀಡಿರುವ ಅಂದಾಜು ವಿಭಾಗಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN155",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script vs Language",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಂದೇ ಭಾಷೆಯನ್ನು ಬೇರೆ ಲಿಪಿಗಳಲ್ಲಿ ಬರೆಯಬಹುದೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಒಂದೇ ಭಾಷೆಗೆ ಒಂದೇ ಲಿಪಿ",
+        "B": "ಹೌದು, ಒಂದೇ ಭಾಷೆಯನ್ನು ಬೇರೆ ಲಿಪಿಗಳಲ್ಲಿಯೂ ಬರೆಯಬಹುದು",
+        "C": "ಇಲ್ಲ, ಲಿಪಿ ಮತ್ತು ಭಾಷೆ ಒಂದೇ",
+        "D": "ಹೌದು, ಆದರೆ ಕೇವಲ ಸಂಸ್ಕೃತಕ್ಕೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹೌದು. ಒಂದೇ ಭಾಷೆಯನ್ನು ಬೇರೆ ಲಿಪಿಗಳಲ್ಲಿಯೂ ಬರೆಯಬಹುದು. ಭಾಷೆ ಮತ್ತು ಲಿಪಿ ಬೇರೆ ಬೇರೆ ಪರಿಕಲ್ಪನೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN156",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Origin",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯ ಐತಿಹಾಸಿಕ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳು",
+        "C": "ಅರಬಿಕ್",
+        "D": "ರೋಮನ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯ ಐತಿಹಾಸಿಕ ಮೂಲ ಬ್ರಾಹ್ಮೀಯ ದಕ್ಷಿಣ ಭಾರತೀಯ ರೂಪಾಂತರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN157",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Features",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯು ಯಾವ ರೀತಿಯ ಲಿಪಿ ಪದ್ಧತಿ?",
+      "options": {
+        "A": "ಅಕ್ಷರಾಧಾರಿತ ಅಬುಗಿಡಾ ಪದ್ಧತಿ",
+        "B": "ಚಿತ್ರಲಿಪಿ",
+        "C": "ಶಬ್ದಲಿಪಿ",
+        "D": "ಅಕ್ಷರಗಳಿಲ್ಲದ ಲಿಪಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯು ಅಕ್ಷರಾಧಾರಿತ ಅಬುಗಿಡಾ ಪದ್ಧತಿಯಾಗಿದೆ. ವ್ಯಂಜನ ಅಕ್ಷರದಲ್ಲಿ ಸಹಜವಾಗಿ 'ಅ' ಸ್ವರ ಅಡಕವಾಗಿರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN158",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Features",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿ ಸ್ವರಗಳನ್ನು ಹೇಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸ್ವತಂತ್ರ ಅಕ್ಷರಗಳಾಗಿ",
+        "B": "ವ್ಯಂಜನಗಳಿಗೆ ಸೇರಿಸಿ",
+        "C": "ಕೇವಲ ಚಿಹ್ನೆಗಳಿಂದ",
+        "D": "ಕೇವಲ ಅಂಕಿಗಳಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿ ಸ್ವರಗಳನ್ನು ಸ್ವತಂತ್ರ ಅಕ್ಷರಗಳಾಗಿ ಬರೆಯಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN159",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Features",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿ ವ್ಯಂಜನಗಳಿಗೆ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ ಏನು ರಚಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಾ, ಕಿ, ಕು, ಕೇ ಮುಂತಾದ ರೂಪಗಳು",
+        "B": "ಕೇವಲ ಕ",
+        "C": "ಕೇವಲ ಅ",
+        "D": "ಕೇವಲ ಒತ್ತಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಂಜನಗಳಿಗೆ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ ಕಾ, ಕಿ, ಕು, ಕೇ ಮುಂತಾದ ರೂಪಗಳನ್ನು ರಚಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN160",
+      "subject": "Kannada",
+      "topic": "Kannada Script",
+      "chapter": "Script Features",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸ್ವರರಹಿತ ವ್ಯಂಜನವನ್ನು ಸೂಚಿಸಲು ಏನನ್ನು ಬಳಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಒತ್ತಕ್ಷರ/ವಿರಾಮ ಚಿಹ್ನೆ",
+        "B": "ಸ್ವರಚಿಹ್ನೆ",
+        "C": "ಅಂಕಿ",
+        "D": "ಚಿತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರರಹಿತ ವ್ಯಂಜನವನ್ನು ಸೂಚಿಸಲು ಒತ್ತಕ್ಷರ/ವಿರಾಮ ಚಿಹ್ನೆಯನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 6"
+    },
+    {
+      "id": "KAN161",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Definition",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಪಭಾಷೆಯು ಭಾಷೆಯಿಂದ ಸಂಪೂರ್ಣವಾಗಿ ಬೇರೆಯೇ?",
+      "options": {
+        "A": "ಹೌದು, ಸಂಪೂರ್ಣ ಬೇರೆ ಭಾಷೆ",
+        "B": "ಇಲ್ಲ, ಉಪಭಾಷೆಯು ಭಾಷೆಯ ಪ್ರಾದೇಶಿಕ ಅಥವಾ ಸಾಮಾಜಿಕ ರೂಪಾಂತರ",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಪ್ರಮಾಣಿತ ರೂಪ ಮಾತ್ರ ಸರಿ",
+        "D": "ಹೌದು, ಉಪಭಾಷೆ ಬೇರೆ ಭಾಷೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಉಪಭಾಷೆಯು ಭಾಷೆಯ ಪ್ರಾದೇಶಿಕ ಅಥವಾ ಸಾಮಾಜಿಕ ರೂಪಾಂತರ. ಇದು ಭಾಷೆಯ ಭಾಗವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN162",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Dialect Factors",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಉಪಭಾಷೆಗಳು ಯಾವ ಅಂಶಗಳಿಂದ ಬದಲಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಭೌಗೋಳಿಕ ಅಂತರ, ನೆರೆ-ಭಾಷೆಗಳ ಸಂಪರ್ಕ, ವಲಸೆ, ವ್ಯಾಪಾರ, ಸಾಮಾಜಿಕ ಇತಿಹಾಸ, ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾರಣ",
+        "D": "ಕೇವಲ ಶಿಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭೌಗೋಳಿಕ ಅಂತರ, ನೆರೆ-ಭಾಷೆಗಳ ಸಂಪರ್ಕ, ವಲಸೆ, ವ್ಯಾಪಾರ, ಸಾಮಾಜಿಕ ಇತಿಹಾಸ, ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧ ಮುಂತಾದ ಅಂಶಗಳಿಂದ ಉಪಭಾಷೆಗಳು ಬದಲಾಗುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN163",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Major Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ಉಪಭಾಷೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಮೈಸೂರು-ಬೆಂಗಳೂರು ಕನ್ನಡ, ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಕರಾವಳಿ ಕನ್ನಡ, ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಮಲೆನಾಡು ಕನ್ನಡ",
+        "B": "ಕೇವಲ ಮೈಸೂರು ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ",
+        "D": "ಕೇವಲ ಕರಾವಳಿ ಕನ್ನಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೈಸೂರು-ಬೆಂಗಳೂರು ಕನ್ನಡ, ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಕರಾವಳಿ ಕನ್ನಡ, ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ಕನ್ನಡ, ಮಲೆನಾಡು ಕನ್ನಡ ಮುಂತಾದ ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ಉಪಭಾಷೆಗಳಿವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN164",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Major Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡದ ಮೇಲೆ ಯಾವ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ಮರಾಠಿ, ಉರ್ದು",
+        "B": "ತಮಿಳು, ಮಲಯಾಳಂ",
+        "C": "ಇಂಗ್ಲಿಷ್, ಫ್ರೆಂಚ್",
+        "D": "ಚೀನೀ, ಜಪಾನೀ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ತರ ಕರ್ನಾಟಕ ಕನ್ನಡದ ಮೇಲೆ ಮರಾಠಿ ಮತ್ತು ಉರ್ದು ಭಾಷೆಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN165",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Major Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಾವಳಿ ಕನ್ನಡದ ಮೇಲೆ ಯಾವ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ತುಳು, ಕೊಂಕಣಿ, ಮಲಯಾಳಂ, ಬ್ಯಾರಿ",
+        "B": "ಮರಾಠಿ, ಉರ್ದು",
+        "C": "ಹಿಂದಿ, ಉರ್ದು",
+        "D": "ಇಂಗ್ಲಿಷ್, ಫ್ರೆಂಚ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರಾವಳಿ ಕನ್ನಡದ ಮೇಲೆ ತುಳು, ಕೊಂಕಣಿ, ಮಲಯಾಳಂ, ಬ್ಯಾರಿ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN166",
+      "subject": "Kannada",
+      "topic": "Kannada Dialects",
+      "chapter": "Social Dialects",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಮಾಜಿಕ ಉಪಭಾಷೆಗಳಿಗೆ ಉದಾಹರಣೆಗಳೇನು?",
+      "options": {
+        "A": "ವೃತ್ತಿ ಆಧಾರಿತ ಭಾಷೆ, ವಯಸ್ಸು ಆಧಾರಿತ ಭಾಷೆ, ಶಿಕ್ಷಣ ಆಧಾರಿತ ಭಾಷೆ",
+        "B": "ಕೇವಲ ಪ್ರಾದೇಶಿಕ ಭಾಷೆ",
+        "C": "ಕೇವಲ ಲಿಪಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೃತ್ತಿ ಆಧಾರಿತ ಭಾಷೆ, ವಯಸ್ಸು ಆಧಾರಿತ ಭಾಷೆ, ಶಿಕ್ಷಣ ಆಧಾರಿತ ಭಾಷೆ ಮುಂತಾದವು ಸಾಮಾಜಿಕ ಉಪಭಾಷೆಗಳಿಗೆ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 8"
+    },
+    {
+      "id": "KAN167",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Sanskrit Loanwords",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಂಸ್ಕೃತದಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳೇನು?",
+      "options": {
+        "A": "ವಿದ್ಯೆ, ಮಂತ್ರ, ದೇವ, ಧರ್ಮ, ಶಕ್ತಿ",
+        "B": "ಮನೆ, ನೀರು, ಮಗು",
+        "C": "ಬಸ್, ರೈಲು",
+        "D": "ಕಾಗದ, ದರ್ಖಾಸ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿದ್ಯೆ, ಮಂತ್ರ, ದೇವ, ಧರ್ಮ, ಶಕ್ತಿ ಮುಂತಾದವು ಸಂಸ್ಕೃತದಿಂದ ಕನ್ನಡಕ್ಕೆ ಬಂದ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN168",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Deshya Words",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೇಶ್ಯ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳೇನು?",
+      "options": {
+        "A": "ಮನೆ, ಮಣಜು, ಕಣಜು, ನೀರು, ಮಗು",
+        "B": "ವಿದ್ಯೆ, ಮಂತ್ರ, ದೇವ",
+        "C": "ಬಸ್, ರೈಲು",
+        "D": "ಕಾಗದ, ದರ್ಖಾಸ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮನೆ, ಮಣಜು, ಕಣಜು, ನೀರು, ಮಗು ಮುಂತಾದವು ದೇಶ್ಯ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN169",
+      "subject": "Kannada",
+      "topic": "Kannada Language Influence",
+      "chapter": "Anyadeshya Words",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನ್ಯದೇಶ್ಯ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳೇನು?",
+      "options": {
+        "A": "ಕಾಗದ, ದರ್ಖಾಸ್ತು, ಬಸ್, ರೈಲು, ಕಂಪ್ಯೂಟರ್, ಮೊಬೈಲ್",
+        "B": "ಮನೆ, ನೀರು, ಮಗು",
+        "C": "ವಿದ್ಯೆ, ಮಂತ್ರ, ದೇವ",
+        "D": "ಕಾ, ಕಿ, ಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಗದ, ದರ್ಖಾಸ್ತು, ಬಸ್, ರೈಲು, ಕಂಪ್ಯೂಟರ್, ಮೊಬೈಲ್ ಮುಂತಾದವು ಅನ್ಯದೇಶ್ಯ ಪದಗಳಿಗೆ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN170",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಬಸ್' ಪದದ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಇಂಗ್ಲಿಷ್",
+        "C": "ಪ್ರಾಕೃತ",
+        "D": "ದೇಶ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಬಸ್' ಪದವು ಇಂಗ್ಲಿಷ್ ಮೂಲದ ಅನ್ಯದೇಶ್ಯ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN171",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಕಾಗದ' ಪದದ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಇಂಗ್ಲಿಷ್",
+        "C": "ಉರ್ದು/ಪರ್ಷಿಯನ್",
+        "D": "ದೇಶ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ಕಾಗದ' ಪದವು ಉರ್ದು/ಪರ್ಷಿಯನ್ ಮೂಲದ ಅನ್ಯದೇಶ್ಯ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN172",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮನೆ' ಪದದ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಇಂಗ್ಲಿಷ್",
+        "C": "ಉರ್ದು",
+        "D": "ದೇಶ್ಯ"
+      },
+      "correctAnswer": "D",
+      "explanation": "'ಮನೆ' ಪದವು ದೇಶ್ಯ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN173",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ವಿದ್ಯೆ' ಪದದ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಇಂಗ್ಲಿಷ್",
+        "C": "ಉರ್ದು",
+        "D": "ದೇಶ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ವಿದ್ಯೆ' ಪದವು ಸಂಸ್ಕೃತ ಮೂಲದ ತತ್ಸಮ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN174",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಕಂಪ್ಯೂಟರ್' ಪದದ ಮೂಲ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ",
+        "B": "ಇಂಗ್ಲಿಷ್",
+        "C": "ಉರ್ದು",
+        "D": "ದೇಶ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಕಂಪ್ಯೂಟರ್' ಪದವು ಇಂಗ್ಲಿಷ್ ಮೂಲದ ಅನ್ಯದೇಶ್ಯ ಪದ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+        {
+      "id": "KAN176",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮಂತ್ರ' ಪದವು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ತತ್ಸಮ",
+        "B": "ತದ್ಭವ",
+        "C": "ದೇಶ್ಯ",
+        "D": "ಅನ್ಯದೇಶ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಮಂತ್ರ' ಪದವು ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾಗಿ ಉಳಿದಿರುವುದರಿಂದ ತತ್ಸಮ ಪದವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN177",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ದೇವ' ಪದವು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ತತ್ಸಮ",
+        "B": "ತದ್ಭವ",
+        "C": "ದೇಶ್ಯ",
+        "D": "ಅನ್ಯದೇಶ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ದೇವ' ಪದವು ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾಗಿ ಉಳಿದಿರುವುದರಿಂದ ತತ್ಸಮ ಪದವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN178",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಧರ್ಮ' ಪದವು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ತತ್ಸಮ",
+        "B": "ತದ್ಭವ",
+        "C": "ದೇಶ್ಯ",
+        "D": "ಅನ್ಯದೇಶ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಧರ್ಮ' ಪದವು ಸಂಸ್ಕೃತ ಮೂಲರೂಪಕ್ಕೆ ಹತ್ತಿರವಾಗಿ ಉಳಿದಿರುವುದರಿಂದ ತತ್ಸಮ ಪದವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 9"
+    },
+    {
+      "id": "KAN179",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ನೀರು' ಪದವು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ತತ್ಸಮ",
+        "B": "ತದ್ಭವ",
+        "C": "ದೇಶ್ಯ",
+        "D": "ಅನ್ಯದೇಶ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ನೀರು' ಪದವು ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದವಾಗಿದ್ದು ದೇಶ್ಯ ಪದವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN180",
+      "subject": "Kannada",
+      "topic": "Kannada Vocabulary",
+      "chapter": "Word Origins",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮಗು' ಪದವು ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ತತ್ಸಮ",
+        "B": "ತದ್ಭವ",
+        "C": "ದೇಶ್ಯ",
+        "D": "ಅನ್ಯದೇಶ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ಮಗು' ಪದವು ಸ್ಥಳೀಯ ಕನ್ನಡ ಪದವಾಗಿದ್ದು ದೇಶ್ಯ ಪದವಾಗಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN181",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಸಂಪರ್ಕದಿಂದ ಉಂಟಾಗುವ ಬದಲಾವಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ ಸ್ವೀಕಾರ, ಧ್ವನಿ ಬದಲಾವಣೆ, ವ್ಯಾಕರಣ ಪ್ರಭಾವ, ಅರ್ಥ ಬದಲಾವಣೆ",
+        "B": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಬದಲಾವಣೆ",
+        "D": "ಯಾವುದೇ ಬದಲಾವಣೆ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಷಾ ಸಂಪರ್ಕದಿಂದ ಪದ ಸ್ವೀಕಾರ, ಧ್ವನಿ ಬದಲಾವಣೆ, ವ್ಯಾಕರಣ ಪ್ರಭಾವ, ಅರ್ಥ ಬದಲಾವಣೆ ಮುಂತಾದ ಬದಲಾವಣೆಗಳು ಉಂಟಾಗುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN182",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಪರ್ಷಿಯನ್ ಮತ್ತು ಅರೇಬಿಕ್ ಭಾಷೆಗಳ ಪ್ರಭಾವಕ್ಕೆ ಕಾರಣಗಳೇನು?",
+      "options": {
+        "A": "ಮಧ್ಯಯುಗದ ಆಡಳಿತ, ವ್ಯಾಪಾರ, ಸೈನ್ಯ ಸಂಪರ್ಕ, ನಗರ ಸಂಸ್ಕೃತಿ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಧ್ಯಯುಗದ ಆಡಳಿತ, ವ್ಯಾಪಾರ, ಸೈನ್ಯ ಸಂಪರ್ಕ, ನಗರ ಸಂಸ್ಕೃತಿಗಳಿಂದ ಪರ್ಷಿಯನ್ ಮತ್ತು ಅರೇಬಿಕ್ ಭಾಷೆಗಳ ಪ್ರಭಾವ ಉಂಟಾಯಿತು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN183",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಉರ್ದು ಭಾಷೆಯ ಪ್ರಭಾವಕ್ಕೆ ಕಾರಣಗಳೇನು?",
+      "options": {
+        "A": "ದಕ್ಷಿಣ ಭಾರತದ ಸುಲ್ತಾನರು, ಹೈದರಾಬಾದ್ ಸಂಸ್ಥಾನ, ನಗರ ಜೀವನ, ವ್ಯಾಪಾರ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಕ್ಷಿಣ ಭಾರತದ ಸುಲ್ತಾನರು, ಹೈದರಾಬಾದ್ ಸಂಸ್ಥಾನ, ನಗರ ಜೀವನ, ವ್ಯಾಪಾರ ಮತ್ತು ದೈನಂದಿನ ಸಂಪರ್ಕಗಳಿಂದ ಉರ್ದು ಭಾಷೆಯ ಪ್ರಭಾವ ಉಂಟಾಯಿತು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN184",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಮರಾಠಿ ಭಾಷೆಯ ಪ್ರಭಾವ ಎಲ್ಲಿ ಹೆಚ್ಚು?",
+      "options": {
+        "A": "ಮಹಾರಾಷ್ಟ್ರ ಗಡಿಭಾಗ ಮತ್ತು ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಕರಾವಳಿ ಪ್ರದೇಶ",
+        "C": "ಕೇವಲ ಮೈಸೂರು ಪ್ರದೇಶ",
+        "D": "ಕೇವಲ ದಕ್ಷಿಣ ಕನ್ನಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾರಾಷ್ಟ್ರ ಗಡಿಭಾಗ ಮತ್ತು ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಮರಾಠಿ ಭಾಷೆಯ ಪ್ರಭಾವ ಹೆಚ್ಚು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN185",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Contact",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೇಲೆ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯ ಪ್ರಭಾವಕ್ಕೆ ಕಾರಣಗಳೇನು?",
+      "options": {
+        "A": "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ, ಆಧುನಿಕ ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಕಾನೂನು, ರೈಲು, ಅಂಚೆ, ಕೈಗಾರಿಕೆ, ಜಾಗತಿಕ ಸಂಪರ್ಕ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ವ್ಯಾಪಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ, ಆಧುನಿಕ ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ-ತಂತ್ರಜ್ಞಾನ, ಕಾನೂನು, ರೈಲು, ಅಂಚೆ, ಕೈಗಾರಿಕೆ, ಜಾಗತಿಕ ಸಂಪರ್ಕದಿಂದ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯ ಪ್ರಭಾವ ಉಂಟಾಯಿತು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 10"
+    },
+    {
+      "id": "KAN186",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Adaptation",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ವೀಕೃತ ಪದವು ಕನ್ನಡದಲ್ಲಿ ಹೊಂದಿಕೊಳ್ಳುವ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಧ್ವನಿ ವ್ಯವಸ್ಥೆ, ಉಚ್ಚಾರಣೆ, ಲಿಂಗ-ವಚನ, ವಿಭಕ್ತಿ, ವಾಕ್ಯಪ್ರಯೋಗ",
+        "B": "ಕೇವಲ ಲಿಪಿ",
+        "C": "ಕೇವಲ ಅರ್ಥ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಅಂಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವೀಕೃತ ಪದವು ಕನ್ನಡದ ಧ್ವನಿ ವ್ಯವಸ್ಥೆ, ಉಚ್ಚಾರಣೆ, ಲಿಂಗ-ವಚನ, ವಿಭಕ್ತಿ, ವಾಕ್ಯಪ್ರಯೋಗಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN187",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Adaptation",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಇಂಗ್ಲಿಷ್ ಪದವು ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಬಳಕೆಯಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "'ಬಸ್', 'ಬಸ್ಸು', 'ಬಸ್ನಲ್ಲಿ' ಎಂಬ ರೂಪಗಳಲ್ಲಿ",
+        "B": "ಬದಲಾಗದೆ",
+        "C": "ಸಂಸ್ಕೃತ ರೂಪದಲ್ಲಿ",
+        "D": "ಪ್ರಾಕೃತ ರೂಪದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಂಗ್ಲಿಷ್ ಪದವು ಕನ್ನಡದಲ್ಲಿ 'ಬಸ್', 'ಬಸ್ಸು', 'ಬಸ್ನಲ್ಲಿ' ಎಂಬ ರೂಪಗಳಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತದೆ. ಇದು ಕನ್ನಡದ ಧ್ವನಿ ಮತ್ತು ವ್ಯಾಕರಣಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುವುದನ್ನು ತೋರಿಸುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN188",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಪರಿವರ್ತನೆಗೆ ಕಾರಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಉಚ್ಚಾರಣೆಯ ಬದಲಾವಣೆ, ಭಾಷಾ ಸಂಪರ್ಕ, ಸಾಮಾಜಿಕ ಬದಲಾವಣೆ, ಹೊಸ ತಂತ್ರಜ್ಞಾನ, ವಲಸೆ, ಶಿಕ್ಷಣ, ಮಾಧ್ಯಮ, ನಗರೀಕರಣ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಾರಣ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾರಣ",
+        "D": "ಕೇವಲ ಶಿಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀಳಿಗೆಯಿಂದ ಪೀಳಿಗೆಗೆ ಉಚ್ಚಾರಣೆಯ ಬದಲಾವಣೆ, ಭಾಷಾ ಸಂಪರ್ಕ, ಸಾಮಾಜಿಕ ಬದಲಾವಣೆ, ಹೊಸ ತಂತ್ರಜ್ಞಾನ, ವಲಸೆ, ಶಿಕ್ಷಣ, ಮಾಧ್ಯಮ, ನಗರೀಕರಣ ಮುಂತಾದ ಕಾರಣಗಳಿಂದ ಭಾಷಾ ಪರಿವರ್ತನೆ ಉಂಟಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN189",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧ್ವನಿ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾಲಕ್ರಮೇಣ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಉಂಟಾಗುವ ನಿಯಮಿತ ಅಥವಾ ಅನಿಯಮಿತ ಬದಲಾವಣೆ",
+        "B": "ಕೇವಲ ಅರ್ಥ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಪದ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಲಕ್ರಮೇಣ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಉಂಟಾಗುವ ನಿಯಮಿತ ಅಥವಾ ಅನಿಯಮಿತ ಬದಲಾವಣೆಯನ್ನು ಧ್ವನಿ ಪರಿವರ್ತನೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN190",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅರ್ಥ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಪದದ ಅರ್ಥ ಕಾಲಕ್ರಮೇಣ ವಿಸ್ತರಿಸುವುದು, ಸೀಮಿತಗೊಳ್ಳುವುದು ಅಥವಾ ಬೇರೆ ಅರ್ಥ ಪಡೆಯುವುದು",
+        "B": "ಕೇವಲ ಧ್ವನಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಪದ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಪದದ ಅರ್ಥ ಕಾಲಕ್ರಮೇಣ ವಿಸ್ತರಿಸುವುದು, ಸೀಮಿತಗೊಳ್ಳುವುದು ಅಥವಾ ಬೇರೆ ಅರ್ಥ ಪಡೆಯುವುದನ್ನು ಅರ್ಥ ಪರಿವರ್ತನೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN191",
+      "subject": "Kannada",
+      "topic": "Kannada Language Change",
+      "chapter": "Language Change",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದಸಂಪತ್ತಿನ ಪರಿವರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹೊಸ ಪದಗಳು ಭಾಷೆಗೆ ಸೇರುತ್ತವೆ, ಹಳೆಯ ಪದಗಳು ಬಳಕೆಯಿಂದ ಕಡಿಮೆಯಾಗುತ್ತವೆ, ಹೊಸ ಅರ್ಥಗಳು ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ",
+        "B": "ಕೇವಲ ಧ್ವನಿ ಬದಲಾವಣೆ",
+        "C": "ಕೇವಲ ಅರ್ಥ ಬದಲಾವಣೆ",
+        "D": "ಕೇವಲ ಲಿಪಿ ಬದಲಾವಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹೊಸ ಪದಗಳು ಭಾಷೆಗೆ ಸೇರುತ್ತವೆ, ಹಳೆಯ ಪದಗಳು ಬಳಕೆಯಿಂದ ಕಡಿಮೆಯಾಗುತ್ತವೆ, ಹೊಸ ಅರ್ಥಗಳು ಹುಟ್ಟಿಕೊಳ್ಳುತ್ತವೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 11"
+    },
+    {
+      "id": "KAN192",
+      "subject": "Kannada",
+      "topic": "Kannada Language Style",
+      "chapter": "Standard Language",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಶುದ್ಧತೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಸ್ಪಷ್ಟ, ವ್ಯಾಕರಣಸಮ್ಮತ, ಅರ್ಥಪೂರ್ಣ ಮತ್ತು ಓದುಗರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯನ್ನು ಬಳಸುವುದು",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಪದಗಳ ಬಳಕೆ",
+        "C": "ಕೇವಲ ದೇಶ್ಯ ಪದಗಳ ಬಳಕೆ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪದಗಳ ಬಳಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂದರ್ಭಕ್ಕೆ ತಕ್ಕಂತೆ ಸ್ಪಷ್ಟ, ವ್ಯಾಕರಣಸಮ್ಮತ, ಅರ್ಥಪೂರ್ಣ ಮತ್ತು ಓದುಗರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯನ್ನು ಬಳಸುವುದನ್ನು ಭಾಷಾ ಶುದ್ಧತೆ ಎಂದು ಅರ್ಥೈಸಬಹುದು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN193",
+      "subject": "Kannada",
+      "topic": "Kannada Language Style",
+      "chapter": "Standard Language",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಷಾಬಳಕೆಯಲ್ಲಿ ಪ್ರಮಾಣೀಕೃತ ರೂಪದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಶಿಕ್ಷಣ, ಪರೀಕ್ಷೆ, ಆಡಳಿತ, ಕಾನೂನು ಮತ್ತು ಅಧಿಕೃತ ಸಂವಹನದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ಬರವಣಿಗೆ ಹಾಗೂ ಅರ್ಥಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ",
+        "B": "ಪ್ರಮಾಣಿತ ರೂಪ ಅಗತ್ಯವಿಲ್ಲ",
+        "C": "ಪ್ರಮಾಣಿತ ರೂಪ ಭಾಷೆಯನ್ನು ಹಾಳುಮಾಡುತ್ತದೆ",
+        "D": "ಪ್ರಮಾಣಿತ ರೂಪ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿಕ್ಷಣ, ಪರೀಕ್ಷೆ, ಆಡಳಿತ, ಕಾನೂನು ಮತ್ತು ಅಧಿಕೃತ ಸಂವಹನದಲ್ಲಿ ಒಂದೇ ರೀತಿಯ ಬರವಣಿಗೆ ಹಾಗೂ ಅರ್ಥಸ್ಪಷ್ಟತೆಯನ್ನು ಕಾಪಾಡಲು ಪ್ರಮಾಣಿತ ರೂಪ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN194",
+      "subject": "Kannada",
+      "topic": "Kannada Language Style",
+      "chapter": "Spoken vs Written",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾತನಾಡುವ ಕನ್ನಡ ಮತ್ತು ಬರೆಯುವ ಕನ್ನಡದ ನಡುವೆ ವ್ಯತ್ಯಾಸವಿದೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಎರಡೂ ಒಂದೇ",
+        "B": "ಹೌದು. ದೈನಂದಿನ ಮಾತಿನಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳು, ಪ್ರಾದೇಶಿಕ ಪದಗಳು ಮತ್ತು ಸಹಜ ಉಚ್ಚಾರಣೆಗಳು ಹೆಚ್ಚಿರಬಹುದು; ಅಧಿಕೃತ ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಮಾಣಿತ ಕಾಗುಣಿತ, ವಿರಾಮ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯರಚನೆಗೆ ಹೆಚ್ಚಿನ ಮಹತ್ವ",
+        "C": "ಮಾತಿನಲ್ಲಿ ಪ್ರಮಾಣಿತ ರೂಪ ಮಾತ್ರ",
+        "D": "ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಾದೇಶಿಕ ರೂಪ ಮಾತ್ರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹೌದು. ದೈನಂದಿನ ಮಾತಿನಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತ ರೂಪಗಳು, ಪ್ರಾದೇಶಿಕ ಪದಗಳು ಮತ್ತು ಸಹಜ ಉಚ್ಚಾರಣೆಗಳು ಹೆಚ್ಚಿರಬಹುದು; ಅಧಿಕೃತ ಬರವಣಿಗೆಯಲ್ಲಿ ಪ್ರಮಾಣಿತ ಕಾಗುಣಿತ, ವಿರಾಮ ಚಿಹ್ನೆ ಮತ್ತು ವಾಕ್ಯರಚನೆಗೆ ಹೆಚ್ಚಿನ ಮಹತ್ವ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN195",
+      "subject": "Kannada",
+      "topic": "Kannada Language Style",
+      "chapter": "Language Purism",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಭಾಷಾ ಶುದ್ಧತೆ ಮತ್ತು ಭಾಷಾ ಬೆಳವಣಿಗೆ ಪರಸ್ಪರ ವಿರುದ್ಧವೇ?",
+      "options": {
+        "A": "ಹೌದು, ಶುದ್ಧತೆ ಬೆಳವಣಿಗೆಯನ್ನು ತಡೆಯುತ್ತದೆ",
+        "B": "ಇಲ್ಲ. ಸ್ಪಷ್ಟತೆ ಮತ್ತು ವ್ಯಾಕರಣಸಮ್ಮತತೆಯನ್ನು ಕಾಪಾಡುತ್ತಲೇ ಹೊಸ ಪದಗಳು, ತಂತ್ರಜ್ಞಾನ ಪದಗಳು ಮತ್ತು ಜನಪದ ಜೀವಂತ ರೂಪಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬಹುದು",
+        "C": "ಇಲ್ಲ, ಆದರೆ ಶುದ್ಧತೆ ಮಾತ್ರ ಮುಖ್ಯ",
+        "D": "ಹೌದು, ಬೆಳವಣಿಗೆ ಮಾತ್ರ ಮುಖ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಸ್ಪಷ್ಟತೆ ಮತ್ತು ವ್ಯಾಕರಣಸಮ್ಮತತೆಯನ್ನು ಕಾಪಾಡುತ್ತಲೇ ಹೊಸ ಪದಗಳು, ತಂತ್ರಜ್ಞಾನ ಪದಗಳು ಮತ್ತು ಜನಪದ ಜೀವಂತ ರೂಪಗಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳಬಹುದು. ಜೀವಂತ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಗೆ ಬದಲಾವಣೆ ಸಹಜ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN196",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆ ಯಾವ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಇಂಡೋ-ಯುರೋಪಿಯನ್",
+        "B": "ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬ",
+        "C": "ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್",
+        "D": "ಸಿನೋ-ಟಿಬೆಟಿಯನ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯು ದ್ರಾವಿಡ ಭಾಷಾ ಕುಟುಂಬಕ್ಕೆ ಸೇರಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN197",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಮುಖ ಉಪಗುಂಪು ಯಾವುದು?",
+      "options": {
+        "A": "ಉತ್ತರ ದ್ರಾವಿಡ",
+        "B": "ದಕ್ಷಿಣ ದ್ರಾವಿಡ",
+        "C": "ಮಧ್ಯ ದ್ರಾವಿಡ",
+        "D": "ದಕ್ಷಿಣ-ಮಧ್ಯ ದ್ರಾವಿಡ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡದ ಪ್ರಮುಖ ಉಪಗುಂಪು ದಕ್ಷಿಣ ದ್ರಾವಿಡ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN198",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸ್ಥಳ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೈಸೂರು ಜಿಲ್ಲೆ",
+        "B": "ಹಾಸನ ಜಿಲ್ಲೆ",
+        "C": "ಬೆಂಗಳೂರು ಜಿಲ್ಲೆ",
+        "D": "ಧಾರವಾಡ ಜಿಲ್ಲೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಹಾಸನ ಜಿಲ್ಲೆಯ ಬೇಲೂರು ತಾಲ್ಲೂಕಿನ ಹಲ್ಮಿಡಿ ಗ್ರಾಮದಲ್ಲಿದೆ.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN199",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸಾಮಾನ್ಯ ದಿನಾಂಕ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 350",
+        "B": "ಕ್ರಿ.ಶ. ಸುಮಾರು 450",
+        "C": "ಕ್ರಿ.ಶ. 850",
+        "D": "ಕ್ರಿ.ಶ. 1200"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ಸಾಮಾನ್ಯ ದಿನಾಂಕ ಕ್ರಿ.ಶ. ಸುಮಾರು 450; ಪರ್ಯಾಯ ವಿದ್ವಾಂಸರ ದಿನಾಂಕ ಸುಮಾರು 500.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    },
+    {
+      "id": "KAN200",
+      "subject": "Kannada",
+      "topic": "Kannada Exam Preparation",
+      "chapter": "Important Facts",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಪತ್ತೆಹಚ್ಚಿದವರು ಯಾರು?",
+      "options": {
+        "A": "ಬಿ. ಎಲ್. ರೈಸ್",
+        "B": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ",
+        "C": "ಆರ್. ನರಸಿಂಹಾಚಾರ್",
+        "D": "ಡಿ. ಎಲ್. ನರಸಿಂಹಾಚಾರ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಎಂ. ಎಚ್. ಕೃಷ್ಣ ಅವರು 1936ರಲ್ಲಿ ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಪತ್ತೆಹಚ್ಚಿದರು.",
+      "source": "Kannada_Origin_and_Development.pdf, Page 12"
+    }
+  ]
+}

@@ -1,0 +1,4525 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Comprehensive question bank based on Chapter 30: Janapada Sahitya (Folk Literature). Verify and expand questions before formal examination use.",
+  "questions": [
+    {
+      "id": "JS001",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನಸಾಮಾನ್ಯರ ಜೀವನಾನುಭವ, ನಂಬಿಕೆ, ಆಚರಣೆ, ದುಡಿಮೆ, ಸಂತೋಷ, ದುಃಖ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳು ಮೌಖಿಕವಾಗಿ ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಹರಿದು ಬಂದ ಸಾಹಿತ್ಯ",
+        "B": "ಕೇವಲ ರಾಜರ ಆಸ್ಥಾನದಲ್ಲಿ ರಚಿಸಲ್ಪಟ್ಟ ಕಾವ್ಯಗಳು",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿಗಳು ಮತ್ತು ಕಥೆಗಳು",
+        "D": "ಸಂಸ್ಕೃತ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟ ಶಾಸ್ತ್ರೀಯ ಗ್ರಂಥಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಸಾಮಾನ್ಯರ ಜೀವನಾನುಭವ, ನಂಬಿಕೆ, ಆಚರಣೆ, ದುಡಿಮೆ, ಸಂತೋಷ, ದುಃಖ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳನ್ನು ಮೌಖಿಕವಾಗಿ ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಹರಿದು ಬಂದ ಸಾಹಿತ್ಯವೇ ಜನಪದ ಸಾಹಿತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q1"
+    },
+    {
+      "id": "JS002",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಜನಪದ' ಪದದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಜನರು + ಪದ (ಜನರ ಮಾತು)",
+        "B": "ಜನ + ಅಪದ (ಜನರಿಗೆ ಸಂಬಂಧಿಸದ್ದು)",
+        "C": "ಜನ + ಪದ (ಜನರಿಗೆ ಅರ್ಥವಾಗದ ಮಾತು)",
+        "D": "ಜನ + ವಾದ (ಜನರ ವಾದ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಜನಪದ' ಎಂದರೆ 'ಜನರು' ಮತ್ತು 'ಪದ' ಎಂಬ ಎರಡು ಪದಗಳ ಸಂಯೋಗ. ಇದರಲ್ಲಿ 'ಪದ' ಎಂಬುದು ಸಾಮಾನ್ಯವಾಗಿ ಜನರ ಬದುಕು, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಪರಂಪರೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q2"
+    },
+    {
+      "id": "JS003",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಮಾಧ್ಯಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಿಖಿತ ರೂಪ",
+        "B": "ಮೌಖಿಕ ಪರಂಪರೆ",
+        "C": "ಮುದ್ರಣ ಮಾಧ್ಯಮ",
+        "D": "ದೃಶ್ಯ ಮಾಧ್ಯಮ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಮಾಧ್ಯಮ ಮೌಖಿಕ ಪರಂಪರೆಯಾಗಿದೆ. ಹಾಡುವುದು, ಹೇಳುವುದು, ಅಭಿನಯಿಸುವುದು ಮತ್ತು ಆಚರಣೆಗಳ ಮೂಲಕ ಇದು ಹರಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q3"
+    },
+    {
+      "id": "JS004",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿಗಳು",
+        "B": "ರಾಜಾಸ್ಥಾನದ ಕವಿಗಳು",
+        "C": "ಬಹುತೇಕ ಜನಪದ ರಚನೆಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿಕ ಕರ್ತೃ ತಿಳಿದಿರುವುದಿಲ್ಲ, ಅವು ಸಮುದಾಯದ ಸಾಮೂಹಿಕ ಸೃಷ್ಟಿಗಳಾಗಿರುತ್ತವೆ",
+        "D": "ಆಧುನಿಕ ಸಾಹಿತಿಗಳು"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಬಹುತೇಕ ಜನಪದ ರಚನೆಗಳಿಗೆ ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿಕ ಕರ್ತೃ ತಿಳಿದಿರುವುದಿಲ್ಲ; ಅವು ಸಮುದಾಯದ ಸಾಮೂಹಿಕ ಸೃಷ್ಟಿಗಳಾಗಿರುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q4"
+    },
+    {
+      "id": "JS005",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಲಕ್ಷಣಗಳನ್ನು ತಿಳಿಸಿ.",
+      "options": {
+        "A": "ಮೌಖಿಕ ಪ್ರಸಾರ, ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ, ಪ್ರಾದೇಶಿಕ ಭಾಷೆ, ಸರಳತೆ, ಪುನರಾವರ್ತನೆ, ಲಯ, ಸ್ಥಳೀಯ ಜೀವನದ ಪ್ರತಿಬಿಂಬ",
+        "B": "ಲಿಖಿತ ರೂಪ, ವ್ಯಕ್ತಿಗತ ಕರ್ತೃತ್ವ, ಸಂಸ್ಕೃತ ಭಾಷೆ, ಸಂಕೀರ್ಣತೆ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯಗಳು, ಏಕರೂಪತೆ",
+        "D": "ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನದ ಬಳಕೆ, ನಗರ ಜೀವನದ ಪ್ರತಿಬಿಂಬ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೌಖಿಕ ಪ್ರಸಾರ, ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ, ಪ್ರಾದೇಶಿಕ ಭಾಷೆ, ಸರಳತೆ, ಪುನರಾವರ್ತನೆ, ಲಯ, ಸ್ಥಳೀಯ ಜೀವನದ ಪ್ರತಿಬಿಂಬ, ರೂಪಾಂತರಶೀಲತೆ ಮತ್ತು ಪರಂಪರಾನುಗತತೆ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "JS006",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯವು ಏಕೆ ರೂಪಾಂತರಗೊಳ್ಳುತ್ತದೆ?",
+      "options": {
+        "A": "ಅದು ಕೇವಲ ಒಂದೇ ಭಾಷೆಯಲ್ಲಿ ಲಿಖಿತವಾಗಿರುವುದರಿಂದ",
+        "B": "ಮೌಖಿಕವಾಗಿ ಪ್ರಸಾರವಾಗುವಾಗ ಹಾಡುಗಾರರು, ಕಥೆಗಾರರು ಮತ್ತು ಪ್ರದೇಶಗಳ ಪ್ರಭಾವದಿಂದ ಪದಗಳು, ಘಟನೆಗಳು ಹಾಗೂ ನಿರೂಪಣೆಯಲ್ಲಿ ಬದಲಾವಣೆ ಉಂಟಾಗುತ್ತದೆ",
+        "C": "ಸರ್ಕಾರದ ಆದೇಶದಿಂದ",
+        "D": "ಮುದ್ರಣ ತಂತ್ರಜ್ಞಾನದ ಬೆಳವಣಿಗೆಯಿಂದ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಮೌಖಿಕವಾಗಿ ಪ್ರಸಾರವಾಗುವಾಗ ಹಾಡುಗಾರರು, ಕಥೆಗಾರರು ಮತ್ತು ಪ್ರದೇಶಗಳ ಪ್ರಭಾವದಿಂದ ಪದಗಳು, ಘಟನೆಗಳು ಹಾಗೂ ನಿರೂಪಣೆಯಲ್ಲಿ ಬದಲಾವಣೆ ಉಂಟಾಗುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q6"
+    },
+    {
+      "id": "JS007",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಲಿಖಿತ ಸಾಹಿತ್ಯದ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಸಾಹಿತ್ಯ ಮುಖ್ಯವಾಗಿ ಮೌಖಿಕ, ಸಾಮೂಹಿಕ ಮತ್ತು ರೂಪಾಂತರಶೀಲ; ಲಿಖಿತ ಸಾಹಿತ್ಯ ಸಾಮಾನ್ಯವಾಗಿ ಲಿಖಿತ ರೂಪದಲ್ಲಿದ್ದು ಕರ್ತೃ ಮತ್ತು ಮೂಲಪಾಠ ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ",
+        "B": "ಜನಪದ ಸಾಹಿತ್ಯ ಲಿಖಿತ, ಲಿಖಿತ ಸಾಹಿತ್ಯ ಮೌಖಿಕ",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಜನಪದ ಸಾಹಿತ್ಯಕ್ಕೆ ಕರ್ತೃ ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತದೆ, ಲಿಖಿತ ಸಾಹಿತ್ಯಕ್ಕೆ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯ ಮುಖ್ಯವಾಗಿ ಮೌಖಿಕ, ಸಾಮೂಹಿಕ ಮತ್ತು ರೂಪಾಂತರಶೀಲ; ಲಿಖಿತ ಸಾಹಿತ್ಯ ಸಾಮಾನ್ಯವಾಗಿ ಲಿಖಿತ ರೂಪದಲ್ಲಿದ್ದು ಕರ್ತೃ ಮತ್ತು ಮೂಲಪಾಠ ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q7"
+    },
+    {
+      "id": "JS008",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಜನಪದ ಅಧ್ಯಯನ ಅಥವಾ ಫೋಕ್ಲೋರಿಸ್ಟಿಕ್ಸ್ (Folkloreistics)",
+        "B": "ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ",
+        "C": "ಭಾಷಾ ವಿಜ್ಞಾನ",
+        "D": "ಸಮಾಜಶಾಸ್ತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಅಧ್ಯಯನ ಅಥವಾ ಫೋಕ್ಲೋರಿಸ್ಟಿಕ್ಸ್ (Folkloreistics) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q8"
+    },
+    {
+      "id": "JS009",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ವಿಭಾಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜನಪದ ಗೀತೆಗಳು, ಕಥೆಗಳು, ಕಾವ್ಯಗಳು, ಗಾದೆಗಳು, ಒಗಟುಗಳು, ಪುರಾಣಕಥೆಗಳು, ನಂಬಿಕೆಗಳು, ಆಚರಣೆಗಳು ಮತ್ತು ಪ್ರದರ್ಶನ ಕಲೆಗಳು",
+        "B": "ಕೇವಲ ಗೀತೆಗಳು ಮತ್ತು ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ಗಾದೆಗಳು ಮತ್ತು ಒಗಟುಗಳು",
+        "D": "ಕೇವಲ ನಾಟಕಗಳು ಮತ್ತು ನೃತ್ಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಗೀತೆಗಳು, ಕಥೆಗಳು, ಕಾವ್ಯಗಳು, ಗಾದೆಗಳು, ಒಗಟುಗಳು, ಪುರಾಣಕಥೆಗಳು, ನಂಬಿಕೆಗಳು, ಆಚರಣೆಗಳು ಮತ್ತು ಪ್ರದರ್ಶನ ಕಲೆಗಳು ಪ್ರಮುಖ ವಿಭಾಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "JS010",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನರ ದೈನಂದಿನ ಬದುಕು, ಕೆಲಸ, ಹಬ್ಬ, ಸಂಸ್ಕಾರ, ಪ್ರೀತಿ, ಭಕ್ತಿ ಮತ್ತು ಪ್ರಕೃತಿಯನ್ನು ಸರಳ ಲಯಬದ್ಧ ಭಾಷೆಯಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವ ಮೌಖಿಕ ಹಾಡು",
+        "B": "ಕೇವಲ ದೇವಸ್ಥಾನಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "C": "ಆಧುನಿಕ ಸಂಗೀತದ ಹಾಡುಗಳು",
+        "D": "ಕೇವಲ ಮದುವೆಯಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ದೈನಂದಿನ ಬದುಕು, ಕೆಲಸ, ಹಬ್ಬ, ಸಂಸ್ಕಾರ, ಪ್ರೀತಿ, ಭಕ್ತಿ ಮತ್ತು ಪ್ರಕೃತಿಯನ್ನು ಸರಳ ಲಯಬದ್ಧ ಭಾಷೆಯಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವ ಮೌಖಿಕ ಹಾಡು ಜನಪದ ಗೀತೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q10"
+    },
+    {
+      "id": "JS011",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜನನ, ನಾಮಕರಣ, ಮದುವೆ, ಕೃಷಿ, ಹಬ್ಬ, ದೇವತಾ ಆರಾಧನೆ, ಪ್ರೇಮ, ವಿರಹ, ವೀರಗಾಥೆ, ದುಡಿಮೆ, ಪ್ರಕೃತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಬದುಕು",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಷಯಗಳು",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನನ, ನಾಮಕರಣ, ಮದುವೆ, ಕೃಷಿ, ಹಬ್ಬ, ದೇವತಾ ಆರಾಧನೆ, ಪ್ರೇಮ, ವಿರಹ, ವೀರಗಾಥೆ, ದುಡಿಮೆ, ಪ್ರಕೃತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಬದುಕು ಜನಪದ ಗೀತೆಗಳ ವಿಷಯಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q11"
+    },
+    {
+      "id": "JS012",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳ ಲಕ್ಷಣಗಳೇನು?",
+      "options": {
+        "A": "ಸರಳ ಪದಪ್ರಯೋಗ, ಸ್ಥಳೀಯ ಉಪಭಾಷೆ, ಲಯ ಮತ್ತು ಧಾಟಿ, ಪುನರಾವರ್ತನೆ, ಸಾಮೂಹಿಕ ಗಾಯನ ಹಾಗೂ ಸಂದರ್ಭದಾರಿತ ವಿಷಯಗಳು",
+        "B": "ಸಂಕೀರ್ಣ ಪದಪ್ರಯೋಗ, ಪ್ರಮಾಣಿತ ಭಾಷೆ, ಲಯರಹಿತ",
+        "C": "ಕೇವಲ ಲಿಖಿತ ರೂಪ, ವ್ಯಕ್ತಿಗತ ಗಾಯನ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯಗಳು, ಏಕರೂಪತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಳ ಪದಪ್ರಯೋಗ, ಸ್ಥಳೀಯ ಉಪಭಾಷೆ, ಲಯ ಮತ್ತು ಧಾಟಿ, ಪುನರಾವರ್ತನೆ, ಸಾಮೂಹಿಕ ಗಾಯನ ಹಾಗೂ ಸಂದರ್ಭದಾರಿತ ವಿಷಯಗಳು ಜನಪದ ಗೀತೆಗಳ ಲಕ್ಷಣಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS013",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕೆಲಸದ ಹಾಡುಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೃಷಿ, ನಾಟಿ, ಕೊಯ್ಯ, ಬೀಸುವಿಕೆ, ನೂಲುವಿಕೆ, ದೋಣೆ ಚಲಾವಣೆ ಮುಂತಾದ ಕೆಲಸಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರಮದ ಲಯಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಹಾಡುವ ಹಾಡುಗಳು",
+        "B": "ಕೇವಲ ಮದುವೆಯಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "C": "ಕೇವಲ ದೇವಸ್ಥಾನಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "D": "ಕೇವಲ ಹಬ್ಬಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೃಷಿ, ನಾಟಿ, ಕೊಯ್ಯ, ಬೀಸುವಿಕೆ, ನೂಲುವಿಕೆ, ದೋಣೆ ಚಲಾವಣೆ ಮುಂತಾದ ಕೆಲಸಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಶ್ರಮದ ಲಯಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಹಾಡುವ ಹಾಡುಗಳು ಕೆಲಸದ ಹಾಡುಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q13"
+    },
+    {
+      "id": "JS014",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಂಸ್ಕಾರ ಗೀತೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜನನ, ತೊಟ್ಟಿಲು, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ ಮತ್ತು ಮರಣದಂತಹ ಜೀವನದ ಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಗೀತೆಗಳು",
+        "B": "ಕೇವಲ ಕೃಷಿ ಕೆಲಸದಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಸಭೆಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "D": "ಕೇವಲ ಶಾಲೆಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನನ, ತೊಟ್ಟಿಲು, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ ಮತ್ತು ಮರಣದಂತಹ ಜೀವನದ ಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಗೀತೆಗಳು ಸಂಸ್ಕಾರ ಗೀತೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q14"
+    },
+    {
+      "id": "JS015",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಕ್ತಿಗೀತೆಗಳ ಜನಪದ ರೂಪಗಳ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡಿ.",
+      "options": {
+        "A": "ದೇವರನಾಮ, ಭಜನೆ, ತತ್ವಪದ, ಜಾತ್ರೆ ಮತ್ತು ಗ್ರಾಮದೇವತೆಗಳ ಆರಾಧನೆಯ ಹಾಡುಗಳು",
+        "B": "ಕೆಲಸದ ಹಾಡುಗಳು, ಸೋಬಾನೆ ಪದಗಳು",
+        "C": "ಗಾದೆಗಳು, ಒಗಟುಗಳು",
+        "D": "ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರನಾಮ, ಭಜನೆ, ತತ್ವಪದ, ಜಾತ್ರೆ ಮತ್ತು ಗ್ರಾಮದೇವತೆಗಳ ಆರಾಧನೆಯ ಹಾಡುಗಳು ಜನಪದ ಭಕ್ತಿಗೀತೆಯ ರೂಪಗಳಾಗಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q15"
+    },
+    {
+      "id": "JS016",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನರ ಕಲ್ಪನೆ, ಅನುಭವ, ನಂಬಿಕೆ, ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಥನ ರೂಪದಲ್ಲಿ ಮೌಖಿಕವಾಗಿ ಸಾರುವ ಪರಂಪರೆಯ ಕಥೆ",
+        "B": "ಕೇವಲ ರಾಜರ ಕಥೆಗಳು",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿಗಳು",
+        "D": "ಕೇವಲ ದೇವತೆಗಳ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ಕಲ್ಪನೆ, ಅನುಭವ, ನಂಬಿಕೆ, ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಥನ ರೂಪದಲ್ಲಿ ಮೌಖಿಕವಾಗಿ ಸಾರುವ ಪರಂಪರೆಯ ಕಥೆಯೇ ಜನಪದ ಕಥೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS017",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳ ವಿಧಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ್ರಾಣಿಕಥೆ, ನೀತಿಕಥೆ, ಅದ್ಭುತಕಥೆ, ಹಾಸ್ಯಕಥೆ, ದಂತಕಥೆ, ಪೌರಾಣಿಕ ಕಥೆ, ವೀರಕಥೆ ಮತ್ತು ಸ್ಥಳೀಯ ಐತಿಹ್ಯಗಳು",
+        "B": "ಕೇವಲ ಪ್ರಾಣಿಕಥೆಗಳು ಮತ್ತು ನೀತಿಕಥೆಗಳು",
+        "C": "ಕೇವಲ ಪೌರಾಣಿಕ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಹಾಸ್ಯಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಣಿಕಥೆ, ನೀತಿಕಥೆ, ಅದ್ಭುತಕಥೆ, ಹಾಸ್ಯಕಥೆ, ದಂತಕಥೆ, ಪೌರಾಣಿಕ ಕಥೆ, ವೀರಕಥೆ ಮತ್ತು ಸ್ಥಳೀಯ ಐತಿಹ್ಯಗಳು ಜನಪದ ಕಥೆಗಳ ವಿಧಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS018",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಣಿಕಥೆಗಳ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಪ್ರಾಣಿಗಳ ಪಾತ್ರಗಳ ಮೂಲಕ ಮಾನವ ಸ್ವಭಾವ, ಬುದ್ಧಿವಂತಿಕೆ, ದುರಾಸೆ, ಸ್ನೇಹ ಮತ್ತು ನೀತಿಯನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ ನೀಡುವುದು",
+        "C": "ಐತಿಹಾಸಿಕ ಘಟನೆಗಳನ್ನು ದಾಖಲಿಸುವುದು",
+        "D": "ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳನ್ನು ವಿವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಣಿಗಳ ಪಾತ್ರಗಳ ಮೂಲಕ ಮಾನವ ಸ್ವಭಾವ, ಬುದ್ಧಿವಂತಿಕೆ, ದುರಾಸೆ, ಸ್ನೇಹ ಮತ್ತು ನೀತಿಯನ್ನು ತಿಳಿಸುವುದು ಪ್ರಾಣಿಕಥೆಗಳ ಉದ್ದೇಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q18"
+    },
+    {
+      "id": "JS019",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಂತಕಥೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ಜನರಲ್ಲಿ ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದಿರುವ ಕಥನ",
+        "B": "ಕೇವಲ ಕಾಲ್ಪನಿಕ ಕಥೆ",
+        "C": "ಆಧುನಿಕ ವಿಜ್ಞಾನ ಕಥೆ",
+        "D": "ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ಜನರಲ್ಲಿ ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದಿರುವ ಕಥನವನ್ನು ದಂತಕಥೆ ಅಥವಾ ಐತಿಹ್ಯ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q19"
+    },
+    {
+      "id": "JS020",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಾವ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನರ ವೀರತೆ, ಭಕ್ತಿ, ಪ್ರೇಮ, ದುಃಖ, ಸಂಘರ್ಷ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳನ್ನು ಹಾಡು ಅಥವಾ ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವ ಕಾವ್ಯ",
+        "B": "ಕೇವಲ ಲಿಖಿತ ಕಾವ್ಯ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಕಾವ್ಯ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ವೀರತೆ, ಭಕ್ತಿ, ಪ್ರೇಮ, ದುಃಖ, ಸಂಘರ್ಷ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳನ್ನು ಹಾಡು ಅಥವಾ ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವ ಕಾವ್ಯ ಜನಪದ ಕಾವ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "JS021",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಾವಣಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಲಯಬದ್ಧವಾಗಿ ಹಾಡುವ, ಸಾಮಾನ್ಯವಾಗಿ ವೀರಗಾಥೆ, ಸಾಮಾಜಿಕ ಘಟನೆ, ಪ್ರೇಮ ಅಥವಾ ವ್ಯಂಗ್ಯವನ್ನು ನಿರೂಪಿಸುವ ಜನಪದ ಗೀತಿಕಾವ್ಯ ರೂಪ",
+        "B": "ಕೇವಲ ಮದುವೆಯಲ್ಲಿ ಹಾಡುವ ಹಾಡು",
+        "C": "ಕೇವಲ ದೇವಸ್ಥಾನದ ಭಜನೆ",
+        "D": "ಕೇವಲ ಒಗಟು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಯಬದ್ಧವಾಗಿ ಹಾಡುವ, ಸಾಮಾನ್ಯವಾಗಿ ವೀರಗಾಥೆ, ಸಾಮಾಜಿಕ ಘಟನೆ, ಪ್ರೇಮ ಅಥವಾ ವ್ಯಂಗ್ಯವನ್ನು ನಿರೂಪಿಸುವ ಜನಪದ ಗೀತಿಕಾವ್ಯ ರೂಪವೇ ಲಾವಣಿ. ಕರ್ನಾಟಕದಲ್ಲಿ ಪ್ರಾದೇಶಿಕ ರೂಪಾಂತರಗಳಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q21"
+    },
+        {
+      "id": "JS022",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸೋಬಾನೆ ಪದಗಳು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಮದುವೆ ಮತ್ತು ಇತರ ಶುಭಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಮಹಿಳೆಯರು ಗುಂಪಾಗಿ ಹಾಡುವ ಮಂಗಳಕರ ಹಾಡುಗಳು",
+        "B": "ಕೇವಲ ಮರಣದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ಕೇವಲ ಕೃಷಿ ಕೆಲಸದಲ್ಲಿ",
+        "D": "ಕೇವಲ ಯುದ್ಧದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮದುವೆ ಮತ್ತು ಇತರ ಶುಭಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಮಹಿಳೆಯರು ಗುಂಪಾಗಿ ಹಾಡುವ ಮಂಗಳಕರ ಹಾಡುಗಳನ್ನು ಸೋಬಾನೆ ಪದಗಳು ಎನ್ನತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q22"
+    },
+    {
+      "id": "JS023",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸೋಬಾನೆ ಪದಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಶುಭಾಶಯ, ಮಂಗಳಭಾವ, ಕುಟುಂಬ ಸಂಬಂಧಗಳು, ವಧು-ವರರ ಬದುಕು ಮತ್ತು ಸಂಸಾರದ ಸಂಪ್ರದಾಯಗಳನ್ನು ಹಾಡಿನ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವುದು",
+        "B": "ಕೇವಲ ವೀರಗಾಥೆಗಳನ್ನು ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ವ್ಯಂಗ್ಯ ಮತ್ತು ಹಾಸ್ಯ",
+        "D": "ಕೇವಲ ಪ್ರಕೃತಿ ವರ್ಣನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶುಭಾಶಯ, ಮಂಗಳಭಾವ, ಕುಟುಂಬ ಸಂಬಂಧಗಳು, ವಧು-ವರರ ಬದುಕು ಮತ್ತು ಸಂಸಾರದ ಸಂಪ್ರದಾಯಗಳನ್ನು ಹಾಡಿನ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವುದು ಸೋಬಾನೆ ಪದಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q23"
+    },
+    {
+      "id": "JS024",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮನೆಯಲ್ಲಿನ ಬೀಸುವ ಕಲ್ಲಿನಲ್ಲಿ ಧಾನ್ಯ ಬೀಸುವಾಗ ಮಹಿಳೆಯರು ಕೆಲಸದ ಲಯಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಡುವ ಶ್ರಮಗೀತೆಗಳು",
+        "B": "ಮದುವೆಯಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "C": "ದೇವಸ್ಥಾನದಲ್ಲಿ ಹಾಡುವ ಭಜನೆಗಳು",
+        "D": "ಯುದ್ಧದಲ್ಲಿ ಹಾಡುವ ವೀರಗೀತೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮನೆಯಲ್ಲಿನ ಬೀಸುವ ಕಲ್ಲಿನಲ್ಲಿ ಧಾನ್ಯ ಬೀಸುವಾಗ ಮಹಿಳೆಯರು ಕೆಲಸದ ಲಯಕ್ಕೆ ತಕ್ಕಂತೆ ಹಾಡುವ ಶ್ರಮಗೀತೆಗಳು ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q24"
+    },
+    {
+      "id": "JS025",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳಲ್ಲಿ ಯಾವ ವಿಷಯಗಳು ಕಾಣಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಕುಟುಂಬ ಜೀವನ, ಅತ್ತೆ-ಸೊಸೆ ಸಂಬಂಧ, ಬಡತನ, ದುಡಿಮೆ, ಪ್ರೀತಿ, ನೋವು, ಹಾಸ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನುಭವಗಳು",
+        "B": "ಕೇವಲ ದೇವರ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಷಯಗಳು",
+        "D": "ಕೇವಲ ವಿಜ್ಞಾನ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಟುಂಬ ಜೀವನ, ಅತ್ತೆ-ಸೊಸೆ ಸಂಬಂಧ, ಬಡತನ, ದುಡಿಮೆ, ಪ್ರೀತಿ, ನೋವು, ಹಾಸ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನುಭವಗಳು ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q25"
+    },
+    {
+      "id": "JS026",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೀಗೀ ಪದಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕದ ಕೆಲವು ಭಾಗಗಳಲ್ಲಿ ಗೀಗೀ ಮೇಳ ಅಥವಾ ಜನಪದ ಗಾಯನ ಪರಂಪರೆಯ ಮೂಲಕ ಹಾಡುವ ಪ್ರಶ್ನೋತ್ತರ, ಕಥನ, ಭಕ್ತಿ, ನೀತಿ ಅಥವಾ ಸಾಮಾಜಿಕ ವಿಷಯಗಳ ಹಾಡುಗಳು",
+        "B": "ಕೇವಲ ಮದುವೆಯ ಹಾಡುಗಳು",
+        "C": "ಕೇವಲ ಯಕ್ಷಗಾನದ ಪ್ರಸಂಗಗಳು",
+        "D": "ಕೇವಲ ಗಾದೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕದ ಕೆಲವು ಭಾಗಗಳಲ್ಲಿ ಗೀಗೀ ಮೇಳ ಅಥವಾ ಜನಪದ ಗಾಯನ ಪರಂಪರೆಯ ಮೂಲಕ ಹಾಡುವ ಪ್ರಶ್ನೋತ್ತರ, ಕಥನ, ಭಕ್ತಿ, ನೀತಿ ಅಥವಾ ಸಾಮಾಜಿಕ ವಿಷಯಗಳ ಹಾಡುಗಳನ್ನು ಗೀಗೀ ಪದಗಳು ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q26"
+    },
+    {
+      "id": "JS027",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೀಗೀ ಪದಗಳ ಪ್ರದರ್ಶನದ ಸ್ವರೂಪವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯವಾಗಿ ಗಾಯಕರ ಗುಂಪು, ವಾದ್ಯಸಂಗೀತ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಅಥವಾ ಪ್ರಶ್ನೋತ್ತರ ಶೈಲಿಯ ನಿರೂಪಣೆಯೊಂದಿಗೆ ಹಾಡಲಾಗುತ್ತದೆ; ಪ್ರದೇಶಾನುಸಾರ ವ್ಯತ್ಯಾಸವಿದೆ",
+        "B": "ಕೇವಲ ಏಕವ್ಯಕ್ತಿ ಗಾಯನ",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶನ",
+        "D": "ಕೇವಲ ವಾದ್ಯ ಸಂಗೀತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಗಾಯಕರ ಗುಂಪು, ವಾದ್ಯಸಂಗೀತ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಅಥವಾ ಪ್ರಶ್ನೋತ್ತರ ಶೈಲಿಯ ನಿರೂಪಣೆಯೊಂದಿಗೆ ಹಾಡಲಾಗುತ್ತದೆ; ಪ್ರದೇಶಾನುಸಾರ ವ್ಯತ್ಯಾಸವಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q27"
+    },
+    {
+      "id": "JS028",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಭಜನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ದೇವರ ನಾಮಸ್ಮರಣೆ ಮತ್ತು ಭಕ್ತಿಭಾವವನ್ನು ಹಾಡು, ಕೀರ್ತನೆ ಹಾಗೂ ಲಯಬದ್ಧ ಸಮೂಹಗಾಯನದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವ ಆರಾಧನಾ ಪದ್ಧತಿ",
+        "B": "ಕೇವಲ ಕೃಷಿ ಕೆಲಸದ ಹಾಡು",
+        "C": "ಕೇವಲ ಮದುವೆಯ ಹಾಡು",
+        "D": "ಕೇವಲ ವೀರಗಾಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರ ನಾಮಸ್ಮರಣೆ ಮತ್ತು ಭಕ್ತಿಭಾವವನ್ನು ಹಾಡು, ಕೀರ್ತನೆ ಹಾಗೂ ಲಯಬದ್ಧ ಸಮೂಹಗಾಯನದ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವ ಆರಾಧನಾ ಪದ್ಧತಿಯೇ ಭಜನೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q28"
+    },
+    {
+      "id": "JS029",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಜನೆಗೆ ಬಳಸುವ ವಾದ್ಯಗಳ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡಿ.",
+      "options": {
+        "A": "ತಾಳ, ಚಿಪ್ಪಳಿ, ಮೃದಂಗ, ಹಾರ್ಮೋನಿಯಂ, ತಂಬೂರಿ ಮತ್ತು ಸ್ಥಳೀಯ ತಾಳವಾದ್ಯಗಳು",
+        "B": "ಕೇವಲ ವೀಣೆ",
+        "C": "ಕೇವಲ ಪಿಟೀಲು",
+        "D": "ಕೇವಲ ಬಾನುಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಳ, ಚಿಪ್ಪಳಿ, ಮೃದಂಗ, ಹಾರ್ಮೋನಿಯಂ, ತಂಬೂರಿ ಮತ್ತು ಸ್ಥಳೀಯ ತಾಳವಾದ್ಯಗಳನ್ನು ಭಜನೆಗೆ ಬಳಸಬಹುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q29"
+    },
+    {
+      "id": "JS030",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಾದೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ದೀರ್ಘಕಾಲದ ಜನಾನುಭವದಿಂದ ರೂಪುಗೊಂಡು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಜೀವನನೀತಿ ಅಥವಾ ವ್ಯವಹಾರಜ್ಞಾನವನ್ನು ತಿಳಿಸುವ ಜನಪ್ರಿಯ ವಾಕ್ಯ",
+        "B": "ದೀರ್ಘ ಕಥನ",
+        "C": "ಕೇವಲ ಒಗಟು",
+        "D": "ಕೇವಲ ಹಾಡು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೀರ್ಘಕಾಲದ ಜನಾನುಭವದಿಂದ ರೂಪುಗೊಂಡು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಜೀವನನೀತಿ ಅಥವಾ ವ್ಯವಹಾರಜ್ಞಾನವನ್ನು ತಿಳಿಸುವ ಜನಪ್ರಿಯ ವಾಕ್ಯವೇ ಗಾದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q30"
+    },
+    {
+      "id": "JS031",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಲಕ್ಷಣಗಳೇನು?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ, ಅರ್ಥಗರ್ಭಿತತೆ, ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ, ರೂಪಕ, ಲಯ ಮತ್ತು ಸುಲಭವಾಗಿ ನೆನಪಿಡಬಹುದಾದ ಭಾಷೆ",
+        "B": "ದೀರ್ಘತೆ, ಅಸ್ಪಷ್ಟತೆ, ಲಯರಹಿತತೆ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯಗಳು",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಕ್ಷಿಪ್ತತೆ, ಅರ್ಥಗರ್ಭಿತತೆ, ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ, ರೂಪಕ, ಲಯ ಮತ್ತು ಸುಲಭವಾಗಿ ನೆನಪಿಡಬಹುದಾದ ಭಾಷೆ ಗಾದೆಗಳ ಲಕ್ಷಣಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS032",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗವೇನು?",
+      "options": {
+        "A": "ನೀತಿ ಬೋಧನೆ, ಎಚ್ಚರಿಕೆ, ಅನುಭವ ಹಂಚಿಕೆ, ವ್ಯಂಗ್ಯ, ಸಲಹೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀತಿ ಬೋಧನೆ, ಎಚ್ಚರಿಕೆ, ಅನುಭವ ಹಂಚಿಕೆ, ವ್ಯಂಗ್ಯ, ಸಲಹೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS033",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಒಗಟು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ವಸ್ತು ಅಥವಾ ಕಲ್ಪನೆಯನ್ನು ನೇರವಾಗಿ ಹೇಳದೆ ಸುಳಿವು, ರೂಪಕ ಅಥವಾ ಪ್ರಶ್ನೆಯ ಮೂಲಕ ಗುರುತಿಸಲು ಹೇಳುವ ಜನಪದ ಬೌದ್ಧಿಕ ಆಟವೇ ಒಗಟು",
+        "B": "ದೀರ್ಘ ಕಥೆ",
+        "C": "ಕೇವಲ ಹಾಡು",
+        "D": "ಕೇವಲ ಗಾದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ವಸ್ತು ಅಥವಾ ಕಲ್ಪನೆಯನ್ನು ನೇರವಾಗಿ ಹೇಳದೆ ಸುಳಿವು, ರೂಪಕ ಅಥವಾ ಪ್ರಶ್ನೆಯ ಮೂಲಕ ಗುರುತಿಸಲು ಹೇಳುವ ಜನಪದ ಬೌದ್ಧಿಕ ಆಟವೇ ಒಗಟು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q33"
+    },
+    {
+      "id": "JS034",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಗಟುಗಳ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುವುದು; ಮನರಂಜನೆಯನ್ನೂ ಒದಗಿಸುವುದು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಬೋಧನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಐತಿಹಾಸಿಕ ದಾಖಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುವುದು; ಮನರಂಜನೆಯನ್ನೂ ಒದಗಿಸುವುದು ಒಗಟುಗಳ ಉದ್ದೇಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q34"
+    },
+    {
+      "id": "JS035",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆ ಮತ್ತು ಒಗಟಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಗಾದೆ ಅನುಭವ ಅಥವಾ ನೀತಿಯನ್ನು ಹೇಳುತ್ತದೆ; ಒಗಟು ಸುಳಿವುಗಳ ಮೂಲಕ ಉತ್ತರವನ್ನು ಊಹಿಸಲು ಸವಾಲು ಹಾಕುತ್ತದೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "C": "ಗಾದೆ ಪ್ರಶ್ನೆ, ಒಗಟು ಉತ್ತರ",
+        "D": "ಗಾದೆ ಕೇವಲ ಹಾಸ್ಯ, ಒಗಟು ಕೇವಲ ಗಂಭೀರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆ ಅನುಭವ ಅಥವಾ ನೀತಿಯನ್ನು ಹೇಳುತ್ತದೆ; ಒಗಟು ಸುಳಿವುಗಳ ಮೂಲಕ ಉತ್ತರವನ್ನು ಊಹಿಸಲು ಸವಾಲು ಹಾಕುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q35"
+    },
+    {
+      "id": "JS036",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸಮುದಾಯದ ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ವೃತ್ತಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಾಂಪ್ರದಾಯಿಕ ಸಮೂಹ ಅಥವಾ ವ್ಯಕ್ತಿಕ ನೃತ್ಯ",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ನೃತ್ಯ",
+        "C": "ಕೇವಲ ಶಾಸ್ತ್ರೀಯ ನೃತ್ಯ",
+        "D": "ಕೇವಲ ಚಲನಚಿತ್ರ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸಮುದಾಯದ ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ವೃತ್ತಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಾಂಪ್ರದಾಯಿಕ ಸಮೂಹ ಅಥವಾ ವ್ಯಕ್ತಿಕ ನೃತ್ಯವೇ ಜನಪದ ನೃತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q36"
+    },
+    {
+      "id": "JS037",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಜನಪದ ನೃತ್ಯಗಳ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡಿ.",
+      "options": {
+        "A": "ಡೊಳ್ಳು ಕುಣಿತ, ಕಂಸಾಳೆ, ವೀರಗಾಸೆ, ಪೂಜಾ ಕುಣಿತ, ಕರಗ, ಗೊರವರ ಕುಣಿತ, ಸುಗ್ಗಿ ಕುಣಿತ, ಕೋಲಾಟ ಮತ್ತು ಹಾಲಕ್ಕಿ ಸುಗ್ಗಿ ಕುಣಿತ",
+        "B": "ಭರತನಾಟ್ಯ, ಕೂಚಿಪುಡಿ",
+        "C": "ಕಥಕ್ಕಳಿ, ಮೋಹಿನಿಯಾಟ್ಟಂ",
+        "D": "ಒಡಿಸ್ಸಿ, ಮಣಿಪುರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಕುಣಿತ, ಕಂಸಾಳೆ, ವೀರಗಾಸೆ, ಪೂಜಾ ಕುಣಿತ, ಕರಗ, ಗೊರವರ ಕುಣಿತ, ಸುಗ್ಗಿ ಕುಣಿತ, ಕೋಲಾಟ ಮತ್ತು ಹಾಲಕ್ಕಿ ಸುಗ್ಗಿ ಕುಣಿತ ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಜನಪದ ನೃತ್ಯಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q37"
+    },
+    {
+      "id": "JS038",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡೊಳ್ಳು ಕುಣಿತ ಯಾವ ಸಮುದಾಯದೊಂದಿಗೆ ವಿಶೇಷವಾಗಿ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕುರುಬ ಸಮುದಾಯ",
+        "B": "ಗೊರವ ಸಮುದಾಯ",
+        "C": "ಹಾಲಕ್ಕಿ ಸಮುದಾಯ",
+        "D": "ಲಿಂಗಾಯತ ಸಮುದಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಕುಣಿತವು ಕರ್ನಾಟಕದಲ್ಲಿ ಕುರುಬ ಸಮುದಾಯದೊಂದಿಗೆ ವಿಶೇಷವಾಗಿ ಸಂಬಂಧಿಸಿದೆ; ಡೊಳ್ಳು ಬಾರಿಸುತ್ತಾ ಲಯಬದ್ಧವಾಗಿ ಗುಂಪಿನಲ್ಲಿ ಕುಣಿಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q38"
+    },
+    {
+      "id": "JS039",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂಸಾಳೆ ನೃತ್ಯದ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+      "options": {
+        "A": "ಕಂಸಾಳೆ ತಾಳವಾದ್ಯವನ್ನು ನುಡಿಸುತ್ತಾ ಹಾಡು ಮತ್ತು ನೃತ್ಯವನ್ನು ಸಂಯೋಜಿಸುವ ಕಲಾರೂಪ; ಇದು ಮಲೆ ಮಹದೇಶ್ವರ ಭಕ್ತಿಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ",
+        "B": "ಕೇವಲ ಕತ್ತಿ ನೃತ್ಯ",
+        "C": "ಕೇವಲ ಗೊಂಬೆ ನೃತ್ಯ",
+        "D": "ಕೇವಲ ದೋಣಿ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂಸಾಳೆ ತಾಳವಾದ್ಯವನ್ನು ನುಡಿಸುತ್ತಾ ಹಾಡು ಮತ್ತು ನೃತ್ಯವನ್ನು ಸಂಯೋಜಿಸುವ ಕಲಾರೂಪ; ಇದು ಮಲೆ ಮಹದೇಶ್ವರ ಭಕ್ತಿಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q39"
+    },
+    {
+      "id": "JS040",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೀರಗಾಸೆ ಯಾವ ಕಥಾ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ವೀರಭದ್ರನ ಪೌರಾಣಿಕ ಕಥೆ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದ ಶೈವ ಪರಂಪರೆಯ ವೀರನೃತ್ಯ",
+        "B": "ರಾಮಾಯಣದ ಕಥೆ",
+        "C": "ಮಹಾಭಾರತದ ಕಥೆ",
+        "D": "ಭಾಗವತದ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಗಾಸೆ ಯಕ್ಷಗಾನದ ಪೌರಾಣಿಕ ಕಥೆ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದ ಶೈವ ಪರಂಪರೆಯ ವೀರನೃತ್ಯವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q40"
+    },
+    {
+      "id": "JS041",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಗದ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸಿದ ಕರಗವನ್ನು ಹೊತ್ತು ಭಕ್ತಿ, ಸಮತೋಲನ ಮತ್ತು ಲಯಬದ್ಧ ಚಲನೆಗಳೊಂದಿಗೆ ನಡೆಯುವ ಧಾರ್ಮಿಕ-ಜನಪದ ಆಚರಣೆ ಮತ್ತು ನೃತ್ಯರೂಪ",
+        "B": "ಕೇವಲ ಕೃಷಿ ಆಚರಣೆ",
+        "C": "ಕೇವಲ ಮದುವೆ ಆಚರಣೆ",
+        "D": "ಕೇವಲ ಮಳೆ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸಿದ ಕರಗವನ್ನು ಹೊತ್ತು ಭಕ್ತಿ, ಸಮತೋಲನ ಮತ್ತು ಲಯಬದ್ಧ ಚಲನೆಗಳೊಂದಿಗೆ ನಡೆಯುವ ಧಾರ್ಮಿಕ-ಜನಪದ ಆಚರಣೆ ಮತ್ತು ನೃತ್ಯರೂಪವೇ ಕರಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q41"
+    },
+    {
+      "id": "JS042",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಸಂಗೀತ-ನೃತ್ಯ-ನಾಟಕ ಸಂಯೋಜಿತ ಜನಪದ ರಂಗಕಲೆಯಾಗಿದೆ; ಹಾಡು, ಸಂಭಾಷಣೆ, ನೃತ್ಯ, ಅಭಿನಯ, ವೇಷಭೂಷಣ ಮತ್ತು ವಾದ್ಯಗಳು ಇದರ ಅಂಗಗಳು",
+        "B": "ಕೇವಲ ಚಲನಚಿತ್ರ",
+        "C": "ಕೇವಲ ಗೊಂಬೆ ಆಟ",
+        "D": "ಕೇವಲ ಭಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಸಂಗೀತ-ನೃತ್ಯ-ನಾಟಕ ಸಂಯೋಜಿತ ಜನಪದ ರಂಗಕಲೆಯಾಗಿದೆ; ಹಾಡು, ಸಂಭಾಷಣೆ, ನೃತ್ಯ, ಅಭಿನಯ, ವೇಷಭೂಷಣ ಮತ್ತು ವಾದ್ಯಗಳು ಇದರ ಅಂಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q42"
+    },
+    {
+      "id": "JS043",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಭಾಗವತಿಕೆ, ಹಿಮ್ಮೇಳ, ಮುಮ್ಮೇಳ, ಪ್ರಸಂಗ, ಸಂಭಾಷಣೆ, ನೃತ್ಯ, ಅಭಿನಯ, ಬಣ್ಣಗಾರಿಕೆ ಮತ್ತು ವೇಷಭೂಷಣಗಳು",
+        "B": "ಕೇವಲ ಹಾಡು ಮತ್ತು ನೃತ್ಯ",
+        "C": "ಕೇವಲ ವೇಷಭೂಷಣ",
+        "D": "ಕೇವಲ ವಾದ್ಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಗವತಿಕೆ, ಹಿಮ್ಮೇಳ, ಮುಮ್ಮೇಳ, ಪ್ರಸಂಗ, ಸಂಭಾಷಣೆ, ನೃತ್ಯ, ಅಭಿನಯ, ಬಣ್ಣಗಾರಿಕೆ ಮತ್ತು ವೇಷಭೂಷಣಗಳು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS044",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಭಾಗವತನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಭಾಗವತನು ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ; ಹಾಡಿನ ಮೂಲಕ ಪ್ರಸಂಗವನ್ನು ಮುನ್ನಡೆಸಿ ಕಲಾವಿದರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ",
+        "B": "ಭಾಗವತನು ಕೇವಲ ವೇಷಧಾರಿ",
+        "C": "ಭಾಗವತನು ಕೇವಲ ವಾದ್ಯಗಾರ",
+        "D": "ಭಾಗವತನು ಕೇವಲ ನಿರ್ದೇಶಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಗವತನು ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ; ಹಾಡಿನ ಮೂಲಕ ಪ್ರಸಂಗವನ್ನು ಮುನ್ನಡೆಸಿ ಕಲಾವಿದರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q44"
+    },
+        {
+      "id": "JS044",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಭಾಗವತನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಭಾಗವತನು ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ; ಹಾಡಿನ ಮೂಲಕ ಪ್ರಸಂಗವನ್ನು ಮುನ್ನಡೆಸಿ ಕಲಾವಿದರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ",
+        "B": "ಭಾಗವತನು ಕೇವಲ ವೇಷಧಾರಿ",
+        "C": "ಭಾಗವತನು ಕೇವಲ ವಾದ್ಯಗಾರ",
+        "D": "ಭಾಗವತನು ಕೇವಲ ನಿರ್ದೇಶಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಗವತನು ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ; ಹಾಡಿನ ಮೂಲಕ ಪ್ರಸಂಗವನ್ನು ಮುನ್ನಡೆಸಿ ಕಲಾವಿದರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q44"
+    },
+    {
+      "id": "JS045",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಪ್ರಸಂಗ ಎಂದರೇನು?",
+      "options": {
+        "A": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ ಅಥವಾ ಪುರಾಣಗಳಿಂದ ಆಯ್ದ ಕಥಾಭಾಗವನ್ನು ಆಧರಿಸಿ ರೂಪಿಸಲಾದ ಯಕ್ಷಗಾನ ನಾಟಕೀಯ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ಹಾಸ್ಯ ಪ್ರಸಂಗ",
+        "C": "ಕೇವಲ ಸಂಗೀತ ಕಚೇರಿ",
+        "D": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ ಅಥವಾ ಪುರಾಣಗಳಿಂದ ಆಯ್ದ ಕಥಾಭಾಗವನ್ನು ಆಧರಿಸಿ ರೂಪಿಸಲಾದ ಯಕ್ಷಗಾನ ನಾಟಕೀಯ ನಿರೂಪಣೆಯೇ ಪ್ರಸಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q45"
+    },
+    {
+      "id": "JS046",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ವಾದ್ಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಡೆ, ಮದ್ದಳೆ, ತಾಳ ಮತ್ತು ಸಂದರ್ಭಾನುಸಾರ ಹಾರ್ಮೋನಿಯಂ ಅಥವಾ ಇತರ ವಾದ್ಯಗಳು",
+        "B": "ಕೇವಲ ವೀಣೆ ಮತ್ತು ತಬಲಾ",
+        "C": "ಕೇವಲ ಪಿಟೀಲು ಮತ್ತು ಬಾನ್ಸುರಿ",
+        "D": "ಕೇವಲ ಗಿಟಾರ್ ಮತ್ತು ಡ್ರಮ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಡೆ, ಮದ್ದಳೆ, ತಾಳ ಮತ್ತು ಸಂದರ್ಭಾನುಸಾರ ಹಾರ್ಮೋನಿಯಂ ಅಥವಾ ಇತರ ವಾದ್ಯಗಳನ್ನು ಯಕ್ಷಗಾನದಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q46"
+    },
+    {
+      "id": "JS047",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಎರಡು ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ಶೈಲಿಗಳನ್ನು ಹೆಸರಿಸಿ.",
+      "options": {
+        "A": "ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು",
+        "B": "ಮೂಡಲಪಾಯ ಮತ್ತು ಪಡುವಲಪಾಯ",
+        "C": "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಶೈಲಿ",
+        "D": "ಹವ್ಯಕ ಮತ್ತು ಕೋಟ ಶೈಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಶೈಲಿಗಳು. ಮೂಡಲಪಾಯವೂ ಕರ್ನಾಟಕದ ಮತ್ತೊಂದು ಪ್ರಾದೇಶಿಕ ರೂಪವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q47"
+    },
+    {
+      "id": "JS048",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನವು ಕರ್ನಾಟಕದ ಯಾವ ಭಾಗದಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಸಿದ್ಧ?",
+      "options": {
+        "A": "ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಉಡುಪಿ, ದಕ್ಷಿಣ ಕನ್ನಡ ಮತ್ತು ಉತ್ತರ ಕನ್ನಡ ಭಾಗಗಳಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಸಿದ್ಧ; ಇತರ ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ",
+        "B": "ಕೇವಲ ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "C": "ಕೇವಲ ಮೈಸೂರಿನಲ್ಲಿ",
+        "D": "ಕೇವಲ ಬೀದರ್‌ನಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಉಡುಪಿ, ದಕ್ಷಿಣ ಕನ್ನಡ ಮತ್ತು ಉತ್ತರ ಕನ್ನಡ ಭಾಗಗಳಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಸಿದ್ಧ; ಇತರ ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q48"
+    },
+    {
+      "id": "JS049",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಯಲಾಟ ಎಂದರೇನು?",
+      "options": {
+        "A": "ತೆರೆದ ಬಯಲು ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಜನರ ಮುಂದೆ ಹಾಡು, ಸಂಭಾಷಣೆ, ಅಭಿನಯ ಮತ್ತು ನೃತ್ಯದೊಂದಿಗೆ ಪ್ರದರ್ಶಿಸುವ ಜನಪದ ನಾಟಕ ಪರಂಪರೆ",
+        "B": "ಕೇವಲ ಮನೆಯೊಳಗಿನ ಆಟ",
+        "C": "ಕೇವಲ ಗೊಂಬೆ ಆಟ",
+        "D": "ಕೇವಲ ಚಲನಚಿತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೆರೆದ ಬಯಲು ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಜನರ ಮುಂದೆ ಹಾಡು, ಸಂಭಾಷಣೆ, ಅಭಿನಯ ಮತ್ತು ನೃತ್ಯದೊಂದಿಗೆ ಪ್ರದರ್ಶಿಸುವ ಜನಪದ ನಾಟಕ ಪರಂಪರೆಯೇ ಬಯಲಾಟ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q49"
+    },
+    {
+      "id": "JS050",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಯಲಾಟದ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪೌರಾಣಿಕ, ಐತಿಹಾಸಿಕ, ಧಾರ್ಮಿಕ ಮತ್ತು ಸ್ಥಳೀಯ ಜನಜೀವನದ ಕಥೆಗಳು ಮುಖ್ಯ ವಿಷಯಗಳಾಗಿವೆ",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ರಾಜಕೀಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕ್ರೀಡೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೌರಾಣಿಕ, ಐತಿಹಾಸಿಕ, ಧಾರ್ಮಿಕ ಮತ್ತು ಸ್ಥಳೀಯ ಜನಜೀವನದ ಕಥೆಗಳು ಬಯಲಾಟದ ಮುಖ್ಯ ವಿಷಯಗಳಾಗಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q50"
+    },
+    {
+      "id": "JS051",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೊಡ್ಡಾಟ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುವ, ದೊಡ್ಡ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ, ಪಾತ್ರವರ್ಗ, ಸಂಗೀತ ಮತ್ತು ಸಂಭಾಷಣೆಗೆ ಒತ್ತು ನೀಡುವ ಜನಪದ ರಂಗರೂಪ",
+        "B": "ಕೇವಲ ಗೊಂಬೆ ಆಟ",
+        "C": "ಕೇವಲ ಯಕ್ಷಗಾನ",
+        "D": "ಕೇವಲ ಬಯಲಾಟ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುವ, ದೊಡ್ಡ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ, ಪಾತ್ರವರ್ಗ, ಸಂಗೀತ ಮತ್ತು ಸಂಭಾಷಣೆಗೆ ಒತ್ತು ನೀಡುವ ಜನಪದ ರಂಗರೂಪವೇ ದೊಡ್ಡಾಟ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q51"
+    },
+    {
+      "id": "JS052",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಣ್ಣಾಟ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಣ್ಣ ಪ್ರಮಾಣದ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಡೆಯುವ ಸ್ಥಳೀಯ ಜನಪದ ನಾಟಕ ರೂಪ; ಇದರ ಸ್ವರೂಪ ಪ್ರದೇಶಾನುಸಾರ ಬದಲಾಗುತ್ತದೆ",
+        "B": "ದೊಡ್ಡ ವೇದಿಕೆಯ ನಾಟಕ",
+        "C": "ಕೇವಲ ಯಕ್ಷಗಾನ",
+        "D": "ಕೇವಲ ಗೊಂಬೆ ಆಟ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಣ್ಣ ಪ್ರಮಾಣದ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಡೆಯುವ ಸ್ಥಳೀಯ ಜನಪದ ನಾಟಕ ರೂಪವೇ ಸಣ್ಣಾಟ; ಇದರ ಸ್ವರೂಪ ಪ್ರದೇಶಾನುಸಾರ ಬದಲಾಗುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q52"
+    },
+    {
+      "id": "JS053",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೊಡ್ಡಾಟ ಮತ್ತು ಸಣ್ಣಾಟದ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ದೊಡ್ಡಾಟದಲ್ಲಿ ಪ್ರದರ್ಶನದ ವ್ಯಾಪ್ತಿ, ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸಜ್ಜಿಕೆ ಸಾಮಾನ್ಯವಾಗಿ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ; ಸಣ್ಣಾಟ ಹೆಚ್ಚು ಸರಳ ಮತ್ತು ಸೀಮಿತ ರೂಪದಲ್ಲಿರುತ್ತದೆ. ಪ್ರಾದೇಶಿಕ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಗಮನಿಸಬೇಕು",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "C": "ದೊಡ್ಡಾಟ ಸರಳ, ಸಣ್ಣಾಟ ಸಂಕೀರ್ಣ",
+        "D": "ದೊಡ್ಡಾಟ ಕೇವಲ ಮಹಿಳೆಯರಿಂದ, ಸಣ್ಣಾಟ ಕೇವಲ ಪುರುಷರಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೊಡ್ಡಾಟದಲ್ಲಿ ಪ್ರದರ್ಶನದ ವ್ಯಾಪ್ತಿ, ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸಜ್ಜಿಕೆ ಸಾಮಾನ್ಯವಾಗಿ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ; ಸಣ್ಣಾಟ ಹೆಚ್ಚು ಸರಳ ಮತ್ತು ಸೀಮಿತ ರೂಪದಲ್ಲಿರುತ್ತದೆ. ಪ್ರಾದೇಶಿಕ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಗಮನಿಸಬೇಕು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q53"
+    },
+    {
+      "id": "JS054",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಚರ್ಮದಿಂದ ತಯಾರಿಸಿದ ಬಣ್ಣದ ಗೊಂಬೆಗಳನ್ನು ಪರದೆಯ ಹಿಂದೆ ಬೆಳಕಿನ ಎದುರು ಚಲಿಸಿ ನೆರಳಿನ ರೂಪದಲ್ಲಿ ಕಥೆ ಪ್ರದರ್ಶಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ಗೊಂಬೆಯಾಟ",
+        "B": "ಕೇವಲ ಮರದ ಗೊಂಬೆಗಳ ಆಟ",
+        "C": "ಕೇವಲ ಬಟ್ಟೆ ಗೊಂಬೆಗಳ ಆಟ",
+        "D": "ಕೇವಲ ಮಣ್ಣಿನ ಗೊಂಬೆಗಳ ಆಟ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ತರ ಕರ್ನಾಟಕದ ಚರ್ಮದಿಂದ ತಯಾರಿಸಿದ ಬಣ್ಣದ ಗೊಂಬೆಗಳನ್ನು ಪರದೆಯ ಹಿಂದೆ ಬೆಳಕಿನ ಎದುರು ಚಲಿಸಿ ನೆರಳಿನ ರೂಪದಲ್ಲಿ ಕಥೆ ಪ್ರದರ್ಶಿಸುವ ಸಾಂಪ್ರದಾಯಿಕ ಗೊಂಬೆಯಾಟವೇ ತೊಗಲುಗೊಂಬೆಯಾಟ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q54"
+    },
+    {
+      "id": "JS055",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಕಥೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ, ಪುರಾಣಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಜನಪದ ಕಥೆಗಳು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ, ಪುರಾಣಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಜನಪದ ಕಥೆಗಳನ್ನು ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q55"
+    },
+    {
+      "id": "JS056",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದ ಮುಖ್ಯ ಅಂಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚರ್ಮದ ಗೊಂಬೆಗಳು, ಪರದೆ, ಹಿಂಬದಿಯ ಬೆಳಕು, ಗೊಂಬೆ ಚಲಿಸುವ ಕಲಾವಿದರು, ನಿರೂಪಣೆ, ಹಾಡು ಮತ್ತು ವಾದ್ಯಸಂಗೀತ",
+        "B": "ಕೇವಲ ಗೊಂಬೆಗಳು",
+        "C": "ಕೇವಲ ಹಾಡು",
+        "D": "ಕೇವಲ ಪರದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚರ್ಮದ ಗೊಂಬೆಗಳು, ಪರದೆ, ಹಿಂಬದಿಯ ಬೆಳಕು, ಗೊಂಬೆ ಚಲಿಸುವ ಕಲಾವಿದರು, ನಿರೂಪಣೆ, ಹಾಡು ಮತ್ತು ವಾದ್ಯಸಂಗೀತ ತೊಗಲುಗೊಂಬೆಯಾಟದ ಮುಖ್ಯ ಅಂಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q56"
+    },
+    {
+      "id": "JS057",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರು ಯಾರು?",
+      "options": {
+        "A": "ಜನಪದ ಹಾಡು, ನೃತ್ಯ, ವಾದ್ಯ, ಕಥನ, ಗೊಂಬೆಯಾಟ, ಕರಕುಶಲ ಮತ್ತು ಆಚರಣೆಗಳನ್ನು ಅಭ್ಯಾಸಿಸಿ ಪ್ರದರ್ಶಿಸಿ ಮುಂದಿನ ತಲೆಮಾರಿಗೆ ಸಾಗಿಸುವ ಪರಂಪರೆಯ ಕಲಾವಿದರು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ಕಲಾವಿದರು",
+        "C": "ಕೇವಲ ಚಲನಚಿತ್ರ ನಟರು",
+        "D": "ಕೇವಲ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತಗಾರರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಹಾಡು, ನೃತ್ಯ, ವಾದ್ಯ, ಕಥನ, ಗೊಂಬೆಯಾಟ, ಕರಕುಶಲ ಮತ್ತು ಆಚರಣೆಗಳನ್ನು ಅಭ್ಯಾಸಿಸಿ ಪ್ರದರ್ಶಿಸಿ ಮುಂದಿನ ತಲೆಮಾರಿಗೆ ಸಾಗಿಸುವ ಪರಂಪರೆಯ ಕಲಾವಿದರೇ ಜನಪದ ಕಲಾವಿದರು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q57"
+    },
+    {
+      "id": "JS058",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹೇಗೆ ಹರಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಆನ್‌ಲೈನ್ ತರಗತಿಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ಶಾಲೆಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹರಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q58"
+    },
+    {
+      "id": "JS059",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ ಎದುರಾಗುವ ಸವಾಲುಗಳೇನು?",
+      "options": {
+        "A": "ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ, ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ, ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ, ದಾಖಲೀಕರಣದ ಕೊರತೆ ಮತ್ತು ಕೆಲವು ಕಲಾರೂಪಗಳ ಅಳಿವಿನ ಅಪಾಯ",
+        "B": "ಕೇವಲ ಆರ್ಥಿಕ ಸಮಸ್ಯೆ",
+        "C": "ಕೇವಲ ಭಾಷಾ ಸಮಸ್ಯೆ",
+        "D": "ಕೇವಲ ತಾಂತ್ರಿಕ ಸಮಸ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ, ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ, ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ, ದಾಖಲೀಕರಣದ ಕೊರತೆ ಮತ್ತು ಕೆಲವು ಕಲಾರೂಪಗಳ ಅಳಿವಿನ ಅಪಾಯ ಜನಪದ ಕಲಾವಿದರಿಗೆ ಎದುರಾಗುವ ಸವಾಲುಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS060",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸಮುದಾಯದ ಜೀವನಶೈಲಿ, ಭಾಷೆ, ಆಹಾರ, ಉಡುಗೆ, ವೃತ್ತಿ, ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ಕಲೆ, ಸಂಗೀತ, ಜ್ಞಾನ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳ ಒಟ್ಟು ರೂಪವೇ ಜನಪದ ಸಂಸ್ಕೃತಿ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು",
+        "C": "ಕೇವಲ ಕಲೆ ಮತ್ತು ಸಂಗೀತ",
+        "D": "ಕೇವಲ ಆಹಾರ ಮತ್ತು ಉಡುಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸಮುದಾಯದ ಜೀವನಶೈಲಿ, ಭಾಷೆ, ಆಹಾರ, ಉಡುಗೆ, ವೃತ್ತಿ, ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ಕಲೆ, ಸಂಗೀತ, ಜ್ಞಾನ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳ ಒಟ್ಟು ರೂಪವೇ ಜನಪದ ಸಂಸ್ಕೃತಿ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q60"
+    },
+    {
+      "id": "JS061",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಪರಂಪರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯವು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಉಳಿಸಿ ನಾಗಿಸುವ ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳ ನಿರಂತರ ಸರಣಿ",
+        "B": "ಕೇವಲ ಲಿಖಿತ ದಾಖಲೆಗಳು",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ನೀತಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮುದಾಯವು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಉಳಿಸಿ ನಾಗಿಸುವ ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳ ನಿರಂತರ ಸರಣಿಯೇ ಜನಪದ ಪರಂಪರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q61"
+    },
+    {
+      "id": "JS062",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯಗಳು ತಮ್ಮ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯನ್ನು ಗುರುತಿಸುವ ಪ್ರದರ್ಶನ ಕಲೆಗಳು, ಮೌಖಿಕ ಪರಂಪರೆಗಳು, ಆಚರಣೆಗಳು, ಹಬ್ಬಗಳು, ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು",
+        "B": "ಕೇವಲ ಕಟ್ಟಡಗಳು ಮತ್ತು ಸ್ಮಾರಕಗಳು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "D": "ಕೇವಲ ಚಿತ್ರಕಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮುದಾಯಗಳು ತಮ್ಮ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯನ್ನು ಗುರುತಿಸುವ ಪ್ರದರ್ಶನ ಕಲೆಗಳು, ಮೌಖಿಕ ಪರಂಪರೆಗಳು, ಆಚರಣೆಗಳು, ಹಬ್ಬಗಳು, ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳೇ ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS063",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕದ ಜನಪದ ಪರಂಪರೆಯನ್ನು ಸಂರಕ್ಷಿಸುವ ಸಂಸ್ಥೆಗಳ ಉದಾಹರಣೆಗಳನ್ನು ನೀಡಿ.",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಜಾನಪದ ಅಕಾಡೆಮಿ, ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಕರ್ನಾಟಕ ಜಾನಪದ ಪರಿಷತ್ತು ಮತ್ತು ಜಾನಪದ ಲೋಕ ಮುಂತಾದ ಸಂಸ್ಥೆಗಳು ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಕೊಡುಗೆ ನೀಡುತ್ತವೆ",
+        "B": "ಕೇವಲ ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು",
+        "C": "ಕೇವಲ ಸರ್ಕಾರಿ ಶಾಲೆಗಳು",
+        "D": "ಕೇವಲ ಖಾಸಗಿ ಸಂಸ್ಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ಅಕಾಡೆಮಿ, ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಕರ್ನಾಟಕ ಜಾನಪದ ಪರಿಷತ್ತು ಮತ್ತು ಜಾನಪದ ಲೋಕ ಮುಂತಾದ ಸಂಸ್ಥೆಗಳು ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಕೊಡುಗೆ ನೀಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q63"
+    },
+    {
+      "id": "JS064",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಎಲ್ಲಿ ಇದೆ?",
+      "options": {
+        "A": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕಿನ ಗೊಟಗೊಡಿಯಲ್ಲಿ",
+        "B": "ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "C": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "D": "ಧಾರವಾಡದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕಿನ ಗೊಟಗೊಡಿಯಲ್ಲಿದೆ. ಇದು 2011ರ ಕಾಯ್ದೆಯ ಮೂಲಕ ಸ್ಥಾಪಿತವಾಯಿತು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q64"
+    },
+    {
+      "id": "JS065",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜಾನಪದ ಲೋಕ ಎಲ್ಲಿದೆ?",
+      "options": {
+        "A": "ರಾಮನಗರ ಜಿಲ್ಲೆಯ ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿಯಲ್ಲಿ",
+        "B": "ಮೈಸೂರಿನಲ್ಲಿ",
+        "C": "ಹಾವೇರಿಯಲ್ಲಿ",
+        "D": "ಬೆಂಗಳೂರಿನಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾನಪದ ಲೋಕವು ರಾಮನಗರ ಜಿಲ್ಲೆಯ ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿಯಲ್ಲಿದೆ. ಇದು ಕರ್ನಾಟಕದ ಜನಪದ ಕಲೆ ಮತ್ತು ವಸ್ತುಸಂಸ್ಕೃತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವ ಕೇಂದ್ರವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q65"
+    },
+        {
+      "id": "JS066",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಗೆ ಯಾವ ಕ್ರಮಗಳು ಅಗತ್ಯ?",
+      "options": {
+        "A": "ಕ್ಷೇತ್ರಕಾರ್ಯ, ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣ, ಕಲಾವಿದರಿಗೆ ಪ್ರೋತ್ಸಾಹ, ಶಾಲಾ-ಕಾಲೇಜುಗಳಲ್ಲಿ ಪರಿಚಯ, ಸಂಗ್ರಹಾಲಯ, ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್, ತರಬೇತಿ ಮತ್ತು ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ ಅಗತ್ಯ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳಲ್ಲಿ ದಾಖಲಿಸುವುದು",
+        "C": "ಕೇವಲ ಸರ್ಕಾರಿ ಅನುದಾನ ನೀಡುವುದು",
+        "D": "ಕೇವಲ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಪ್ರಚಾರ ಮಾಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷೇತ್ರಕಾರ್ಯ, ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣ, ಕಲಾವಿದರಿಗೆ ಪ್ರೋತ್ಸಾಹ, ಶಾಲಾ-ಕಾಲೇಜುಗಳಲ್ಲಿ ಪರಿಚಯ, ಸಂಗ್ರಹಾಲಯ, ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್, ತರಬೇತಿ ಮತ್ತು ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ ಅಗತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS067",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯವು ಇತಿಹಾಸ ಅಧ್ಯಯನಕ್ಕೆ ಹೇಗೆ ನೆರವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ. ಆದರೆ ಮೌಖಿಕ ಕಥನಗಳನ್ನು ಇತರ ಐತಿಹಾಸಿಕ ಆಧಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕು",
+        "B": "ಕೇವಲ ರಾಜರ ಇತಿಹಾಸವನ್ನು ನೀಡುತ್ತದೆ",
+        "C": "ಇತಿಹಾಸಕ್ಕೆ ಯಾವುದೇ ನೆರವಾಗುವುದಿಲ್ಲ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಇತಿಹಾಸವನ್ನು ನೀಡುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ. ಆದರೆ ಮೌಖಿಕ ಕಥನಗಳನ್ನು ಇತರ ಐತಿಹಾಸಿಕ ಆಧಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q67"
+    },
+    {
+      "id": "JS068",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಗುರುತು, ಭಾಷಾ ವೈವಿಧ್ಯ, ಸಮುದಾಯದ ಸ್ಮೃತಿ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆಯನ್ನು ಉಳಿಸುತ್ತವೆ; ಜೊತೆಗೆ ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಒಗ್ಗಟ್ಟಿಗೆ ನೆರವಾಗುತ್ತವೆ",
+        "B": "ಕೇವಲ ಮನರಂಜನೆಗೆ ಸೀಮಿತವಾಗಿವೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭಕ್ಕೆ ಸಹಕಾರಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳಿಗೆ ಸೀಮಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಗುರುತು, ಭಾಷಾ ವೈವಿಧ್ಯ, ಸಮುದಾಯದ ಸ್ಮೃತಿ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆಯನ್ನು ಉಳಿಸುತ್ತವೆ; ಜೊತೆಗೆ ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಒಗ್ಗಟ್ಟಿಗೆ ನೆರವಾಗುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS069",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಮೌಖಿಕ ಪ್ರಸಾರ ಮತ್ತು ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ",
+        "B": "ಲಿಖಿತ ರೂಪ ಮತ್ತು ವ್ಯಕ್ತಿಗತ ಕರ್ತೃತ್ವ",
+        "C": "ಸಂಸ್ಕೃತ ಭಾಷೆ ಮತ್ತು ಸಂಕೀರ್ಣತೆ",
+        "D": "ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ ಮತ್ತು ನಗರ ಜೀವನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು ಮೌಖಿಕ ಪ್ರಸಾರ ಮತ್ತು ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "JS070",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಾದೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅನುಭವಾಧಾರಿತ ಸಂಕ್ಷಿಪ್ತ ಜ್ಞಾನ",
+        "B": "ಸುಳಿವಿನ ಮೂಲಕ ಉತ್ತರ ಕಂಡುಹಿಡಿಯುವ ಪ್ರಶ್ನೆ",
+        "C": "ದೀರ್ಘ ಕಥೆ",
+        "D": "ಕೇವಲ ಹಾಡು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆ ಎಂದರೆ ಅನುಭವಾಧಾರಿತ ಸಂಕ್ಷಿಪ್ತ ಜ್ಞಾನ. ಒಗಟು ಎಂದರೆ ಸುಳಿವಿನ ಮೂಲಕ ಉತ್ತರ ಕಂಡುಹಿಡಿಯುವ ಪ್ರಶ್ನೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 2"
+    },
+    {
+      "id": "JS071",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸೋಬಾನೆ ಪದಗಳು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಮದುವೆ ಮತ್ತು ಶುಭಸಂಸ್ಕಾರಗಳಲ್ಲಿ",
+        "B": "ಮರಣದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ಕೃಷಿ ಕೆಲಸದಲ್ಲಿ",
+        "D": "ಯುದ್ಧದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೋಬಾನೆ ಪದಗಳು ಮದುವೆ ಮತ್ತು ಶುಭಸಂಸ್ಕಾರಗಳಲ್ಲಿ ಹಾಡಲಾಗುತ್ತವೆ. ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು ಶ್ರಮಗೀತೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 3"
+    },
+    {
+      "id": "JS072",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಡೊಳ್ಳು ಕುಣಿತ ಯಾವ ಸಮುದಾಯದೊಂದಿಗೆ ವಿಶೇಷ ಸಂಬಂಧ ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಕುರುಬ ಸಮುದಾಯ",
+        "B": "ಗೊರವ ಸಮುದಾಯ",
+        "C": "ಹಾಲಕ್ಕಿ ಸಮುದಾಯ",
+        "D": "ಲಿಂಗಾಯತ ಸಮುದಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಕುಣಿತವು ಕುರುಬ ಸಮುದಾಯದೊಂದಿಗೆ ವಿಶೇಷ ಸಂಬಂಧ ಹೊಂದಿದೆ. ಕಂಸಾಳೆ ಮಲೆ ಮಹದೇಶ್ವರ ಭಕ್ತಿಪರಂಪರೆಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 4"
+    },
+    {
+      "id": "JS073",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೀರಗಾಸೆ ಯಾವ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ?",
+      "options": {
+        "A": "ವೀರಭದ್ರ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಕಥೆ",
+        "B": "ರಾಮಾಯಣದ ಕಥೆ",
+        "C": "ಮಹಾಭಾರತದ ಕಥೆ",
+        "D": "ಭಾಗವತದ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಗಾಸೆ ವೀರಭದ್ರ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 5"
+    },
+    {
+      "id": "JS074",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಭಾಗವತ, ಪ್ರಸಂಗ, ಹಿಮ್ಮೇಳ, ಮುಮ್ಮೇಳ, ಚಂಡೆ ಮತ್ತು ಮದ್ದಳೆ",
+        "B": "ಕೇವಲ ಹಾಡು ಮತ್ತು ನೃತ್ಯ",
+        "C": "ಕೇವಲ ವೇಷಭೂಷಣ",
+        "D": "ಕೇವಲ ವಾದ್ಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗಗಳು ಭಾಗವತ, ಪ್ರಸಂಗ, ಹಿಮ್ಮೇಳ, ಮುಮ್ಮೇಳ, ಚಂಡೆ ಮತ್ತು ಮದ್ದಳೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 7, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 6"
+    },
+    {
+      "id": "JS075",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಶೈಲಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು; ಮೂಡಲಪಾಯವೂ ಪ್ರಾದೇಶಿಕ ರೂಪ",
+        "B": "ಹವ್ಯಕ ಮತ್ತು ಕೋಟ ಶೈಲಿ",
+        "C": "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಶೈಲಿ",
+        "D": "ಪಡುವಲಪಾಯ ಮತ್ತು ಮೂಡಲಪಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಶೈಲಿಗಳು ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು; ಮೂಡಲಪಾಯವೂ ಪ್ರಾದೇಶಿಕ ರೂಪ.",
+      "source": "Janapada_Sahitya.pdf, Page 7, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 7"
+    },
+    {
+      "id": "JS076",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬಿಯಾಟದ ಪ್ರಮುಖ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಬೆಳಕು, ಪರದೆ ಮತ್ತು ಚರ್ಮದ ಗೊಂಬಿಗಳ ನೆರಳು ಪ್ರದರ್ಶನ",
+        "B": "ಕೇವಲ ಗೊಂಬೆಗಳು",
+        "C": "ಕೇವಲ ಹಾಡು",
+        "D": "ಕೇವಲ ಪರದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬಿಯಾಟದ ಪ್ರಮುಖ ಅಂಶಗಳು ಬೆಳಕು, ಪರದೆ ಮತ್ತು ಚರ್ಮದ ಗೊಂಬಿಗಳ ನೆರಳು ಪ್ರದರ್ಶನ.",
+      "source": "Janapada_Sahitya.pdf, Page 7, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 8"
+    },
+    {
+      "id": "JS077",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಎಲ್ಲಿದೆ?",
+      "options": {
+        "A": "ಗೊಟಗೊಡಿ, ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕು, ಹಾವೇರಿ ಜಿಲ್ಲೆ",
+        "B": "ರಾಮನಗರ",
+        "C": "ಬೆಂಗಳೂರು",
+        "D": "ಮೈಸೂರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಗೊಟಗೊಡಿ, ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕು, ಹಾವೇರಿ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 7, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "JS078",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜಾನಪದ ಲೋಕ ಎಲ್ಲಿದೆ?",
+      "options": {
+        "A": "ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿ",
+        "B": "ಹಾವೇರಿ",
+        "C": "ಧಾರವಾಡ",
+        "D": "ಬೆಳಗಾವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾನಪದ ಲೋಕವು ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿಯಲ್ಲಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 7, ತ್ವರಿತ ಪುನರವಲೋಕನ, Point 10"
+    },
+    {
+      "id": "JS079",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಲಾವಣಿ' ಎಂಬುದು ಯಾವ ರೂಪ?",
+      "options": {
+        "A": "ಲಯಬದ್ಧವಾಗಿ ಹಾಡುವ ಜನಪದ ಗೀತಿಕಾವ್ಯ ರೂಪ",
+        "B": "ಕೇವಲ ಗದ್ಯ ಕಥೆ",
+        "C": "ಕೇವಲ ಒಗಟು",
+        "D": "ಕೇವಲ ಗಾದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಾವಣಿ ಲಯಬದ್ಧವಾಗಿ ಹಾಡುವ ಜನಪದ ಗೀತಿಕಾವ್ಯ ರೂಪ; ಇದು ವೀರಗಾಥೆ, ಸಾಮಾಜಿಕ ಘಟನೆ, ಪ್ರೇಮ ಅಥವಾ ವ್ಯಂಗ್ಯವನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q21"
+    },
+    {
+      "id": "JS080",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೀಗೀ ಪದಗಳು ಯಾವ ಶೈಲಿಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯವಾಗಿ ಗಾಯಕರ ಗುಂಪು, ವಾದ್ಯಸಂಗೀತ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಅಥವಾ ಪ್ರಶ್ನೋತ್ತರ ಶೈಲಿ",
+        "B": "ಕೇವಲ ಏಕವ್ಯಕ್ತಿ ಗಾಯನ",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶನ",
+        "D": "ಕೇವಲ ವಾದ್ಯ ಸಂಗೀತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೀಗೀ ಪದಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಗಾಯಕರ ಗುಂಪು, ವಾದ್ಯಸಂಗೀತ ಮತ್ತು ಸಂವಾದಾತ್ಮಕ ಅಥವಾ ಪ್ರಶ್ನೋತ್ತರ ಶೈಲಿಯಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q27"
+    },
+    {
+      "id": "JS081",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ದಂತಕಥೆ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದ ಕಥನ",
+        "B": "ಕೇವಲ ಕಾಲ್ಪನಿಕ ಕಥೆ",
+        "C": "ಆಧುನಿಕ ವಿಜ್ಞಾನ ಕಥೆ",
+        "D": "ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದ ಕಥನವೇ ದಂತಕಥೆ ಅಥವಾ ಐತಿಹ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q19"
+    },
+    {
+      "id": "JS082",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸೋಬಾನೆ ಪದ'ದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಶುಭಾಶಯ, ಮಂಗಳಭಾವ, ಕುಟುಂಬ ಸಂಬಂಧಗಳು, ವಧು-ವರರ ಬದುಕು ಮತ್ತು ಸಂಸಾರದ ಸಂಪ್ರದಾಯಗಳನ್ನು ಹಾಡಿನ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವುದು",
+        "B": "ಕೇವಲ ವೀರಗಾಥೆ",
+        "C": "ಕೇವಲ ವ್ಯಂಗ್ಯ",
+        "D": "ಕೇವಲ ಪ್ರಕೃತಿ ವರ್ಣನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೋಬಾನೆ ಪದಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ ಶುಭಾಶಯ, ಮಂಗಳಭಾವ, ಕುಟುಂಬ ಸಂಬಂಧಗಳು, ವಧು-ವರರ ಬದುಕು ಮತ್ತು ಸಂಸಾರದ ಸಂಪ್ರದಾಯಗಳನ್ನು ಹಾಡಿನ ಮೂಲಕ ವ್ಯಕ್ತಪಡಿಸುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q23"
+    },
+    {
+      "id": "JS083",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲ್ಪಡುತ್ತವೆ?",
+      "options": {
+        "A": "ಧಾನ್ಯ ಬೀಸುವ ಕೆಲಸದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "B": "ಮದುವೆಯ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ದೇವಸ್ಥಾನದಲ್ಲಿ",
+        "D": "ಯುದ್ಧದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು ಧಾನ್ಯ ಬೀಸುವ ಕೆಲಸದ ಸಂದರ್ಭದಲ್ಲಿ ಮಹಿಳೆಯರಿಂದ ಹಾಡಲ್ಪಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q24"
+    },
+    {
+      "id": "JS084",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಹಿಮ್ಮೇಳ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಯಕ್ಷಗಾನದ ಹಿನ್ನೆಲೆ ಸಂಗೀತ ಮತ್ತು ವಾದ್ಯಗಳ ಗುಂಪು",
+        "B": "ಮುಖ್ಯ ಗಾಯಕ",
+        "C": "ಕಥಾನಿರೂಪಕ",
+        "D": "ವೇಷಧಾರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಹಿಮ್ಮೇಳ ಎಂದರೆ ಹಿನ್ನೆಲೆ ಸಂಗೀತ ಮತ್ತು ವಾದ್ಯಗಳ ಗುಂಪು. ಮುಮ್ಮೇಳ ಎಂದರೆ ಮುಂಭಾಗದ ಪ್ರದರ್ಶನ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS085",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಮುಮ್ಮೇಳ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಯಕ್ಷಗಾನದ ಮುಂಭಾಗದ ಪ್ರದರ್ಶನ ಭಾಗ",
+        "B": "ಹಿನ್ನೆಲೆ ಸಂಗೀತ",
+        "C": "ಕೇವಲ ವಾದ್ಯಗಳು",
+        "D": "ಕೇವಲ ವೇಷಭೂಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಮುಮ್ಮೇಳ ಎಂದರೆ ಮುಂಭಾಗದ ಪ್ರದರ್ಶನ ಭಾಗ; ಹಿಮ್ಮೇಳ ಎಂದರೆ ಹಿನ್ನೆಲೆ ಸಂಗೀತ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS086",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲೆಗಳ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ದಾಖಲೀಕರಣ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕಲೆಗಳನ್ನು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಉಳಿಸಲು ಧ್ವನಿ, ದೃಶ್ಯ ಮತ್ತು ಲಿಖಿತ ರೂಪದಲ್ಲಿ ದಾಖಲಿಸುವುದು",
+        "B": "ಕೇವಲ ಪ್ರದರ್ಶನ ನೀಡುವುದು",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ನೆರವು ನೀಡುವುದು",
+        "D": "ಕೇವಲ ಪ್ರಚಾರ ಮಾಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಖಲೀಕರಣವು ಕಲೆಗಳನ್ನು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಉಳಿಸಲು ಧ್ವನಿ, ದೃಶ್ಯ ಮತ್ತು ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS087",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಒಗಟು' ಮತ್ತು 'ಗಾದೆ' ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಗಾದೆ ಅನುಭವ ಅಥವಾ ನೀತಿಯನ್ನು ಹೇಳುತ್ತದೆ; ಒಗಟು ಸುಳಿವುಗಳ ಮೂಲಕ ಉತ್ತರವನ್ನು ಊಹಿಸಲು ಸವಾಲು ಹಾಕುತ್ತದೆ",
+        "B": "ಎರಡೂ ಒಂದೇ",
+        "C": "ಗಾದೆ ಪ್ರಶ್ನೆ, ಒಗಟು ಉತ್ತರ",
+        "D": "ಗಾದೆ ಕೇವಲ ಹಾಸ್ಯ, ಒಗಟು ಕೇವಲ ಗಂಭೀರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆ ಅನುಭವ ಅಥವಾ ನೀತಿಯನ್ನು ಹೇಳುತ್ತದೆ; ಒಗಟು ಸುಳಿವುಗಳ ಮೂಲಕ ಉತ್ತರವನ್ನು ಊಹಿಸಲು ಸವಾಲು ಹಾಕುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q35"
+    },
+    {
+      "id": "JS088",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಭಾಗವತ'ನ ಪಾತ್ರ ಯಾವುದು?",
+      "options": {
+        "A": "ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ",
+        "B": "ಕೇವಲ ವೇಷಧಾರಿ",
+        "C": "ಕೇವಲ ವಾದ್ಯಗಾರ",
+        "D": "ಕೇವಲ ನಿರ್ದೇಶಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಗವತನು ಮುಖ್ಯ ಗಾಯಕ ಮತ್ತು ಕಥಾನಿರೂಪಕ; ಹಾಡಿನ ಮೂಲಕ ಪ್ರಸಂಗವನ್ನು ಮುನ್ನಡೆಸಿ ಕಲಾವಿದರಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತಾನೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q44"
+    },
+    {
+      "id": "JS089",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂಸಾಳೆ ನೃತ್ಯವು ಯಾವ ಭಕ್ತಿಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಮಲೆ ಮಹದೇಶ್ವರ",
+        "B": "ವೀರಭದ್ರ",
+        "C": "ರಾಮ",
+        "D": "ಕೃಷ್ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂಸಾಳೆ ನೃತ್ಯವು ಮಲೆ ಮಹದೇಶ್ವರ ಭಕ್ತಿಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q39"
+    },
+    {
+      "id": "JS090",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಗ ನೃತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸಿದ ಕರಗವನ್ನು ಹೊತ್ತು ಭಕ್ತಿ, ಸಮತೋಲನ ಮತ್ತು ಲಯಬದ್ಧ ಚಲನೆಗಳೊಂದಿಗೆ ನಡೆಯುವುದು",
+        "B": "ಕೇವಲ ಕತ್ತಿ ನೃತ್ಯ",
+        "C": "ಕೇವಲ ಗೊಂಬೆ ನೃತ್ಯ",
+        "D": "ಕೇವಲ ದೋಣಿ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರಗ ನೃತ್ಯದಲ್ಲಿ ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸಿದ ಕರಗವನ್ನು ಹೊತ್ತು ಭಕ್ತಿ, ಸಮತೋಲನ ಮತ್ತು ಲಯಬದ್ಧ ಚಲನೆಗಳೊಂದಿಗೆ ನಡೆಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q41"
+    },
+        {
+      "id": "JS091",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ 'ಡೊಳ್ಳು ಕುಣಿತ'ದ ಪ್ರಮುಖ ವಾದ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಡೊಳ್ಳು",
+        "B": "ಚಂಡೆ",
+        "C": "ಮದ್ದಳೆ",
+        "D": "ತಾಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಕುಣಿತದಲ್ಲಿ ಡೊಳ್ಳು ವಾದ್ಯವನ್ನು ಬಾರಿಸುತ್ತಾ ಲಯಬದ್ಧವಾಗಿ ಗುಂಪಿನಲ್ಲಿ ಕುಣಿಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q38"
+    },
+    {
+      "id": "JS092",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಬಳಸುವ ಪ್ರಮುಖ ತಾಳವಾದ್ಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಡೆ ಮತ್ತು ಮದ್ದಳೆ",
+        "B": "ತಬಲಾ ಮತ್ತು ಸಿತಾರ್",
+        "C": "ವೀಣೆ ಮತ್ತು ಮೃದಂಗ",
+        "D": "ಗಿಟಾರ್ ಮತ್ತು ಡ್ರಮ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಚಂಡೆ, ಮದ್ದಳೆ ಮತ್ತು ತಾಳ ಮುಂತಾದ ವಾದ್ಯಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q46"
+    },
+    {
+      "id": "JS093",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಯಲಾಟದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ತೆರೆದ ಬಯಲು ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಜನರ ಮುಂದೆ ಪ್ರದರ್ಶನ",
+        "B": "ಕೇವಲ ಮನೆಯೊಳಗಿನ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಚಿತ್ರಮಂದಿರದ ಪ್ರದರ್ಶನ",
+        "D": "ಕೇವಲ ದೇವಸ್ಥಾನದ ಪ್ರದರ್ಶನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಯಲಾಟವು ತೆರೆದ ಬಯಲು ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಜನರ ಮುಂದೆ ಹಾಡು, ಸಂಭಾಷಣೆ, ಅಭಿನಯ ಮತ್ತು ನೃತ್ಯದೊಂದಿಗೆ ಪ್ರದರ್ಶಿಸುವ ಜನಪದ ನಾಟಕ ಪರಂಪರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q49"
+    },
+    {
+      "id": "JS094",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೊಡ್ಡಾಟ ಮತ್ತು ಸಣ್ಣಾಟದ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ದೊಡ್ಡಾಟದಲ್ಲಿ ಪ್ರದರ್ಶನದ ವ್ಯಾಪ್ತಿ, ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸಜ್ಜಿಕೆ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ; ಸಣ್ಣಾಟ ಹೆಚ್ಚು ಸರಳ ಮತ್ತು ಸೀಮಿತ",
+        "B": "ಎರಡೂ ಒಂದೇ",
+        "C": "ದೊಡ್ಡಾಟ ಸರಳ, ಸಣ್ಣಾಟ ಸಂಕೀರ್ಣ",
+        "D": "ದೊಡ್ಡಾಟ ಕೇವಲ ಮಹಿಳೆಯರಿಂದ, ಸಣ್ಣಾಟ ಕೇವಲ ಪುರುಷರಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೊಡ್ಡಾಟದಲ್ಲಿ ಪ್ರದರ್ಶನದ ವ್ಯಾಪ್ತಿ, ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸಜ್ಜಿಕೆ ಸಾಮಾನ್ಯವಾಗಿ ದೊಡ್ಡದಾಗಿರುತ್ತದೆ; ಸಣ್ಣಾಟ ಹೆಚ್ಚು ಸರಳ ಮತ್ತು ಸೀಮಿತ ರೂಪದಲ್ಲಿರುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q53"
+    },
+    {
+      "id": "JS095",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಯಾವ ರೀತಿಯ ಗೊಂಬೆಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಚರ್ಮದಿಂದ ತಯಾರಿಸಿದ ಬಣ್ಣದ ಗೊಂಬೆಗಳು",
+        "B": "ಮರದ ಗೊಂಬೆಗಳು",
+        "C": "ಬಟ್ಟೆ ಗೊಂಬೆಗಳು",
+        "D": "ಮಣ್ಣಿನ ಗೊಂಬೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಚರ್ಮದಿಂದ ತಯಾರಿಸಿದ ಬಣ್ಣದ ಗೊಂಬೆಗಳನ್ನು ಪರದೆಯ ಹಿಂದೆ ಬೆಳಕಿನ ಎದುರು ಚಲಿಸಿ ನೆರಳಿನ ರೂಪದಲ್ಲಿ ಕಥೆ ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q54"
+    },
+    {
+      "id": "JS096",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹರಡುವ ಪ್ರಮುಖ ಮಾರ್ಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "C": "ಕೇವಲ ಆನ್‌ಲೈನ್ ತರಗತಿಗಳು",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ಶಾಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹರಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q58"
+    },
+    {
+      "id": "JS097",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ ಎದುರಾಗುವ ಪ್ರಮುಖ ಸವಾಲುಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ, ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ, ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ, ದಾಖಲೀಕರಣದ ಕೊರತೆ ಮತ್ತು ಅಳಿವಿನ ಅಪಾಯ",
+        "B": "ಕೇವಲ ಆರ್ಥಿಕ ಸಮಸ್ಯೆ",
+        "C": "ಕೇವಲ ಭಾಷಾ ಸಮಸ್ಯೆ",
+        "D": "ಕೇವಲ ತಾಂತ್ರಿಕ ಸಮಸ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ, ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ, ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ, ದಾಖಲೀಕರಣದ ಕೊರತೆ ಮತ್ತು ಕೆಲವು ಕಲಾರೂಪಗಳ ಅಳಿವಿನ ಅಪಾಯ ಜನಪದ ಕಲಾವಿದರಿಗೆ ಎದುರಾಗುವ ಸವಾಲುಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS098",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ 'ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ'ಗೆ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ್ರದರ್ಶನ ಕಲೆಗಳು, ಮೌಖಿಕ ಪರಂಪರೆಗಳು, ಆಚರಣೆಗಳು, ಹಬ್ಬಗಳು, ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು",
+        "B": "ಕೇವಲ ಕಟ್ಟಡಗಳು ಮತ್ತು ಸ್ಮಾರಕಗಳು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "D": "ಕೇವಲ ಚಿತ್ರಕಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರದರ್ಶನ ಕಲೆಗಳು, ಮೌಖಿಕ ಪರಂಪರೆಗಳು, ಆಚರಣೆಗಳು, ಹಬ್ಬಗಳು, ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಗೆ ಉದಾಹರಣೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS099",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನಕ್ಕೆ 'ಕ್ಷೇತ್ರಕಾರ್ಯ'ದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಸಂದರ್ಭದಲ್ಲಿ ನೇರವಾಗಿ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳಿಂದ ಮಾಹಿತಿ ನೀಡುತ್ತದೆ",
+        "C": "ಕೇವಲ ಆನ್‌ಲೈನ್ ಮಾಹಿತಿ ನೀಡುತ್ತದೆ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ದಾಖಲೆಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷೇತ್ರಕಾರ್ಯವು ಸ್ಥಳೀಯ ಸಂದರ್ಭದಲ್ಲಿ ನೇರವಾಗಿ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನಕ್ಕೆ ಅತ್ಯಗತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS100",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯವು ಇತಿಹಾಸ ಅಧ್ಯಯನಕ್ಕೆ ಹೇಗೆ ನೆರವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ರಾಜರ ಇತಿಹಾಸವನ್ನು ನೀಡುತ್ತದೆ",
+        "C": "ಇತಿಹಾಸಕ್ಕೆ ಯಾವುದೇ ನೆರವಾಗುವುದಿಲ್ಲ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಇತಿಹಾಸವನ್ನು ನೀಡುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ. ಆದರೆ ಮೌಖಿಕ ಕಥನಗಳನ್ನು ಇತರ ಐತಿಹಾಸಿಕ ಆಧಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q67"
+    },
+    {
+      "id": "JS101",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಗುರುತು, ಭಾಷಾ ವೈವಿಧ್ಯ, ಸಮುದಾಯದ ಸ್ಮೃತಿ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆಯನ್ನು ಉಳಿಸುತ್ತವೆ; ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಒಗ್ಗಟ್ಟಿಗೆ ನೆರವಾಗುತ್ತವೆ",
+        "B": "ಕೇವಲ ಮನರಂಜನೆಗೆ ಸೀಮಿತ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭಕ್ಕೆ ಸಹಕಾರಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳಿಗೆ ಸೀಮಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಗುರುತು, ಭಾಷಾ ವೈವಿಧ್ಯ, ಸಮುದಾಯದ ಸ್ಮೃತಿ, ಸೃಜನಶೀಲತೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆಯನ್ನು ಉಳಿಸುತ್ತವೆ; ಜೊತೆಗೆ ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಒಗ್ಗಟ್ಟಿಗೆ ನೆರವಾಗುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS102",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಕೆಲಸದ ಹಾಡು'ಗಳಿಗೆ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕೃಷಿ, ನಾಟಿ, ಕೊಯ್ಯ, ಬೀಸುವಿಕೆ, ನೂಲುವಿಕೆ, ದೋಣೆ ಚಲಾವಣೆ",
+        "B": "ಮದುವೆ, ಗೃಹಪ್ರವೇಶ",
+        "C": "ದೇವರನಾಮ, ಭಜನೆ",
+        "D": "ಯಕ್ಷಗಾನ ಪ್ರಸಂಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೃಷಿ, ನಾಟಿ, ಕೊಯ್ಯ, ಬೀಸುವಿಕೆ, ನೂಲುವಿಕೆ, ದೋಣೆ ಚಲಾವಣೆ ಮುಂತಾದ ಕೆಲಸಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು ಕೆಲಸದ ಹಾಡುಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q13"
+    },
+    {
+      "id": "JS103",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸಂಸ್ಕಾರ ಗೀತೆ'ಗಳಿಗೆ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜನನ, ತೊಟ್ಟಿಲು, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ, ಮರಣ",
+        "B": "ಕೃಷಿ, ನಾಟಿ",
+        "C": "ದೇವರನಾಮ, ಭಜನೆ",
+        "D": "ಯಕ್ಷಗಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನನ, ತೊಟ್ಟಿಲು, ಮದುವೆ, ಗೃಹಪ್ರವೇಶ ಮತ್ತು ಮರಣದಂತಹ ಜೀವನದ ಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಗೀತೆಗಳು ಸಂಸ್ಕಾರ ಗೀತೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q14"
+    },
+    {
+      "id": "JS104",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಭಕ್ತಿಗೀತೆಗಳ ರೂಪಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ದೇವರನಾಮ, ಭಜನೆ, ತತ್ವಪದ, ಜಾತ್ರೆ ಮತ್ತು ಗ್ರಾಮದೇವತೆಗಳ ಆರಾಧನೆಯ ಹಾಡುಗಳು",
+        "B": "ಕೆಲಸದ ಹಾಡುಗಳು, ಸೋಬಾನೆ ಪದಗಳು",
+        "C": "ಗಾದೆಗಳು, ಒಗಟುಗಳು",
+        "D": "ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರನಾಮ, ಭಜನೆ, ತತ್ವಪದ, ಜಾತ್ರೆ ಮತ್ತು ಗ್ರಾಮದೇವತೆಗಳ ಆರಾಧನೆಯ ಹಾಡುಗಳು ಜನಪದ ಭಕ್ತಿಗೀತೆಯ ರೂಪಗಳಾಗಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q15"
+    },
+    {
+      "id": "JS105",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಪ್ರಾಣಿಕಥೆ'ಯ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಪ್ರಾಣಿಗಳ ಪಾತ್ರಗಳ ಮೂಲಕ ಮಾನವ ಸ್ವಭಾವ, ಬುದ್ಧಿವಂತಿಕೆ, ದುರಾಸೆ, ಸ್ನೇಹ ಮತ್ತು ನೀತಿಯನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಐತಿಹಾಸಿಕ ಘಟನೆಗಳನ್ನು ದಾಖಲಿಸುವುದು",
+        "D": "ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳನ್ನು ವಿವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಣಿಗಳ ಪಾತ್ರಗಳ ಮೂಲಕ ಮಾನವ ಸ್ವಭಾವ, ಬುದ್ಧಿವಂತಿಕೆ, ದುರಾಸೆ, ಸ್ನೇಹ ಮತ್ತು ನೀತಿಯನ್ನು ತಿಳಿಸುವುದು ಪ್ರಾಣಿಕಥೆಗಳ ಉದ್ದೇಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q18"
+    },
+    {
+      "id": "JS106",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ದಂತಕಥೆ' ಮತ್ತು 'ಐತಿಹ್ಯ' ನಡುವಿನ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಒಂದೇ ಅರ್ಥದಲ್ಲಿ ಬಳಸಲ್ಪಡುತ್ತವೆ; ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದ ಕಥನ",
+        "B": "ದಂತಕಥೆ ಕೇವಲ ಕಾಲ್ಪನಿಕ, ಐತಿಹ್ಯ ಕೇವಲ ಐತಿಹಾಸಿಕ",
+        "C": "ದಂತಕಥೆ ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆ",
+        "D": "ಐತಿಹ್ಯ ಕೇವಲ ಧಾರ್ಮಿಕ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಂತಕಥೆ ಅಥವಾ ಐತಿಹ್ಯ ಎರಡೂ ಒಂದೇ ಅರ್ಥದಲ್ಲಿ ಬಳಸಲ್ಪಡುತ್ತವೆ; ಸ್ಥಳ, ವ್ಯಕ್ತಿ, ದೇವತೆ, ಘಟನೆ ಅಥವಾ ಸಂಪ್ರದಾಯದ ಕುರಿತು ತಲೆಮಾರಿನಿಂದ ಹರಿದುಬಂದ ಕಥನ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q19"
+    },
+    {
+      "id": "JS107",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಾವ್ಯದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವೀರತೆ, ಭಕ್ತಿ, ಪ್ರೇಮ, ದುಃಖ, ಸಂಘರ್ಷ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳು",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ವೀರತೆ, ಭಕ್ತಿ, ಪ್ರೇಮ, ದುಃಖ, ಸಂಘರ್ಷ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳನ್ನು ಜನಪದ ಕಾವ್ಯ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "JS108",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಾವಣಿಯಲ್ಲಿ ನಿರೂಪಿಸಲ್ಪಡುವ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವೀರಗಾಥೆ, ಸಾಮಾಜಿಕ ಘಟನೆ, ಪ್ರೇಮ ಅಥವಾ ವ್ಯಂಗ್ಯ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಥೆ",
+        "C": "ಕೇವಲ ಪ್ರಕೃತಿ ವರ್ಣನೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಾವಣಿಯು ಸಾಮಾನ್ಯವಾಗಿ ವೀರಗಾಥೆ, ಸಾಮಾಜಿಕ ಘಟನೆ, ಪ್ರೇಮ ಅಥವಾ ವ್ಯಂಗ್ಯವನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q21"
+    },
+    {
+      "id": "JS109",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸೋಬಾನೆ ಪದಗಳನ್ನು ಯಾರು ಹಾಡುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಮಹಿಳೆಯರು ಗುಂಪಾಗಿ",
+        "B": "ಪುರುಷರು ಗುಂಪಾಗಿ",
+        "C": "ಮಕ್ಕಳು",
+        "D": "ಹಿರಿಯರು ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೋಬಾನೆ ಪದಗಳನ್ನು ಮದುವೆ ಮತ್ತು ಇತರ ಶುಭಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಮಹಿಳೆಯರು ಗುಂಪಾಗಿ ಹಾಡುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q22"
+    },
+    {
+      "id": "JS110",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳಲ್ಲಿ ಯಾವ ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳು ಕಾಣಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಅತ್ತೆ-ಸೊಸೆ ಸಂಬಂಧ, ಕುಟುಂಬ ಜೀವನ",
+        "B": "ರಾಜ-ಪ್ರಜೆ ಸಂಬಂಧ",
+        "C": "ಗುರು-ಶಿಷ್ಯ ಸಂಬಂಧ",
+        "D": "ದೇವರು-ಭಕ್ತ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳಲ್ಲಿ ಕುಟುಂಬ ಜೀವನ, ಅತ್ತೆ-ಸೊಸೆ ಸಂಬಂಧ, ಬಡತನ, ದುಡಿಮೆ, ಪ್ರೀತಿ, ನೋವು, ಹಾಸ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನುಭವಗಳು ಕಾಣಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q25"
+    },
+    {
+      "id": "JS111",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೀಗೀ ಪದಗಳು ಯಾವ ಪ್ರದೇಶಗಳಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕದ ಕೆಲವು ಭಾಗಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "C": "ಕೇವಲ ಮೈಸೂರಿನಲ್ಲಿ",
+        "D": "ಕೇವಲ ಧಾರವಾಡದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೀಗೀ ಪದಗಳು ಕರ್ನಾಟಕದ ಕೆಲವು ಭಾಗಗಳಲ್ಲಿ ಗೀಗೀ ಮೇಳ ಅಥವಾ ಜನಪದ ಗಾಯನ ಪರಂಪರೆಯ ಮೂಲಕ ಹಾಡಲ್ಪಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q26"
+    },
+    {
+      "id": "JS112",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಭಜನೆಯಲ್ಲಿ ಬಳಸುವ ಪ್ರಮುಖ ವಾದ್ಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತಾಳ, ಚಿಪ್ಪಳಿ, ಮೃದಂಗ, ಹಾರ್ಮೋನಿಯಂ, ತಂಬೂರಿ",
+        "B": "ಕೇವಲ ವೀಣೆ",
+        "C": "ಕೇವಲ ಪಿಟೀಲು",
+        "D": "ಕೇವಲ ಚಂಡೆ ಮತ್ತು ಮದ್ದಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಜನೆಗೆ ತಾಳ, ಚಿಪ್ಪಳಿ, ಮೃದಂಗ, ಹಾರ್ಮೋನಿಯಂ, ತಂಬೂರಿ ಮತ್ತು ಸ್ಥಳೀಯ ತಾಳವಾದ್ಯಗಳನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q29"
+    },
+    {
+      "id": "JS113",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನೀತಿ ಬೋಧನೆ, ಎಚ್ಚರಿಕೆ, ಅನುಭವ ಹಂಚಿಕೆ, ವ್ಯಂಗ್ಯ, ಸಲಹೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳು ನೀತಿ ಬೋಧನೆ, ಎಚ್ಚರಿಕೆ, ಅನುಭವ ಹಂಚಿಕೆ, ವ್ಯಂಗ್ಯ, ಸಲಹೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+        {
+      "id": "JS114",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಗಟುಗಳ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುವುದು; ಮನರಂಜನೆಯನ್ನೂ ಒದಗಿಸುವುದು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಬೋಧನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಐತಿಹಾಸಿಕ ದಾಖಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳು ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುವುದು; ಮನರಂಜನೆಯನ್ನೂ ಒದಗಿಸುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q34"
+    },
+    {
+      "id": "JS115",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯವು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಬ್ಬ, ಆಚರಣೆ, ನಂಬಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಂದರ್ಭಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಚಲನಚಿತ್ರದಲ್ಲಿ",
+        "C": "ಕೇವಲ ಶಾಲಾ ಸಮಾರಂಭಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಸಭೆಗಳಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ನೃತ್ಯವು ಸಮುದಾಯದ ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ವೃತ್ತಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q36"
+    },
+    {
+      "id": "JS116",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕದ ಪ್ರಮುಖ ಜನಪದ ನೃತ್ಯಗಳಲ್ಲಿ ಒಂದಾದ 'ಪೂಜಾ ಕುಣಿತ'ವು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುತ್ತದೆ?",
+      "options": {
+        "A": "ದೇವತಾ ಆರಾಧನೆ ಮತ್ತು ಪೂಜಾ ಸಂದರ್ಭಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಮದುವೆಯಲ್ಲಿ",
+        "C": "ಕೇವಲ ಕೃಷಿ ಕೆಲಸದಲ್ಲಿ",
+        "D": "ಕೇವಲ ಯುದ್ಧದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೂಜಾ ಕುಣಿತವು ದೇವತಾ ಆರಾಧನೆ ಮತ್ತು ಪೂಜಾ ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುವ ಜನಪದ ನೃತ್ಯವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q37"
+    },
+    {
+      "id": "JS117",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಪ್ರಸಂಗ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ ಅಥವಾ ಪುರಾಣಗಳಿಂದ ಆಯ್ದ ಕಥಾಭಾಗವನ್ನು ಆಧರಿಸಿ ರೂಪಿಸಲಾದ ನಾಟಕೀಯ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ಹಾಸ್ಯ ಪ್ರಸಂಗ",
+        "C": "ಕೇವಲ ಸಂಗೀತ ಕಚೇರಿ",
+        "D": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ ಅಥವಾ ಪುರಾಣಗಳಿಂದ ಆಯ್ದ ಕಥಾಭಾಗವನ್ನು ಆಧರಿಸಿ ರೂಪಿಸಲಾದ ಯಕ್ಷಗಾನ ನಾಟಕೀಯ ನಿರೂಪಣೆಯೇ ಪ್ರಸಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q45"
+    },
+    {
+      "id": "JS118",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದ ಎರಡು ಪ್ರಮುಖ ಪ್ರಾದೇಶಿಕ ಶೈಲಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು",
+        "B": "ಮೂಡಲಪಾಯ ಮತ್ತು ಪಡುವಲಪಾಯ",
+        "C": "ಉತ್ತರ ಮತ್ತು ದಕ್ಷಿಣ ಶೈಲಿ",
+        "D": "ಹವ್ಯಕ ಮತ್ತು ಕೋಟ ಶೈಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಡಗುತಿಟ್ಟು ಮತ್ತು ತೆಂಕುತಿಟ್ಟು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಶೈಲಿಗಳು. ಮೂಡಲಪಾಯವೂ ಕರ್ನಾಟಕದ ಮತ್ತೊಂದು ಪ್ರಾದೇಶಿಕ ರೂಪವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q47"
+    },
+    {
+      "id": "JS119",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನವು ಕರ್ನಾಟಕದ ಯಾವ ಭಾಗದಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಸಿದ್ಧ?",
+      "options": {
+        "A": "ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಉಡುಪಿ, ದಕ್ಷಿಣ ಕನ್ನಡ ಮತ್ತು ಉತ್ತರ ಕನ್ನಡ ಭಾಗಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಬೆಂಗಳೂರಿನಲ್ಲಿ",
+        "C": "ಕೇವಲ ಮೈಸೂರಿನಲ್ಲಿ",
+        "D": "ಕೇವಲ ಬೀದರ್‌ನಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನವು ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಉಡುಪಿ, ದಕ್ಷಿಣ ಕನ್ನಡ ಮತ್ತು ಉತ್ತರ ಕನ್ನಡ ಭಾಗಗಳಲ್ಲಿ ವಿಶೇಷವಾಗಿ ಪ್ರಸಿದ್ಧ; ಇತರ ಪ್ರದೇಶಗಳಲ್ಲಿಯೂ ರೂಪಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q48"
+    },
+    {
+      "id": "JS120",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಯಲಾಟದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುವ ಮುಖ್ಯ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪೌರಾಣಿಕ, ಐತಿಹಾಸಿಕ, ಧಾರ್ಮಿಕ ಮತ್ತು ಸ್ಥಳೀಯ ಜನಜೀವನದ ಕಥೆಗಳು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ರಾಜಕೀಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕ್ರೀಡೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಯಲಾಟದಲ್ಲಿ ಪೌರಾಣಿಕ, ಐತಿಹಾಸಿಕ, ಧಾರ್ಮಿಕ ಮತ್ತು ಸ್ಥಳೀಯ ಜನಜೀವನದ ಕಥೆಗಳು ಮುಖ್ಯ ವಿಷಯಗಳಾಗಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q50"
+    },
+    {
+      "id": "JS121",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೊಡ್ಡಾಟದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ದೊಡ್ಡ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ, ಪಾತ್ರವರ್ಗ, ಸಂಗೀತ ಮತ್ತು ಸಂಭಾಷಣೆಗೆ ಒತ್ತು",
+        "B": "ಕೇವಲ ಗೊಂಬೆಗಳ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಹಾಡು",
+        "D": "ಕೇವಲ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೊಡ್ಡಾಟವು ದೊಡ್ಡ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ, ಪಾತ್ರವರ್ಗ, ಸಂಗೀತ ಮತ್ತು ಸಂಭಾಷಣೆಗೆ ಒತ್ತು ನೀಡುವ ಜನಪದ ರಂಗರೂಪ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q51"
+    },
+    {
+      "id": "JS122",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಣ್ಣಾಟದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಣ್ಣ ಪ್ರಮಾಣದ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸ",
+        "B": "ದೊಡ್ಡ ವೇದಿಕೆ",
+        "C": "ಸಂಕೀರ್ಣ ವೇಷಭೂಷಣ",
+        "D": "ದೀರ್ಘ ಅವಧಿಯ ಪ್ರದರ್ಶನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಣ್ಣಾಟವು ಸಣ್ಣ ಪ್ರಮಾಣದ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸದೊಂದಿಗೆ ನಡೆಯುವ ಸ್ಥಳೀಯ ಜನಪದ ನಾಟಕ ರೂಪ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q52"
+    },
+    {
+      "id": "JS123",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಯಾವ ಬೆಳಕನ್ನು ಬಳಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಪರದೆಯ ಹಿಂದಿನ ಬೆಳಕು",
+        "B": "ಕೇವಲ ಸೂರ್ಯನ ಬೆಳಕು",
+        "C": "ಕೇವಲ ಚಂದ್ರನ ಬೆಳಕು",
+        "D": "ಕೇವಲ ವಿದ್ಯುತ್ ದೀಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಪರದೆಯ ಹಿಂದಿನ ಬೆಳಕನ್ನು ಬಳಸಿ ಗೊಂಬೆಗಳ ನೆರಳನ್ನು ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q54"
+    },
+    {
+      "id": "JS124",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಪ್ರದರ್ಶಿಸಲ್ಪಡುವ ಕಥೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ರಾಮಾಯಣ, ಮಹಾಭಾರತ, ಪುರಾಣಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಜನಪದ ಕಥೆಗಳು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ರಾಮಾಯಣ, ಮಹಾಭಾರತ, ಪುರಾಣಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಜನಪದ ಕಥೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q55"
+    },
+    {
+      "id": "JS125",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹರಡುವ ಪ್ರಮುಖ ಮಾರ್ಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "C": "ಕೇವಲ ಆನ್‌ಲೈನ್ ತರಗತಿಗಳು",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ಶಾಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಟುಂಬ, ಗುರು-ಶಿಷ್ಯ ಪರಂಪರೆ, ಸಮುದಾಯದ ಆಚರಣೆಗಳು, ಮೇಳಗಳು, ಹಬ್ಬಗಳು ಮತ್ತು ನೇರ ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಕಲಾವಿದರ ಜ್ಞಾನ ಹರಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q58"
+    },
+    {
+      "id": "JS126",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸಮುದಾಯದ ಜೀವನಶೈಲಿ, ಭಾಷೆ, ಆಹಾರ, ಉಡುಗೆ, ವೃತ್ತಿ, ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ಕಲೆ, ಸಂಗೀತ, ಜ್ಞಾನ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳ ಒಟ್ಟು ರೂಪ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು",
+        "C": "ಕೇವಲ ಕಲೆ ಮತ್ತು ಸಂಗೀತ",
+        "D": "ಕೇವಲ ಆಹಾರ ಮತ್ತು ಉಡುಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸಮುದಾಯದ ಜೀವನಶೈಲಿ, ಭಾಷೆ, ಆಹಾರ, ಉಡುಗೆ, ವೃತ್ತಿ, ಆಚರಣೆ, ಹಬ್ಬ, ನಂಬಿಕೆ, ಕಲೆ, ಸಂಗೀತ, ಜ್ಞಾನ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂಬಂಧಗಳ ಒಟ್ಟು ರೂಪವೇ ಜನಪದ ಸಂಸ್ಕೃತಿ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q60"
+    },
+    {
+      "id": "JS127",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಪರಂಪರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯವು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಉಳಿಸಿ ನಾಗಿಸುವ ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳ ನಿರಂತರ ಸರಣಿ",
+        "B": "ಕೇವಲ ಲಿಖಿತ ದಾಖಲೆಗಳು",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ನೀತಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮುದಾಯವು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಉಳಿಸಿ ನಾಗಿಸುವ ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳ ನಿರಂತರ ಸರಣಿಯೇ ಜನಪದ ಪರಂಪರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q61"
+    },
+    {
+      "id": "JS128",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಎಲ್ಲಿ ಸ್ಥಿತವಾಗಿದೆ?",
+      "options": {
+        "A": "ಗೊಟಗೊಡಿ, ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕು, ಹಾವೇರಿ ಜಿಲ್ಲೆ",
+        "B": "ರಾಮನಗರ",
+        "C": "ಬೆಂಗಳೂರು",
+        "D": "ಮೈಸೂರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಹಾವೇರಿ ಜಿಲ್ಲೆಯ ಶಿಗ್ಗಾಂವಿ ತಾಲ್ಲೂಕಿನ ಗೊಟಗೊಡಿಯಲ್ಲಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q64"
+    },
+    {
+      "id": "JS129",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜಾನಪದ ಲೋಕವು ಎಲ್ಲಿದೆ?",
+      "options": {
+        "A": "ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿ",
+        "B": "ಹಾವೇರಿ",
+        "C": "ಧಾರವಾಡ",
+        "D": "ಬೆಳಗಾವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾನಪದ ಲೋಕವು ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿಯಲ್ಲಿದೆ. ಇದು ಕರ್ನಾಟಕದ ಜನಪದ ಕಲೆ ಮತ್ತು ವಸ್ತುಸಂಸ್ಕೃತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವ ಕೇಂದ್ರ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q65"
+    },
+    {
+      "id": "JS130",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಗೆ ಯಾವ ಕ್ರಮಗಳು ಅಗತ್ಯ?",
+      "options": {
+        "A": "ಕ್ಷೇತ್ರಕಾರ್ಯ, ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣ, ಕಲಾವಿದರಿಗೆ ಪ್ರೋತ್ಸಾಹ, ಶಾಲಾ-ಕಾಲೇಜುಗಳಲ್ಲಿ ಪರಿಚಯ, ಸಂಗ್ರಹಾಲಯ, ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್, ತರಬೇತಿ ಮತ್ತು ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳಲ್ಲಿ ದಾಖಲಿಸುವುದು",
+        "C": "ಕೇವಲ ಸರ್ಕಾರಿ ಅನುದಾನ",
+        "D": "ಕೇವಲ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪ್ರಚಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷೇತ್ರಕಾರ್ಯ, ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣ, ಕಲಾವಿದರಿಗೆ ಪ್ರೋತ್ಸಾಹ, ಶಾಲಾ-ಕಾಲೇಜುಗಳಲ್ಲಿ ಪರಿಚಯ, ಸಂಗ್ರಹಾಲಯ, ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್, ತರಬೇತಿ ಮತ್ತು ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ ಅಗತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS131",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯವು ಇತಿಹಾಸ ಅಧ್ಯಯನಕ್ಕೆ ಹೇಗೆ ನೆರವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ರಾಜರ ಇತಿಹಾಸ",
+        "C": "ಇತಿಹಾಸಕ್ಕೆ ನೆರವಾಗುವುದಿಲ್ಲ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಇತಿಹಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q67"
+    },
+    {
+      "id": "JS132",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಾದ 'ಪುನರಾವರ್ತನೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಹಾಡಿನ ಪದಗಳು ಅಥವಾ ಸಾಲುಗಳು ಪುನಃ ಪುನಃ ಬರುವುದು",
+        "B": "ಹಾಡನ್ನು ಒಮ್ಮೆ ಮಾತ್ರ ಹಾಡುವುದು",
+        "C": "ಹಾಡನ್ನು ಬರೆಯುವುದು",
+        "D": "ಹಾಡನ್ನು ಅನುವಾದಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುನರಾವರ್ತನೆ ಎಂದರೆ ಹಾಡಿನ ಪದಗಳು ಅಥವಾ ಸಾಲುಗಳು ಪುನಃ ಪುನಃ ಬರುವುದು; ಇದು ಜನಪದ ಗೀತೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS133",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ; ಕರ್ತೃ ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಲ್ಲ",
+        "B": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ",
+        "C": "ರಾಜನ ಆಸ್ಥಾನದಲ್ಲಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ",
+        "D": "ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ ಎಂದರೆ ಒಂದು ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ; ಇದರಲ್ಲಿ ಕರ್ತೃ ಒಬ್ಬ ವ್ಯಕ್ತಿ ಅಲ್ಲ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q4"
+    },
+    {
+      "id": "JS134",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಪ್ರಾದೇಶಿಕ ಭಾಷೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಉಪಭಾಷೆ ಮತ್ತು ಭಾಷಾ ವೈವಿಧ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ",
+        "B": "ಪ್ರಮಾಣಿತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ",
+        "C": "ಸಂಸ್ಕೃತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾದೇಶಿಕ ಭಾಷೆ ಎಂದರೆ ಸ್ಥಳೀಯ ಉಪಭಾಷೆ ಮತ್ತು ಭಾಷಾ ವೈವಿಧ್ಯ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "JS135",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಸರಳತೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಅರ್ಥವಾಗುವ ಸರಳ ಭಾಷೆ ಮತ್ತು ಪದಪ್ರಯೋಗ",
+        "B": "ಸಂಕೀರ್ಣ ಭಾಷೆ",
+        "C": "ಅರ್ಥವಾಗದ ಭಾಷೆ",
+        "D": "ಶಾಸ್ತ್ರೀಯ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಳತೆ ಎಂದರೆ ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಅರ್ಥವಾಗುವ ಸರಳ ಭಾಷೆ ಮತ್ತು ಪದಪ್ರಯೋಗ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "JS136",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ರೂಪಾಂತರಶೀಲತೆ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೌಖಿಕ ಪ್ರಸಾರದಲ್ಲಿ ಪದಗಳು, ಘಟನೆಗಳು ಮತ್ತು ನಿರೂಪಣೆ ಬದಲಾಗುವುದು",
+        "B": "ಸಾಹಿತ್ಯವು ಯಾವಾಗಲೂ ಒಂದೇ ರೀತಿ ಇರುವುದು",
+        "C": "ಸಾಹಿತ್ಯವು ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಇರುವುದು",
+        "D": "ಸಾಹಿತ್ಯವು ಆಧುನಿಕ ರೂಪದಲ್ಲಿ ಮಾತ್ರ ಇರುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರೂಪಾಂತರಶೀಲತೆ ಎಂದರೆ ಮೌಖಿಕ ಪ್ರಸಾರದಲ್ಲಿ ಪದಗಳು, ಘಟನೆಗಳು ಮತ್ತು ನಿರೂಪಣೆ ಬದಲಾಗುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q6"
+    },
+    {
+      "id": "JS137",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಪರಂಪರಾನುಗತತೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಹರಿದುಬರುವುದು",
+        "B": "ಒಂದೇ ಪೀಳಿಗೆಯಲ್ಲಿ ಮಾತ್ರ ಇರುವುದು",
+        "C": "ಆಧುನಿಕ ಕಾಲದಲ್ಲಿ ಮಾತ್ರ ಇರುವುದು",
+        "D": "ಕೇವಲ ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಇರುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪರಂಪರಾನುಗತತೆ ಎಂದರೆ ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಹರಿದುಬರುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+        {
+      "id": "JS138",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಸ್ಥಳೀಯ ಜೀವನದ ಪ್ರತಿಬಿಂಬ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಜನರ ದಿನನಿತ್ಯದ ಬದುಕು, ಆಚರಣೆ, ನಂಬಿಕೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "B": "ಕೇವಲ ರಾಜರ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "C": "ಕೇವಲ ನಗರ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "D": "ಕೇವಲ ವಿದೇಶಿ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಜನರ ದಿನನಿತ್ಯದ ಬದುಕು, ಆಚರಣೆ, ನಂಬಿಕೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರತಿಬಿಂಬಿಸುವುದೇ ಸ್ಥಳೀಯ ಜೀವನದ ಪ್ರತಿಬಿಂಬ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "JS139",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ 'ಫೋಕ್ಲೋರಿಸ್ಟಿಕ್ಸ್' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಅಧ್ಯಯನ",
+        "B": "ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ",
+        "C": "ಭಾಷಾ ವಿಜ್ಞಾನ",
+        "D": "ಸಮಾಜಶಾಸ್ತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಅಧ್ಯಯನವನ್ನು ಫೋಕ್ಲೋರಿಸ್ಟಿಕ್ಸ್ (Folkloreistics) ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q8"
+    },
+    {
+      "id": "JS140",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸಂದರ್ಭದಾರಿತ ವಿಷಯ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಾಡನ್ನು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲಾಗುತ್ತದೆಯೋ ಆ ಸಂದರ್ಭಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯ",
+        "B": "ಎಲ್ಲಾ ಸಂದರ್ಭಗಳಿಗೂ ಒಂದೇ ವಿಷಯ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಷಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂದರ್ಭದಾರಿತ ವಿಷಯ ಎಂದರೆ ಹಾಡನ್ನು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲಾಗುತ್ತದೆಯೋ ಆ ಸಂದರ್ಭಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS141",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಲಯ ಮತ್ತು ಧಾಟಿ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಹಾಡಿಗೆ ಸಂಗೀತಮಯತೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಶೈಲಿಯನ್ನು ನೀಡುತ್ತದೆ",
+        "B": "ಹಾಡನ್ನು ನಿಧಾನಗೊಳಿಸುತ್ತದೆ",
+        "C": "ಹಾಡನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ",
+        "D": "ಹಾಡನ್ನು ಬರೆಯುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಯ ಮತ್ತು ಧಾಟಿ ಹಾಡಿಗೆ ಸಂಗೀತಮಯತೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಶೈಲಿಯನ್ನು ನೀಡುತ್ತದೆ; ಇದು ಜನಪದ ಗೀತೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS142",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸಾಮೂಹಿಕ ಗಾಯನ'ದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಜನರನ್ನು ಒಗ್ಗೂಡಿಸಿ ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ಏಕವ್ಯಕ್ತಿ ಗಾಯನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ",
+        "C": "ಹಾಡನ್ನು ನಿಧಾನಗೊಳಿಸುತ್ತದೆ",
+        "D": "ಹಾಡನ್ನು ಬರೆಯುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮೂಹಿಕ ಗಾಯನವು ಜನರನ್ನು ಒಗ್ಗೂಡಿಸಿ ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ; ಇದು ಜನಪದ ಗೀತೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS143",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ನೀತಿಕಥೆ'ಯ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ನೈತಿಕ ಪಾಠವನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಐತಿಹಾಸಿಕ ಘಟನೆ ದಾಖಲಿಸುವುದು",
+        "D": "ಧಾರ್ಮಿಕ ಆಚರಣೆ ವಿವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀತಿಕಥೆಗಳು ನೈತಿಕ ಪಾಠವನ್ನು ತಿಳಿಸುವುದು; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS144",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಅದ್ಭುತಕಥೆ'ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಅದ್ಭುತ ಘಟನೆಗಳು ಮತ್ತು ಕಾಲ್ಪನಿಕ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ",
+        "B": "ಕೇವಲ ನೈಜ ಘಟನೆಗಳು",
+        "C": "ಕೇವಲ ಐತಿಹಾಸಿಕ ಘಟನೆಗಳು",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಘಟನೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅದ್ಭುತಕಥೆಗಳು ಅದ್ಭುತ ಘಟನೆಗಳು ಮತ್ತು ಕಾಲ್ಪನಿಕ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS145",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಹಾಸ್ಯಕಥೆ'ಯ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ನಗೆ ಮತ್ತು ಮನರಂಜನೆಯನ್ನು ಒದಗಿಸುವುದು",
+        "B": "ನೈತಿಕ ಪಾಠ ತಿಳಿಸುವುದು",
+        "C": "ಐತಿಹಾಸಿಕ ಘಟನೆ ದಾಖಲಿಸುವುದು",
+        "D": "ಧಾರ್ಮಿಕ ಆಚರಣೆ ವಿವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಾಸ್ಯಕಥೆಗಳು ನಗೆ ಮತ್ತು ಮನರಂಜನೆಯನ್ನು ಒದಗಿಸುತ್ತವೆ; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS146",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಪೌರಾಣಿಕ ಕಥೆ'ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಪುರಾಣಗಳನ್ನು ಆಧರಿಸಿದ ಕಥೆಗಳು",
+        "B": "ಕೇವಲ ಕಾಲ್ಪನಿಕ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಹಾಸ್ಯ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೌರಾಣಿಕ ಕಥೆಗಳು ಪುರಾಣಗಳನ್ನು ಆಧರಿಸಿದ ಕಥೆಗಳು; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS147",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ವೀರಕಥೆ'ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ವೀರರ ಕಥೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ",
+        "B": "ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆಗಳು",
+        "C": "ಕೇವಲ ಹಾಸ್ಯ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಪೌರಾಣಿಕ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಕಥೆಗಳು ವೀರರ ಕಥೆಗಳನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS148",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಸ್ಥಳೀಯ ಐತಿಹ್ಯ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಸ್ಥಳ, ವ್ಯಕ್ತಿ ಅಥವಾ ಘಟನೆಯ ಕುರಿತು ಹರಿದುಬಂದ ಕಥೆ",
+        "B": "ಕೇವಲ ಕಾಲ್ಪನಿಕ ಕಥೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಣಿಗಳ ಕಥೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಐತಿಹ್ಯಗಳು ಸ್ಥಳೀಯ ಸ್ಥಳ, ವ್ಯಕ್ತಿ ಅಥವಾ ಘಟನೆಯ ಕುರಿತು ಹರಿದುಬಂದ ಕಥೆಗಳು; ಇದು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS149",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಜನನ' ಮತ್ತು 'ನಾಮಕರಣ' ಸಂಸ್ಕಾರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಹಾಡುಗಳು ಯಾವ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಂಸ್ಕಾರ ಗೀತೆಗಳು",
+        "B": "ಕೆಲಸದ ಹಾಡುಗಳು",
+        "C": "ಭಕ್ತಿಗೀತೆಗಳು",
+        "D": "ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನನ, ನಾಮಕರಣ ಮುಂತಾದ ಸಂಸ್ಕಾರಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡುವ ಗೀತೆಗಳು ಸಂಸ್ಕಾರ ಗೀತೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q11, Q14"
+    },
+    {
+      "id": "JS150",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಹಬ್ಬ' ಮತ್ತು 'ದೇವತಾ ಆರಾಧನೆ'ಗೆ ಸಂಬಂಧಿಸಿದ ಹಾಡುಗಳು ಯಾವ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಕ್ತಿಗೀತೆಗಳು",
+        "B": "ಕೆಲಸದ ಹಾಡುಗಳು",
+        "C": "ಸಂಸ್ಕಾರ ಗೀತೆಗಳು",
+        "D": "ಯಕ್ಷಗಾನ ಪ್ರಸಂಗಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಬ್ಬ, ದೇವತಾ ಆರಾಧನೆ, ಜಾತ್ರೆ ಮುಂತಾದ ಸಂದರ್ಭಗಳಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು ಭಕ್ತಿಗೀತೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q11, Q15"
+    },
+    {
+      "id": "JS151",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಹಾಡು' ಮತ್ತು 'ಕಥೆ'ಯ ನಡುವಿನ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ರೂಪಗಳು; ಹಾಡುಗಳು ಭಾವನೆಗಳನ್ನು, ಕಥೆಗಳು ಘಟನೆಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ",
+        "B": "ಹಾಡು ಮತ್ತು ಕಥೆ ಒಂದೇ",
+        "C": "ಹಾಡು ಕೇವಲ ಧಾರ್ಮಿಕ, ಕಥೆ ಕೇವಲ ಲೌಕಿಕ",
+        "D": "ಹಾಡು ಆಧುನಿಕ, ಕಥೆ ಸಾಂಪ್ರದಾಯಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಾಡುಗಳು ಮತ್ತು ಕಥೆಗಳು ಎರಡೂ ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ರೂಪಗಳು; ಹಾಡುಗಳು ಭಾವನೆಗಳನ್ನು, ಕಥೆಗಳು ಘಟನೆಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "JS152",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಕಾವ್ಯ' ಮತ್ತು 'ಗೀತೆ'ಯ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯವು ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪ; ಗೀತೆ ಹಾಡಲ್ಪಡುವ ಲಯಬದ್ಧ ರೂಪ",
+        "B": "ಕಾವ್ಯ ಮತ್ತು ಗೀತೆ ಒಂದೇ",
+        "C": "ಕಾವ್ಯ ಕೇವಲ ಲಿಖಿತ, ಗೀತೆ ಕೇವಲ ಮೌಖಿಕ",
+        "D": "ಕಾವ್ಯ ಆಧುನಿಕ, ಗೀತೆ ಸಾಂಪ್ರದಾಯಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಾವ್ಯವು ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪ; ಗೀತೆ ಹಾಡಲ್ಪಡುವ ಲಯಬದ್ಧ ರೂಪ. ಎರಡೂ ಜನಪದ ಸಾಹಿತ್ಯದ ಭಾಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "JS153",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಗಾದೆ' ಮತ್ತು 'ಒಗಟು' ಎರಡೂ ಯಾವ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಜನಪದ ಸಾಹಿತ್ಯದ ಬೌದ್ಧಿಕ ರೂಪಗಳು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ರೂಪಗಳು",
+        "C": "ಕೇವಲ ಕಲಾ ರೂಪಗಳು",
+        "D": "ಕೇವಲ ಸಂಗೀತ ರೂಪಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆ ಮತ್ತು ಒಗಟುಗಳು ಜನಪದ ಸಾಹಿತ್ಯದ ಬೌದ್ಧಿಕ ರೂಪಗಳು; ಗಾದೆ ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ, ಒಗಟು ಸುಳಿವಿನ ಮೂಲಕ ಉತ್ತರ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q30, Q33"
+    },
+    {
+      "id": "JS154",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಪುರಾಣಕಥೆ'ಗಳು ಯಾವ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಜನಪದ ಕಥೆಗಳು",
+        "B": "ಜನಪದ ಗೀತೆಗಳು",
+        "C": "ಜನಪದ ಗಾದೆಗಳು",
+        "D": "ಜನಪದ ಒಗಟುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಾಣಕಥೆಗಳು ಜನಪದ ಕಥೆಗಳ ಒಂದು ವಿಧ; ಇವು ಪುರಾಣಗಳನ್ನು ಆಧರಿಸಿದ ಕಥೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "JS155",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ನಂಬಿಕೆಗಳು' ಮತ್ತು 'ಆಚರಣೆಗಳು' ಯಾವ ವಿಭಾಗಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಜನಪದ ಸಾಹಿತ್ಯದ ಸಾಂಸ್ಕೃತಿಕ ಅಂಶಗಳು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಅಂಶಗಳು",
+        "C": "ಕೇವಲ ಕಲಾ ಅಂಶಗಳು",
+        "D": "ಕೇವಲ ಸಂಗೀತ ಅಂಶಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಂಬಿಕೆಗಳು ಮತ್ತು ಆಚರಣೆಗಳು ಜನಪದ ಸಾಹಿತ್ಯದ ಸಾಂಸ್ಕೃತಿಕ ಅಂಶಗಳು; ಇವು ಸಮುದಾಯದ ಜೀವನಶೈಲಿಯ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "JS156",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಪ್ರದರ್ಶನ ಕಲೆಗಳು' ಯಾವುವು?",
+      "options": {
+        "A": "ನೃತ್ಯ, ನಾಟಕ, ಗೊಂಬೆಯಾಟ, ಯಕ್ಷಗಾನ ಮುಂತಾದ ಕಲೆಗಳು",
+        "B": "ಕೇವಲ ಹಾಡುಗಳು",
+        "C": "ಕೇವಲ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಗಾದೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೃತ್ಯ, ನಾಟಕ, ಗೊಂಬೆಯಾಟ, ಯಕ್ಷಗಾನ ಮುಂತಾದ ಕಲೆಗಳು ಜನಪದ ಪ್ರದರ್ಶನ ಕಲೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "JS157",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಹಾಡು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಲಯಬದ್ಧವಾಗಿ ಹಾಡಲ್ಪಡುವ ಪದ್ಯ ರೂಪ",
+        "B": "ಗದ್ಯ ರೂಪ",
+        "C": "ಕೇವಲ ಲಿಖಿತ ರೂಪ",
+        "D": "ಕೇವಲ ಚಿತ್ರ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಹಾಡು ಲಯಬದ್ಧವಾಗಿ ಹಾಡಲ್ಪಡುವ ಪದ್ಯ ರೂಪ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q10"
+    },
+    {
+      "id": "JS158",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಕಥೆ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೌಖಿಕವಾಗಿ ಸಾರುವ ಕಥನ ರೂಪ",
+        "B": "ಲಯಬದ್ಧ ಹಾಡು",
+        "C": "ಕೇವಲ ಲಿಖಿತ ರೂಪ",
+        "D": "ಕೇವಲ ಚಿತ್ರ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಥೆ ಮೌಖಿಕವಾಗಿ ಸಾರುವ ಕಥನ ರೂಪ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS159",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಗಾದೆ'ಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಾದ 'ರೂಪಕ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಒಂದು ವಸ್ತುವನ್ನು ಇನ್ನೊಂದು ವಸ್ತುವಿನ ಮೂಲಕ ವಿವರಿಸುವುದು",
+        "B": "ನೇರವಾದ ವಿವರಣೆ",
+        "C": "ದೀರ್ಘ ವಿವರಣೆ",
+        "D": "ಅಸ್ಪಷ್ಟ ವಿವರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರೂಪಕ ಎಂದರೆ ಒಂದು ವಸ್ತುವನ್ನು ಇನ್ನೊಂದು ವಸ್ತುವಿನ ಮೂಲಕ ವಿವರಿಸುವುದು; ಇದು ಗಾದೆಗಳ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS160",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಒಗಟು' ಮತ್ತು 'ಗಾದೆ' ಎರಡೂ ಯಾವ ಗುಣವನ್ನು ಹೊಂದಿವೆ?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ",
+        "B": "ದೀರ್ಘತೆ",
+        "C": "ಅಸ್ಪಷ್ಟತೆ",
+        "D": "ಲಯರಹಿತತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟು ಮತ್ತು ಗಾದೆ ಎರಡೂ ಸಂಕ್ಷಿಪ್ತತೆಯ ಗುಣವನ್ನು ಹೊಂದಿವೆ; ಇವು ಜನಪದ ಸಾಹಿತ್ಯದ ಬೌದ್ಧಿಕ ರೂಪಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31, Q33"
+    },
+    {
+      "id": "JS161",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ' ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಗಾದೆಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಹಾಡುಗಳಲ್ಲಿ",
+        "C": "ಕೇವಲ ಕಥೆಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ನೃತ್ಯಗಳಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನವು ಗಾದೆಗಳಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ; ಗಾದೆಗಳು ದೀರ್ಘಕಾಲದ ಜನಾನುಭವದಿಂದ ರೂಪುಗೊಂಡ ಸಂಕ್ಷಿಪ್ತ ಜ್ಞಾನ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q30, Q31"
+    },
+    {
+      "id": "JS162",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ನೀತಿ ಬೋಧನೆ' ಯಾವ ರೂಪದಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಗಾದೆಗಳು ಮತ್ತು ನೀತಿಕಥೆಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಹಾಡುಗಳಲ್ಲಿ",
+        "C": "ಕೇವಲ ನೃತ್ಯಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ಯಕ್ಷಗಾನದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀತಿ ಬೋಧನೆ ಗಾದೆಗಳು ಮತ್ತು ನೀತಿಕಥೆಗಳಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ; ಇವು ಜನಪದ ಸಾಹಿತ್ಯದ ಬೌದ್ಧಿಕ ರೂಪಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32, Page 2, Q17"
+    },
+    {
+      "id": "JS163",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಎಚ್ಚರಿಕೆ' ಮತ್ತು 'ಸಲಹೆ' ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಗಾದೆಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಹಾಡುಗಳಲ್ಲಿ",
+        "C": "ಕೇವಲ ಕಥೆಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ನೃತ್ಯಗಳಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎಚ್ಚರಿಕೆ ಮತ್ತು ಸಲಹೆ ಗಾದೆಗಳಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ; ಗಾದೆಗಳು ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+        {
+      "id": "JS164",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ವ್ಯಂಗ್ಯ' ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಗಾದೆಗಳಲ್ಲಿ ಮತ್ತು ಹಾಸ್ಯಕಥೆಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಹಾಡುಗಳಲ್ಲಿ",
+        "C": "ಕೇವಲ ನೃತ್ಯಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ಯಕ್ಷಗಾನದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಂಗ್ಯ ಗಾದೆಗಳಲ್ಲಿ ಮತ್ತು ಹಾಸ್ಯಕಥೆಗಳಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ; ಇವು ಜನಪದ ಸಾಹಿತ್ಯದ ಬೌದ್ಧಿಕ ರೂಪಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32, Page 2, Q17"
+    },
+    {
+      "id": "JS165",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ತಾರ್ಕಿಕ ಚಿಂತನೆ' ಯಾವ ರೂಪದಲ್ಲಿ ಬೆಳೆಯುತ್ತದೆ?",
+      "options": {
+        "A": "ಒಗಟುಗಳಲ್ಲಿ",
+        "B": "ಕೇವಲ ಹಾಡುಗಳಲ್ಲಿ",
+        "C": "ಕೇವಲ ನೃತ್ಯಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ಯಕ್ಷಗಾನದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳು ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q34"
+    },
+    {
+      "id": "JS166",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಮನರಂಜನೆ'ಯ ಜೊತೆಗೆ ಒಗಟುಗಳು ಯಾವ ಗುಣವನ್ನು ಬೆಳೆಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಬುದ್ಧಿಶಕ್ತಿ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆ",
+        "B": "ಕೇವಲ ದೈಹಿಕ ಶಕ್ತಿ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಭಕ್ತಿ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಜ್ಞಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳು ಮನರಂಜನೆಯ ಜೊತೆಗೆ ಬುದ್ಧಿಶಕ್ತಿ, ಗಮನ, ಕಲ್ಪನೆ, ಭಾಷಾ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತಾರ್ಕಿಕ ಚಿಂತನೆಯನ್ನು ಬೆಳೆಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q34"
+    },
+    {
+      "id": "JS167",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ 'ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆ'ಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯದ ಒಗ್ಗಟ್ಟು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಬಲಪಡಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ವೈಯಕ್ತಿಕ ಪ್ರದರ್ಶನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ",
+        "C": "ನೃತ್ಯವನ್ನು ನಿಧಾನಗೊಳಿಸುತ್ತದೆ",
+        "D": "ನೃತ್ಯವನ್ನು ನಿಲ್ಲಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆಯು ಸಮುದಾಯದ ಒಗ್ಗಟ್ಟು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಬಲಪಡಿಸುತ್ತದೆ; ಇದು ಜನಪದ ನೃತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q36"
+    },
+    {
+      "id": "JS168",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡೊಳ್ಳು ಕುಣಿತದಲ್ಲಿ 'ಡೊಳ್ಳು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ತಾಳವಾದ್ಯ",
+        "B": "ಒಂದು ನೃತ್ಯದ ಹೆಸರು",
+        "C": "ಒಂದು ಹಾಡಿನ ಹೆಸರು",
+        "D": "ಒಂದು ವೇಷಭೂಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಒಂದು ತಾಳವಾದ್ಯ; ಡೊಳ್ಳು ಕುಣಿತದಲ್ಲಿ ಡೊಳ್ಳು ಬಾರಿಸುತ್ತಾ ಲಯಬದ್ಧವಾಗಿ ಗುಂಪಿನಲ್ಲಿ ಕುಣಿಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q38"
+    },
+    {
+      "id": "JS169",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೀರಗಾಸೆ ನೃತ್ಯದಲ್ಲಿ 'ವೀರಭದ್ರ'ನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ವೀರಗಾಸೆ ನೃತ್ಯವು ವೀರಭದ್ರನ ಪೌರಾಣಿಕ ಕಥೆ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದೆ",
+        "B": "ವೀರಭದ್ರನು ವೀರಗಾಸೆ ನೃತ್ಯದ ವಾದ್ಯ",
+        "C": "ವೀರಭದ್ರನು ವೀರಗಾಸೆ ನೃತ್ಯದ ಹಾಡು",
+        "D": "ವೀರಭದ್ರನು ವೀರಗಾಸೆ ನೃತ್ಯದ ವೇಷಭೂಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಗಾಸೆ ನೃತ್ಯವು ವೀರಭದ್ರನ ಪೌರಾಣಿಕ ಕಥೆ ಮತ್ತು ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದ ಶೈವ ಪರಂಪರೆಯ ವೀರನೃತ್ಯವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q40"
+    },
+    {
+      "id": "JS170",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಗ ನೃತ್ಯದಲ್ಲಿ 'ಕರಗ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸುವ ಪವಿತ್ರ ವಸ್ತು",
+        "B": "ಒಂದು ತಾಳವಾದ್ಯ",
+        "C": "ಒಂದು ಹಾಡಿನ ಹೆಸರು",
+        "D": "ಒಂದು ವೇಷಭೂಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರಗ ನೃತ್ಯದಲ್ಲಿ ತಲೆಯ ಮೇಲೆ ಅಲಂಕರಿಸಿದ ಕರಗವನ್ನು ಹೊತ್ತು ಭಕ್ತಿ, ಸಮತೋಲನ ಮತ್ತು ಲಯಬದ್ಧ ಚಲನೆಗಳೊಂದಿಗೆ ನಡೆಯುತ್ತಾರೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q41"
+    },
+    {
+      "id": "JS171",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಹಿಮ್ಮೇಳ' ಮತ್ತು 'ಮುಮ್ಮೇಳ'ದ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಹಿಮ್ಮೇಳ ಹಿನ್ನೆಲೆ ಸಂಗೀತ, ಮುಮ್ಮೇಳ ಮುಂಭಾಗದ ಪ್ರದರ್ಶನ",
+        "B": "ಹಿಮ್ಮೇಳ ಮುಂಭಾಗ, ಮುಮ್ಮೇಳ ಹಿನ್ನೆಲೆ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಹಿಮ್ಮೇಳ ಕೇವಲ ವಾದ್ಯ, ಮುಮ್ಮೇಳ ಕೇವಲ ಹಾಡು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಹಿಮ್ಮೇಳ ಎಂದರೆ ಹಿನ್ನೆಲೆ ಸಂಗೀತ ಮತ್ತು ವಾದ್ಯಗಳ ಗುಂಪು; ಮುಮ್ಮೇಳ ಎಂದರೆ ಮುಂಭಾಗದ ಪ್ರದರ್ಶನ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS172",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಬಣ್ಣಗಾರಿಕೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಪಾತ್ರಗಳಿಗೆ ಬಣ್ಣ ಹಚ್ಚಿ ವೇಷಭೂಷಣ ಸಿದ್ಧಪಡಿಸುವುದು",
+        "B": "ಕೇವಲ ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಮಾಡುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಬಣ್ಣಗಾರಿಕೆ ಎಂದರೆ ಪಾತ್ರಗಳಿಗೆ ಬಣ್ಣ ಹಚ್ಚಿ ವೇಷಭೂಷಣ ಸಿದ್ಧಪಡಿಸುವುದು; ಇದು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS173",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ಸಂಭಾಷಣೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಪಾತ್ರಗಳ ನಡುವಿನ ಸಂವಾದದ ಮೂಲಕ ಕಥೆಯನ್ನು ಮುನ್ನಡೆಸುವುದು",
+        "B": "ಕೇವಲ ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಮಾಡುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ಸಂಭಾಷಣೆಯು ಪಾತ್ರಗಳ ನಡುವಿನ ಸಂವಾದದ ಮೂಲಕ ಕಥೆಯನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ; ಇದು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS174",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ನೃತ್ಯ' ಮತ್ತು 'ಅಭಿನಯ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಪಾತ್ರಗಳ ಭಾವನೆಗಳನ್ನು ಮತ್ತು ಕಥೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು",
+        "B": "ಕೇವಲ ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು",
+        "D": "ಕೇವಲ ವೇಷಭೂಷಣ ಸಿದ್ಧಪಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ನೃತ್ಯ ಮತ್ತು ಅಭಿನಯವು ಪಾತ್ರಗಳ ಭಾವನೆಗಳನ್ನು ಮತ್ತು ಕಥೆಯನ್ನು ದೃಶ್ಯರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ; ಇವು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS175",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಕ್ಷಗಾನದಲ್ಲಿ 'ವೇಷಭೂಷಣ'ದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಪಾತ್ರಗಳ ಗುರುತನ್ನು ಮತ್ತು ಕಥೆಯ ಸಂದರ್ಭವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ಅಲಂಕಾರ",
+        "C": "ಕೇವಲ ಮನರಂಜನೆ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಕ್ಷಗಾನದಲ್ಲಿ ವೇಷಭೂಷಣವು ಪಾತ್ರಗಳ ಗುರುತನ್ನು ಮತ್ತು ಕಥೆಯ ಸಂದರ್ಭವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ; ಇದು ಯಕ್ಷಗಾನದ ಪ್ರಮುಖ ಅಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "JS176",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಯಲಾಟದಲ್ಲಿ 'ಸಾರ್ವಜನಿಕ ಸ್ಥಳ'ದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಜನರಿಗೆ ನೇರವಾಗಿ ಪ್ರದರ್ಶನವನ್ನು ತಲುಪಿಸಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ",
+        "B": "ಕೇವಲ ಖಾಸಗಿ ಪ್ರದರ್ಶನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ",
+        "C": "ಕೇವಲ ದೇವಸ್ಥಾನದ ಪ್ರದರ್ಶನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ",
+        "D": "ಕೇವಲ ಚಿತ್ರಮಂದಿರದ ಪ್ರದರ್ಶನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಯಲಾಟವು ತೆರೆದ ಬಯಲು ಅಥವಾ ಸಾರ್ವಜನಿಕ ಸ್ಥಳದಲ್ಲಿ ಜನರ ಮುಂದೆ ಪ್ರದರ್ಶಿಸುವ ಜನಪದ ನಾಟಕ ಪರಂಪರೆ; ಇದು ಜನರಿಗೆ ನೇರವಾಗಿ ಪ್ರದರ್ಶನವನ್ನು ತಲುಪಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q49"
+    },
+    {
+      "id": "JS177",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೊಡ್ಡಾಟದಲ್ಲಿ 'ಸಂಗೀತ' ಮತ್ತು 'ಸಂಭಾಷಣೆ'ಗೆ ಒತ್ತು ನೀಡುವುದರ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಪ್ರದರ್ಶನವನ್ನು ಆಕರ್ಷಕ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿಸುವುದು",
+        "B": "ಕೇವಲ ವೇಷಭೂಷಣ ಪ್ರದರ್ಶಿಸುವುದು",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶಿಸುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೊಡ್ಡಾಟದಲ್ಲಿ ಸಂಗೀತ ಮತ್ತು ಸಂಭಾಷಣೆಗೆ ಒತ್ತು ನೀಡುವುದರ ಉದ್ದೇಶ ಪ್ರದರ್ಶನವನ್ನು ಆಕರ್ಷಕ ಮತ್ತು ಪರಿಣಾಮಕಾರಿಯಾಗಿಸುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q51"
+    },
+    {
+      "id": "JS178",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಣ್ಣಾಟದಲ್ಲಿ 'ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಕಡಿಮೆ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ",
+        "B": "ದೊಡ್ಡ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸಂಕೀರ್ಣ ವೇದಿಕೆ",
+        "C": "ಕೇವಲ ವಾದ್ಯ ಪ್ರದರ್ಶನ",
+        "D": "ಕೇವಲ ನೃತ್ಯ ಪ್ರದರ್ಶನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಣ್ಣಾಟದಲ್ಲಿ ಸರಳ ಪ್ರದರ್ಶನ ವಿನ್ಯಾಸ ಎಂದರೆ ಕಡಿಮೆ ಪಾತ್ರವರ್ಗ ಮತ್ತು ಸರಳ ವೇದಿಕೆ ಸಜ್ಜಿಕೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q52"
+    },
+    {
+      "id": "JS179",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ 'ನೆರಳಿನ ರೂಪ'ದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಗೊಂಬೆಗಳ ನೆರಳನ್ನು ಪರದೆಯ ಮೇಲೆ ಪ್ರದರ್ಶಿಸಿ ಕಥೆ ಹೇಳುವುದು",
+        "B": "ಕೇವಲ ಗೊಂಬೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವುದು",
+        "C": "ಕೇವಲ ಹಾಡು ಹಾಡುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ಗೊಂಬೆಗಳ ನೆರಳನ್ನು ಪರದೆಯ ಮೇಲೆ ಪ್ರದರ್ಶಿಸಿ ಕಥೆ ಹೇಳಲಾಗುತ್ತದೆ; ಇದು ತೊಗಲುಗೊಂಬೆಯಾಟದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q54"
+    },
+    {
+      "id": "JS180",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ 'ನಿರೂಪಣೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕಥೆಯನ್ನು ವಿವರಿಸಿ ಗೊಂಬೆಗಳ ಚಲನೆಗೆ ಅರ್ಥ ನೀಡುವುದು",
+        "B": "ಕೇವಲ ಹಾಡು ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು",
+        "D": "ಕೇವಲ ಪರದೆ ಸಿದ್ಧಪಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊಗಲುಗೊಂಬೆಯಾಟದಲ್ಲಿ ನಿರೂಪಣೆಯು ಕಥೆಯನ್ನು ವಿವರಿಸಿ ಗೊಂಬೆಗಳ ಚಲನೆಗೆ ಅರ್ಥ ನೀಡುತ್ತದೆ; ಇದು ತೊಗಲುಗೊಂಬೆಯಾಟದ ಪ್ರಮುಖ ಅಂಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q56"
+    },
+    {
+      "id": "JS181",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ 'ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ' ಯಾವ ರೀತಿ ಸವಾಲು?",
+      "options": {
+        "A": "ನಿರಂತರ ಆದಾಯದ ಕೊರತೆ ಮತ್ತು ಜೀವನೋಪಾಯದ ಅನಿಶ್ಚಿತತೆ",
+        "B": "ಹೆಚ್ಚಿನ ಆದಾಯ",
+        "C": "ಸ್ಥಿರ ಉದ್ಯೋಗ",
+        "D": "ಸರ್ಕಾರಿ ನೌಕರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಲಾವಿದರಿಗೆ ಆರ್ಥಿಕ ಅನಿಶ್ಚಿತತೆ ಎಂದರೆ ನಿರಂತರ ಆದಾಯದ ಕೊರತೆ ಮತ್ತು ಜೀವನೋಪಾಯದ ಅನಿಶ್ಚಿತತೆ; ಇದು ಪ್ರಮುಖ ಸವಾಲು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS182",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ 'ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ' ಯಾವ ರೀತಿ ಸವಾಲು?",
+      "options": {
+        "A": "ಕಲೆಯನ್ನು ಪ್ರದರ್ಶಿಸಲು ಸೂಕ್ತ ವೇದಿಕೆಗಳ ಕೊರತೆ",
+        "B": "ಹೆಚ್ಚಿನ ಪ್ರದರ್ಶನಾವಕಾಶಗಳು",
+        "C": "ಸರ್ಕಾರಿ ಪ್ರದರ್ಶನಗಳು",
+        "D": "ಖಾಸಗಿ ಪ್ರದರ್ಶನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಲಾವಿದರಿಗೆ ಪ್ರದರ್ಶನಾವಕಾಶಗಳ ಕೊರತೆ ಎಂದರೆ ಕಲೆಯನ್ನು ಪ್ರದರ್ಶಿಸಲು ಸೂಕ್ತ ವೇದಿಕೆಗಳ ಕೊರತೆ; ಇದು ಪ್ರಮುಖ ಸವಾಲು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS183",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ 'ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ' ಯಾವ ರೀತಿ ಸವಾಲು?",
+      "options": {
+        "A": "ಯುವಕರು ಜನಪದ ಕಲೆಗಳನ್ನು ಕಲಿಯಲು ಮತ್ತು ಪ್ರದರ್ಶಿಸಲು ಆಸಕ್ತಿ ಕಡಿಮೆಯಾಗುವುದು",
+        "B": "ಯುವಕರು ಹೆಚ್ಚು ಆಸಕ್ತಿ ತೋರುವುದು",
+        "C": "ಯುವಕರು ಸರ್ಕಾರಿ ನೌಕರಿ ಪಡೆಯುವುದು",
+        "D": "ಯುವಕರು ವಿದೇಶಕ್ಕೆ ಹೋಗುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯುವಪೀಳಿಗೆಯ ಆಸಕ್ತಿ ಕುಸಿತ ಎಂದರೆ ಯುವಕರು ಜನಪದ ಕಲೆಗಳನ್ನು ಕಲಿಯಲು ಮತ್ತು ಪ್ರದರ್ಶಿಸಲು ಆಸಕ್ತಿ ಕಡಿಮೆಯಾಗುವುದು; ಇದು ಪ್ರಮುಖ ಸವಾಲು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS184",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ 'ದಾಖಲೀಕರಣದ ಕೊರತೆ' ಯಾವ ರೀತಿ ಸವಾಲು?",
+      "options": {
+        "A": "ಕಲೆಗಳನ್ನು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಉಳಿಸಲು ಸಾಕಷ್ಟು ದಾಖಲೆಗಳ ಕೊರತೆ",
+        "B": "ಹೆಚ್ಚಿನ ದಾಖಲೆಗಳು",
+        "C": "ಸರ್ಕಾರಿ ದಾಖಲೆಗಳು",
+        "D": "ಖಾಸಗಿ ದಾಖಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಖಲೀಕರಣದ ಕೊರತೆ ಎಂದರೆ ಕಲೆಗಳನ್ನು ಮುಂದಿನ ಪೀಳಿಗೆಗೆ ಉಳಿಸಲು ಸಾಕಷ್ಟು ದಾಖಲೆಗಳ ಕೊರತೆ; ಇದು ಪ್ರಮುಖ ಸವಾಲು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS185",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಲಾವಿದರಿಗೆ 'ಕೆಲವು ಕಲಾರೂಪಗಳ ಅಳಿವಿನ ಅಪಾಯ' ಯಾವ ರೀತಿ ಸವಾಲು?",
+      "options": {
+        "A": "ಕೆಲವು ಜನಪದ ಕಲಾರೂಪಗಳು ಕ್ರಮೇಣ ಮರೆಯಾಗುವ ಅಪಾಯ",
+        "B": "ಎಲ್ಲಾ ಕಲಾರೂಪಗಳು ಉಳಿಯುವುದು",
+        "C": "ಹೊಸ ಕಲಾರೂಪಗಳು ಹುಟ್ಟುವುದು",
+        "D": "ಸರ್ಕಾರಿ ರಕ್ಷಣೆ ದೊರೆಯುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಕಲಾರೂಪಗಳ ಅಳಿವಿನ ಅಪಾಯ ಎಂದರೆ ಕೆಲವು ಜನಪದ ಕಲಾರೂಪಗಳು ಕ್ರಮೇಣ ಮರೆಯಾಗುವ ಅಪಾಯ; ಇದು ಪ್ರಮುಖ ಸವಾಲು.",
+      "source": "Janapada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "JS186",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ 'ಆಹಾರ' ಮತ್ತು 'ಉಡುಗೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯದ ಜೀವನಶೈಲಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ",
+        "B": "ಕೇವಲ ಅಲಂಕಾರ",
+        "C": "ಕೇವಲ ಮನರಂಜನೆ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಆಹಾರ ಮತ್ತು ಉಡುಗೆ ಸಮುದಾಯದ ಜೀವನಶೈಲಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q60"
+    },
+    {
+      "id": "JS187",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ 'ವೃತ್ತಿ' ಮತ್ತು 'ಆಚರಣೆ'ಯ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಆಚರಣೆಗಳು ಮತ್ತು ಹಾಡುಗಳು ಸಮುದಾಯದ ಜೀವನದ ಭಾಗ",
+        "B": "ವೃತ್ತಿ ಮತ್ತು ಆಚರಣೆ ಸಂಬಂಧವಿಲ್ಲ",
+        "C": "ವೃತ್ತಿ ಕೇವಲ ಆರ್ಥಿಕ, ಆಚರಣೆ ಕೇವಲ ಧಾರ್ಮಿಕ",
+        "D": "ವೃತ್ತಿ ಆಧುನಿಕ, ಆಚರಣೆ ಸಾಂಪ್ರದಾಯಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಆಚರಣೆಗಳು ಮತ್ತು ಹಾಡುಗಳು ಸಮುದಾಯದ ಜೀವನದ ಭಾಗ; ಉದಾಹರಣೆಗೆ ಕೃಷಿ ಆಚರಣೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q60"
+    },
+        {
+      "id": "JS188",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಪರಂಪರೆಯಲ್ಲಿ 'ನಿರಂತರ ಸರಣಿ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಮುಂದುವರಿಯುವುದು",
+        "B": "ಕೇವಲ ಒಂದು ಪೀಳಿಗೆಯಲ್ಲಿ ಮುಂದುವರಿಯುವುದು",
+        "C": "ಕೇವಲ ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಮುಂದುವರಿಯುವುದು",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ರೂಪದಲ್ಲಿ ಮುಂದುವರಿಯುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಪರಂಪರೆಯಲ್ಲಿ ನಿರಂತರ ಸರಣಿ ಎಂದರೆ ಆಚರಣೆಗಳು, ಕಲೆಗಳು, ಕಥೆಗಳು, ಹಾಡುಗಳು, ಜ್ಞಾನ ಮತ್ತು ಕೌಶಲ್ಯಗಳು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಮುಂದುವರಿಯುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q61"
+    },
+    {
+      "id": "JS189",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ 'ಪ್ರದರ್ಶನ ಕಲೆಗಳು' ಯಾವುವು?",
+      "options": {
+        "A": "ನೃತ್ಯ, ಸಂಗೀತ, ನಾಟಕ, ಗೊಂಬೆಯಾಟ, ಯಕ್ಷಗಾನ ಮುಂತಾದ ಕಲೆಗಳು",
+        "B": "ಕೇವಲ ಕಟ್ಟಡಗಳು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "D": "ಕೇವಲ ಚಿತ್ರಕಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರದರ್ಶನ ಕಲೆಗಳು ನೃತ್ಯ, ಸಂಗೀತ, ನಾಟಕ, ಗೊಂಬೆಯಾಟ, ಯಕ್ಷಗಾನ ಮುಂತಾದ ಕಲೆಗಳನ್ನು ಒಳಗೊಂಡಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS190",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ 'ಮೌಖಿಕ ಪರಂಪರೆಗಳು' ಯಾವುವು?",
+      "options": {
+        "A": "ಕಥೆಗಳು, ಹಾಡುಗಳು, ಗಾದೆಗಳು, ಒಗಟುಗಳು ಮುಂತಾದ ಮೌಖಿಕ ರೂಪಗಳು",
+        "B": "ಕೇವಲ ಕಟ್ಟಡಗಳು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕಗಳು",
+        "D": "ಕೇವಲ ಚಿತ್ರಕಲೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಮೌಖಿಕ ಪರಂಪರೆಗಳು ಕಥೆಗಳು, ಹಾಡುಗಳು, ಗಾದೆಗಳು, ಒಗಟುಗಳು ಮುಂತಾದ ಮೌಖಿಕ ರೂಪಗಳನ್ನು ಒಳಗೊಂಡಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS191",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ 'ಆಚರಣೆಗಳು' ಮತ್ತು 'ಹಬ್ಬಗಳು' ಯಾವುವು?",
+      "options": {
+        "A": "ಸಮುದಾಯದ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯ ಭಾಗವಾಗಿರುವ ಆಚರಣೆಗಳು ಮತ್ತು ಹಬ್ಬಗಳು",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳು",
+        "C": "ಕೇವಲ ಲೌಕಿಕ ಆಚರಣೆಗಳು",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಹಬ್ಬಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಆಚರಣೆಗಳು ಮತ್ತು ಹಬ್ಬಗಳು ಸಮುದಾಯದ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯ ಭಾಗವಾಗಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS192",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ 'ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ' ಯಾವುದು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಜನರ ಪ್ರಕೃತಿ, ಸಸ್ಯ, ಪ್ರಾಣಿ ಮತ್ತು ಪರಿಸರದ ಬಗ್ಗೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ಜ್ಞಾನ",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ವಿಜ್ಞಾನ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಜ್ಞಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರಕೃತಿ-ವಿಶ್ವದ ಜ್ಞಾನ ಎಂದರೆ ಸ್ಥಳೀಯ ಜನರ ಪ್ರಕೃತಿ, ಸಸ್ಯ, ಪ್ರಾಣಿ ಮತ್ತು ಪರಿಸರದ ಬಗ್ಗೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ಜ್ಞಾನ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS193",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ 'ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು' ಯಾವುವು?",
+      "options": {
+        "A": "ಕರಕುಶಲ ಕಲೆ, ನೇಯ್ಗೆ, ಮಡಕೆ ತಯಾರಿಕೆ ಮುಂತಾದ ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕೌಶಲ್ಯಗಳು",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಕೌಶಲ್ಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಮೂರ್ತ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಕೌಶಲ್ಯಗಳು ಕರಕುಶಲ ಕಲೆ, ನೇಯ್ಗೆ, ಮಡಕೆ ತಯಾರಿಕೆ ಮುಂತಾದ ಕೌಶಲ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q62"
+    },
+    {
+      "id": "JS194",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಜಾನಪದ ಅಕಾಡೆಮಿಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಪರಂಪರೆಯ ಸಂರಕ್ಷಣೆ",
+        "B": "ಕೇವಲ ಆರ್ಥಿಕ ನೆರವು ನೀಡುವುದು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ನೀತಿ ರೂಪಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ಅಕಾಡೆಮಿಯು ಜನಪದ ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಪರಂಪರೆಯ ಸಂರಕ್ಷಣೆಗೆ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q63"
+    },
+    {
+      "id": "JS195",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಜಾನಪದ ಪರಿಷತ್ತಿನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಪರಂಪರೆಯ ಸಂರಕ್ಷಣೆ",
+        "B": "ಕೇವಲ ಆರ್ಥಿಕ ನೆರವು ನೀಡುವುದು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ನೀತಿ ರೂಪಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಜಾನಪದ ಪರಿಷತ್ತು ಜನಪದ ಅಧ್ಯಯನ, ದಾಖಲೀಕರಣ, ತರಬೇತಿ ಮತ್ತು ಪ್ರದರ್ಶನಗಳ ಮೂಲಕ ಜನಪದ ಪರಂಪರೆಯ ಸಂರಕ್ಷಣೆಗೆ ಕೊಡುಗೆ ನೀಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q63"
+    },
+    {
+      "id": "JS196",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜಾನಪದ ಲೋಕದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕದ ಜನಪದ ಕಲೆ ಮತ್ತು ವಸ್ತುಸಂಸ್ಕೃತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವ ಕೇಂದ್ರ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸರ್ಕಾರಿ ನೀತಿ ರೂಪಿಸುವುದು",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ನೆರವು ನೀಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾನಪದ ಲೋಕವು ಕರ್ನಾಟಕದ ಜನಪದ ಕಲೆ ಮತ್ತು ವಸ್ತುಸಂಸ್ಕೃತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುವ ಕೇಂದ್ರವಾಗಿದೆ; ಇದು ರಾಮನಗರದ ಸಮೀಪ, ಬೆಂಗಳೂರು-ಮೈಸೂರು ಹೆದ್ದಾರಿಯಲ್ಲಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q65"
+    },
+    {
+      "id": "JS197",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ಕ್ಷೇತ್ರಕಾರ್ಯ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಸಂದರ್ಭದಲ್ಲಿ ನೇರವಾಗಿ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುವುದು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳಿಂದ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುವುದು",
+        "C": "ಕೇವಲ ಆನ್‌ಲೈನ್ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುವುದು",
+        "D": "ಕೇವಲ ಸರ್ಕಾರಿ ದಾಖಲೆಗಳಿಂದ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷೇತ್ರಕಾರ್ಯವು ಸ್ಥಳೀಯ ಸಂದರ್ಭದಲ್ಲಿ ನೇರವಾಗಿ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS198",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕಲೆಗಳನ್ನು ಧ್ವನಿ ಮತ್ತು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುವುದು",
+        "B": "ಕೇವಲ ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುವುದು",
+        "C": "ಕೇವಲ ಛಾಯಾಚಿತ್ರದಲ್ಲಿ ಸಂರಕ್ಷಿಸುವುದು",
+        "D": "ಕೇವಲ ವೀಡಿಯೊದಲ್ಲಿ ಸಂರಕ್ಷಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧ್ವನಿ-ದೃಶ್ಯ ದಾಖಲೀಕರಣವು ಕಲೆಗಳನ್ನು ಧ್ವನಿ ಮತ್ತು ದೃಶ್ಯ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುತ್ತದೆ; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS199",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ಸಂಗ್ರಹಾಲಯ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಕಲೆ, ವಸ್ತು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಅಂಶಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಪ್ರದರ್ಶಿಸುವುದು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+        "C": "ಕೇವಲ ಚಿತ್ರಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು",
+        "D": "ಕೇವಲ ವೀಡಿಯೊಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಗ್ರಹಾಲಯವು ಜನಪದ ಕಲೆ, ವಸ್ತು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಅಂಶಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಪ್ರದರ್ಶಿಸುತ್ತದೆ; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS200",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್'ನ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಕಲೆ ಮತ್ತು ಸಾಹಿತ್ಯವನ್ನು ಡಿಜಿಟಲ್ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುವುದು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳನ್ನು ಸಂರಕ್ಷಿಸುವುದು",
+        "C": "ಕೇವಲ ಚಿತ್ರಗಳನ್ನು ಸಂರಕ್ಷಿಸುವುದು",
+        "D": "ಕೇವಲ ವೀಡಿಯೊಗಳನ್ನು ಸಂರಕ್ಷಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡಿಜಿಟಲ್ ಆರ್ಕೈವ್ ಜನಪದ ಕಲೆ ಮತ್ತು ಸಾಹಿತ್ಯವನ್ನು ಡಿಜಿಟಲ್ ರೂಪದಲ್ಲಿ ಸಂರಕ್ಷಿಸುತ್ತದೆ; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS201",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ತರಬೇತಿ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಕಲಾವಿದರಿಗೆ ಮತ್ತು ಆಸಕ್ತರಿಗೆ ಜನಪದ ಕಲೆಗಳ ತರಬೇತಿ ನೀಡುವುದು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕಗಳನ್ನು ಓದುವುದು",
+        "C": "ಕೇವಲ ಚಿತ್ರಗಳನ್ನು ನೋಡುವುದು",
+        "D": "ಕೇವಲ ವೀಡಿಯೊಗಳನ್ನು ನೋಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತರಬೇತಿಯು ಕಲಾವಿದರಿಗೆ ಮತ್ತು ಆಸಕ್ತರಿಗೆ ಜನಪದ ಕಲೆಗಳ ತರಬೇತಿ ನೀಡುತ್ತದೆ; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS202",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿ 'ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯವು ತಮ್ಮ ಕಲೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಸಂರಕ್ಷಿಸಲು ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸುವುದು",
+        "B": "ಕೇವಲ ಸರ್ಕಾರದ ಜವಾಬ್ದಾರಿ",
+        "C": "ಕೇವಲ ಸಂಸ್ಥೆಗಳ ಜವಾಬ್ದಾರಿ",
+        "D": "ಕೇವಲ ಕಲಾವಿದರ ಜವಾಬ್ದಾರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮುದಾಯದ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆಯು ತಮ್ಮ ಕಲೆ ಮತ್ತು ಸಂಸ್ಕೃತಿಯನ್ನು ಸಂರಕ್ಷಿಸಲು ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸುವುದು; ಇದು ಜನಪದ ಸಂಸ್ಕೃತಿಯ ಸಂರಕ್ಷಣೆಯ ಪ್ರಮುಖ ಕ್ರಮ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q66"
+    },
+    {
+      "id": "JS203",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯವು ಇತಿಹಾಸ ಅಧ್ಯಯನಕ್ಕೆ ಒದಗಿಸುವ 'ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ರಾಜರ ಇತಿಹಾಸ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಇತಿಹಾಸ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಇತಿಹಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯವು ಜನರ ಜೀವನ, ವೃತ್ತಿ, ಸಾಮಾಜಿಕ ಸಂಬಂಧ, ಸ್ಥಳೀಯ ಘಟನೆ, ಪರಿಸರ, ನಂಬಿಕೆ ಮತ್ತು ಸಮುದಾಯದ ಸ್ಮೃತಿಗಳ ಬಗ್ಗೆ ಪರ್ಯಾಯ ಸಾಕ್ಷ್ಯ ಒದಗಿಸುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q67"
+    },
+    {
+      "id": "JS204",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದ ಮೌಖಿಕ ಕಥನಗಳನ್ನು ಇತಿಹಾಸ ಅಧ್ಯಯನದಲ್ಲಿ ಹೇಗೆ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಇತರ ಐತಿಹಾಸಿಕ ಆಧಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕು",
+        "B": "ಕೇವಲ ಮೌಖಿಕ ಕಥನಗಳನ್ನು ನಂಬಬೇಕು",
+        "C": "ಕೇವಲ ಲಿಖಿತ ದಾಖಲೆಗಳನ್ನು ನಂಬಬೇಕು",
+        "D": "ಯಾವುದೇ ಪರಿಶೀಲನೆ ಅಗತ್ಯವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೌಖಿಕ ಕಥನಗಳನ್ನು ಇತರ ಐತಿಹಾಸಿಕ ಆಧಾರಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಇತಿಹಾಸ ಅಧ್ಯಯನದ ಪ್ರಮುಖ ಅಂಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q67"
+    },
+    {
+      "id": "JS205",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವದಲ್ಲಿ 'ಸ್ಥಳೀಯ ಗುರುತು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಸಮುದಾಯದ ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಉಳಿಸುವುದು",
+        "B": "ಕೇವಲ ರಾಷ್ಟ್ರೀಯ ಗುರುತು",
+        "C": "ಕೇವಲ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಗುರುತು",
+        "D": "ಕೇವಲ ವೈಯಕ್ತಿಕ ಗುರುತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಗುರುತು ಎಂದರೆ ಸ್ಥಳೀಯ ಸಮುದಾಯದ ಸಾಂಸ್ಕೃತಿಕ ಗುರುತನ್ನು ಉಳಿಸುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS206",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವದಲ್ಲಿ 'ಭಾಷಾ ವೈವಿಧ್ಯ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ವಿವಿಧ ಉಪಭಾಷೆಗಳು ಮತ್ತು ಭಾಷಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಉಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಒಂದು ಭಾಷೆಯನ್ನು ಬಳಸುವುದು",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಭಾಷೆಯನ್ನು ಬಳಸುವುದು",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯನ್ನು ಬಳಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಷಾ ವೈವಿಧ್ಯ ಎಂದರೆ ವಿವಿಧ ಉಪಭಾಷೆಗಳು ಮತ್ತು ಭಾಷಾ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಉಳಿಸುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS207",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವದಲ್ಲಿ 'ಸಮುದಾಯದ ಸ್ಮೃತಿ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯದ ಐತಿಹಾಸಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನೆನಪುಗಳನ್ನು ಉಳಿಸುವುದು",
+        "B": "ಕೇವಲ ವೈಯಕ್ತಿಕ ನೆನಪುಗಳು",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ನೆನಪುಗಳು",
+        "D": "ಕೇವಲ ಭವಿಷ್ಯದ ಯೋಜನೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮುದಾಯದ ಸ್ಮೃತಿ ಎಂದರೆ ಸಮುದಾಯದ ಐತಿಹಾಸಿಕ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ನೆನಪುಗಳನ್ನು ಉಳಿಸುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS208",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವದಲ್ಲಿ 'ಸೃಜನಶೀಲತೆ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹೊಸ ಕಲ್ಪನೆಗಳು ಮತ್ತು ಸೃಜನಶೀಲ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಉತ್ತೇಜಿಸುವುದು",
+        "B": "ಕೇವಲ ಅನುಕರಣೆ",
+        "C": "ಕೇವಲ ಸಂಪ್ರದಾಯ",
+        "D": "ಕೇವಲ ಆಧುನಿಕತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೃಜನಶೀಲತೆ ಎಂದರೆ ಹೊಸ ಕಲ್ಪನೆಗಳು ಮತ್ತು ಸೃಜನಶೀಲ ಅಭಿವ್ಯಕ್ತಿಯನ್ನು ಉತ್ತೇಜಿಸುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS209",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳ ಮಹತ್ವದಲ್ಲಿ 'ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯನ್ನು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಮುಂದುವರಿಸುವುದು",
+        "B": "ಕೇವಲ ಒಂದು ಪೀಳಿಗೆಯಲ್ಲಿ ಮುಂದುವರಿಸುವುದು",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ಸಂಸ್ಕೃತಿಯನ್ನು ಮುಂದುವರಿಸುವುದು",
+        "D": "ಕೇವಲ ವಿದೇಶಿ ಸಂಸ್ಕೃತಿಯನ್ನು ಮುಂದುವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಸ್ಕೃತಿಕ ನಿರಂತರತೆ ಎಂದರೆ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆಯನ್ನು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಮುಂದುವರಿಸುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+        {
+      "id": "JS210",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳು 'ಶಿಕ್ಷಣ'ಕ್ಕೆ ಹೇಗೆ ನೆರವಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಾಷೆ, ಸಂಸ್ಕೃತಿ, ನೀತಿ ಮತ್ತು ಸೃಜನಶೀಲತೆಯನ್ನು ಕಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ",
+        "B": "ಕೇವಲ ಗಣಿತ ಮತ್ತು ವಿಜ್ಞಾನವನ್ನು ಕಲಿಸುತ್ತವೆ",
+        "C": "ಕೇವಲ ಆಂಗ್ಲ ಭಾಷೆಯನ್ನು ಕಲಿಸುತ್ತವೆ",
+        "D": "ಕೇವಲ ಕಂಪ್ಯೂಟರ್ ಜ್ಞಾನವನ್ನು ಕಲಿಸುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳು ಭಾಷೆ, ಸಂಸ್ಕೃತಿ, ನೀತಿ ಮತ್ತು ಸೃಜನಶೀಲತೆಯನ್ನು ಕಲಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ; ಇದು ಅವುಗಳ ಮಹತ್ವದ ಭಾಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS211",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಜನಪದ ಕಲೆಗಳು 'ಸಾಮಾಜಿಕ ಒಗ್ಗಟ್ಟಿ'ಗೆ ಹೇಗೆ ನೆರವಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಹಂಚಿಕೆಯ ಮೂಲಕ ಸಮುದಾಯದ ಒಗ್ಗಟ್ಟನ್ನು ಬಲಪಡಿಸುತ್ತವೆ",
+        "B": "ಕೇವಲ ವೈಯಕ್ತಿಕ ಪ್ರದರ್ಶನಕ್ಕೆ ಅವಕಾಶ ನೀಡುತ್ತವೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭಕ್ಕೆ ಸಹಕಾರಿ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ಲಾಭಕ್ಕೆ ಸಹಕಾರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮೂಹಿಕ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಹಂಚಿಕೆಯ ಮೂಲಕ ಜನಪದ ಸಾಹಿತ್ಯ ಮತ್ತು ಕಲೆಗಳು ಸಮುದಾಯದ ಒಗ್ಗಟ್ಟನ್ನು ಬಲಪಡಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 6, Q68"
+    },
+    {
+      "id": "JS212",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಮೌಖಿಕ ಪ್ರಸಾರ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಬಾಯಿಂದ ಬಾಯಿಗೆ ಹರಡುವುದು",
+        "B": "ಪುಸ್ತಕಗಳ ಮೂಲಕ ಹರಡುವುದು",
+        "C": "ಆನ್‌ಲೈನ್ ಮೂಲಕ ಹರಡುವುದು",
+        "D": "ಪತ್ರಿಕೆಗಳ ಮೂಲಕ ಹರಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೌಖಿಕ ಪ್ರಸಾರ ಎಂದರೆ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಹರಡುವುದು; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q3"
+    },
+    {
+      "id": "JS213",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಸಾಮೂಹಿಕ ಸೃಷ್ಟಿ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ",
+        "B": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ",
+        "C": "ರಾಜನ ಆಸ್ಥಾನದಲ್ಲಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ",
+        "D": "ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮೂಹಿಕ ಸೃಷ್ಟಿ ಎಂದರೆ ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿದ ಸಾಹಿತ್ಯ; ಇದು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q4"
+    },
+    {
+      "id": "JS214",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಪ್ರಾದೇಶಿಕ ಭಾಷೆ' ಮತ್ತು 'ಸ್ಥಳೀಯ ಉಪಭಾಷೆ'ಯ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಸ್ಥಳೀಯ ಭಾಷಾ ವೈವಿಧ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ಅಲ್ಲ",
+        "C": "ಪ್ರಾದೇಶಿಕ ಭಾಷೆ ಪ್ರಮಾಣಿತ, ಉಪಭಾಷೆ ಸ್ಥಳೀಯ",
+        "D": "ಪ್ರಾದೇಶಿಕ ಭಾಷೆ ಸಂಸ್ಕೃತ, ಉಪಭಾಷೆ ಇಂಗ್ಲಿಷ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾದೇಶಿಕ ಭಾಷೆ ಮತ್ತು ಸ್ಥಳೀಯ ಉಪಭಾಷೆ ಎರಡೂ ಸ್ಥಳೀಯ ಭಾಷಾ ವೈವಿಧ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ; ಇವು ಜನಪದ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5, Page 2, Q12"
+    },
+    {
+      "id": "JS215",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಸರಳತೆ' ಮತ್ತು 'ಸ್ಥಳೀಯ ಜೀವನದ ಪ್ರತಿಬಿಂಬ'ದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಸರಳ ಭಾಷೆಯಲ್ಲಿ ಸ್ಥಳೀಯ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "B": "ಸಂಕೀರ್ಣ ಭಾಷೆಯಲ್ಲಿ ಸ್ಥಳೀಯ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "C": "ಸರಳ ಭಾಷೆಯಲ್ಲಿ ನಗರ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು",
+        "D": "ಸಂಕೀರ್ಣ ಭಾಷೆಯಲ್ಲಿ ನಗರ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯವು ಸರಳ ಭಾಷೆಯಲ್ಲಿ ಸ್ಥಳೀಯ ಜೀವನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ; ಇದು ಅದರ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "JS216",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ರೂಪಾಂತರಶೀಲತೆ' ಮತ್ತು 'ಪರಂಪರಾನುಗತತೆ'ಯ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತಲೇ ರೂಪಾಂತರಗೊಳ್ಳುವುದು",
+        "B": "ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸದೆ ರೂಪಾಂತರಗೊಳ್ಳುವುದು",
+        "C": "ರೂಪಾಂತರಗೊಳ್ಳದೆ ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುವುದು",
+        "D": "ಎರಡೂ ಸಂಬಂಧವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯವು ಪರಂಪರೆಯನ್ನು ಮುಂದುವರಿಸುತ್ತಲೇ ರೂಪಾಂತರಗೊಳ್ಳುತ್ತದೆ; ಇದು ಅದರ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q5, Q6"
+    },
+    {
+      "id": "JS217",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಮೌಖಿಕ ಪ್ರಸಾರ' ಮತ್ತು 'ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ'ದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಮೌಖಿಕ ಪ್ರಸಾರದಲ್ಲಿ ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿ ಹರಡುತ್ತದೆ",
+        "B": "ಮೌಖಿಕ ಪ್ರಸಾರದಲ್ಲಿ ಒಬ್ಬ ವ್ಯಕ್ತಿ ರಚಿಸುತ್ತಾನೆ",
+        "C": "ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವವು ಲಿಖಿತ ರೂಪದಲ್ಲಿ ಮಾತ್ರ",
+        "D": "ಎರಡೂ ಸಂಬಂಧವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮೌಖಿಕ ಪ್ರಸಾರ ಮತ್ತು ಸಾಮೂಹಿಕ ಕರ್ತೃತ್ವ ಹೆಣೆದುಕೊಂಡಿವೆ; ಸಮುದಾಯವು ಸೇರಿ ರಚಿಸಿ ಮೌಖಿಕವಾಗಿ ಹರಡುತ್ತದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 1, Q3, Q4"
+    },
+    {
+      "id": "JS218",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸರಳ ಪದಪ್ರಯೋಗ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಅರ್ಥವಾಗುವ ಸರಳ ಪದಗಳ ಬಳಕೆ",
+        "B": "ಸಂಕೀರ್ಣ ಪದಗಳ ಬಳಕೆ",
+        "C": "ಅರ್ಥವಾಗದ ಪದಗಳ ಬಳಕೆ",
+        "D": "ಶಾಸ್ತ್ರೀಯ ಪದಗಳ ಬಳಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಳ ಪದಪ್ರಯೋಗ ಎಂದರೆ ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಅರ್ಥವಾಗುವ ಸರಳ ಪದಗಳ ಬಳಕೆ; ಇದು ಜನಪದ ಗೀತೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS219",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸ್ಥಳೀಯ ಉಪಭಾಷೆ'ಯ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸ್ಥಳೀಯ ಭಾಷಾ ವೈವಿಧ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ",
+        "B": "ಪ್ರಮಾಣಿತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ",
+        "C": "ಸಂಸ್ಕೃತ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಭಾಷೆಯನ್ನು ಬಳಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಥಳೀಯ ಉಪಭಾಷೆಯು ಸ್ಥಳೀಯ ಭಾಷಾ ವೈವಿಧ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ; ಇದು ಜನಪದ ಗೀತೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS220",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಲಯ ಮತ್ತು ಧಾಟಿ' ಮತ್ತು 'ಪುನರಾವರ್ತನೆ'ಯ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಲಯ ಮತ್ತು ಧಾಟಿಯೊಂದಿಗೆ ಪುನರಾವರ್ತನೆ ಹಾಡಿಗೆ ಸಂಗೀತಮಯತೆ ನೀಡುತ್ತದೆ",
+        "B": "ಲಯ ಮತ್ತು ಧಾಟಿ ಇಲ್ಲದೆ ಪುನರಾವರ್ತನೆ",
+        "C": "ಪುನರಾವರ್ತನೆ ಇಲ್ಲದೆ ಲಯ ಮತ್ತು ಧಾಟಿ",
+        "D": "ಎರಡೂ ಸಂಬಂಧವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ ಲಯ ಮತ್ತು ಧಾಟಿಯೊಂದಿಗೆ ಪುನರಾವರ್ತನೆ ಹಾಡಿಗೆ ಸಂಗೀತಮಯತೆ ನೀಡುತ್ತದೆ; ಇವು ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS221",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ 'ಸಾಮೂಹಿಕ ಗಾಯನ' ಮತ್ತು 'ಸಂದರ್ಭದಾರಿತ ವಿಷಯ'ದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಸಾಮೂಹಿಕ ಗಾಯನವು ಸಂದರ್ಭಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯಗಳನ್ನು ಹಾಡುತ್ತದೆ",
+        "B": "ಸಾಮೂಹಿಕ ಗಾಯನವು ಸಂದರ್ಭಕ್ಕೆ ಸಂಬಂಧಿಸದ ವಿಷಯಗಳನ್ನು ಹಾಡುತ್ತದೆ",
+        "C": "ಸಾಮೂಹಿಕ ಗಾಯನವು ಕೇವಲ ಧಾರ್ಮಿಕ ವಿಷಯಗಳನ್ನು ಹಾಡುತ್ತದೆ",
+        "D": "ಸಾಮೂಹಿಕ ಗಾಯನವು ಕೇವಲ ರಾಜಕೀಯ ವಿಷಯಗಳನ್ನು ಹಾಡುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಗೀತೆಗಳಲ್ಲಿ ಸಾಮೂಹಿಕ ಗಾಯನವು ಸಂದರ್ಭಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಷಯಗಳನ್ನು ಹಾಡುತ್ತದೆ; ಇದು ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "JS222",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಮೌಖಿಕವಾಗಿ ಸಾರುವ ಪರಂಪರೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಹರಡುವುದು",
+        "B": "ಪುಸ್ತಕಗಳ ಮೂಲಕ ಹರಡುವುದು",
+        "C": "ಆನ್‌ಲೈನ್ ಮೂಲಕ ಹರಡುವುದು",
+        "D": "ಪತ್ರಿಕೆಗಳ ಮೂಲಕ ಹರಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಥೆಗಳು ತಲೆಮಾರಿನಿಂದ ತಲೆಮಾರಿಗೆ ಬಾಯಿಂದ ಬಾಯಿಗೆ ಹರಡುವ ಪರಂಪರೆಯ ಕಥೆಗಳು; ಇದು ಜನಪದ ಕಥೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS223",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ನೀತಿ' ಮತ್ತು 'ಸಾಮಾಜಿಕ ಮೌಲ್ಯ'ಗಳ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಥನ ರೂಪದಲ್ಲಿ ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಐತಿಹಾಸಿಕ ದಾಖಲೆ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಥೆಗಳು ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಕಥನ ರೂಪದಲ್ಲಿ ತಿಳಿಸುತ್ತವೆ; ಇದು ಅವುಗಳ ಪ್ರಮುಖ ಉದ್ದೇಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS224",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ಕಲ್ಪನೆ' ಮತ್ತು 'ಅನುಭವ'ದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಕಲ್ಪನೆ ಮತ್ತು ಅನುಭವ ಎರಡೂ ಜನಪದ ಕಥೆಗಳಲ್ಲಿ ಹೆಣೆದುಕೊಂಡಿವೆ",
+        "B": "ಕಲ್ಪನೆ ಮಾತ್ರ",
+        "C": "ಅನುಭವ ಮಾತ್ರ",
+        "D": "ಎರಡೂ ಸಂಬಂಧವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ ಕಲ್ಪನೆ ಮತ್ತು ಅನುಭವ ಎರಡೂ ಹೆಣೆದುಕೊಂಡಿವೆ; ಕಥೆಗಳು ಜನರ ಕಲ್ಪನೆ ಮತ್ತು ಅನುಭವವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS225",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ 'ನಂಬಿಕೆ' ಮತ್ತು 'ಸಾಮಾಜಿಕ ಮೌಲ್ಯ'ಗಳ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ನಂಬಿಕೆಗಳು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ",
+        "B": "ನಂಬಿಕೆಗಳು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧವಿಲ್ಲ",
+        "C": "ನಂಬಿಕೆಗಳು ಕೇವಲ ಧಾರ್ಮಿಕ",
+        "D": "ನಂಬಿಕೆಗಳು ಕೇವಲ ವೈಯಕ್ತಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಥೆಗಳಲ್ಲಿ ನಂಬಿಕೆಗಳು ಸಾಮಾಜಿಕ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ; ಇದು ಅವುಗಳ ಪ್ರಮುಖ ಅಂಶ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "JS226",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ಕಾವ್ಯದಲ್ಲಿ 'ಹಾಡು' ಮತ್ತು 'ಕಥನಾತ್ಮಕ ಪದ್ಯ'ದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಜನಪದ ಕಾವ್ಯವು ಹಾಡು ಅಥವಾ ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ",
+        "B": "ಜನಪದ ಕಾವ್ಯ ಕೇವಲ ಗದ್ಯ ರೂಪ",
+        "C": "ಜನಪದ ಕಾವ್ಯ ಕೇವಲ ಲಿಖಿತ ರೂಪ",
+        "D": "ಜನಪದ ಕಾವ್ಯ ಕೇವಲ ಚಿತ್ರ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಕಾವ್ಯವು ಹಾಡು ಅಥವಾ ಕಥನಾತ್ಮಕ ಪದ್ಯ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ; ಇದು ಅದರ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "JS227",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಾವಣಿಯಲ್ಲಿ 'ಪ್ರಾದೇಶಿಕ ರೂಪಾಂತರ'ಗಳ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ವಿವಿಧ ಪ್ರದೇಶಗಳಲ್ಲಿ ಲಾವಣಿಯ ರೂಪದಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು",
+        "B": "ಎಲ್ಲಾ ಪ್ರದೇಶಗಳಲ್ಲಿ ಒಂದೇ ರೂಪ",
+        "C": "ಕೇವಲ ಒಂದು ಪ್ರದೇಶದಲ್ಲಿ ಲಾವಣಿ",
+        "D": "ಲಾವಣಿ ಕೇವಲ ಲಿಖಿತ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕದಲ್ಲಿ ಲಾವಣಿಯ ಪ್ರಾದೇಶಿಕ ರೂಪಾಂತರಗಳಿವೆ; ವಿವಿಧ ಪ್ರದೇಶಗಳಲ್ಲಿ ಲಾವಣಿಯ ರೂಪದಲ್ಲಿ ವ್ಯತ್ಯಾಸಗಳು ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q21"
+    },
+    {
+      "id": "JS228",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸೋಬಾನೆ ಪದಗಳಲ್ಲಿ 'ಮಂಗಳಕರ ಹಾಡು'ಗಳ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಶುಭ ಮತ್ತು ಮಂಗಳವನ್ನು ಬಯಸುವ ಹಾಡುಗಳು",
+        "B": "ದುಃಖದ ಹಾಡುಗಳು",
+        "C": "ಕೇವಲ ವೀರಗಾಥೆಗಳು",
+        "D": "ಕೇವಲ ಹಾಸ್ಯ ಹಾಡುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೋಬಾನೆ ಪದಗಳು ಶುಭ ಮತ್ತು ಮಂಗಳವನ್ನು ಬಯಸುವ ಮಂಗಳಕರ ಹಾಡುಗಳು; ಇವು ಮದುವೆ ಮತ್ತು ಶುಭಸಂಸ್ಕಾರಗಳಲ್ಲಿ ಹಾಡಲ್ಪಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 2, Q22"
+    },
+    {
+      "id": "JS229",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳಲ್ಲಿ 'ಶ್ರಮಗೀತೆ'ಗಳ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಕೆಲಸದ ಲಯಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಹಾಡುವ ಹಾಡುಗಳು",
+        "B": "ಮದುವೆಯಲ್ಲಿ ಹಾಡುವ ಹಾಡುಗಳು",
+        "C": "ದೇವಸ್ಥಾನದಲ್ಲಿ ಹಾಡುವ ಭಜನೆಗಳು",
+        "D": "ಯುದ್ಧದಲ್ಲಿ ಹಾಡುವ ವೀರಗೀತೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬೀಸುವ ಕಲ್ಲಿನ ಪದಗಳು ಕೆಲಸದ ಲಯಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ಹಾಡುವ ಶ್ರಮಗೀತೆಗಳು; ಇವು ಧಾನ್ಯ ಬೀಸುವ ಸಂದರ್ಭದಲ್ಲಿ ಹಾಡಲ್ಪಡುತ್ತವೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q24"
+    },
+    {
+      "id": "JS230",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೀಗೀ ಪದಗಳಲ್ಲಿ 'ಸಂವಾದಾತ್ಮಕ ಶೈಲಿ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಗಾಯಕರ ನಡುವೆ ಪ್ರಶ್ನೋತ್ತರ ಅಥವಾ ಸಂವಾದದ ರೂಪದಲ್ಲಿ ಹಾಡುವುದು",
+        "B": "ಏಕವ್ಯಕ್ತಿ ಗಾಯನ",
+        "C": "ಕೇವಲ ನೃತ್ಯ",
+        "D": "ಕೇವಲ ವಾದ್ಯ ಸಂಗೀತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೀಗೀ ಪದಗಳಲ್ಲಿ ಸಂವಾದಾತ್ಮಕ ಶೈಲಿ ಎಂದರೆ ಗಾಯಕರ ನಡುವೆ ಪ್ರಶ್ನೋತ್ತರ ಅಥವಾ ಸಂವಾದದ ರೂಪದಲ್ಲಿ ಹಾಡುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q27"
+    },
+    {
+      "id": "JS231",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಜನೆಯಲ್ಲಿ 'ಸಮೂಹಗಾಯನ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸಮೂಹದ ಭಾಗವಹಿಸುವಿಕೆಯ ಮೂಲಕ ಭಕ್ತಿಭಾವವನ್ನು ಹೆಚ್ಚಿಸುವುದು",
+        "B": "ಕೇವಲ ಏಕವ್ಯಕ್ತಿ ಗಾಯನ",
+        "C": "ಕೇವಲ ವಾದ್ಯ ಸಂಗೀತ",
+        "D": "ಕೇವಲ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಜನೆಯಲ್ಲಿ ಸಮೂಹಗಾಯನವು ಸಮೂಹದ ಭಾಗವಹಿಸುವಿಕೆಯ ಮೂಲಕ ಭಕ್ತಿಭಾವವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ; ಇದು ಭಜನೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q28"
+    },
+    {
+      "id": "JS232",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳಲ್ಲಿ 'ಸಂಕ್ಷಿಪ್ತತೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಕಡಿಮೆ ಪದಗಳಲ್ಲಿ ಹೆಚ್ಚು ಅರ್ಥವನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ದೀರ್ಘ ವಿವರಣೆ",
+        "C": "ಅಸ್ಪಷ್ಟ ವಿವರಣೆ",
+        "D": "ಲಯರಹಿತ ವಿವರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳಲ್ಲಿ ಸಂಕ್ಷಿಪ್ತತೆ ಎಂದರೆ ಕಡಿಮೆ ಪದಗಳಲ್ಲಿ ಹೆಚ್ಚು ಅರ್ಥವನ್ನು ತಿಳಿಸುವುದು; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS233",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳಲ್ಲಿ 'ಅರ್ಥಗರ್ಭಿತತೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಅರ್ಥವು ಆಳವಾಗಿ ಮತ್ತು ವಿಸ್ತಾರವಾಗಿರುವುದು",
+        "B": "ಅರ್ಥವು ನೇರವಾಗಿರುವುದು",
+        "C": "ಅರ್ಥವು ಅಸ್ಪಷ್ಟವಾಗಿರುವುದು",
+        "D": "ಅರ್ಥವು ಲಯರಹಿತವಾಗಿರುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳಲ್ಲಿ ಅರ್ಥಗರ್ಭಿತತೆ ಎಂದರೆ ಅರ್ಥವು ಆಳವಾಗಿ ಮತ್ತು ವಿಸ್ತಾರವಾಗಿರುವುದು; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+        {
+      "id": "JS234",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳಲ್ಲಿ 'ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ದೀರ್ಘಕಾಲದ ಜನಾನುಭವದಿಂದ ಪಡೆದ ಜ್ಞಾನ",
+        "B": "ಪುಸ್ತಕಗಳಿಂದ ಪಡೆದ ಜ್ಞಾನ",
+        "C": "ಆನ್‌ಲೈನ್‌ನಿಂದ ಪಡೆದ ಜ್ಞಾನ",
+        "D": "ಪತ್ರಿಕೆಗಳಿಂದ ಪಡೆದ ಜ್ಞಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳಲ್ಲಿ ಅನುಭವಾಧಾರಿತ ಜ್ಞಾನ ಎಂದರೆ ದೀರ್ಘಕಾಲದ ಜನಾನುಭವದಿಂದ ಪಡೆದ ಜ್ಞಾನ; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS235",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳಲ್ಲಿ 'ಲಯ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಸ್ವರಗಳ ಹೆಚ್ಚಳ",
+        "B": "ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಸ್ವರಗಳ ಕೊರತೆ",
+        "C": "ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಏಕರೂಪತೆ",
+        "D": "ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಅಸ್ಪಷ್ಟತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳಲ್ಲಿ ಲಯ ಎಂದರೆ ಪದಗಳ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಸ್ವರಗಳ ಹೆಚ್ಚಳ ಮತ್ತು ಸುಲಭವಾಗಿ ನೆನಪಿಡಬಹುದಾದ ಶೈಲಿ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS236",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳಲ್ಲಿ 'ಸುಲಭವಾಗಿ ನೆನಪಿಡಬಹುದಾದ ಭಾಷೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸರಳ ಮತ್ತು ನೆನಪಿಡಲು ಸುಲಭವಾದ ಭಾಷೆ",
+        "B": "ಸಂಕೀರ್ಣ ಭಾಷೆ",
+        "C": "ಅರ್ಥವಾಗದ ಭಾಷೆ",
+        "D": "ಶಾಸ್ತ್ರೀಯ ಭಾಷೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳಲ್ಲಿ ಸುಲಭವಾಗಿ ನೆನಪಿಡಬಹುದಾದ ಭಾಷೆ ಎಂದರೆ ಸರಳ ಮತ್ತು ನೆನಪಿಡಲು ಸುಲಭವಾದ ಭಾಷೆ; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "JS237",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ 'ನೀತಿ ಬೋಧನೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ನೈತಿಕ ಪಾಠವನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ ನೀತಿ ಬೋಧನೆ ಎಂದರೆ ನೈತಿಕ ಪಾಠವನ್ನು ತಿಳಿಸುವುದು; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಉಪಯೋಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS238",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ 'ಎಚ್ಚರಿಕೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಅಪಾಯ ಅಥವಾ ತಪ್ಪಿನ ಬಗ್ಗೆ ಎಚ್ಚರಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ ಎಚ್ಚರಿಕೆ ಎಂದರೆ ಅಪಾಯ ಅಥವಾ ತಪ್ಪಿನ ಬಗ್ಗೆ ಎಚ್ಚರಿಸುವುದು; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಉಪಯೋಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS239",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ 'ಅನುಭವ ಹಂಚಿಕೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಜನಾನುಭವದಿಂದ ಪಡೆದ ಜ್ಞಾನವನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ ಅನುಭವ ಹಂಚಿಕೆ ಎಂದರೆ ಜನಾನುಭವದಿಂದ ಪಡೆದ ಜ್ಞಾನವನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS240",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ 'ಸಲಹೆ'ಯ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸೂಕ್ತವಾದ ಮಾರ್ಗದರ್ಶನ ನೀಡುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ ಸಲಹೆ ಎಂದರೆ ಸೂಕ್ತವಾದ ಮಾರ್ಗದರ್ಶನ ನೀಡುವುದು; ಇದು ಗಾದೆಗಳ ಪ್ರಮುಖ ಉಪಯೋಗ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS241",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ 'ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸಮಾಜದಲ್ಲಿ ಸರಿಯಾದ ವರ್ತನೆಯನ್ನು ತಿಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಮನರಂಜನೆ",
+        "C": "ಕೇವಲ ಆರ್ಥಿಕ ಲಾಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಾದೆಗಳ ಸಾಮಾಜಿಕ ಉಪಯೋಗದಲ್ಲಿ ಸಾಮಾಜಿಕ ವರ್ತನೆಗೆ ಮಾರ್ಗದರ್ಶನ ಎಂದರೆ ಸಮಾಜದಲ್ಲಿ ಸರಿಯಾದ ವರ್ತನೆಯನ್ನು ತಿಳಿಸುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "JS242",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಗಟುಗಳಲ್ಲಿ 'ಸುಳಿವು' ಮತ್ತು 'ರೂಪಕ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಸುಳಿವು ಮತ್ತು ರೂಪಕದ ಮೂಲಕ ಉತ್ತರವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುವುದು",
+        "B": "ಕೇವಲ ನೇರ ಉತ್ತರ ನೀಡುವುದು",
+        "C": "ಕೇವಲ ಮನರಂಜನೆ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳಲ್ಲಿ ಸುಳಿವು ಮತ್ತು ರೂಪಕದ ಮೂಲಕ ಉತ್ತರವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ; ಇದು ಒಗಟುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q33"
+    },
+    {
+      "id": "JS243",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಗಟುಗಳಲ್ಲಿ 'ಪ್ರಶ್ನೆಯ ಮೂಲಕ ಗುರುತಿಸುವುದು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪ್ರಶ್ನೆಯ ಮೂಲಕ ವಸ್ತು ಅಥವಾ ಕಲ್ಪನೆಯನ್ನು ಗುರುತಿಸುವುದು",
+        "B": "ನೇರವಾಗಿ ಉತ್ತರ ಹೇಳುವುದು",
+        "C": "ಕೇವಲ ಮನರಂಜನೆ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳಲ್ಲಿ ಪ್ರಶ್ನೆಯ ಮೂಲಕ ವಸ್ತು ಅಥವಾ ಕಲ್ಪನೆಯನ್ನು ಗುರುತಿಸುವುದು; ಇದು ಒಗಟುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q33"
+    },
+    {
+      "id": "JS244",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒಗಟುಗಳಲ್ಲಿ 'ಬೌದ್ಧಿಕ ಆಟ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಡುವ ಆಟ",
+        "B": "ದೈಹಿಕ ಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಡುವ ಆಟ",
+        "C": "ಕೇವಲ ಮನರಂಜನೆ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಗಟುಗಳಲ್ಲಿ ಬೌದ್ಧಿಕ ಆಟ ಎಂದರೆ ಬುದ್ಧಿಶಕ್ತಿಯನ್ನು ಬಳಸಿ ಆಡುವ ಆಟ; ಇದು ಒಗಟುಗಳ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 3, Q33"
+    },
+    {
+      "id": "JS245",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ 'ಸಾಂಪ್ರದಾಯಿಕ ಸಮೂಹ ನೃತ್ಯ'ದ ಅರ್ಥವೇನು?",
+      "options": {
+        "A": "ಸಮುದಾಯದ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮೂಹ ನೃತ್ಯ",
+        "B": "ಕೇವಲ ವೈಯಕ್ತಿಕ ನೃತ್ಯ",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ನೃತ್ಯ",
+        "D": "ಕೇವಲ ಶಾಸ್ತ್ರೀಯ ನೃತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಸಮೂಹ ನೃತ್ಯ ಎಂದರೆ ಸಮುದಾಯದ ಸಾಂಪ್ರದಾಯಿಕ ಆಚರಣೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸಮೂಹ ನೃತ್ಯ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q36"
+    },
+    {
+      "id": "JS246",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ 'ವೃತ್ತಿ' ಮತ್ತು 'ಆಚರಣೆ'ಯ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಆಚರಣೆಗಳಲ್ಲಿ ನೃತ್ಯವು ಭಾಗವಾಗಿರುತ್ತದೆ",
+        "B": "ವೃತ್ತಿ ಮತ್ತು ಆಚರಣೆ ಸಂಬಂಧವಿಲ್ಲ",
+        "C": "ವೃತ್ತಿ ಕೇವಲ ಆರ್ಥಿಕ, ಆಚರಣೆ ಕೇವಲ ಧಾರ್ಮಿಕ",
+        "D": "ವೃತ್ತಿ ಆಧುನಿಕ, ಆಚರಣೆ ಸಾಂಪ್ರದಾಯಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ನೃತ್ಯದಲ್ಲಿ ವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಆಚರಣೆಗಳಲ್ಲಿ ನೃತ್ಯವು ಭಾಗವಾಗಿರುತ್ತದೆ; ಉದಾಹರಣೆಗೆ ಕೃಷಿ ಆಚರಣೆಗಳು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q36"
+    },
+    {
+      "id": "JS247",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡೊಳ್ಳು ಕುಣಿತದಲ್ಲಿ 'ಗುಂಪಿನಲ್ಲಿ ಕುಣಿಯುವುದು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅನೇಕ ಜನರು ಒಟ್ಟಿಗೆ ಲಯಬದ್ಧವಾಗಿ ಕುಣಿಯುವುದು",
+        "B": "ಒಬ್ಬ ವ್ಯಕ್ತಿ ಕುಣಿಯುವುದು",
+        "C": "ಕೇವಲ ಹಾಡುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೊಳ್ಳು ಕುಣಿತದಲ್ಲಿ ಗುಂಪಿನಲ್ಲಿ ಕುಣಿಯುವುದು ಎಂದರೆ ಅನೇಕ ಜನರು ಒಟ್ಟಿಗೆ ಲಯಬದ್ಧವಾಗಿ ಕುಣಿಯುವುದು.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q38"
+    },
+    {
+      "id": "JS248",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂಸಾಳೆ ನೃತ್ಯದಲ್ಲಿ 'ತಾಳವಾದ್ಯ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ತಾಳವಾದ್ಯವನ್ನು ನುಡಿಸುತ್ತಾ ಹಾಡು ಮತ್ತು ನೃತ್ಯವನ್ನು ಸಂಯೋಜಿಸುವುದು",
+        "B": "ಕೇವಲ ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಮಾಡುವುದು",
+        "D": "ಕೇವಲ ವೇಷಭೂಷಣ ಸಿದ್ಧಪಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂಸಾಳೆ ನೃತ್ಯದಲ್ಲಿ ತಾಳವಾದ್ಯವನ್ನು ನುಡಿಸುತ್ತಾ ಹಾಡು ಮತ್ತು ನೃತ್ಯವನ್ನು ಸಂಯೋಜಿಸುವುದು; ಇದು ಕಂಸಾಳೆ ನೃತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q39"
+    },
+    {
+      "id": "JS249",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೀರಗಾಸೆ ನೃತ್ಯದಲ್ಲಿ 'ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದ ಶೈವ ಪರಂಪರೆಯ ವೀರನೃತ್ಯ",
+        "B": "ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವು ವೀರಗಾಸೆ ನೃತ್ಯದ ವಾದ್ಯ",
+        "C": "ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವು ವೀರಗಾಸೆ ನೃತ್ಯದ ಹಾಡು",
+        "D": "ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವು ವೀರಗಾಸೆ ನೃತ್ಯದ ವೇಷಭೂಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಗಾಸೆ ನೃತ್ಯವು ದಕ್ಷಯಜ್ಞದ ಪ್ರಸಂಗವನ್ನು ಆಧರಿಸಿದ ಶೈವ ಪರಂಪರೆಯ ವೀರನೃತ್ಯವಾಗಿದೆ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q40"
+    },
+    {
+      "id": "JS250",
+      "subject": "Kannada",
+      "topic": "Janapada Sahitya",
+      "chapter": "Janapada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರಗ ನೃತ್ಯದಲ್ಲಿ 'ಸಮತೋಲನ'ದ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ತಲೆಯ ಮೇಲೆ ಕರಗವನ್ನು ಹೊತ್ತು ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವುದು",
+        "B": "ಕೇವಲ ಹಾಡುವುದು",
+        "C": "ಕೇವಲ ನೃತ್ಯ ಮಾಡುವುದು",
+        "D": "ಕೇವಲ ವಾದ್ಯ ನುಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರಗ ನೃತ್ಯದಲ್ಲಿ ತಲೆಯ ಮೇಲೆ ಕರಗವನ್ನು ಹೊತ್ತು ಸಮತೋಲನವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವುದು; ಇದು ಕರಗ ನೃತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Janapada_Sahitya.pdf, Page 4, Q41"
+    }
+  ]
+}

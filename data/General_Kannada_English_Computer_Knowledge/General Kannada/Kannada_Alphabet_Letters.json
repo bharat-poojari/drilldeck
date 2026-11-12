@@ -1,0 +1,2959 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank based on the Kannada Alphabet Letters document. Verify and expand questions before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವರ್ಣಮಾಲೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಭಾಷೆಯ ಧ್ವನಿಗಳನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಅಕ್ಷರಗಳ ಕ್ರಮಬದ್ಧ ಸಮೂಹ",
+        "B": "ಒಂದು ಭಾಷೆಯ ಪದಗಳ ಸಮೂಹ",
+        "C": "ಒಂದು ಭಾಷೆಯ ವಾಕ್ಯಗಳ ಸಮೂಹ",
+        "D": "ಒಂದು ಭಾಷೆಯ ವ್ಯಾಕರಣ ನಿಯಮಗಳ ಸಮೂಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಭಾಷೆಯ ಧ್ವನಿಗಳನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಅಕ್ಷರಗಳ ಕ್ರಮಬದ್ಧ ಸಮೂಹವೇ ವರ್ಣಮಾಲೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಎಷ್ಟು ಮೂಲ ಅಕ್ಷರಗಳನ್ನು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "13 ಸ್ವರಗಳು + 34 ವ್ಯಂಜನಗಳು + 2 ಯೋಗವಾಹಗಳು = 49",
+        "B": "13 ಸ್ವರಗಳು + 34 ವ್ಯಂಜನಗಳು = 47",
+        "C": "13 ಸ್ವರಗಳು + 25 ವ್ಯಂಜನಗಳು + 2 ಯೋಗವಾಹಗಳು = 40",
+        "D": "13 ಸ್ವರಗಳು + 34 ವ್ಯಂಜನಗಳು + 3 ಯೋಗವಾಹಗಳು = 50"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ 13 ಸ್ವರಗಳು + 34 ವ್ಯಂಜನಗಳು + 2 ಯೋಗವಾಹಗಳು = 49 ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವರ್ಣ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಬರಹದಲ್ಲಿ ಒಂದು ಧ್ವನಿ ಅಥವಾ ಧ್ವನಿಸಮೂಹವನ್ನು ಸೂಚಿಸುವ ಲಿಪಿಚಿಹ್ನೆ",
+        "B": "ಭಾಷೆಯಲ್ಲಿನ ಅರ್ಥಭೇದಕವಾದ ಅತಿ ಚಿಕ್ಕ ಧ್ವನಿ ಘಟಕ",
+        "C": "ಒಂದು ಪದದ ಅರ್ಥ",
+        "D": "ಒಂದು ವಾಕ್ಯದ ರಚನೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಭಾಷೆಯಲ್ಲಿನ ಅರ್ಥಭೇದಕವಾದ ಅತಿ ಚಿಕ್ಕ ಧ್ವನಿ ಘಟಕವನ್ನು ವರ್ಣ ಅಥವಾ ಧ್ವನಿಮಾ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 3"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಭಾಷೆಯಲ್ಲಿನ ಅರ್ಥಭೇದಕವಾದ ಅತಿ ಚಿಕ್ಕ ಧ್ವನಿ ಘಟಕ",
+        "B": "ಬರಹದಲ್ಲಿ ಒಂದು ಧ್ವನಿ ಅಥವಾ ಧ್ವನಿಸಮೂಹವನ್ನು ಸೂಚಿಸುವ ಲಿಪಿಚಿಹ್ನೆ ಅಥವಾ ಅಕ್ಷರ ಘಟಕ",
+        "C": "ಒಂದು ಪದದ ವ್ಯುತ್ಪತ್ತಿ",
+        "D": "ಒಂದು ಸಂಧಿ ನಿಯಮ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬರಹದಲ್ಲಿ ಒಂದು ಧ್ವನಿ ಅಥವಾ ಧ್ವನಿಸಮೂಹವನ್ನು ಸೂಚಿಸುವ ಲಿಪಿಚಿಹ್ನೆ ಅಥವಾ ಅಕ್ಷರ ಘಟಕವೇ ಅಕ್ಷರ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 4"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ ಮತ್ತು ವರ್ಣಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಎರಡೂ ಒಂದೇ",
+        "B": "ವರ್ಣವು ಧ್ವನಿಯ ಘಟಕ; ಅಕ್ಷರವು ಆ ಧ್ವನಿಯನ್ನು ಬರಹದಲ್ಲಿ ಸೂಚಿಸುವ ಲಿಪಿಚಿಹ್ನೆ",
+        "C": "ವರ್ಣವು ಬರಹದ ಘಟಕ; ಅಕ್ಷರವು ಧ್ವನಿಯ ಘಟಕ",
+        "D": "ವರ್ಣವು ಪದದ ಘಟಕ; ಅಕ್ಷರವು ವಾಕ್ಯದ ಘಟಕ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವರ್ಣವು ಧ್ವನಿಯ ಘಟಕ; ಅಕ್ಷರವು ಆ ಧ್ವನಿಯನ್ನು ಬರಹದಲ್ಲಿ ಸೂಚಿಸುವ ಲಿಪಿಚಿಹ್ನೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 5"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯು ಯಾವ ರೀತಿಯ ಲಿಪಿ ಪದ್ಧತಿಗೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಅಬುಗಿಡ (abugida) ಅಥವಾ ಅಕ್ಷರಾಧಾರಿತ ಲಿಪಿ ಪದ್ಧತಿ",
+        "B": "ಅಲ್ಫಾಬೆಟಿಕ್ ಲಿಪಿ ಪದ್ಧತಿ",
+        "C": "ಸಿಲಬಿಕ್ ಲಿಪಿ ಪದ್ಧತಿ",
+        "D": "ಲೋಗೋಗ್ರಾಫಿಕ್ ಲಿಪಿ ಪದ್ಧತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡವು ಅಬುಗಿಡ (abugida) ಅಥವಾ ಅಕ್ಷರಾಧಾರಿತ ಲಿಪಿ ಪದ್ಧತಿಗೆ ಸೇರಿದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 6"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸ್ವರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಗಾಳಿಗೆ ಬಾಯಿಯೊಳಗೆ ಸಂಪೂರ್ಣ ಅಡ್ಡಿ ಉಂಟಾಗದೆ ಸ್ವತಂತ್ರವಾಗಿ ಹೊರಬರುವ ಧ್ವನಿ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಗಾಳಿಗೆ ಸಂಪೂರ್ಣ ಅಡ್ಡಿ ಉಂಟಾಗುವ ಧ್ವನಿ",
+        "C": "ಮೂಗಿನ ಮೂಲಕ ಹೊರಬರುವ ಧ್ವನಿ",
+        "D": "ಉಸಿರಿನ ಒತ್ತಡದಿಂದ ಹೊರಬರುವ ಧ್ವನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಗಾಳಿಗೆ ಬಾಯಿಯೊಳಗೆ ಸಂಪೂರ್ಣ ಅಡ್ಡಿ ಉಂಟಾಗದೆ ಸ್ವತಂತ್ರವಾಗಿ ಹೊರಬರುವ ಧ್ವನಿಯನ್ನು ಸ್ವರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 7"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಸಾಮಾನ್ಯ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ",
+        "B": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ",
+        "C": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ, ಅಂ",
+        "D": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ, ಅಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಸಾಮಾನ್ಯ ವರ್ಣಮಾಲೆಯಲ್ಲಿ 13 ಸ್ವರಗಳು: ಅ, ಆ, ಇ, ಈ, ಉ, ಊ, ಋ, ಎ, ಏ, ಐ, ಒ, ಓ, ಔ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 8"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹ್ರಸ್ವ ಸ್ವರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಡಿಮೆ ಕಾಲಾವಧಿಯಲ್ಲಿ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರ",
+        "B": "ಹೆಚ್ಚು ಕಾಲಾವಧಿಯಲ್ಲಿ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರ",
+        "C": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರ",
+        "D": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಡಿಮೆ ಕಾಲಾವಧಿಯಲ್ಲಿ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಸ್ವರವನ್ನು ಹ್ರಸ್ವ ಸ್ವರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 9"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹ್ರಸ್ವ ಸ್ವರಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅ, ಇ, ಉ, ಋ, ಎ, ಒ",
+        "B": "ಆ, ಈ, ಊ, ೠ, ಏ, ಓ",
+        "C": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ",
+        "D": "ಎ, ಏ, ಐ, ಒ, ಓ, ಔ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಅ, ಇ, ಉ, ಋ, ಎ, ಒ ಹ್ರಸ್ವ ಸ್ವರಗಳೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 10"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದೀರ್ಘ ಸ್ವರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹ್ರಸ್ವ ಸ್ವರಕ್ಕಿಂತ ಹೆಚ್ಚು ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "B": "ಕಡಿಮೆ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "C": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "D": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹ್ರಸ್ವ ಸ್ವರಕ್ಕಿಂತ ಹೆಚ್ಚು ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರವನ್ನು ದೀರ್ಘ ಸ್ವರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 11"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದೀರ್ಘ ಸ್ವರಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆ, ಈ, ಊ, ಏ, ಐ, ಓ, ಔ",
+        "B": "ಅ, ಇ, ಉ, ಋ, ಎ, ಒ",
+        "C": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ",
+        "D": "ಎ, ಏ, ಐ, ಒ, ಓ, ಔ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕವಾಗಿ ಆ, ಈ, ಊ, ಏ, ಐ, ಓ, ಔ ದೀರ್ಘ ಸ್ವರಗಳೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 12"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹ್ರಸ್ವ ಮತ್ತು ದೀರ್ಘ ಸ್ವರಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಹ್ರಸ್ವ ಸ್ವರ ಒಂದು ಮಾತ್ರೆಯ ಕಾಲದಲ್ಲಿ; ದೀರ್ಘ ಸ್ವರ ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಹ್ರಸ್ವ ಸ್ವರ ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ; ದೀರ್ಘ ಸ್ವರ ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ",
+        "C": "ಹ್ರಸ್ವ ಸ್ವರ ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ; ದೀರ್ಘ ಸ್ವರ ಒಂದು ಮಾತ್ರೆಯ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ",
+        "D": "ಎರಡೂ ಒಂದೇ ಮಾತ್ರೆಯ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹ್ರಸ್ವ ಸ್ವರ ಒಂದು ಮಾತ್ರೆಯ ಕಾಲದಲ್ಲಿ; ದೀರ್ಘ ಸ್ವರ ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲದಲ್ಲಿ ಉಚ್ಚರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 13"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ಲುತ ಸ್ವರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "B": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "C": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "D": "ನಾಲ್ಕು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರವನ್ನು ಪ್ಲುತ ಸ್ವರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 14"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ವರಗಳ ಮಾತ್ರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಸ್ವರವನ್ನು ಉಚ್ಚರಿಸಲು ಬೇಕಾಗುವ ಕಾಲಮಾನ",
+        "B": "ಒಂದು ವ್ಯಂಜನವನ್ನು ಉಚ್ಚರಿಸಲು ಬೇಕಾಗುವ ಕಾಲಮಾನ",
+        "C": "ಒಂದು ಪದವನ್ನು ಉಚ್ಚರಿಸಲು ಬೇಕಾಗುವ ಕಾಲಮಾನ",
+        "D": "ಒಂದು ವಾಕ್ಯವನ್ನು ಉಚ್ಚರಿಸಲು ಬೇಕಾಗುವ ಕಾಲಮಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಸ್ವರವನ್ನು ಉಚ್ಚರಿಸಲು ಬೇಕಾಗುವ ಕಾಲಮಾನವನ್ನು ಮಾತ್ರೆ ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 15"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಐ ಮತ್ತು ಔ ಅಕ್ಷರಗಳನ್ನು ಹೇಗೆ ವರ್ಗೀಕರಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಸ್ವರಗಳಾಗಿ; ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಸಂಯುಕ್ತಸ್ವರಗಳು (diphthongs) ಎಂದು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತದೆ",
+        "B": "ವ್ಯಂಜನಗಳಾಗಿ",
+        "C": "ಯೋಗವಾಹಗಳಾಗಿ",
+        "D": "ಅನುಸ್ವಾರಗಳಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಾರಂಪರಿಕ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಇವು ಸ್ವರಗಳಾಗಿವೆ; ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಸಂಯುಕ್ತಸ್ವರಗಳು (diphthongs) ಎಂದು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 16"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವ್ಯಂಜನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಬಾಯಿಯ ಯಾವುದಾದರೂ ಭಾಗದಲ್ಲಿ ಗಾಳಿಯ ಹರಿವಿಗೆ ಅಡ್ಡಿ ಅಥವಾ ಘರ್ಷಣೆ ಉಂಟಾಗಿ ಸ್ವರದ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಗಾಳಿಗೆ ಯಾವುದೇ ಅಡ್ಡಿ ಉಂಟಾಗದ ಧ್ವನಿ",
+        "C": "ಮೂಗಿನ ಮೂಲಕ ಹೊರಬರುವ ಧ್ವನಿ",
+        "D": "ಉಸಿರಿನ ಒತ್ತಡದಿಂದ ಹೊರಬರುವ ಧ್ವನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಬಾಯಿಯ ಯಾವುದಾದರೂ ಭಾಗದಲ್ಲಿ ಗಾಳಿಯ ಹರಿವಿಗೆ ಅಡ್ಡಿ ಅಥವಾ ಘರ್ಷಣೆ ಉಂಟಾಗಿ ಸ್ವರದ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಯನ್ನು ವ್ಯಂಜನ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 17"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ವ್ಯಂಜನಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "34 ವ್ಯಂಜನಗಳು: 25 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು 9 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು",
+        "B": "33 ವ್ಯಂಜನಗಳು: 25 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು 8 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು",
+        "C": "34 ವ್ಯಂಜನಗಳು: 24 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು 10 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು",
+        "D": "35 ವ್ಯಂಜನಗಳು: 25 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು 10 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ವ್ಯಂಜನಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ 34 ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ: 25 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು 9 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 18"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಮತ್ತು ಉಚ್ಚರಣಾ ವಿಧಾನಗಳ ಆಧಾರದ ಮೇಲೆ ಐದು ವರ್ಗಗಳಾಗಿ ಗುಂಪುಗೊಳಿಸಲಾದ 25 ವ್ಯಂಜನಗಳು",
+        "B": "ಉಚ್ಚರಣಾ ಸ್ಥಾನದ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ವರ್ಗೀಕರಿಸಲಾದ ವ್ಯಂಜನಗಳು",
+        "C": "ಉಚ್ಚರಣಾ ವಿಧಾನದ ಆಧಾರದ ಮೇಲೆ ಮಾತ್ರ ವರ್ಗೀಕರಿಸಲಾದ ವ್ಯಂಜನಗಳು",
+        "D": "ಯಾವುದೇ ವರ್ಗೀಕರಣವಿಲ್ಲದ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಮತ್ತು ಉಚ್ಚರಣಾ ವಿಧಾನಗಳ ಆಧಾರದ ಮೇಲೆ ಐದು ವರ್ಗಗಳಾಗಿ ಗುಂಪುಗೊಳಿಸಲಾದ 25 ವ್ಯಂಜನಗಳು ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 19"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಐದು ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕವರ್ಗ: ಕ ಖ ಗ ಘ ಙ; ಚವರ್ಗ: ಚ ಛ ಜ ಝ ಞ; ಟವರ್ಗ: ಟ ಠ ಡ ಢ ಣ; ತವರ್ಗ: ತ ಥ ದ ಧ ನ; ಪವರ್ಗ: ಪ ಫ ಬ ಭ ಮ",
+        "B": "ಕವರ್ಗ: ಕ ಖ ಗ ಘ ಙ; ಚವರ್ಗ: ಚ ಛ ಜ ಝ ಞ; ಟವರ್ಗ: ಟ ಠ ಡ ಢ ಣ; ತವರ್ಗ: ತ ಥ ದ ಧ ನ; ಪವರ್ಗ: ಪ ಫ ಬ ಭ ಯ",
+        "C": "ಕವರ್ಗ: ಕ ಖ ಗ ಘ ಙ; ಚವರ್ಗ: ಚ ಛ ಜ ಝ ಞ; ಟವರ್ಗ: ಟ ಠ ಡ ಢ ಣ; ತವರ್ಗ: ತ ಥ ದ ಧ ನ; ಪವರ್ಗ: ಪ ಫ ಬ ಭ ರ",
+        "D": "ಕವರ್ಗ: ಕ ಖ ಗ ಘ ಙ; ಚವರ್ಗ: ಚ ಛ ಜ ಝ ಞ; ಟವರ್ಗ: ಟ ಠ ಡ ಢ ಣ; ತವರ್ಗ: ತ ಥ ದ ಧ ನ; ಪವರ್ಗ: ಪ ಫ ಬ ಭ ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವರ್ಗ: ಕ ಖ ಗ ಘ ಙ; ಚವರ್ಗ: ಚ ಛ ಜ ಝ ಞ; ಟವರ್ಗ: ಟ ಠ ಡ ಢ ಣ; ತವರ್ಗ: ತ ಥ ದ ಧ ನ; ಪವರ್ಗ: ಪ ಫ ಬ ಭ ಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಐದು ಸ್ಪರ್ಶ ವರ್ಗಗಳಲ್ಲಿ ಸೇರದ ವ್ಯಂಜನಗಳು",
+        "B": "ಐದು ಸ್ಪರ್ಶ ವರ್ಗಗಳಲ್ಲಿ ಸೇರುವ ವ್ಯಂಜನಗಳು",
+        "C": "ಕೇವಲ ಅನುನಾಸಿಕ ವ್ಯಂಜನಗಳು",
+        "D": "ಕೇವಲ ಊಷ್ಮ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದು ಸ್ಪರ್ಶ ವರ್ಗಗಳಲ್ಲಿ ಸೇರದ ವ್ಯಂಜನಗಳನ್ನು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 21"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ — ಒಟ್ಟು 9",
+        "B": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ — ಒಟ್ಟು 8",
+        "C": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ, ಕ್ಷ — ಒಟ್ಟು 10",
+        "D": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಜ್ಞ — ಒಟ್ಟು 9"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಪಟ್ಟಿಯಲ್ಲಿ ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ — ಒಟ್ಟು 9 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 21"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಬಾಯಿಯ ಒಂದು ಅಂಗ ಮತ್ತೊಂದು ಅಂಗವನ್ನು ಸ್ಪರ್ಶಿಸಿ ಗಾಳಿಯ ಹರಿವನ್ನು ಕ್ಷಣಿಕವಾಗಿ ತಡೆದು ಬಿಡುವ ವ್ಯಂಜನಗಳು",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಬಾಯಿಯ ಅಂಗಗಳು ಸ್ಪರ್ಶಿಸದ ವ್ಯಂಜನಗಳು",
+        "C": "ಮೂಗಿನ ಮೂಲಕ ಹೊರಬರುವ ವ್ಯಂಜನಗಳು",
+        "D": "ಉಸಿರಿನ ಒತ್ತಡದಿಂದ ಹೊರಬರುವ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಬಾಯಿಯ ಒಂದು ಅಂಗ ಮತ್ತೊಂದು ಅಂಗವನ್ನು ಸ್ಪರ್ಶಿಸಿ ಗಾಳಿಯ ಹರಿವನ್ನು ಕ್ಷಣಿಕವಾಗಿ ತಡೆದು ಬಿಡುವ ವ್ಯಂಜನಗಳು ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 22"
+    },
+        {
+      "id": "Q024",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಐದು ವರ್ಗಗಳಲ್ಲಿ ಮೊದಲ ನಾಲ್ಕು ಅಕ್ಷರಗಳು ಯಾವ ರೀತಿಯ ವ್ಯಂಜನಗಳು?",
+      "options": {
+        "A": "ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು",
+        "B": "ಅನುನಾಸಿಕ ವ್ಯಂಜನಗಳು",
+        "C": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು",
+        "D": "ಊಷ್ಮ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದು ವರ್ಗಗಳಲ್ಲಿ ಮೊದಲ ನಾಲ್ಕು ಅಕ್ಷರಗಳು ಸೇರಿ 20 ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು; ವರ್ಗದ ಐದನೆಯ ಅಕ್ಷರವನ್ನು ಅನುನಾಸಿಕ ಎಂದು ಗುರುತಿಸುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 22"
+    },
+    {
+      "id": "Q025",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನುನಾಸಿಕಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೂಗಿನ ಮೂಲಕ ಗಾಳಿ ಹೊರಬರುವಂತೆ ಉಚ್ಚರಿಸಲ್ಪಡುವ ನಾಸಿಕ ಧ್ವನಿಗಳು",
+        "B": "ಬಾಯಿಯ ಮೂಲಕ ಮಾತ್ರ ಗಾಳಿ ಹೊರಬರುವ ಧ್ವನಿಗಳು",
+        "C": "ಉಸಿರಿನ ಒತ್ತಡದಿಂದ ಹೊರಬರುವ ಧ್ವನಿಗಳು",
+        "D": "ಸ್ವರತಂತುಗಳು ಕಂಪಿಸದ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂಗಿನ ಮೂಲಕ ಗಾಳಿ ಹೊರಬರುವಂತೆ ಉಚ್ಚರಿಸಲ್ಪಡುವ ನಾಸಿಕ ಧ್ವನಿಗಳು ಅನುನಾಸಿಕಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 23"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ಅನುನಾಸಿಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "B": "ಯ, ರ, ಲ, ವ, ಳ",
+        "C": "ಶ, ಷ, ಸ, ಹ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ಅನುನಾಸಿಕಗಳು: ಙ, ಞ, ಣ, ನ, ಮ. ಇವು ಐದು ವರ್ಗಗಳ ಐದನೆಯ ಅಕ್ಷರಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 23"
+    },
+    {
+      "id": "Q027",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅನುನಾಸಿಕ ಧ್ವನಿಗಳ ವರ್ಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕವರ್ಗದ ಙ, ಚವರ್ಗದ ಞ, ಟವರ್ಗದ ಣ, ತವರ್ಗದ ನ, ಪವರ್ಗದ ಮ",
+        "B": "ಕವರ್ಗದ ಙ, ಚವರ್ಗದ ಞ, ಟವರ್ಗದ ಣ, ತವರ್ಗದ ನ, ಪವರ್ಗದ ಯ",
+        "C": "ಕವರ್ಗದ ಙ, ಚವರ್ಗದ ಞ, ಟವರ್ಗದ ಣ, ತವರ್ಗದ ನ, ಪವರ್ಗದ ರ",
+        "D": "ಕವರ್ಗದ ಙ, ಚವರ್ಗದ ಞ, ಟವರ್ಗದ ಣ, ತವರ್ಗದ ನ, ಪವರ್ಗದ ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುನಾಸಿಕ ಧ್ವನಿಗಳ ವರ್ಗಗಳು: ಕವರ್ಗದ ಙ, ಚವರ್ಗದ ಞ, ಟವರ್ಗದ ಣ, ತವರ್ಗದ ನ, ಪವರ್ಗದ ಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 24"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಯ, ರ, ಲ, ವ",
+        "B": "ಶ, ಷ, ಸ, ಹ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ರ, ಲ, ವ — ಈ ನಾಲ್ಕು ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 25"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಊಷ್ಮ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಶ, ಷ, ಸ, ಹ",
+        "B": "ಯ, ರ, ಲ, ವ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶ, ಷ, ಸ, ಹ — ಈ ನಾಲ್ಕು ಊಷ್ಮ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 26"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ಮತ್ತು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಐದು ಉಚ್ಚರಣಾ ವರ್ಗಗಳಲ್ಲಿ ಸೇರಿವೆ; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಆ ಐದು ವರ್ಗಗಳ ಹೊರಗಿವೆ",
+        "B": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಐದು ಉಚ್ಚರಣಾ ವರ್ಗಗಳ ಹೊರಗಿವೆ; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಆ ಐದು ವರ್ಗಗಳಲ್ಲಿ ಸೇರಿವೆ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಕೇವಲ ಸ್ವರಗಳು; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಕೇವಲ ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಐದು ಉಚ್ಚರಣಾ ವರ್ಗಗಳಲ್ಲಿ ಸೇರಿವೆ; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಆ ಐದು ವರ್ಗಗಳ ಹೊರಗಿವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 27"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯೋಗವಾಹಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ವರ ಮತ್ತು ವ್ಯಂಜನಗಳೊಂದಿಗೆ ಸೇರಿ ಉಚ್ಚಾರಣೆಗೆ ಸಹಾಯ ಮಾಡುವ ಅನುಸ್ವಾರ ಮತ್ತು ವಿಸರ್ಗ ಚಿಹ್ನೆಗಳು",
+        "B": "ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸುವ ಸ್ವರಗಳು",
+        "C": "ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸುವ ವ್ಯಂಜನಗಳು",
+        "D": "ಸಂಯುಕ್ತಾಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರ ಮತ್ತು ವ್ಯಂಜನಗಳೊಂದಿಗೆ ಸೇರಿ ಉಚ್ಚಾರಣೆಗೆ ಸಹಾಯ ಮಾಡುವ ಅನುಸ್ವಾರ ಮತ್ತು ವಿಸರ್ಗ ಚಿಹ್ನೆಗಳನ್ನು ಯೋಗವಾಹಗಳು ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 28"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಮಾನ್ಯ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಎಷ್ಟು ಯೋಗವಾಹಗಳಿವೆ?",
+      "options": {
+        "A": "ಎರಡು: ಅನುಸ್ವಾರ (ಂ) ಮತ್ತು ವಿಸರ್ಗ (ಃ)",
+        "B": "ಒಂದು: ಅನುಸ್ವಾರ (ಂ)",
+        "C": "ಮೂರು: ಅನುಸ್ವಾರ (ಂ), ವಿಸರ್ಗ (ಃ), ಮತ್ತು ಚಂದ್ರಬಿಂದು (ಁ)",
+        "D": "ನಾಲ್ಕು: ಅನುಸ್ವಾರ (ಂ), ವಿಸರ್ಗ (ಃ), ಚಂದ್ರಬಿಂದು (ಁ), ಮತ್ತು ಅವಗ್ರಹ (ಽ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಎರಡು ಯೋಗವಾಹಗಳು: ಅನುಸ್ವಾರ (ಂ) ಮತ್ತು ವಿಸರ್ಗ (ಃ).",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 28"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ವರದ ನಂತರ ಬರುವ ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುವ 'ಂ' ಚಿಹ್ನೆ",
+        "B": "ಸ್ವರದ ನಂತರ ಬರುವ ಉಸಿರಿನ ಸಣ್ಣ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ 'ಃ' ಚಿಹ್ನೆ",
+        "C": "ಸ್ವರದ ನಂತರ ಬರುವ ಚಂದ್ರಬಿಂದು 'ಁ' ಚಿಹ್ನೆ",
+        "D": "ಸ್ವರದ ನಂತರ ಬರುವ ಅವಗ್ರಹ 'ಽ' ಚಿಹ್ನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರದ ನಂತರ ಬರುವ ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುವ 'ಂ' ಚಿಹ್ನೆಯನ್ನು ಅನುಸ್ವಾರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 29"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರವು ಮುಂದಿನ ವ್ಯಂಜನಕ್ಕೆ ಹೇಗೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ?",
+      "options": {
+        "A": "ಮುಂದೆ ಬರುವ ವ್ಯಂಜನದ ಉಚ್ಚರಣಾ ಸ್ಥಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅನುಸ್ವಾರವು ಸಮಾನ ಸ್ಥಾನೀಯ ನಾಸಿಕ ಧ್ವನಿಯಂತೆ ಕೇಳಿಸುತ್ತದೆ",
+        "B": "ಮುಂದೆ ಬರುವ ವ್ಯಂಜನದ ಉಚ್ಚರಣಾ ಸ್ಥಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅನುಸ್ವಾರವು ಸಮಾನ ಸ್ಥಾನೀಯ ಸ್ಪರ್ಶ ಧ್ವನಿಯಂತೆ ಕೇಳಿಸುತ್ತದೆ",
+        "C": "ಮುಂದೆ ಬರುವ ವ್ಯಂಜನದ ಉಚ್ಚರಣಾ ಸ್ಥಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅನುಸ್ವಾರವು ಸಮಾನ ಸ್ಥಾನೀಯ ಊಷ್ಮ ಧ್ವನಿಯಂತೆ ಕೇಳಿಸುತ್ತದೆ",
+        "D": "ಮುಂದೆ ಬರುವ ವ್ಯಂಜನದ ಉಚ್ಚರಣಾ ಸ್ಥಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅನುಸ್ವಾರವು ಸಮಾನ ಸ್ಥಾನೀಯ ಸ್ವರದಂತೆ ಕೇಳಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಂದೆ ಬರುವ ವ್ಯಂಜನದ ಉಚ್ಚರಣಾ ಸ್ಥಾನಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಅನುಸ್ವಾರವು ಸಮಾನ ಸ್ಥಾನೀಯ ನಾಸಿಕ ಧ್ವನಿಯಂತೆ ಕೇಳಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 30"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರದ ಉದಾಹರಣೆಗಳಲ್ಲಿ ಸರಿಯಾದ ಜೋಡಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಅಂಕದಲ್ಲಿ ಙ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಚಿನಲ್ಲಿ ಞ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಟಿನಲ್ಲಿ ಣ್-ಸಮಾನ ಧ್ವನಿ, ಅಂದದಲ್ಲಿ ನ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಬಿನಲ್ಲಿ ಮ್-ಸಮಾನ ಧ್ವನಿ",
+        "B": "ಅಂಕದಲ್ಲಿ ನ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಚಿನಲ್ಲಿ ಮ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಟಿನಲ್ಲಿ ಙ್-ಸಮಾನ ಧ್ವನಿ, ಅಂದದಲ್ಲಿ ಞ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಬಿನಲ್ಲಿ ಣ್-ಸಮಾನ ಧ್ವನಿ",
+        "C": "ಅಂಕದಲ್ಲಿ ಮ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಚಿನಲ್ಲಿ ಙ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಟಿನಲ್ಲಿ ಞ್-ಸಮಾನ ಧ್ವನಿ, ಅಂದದಲ್ಲಿ ಣ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಬಿನಲ್ಲಿ ನ್-ಸಮಾನ ಧ್ವನಿ",
+        "D": "ಅಂಕದಲ್ಲಿ ಞ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಚಿನಲ್ಲಿ ಣ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಟಿನಲ್ಲಿ ನ್-ಸಮಾನ ಧ್ವನಿ, ಅಂದದಲ್ಲಿ ಮ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಬಿನಲ್ಲಿ ಙ್-ಸಮಾನ ಧ್ವನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಕದಲ್ಲಿ ಙ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಚಿನಲ್ಲಿ ಞ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಟಿನಲ್ಲಿ ಣ್-ಸಮಾನ ಧ್ವನಿ, ಅಂದದಲ್ಲಿ ನ್-ಸಮಾನ ಧ್ವನಿ, ಅಂಬಿನಲ್ಲಿ ಮ್-ಸಮಾನ ಧ್ವನಿ ಕೇಳಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 30"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಿಸರ್ಗ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ವರದ ನಂತರ ಬರುವ ಉಸಿರಿನ ಸಣ್ಣ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ 'ಃ' ಚಿಹ್ನೆ",
+        "B": "ಸ್ವರದ ನಂತರ ಬರುವ ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುವ 'ಂ' ಚಿಹ್ನೆ",
+        "C": "ಸ್ವರದ ನಂತರ ಬರುವ ಚಂದ್ರಬಿಂದು 'ಁ' ಚಿಹ್ನೆ",
+        "D": "ಸ್ವರದ ನಂತರ ಬರುವ ಅವಗ್ರಹ 'ಽ' ಚಿಹ್ನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರದ ನಂತರ ಬರುವ ಉಸಿರಿನ ಸಣ್ಣ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುವ 'ಃ' ಚಿಹ್ನೆಯನ್ನು ವಿಸರ್ಗ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 31"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರ ಮತ್ತು ವಿಸರ್ಗಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಅನುಸ್ವಾರವು ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ; ವಿಸರ್ಗವು ಉಸಿರಿನ ಘರ್ಷಣಾತ್ಮಕ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "B": "ಅನುಸ್ವಾರವು ಉಸಿರಿನ ಘರ್ಷಣಾತ್ಮಕ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ; ವಿಸರ್ಗವು ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "C": "ಎರಡೂ ನಾಸಿಕ ಧ್ವನಿಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ",
+        "D": "ಎರಡೂ ಉಸಿರಿನ ಘರ್ಷಣಾತ್ಮಕ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುಸ್ವಾರವು ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ; ವಿಸರ್ಗವು ಉಸಿರಿನ ಘರ್ಷಣಾತ್ಮಕ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 32"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯೋಗವಾಹಗಳನ್ನು ಸ್ವರ ಅಥವಾ ವ್ಯಂಜನಗಳಿಂದ ಕರೆಯಬಹುದೇ?",
+      "options": {
+        "A": "ಸಾಂಪ್ರದಾಯಿಕ ಕನ್ನಡ ವರ್ಣಮಾಲಾ ವಿಭಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಸ್ವರ-ವ್ಯಂಜನಗಳಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ ಯೋಗವಾಹಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ",
+        "B": "ಹೌದು, ಅವು ಸ್ವರಗಳು",
+        "C": "ಹೌದು, ಅವು ವ್ಯಂಜನಗಳು",
+        "D": "ಹೌದು, ಅವು ಸ್ವರ ಮತ್ತು ವ್ಯಂಜನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಕನ್ನಡ ವರ್ಣಮಾಲಾ ವಿಭಾಗದಲ್ಲಿ ಅವುಗಳನ್ನು ಸ್ವರ-ವ್ಯಂಜನಗಳಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿ ಯೋಗವಾಹಗಳೆಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 33"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗುಣಿತಾಕ್ಷರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ವ್ಯಂಜನಕ್ಕೆ ವಿವಿಧ ಸ್ವರಗಳನ್ನು ಸೇರಿಸಿ ರೂಪಿಸುವ ಅಕ್ಷರರೂಪಗಳು",
+        "B": "ಎರಡು ವ್ಯಂಜನಗಳು ಸೇರಿ ರೂಪುಗೊಳ್ಳುವ ಅಕ್ಷರಗಳು",
+        "C": "ಸ್ವರಗಳು ಮಾತ್ರ ಸೇರಿ ರೂಪುಗೊಳ್ಳುವ ಅಕ್ಷರಗಳು",
+        "D": "ಯೋಗವಾಹಗಳು ಸೇರಿ ರೂಪುಗೊಳ್ಳುವ ಅಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ವ್ಯಂಜನಕ್ಕೆ ವಿವಿಧ ಸ್ವರಗಳನ್ನು ಸೇರಿಸಿ ರೂಪಿಸುವ ಅಕ್ಷರರೂಪಗಳನ್ನು ಗುಣಿತಾಕ್ಷರಗಳು ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 34"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗುಣಿತಾಕ್ಷರಗಳು ಹೇಗೆ ರೂಪುಗೊಳ್ಳುತ್ತವೆ?",
+      "options": {
+        "A": "ವ್ಯಂಜನದ ಸಹಜ 'ಅ' ಸ್ವರವನ್ನು ಉಳಿಸುವುದು ಅಥವಾ ಬೇರೆ ಸ್ವರಮಾತ್ರೆ ಸೇರಿಸುವುದರಿಂದ",
+        "B": "ವ್ಯಂಜನದ ಸಹಜ 'ಅ' ಸ್ವರವನ್ನು ತೆಗೆದು ಬೇರೆ ವ್ಯಂಜನ ಸೇರಿಸುವುದರಿಂದ",
+        "C": "ಎರಡು ಸ್ವರಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ",
+        "D": "ಯೋಗವಾಹಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಂಜನದ ಸಹಜ 'ಅ' ಸ್ವರವನ್ನು ಉಳಿಸುವುದು ಅಥವಾ ಬೇರೆ ಸ್ವರಮಾತ್ರೆ ಸೇರಿಸುವುದರಿಂದ ಗುಣಿತಾಕ್ಷರಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 35"
+    },
+    {
+      "id": "Q041",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಾಗುಣಿತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವ್ಯಂಜನಕ್ಕೆ ವಿವಿಧ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ ಬರೆಯುವ ಕ್ರಮ ಅಥವಾ ಪಟ್ಟಿ",
+        "B": "ಎರಡು ವ್ಯಂಜನಗಳನ್ನು ಸೇರಿಸಿ ಬರೆಯುವ ಕ್ರಮ",
+        "C": "ಸ್ವರಗಳನ್ನು ಮಾತ್ರ ಬರೆಯುವ ಕ್ರಮ",
+        "D": "ಯೋಗವಾಹಗಳನ್ನು ಬರೆಯುವ ಕ್ರಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಂಜನಕ್ಕೆ ವಿವಿಧ ಸ್ವರಮಾತ್ರೆಗಳನ್ನು ಸೇರಿಸಿ ಬರೆಯುವ ಕ್ರಮ ಅಥವಾ ಪಟ್ಟಿಯನ್ನು ಕಾಗುಣಿತ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 36"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗುಣಿತಾಕ್ಷರ ಮತ್ತು ಕಾಗುಣಿತಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಗುಣಿತಾಕ್ಷರವು ರೂಪುಗೊಂಡ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರರೂಪ; ಕಾಗುಣಿತವು ಅಂತಹ ರೂಪಗಳನ್ನು ಕ್ರಮವಾಗಿ ಕಲಿಸುವ ಅಥವಾ ಬರೆಯುವ ಸಮಗ್ರ ಕ್ರಮ",
+        "B": "ಗುಣಿತಾಕ್ಷರವು ಸಮಗ್ರ ಕ್ರಮ; ಕಾಗುಣಿತವು ಪ್ರತ್ಯೇಕ ಅಕ್ಷರರೂಪ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಗುಣಿತಾಕ್ಷರವು ವ್ಯಂಜನ; ಕಾಗುಣಿತವು ಸ್ವರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗುಣಿತಾಕ್ಷರವು ರೂಪುಗೊಂಡ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರರೂಪ; ಕಾಗುಣಿತವು ಅಂತಹ ರೂಪಗಳನ್ನು ಕ್ರಮವಾಗಿ ಕಲಿಸುವ ಅಥವಾ ಬರೆಯುವ ಸಮಗ್ರ ಕ್ರಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 37"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada",
+      "topic": "Ottakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ವ್ಯಂಜನದ ಕೆಳಗೆ ಅಥವಾ ಅದರೊಂದಿಗೆ ಮತ್ತೊಂದು ವ್ಯಂಜನವನ್ನು ಸ್ವರಹಿತ ರೂಪದಲ್ಲಿ ಸೇರಿಸಿ ಬರೆಯುವ ಸಂಯೋಜಿತ ರೂಪ",
+        "B": "ಒಂದು ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರ ಸೇರಿಸಿ ಬರೆಯುವ ರೂಪ",
+        "C": "ಎರಡು ಸ್ವರಗಳನ್ನು ಸೇರಿಸಿ ಬರೆಯುವ ರೂಪ",
+        "D": "ಯೋಗವಾಹವನ್ನು ಸೇರಿಸಿ ಬರೆಯುವ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ವ್ಯಂಜನದ ಕೆಳಗೆ ಅಥವಾ ಅದರೊಂದಿಗೆ ಮತ್ತೊಂದು ವ್ಯಂಜನವನ್ನು ಸ್ವರಹಿತ ರೂಪದಲ್ಲಿ ಸೇರಿಸಿ ಬರೆಯುವ ಸಂಯೋಜಿತ ರೂಪವನ್ನು ಒತ್ತಕ್ಷರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 38"
+    },
+    {
+      "id": "Q044",
+      "subject": "Kannada",
+      "topic": "Ottakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರಗಳು ಹೇಗೆ ರೂಪುಗೊಳ್ಳುತ್ತವೆ?",
+      "options": {
+        "A": "ಮೊದಲ ವ್ಯಂಜನದ ಸಹಜ ಸ್ವರವನ್ನು ತೆಗೆದು, ಅದರೊಂದಿಗೆ ಮುಂದಿನ ವ್ಯಂಜನವನ್ನು ಸೇರಿಸುವುದರಿಂದ",
+        "B": "ಮೊದಲ ವ್ಯಂಜನದ ಸಹಜ ಸ್ವರವನ್ನು ಉಳಿಸಿ, ಅದರೊಂದಿಗೆ ಮುಂದಿನ ವ್ಯಂಜನವನ್ನು ಸೇರಿಸುವುದರಿಂದ",
+        "C": "ಎರಡು ಸ್ವರಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ",
+        "D": "ಯೋಗವಾಹಗಳನ್ನು ಸೇರಿಸುವುದರಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ವ್ಯಂಜನದ ಸಹಜ ಸ್ವರವನ್ನು ತೆಗೆದು, ಅದರೊಂದಿಗೆ ಮುಂದಿನ ವ್ಯಂಜನವನ್ನು ಸೇರಿಸುವುದರಿಂದ ಒತ್ತಕ್ಷರಗಳು ರೂಪುಗೊಳ್ಳುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 39"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಂಯುಕ್ತಾಕ್ಷರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳು ಮಧ್ಯಸ್ವರ ಬಾರದಂತೆ ಸೇರಿ ರೂಪಿಸುವ ಅಕ್ಷರಸಂಯೋಜನೆ",
+        "B": "ಒಂದು ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರ ಸೇರಿಸಿ ರೂಪಿಸುವ ಅಕ್ಷರ",
+        "C": "ಎರಡು ಸ್ವರಗಳು ಸೇರಿ ರೂಪಿಸುವ ಅಕ್ಷರ",
+        "D": "ಯೋಗವಾಹಗಳು ಸೇರಿ ರೂಪಿಸುವ ಅಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳು ಮಧ್ಯಸ್ವರ ಬಾರದಂತೆ ಸೇರಿ ರೂಪಿಸುವ ಅಕ್ಷರಸಂಯೋಜನೆಯನ್ನು ಸಂಯುಕ್ತಾಕ್ಷರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 40"
+    },
+        {
+      "id": "Q046",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರ ಮತ್ತು ಸಂಯುಕ್ತಾಕ್ಷರಗಳ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಒತ್ತಕ್ಷರವು ಸಂಯುಕ್ತಾಕ್ಷರ ರಚನೆಯಲ್ಲಿನ ಒಂದು ಸಾಮಾನ್ಯ ಲಿಪಿರೂಪ; ಸಂಯುಕ್ತಾಕ್ಷರವು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳ ಒಟ್ಟುಗೂಡಿದ ರೂಪಕ್ಕೆ ವಿಶಾಲ ಹೆಸರು",
+        "B": "ಸಂಯುಕ್ತಾಕ್ಷರವು ಒತ್ತಕ್ಷರ ರಚನೆಯಲ್ಲಿನ ಒಂದು ಸಾಮಾನ್ಯ ಲಿಪಿರೂಪ; ಒತ್ತಕ್ಷರವು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳ ಒಟ್ಟುಗೂಡಿದ ರೂಪಕ್ಕೆ ವಿಶಾಲ ಹೆಸರು",
+        "C": "ಎರಡೂ ಸಂಪೂರ್ಣವಾಗಿ ಒಂದೇ",
+        "D": "ಎರಡಕ್ಕೂ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒತ್ತಕ್ಷರವು ಸಂಯುಕ್ತಾಕ್ಷರ ರಚನೆಯಲ್ಲಿನ ಒಂದು ಸಾಮಾನ್ಯ ಲಿಪಿರೂಪ; ಸಂಯುಕ್ತಾಕ್ಷರವು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ವ್ಯಂಜನಗಳ ಒಟ್ಟುಗೂಡಿದ ರೂಪಕ್ಕೆ ವಿಶಾಲ ಹೆಸರು. ತಾಂತ್ರಿಕವಾಗಿ ಸಂಯುಕ್ತಾಕ್ಷರವು ರಚನೆಯ ವರ್ಗ; ಒತ್ತಕ್ಷರವು ಅದನ್ನು ಬರೆಯುವ ರೂಪ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 41"
+    },
+    {
+      "id": "Q047",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕ್ಷ ಮತ್ತು ಜ್ಞ ಯಾವ ರೀತಿಯ ಅಕ್ಷರಗಳು?",
+      "options": {
+        "A": "ಅವು ಸಂಯುಕ್ತಾಕ್ಷರ ರೂಪಗಳು; ಕ್ಷ = ಕ್ + ಷ, ಜ್ಞ = ಜ್ + ಞ",
+        "B": "ಅವು ಪ್ರತ್ಯೇಕ ಮೂಲ ವ್ಯಂಜನಗಳು",
+        "C": "ಅವು ಸ್ವರಗಳು",
+        "D": "ಅವು ಯೋಗವಾಹಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷ = ಕ್ + ಷ; ಜ್ಞ = ಜ್ + ಞ. ಇವು ಪ್ರತ್ಯೇಕ ಮೂಲ ವ್ಯಂಜನಗಳಲ್ಲ; ಸಂಯುಕ್ತ ವ್ಯಂಜನ ರೂಪಗಳು. ಕನ್ನಡದ ಅನೇಕ ಪದಗಳಲ್ಲಿ ಸಂಸ್ಕೃತ ಮೂಲದ ಬಳಕೆಯಿಂದ ಕಾಣುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 42"
+    },
+    {
+      "id": "Q048",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗುಣಿತಾಕ್ಷರ ಮತ್ತು ಒತ್ತಕ್ಷರಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಗುಣಿತಾಕ್ಷರದಲ್ಲಿ ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರ ಸೇರುತ್ತದೆ; ಒತ್ತಕ್ಷರದಲ್ಲಿ ಸ್ವರಹಿತ ವ್ಯಂಜನ ಮತ್ತೊಂದು ವ್ಯಂಜನಕ್ಕೆ ಸೇರುತ್ತದೆ",
+        "B": "ಗುಣಿತಾಕ್ಷರದಲ್ಲಿ ಸ್ವರಹಿತ ವ್ಯಂಜನ ಮತ್ತೊಂದು ವ್ಯಂಜನಕ್ಕೆ ಸೇರುತ್ತದೆ; ಒತ್ತಕ್ಷರದಲ್ಲಿ ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರ ಸೇರುತ್ತದೆ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಗುಣಿತಾಕ್ಷರದಲ್ಲಿ ಎರಡು ಸ್ವರಗಳು ಸೇರುತ್ತವೆ; ಒತ್ತಕ್ಷರದಲ್ಲಿ ಎರಡು ವ್ಯಂಜನಗಳು ಸೇರುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗುಣಿತಾಕ್ಷರದಲ್ಲಿ ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರ ಸೇರುತ್ತದೆ; ಒತ್ತಕ್ಷರದಲ್ಲಿ ಸ್ವರಹಿತ ವ್ಯಂಜನ ಮತ್ತೊಂದು ವ್ಯಂಜನಕ್ಕೆ ಸೇರುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 43"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಲ್ಪಪ್ರಾಣ ಧ್ವನಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಕಡಿಮೆ ಪ್ರಮಾಣದ ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಹೆಚ್ಚು ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನ",
+        "C": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸುವ ವ್ಯಂಜನ",
+        "D": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸದ ವ್ಯಂಜನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಕಡಿಮೆ ಪ್ರಮಾಣದ ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನವನ್ನು ಅಲ್ಪಪ್ರಾಣ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 44"
+    },
+    {
+      "id": "Q050",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಹಾಪ್ರಾಣ ಧ್ವನಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಹೆಚ್ಚು ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಕಡಿಮೆ ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನ",
+        "C": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸುವ ವ್ಯಂಜನ",
+        "D": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸದ ವ್ಯಂಜನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಹೆಚ್ಚು ಉಸಿರಿನ ಒತ್ತಡ ಅಥವಾ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆ ಇರುವ ವ್ಯಂಜನವನ್ನು ಮಹಾಪ್ರಾಣ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 45"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಲ್ಪಪ್ರಾಣ ಮತ್ತು ಮಹಾಪ್ರಾಣಗಳ ಜೋಡಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ-ಖ, ಗ-ಘ; ಚ-ಛ, ಜ-ಝ; ಟ-ಠ, ಡ-ಢ; ತ-ಥ, ದ-ಧ; ಪ-ಫ, ಬ-ಭ",
+        "B": "ಕ-ಗ, ಖ-ಘ; ಚ-ಜ, ಛ-ಝ; ಟ-ಡ, ಠ-ಢ; ತ-ದ, ಥ-ಧ; ಪ-ಬ, ಫ-ಭ",
+        "C": "ಕ-ಘ, ಗ-ಖ; ಚ-ಝ, ಜ-ಛ; ಟ-ಢ, ಡ-ಠ; ತ-ಧ, ದ-ಥ; ಪ-ಭ, ಬ-ಫ",
+        "D": "ಕ-ಙ, ಗ-ಞ; ಚ-ಣ, ಜ-ನ; ಟ-ಮ, ಡ-ಯ; ತ-ರ, ದ-ಲ; ಪ-ವ, ಬ-ಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಪಪ್ರಾಣ ಮತ್ತು ಮಹಾಪ್ರಾಣಗಳ ಜೋಡಿಗಳು: ಕ-ಖ, ಗ-ಘ; ಚ-ಛ, ಜ-ಝ; ಟ-ಠ, ಡ-ಢ; ತ-ಥ, ದ-ಧ; ಪ-ಫ, ಬ-ಭ. ಪ್ರತಿ ಜೋಡಿಯಲ್ಲಿ ಎರಡನೆಯ ಧ್ವನಿ ಮಹಾಪ್ರಾಣ ಉಚ್ಚಾರಣೆಯಲ್ಲಿ ಗಾಳಿಯ ಹೊರಸೂಸುವಿಕೆಯ ವ್ಯತ್ಯಾಸ ಮುಖ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 46"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಘೋಷ ಧ್ವನಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸುವ ವ್ಯಂಜನ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳಲ್ಲಿ ಕಂಪನ ಇಲ್ಲದ ಅಥವಾ ಬಹಳ ಕಡಿಮೆ ಇರುವ ವ್ಯಂಜನ",
+        "C": "ಉಚ್ಚರಿಸುವಾಗ ಹೆಚ್ಚು ಉಸಿರಿನ ಒತ್ತಡ ಇರುವ ವ್ಯಂಜನ",
+        "D": "ಉಚ್ಚರಿಸುವಾಗ ಕಡಿಮೆ ಉಸಿರಿನ ಒತ್ತಡ ಇರುವ ವ್ಯಂಜನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸುವ ವ್ಯಂಜನವನ್ನು ಘೋಷ ಧ್ವನಿ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 47"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಘೋಷ ಧ್ವನಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳಲ್ಲಿ ಕಂಪನ ಇಲ್ಲದ ಅಥವಾ ಬಹಳ ಕಡಿಮೆ ಇರುವ ವ್ಯಂಜನ",
+        "B": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳು ಕಂಪಿಸುವ ವ್ಯಂಜನ",
+        "C": "ಉಚ್ಚರಿಸುವಾಗ ಹೆಚ್ಚು ಉಸಿರಿನ ಒತ್ತಡ ಇರುವ ವ್ಯಂಜನ",
+        "D": "ಉಚ್ಚರಿಸುವಾಗ ಕಡಿಮೆ ಉಸಿರಿನ ಒತ್ತಡ ಇರುವ ವ್ಯಂಜನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳಲ್ಲಿ ಕಂಪನ ಇಲ್ಲದ ಅಥವಾ ಬಹಳ ಕಡಿಮೆ ಇರುವ ವ್ಯಂಜನವನ್ನು ಅಘೋಷ ಧ್ವನಿ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 48"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಘೋಷ-ಅಘೋಷ ಮತ್ತು ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣ ಒಂದೇ ವರ್ಗೀಕರಣವೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ. ಘೋಷ-ಅಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನವನ್ನು ಆಧರಿಸುತ್ತದೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಉಸಿರಿನ ಹೊರಸೂಸುವಿಕೆಯ ಪ್ರಮಾಣವನ್ನು ಆಧರಿಸುತ್ತದೆ",
+        "B": "ಹೌದು, ಎರಡೂ ಒಂದೇ ವರ್ಗೀಕರಣ",
+        "C": "ಇಲ್ಲ. ಘೋಷ-ಅಘೋಷವು ಉಸಿರಿನ ಹೊರಸೂಸುವಿಕೆಯನ್ನು ಆಧರಿಸುತ್ತದೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಸ್ವರತಂತುಗಳ ಕಂಪನವನ್ನು ಆಧರಿಸುತ್ತದೆ",
+        "D": "ಹೌದು, ಆದರೆ ಅವು ವ್ಯಂಜನಗಳಿಗೆ ಅನ್ವಯಿಸುವುದಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಲ್ಲ. ಘೋಷ-ಅಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನವನ್ನು ಆಧರಿಸುತ್ತದೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಉಸಿರಿನ ಹೊರಸೂಸುವಿಕೆಯ ಪ್ರಮಾಣವನ್ನು ಆಧರಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 49"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಮೊದಲ ಎರಡು ಅಕ್ಷರಗಳ ಗುಣವೇನು?",
+      "options": {
+        "A": "ಮೊದಲನೆಯದು ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಎರಡನೆಯದು ಅಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "B": "ಮೊದಲನೆಯದು ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಎರಡನೆಯದು ಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "C": "ಮೊದಲನೆಯದು ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಎರಡನೆಯದು ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ",
+        "D": "ಮೊದಲನೆಯದು ಘೋಷ ಮಹಾಪ್ರಾಣ; ಎರಡನೆಯದು ಘೋಷ ಅಲ್ಪಪ್ರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲನೆಯದು ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಎರಡನೆಯದು ಅಘೋಷ ಮಹಾಪ್ರಾಣ. ಉದಾಹರಣೆ: ಕವರ್ಗದಲ್ಲಿ ಕ ಮತ್ತು ಖ; ಚವರ್ಗದಲ್ಲಿ ಚ ಮತ್ತು ಛ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 50"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಮೂರನೇ ಮತ್ತು ನಾಲ್ಕನೇ ಅಕ್ಷರಗಳ ಗುಣವೇನು?",
+      "options": {
+        "A": "ಮೂರನೆಯದು ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ನಾಲ್ಕನೆಯದು ಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "B": "ಮೂರನೆಯದು ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ನಾಲ್ಕನೆಯದು ಅಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "C": "ಮೂರನೆಯದು ಘೋಷ ಮಹಾಪ್ರಾಣ; ನಾಲ್ಕನೆಯದು ಘೋಷ ಅಲ್ಪಪ್ರಾಣ",
+        "D": "ಮೂರನೆಯದು ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ನಾಲ್ಕನೆಯದು ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂರನೆಯದು ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ನಾಲ್ಕನೆಯದು ಘೋಷ ಮಹಾಪ್ರಾಣ. ಉದಾಹರಣೆ: ಕವರ್ಗದಲ್ಲಿ ಗ ಮತ್ತು ಘ; ಚವರ್ಗದಲ್ಲಿ ಜ ಮತ್ತು ಝ; ಟವರ್ಗದಲ್ಲಿ ಡ ಮತ್ತು ಢ; ತವರ್ಗದಲ್ಲಿ ದ ಮತ್ತು ಧ; ಪವರ್ಗದಲ್ಲಿ ಬ ಮತ್ತು ಭ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 51"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವರ್ಗದ ಐದನೇ ಅಕ್ಷರದ ಗುಣವೇನು?",
+      "options": {
+        "A": "ಐದನೆಯ ಅಕ್ಷರವು ಅನುನಾಸಿಕ ಮತ್ತು ಘೋಷ ಧ್ವನಿ",
+        "B": "ಐದನೆಯ ಅಕ್ಷರವು ಅನುನಾಸಿಕ ಮತ್ತು ಅಘೋಷ ಧ್ವನಿ",
+        "C": "ಐದನೆಯ ಅಕ್ಷರವು ಸ್ಪರ್ಶ ಮತ್ತು ಅಘೋಷ ಧ್ವನಿ",
+        "D": "ಐದನೆಯ ಅಕ್ಷರವು ಊಷ್ಮ ಮತ್ತು ಘೋಷ ಧ್ವನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದನೆಯ ಅಕ್ಷರವು ಅನುನಾಸಿಕ ಮತ್ತು ಘೋಷ ಧ್ವನಿ. ಉದಾಹರಣೆ: ಙ, ಞ, ಣ, ನ, ಮ — ಇವು ನಾಸಿಕ ಧ್ವನಿಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 52"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸುವಾಗ ನಾಲಿಗೆ, ತುಟಿ, ಹಲ್ಲು, ತಾಲು ಅಥವಾ ಕಂಠದ ಯಾವ ಭಾಗದಲ್ಲಿ ಮುಖ್ಯ ಸಂಘರ್ಷ/ಸಂಕೋಚನ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದೇ ಉಚ್ಚರಣಾ ಸ್ಥಾನ",
+        "B": "ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸುವಾಗ ಉಸಿರಿನ ಪ್ರಮಾಣ",
+        "C": "ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸುವಾಗ ಸ್ವರತಂತುಗಳ ಕಂಪನ",
+        "D": "ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸುವಾಗ ಕಾಲದ ಅವಧಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧ್ವನಿಯನ್ನು ಉಚ್ಚರಿಸುವಾಗ ನಾಲಿಗೆ, ತುಟಿ, ಹಲ್ಲು, ತಾಲು ಅಥವಾ ಕಂಠದ ಯಾವ ಭಾಗದಲ್ಲಿ ಮುಖ್ಯ ಸಂಘರ್ಷ/ಸಂಕೋಚನ ಉಂಟಾಗುತ್ತದೆ ಎಂಬುದೇ ಉಚ್ಚರಣಾ ಸ್ಥಾನ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 53"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂಠ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "B": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "C": "ನಾಲಿಗೆಯ ತುದಿ ಹಿಂದಕ್ಕೆ ಮಡಚಿ ಬಾಯಿಯ ಮೇಲ್ಭಾಗದ ಮೂರ್ಧನ್ಯವನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳನ್ನು ಕಂಠ್ಯ ಧ್ವನಿಗಳು ಎಂದು ಪಾರಿಭಾಷಿಕವಾಗಿ ಹೇಳಲಾಗುತ್ತದೆ. ಕವರ್ಗದ ಕ, ಖ, ಗ, ಘ, ಙ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 54"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತಾಲವ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "B": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "C": "ನಾಲಿಗೆಯ ತುದಿ ಹಿಂದಕ್ಕೆ ಮಡಚಿ ಬಾಯಿಯ ಮೇಲ್ಭಾಗದ ಮೂರ್ಧನ್ಯವನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು ತಾಲವ್ಯ. ಚ, ಛ, ಜ, ಝ, ಞ; ಯ ಮತ್ತು ಶಗಳನ್ನು ಸಹ ಪಾರಿಭಾಷಿಕವಾಗಿ ತಾಲವ್ಯ ಗುಂಪಿನಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 55"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮೂರ್ಧನ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನಾಲಿಗೆಯ ತುದಿ ಹಿಂದಕ್ಕೆ ಮಡಚಿ ಬಾಯಿಯ ಮೇಲ್ಭಾಗದ ಮೂರ್ಧನ್ಯವನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "B": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "C": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಲಿಗೆಯ ತುದಿ ಹಿಂದಕ್ಕೆ ಮಡಚಿ ಬಾಯಿಯ ಮೇಲ್ಭಾಗದ ಮೂರ್ಧನ್ಯವನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು ಮೂರ್ಧನ್ಯ. ಟ, ಠ, ಡ, ಢ, ಣ, ರ, ಷ, ಳ ಮುಂತಾದವುಗಳನ್ನು ಪಾರಿಭಾಷಿಕ ವರ್ಗೀಕರಣದಲ್ಲಿ ಮೂರ್ಧನ್ಯವೆಂದು ಹೇಳಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 56"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಂತ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "B": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "C": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ತುದಿ ಹಿಂದಕ್ಕೆ ಮಡಚಿ ಬಾಯಿಯ ಮೇಲ್ಭಾಗದ ಮೂರ್ಧನ್ಯವನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು ದಂತ್ಯ. ತ, ಥ, ದ, ಧ, ನ ಮತ್ತು ಸ ಮುಂತಾದವು ದಂತ್ಯ ಧ್ವನಿಗಳೆಂದು ಪಾರಂಪರಿಕವಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 57"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಓಷ್ಠ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಎರಡು ತುಟಿಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು",
+        "B": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗವು ಕಠಿಣ ತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "C": "ಕಂಠದ ಹಿಂಭಾಗ ಅಥವಾ ಮೃದುತಾಲುವಿನ ಸಮೀಪಕ್ಕೆ ಬಂದು ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ತುದಿ ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಮೀಪ ಅಥವಾ ಹಲ್ಲುಗಳನ್ನು ಸ್ಥಿತಿಸಿ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡು ತುಟಿಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು ಓಷ್ಠ್ಯ. ಪ, ಫ, ಬ, ಭ, ಮ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 58"
+    },
+        {
+      "id": "Q064",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಂತೋಷ್ಠ್ಯ ಧ್ವನಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೇಲಿನ ಹಲ್ಲು ಮತ್ತು ಕೆಳಗಿನ ತುಟಿಯ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿ",
+        "B": "ಎರಡು ತುಟಿಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿ",
+        "C": "ನಾಲಿಗೆಯ ತುದಿ ಮತ್ತು ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿ",
+        "D": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗ ಮತ್ತು ಕಠಿಣ ತಾಲುವಿನ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೇಲಿನ ಹಲ್ಲು ಮತ್ತು ಕೆಳಗಿನ ತುಟಿಯ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಯನ್ನು ದಂತೋಷ್ಠ್ಯ ಎನ್ನುತ್ತಾರೆ. ವ ಧ್ವನಿಯನ್ನು ಪಾರಂಪರಿಕ ಕನ್ನಡ/ಸಂಸ್ಕೃತ ಉಚ್ಚಾರಣಾ ವಿವರಣೆಯಲ್ಲಿ ದಂತೋಷ್ಠ್ಯ ಅಥವಾ ದಂತ-ಓಷ್ಠ್ಯ ಸ್ಥರೂಪದ ಧ್ವನಿಯಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 59"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಾಸಿಕ್ಯ ಧ್ವನಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಮೂಗಿನ ಮೂಲಕ ಗಾಳಿ ಹೊರಬಂದು ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು",
+        "B": "ಎರಡು ತುಟಿಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು",
+        "C": "ನಾಲಿಗೆಯ ತುದಿ ಮತ್ತು ಮೇಲಿನ ಹಲ್ಲುಗಳ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು",
+        "D": "ನಾಲಿಗೆಯ ಮಧ್ಯಭಾಗ ಮತ್ತು ಕಠಿಣ ತಾಲುವಿನ ಸಹಾಯದಿಂದ ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂಗಿನ ಮೂಲಕ ಗಾಳಿ ಹೊರಬಂದು ಉಚ್ಚರಿಸಲ್ಪಡುವ ಧ್ವನಿಗಳು ನಾಸಿಕ್ಯ ಧ್ವನಿಗಳು. ಙ, ಞ, ಣ, ನ, ಮ ಮುಖ್ಯ ನಾಸಿಕ ವ್ಯಂಜನಗಳು. ಅನುಸ್ವಾರವೂ ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 60"
+    },
+    {
+      "id": "Q066",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಐದು ಮುಖ್ಯ ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ್ಯ ಮತ್ತು ಓಷ್ಠ್ಯ",
+        "B": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ್ಯ ಮತ್ತು ನಾಸಿಕ್ಯ",
+        "C": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ್ಯ ಮತ್ತು ದಂತೋಷ್ಠ್ಯ",
+        "D": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ಓಷ್ಠ್ಯ ಮತ್ತು ದಂತೋಷ್ಠ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದು ಮುಖ್ಯ ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳು: ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ್ಯ ಮತ್ತು ಓಷ್ಠ್ಯ. ಕವರ್ಗ-ಕಂಠ; ಚವರ್ಗ-ತಾಲವ್ಯ; ಟವರ್ಗ-ಮೂರ್ಧನ್ಯ; ತವರ್ಗ-ದಂತ್ಯ; ಪವರ್ಗ-ಓಷ್ಠ್ಯ ಎಂಬ ಕ್ರಮ ನೆನಪಿಡಿ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳನ್ನು ಹೀಗೆ ನೆನಪಿಡಬಹುದು?",
+      "options": {
+        "A": "ಕ-ಚ-ಟ-ತ-ಪ ವರ್ಗಗಳ ಕ್ರಮವೇ ಕಂಠ-ತಾಲು-ಮೂರ್ಧನ್ಯ-ಹಲ್ಲು-ತುಟಿ ಎಂಬ ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "B": "ಕ-ಚ-ಟ-ತ-ಪ ವರ್ಗಗಳ ಕ್ರಮವೇ ತುಟಿ-ಹಲ್ಲು-ಮೂರ್ಧನ್ಯ-ತಾಲು-ಕಂಠ ಎಂಬ ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "C": "ಕ-ಚ-ಟ-ತ-ಪ ವರ್ಗಗಳ ಕ್ರಮವೇ ಹಲ್ಲು-ತುಟಿ-ಕಂಠ-ತಾಲು-ಮೂರ್ಧನ್ಯ ಎಂಬ ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "D": "ಕ-ಚ-ಟ-ತ-ಪ ವರ್ಗಗಳ ಕ್ರಮವೇ ಮೂರ್ಧನ್ಯ-ದಂತ್ಯ-ಓಷ್ಠ್ಯ-ಕಂಠ-ತಾಲವ್ಯ ಎಂಬ ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ-ಚ-ಟ-ತ-ಪ ವರ್ಗಗಳ ಕ್ರಮವೇ ಕಂಠ-ತಾಲು-ಮೂರ್ಧನ್ಯ-ಹಲ್ಲು-ತುಟಿ ಎಂಬ ಕ್ರಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಪರೀಕ್ಷೆಗೆ ಅತ್ಯಂತ ಉಪಯುಕ್ತ ನೆನಪಿನ ಸೂತ್ರ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 62"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada",
+      "topic": "Akshara Samyojane",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ ಸಂಯೋಜನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ವರ, ವ್ಯಂಜನ, ಸ್ವರಮಾತ್ರೆ ಮತ್ತು ಅಗತ್ಯವಿದ್ದಲ್ಲಿ ಒತ್ತಕ್ಷರಗಳನ್ನು ನಿಯಮಾನುಸಾರ ಸೇರಿಸಿ ಬರಹದ ಪದ ಅಥವಾ ಅಕ್ಷರರೂಪ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆ",
+        "B": "ಪದವನ್ನು ಅದರ ಅರ್ಥಪೂರ್ಣ ಭಾಗಗಳಾಗಿ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆ",
+        "C": "ಎರಡು ಪದಗಳನ್ನು ಸೇರಿಸಿ ಸಂಧಿ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ",
+        "D": "ವಾಕ್ಯವನ್ನು ಪದಗಳಾಗಿ ಬೇರ್ಪಡಿಸುವ ಪ್ರಕ್ರಿಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರ, ವ್ಯಂಜನ, ಸ್ವರಮಾತ್ರೆ ಮತ್ತು ಅಗತ್ಯವಿದ್ದಲ್ಲಿ ಒತ್ತಕ್ಷರಗಳನ್ನು ನಿಯಮಾನುಸಾರ ಸೇರಿಸಿ ಬರಹದ ಪದ ಅಥವಾ ಅಕ್ಷರರೂಪ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆಯೇ ಅಕ್ಷರ ಸಂಯೋಜನೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 63"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದವಿಚ್ಛೇದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಪದವನ್ನು ಅದರ ಅರ್ಥಪೂರ್ಣ ಭಾಗಗಳು, ಅಕ್ಷರಗಳು ಅಥವಾ ಸಂಯುಕ್ತ ಘಟಕಗಳಾಗಿ ಬೇರ್ಪಡಿಸುವುದು",
+        "B": "ಎರಡು ಪದಗಳನ್ನು ಸೇರಿಸಿ ಒಂದು ಪದ ಮಾಡುವುದು",
+        "C": "ಒಂದು ವಾಕ್ಯವನ್ನು ರಚಿಸುವುದು",
+        "D": "ಒಂದು ಪದದ ಅರ್ಥವನ್ನು ವಿವರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಪದವನ್ನು ಅದರ ಅರ್ಥಪೂರ್ಣ ಭಾಗಗಳು, ಅಕ್ಷರಗಳು ಅಥವಾ ಸಂಯುಕ್ತ ಘಟಕಗಳಾಗಿ ಬೇರ್ಪಡಿಸುವುದನ್ನು ಪದವಿಚ್ಛೇದ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 64"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರಮಟ್ಟದ ಪದವಿಚ್ಛೇದ ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದದಲ್ಲಿರುವ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರ ಘಟಕಗಳನ್ನು ಗುರುತಿಸಿ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಪದದಲ್ಲಿರುವ ಪ್ರತ್ಯಯಗಳನ್ನು ಮಾತ್ರ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ",
+        "C": "ಪದದಲ್ಲಿರುವ ಸಂಧಿ ಭಾಗಗಳನ್ನು ಮಾತ್ರ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ",
+        "D": "ಪದದಲ್ಲಿರುವ ರೂಪಿಮೆಗಳನ್ನು ಮಾತ್ರ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದದಲ್ಲಿರುವ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರ ಘಟಕಗಳನ್ನು ಗುರುತಿಸಿ ಬೇರ್ಪಡಿಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆ: 'ಮನೆ' → ಮ + ನೆ, 'ಕಮಲ' → ಕ + ಮ + ಲ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 65"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರೂಪಿಮಾ ಆಧಾರಿತ ಪದವಿಚ್ಛೇದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪದದ ಮೂಲರೂಪ ಮತ್ತು ಅದಕ್ಕೆ ಸೇರಿದ ಪ್ರತ್ಯಯಗಳನ್ನು ಅರ್ಥದ ಆಧಾರದ ಮೇಲೆ ಬೇರ್ಪಡಿಸುವುದು",
+        "B": "ಪದದಲ್ಲಿರುವ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+        "C": "ಪದದಲ್ಲಿರುವ ಸಂಧಿ ಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು",
+        "D": "ಪದವನ್ನು ವಾಕ್ಯದಿಂದ ಬೇರ್ಪಡಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದದ ಮೂಲರೂಪ ಮತ್ತು ಅದಕ್ಕೆ ಸೇರಿದ ಪ್ರತ್ಯಯಗಳನ್ನು ಅರ್ಥದ ಆಧಾರದ ಮೇಲೆ ಬೇರ್ಪಡಿಸುವುದು ರೂಪಿಮಾ ಆಧಾರಿತ ಪದವಿಚ್ಛೇದ. ಉದಾಹರಣೆ: ಮನೆಗಳು = ಮನೆ + ಗಳು; ಮಕ್ಕಳಿಗೆ = ಮಗು/ಮಕ್ಕಳು ಎಂಬ ರೂಪಬದಲಾವಣೆ + ಗೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 66"
+    },
+    {
+      "id": "Q072",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಂಧಿ ವಿಚ್ಛೇದ ಮತ್ತು ಸಾಮಾನ್ಯ ಪದವಿಚ್ಛೇದ ಒಂದೇ ಆಗಿವೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಸಂಧಿ ವಿಚ್ಛೇದವು ಸಂಧಿಯಿಂದ ಸೇರಿದ ಪದಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ; ಸಾಮಾನ್ಯ ಪದವಿಚ್ಛೇದವು ಅಕ್ಷರ ಅಥವಾ ರೂಪಿಮಾ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಬಹುದು",
+        "B": "ಹೌದು, ಎರಡೂ ಒಂದೇ",
+        "C": "ಇಲ್ಲ, ಸಂಧಿ ವಿಚ್ಛೇದವು ಅಕ್ಷರಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ; ಸಾಮಾನ್ಯ ಪದವಿಚ್ಛೇದವು ಸಂಧಿ ಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ",
+        "D": "ಹೌದು, ಆದರೆ ಅವು ಕೇವಲ ಸಂಸ್ಕೃತ ಪದಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಲ್ಲ, ಸಂಧಿ ವಿಚ್ಛೇದವು ಸಂಧಿಯಿಂದ ಸೇರಿದ ಪದಭಾಗಗಳನ್ನು ಬೇರ್ಪಡಿಸುತ್ತದೆ; ಸಾಮಾನ್ಯ ಪದವಿಚ್ಛೇದವು ಅಕ್ಷರ ಅಥವಾ ರೂಪಿಮಾ ಘಟಕಗಳನ್ನು ಬೇರ್ಪಡಿಸಬಹುದು. ಉದಾಹರಣೆ: ದೇವಾಲಯ = ದೇವ + ಆಲಯ ಎಂಬ ಪದರಚನಾ ವಿವರಣೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 67"
+    },
+    {
+      "id": "Q073",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದವನ್ನು ಸರಿಯಾಗಿ ಬರೆಯಲು ಯಾವ ಅಂಶಗಳನ್ನು ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅಕ್ಷರಕ್ರಮ, ಸ್ವರಮಾತ್ರೆ, ಒತ್ತಕ್ಷರ, ಅನುಸ್ವಾರ-ವಿಸರ್ಗ ಮತ್ತು ಸಂಧಿ/ರೂಪಸಂಯೋಜನೆ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಕ್ರಮ ಮತ್ತು ಸ್ವರಮಾತ್ರೆ",
+        "C": "ಕೇವಲ ಒತ್ತಕ್ಷರ ಮತ್ತು ಅನುಸ್ವಾರ-ವಿಸರ್ಗ",
+        "D": "ಕೇವಲ ಸಂಧಿ ಮತ್ತು ರೂಪಸಂಯೋಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರಕ್ರಮ, ಸ್ವರಮಾತ್ರೆ, ಒತ್ತಕ್ಷರ, ಅನುಸ್ವಾರ-ವಿಸರ್ಗ ಮತ್ತು ಸಂಧಿ/ರೂಪಸಂಯೋಜನೆ — ಈ ಎಲ್ಲ ಅಂಶಗಳನ್ನು ಗಮನಿಸಬೇಕು. ಉದಾಹರಣೆ: 'ಅಕ್ಕ', 'ಅನ್ನ', 'ಕಣ್ಣು', 'ಸಂಸ್ಥಿತಿ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪಾತ್ರ ಮುಖ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 68"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಮಾನ್ಯ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯ ಲೆಕ್ಕ ಎಷ್ಟು?",
+      "options": {
+        "A": "13 ಸ್ವರ + 34 ವ್ಯಂಜನ + 2 ಯೋಗವಾಹ = 49",
+        "B": "13 ಸ್ವರ + 34 ವ್ಯಂಜನ + 1 ಯೋಗವಾಹ = 48",
+        "C": "13 ಸ್ವರ + 25 ವ್ಯಂಜನ + 2 ಯೋಗವಾಹ = 40",
+        "D": "13 ಸ್ವರ + 34 ವ್ಯಂಜನ + 3 ಯೋಗವಾಹ = 50"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಕನ್ನಡ ವರ್ಣಮಾಲೆಯ ಲೆಕ್ಕ: 13 ಸ್ವರ + 34 ವ್ಯಂಜನ + 2 ಯೋಗವಾಹ = 49. ಪಠ್ಯಪುಸ್ತಕದ ಎಣಿಕೆ ಪರಿಶೀಲಿಸಿ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹ್ರಸ್ವ ಸ್ವರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅ, ಇ, ಉ, ಋ, ಎ, ಒ",
+        "B": "ಆ, ಈ, ಊ, ೠ, ಏ, ಓ",
+        "C": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ",
+        "D": "ಎ, ಏ, ಐ, ಒ, ಓ, ಔ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹ್ರಸ್ವ ಸ್ವರಗಳು: ಅ, ಇ, ಉ, ಋ, ಎ, ಒ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q076",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೀರ್ಘ ಸ್ವರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆ, ಈ, ಊ, ೠ, ಏ, ಐ, ಓ, ಔ",
+        "B": "ಅ, ಇ, ಉ, ಋ, ಎ, ಒ",
+        "C": "ಅ, ಆ, ಇ, ಈ, ಉ, ಊ",
+        "D": "ಎ, ಏ, ಐ, ಒ, ಓ, ಔ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೀರ್ಘ ಸ್ವರಗಳು: ಆ, ಈ, ಊ, ೠ, ಏ, ಐ, ಓ, ಔ (ಪರಿಭಾಷೆಯ ವರ್ಗೀಕರಣದಲ್ಲಿ).",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ಲುತ ಸ್ವರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "B": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "C": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ",
+        "D": "ನಾಲ್ಕು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲ ಉಚ್ಚರಿಸುವ ಸ್ವರವನ್ನು ಪ್ಲುತ ಸ್ವರ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಮತ್ತು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು ಎಷ್ಟು?",
+      "options": {
+        "A": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 25; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 9",
+        "B": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 24; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 10",
+        "C": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 25; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 8",
+        "D": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 20; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 14"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 25; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು — 9.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q079",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಯ, ರ, ಲ, ವ",
+        "B": "ಶ, ಷ, ಸ, ಹ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು: ಯ, ರ, ಲ, ವ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಊಷ್ಮ ವ್ಯಂಜನಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಶ, ಷ, ಸ, ಹ",
+        "B": "ಯ, ರ, ಲ, ವ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಊಷ್ಮ ವ್ಯಂಜನಗಳು: ಶ, ಷ, ಸ, ಹ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನುನಾಸಿಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "B": "ಯ, ರ, ಲ, ವ",
+        "C": "ಶ, ಷ, ಸ, ಹ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುನಾಸಿಕಗಳು: ಙ, ಞ, ಣ, ನ, ಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯೋಗವಾಹಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅನುಸ್ವಾರ (ಂ), ವಿಸರ್ಗ (ಃ)",
+        "B": "ಅನುಸ್ವಾರ (ಂ), ಚಂದ್ರಬಿಂದು (ಁ)",
+        "C": "ವಿಸರ್ಗ (ಃ), ಅವಗ್ರಹ (ಽ)",
+        "D": "ಅನುಸ್ವಾರ (ಂ), ವಿಸರ್ಗ (ಃ), ಚಂದ್ರಬಿಂದು (ಁ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯೋಗವಾಹಗಳು: ಅನುಸ್ವಾರ (ಂ), ವಿಸರ್ಗ (ಃ).",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಐದು ವರ್ಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ ಖ ಗ ಘ ಙ / ಚ ಛ ಜ ಝ ಞ / ಟ ಠ ಡ ಢ ಣ / ತ ಥ ದ ಧ ನ / ಪ ಫ ಬ ಭ ಮ",
+        "B": "ಕ ಖ ಗ ಘ ಙ / ಚ ಛ ಜ ಝ ಞ / ಟ ಠ ಡ ಢ ಣ / ತ ಥ ದ ಧ ನ / ಪ ಫ ಬ ಭ ಯ",
+        "C": "ಕ ಖ ಗ ಘ ಙ / ಚ ಛ ಜ ಝ ಞ / ಟ ಠ ಡ ಢ ಣ / ತ ಥ ದ ಧ ನ / ಪ ಫ ಬ ಭ ರ",
+        "D": "ಕ ಖ ಗ ಘ ಙ / ಚ ಛ ಜ ಝ ಞ / ಟ ಠ ಡ ಢ ಣ / ತ ಥ ದ ಧ ನ / ಪ ಫ ಬ ಭ ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದು ವರ್ಗಗಳು: ಕವರ್ಗ (ಕ ಖ ಗ ಘ ಙ), ಚವರ್ಗ (ಚ ಛ ಜ ಝ ಞ), ಟವರ್ಗ (ಟ ಠ ಡ ಢ ಣ), ತವರ್ಗ (ತ ಥ ದ ಧ ನ), ಪವರ್ಗ (ಪ ಫ ಬ ಭ ಮ).",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣ ಜೋಡಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ-ಖ, ಗ-ಘ, ಚ-ಛ, ಜ-ಝ, ಟ-ಠ, ಡ-ಢ, ತ-ಥ, ದ-ಧ, ಪ-ಫ, ಬ-ಭ",
+        "B": "ಕ-ಗ, ಖ-ಘ, ಚ-ಜ, ಛ-ಝ, ಟ-ಡ, ಠ-ಢ, ತ-ದ, ಥ-ಧ, ಪ-ಬ, ಫ-ಭ",
+        "C": "ಕ-ಘ, ಗ-ಖ, ಚ-ಝ, ಜ-ಛ, ಟ-ಢ, ಡ-ಠ, ತ-ಧ, ದ-ಥ, ಪ-ಭ, ಬ-ಫ",
+        "D": "ಕ-ಙ, ಗ-ಞ, ಚ-ಣ, ಜ-ನ, ಟ-ಮ, ಡ-ಯ, ತ-ರ, ದ-ಲ, ಪ-ವ, ಬ-ಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣ ಜೋಡಿಗಳು: ಕ-ಖ, ಗ-ಘ, ಚ-ಛ, ಜ-ಝ, ಟ-ಠ, ಡ-ಢ, ತ-ಥ, ದ-ಧ, ಪ-ಫ, ಬ-ಭ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಘೋಷ-ಅಘೋಷ ಮತ್ತು ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣಗಳು ಯಾವುದಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ?",
+      "options": {
+        "A": "ಘೋಷ-ಅಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಉಸಿರಿನ ಒತ್ತಡಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ",
+        "B": "ಘೋಷ-ಅಘೋಷವು ಉಸಿರಿನ ಒತ್ತಡಕ್ಕೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ",
+        "C": "ಎರಡೂ ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ",
+        "D": "ಎರಡೂ ಉಸಿರಿನ ಒತ್ತಡಕ್ಕೆ ಸಂಬಂಧಿಸಿವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಘೋಷ-ಅಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ; ಅಲ್ಪಪ್ರಾಣ-ಮಹಾಪ್ರಾಣವು ಉಸಿರಿನ ಒತ್ತಡಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+        {
+      "id": "Q086",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳ ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ",
+        "B": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ಓಷ್ಠ್ಯ, ದಂತ",
+        "C": "ತಾಲವ್ಯ, ಕಂಠ, ಮೂರ್ಧನ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ",
+        "D": "ಕಂಠ, ಮೂರ್ಧನ್ಯ, ತಾಲವ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳ ಕ್ರಮ: ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದಂತೋಷ್ಠ್ಯ ಧ್ವನಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವ",
+        "B": "ಯ",
+        "C": "ರ",
+        "D": "ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಂತೋಷ್ಠ್ಯ — ವ (ಪಾರಂಪರಿಕ ವರ್ಣನೆ).",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಾಗುಣಿತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರಮಾತ್ರೆ ಸೇರಿಸುವ ಕ್ರಮ",
+        "B": "ಸ್ವರಹಿತ ವ್ಯಂಜನದ ಸಂಯೋಜನೆ",
+        "C": "ಎರಡು ಸ್ವರಗಳ ಸಂಯೋಜನೆ",
+        "D": "ಯೋಗವಾಹಗಳ ಸಂಯೋಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಗುಣಿತ — ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರಮಾತ್ರೆ ಸೇರಿಸುವ ಕ್ರಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada",
+      "topic": "Punarevalu",
+      "chapter": "Pareekshege Tvarita Punarevalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸ್ವರಹಿತ ವ್ಯಂಜನದ ಸಂಯೋಜನೆ",
+        "B": "ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರಮಾತ್ರೆ ಸೇರಿಸುವ ಕ್ರಮ",
+        "C": "ಎರಡು ಸ್ವರಗಳ ಸಂಯೋಜನೆ",
+        "D": "ಯೋಗವಾಹಗಳ ಸಂಯೋಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒತ್ತಕ್ಷರ — ಸ್ವರಹಿತ ವ್ಯಂಜನದ ಸಂಯೋಜನೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 9"
+    },
+    {
+      "id": "Q090",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣ ಮತ್ತು ಅಕ್ಷರ ಒಂದೇನಾ?",
+      "options": {
+        "A": "ಸಂಪೂರ್ಣವಾಗಿ ಒಂದೇ ಅಲ್ಲ; ವರ್ಣವು ಧ್ವನಿಯ ಘಟಕ; ಅಕ್ಷರವು ಅದರ ಲಿಖಿತ ರೂಪ",
+        "B": "ಹೌದು, ಎರಡೂ ಒಂದೇ",
+        "C": "ಇಲ್ಲ; ವರ್ಣವು ಲಿಖಿತ ರೂಪ; ಅಕ್ಷರವು ಧ್ವನಿಯ ಘಟಕ",
+        "D": "ಹೌದು, ಆದರೆ ಕೇವಲ ಸ್ವರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಪೂರ್ಣವಾಗಿ ಒಂದೇ ಅಲ್ಲ; ವರ್ಣವು ಧ್ವನಿಯ ಘಟಕ; ಅಕ್ಷರವು ಅದರ ಲಿಖಿತ ರೂಪ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Section 10"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಐ ಮತ್ತು ಔ ಸರಳ ಸ್ವರಗಳೇ?",
+      "options": {
+        "A": "ಪಾರಂಪರಿಕ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು; ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಸಂಯುಕ್ತಸ್ವರಗಳು",
+        "B": "ಎರಡೂ ಕಡೆ ಸರಳ ಸ್ವರಗಳು",
+        "C": "ಎರಡೂ ಕಡೆ ಸಂಯುಕ್ತಸ್ವರಗಳು",
+        "D": "ಪಾರಂಪರಿಕ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸಂಯುಕ್ತಸ್ವರಗಳು; ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಸರಳ ಸ್ವರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಾರಂಪರಿಕ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು; ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಸಂಯುಕ್ತಸ್ವರಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕ್ಷ ಮತ್ತು ಜ್ಞ ಪ್ರತ್ಯೇಕ ಮೂಲ ವ್ಯಂಜನಗಳೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ. ಅವು ಸಂಯುಕ್ತಾಕ್ಷರಗಳು",
+        "B": "ಹೌದು, ಅವು ಪ್ರತ್ಯೇಕ ಮೂಲ ವ್ಯಂಜನಗಳು",
+        "C": "ಇಲ್ಲ. ಅವು ಸ್ವರಗಳು",
+        "D": "ಹೌದು, ಆದರೆ ಅವು ಯೋಗವಾಹಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಲ್ಲ. ಅವು ಸಂಯುಕ್ತಾಕ್ಷರಗಳು. ಕ್ಷ = ಕ್ + ಷ; ಜ್ಞ = ಜ್ + ಞ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q093",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರ ಮತ್ತು ಅನುನಾಸಿಕ ಒಂದೇನಾ?",
+      "options": {
+        "A": "ಅಲ್ಲ. ಅನುಸ್ವಾರ ಒಂದು ಲಿಪಿಚಿಹ್ನೆ (ಂ); ಅನುನಾಸಿಕವು ಮೂಗಿನ ಮೂಲಕ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳ ವರ್ಗ",
+        "B": "ಹೌದು, ಎರಡೂ ಒಂದೇ",
+        "C": "ಅಲ್ಲ. ಅನುಸ್ವಾರವು ಧ್ವನಿಗಳ ವರ್ಗ; ಅನುನಾಸಿಕವು ಲಿಪಿಚಿಹ್ನೆ",
+        "D": "ಹೌದು, ಆದರೆ ಕೇವಲ ವ್ಯಂಜನಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಲ. ಅನುಸ್ವಾರ ಒಂದು ಲಿಪಿಚಿಹ್ನೆ (ಂ); ಅನುನಾಸಿಕವು ಮೂಗಿನ ಮೂಲಕ ಉಚ್ಚರಿಸುವ ಧ್ವನಿಗಳ ವರ್ಗ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q094",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಘೋಷ ಎಂದರೆ ಜೋರಾಗಿ ಉಚ್ಚರಿಸುವುದೇ?",
+      "options": {
+        "A": "ಅಲ್ಲ. ಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ; ಧ್ವನಿಯ ಜೋರಿಗೆ ಅಲ್ಲ",
+        "B": "ಹೌದು, ಘೋಷ ಎಂದರೆ ಜೋರಾಗಿ ಉಚ್ಚರಿಸುವುದು",
+        "C": "ಅಲ್ಲ. ಘೋಷವು ಉಸಿರಿನ ಒತ್ತಡಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ",
+        "D": "ಹೌದು, ಆದರೆ ಕೇವಲ ಸ್ವರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಲ. ಘೋಷವು ಸ್ವರತಂತುಗಳ ಕಂಪನಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ; ಧ್ವನಿಯ ಜೋರಿಗೆ ಅಲ್ಲ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q095",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾಗುಣಿತ ಮತ್ತು ಗುಣಿತಾಕ್ಷರ ಒಂದೇನಾ?",
+      "options": {
+        "A": "ಗುಣಿತಾಕ್ಷರವು ಒಂದು ರೂಪ; ಕಾಗುಣಿತವು ಅಂತಹ ರೂಪಗಳ ಕ್ರಮ/ಪಟ್ಟಿ",
+        "B": "ಹೌದು, ಎರಡೂ ಒಂದೇ",
+        "C": "ಇಲ್ಲ; ಕಾಗುಣಿತವು ಒಂದು ರೂಪ; ಗುಣಿತಾಕ್ಷರವು ಅಂತಹ ರೂಪಗಳ ಕ್ರಮ/ಪಟ್ಟಿ",
+        "D": "ಹೌದು, ಆದರೆ ಕೇವಲ ವ್ಯಂಜನಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗುಣಿತಾಕ್ಷರವು ಒಂದು ರೂಪ; ಕಾಗುಣಿತವು ಅಂತಹ ರೂಪಗಳ ಕ್ರಮ/ಪಟ್ಟಿ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q096",
+      "subject": "Kannada",
+      "topic": "Samanya Tappugalu",
+      "chapter": "Samanya Tappugalu mattu Srushtikaranagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ಲುತ ಸ್ವರ ಸಾಮಾನ್ಯ ಕನ್ನಡದಲ್ಲಿ ಪ್ರತಿದಿನ ಬಳಕೆಯಲ್ಲಿದೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ. ಅದು ಮುಖ್ಯವಾಗಿ ವೈದಿಕ/ಸಂಸ್ಕೃತ ಪಠಣದ ಉಚ್ಚಾರಣಾ ಪರಿಕಲ್ಪನೆ",
+        "B": "ಹೌದು, ಪ್ರತಿದಿನ ಬಳಕೆಯಲ್ಲಿದೆ",
+        "C": "ಹೌದು, ಆದರೆ ಕೇವಲ ವ್ಯಂಜನಗಳಿಗೆ",
+        "D": "ಇಲ್ಲ, ಅದು ಕೇವಲ ಲಿಖಿತ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಲ್ಲ. ಅದು ಮುಖ್ಯವಾಗಿ ವೈದಿಕ/ಸಂಸ್ಕೃತ ಪಠಣದ ಉಚ್ಚಾರಣಾ ಪರಿಕಲ್ಪನೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 10, Section 10"
+    },
+    {
+      "id": "Q097",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯ ಎಣಿಕೆ ಪಠ್ಯಪುಸ್ತಕ ಅಥವಾ ವ್ಯಾಕರಣ ಪರಂಪರೆಯ ಪ್ರಕಾರ ಸ್ವಲ್ಪ ಬದಲಾಗಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸಿ, ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಕೆಲವು ಪಠ್ಯಪುಸ್ತಕಗಳು ಖು / ಖೂ ಅಥವಾ ಐತಿಹಾಸಿಕ ಅಕ್ಷರಗಳ ಎಣಿಕೆಯಲ್ಲಿ ಬೇರೆ ವಿಧಾನ ಬಳಸಬಹುದು; ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪಠ್ಯಪುಸ್ತಕದ ಪದ್ಧತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ",
+        "B": "ಎಲ್ಲಾ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಒಂದೇ ಎಣಿಕೆ ಇರುತ್ತದೆ",
+        "C": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಯಾವುದೇ ಐತಿಹಾಸಿಕ ಅಕ್ಷರಗಳಿಲ್ಲ",
+        "D": "ಖು / ಖೂ ಅಕ್ಷರಗಳು ಯಾವುದೇ ಪಠ್ಯಪುಸ್ತಕದಲ್ಲಿ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪಠ್ಯಪುಸ್ತಕಗಳು ಖು / ಖೂ ಅಥವಾ ಐತಿಹಾಸಿಕ ಅಕ್ಷರಗಳ ಎಣಿಕೆಯಲ್ಲಿ ಬೇರೆ ವಿಧಾನ ಬಳಸಬಹುದು. ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಪಠ್ಯಪುಸ್ತಕದ ಪದ್ಧತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+    {
+      "id": "Q098",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ, ವರ್ಣ, ಧ್ವನಿ, ಮಾತ್ರೆ, ಗುಣಿತಾಕ್ಷರ, ಒತ್ತಕ್ಷರ ಮತ್ತು ಸಂಯುಕ್ತಾಕ್ಷರ ಎಂಬ ಪದಗಳನ್ನು ಪರಸ್ಪರ ಬದಲಾಗಿ ಬಳಸಬಹುದೇ?",
+      "options": {
+        "A": "ಬಳಸಬಾರದು; ಅವುಗಳ ಅರ್ಥದಲ್ಲಿ ವ್ಯತ್ಯಾಸವಿದೆ",
+        "B": "ಬಳಸಬಹುದು; ಅವುಗಳ ಅರ್ಥದಲ್ಲಿ ವ್ಯತ್ಯಾಸವಿಲ್ಲ",
+        "C": "ಕೇವಲ ಅಕ್ಷರ ಮತ್ತು ವರ್ಣಗಳನ್ನು ಬದಲಾಗಿ ಬಳಸಬಹುದು",
+        "D": "ಕೇವಲ ಗುಣಿತಾಕ್ಷರ ಮತ್ತು ಒತ್ತಕ್ಷರಗಳನ್ನು ಬದಲಾಗಿ ಬಳಸಬಹುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರ, ವರ್ಣ, ಧ್ವನಿ, ಮಾತ್ರೆ, ಗುಣಿತಾಕ್ಷರ, ಒತ್ತಕ್ಷರ ಮತ್ತು ಸಂಯುಕ್ತಾಕ್ಷರ ಎಂಬ ಪದಗಳನ್ನು ಪರಸ್ಪರ ಬದಲಾಗಿ ಬಳಸಬಾರದು. ಅವುಗಳ ಅರ್ಥದಲ್ಲಿ ವ್ಯತ್ಯಾಸವಿದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 3"
+    },
+    {
+      "id": "Q099",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವ್ಯಂಜನಗಳ ಜೊತೆ ಬಳಕೆಯಾಗುವ ಸ್ವರಮಾತ್ರೆಗಳು ಮತ್ತು ಸ್ವತಂತ್ರ ಸ್ವರಾಕ್ಷರಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ ಕಲಿಯಬೇಕು. ಈ ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಸ್ವರಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಬಹುದು; ಸ್ವರಮಾತ್ರೆಗಳು ವ್ಯಂಜನಗಳ ಜೊತೆ ಬಳಕೆಯಾಗುತ್ತವೆ",
+        "B": "ಸ್ವರಗಳು ವ್ಯಂಜನಗಳ ಜೊತೆ ಮಾತ್ರ ಬಳಕೆಯಾಗುತ್ತವೆ",
+        "C": "ಸ್ವರಮಾತ್ರೆಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಬಹುದು",
+        "D": "ಸ್ವರಗಳು ಮತ್ತು ಸ್ವರಮಾತ್ರೆಗಳು ಒಂದೇ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ವರಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಬಹುದು; ಸ್ವರಮಾತ್ರೆಗಳು ವ್ಯಂಜನಗಳ ಜೊತೆ ಬಳಕೆಯಾಗುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 8"
+    },
+    {
+      "id": "Q100",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಋ ಮತ್ತು ೠ ಸ್ವರಗಳ ಬಗ್ಗೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಋ ಹ್ರಸ್ವ ಸ್ವರ; ೠ ದೀರ್ಘ ಸ್ವರ. ಆದರೆ ಈ ಸ್ವರಗಳು ಸಾಮಾನ್ಯ ಆಧುನಿಕ ಕನ್ನಡ ಪದಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರವಾಗಿ ಹೆಚ್ಚಾಗಿ ಬಳಕೆಯಾಗುವುದಿಲ್ಲ",
+        "B": "ಋ ದೀರ್ಘ ಸ್ವರ; ೠ ಹ್ರಸ್ವ ಸ್ವರ",
+        "C": "ಎರಡೂ ಹ್ರಸ್ವ ಸ್ವರಗಳು",
+        "D": "ಎರಡೂ ದೀರ್ಘ ಸ್ವರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಋ ಹ್ರಸ್ವ ಸ್ವರ; ೠ ದೀರ್ಘ ಸ್ವರ. ಆದರೆ ಈ ಸ್ವರಗಳು ಸಾಮಾನ್ಯ ಆಧುನಿಕ ಕನ್ನಡ ಪದಗಳಲ್ಲಿ ಪ್ರತ್ಯೇಕ ಅಕ್ಷರವಾಗಿ ಹೆಚ್ಚಾಗಿ ಬಳಕೆಯಾಗುವುದಿಲ್ಲ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2 & Page 2"
+    },
+    {
+      "id": "Q101",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕ, ಖ, ಗ, ಘ ಇವುಗಳ ಸರಿಯಾದ ವರ್ಗೀಕರಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "B": "ಕ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ",
+        "C": "ಕ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಖ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಗ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಘ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ",
+        "D": "ಕ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಖ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಗ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಘ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಘೋಷ ಮಹಾಪ್ರಾಣ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 49"
+    },
+    {
+      "id": "Q102",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಚವರ್ಗದ ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚವರ್ಗದ ಅಕ್ಷರಗಳು: ಚ, ಛ, ಜ, ಝ, ಞ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q103",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಟವರ್ಗದ ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಟವರ್ಗದ ಅಕ್ಷರಗಳು: ಟ, ಠ, ಡ, ಢ, ಣ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q104",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ತವರ್ಗದ ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತ, ಥ, ದ, ಧ, ನ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ಟ, ಠ, ಡ, ಢ, ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತವರ್ಗದ ಅಕ್ಷರಗಳು: ತ, ಥ, ದ, ಧ, ನ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q105",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪವರ್ಗದ ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ, ಫ, ಬ, ಭ, ಮ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ಟ, ಠ, ಡ, ಢ, ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪವರ್ಗದ ಅಕ್ಷರಗಳು: ಪ, ಫ, ಬ, ಭ, ಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q106",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಂಠ",
+        "B": "ತಾಲವ್ಯ",
+        "C": "ಮೂರ್ಧನ್ಯ",
+        "D": "ದಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ: ಕಂಠ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q107",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಯಾವುದು?",
+      "options": {
+        "A": "ತಾಲವ್ಯ",
+        "B": "ಕಂಠ",
+        "C": "ಮೂರ್ಧನ್ಯ",
+        "D": "ದಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ: ತಾಲವ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q108",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಟವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂರ್ಧನ್ಯ",
+        "B": "ಕಂಠ",
+        "C": "ತಾಲವ್ಯ",
+        "D": "ದಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಟವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ: ಮೂರ್ಧನ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q109",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಯಾವುದು?",
+      "options": {
+        "A": "ದಂತ",
+        "B": "ಕಂಠ",
+        "C": "ತಾಲವ್ಯ",
+        "D": "ಮೂರ್ಧನ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ: ದಂತ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q110",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಯಾವುದು?",
+      "options": {
+        "A": "ಓಷ್ಠ್ಯ",
+        "B": "ಕಂಠ",
+        "C": "ತಾಲವ್ಯ",
+        "D": "ಮೂರ್ಧನ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪವರ್ಗದ ಉಚ್ಚರಣಾ ಸ್ಥಾನ: ಓಷ್ಠ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q111",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಕ' ಅಕ್ಷರದ ಕಾಗುಣಿತದಲ್ಲಿ ಯಾವ ರೂಪಗಳು ಸೇರಿವೆ?",
+      "options": {
+        "A": "ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ, ಕಂ, ಕಃ",
+        "B": "ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ",
+        "C": "ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ, ಕಂ",
+        "D": "ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಕ' ಅಕ್ಷರದ ಕಾಗುಣಿತ: ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ, ಕಂ, ಕಃ. ಕೆಲವು ಪರಂಪರೆಗಳಲ್ಲಿ ಕ್ರಮ/ರೂಪದಲ್ಲಿ ಸಣ್ಣ ವ್ಯತ್ಯಾಸ ಇರಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 36"
+    },
+        {
+      "id": "Q112",
+      "subject": "Kannada",
+      "topic": "Ottakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ್ಕ, ನ್ನ, ಸ್ತ, ಮೃ, ಕೃ",
+        "B": "ಕ, ಕಾ, ಕಿ, ಕೀ",
+        "C": "ಅ, ಆ, ಇ, ಈ",
+        "D": "ಂ, ಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಕ್ಕ, ನ್ನ, ಸ್ತ, ಮೃ, ಕೃ. 'ಅಕ್ಕ', 'ಮುತ್ತು', 'ಅನ್ನ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರಗಳಿವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 38"
+    },
+    {
+      "id": "Q113",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಂಯುಕ್ತಾಕ್ಷರದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ್ಕ, ಕ್ರ, ಜ್ಞ, ಸ್ಥ, ನ್ಸ",
+        "B": "ಕ, ಕಾ, ಕಿ, ಕೀ",
+        "C": "ಅ, ಆ, ಇ, ಈ",
+        "D": "ಂ, ಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಕ್ಕ, ಕ್ರ, ಜ್ಞ, ಸ್ಥ, ನ್ಸ. ಸಂಯುಕ್ತಾಕ್ಷರದಲ್ಲಿ ಒತ್ತಕ್ಷರ ರೂಪ ಕಾಣಿಸಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 40"
+    },
+    {
+      "id": "Q114",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳು, ವ್ಯಂಜನಗಳು ಮತ್ತು ಯೋಗವಾಹಗಳನ್ನು ಹೇಗೆ ಕಲಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕ್ರಮಬದ್ಧವಾಗಿ",
+        "B": "ಯಾದೃಚ್ಛಿಕವಾಗಿ",
+        "C": "ವರ್ಣಮಾಲೆಯ ಕ್ರಮವಿಲ್ಲದೆ",
+        "D": "ಕೇವಲ ವ್ಯಂಜನಗಳನ್ನು ಮೊದಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದಲ್ಲಿ ಸ್ವರಗಳು, ವ್ಯಂಜನಗಳು ಮತ್ತು ಯೋಗವಾಹಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಕಲಿಸಲಾಗುತ್ತದೆ. ಉದಾಹರಣೆ: ಅ, ಆ, ಇ...; ಕ, ಖ, ಗ...",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 1"
+    },
+    {
+      "id": "Q115",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉದಾಹರಣೆ: ಕಲ್ಪು ಮತ್ತು ಹಲ್ಪು ಎಂಬ ಪದಗಳಲ್ಲಿ /ಕ/ ಮತ್ತು /ಹ/ ಧ್ವನಿಗಳ ಬದಲಾವಣೆಯಿಂದ ಅರ್ಥ ಬದಲಾಗುತ್ತದೆ. ಇದು ಯಾವ ಪರಿಕಲ್ಪನೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ವರ್ಣ ಅಥವಾ ಧ್ವನಿಮಾ",
+        "B": "ಅಕ್ಷರ",
+        "C": "ಮಾತ್ರೆ",
+        "D": "ಯೋಗವಾಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಷೆಯಲ್ಲಿನ ಅರ್ಥಭೇದಕವಾದ ಅತಿ ಚಿಕ್ಕ ಧ್ವನಿ ಘಟಕವನ್ನು ವರ್ಣ ಅಥವಾ ಧ್ವನಿಮಾ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ. ಲಿಪಿಯ ಅಕ್ಷರವು ಆ ಧ್ವನಿಯನ್ನು ಬರೆಯುವ ಗುರುತು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 3"
+    },
+    {
+      "id": "Q116",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುನಾಸಿಕ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅಂಗ, ಅಂಜಿಕೆ, ಜ್ಞಾನ, ಕಣ್ಣು, ನದಿ, ಮನೆ",
+        "B": "ಕ, ಖ, ಗ, ಘ",
+        "C": "ಚ, ಛ, ಜ, ಝ",
+        "D": "ಟ, ಠ, ಡ, ಢ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಅಂಗ, ಅಂಜಿಕೆ, ಜ್ಞಾನ, ಕಣ್ಣು, ನದಿ, ಮನೆ. ಪದಗಳಲ್ಲಿನ ನಾಸಿಕ ಧ್ವನಿಗಳು ಉಚ್ಚಾರಣಾ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬಳಲಾಗುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 24"
+    },
+    {
+      "id": "Q117",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುಸ್ವಾರದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅಂಕ, ಅಂಗ, ಸಂಸ್ಕೃತಿ",
+        "B": "ದುಃಖ, ಫ್ರಾತಃಕಾಲ, ನಮಃ",
+        "C": "ಕ, ಖ, ಗ, ಘ",
+        "D": "ಅ, ಆ, ಇ, ಈ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಅಂಕ, ಅಂಗ, ಸಂಸ್ಕೃತಿ. ಕನ್ನಡದಲ್ಲಿ 'ಸಂ' ಮುಂತಾದ ರೂಪಗಳು ಅನುಸ್ವಾರದ ನಿಖರ ಧ್ವನಿ ಮುಂದಿನ ವ್ಯಂಜನದ ಉಚ್ಚಾರಣಾ ಸ್ಥಾನಕ್ಕೆ ಹೊಂದಿಕೊಳ್ಳುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 29"
+    },
+    {
+      "id": "Q118",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಸರ್ಗದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ದುಃಖ, ಫ್ರಾತಃಕಾಲ, ನಮಃ",
+        "B": "ಅಂಕ, ಅಂಗ, ಸಂಸ್ಕೃತಿ",
+        "C": "ಕ, ಖ, ಗ, ಘ",
+        "D": "ಅ, ಆ, ಇ, ಈ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಸರ್ಗದ ಉದಾಹರಣೆಗಳು: ದುಃಖ, ಫ್ರಾತಃಕಾಲ, ನಮಃ. ಸಂಸ್ಕೃತ ಮೂಲದ ಪದಗಳು ಮತ್ತು ಮಂತ್ರೋಚ್ಚಾರಣೆಯಲ್ಲಿ ಹೆಚ್ಚು ಕಾಣುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 31"
+    },
+    {
+      "id": "Q119",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಕ' ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರಗಳನ್ನು ಸೇರಿಸಿದಾಗ ಯಾವ ರೂಪಗಳು ಸಿಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ ಮುಂತಾದ ರೂಪಗಳು",
+        "B": "ಕ, ಖ, ಗ, ಘ",
+        "C": "ಅ, ಆ, ಇ, ಈ",
+        "D": "ಂ, ಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಈ ವ್ಯಂಜನಕ್ಕೆ ಸ್ವರಗಳನ್ನು ಸೇರಿಸಿದಾಗ ಕ, ಕಾ, ಕಿ, ಕೀ, ಕು, ಕೂ, ಕೃ, ಕೆ, ಕೇ, ಕೈ, ಕೊ, ಕೋ, ಕೌ ಮುಂತಾದ ರೂಪಗಳು ಸಿಗುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 34"
+    },
+    {
+      "id": "Q120",
+      "subject": "Kannada",
+      "topic": "Ottakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಒತ್ತಕ್ಷರ ರೂಪುಗೊಳ್ಳುವ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ್ + ಕ = ಕ್ಕ; ನ್ + ನ = ನ್ನ; ಸ್ + ತ = ಸ್ತ",
+        "B": "ಕ + ಆ = ಕಾ; ಕ + ಇ = ಕಿ",
+        "C": "ಅ + ಆ = ಆ; ಇ + ಈ = ಈ",
+        "D": "ಂ + ಃ = ಅಂಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಕ್ + ಕ = ಕ್ಕ; ನ್ + ನ = ನ್ನ; ಸ್ + ತ = ಸ್ತ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 39"
+    },
+    {
+      "id": "Q121",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಲ್ಪಪ್ರಾಣ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ, ಗ, ಚ, ಜ, ಟ, ಡ, ತ, ದ, ಪ, ಬ",
+        "B": "ಖ, ಘ, ಛ, ಝ, ಠ, ಢ, ಥ, ಧ, ಫ, ಭ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಯ, ರ, ಲ, ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ, ಗ, ಚ, ಜ, ಟ, ಡ, ತ, ದ, ಪ, ಬ ಮುಂತಾದವು ಅಲ್ಪಪ್ರಾಣ ಜೋಡಿಗಳ ಮೊದಲ ಅಕ್ಷರಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 44"
+    },
+    {
+      "id": "Q122",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಮಹಾಪ್ರಾಣ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಖ, ಘ, ಛ, ಝ, ಠ, ಢ, ಥ, ಧ, ಫ, ಭ",
+        "B": "ಕ, ಗ, ಚ, ಜ, ಟ, ಡ, ತ, ದ, ಪ, ಬ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಯ, ರ, ಲ, ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಖ, ಘ, ಛ, ಝ, ಠ, ಢ, ಥ, ಧ, ಫ, ಭ ಮಹಾಪ್ರಾಣ ಧ್ವನಿಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 45"
+    },
+    {
+      "id": "Q123",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಘೋಷ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಗ, ಘ, ಜ, ಝ, ಡ, ಢ, ದ, ಧ, ಬ, ಭ ಹಾಗೂ ನಾಸಿಕ ಧ್ವನಿಗಳು",
+        "B": "ಕ, ಖ, ಚ, ಛ, ಟ, ಠ, ತ, ಥ, ಪ, ಫ",
+        "C": "ಶ, ಷ, ಸ, ಹ",
+        "D": "ಯ, ರ, ಲ, ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗ, ಘ, ಜ, ಝ, ಡ, ಢ, ದ, ಧ, ಬ, ಭ ಹಾಗೂ ನಾಸಿಕ ಧ್ವನಿಗಳು ಘೋಷ ಸ್ವರೂಪದವು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 47"
+    },
+    {
+      "id": "Q124",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಘೋಷ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ, ಖ, ಚ, ಛ, ಟ, ಠ, ತ, ಥ, ಪ, ಫ ಮತ್ತು ಶ, ಷ, ಸ",
+        "B": "ಗ, ಘ, ಜ, ಝ, ಡ, ಢ, ದ, ಧ, ಬ, ಭ",
+        "C": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "D": "ಯ, ರ, ಲ, ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ, ಖ, ಚ, ಛ, ಟ, ಠ, ತ, ಥ, ಪ, ಫ ಮತ್ತು ಶ, ಷ, ಸ ಮುಂತಾದವು ಅಘೋಷ ಧ್ವನಿಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 48"
+    },
+    {
+      "id": "Q125",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕಂಠ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "B": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವರ್ಗದ ಕ, ಖ, ಗ, ಘ, ಙ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳು. ಸ್ವರ ಅ, ಆ ಮುಂತಾದವುಗಳನ್ನೂ ಸಾಂಘರ್ಷಿಕ ವರ್ಣವಿವರಣೆಯಲ್ಲಿ ಕಂಠ್ಯವೆಂದು ಹೇಳುವ ಪದ್ಧತಿ ಇದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 54"
+    },
+    {
+      "id": "Q126",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ತಾಲವ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚ, ಛ, ಜ, ಝ, ಞ; ಯ ಮತ್ತು ಶ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚ, ಛ, ಜ, ಝ, ಞ; ಯ ಮತ್ತು ಶಗಳನ್ನು ಸಹ ಪಾರಿಭಾಷಿಕವಾಗಿ ತಾಲವ್ಯ ಗುಂಪಿನಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 55"
+    },
+    {
+      "id": "Q127",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಮೂರ್ಧನ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಟ, ಠ, ಡ, ಢ, ಣ, ರ, ಷ, ಳ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಟ, ಠ, ಡ, ಢ, ಣ, ರ, ಷ, ಳ ಮುಂತಾದವುಗಳನ್ನು ಪಾರಿಭಾಷಿಕ ವರ್ಗೀಕರಣದಲ್ಲಿ ಮೂರ್ಧನ್ಯವೆಂದು ಹೇಳಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 56"
+    },
+    {
+      "id": "Q128",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ದಂತ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತ, ಥ, ದ, ಧ, ನ ಮತ್ತು ಸ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ಟ, ಠ, ಡ, ಢ, ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ, ಥ, ದ, ಧ, ನ ಮತ್ತು ಸ ಮುಂತಾದವು ದಂತ್ಯ ಧ್ವನಿಗಳೆಂದು ಪಾರಂಪರಿಕವಾಗಿ ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 57"
+    },
+    {
+      "id": "Q129",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಓಷ್ಠ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ, ಫ, ಬ, ಭ, ಮ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ, ಫ, ಬ, ಭ, ಮ ಮುಖ್ಯ ಉದಾಹರಣೆಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 58"
+    },
+    {
+      "id": "Q130",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನಾಸಿಕ್ಯ ಧ್ವನಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "B": "ಯ, ರ, ಲ, ವ",
+        "C": "ಶ, ಷ, ಸ, ಹ",
+        "D": "ಕ, ಚ, ಟ, ತ, ಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಙ, ಞ, ಣ, ನ, ಮ ಮುಖ್ಯ ನಾಸಿಕ ವ್ಯಂಜನಗಳು. ಅನುಸ್ವಾರವೂ ನಾಸಿಕ ಧ್ವನಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 60"
+    },
+    {
+      "id": "Q131",
+      "subject": "Kannada",
+      "topic": "Akshara Samyojane",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ ಸಂಯೋಜನೆಯ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ + ೈ = ಕೈ; ಮ + ನ + ೆ = ಮನೆ",
+        "B": "ಕ + ಆ = ಕಾ; ಕ + ಇ = ಕಿ",
+        "C": "ಅ + ಆ = ಆ; ಇ + ಈ = ಈ",
+        "D": "ಂ + ಃ = ಅಂಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಕ + ೈ = ಕೈ; ಮ + ನ + ೆ = ಮನೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 63"
+    },
+    {
+      "id": "Q132",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರಮಟ್ಟದ ಪದವಿಚ್ಛೇದದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "'ಮನೆ' → ಮ + ನೆ; 'ಕಮಲ' → ಕ + ಮ + ಲ",
+        "B": "'ಮನೆಗಳು' → ಮನೆ + ಗಳು",
+        "C": "'ದೇವಾಲಯ' → ದೇವ + ಆಲಯ",
+        "D": "'ಮಕ್ಕಳಿಗೆ' → ಮಗು/ಮಕ್ಕಳು + ಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: 'ಮನೆ' → ಮ + ನೆ; 'ಕಮಲ' → ಕ + ಮ + ಲ. ಇದು ಅಕ್ಷರ ಘಟಕದ ಸರಳ ವಿಶ್ಲೇಷಣೆ, ಧ್ವನಿಶಾಸ್ತ್ರೀಯ ವಿಶ್ಲೇಷಣೆ ಬೇರೆ ಆಗಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 65"
+    },
+    {
+      "id": "Q133",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರೂಪಿಮಾ ಆಧಾರಿತ ಪದವಿಚ್ಛೇದದ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಮನೆಗಳು = ಮನೆ + ಗಳು; ಮಕ್ಕಳಿಗೆ = ಮಗು/ಮಕ್ಕಳು + ಗೆ",
+        "B": "'ಮನೆ' → ಮ + ನೆ; 'ಕಮಲ' → ಕ + ಮ + ಲ",
+        "C": "'ದೇವಾಲಯ' → ದೇವ + ಆಲಯ",
+        "D": "ಕ + ೈ = ಕೈ; ಮ + ನ + ೆ = ಮನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಮನೆಗಳು = ಮನೆ + ಗಳು; ಮಕ್ಕಳಿಗೆ = ಮಗು/ಮಕ್ಕಳು ಎಂಬ ರೂಪಬದಲಾವಣೆ + ಗೆ. ನಿಖರ ರೂಪವಿಚ್ಛೇದದಲ್ಲಿ ಧ್ವನಿ/ರೂಪ ಬದಲಾವಣೆಗಳನ್ನು ಗಮನಿಸಬೇಕು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 66"
+    },
+    {
+      "id": "Q134",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಂಧಿ ವಿಚ್ಛೇದದ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವಾಲಯ = ದೇವ + ಆಲಯ",
+        "B": "ಮನೆ = ಮ + ನೆ",
+        "C": "ಕಮಲ = ಕ + ಮ + ಲ",
+        "D": "ಮನೆಗಳು = ಮನೆ + ಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ದೇವಾಲಯ = ದೇವ + ಆಲಯ ಎಂಬ ಪದರಚನಾ ವಿವರಣೆ; ಸಂಧಿಯ ನಿಯಮ ಮತ್ತು ಪದರಚನೆಯ ವಿಶ್ಲೇಷಣೆ ಪ್ರಶ್ನೆಯ ಪ್ರಕಾರ ಬೇರೆಬೇರೆ ಆಗಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 67"
+    },
+    {
+      "id": "Q135",
+      "subject": "Kannada",
+      "topic": "Padavichcheda",
+      "chapter": "Akshara Samyojane mattu Padavichcheda",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪದವನ್ನು ಸರಿಯಾಗಿ ಬರೆಯಲು ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "'ಅಕ್ಕ', 'ಅನ್ನ', 'ಕಣ್ಣು', 'ಸಂಸ್ಥಿತಿ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪಾತ್ರ ಮುಖ್ಯ",
+        "B": "'ಕ', 'ಖ', 'ಗ', 'ಘ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪಾತ್ರ ಮುಖ್ಯ",
+        "C": "'ಅ', 'ಆ', 'ಇ', 'ಈ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪಾತ್ರ ಮುಖ್ಯ",
+        "D": "'ಂ', 'ಃ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪಾತ್ರ ಮುಖ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: 'ಅಕ್ಕ', 'ಅನ್ನ', 'ಕಣ್ಣು', 'ಸಂಸ್ಥಿತಿ' ಪದಗಳಲ್ಲಿ ಒತ್ತಕ್ಷರ ಅಥವಾ ಅನುಸ್ವಾರದ ಪರಿಯಾದ ಸ್ಥಾನ ಮುಖ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 9, Point 68"
+    },
+    {
+      "id": "Q136",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಯಾವ ಅಕ್ಷರಗಳನ್ನು ಸ್ವರಗಳು, ವ್ಯಂಜನಗಳು ಮತ್ತು ಯೋಗವಾಹಗಳೆಂದು ವರ್ಗೀಕರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "13 ಸ್ವರಗಳು, 34 ವ್ಯಂಜನಗಳು, 2 ಯೋಗವಾಹಗಳು",
+        "B": "13 ಸ್ವರಗಳು, 25 ವ್ಯಂಜನಗಳು, 2 ಯೋಗವಾಹಗಳು",
+        "C": "13 ಸ್ವರಗಳು, 34 ವ್ಯಂಜನಗಳು, 1 ಯೋಗವಾಹ",
+        "D": "13 ಸ್ವರಗಳು, 34 ವ್ಯಂಜನಗಳು, 3 ಯೋಗವಾಹಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ 13 ಸ್ವರಗಳು + 34 ವ್ಯಂಜನಗಳು + 2 ಯೋಗವಾಹಗಳು = 49 ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+        {
+      "id": "Q138",
+      "subject": "Kannada",
+      "topic": "Svaragalu",
+      "chapter": "Svaragalu, Prassa, Deergha mattu Plut",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸ್ವರಗಳ ಮಾತ್ರೆಗಳ ವಿವರಣೆಯಲ್ಲಿ ಸರಿಯಾದ ಜೋಡಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಹ್ರಸ್ವ = 1 ಮಾತ್ರೆ; ದೀರ್ಘ = 2 ಮಾತ್ರೆ; ಪ್ಲುತ = 3 ಮಾತ್ರೆ",
+        "B": "ಹ್ರಸ್ವ = 2 ಮಾತ್ರೆ; ದೀರ್ಘ = 3 ಮಾತ್ರೆ; ಪ್ಲುತ = 4 ಮಾತ್ರೆ",
+        "C": "ಹ್ರಸ್ವ = 3 ಮಾತ್ರೆ; ದೀರ್ಘ = 2 ಮಾತ್ರೆ; ಪ್ಲುತ = 1 ಮಾತ್ರೆ",
+        "D": "ಹ್ರಸ್ವ = 1 ಮಾತ್ರೆ; ದೀರ್ಘ = 3 ಮಾತ್ರೆ; ಪ್ಲುತ = 2 ಮಾತ್ರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ವಿವರಣೆಯಲ್ಲಿ ಹ್ರಸ್ವ = 1 ಮಾತ್ರೆ; ದೀರ್ಘ = 2 ಮಾತ್ರೆ; ಪ್ಲುತ = 3 ಮಾತ್ರೆ. ಈ ಉಚ್ಚಾರಣಾ ಕಾಲದ ಬೋಧನಾ ಮಾನದಂಡ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 15"
+    },
+    {
+      "id": "Q139",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವರ್ಗದ ಐದು ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "B": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವರ್ಗದ ಅಕ್ಷರಗಳು: ಕ, ಖ, ಗ, ಘ, ಙ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q140",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚವರ್ಗದ ಐದು ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚವರ್ಗದ ಅಕ್ಷರಗಳು: ಚ, ಛ, ಜ, ಝ, ಞ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q141",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಟವರ್ಗದ ಐದು ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ತ, ಥ, ದ, ಧ, ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಟವರ್ಗದ ಅಕ್ಷರಗಳು: ಟ, ಠ, ಡ, ಢ, ಣ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q142",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತವರ್ಗದ ಐದು ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತ, ಥ, ದ, ಧ, ನ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ಟ, ಠ, ಡ, ಢ, ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತವರ್ಗದ ಅಕ್ಷರಗಳು: ತ, ಥ, ದ, ಧ, ನ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q143",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪವರ್ಗದ ಐದು ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪ, ಫ, ಬ, ಭ, ಮ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಚ, ಛ, ಜ, ಝ, ಞ",
+        "D": "ಟ, ಠ, ಡ, ಢ, ಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪವರ್ಗದ ಅಕ್ಷರಗಳು: ಪ, ಫ, ಬ, ಭ, ಮ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 20"
+    },
+    {
+      "id": "Q144",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳ ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "9",
+        "D": "34"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಐದು ವರ್ಗಗಳಲ್ಲಿ ಮೊದಲ ನಾಲ್ಕು ಅಕ್ಷರಗಳು ಸೇರಿ 20 ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 22"
+    },
+    {
+      "id": "Q145",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುನಾಸಿಕಗಳ ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "9",
+        "D": "20"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ಅನುನಾಸಿಕಗಳು: ಙ, ಞ, ಣ, ನ, ಮ — ಒಟ್ಟು 5.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 23"
+    },
+    {
+      "id": "Q146",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳ ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "9",
+        "D": "20"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂತಸ್ಥ ವ್ಯಂಜನಗಳು: ಯ, ರ, ಲ, ವ — ಒಟ್ಟು 4.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 25"
+    },
+    {
+      "id": "Q147",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಊಷ್ಮ ವ್ಯಂಜನಗಳ ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "9",
+        "D": "20"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಊಷ್ಮ ವ್ಯಂಜನಗಳು: ಶ, ಷ, ಸ, ಹ — ಒಟ್ಟು 4.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 26"
+    },
+    {
+      "id": "Q148",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ಮತ್ತು ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಒಟ್ಟು ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "25 + 9 = 34",
+        "B": "20 + 9 = 29",
+        "C": "25 + 5 = 30",
+        "D": "20 + 14 = 34"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು 25; ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು 9; ಒಟ್ಟು 34 ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 18"
+    },
+    {
+      "id": "Q149",
+      "subject": "Kannada",
+      "topic": "Yogavahagalu",
+      "chapter": "Yogavahagalu, Anusvara mattu Visarga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯೋಗವಾಹಗಳು ಸ್ವತಂತ್ರ ಸ್ವರಗಳೂ ಅಲ್ಲ, ಸಾಮಾನ್ಯ ವ್ಯಂಜನಗಳೂ ಅಲ್ಲ. ಅವು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಇತರ ಧ್ವನಿಗಳೊಂದಿಗೆ ಸೇರಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ",
+        "B": "ಸ್ವತಂತ್ರವಾಗಿ ಉಚ್ಚರಿಸಲ್ಪಡುತ್ತವೆ",
+        "C": "ಸ್ವರಗಳಂತೆ ಮಾತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ",
+        "D": "ವ್ಯಂಜನಗಳಂತೆ ಮಾತ್ರ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವು ಸ್ವತಂತ್ರ ಸ್ವರಗಳೂ ಅಲ್ಲ, ಸಾಮಾನ್ಯ ವ್ಯಂಜನಗಳೂ ಅಲ್ಲ. ಇತರ ಧ್ವನಿಗಳೊಂದಿಗೆ ಸೇರಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 33"
+    },
+    {
+      "id": "Q150",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಗುಣಿತಾಕ್ಷರಗಳ ರೂಪುಗೊಳ್ಳುವಿಕೆಯ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕ + ೦೦ = ಕಾ; ಕ + ೦೨ = ಕಿ; ಕ + ೦೩ = ಕೀ",
+        "B": "ಕ್ + ಕ = ಕ್ಕ; ನ್ + ನ = ನ್ನ; ಸ್ + ತ = ಸ್ತ",
+        "C": "ಅ + ಆ = ಆ; ಇ + ಈ = ಈ",
+        "D": "ಂ + ಃ = ಅಂಃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉದಾಹರಣೆ: ಕ + ೦೦ = ಕಾ, ಕ + ೦೨ = ಕಿ, ಕ + ೦೩ = ಕೀ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 35"
+    },
+    {
+      "id": "Q151",
+      "subject": "Kannada",
+      "topic": "Gunitakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಕೆ' ಯಾವ ರೀತಿಯ ಅಕ್ಷರ?",
+      "options": {
+        "A": "ಗುಣಿತಾಕ್ಷರ",
+        "B": "ಒತ್ತಕ್ಷರ",
+        "C": "ಸಂಯುಕ್ತಾಕ್ಷರ",
+        "D": "ಯೋಗವಾಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಕೆ' ಒಂದು ಗುಣಿತಾಕ್ಷರ; 'ಕ ಕಾ ಕಿ ಕೀ...' ಸಂಪೂರ್ಣ ಸಾಲು ಕಾಗುಣಿತ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 5, Point 37"
+    },
+    {
+      "id": "Q152",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಲಿಪಿಯಲ್ಲಿ ವ್ಯಂಜನದ ಸಹಜ ಸ್ವರ ಯಾವುದು?",
+      "options": {
+        "A": "ಅ",
+        "B": "ಆ",
+        "C": "ಇ",
+        "D": "ಉ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಂಜನದ ಸಹಜ ಸ್ವರ 'ಅ'. ಉದಾಹರಣೆ: 'ಕ' = ಕ್ + ಅ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 2, Point 6"
+    },
+    {
+      "id": "Q153",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ದಂತೋಷ್ಠ್ಯ ಧ್ವನಿಯ ಆಧುನಿಕ ಧ್ವನಿಶಾಸ್ತ್ರೀಯ ವಿವರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "labiodental approximant ಅಥವಾ ಸಮೀಪದ ರೂಪ",
+        "B": "bilabial plosive",
+        "C": "alveolar trill",
+        "D": "velar nasal"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ ಧ್ವನಿಯನ್ನು ಪಾರಂಪರಿಕ ಕನ್ನಡ/ಸಂಸ್ಕೃತ ಉಚ್ಚಾರಣಾ ವಿವರಣೆಯಲ್ಲಿ ದಂತೋಷ್ಠ್ಯ ಅಥವಾ ದಂತ-ಓಷ್ಠ್ಯ ಸ್ಥರೂಪದ ಧ್ವನಿಯಾಗಿ ವಿವರಿಸಲಾಗುತ್ತದೆ. ಆಧುನಿಕ ಧ್ವನಿಶಾಸ್ತ್ರದಲ್ಲಿ ಅದರ ಉಚ್ಚಾರಣೆ ಪ್ರದೇಶಾನುಸಾರ labiodental approximant ಅಥವಾ ಸಮೀಪದ ರೂಪವಾಗಿರಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 59"
+    },
+    {
+      "id": "Q154",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಮತ್ತು ಉಚ್ಚರಣಾ ವಿಧಾನ ಎರಡೂ ಯಾವುದಕ್ಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಧ್ವನಿಗಳ ವರ್ಗೀಕರಣ",
+        "B": "ಅಕ್ಷರಗಳ ಎಣಿಕೆ",
+        "C": "ಪದಗಳ ಅರ್ಥ",
+        "D": "ವಾಕ್ಯ ರಚನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧ್ವನಿಗಳ ವರ್ಗೀಕರಣದಲ್ಲಿ ಉಚ್ಚರಣಾ ಸ್ಥಾನ ಮತ್ತು ಉಚ್ಚರಣಾ ವಿಧಾನ ಎರಡೂ ಮುಖ್ಯ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 53"
+    },
+    {
+      "id": "Q155",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಸರಿಯಾದ ಗುಂಪು ಯಾವುದು?",
+      "options": {
+        "A": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ",
+        "B": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ",
+        "C": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಕ್ಷ",
+        "D": "ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಜ್ಞ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಪಟ್ಟಿಯಲ್ಲಿ ಯ, ರ, ಲ, ವ, ಶ, ಷ, ಸ, ಹ, ಳ — ಒಟ್ಟು 9 ಅವರ್ಗೀಯ ವ್ಯಂಜನಗಳು. ಕ್ಷ ಮತ್ತು ಜ್ಞ ಸಂಯುಕ್ತಾಕ್ಷರಗಳು, ಪ್ರತ್ಯೇಕ ಮೂಲ ವ್ಯಂಜನಗಳಲ್ಲ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 3, Point 21"
+    },
+    {
+      "id": "Q156",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಂಯುಕ್ತಾಕ್ಷರಗಳಲ್ಲಿ ಯಾವ ರೂಪ ಕಾಣಿಸಬಹುದು?",
+      "options": {
+        "A": "ಒತ್ತಕ್ಷರ ರೂಪ",
+        "B": "ಸ್ವರಮಾತ್ರೆ",
+        "C": "ಯೋಗವಾಹ",
+        "D": "ಅನುಸ್ವಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಯುಕ್ತಾಕ್ಷರದಲ್ಲಿ ಒತ್ತಕ್ಷರ ರೂಪ ಕಾಣಿಸಬಹುದು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 40"
+    },
+    {
+      "id": "Q157",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಐದನೇ ಅಕ್ಷರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಙ, ಞ, ಣ, ನ, ಮ",
+        "B": "ಕ, ಚ, ಟ, ತ, ಪ",
+        "C": "ಖ, ಛ, ಠ, ಥ, ಫ",
+        "D": "ಗ, ಜ, ಡ, ದ, ಬ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಗೀಯ ವ್ಯಂಜನಗಳ ಐದನೇ ಅಕ್ಷರಗಳು: ಙ, ಞ, ಣ, ನ, ಮ. ಇವು ಅನುನಾಸಿಕ ಮತ್ತು ಘೋಷ ಧ್ವನಿಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Point 52"
+    },
+    {
+      "id": "Q158",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಸ್ವರಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "13",
+        "B": "34",
+        "C": "2",
+        "D": "49"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ 13 ಸ್ವರಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+    {
+      "id": "Q159",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ವ್ಯಂಜನಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "34",
+        "B": "13",
+        "C": "2",
+        "D": "49"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ 34 ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+    {
+      "id": "Q160",
+      "subject": "Kannada",
+      "topic": "Varnamale",
+      "chapter": "Varnamale mattu Aksharagalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವರ್ಣಮಾಲೆಯಲ್ಲಿ ಯೋಗವಾಹಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "2",
+        "B": "13",
+        "C": "34",
+        "D": "49"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಶಾಲಾ ವ್ಯಾಕರಣದಲ್ಲಿ 2 ಯೋಗವಾಹಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 1, Point 2"
+    },
+    {
+      "id": "Q161",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು ಮತ್ತು ಅನುನಾಸಿಕಗಳ ಒಟ್ಟು ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "20 + 5 = 25",
+        "B": "20 + 4 = 24",
+        "C": "25 + 5 = 30",
+        "D": "25 + 9 = 34"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ಪರ್ಶ ವ್ಯಂಜನಗಳು 20; ಅನುನಾಸಿಕಗಳು 5; ಒಟ್ಟು 25 ವರ್ಗೀಯ ವ್ಯಂಜನಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Point 22"
+    },
+    {
+      "id": "Q162",
+      "subject": "Kannada",
+      "topic": "Vyanjanagalu",
+      "chapter": "Vyanjanagalu mattu Avugala Vargikarana",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಂತಸ್ಥ ಮತ್ತು ಊಷ್ಮ ವ್ಯಂಜನಗಳ ಒಟ್ಟು ಎಣಿಕೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "4 + 4 = 8",
+        "B": "4 + 5 = 9",
+        "C": "5 + 4 = 9",
+        "D": "5 + 5 = 10"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂತಸ್ಥ 4 (ಯ, ರ, ಲ, ವ); ಊಷ್ಮ 4 (ಶ, ಷ, ಸ, ಹ); ಒಟ್ಟು 8. ಇವುಗಳೊಂದಿಗೆ ಳ ಸೇರಿ ಅವರ್ಗೀಯ 9 ಆಗುತ್ತದೆ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 4, Points 25-26"
+    },
+    {
+      "id": "Q163",
+      "subject": "Kannada",
+      "topic": "Uchcharane",
+      "chapter": "Aksharagala Uchcharane, Alpaprāṇa-Mahāprāṇa, Ghosha-Aghosha",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವರ್ಗದ ಕ, ಖ, ಗ, ಘ, ಙ ಇವುಗಳ ಸರಿಯಾದ ಗುಣ ವಿವರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಙ — ಅನುನಾಸಿಕ ಘೋಷ",
+        "B": "ಕ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಙ — ಅನುನಾಸಿಕ ಅಘೋಷ",
+        "C": "ಕ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಖ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಗ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಘ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಙ — ಅನುನಾಸಿಕ ಘೋಷ",
+        "D": "ಕ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಖ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಗ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಘ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಙ — ಅನುನಾಸಿಕ ಅಘೋಷ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ — ಅಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಖ — ಅಘೋಷ ಮಹಾಪ್ರಾಣ; ಗ — ಘೋಷ ಅಲ್ಪಪ್ರಾಣ; ಘ — ಘೋಷ ಮಹಾಪ್ರಾಣ; ಙ — ಅನುನಾಸಿಕ ಘೋಷ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 7, Points 49-52"
+    },
+    {
+      "id": "Q164",
+      "subject": "Kannada",
+      "topic": "Uchcharana Sthana",
+      "chapter": "Varnagala Uchcharana Sthanagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವರ್ಗ, ಚವರ್ಗ, ಟವರ್ಗ, ತವರ್ಗ, ಪವರ್ಗಗಳ ಉಚ್ಚರಣಾ ಸ್ಥಾನಗಳ ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ",
+        "B": "ಕಂಠ, ತಾಲವ್ಯ, ಮೂರ್ಧನ್ಯ, ಓಷ್ಠ್ಯ, ದಂತ",
+        "C": "ತಾಲವ್ಯ, ಕಂಠ, ಮೂರ್ಧನ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ",
+        "D": "ಕಂಠ, ಮೂರ್ಧನ್ಯ, ತಾಲವ್ಯ, ದಂತ, ಓಷ್ಠ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವರ್ಗ-ಕಂಠ; ಚವರ್ಗ-ತಾಲವ್ಯ; ಟವರ್ಗ-ಮೂರ್ಧನ್ಯ; ತವರ್ಗ-ದಂತ; ಪವರ್ಗ-ಓಷ್ಠ್ಯ ಎಂಬ ಕ್ರಮ ನೆನಪಿಡಿ.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 8, Point 61"
+    },
+    {
+      "id": "Q165",
+      "subject": "Kannada",
+      "topic": "Samyuktakshara",
+      "chapter": "Gunitaksharagalu, Kagunita mattu Ottaksharagalu",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕ್ಷ ಮತ್ತು ಜ್ಞ ಅನ್ನು ಹೇಗೆ ವಿಭಜಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕ್ಷ = ಕ್ + ಷ; ಜ್ಞ = ಜ್ + ಞ",
+        "B": "ಕ್ಷ = ಕ + ಷ; ಜ್ಞ = ಜ + ಞ",
+        "C": "ಕ್ಷ = ಕ್ + ಸ; ಜ್ಞ = ಜ್ + ನ",
+        "D": "ಕ್ಷ = ಕ + ಸ; ಜ್ಞ = ಜ + ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ಷ = ಕ್ + ಷ; ಜ್ಞ = ಜ್ + ಞ. ಇವು ಸಂಯುಕ್ತಾಕ್ಷರ ರೂಪಗಳು.",
+      "source": "Kannada_Alphabet_Letters.pdf, Page 6, Point 42"
+    }
+  ]
+}

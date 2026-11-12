@@ -1,0 +1,3607 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Computer Knowledge - Computer Software question bank derived from FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf. Covers system software, application software, utility software, operating systems, and device drivers. Designed for KEA FDA/SDA examination preparation.",
+  "questions": [
+    {
+      "id": "CS001",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is computer software?",
+      "options": {
+        "A": "The physical components of a computer",
+        "B": "A collection of programs, procedures and related instructions or data that tell computer hardware how to perform tasks",
+        "C": "Only the operating system",
+        "D": "Only the application programs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computer software is a collection of programs, procedures and related instructions or data that tell computer hardware how to perform tasks.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS002",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why is software necessary for a computer?",
+      "options": {
+        "A": "It provides the instructions that make hardware useful and controls hardware operations",
+        "B": "It increases the physical size of the computer",
+        "C": "It replaces the need for hardware",
+        "D": "It only helps in playing games"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software provides the instructions that make hardware useful. It controls hardware operations, manages resources and enables users to perform tasks such as writing documents, calculations and communication.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS003",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a computer program?",
+      "options": {
+        "A": "A physical component of the computer",
+        "B": "An organised set of instructions written in a programming language or represented in executable form to make a computer perform a specific task",
+        "C": "A type of hardware device",
+        "D": "A network cable"
+      },
+      "correctAnswer": "B",
+      "explanation": "A computer program is an organised set of instructions written in a programming language or represented in executable form to make a computer perform a specific task.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS004",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between hardware and software?",
+      "options": {
+        "A": "Hardware consists of physical components, whereas software consists of programs and instructions",
+        "B": "Hardware is always faster than software",
+        "C": "Software is physical and hardware is non-physical",
+        "D": "There is no difference between hardware and software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hardware consists of the physical components of a computer, whereas software consists of programs and instructions. Hardware performs operations under the direction of software, and software requires hardware to execute.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS005",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the major categories of software?",
+      "options": {
+        "A": "System software and application software",
+        "B": "Hardware and firmware",
+        "C": "Input and output software",
+        "D": "RAM and ROM software"
+      },
+      "correctAnswer": "A",
+      "explanation": "The broad categories commonly taught are system software and application software. Utility software is often treated as a category of system software, while device drivers and operating systems are also forms of system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS006",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the difference between system software and application software?",
+      "options": {
+        "A": "System software manages computer hardware and provides a platform for other programs; application software helps users perform specific tasks",
+        "B": "System software is used only for games; application software is used only for business",
+        "C": "System software is always free; application software is always paid",
+        "D": "There is no difference between them"
+      },
+      "correctAnswer": "A",
+      "explanation": "System software manages computer hardware and provides a platform for other programs; examples include operating systems and device drivers. Application software helps users perform specific tasks; examples include word processors and web browsers.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS007",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is utility software?",
+      "options": {
+        "A": "Software designed to maintain, protect, configure, analyse or optimise a computer system",
+        "B": "Software used only for writing documents",
+        "C": "Software that is always a game",
+        "D": "Software that replaces the operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Utility software is software designed to maintain, protect, configure, analyse or optimise a computer system. Examples include antivirus tools, backup utilities, disk-management tools and file-compression programs.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS008",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Is utility software system software or application software?",
+      "options": {
+        "A": "It is generally classified as a type or category of system software",
+        "B": "It is always application software",
+        "C": "It is hardware",
+        "D": "It is firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Utility software is generally classified as a type or category of system software because it supports the maintenance and operation of the computer system. Some utilities are also distributed as user-facing applications.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS009",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is firmware?",
+      "options": {
+        "A": "Software stored in non-volatile memory within a hardware device and used to control that device at a low level",
+        "B": "A type of application software",
+        "C": "A physical component of the CPU",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Firmware is software stored in non-volatile memory within a hardware device and used to control that device at a low level. Examples include firmware in a motherboard, router, printer or embedded controller.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS010",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between software and firmware?",
+      "options": {
+        "A": "Software is a broad term for programs and instructions; firmware is a specialised form of software closely associated with controlling a hardware device and commonly stored in non-volatile memory",
+        "B": "Firmware is hardware and software is not",
+        "C": "Software is stored only in ROM and firmware is stored only in RAM",
+        "D": "There is no difference between software and firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software is a broad term for programs and instructions. Firmware is a specialised form of software closely associated with controlling a hardware device and is commonly stored in non-volatile memory.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS011",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is open-source software?",
+      "options": {
+        "A": "Software whose source code is made available under a licence that permits users to inspect, use, modify and redistribute it",
+        "B": "Software that is always free of cost",
+        "C": "Software that cannot be modified",
+        "D": "Software that only runs on open hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Open-source software is software whose source code is made available under a licence that permits users to inspect, use, modify and redistribute it according to the licence terms.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS012",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is proprietary software?",
+      "options": {
+        "A": "Software controlled by an individual or organisation under licence terms that restrict access to, modification of or redistribution of its source code or copies",
+        "B": "Software that is always free",
+        "C": "Software whose source code is always public",
+        "D": "Software that cannot be installed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Proprietary software is software controlled by an individual or organisation under licence terms that restrict access to, modification of or redistribution of its source code or copies.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS013",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is freeware?",
+      "options": {
+        "A": "Software made available for use without a purchase price",
+        "B": "Software that is always open source",
+        "C": "Software that cannot be used for free",
+        "D": "Software that is only for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freeware is software made available for use without a purchase price. Freeware is not necessarily open source; its source code and modification rights may remain restricted.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS014",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is shareware?",
+      "options": {
+        "A": "Software distributed for trial or limited use, often with a requirement to pay for continued use or additional features",
+        "B": "Software that is always free and open source",
+        "C": "Software that is only used for sharing files",
+        "D": "Software that cannot be installed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shareware is software distributed for trial or limited use, often with a requirement to pay for continued use or additional features.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS015",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is public-domain software?",
+      "options": {
+        "A": "Software for which copyright restrictions have been waived or no longer apply, allowing use without copyright-based restrictions",
+        "B": "Software that is always proprietary",
+        "C": "Software that is only used by the government",
+        "D": "Software that cannot be copied"
+      },
+      "correctAnswer": "A",
+      "explanation": "Public-domain software is software for which copyright restrictions have been waived or no longer apply, allowing use without copyright-based restrictions. The exact legal status depends on jurisdiction and how the work was released.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS016",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software licence?",
+      "options": {
+        "A": "A legal agreement that sets out the conditions under which software may be installed, used, copied, modified or distributed",
+        "B": "A physical key to start a computer",
+        "C": "A type of hardware",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software licence is a legal agreement that sets out the conditions under which software may be installed, used, copied, modified or distributed.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS017",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is software installation?",
+      "options": {
+        "A": "The process of placing program files and required components on a computer and configuring them so that the program can run",
+        "B": "The process of deleting software from a computer",
+        "C": "The process of writing a program",
+        "D": "The process of designing hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software installation is the process of placing program files and required components on a computer and configuring them so that the program can run.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS018",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is software updating?",
+      "options": {
+        "A": "The process of replacing or modifying installed software components to fix defects, improve security, add features or maintain compatibility",
+        "B": "The process of installing software for the first time",
+        "C": "The process of deleting software",
+        "D": "The process of buying software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software updating is the process of replacing or modifying installed software components to fix defects, improve security, add features or maintain compatibility.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS019",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software patch?",
+      "options": {
+        "A": "A targeted update that corrects a defect, addresses a security vulnerability or makes a limited improvement to an existing software product",
+        "B": "A new major version of software",
+        "C": "A type of hardware",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software patch is a targeted update that corrects a defect, addresses a security vulnerability or makes a limited improvement to an existing software product.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS020",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a software version?",
+      "options": {
+        "A": "An identified release or state of a software product",
+        "B": "A type of hardware",
+        "C": "A programming language",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software version is an identified release or state of a software product. Version numbers help users distinguish releases and determine compatibility or update status.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS021",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is system software?",
+      "options": {
+        "A": "Software that manages and controls computer hardware and provides the basic environment or platform on which application programs operate",
+        "B": "Software used only for games",
+        "C": "Software used only for word processing",
+        "D": "Software that is always free"
+      },
+      "correctAnswer": "A",
+      "explanation": "System software is the software that manages and controls computer hardware and provides the basic environment or platform on which application programs operate.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS022",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the main functions of system software?",
+      "options": {
+        "A": "Managing processor time, memory, files, storage, input/output devices, security and system resources, and providing services needed by application programs",
+        "B": "Only creating documents",
+        "C": "Only browsing the internet",
+        "D": "Only playing multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "System software manages processor time, memory, files, storage, input/output devices, security and system resources, and provides services needed by application programs.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS023",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are examples of system software?",
+      "options": {
+        "A": "Operating systems, device drivers, language translators, firmware and system utilities",
+        "B": "Word processors, spreadsheets and presentation programs",
+        "C": "Web browsers and email clients",
+        "D": "Games and media players"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examples of system software include operating systems, device drivers, language translators, firmware and system utilities.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS024",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an operating system?",
+      "options": {
+        "A": "System software that manages a computer's hardware and software resources and provides common services and an interface for users and application programs",
+        "B": "A type of application software used for word processing",
+        "C": "A hardware component",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "An operating system is system software that manages a computer's hardware and software resources and provides common services and an interface for users and application programs.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS025",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a device driver?",
+      "options": {
+        "A": "System software that enables the operating system to communicate with and control a particular hardware device or class of devices",
+        "B": "A person who drives devices",
+        "C": "A type of application software",
+        "D": "A hardware component"
+      },
+      "correctAnswer": "A",
+      "explanation": "A device driver is system software that enables the operating system to communicate with and control a particular hardware device or class of devices.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS026",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is language translation software?",
+      "options": {
+        "A": "Software that converts source code or other program representations into a form that a computer can execute or interpret",
+        "B": "Software that translates human languages",
+        "C": "Software that translates documents",
+        "D": "Software that translates images"
+      },
+      "correctAnswer": "A",
+      "explanation": "Language translation software converts source code or other program representations into a form that a computer can execute or interpret. Examples include assemblers, compilers and interpreters.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS027",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an assembler?",
+      "options": {
+        "A": "System software that translates assembly-language instructions into machine code or object code for a processor",
+        "B": "Software that assembles hardware",
+        "C": "A type of application software",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "An assembler is system software that translates assembly-language instructions into machine code or object code for a processor.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS028",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a compiler?",
+      "options": {
+        "A": "Software that translates a program written in a high-level language into machine code, object code or another lower-level representation before execution",
+        "B": "Software that executes instructions at runtime without compilation",
+        "C": "A type of hardware",
+        "D": "A network device"
+      },
+      "correctAnswer": "A",
+      "explanation": "A compiler translates a program written in a high-level language into machine code, object code or another lower-level representation before the resulting program is executed.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS029",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an interpreter?",
+      "options": {
+        "A": "Software that executes a program by analysing and carrying out its instructions at runtime",
+        "B": "Software that translates assembly language into machine code",
+        "C": "A type of hardware",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "An interpreter executes a program by analysing and carrying out its instructions at runtime, often statement by statement or through an intermediate representation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS030",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a compiler and an interpreter?",
+      "options": {
+        "A": "A traditional compiler translates source code into a target program or object code before execution, whereas an interpreter carries out program instructions at runtime",
+        "B": "A compiler executes code at runtime and an interpreter translates before execution",
+        "C": "There is no difference between them",
+        "D": "A compiler is hardware and an interpreter is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A traditional compiler translates source code into a target program or object code before execution, whereas an interpreter carries out program instructions at runtime. Modern language implementations may combine compilation and interpretation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS031",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an operating-system kernel?",
+      "options": {
+        "A": "The central component of an operating system that manages core functions such as processes, memory, files and devices",
+        "B": "A type of application software",
+        "C": "A hardware component",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "The kernel is the central component of an operating system. It manages core functions such as processes, memory, files and devices.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS032",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a shell in an operating system?",
+      "options": {
+        "A": "A user interface or command interpreter through which users or programs request operating-system services",
+        "B": "A physical case that holds the computer",
+        "C": "A type of hardware",
+        "D": "A network cable"
+      },
+      "correctAnswer": "A",
+      "explanation": "A shell is a user interface or command interpreter through which users or programs request operating-system services. It may be command-line based or graphical, depending on the system.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS033",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a command-line interface (CLI)?",
+      "options": {
+        "A": "A text-based interface in which a user enters commands to interact with an operating system or program",
+        "B": "A graphical interface with windows and icons",
+        "C": "A type of hardware",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A CLI is a text-based interface in which a user enters commands to interact with an operating system or program.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS034",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a graphical user interface (GUI)?",
+      "options": {
+        "A": "An interface that allows users to interact with a computer through graphical elements such as windows, icons, menus, buttons and pointers",
+        "B": "A text-based interface",
+        "C": "A type of hardware",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "A GUI is an interface that allows users to interact with a computer through graphical elements such as windows, icons, menus, buttons and pointers.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS035",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between GUI and CLI?",
+      "options": {
+        "A": "A GUI uses graphical elements and pointing or touch interaction, whereas a CLI uses typed commands",
+        "B": "A GUI uses typed commands and a CLI uses graphical elements",
+        "C": "There is no difference between them",
+        "D": "A GUI is hardware and a CLI is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A GUI uses graphical elements and pointing or touch interaction, whereas a CLI uses typed commands. A CLI can be efficient for automation and administration, while a GUI can be easier for many visual tasks.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS036",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is application software?",
+      "options": {
+        "A": "Software designed to help users perform specific tasks, such as preparing documents, calculating figures, browsing the internet, editing images or managing records",
+        "B": "Software that manages hardware resources",
+        "C": "Software that is always part of the operating system",
+        "D": "Software that controls device drivers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Application software is software designed to help users perform specific tasks, such as preparing documents, calculating figures, browsing the internet, editing images or managing records.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS037",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What are the two broad categories of application software?",
+      "options": {
+        "A": "General-purpose or packaged applications and special-purpose or customised applications",
+        "B": "System software and utility software",
+        "C": "Hardware and firmware",
+        "D": "Open source and freeware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Application software is commonly grouped into general-purpose or packaged applications and special-purpose or customised applications.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS038",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is general-purpose application software?",
+      "options": {
+        "A": "Software designed to perform common tasks for many users, such as word processors, spreadsheets, presentation programs, database applications and web browsers",
+        "B": "Software designed for a particular task such as railway reservation",
+        "C": "Software that manages hardware",
+        "D": "Software that is always customised"
+      },
+      "correctAnswer": "A",
+      "explanation": "General-purpose application software is designed to perform common tasks for many users. Examples include word processors, spreadsheets, presentation programs, database applications and web browsers.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS039",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is special-purpose application software?",
+      "options": {
+        "A": "Software designed for a particular task or a narrow set of tasks, such as railway reservation, payroll processing, billing or hospital management",
+        "B": "Software designed for common tasks for many users",
+        "C": "Software that manages hardware",
+        "D": "Software that is always free"
+      },
+      "correctAnswer": "A",
+      "explanation": "Special-purpose application software is designed for a particular task or a narrow set of tasks, such as railway reservation, payroll processing, billing or hospital management.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS040",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is customised or tailor-made software?",
+      "options": {
+        "A": "Software developed or configured to meet the specific requirements of a particular user or organisation",
+        "B": "Software developed for the mass market",
+        "C": "Software that is always free",
+        "D": "Software that is part of the operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Customised software is developed or configured to meet the specific requirements of a particular user or organisation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS041",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a word-processing application?",
+      "options": {
+        "A": "Software used to create, edit, format, save and print text documents",
+        "B": "Software used to perform calculations in rows and columns",
+        "C": "Software used to create slide presentations",
+        "D": "Software used to browse the internet"
+      },
+      "correctAnswer": "A",
+      "explanation": "A word-processing application is software used to create, edit, format, save and print text documents. Examples include Microsoft Word and LibreOffice Writer.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+        {
+      "id": "CS042",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is spreadsheet software?",
+      "options": {
+        "A": "Software that organises data in rows and columns and supports calculations, formulas, functions, charts and data analysis",
+        "B": "Software used to create text documents",
+        "C": "Software used to browse the internet",
+        "D": "Software used to edit images"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spreadsheet software organises data in rows and columns and supports calculations, formulas, functions, charts and data analysis. Examples include Microsoft Excel and LibreOffice Calc.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS043",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is presentation software?",
+      "options": {
+        "A": "Software used to create and display slide-based presentations containing text, images, charts, audio, video and animations",
+        "B": "Software used to create spreadsheets",
+        "C": "Software used to browse the web",
+        "D": "Software used to manage databases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Presentation software is used to create and display slide-based presentations containing text, images, charts, audio, video and animations. Examples include Microsoft PowerPoint and LibreOffice Impress.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS044",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is database application software?",
+      "options": {
+        "A": "Software used to create, store, organise, retrieve and manage structured data",
+        "B": "Software used to create text documents",
+        "C": "Software used to play multimedia",
+        "D": "Software used to browse the internet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Database application software is used to create, store, organise, retrieve and manage structured data. Examples include database-management systems such as Microsoft Access, MySQL and PostgreSQL.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS045",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a web browser?",
+      "options": {
+        "A": "Application software used to access, retrieve and display information and resources on the World Wide Web",
+        "B": "Software used to create spreadsheets",
+        "C": "Software used to manage hardware",
+        "D": "Software used to edit images"
+      },
+      "correctAnswer": "A",
+      "explanation": "A web browser is application software used to access, retrieve and display information and resources on the World Wide Web. Examples include Google Chrome, Mozilla Firefox, Microsoft Edge and Apple Safari.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS046",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is email-client software?",
+      "options": {
+        "A": "Application software used to compose, send, receive, organise and search email messages",
+        "B": "Software used to browse the web",
+        "C": "Software used to create presentations",
+        "D": "Software used to manage files"
+      },
+      "correctAnswer": "A",
+      "explanation": "An email client is application software used to compose, send, receive, organise and search email messages. It may access email through protocols or services such as IMAP, POP3 and SMTP.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS047",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is graphics software?",
+      "options": {
+        "A": "Software used to create, edit or manipulate images, illustrations and visual designs",
+        "B": "Software used to create spreadsheets",
+        "C": "Software used to send emails",
+        "D": "Software used to manage hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Graphics software is used to create, edit or manipulate images, illustrations and visual designs. Examples include raster-image editors, vector-graphics editors and computer-aided design tools.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS048",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is multimedia software?",
+      "options": {
+        "A": "Software used to create, edit, play or manage combinations of media such as text, images, audio, video and animation",
+        "B": "Software used only for text documents",
+        "C": "Software used only for calculations",
+        "D": "Software used only for networking"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multimedia software is used to create, edit, play or manage combinations of media such as text, images, audio, video and animation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS049",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is accounting software?",
+      "options": {
+        "A": "Software that supports financial tasks such as recording transactions, maintaining ledgers, preparing invoices, managing accounts and generating financial reports",
+        "B": "Software used to edit images",
+        "C": "Software used to browse the internet",
+        "D": "Software used to play games"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accounting software supports financial tasks such as recording transactions, maintaining ledgers, preparing invoices, managing accounts and generating financial reports.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS050",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is payroll software?",
+      "options": {
+        "A": "Software that calculates employee wages, deductions and net pay, and helps prepare payroll records and related reports",
+        "B": "Software used to create presentations",
+        "C": "Software used to browse the web",
+        "D": "Software used to manage hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Payroll software calculates employee wages, deductions and net pay, and helps prepare payroll records and related reports according to applicable rules.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS051",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is educational software?",
+      "options": {
+        "A": "Software that supports teaching and learning through digital lessons, tutorials, practice exercises, simulations, assessments and learning-management systems",
+        "B": "Software used only for accounting",
+        "C": "Software used only for payroll",
+        "D": "Software used only for graphics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Educational software supports teaching and learning through digital lessons, tutorials, practice exercises, simulations, assessments and learning-management systems.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS052",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is enterprise application software?",
+      "options": {
+        "A": "Software that supports organisation-wide business processes, such as finance, human resources, supply chains, customer management and enterprise resource planning",
+        "B": "Software used only for personal tasks",
+        "C": "Software used only for gaming",
+        "D": "Software used only for web browsing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Enterprise application software supports organisation-wide business processes, such as finance, human resources, supply chains, customer management and enterprise resource planning.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS053",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an ERP system?",
+      "options": {
+        "A": "Enterprise Resource Planning system that integrates major organisational processes and data within a coordinated software system",
+        "B": "A type of web browser",
+        "C": "A programming language",
+        "D": "A hardware component"
+      },
+      "correctAnswer": "A",
+      "explanation": "ERP stands for Enterprise Resource Planning. An ERP system integrates major organisational processes and data, such as finance, procurement, inventory, production and human resources, within a coordinated software system.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS054",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a CRM system?",
+      "options": {
+        "A": "Customer Relationship Management system that helps an organisation manage customer information, interactions, sales activities and customer-service processes",
+        "B": "A type of operating system",
+        "C": "A programming language",
+        "D": "A hardware component"
+      },
+      "correctAnswer": "A",
+      "explanation": "CRM stands for Customer Relationship Management. A CRM system helps an organisation manage customer information, interactions, sales activities and customer-service processes.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS055",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between packaged software and customised software?",
+      "options": {
+        "A": "Packaged software is developed for a broad market and is generally supplied with standard features, whereas customised software is designed or adapted to meet particular user or organisational requirements",
+        "B": "Packaged software is always free and customised software is always paid",
+        "C": "Packaged software is hardware and customised software is software",
+        "D": "There is no difference between them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Packaged software is developed for a broad market and is generally supplied with standard features, whereas customised software is designed or adapted to meet particular user or organisational requirements.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS056",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can application software run without an operating system?",
+      "options": {
+        "A": "Most ordinary desktop and mobile application software relies on an operating system or runtime environment; some specialised programs run directly on hardware or in embedded environments",
+        "B": "Yes, all application software can run without an operating system",
+        "C": "No, application software can never run without an operating system",
+        "D": "Application software is the same as an operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Most ordinary desktop and mobile application software relies on an operating system or runtime environment. Some specialised programs run directly on hardware or in embedded environments without a conventional general-purpose OS.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS057",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is utility software?",
+      "options": {
+        "A": "Software that performs maintenance, protection, configuration, monitoring or optimisation tasks that help keep a computer system secure and operating effectively",
+        "B": "Software used only for word processing",
+        "C": "Software used only for games",
+        "D": "Software that replaces the operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Utility software performs maintenance, protection, configuration, monitoring or optimisation tasks that help keep a computer system secure and operating effectively.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS058",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are common examples of utility software?",
+      "options": {
+        "A": "Antivirus programs, firewalls, backup tools, file-compression utilities, disk-cleanup tools, disk-management tools, encryption tools and system-monitoring utilities",
+        "B": "Word processors and spreadsheets",
+        "C": "Web browsers and email clients",
+        "D": "Presentation software and databases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common examples of utility software include antivirus programs, firewalls, backup tools, file-compression utilities, disk-cleanup tools, disk-management tools, encryption tools and system-monitoring utilities.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS059",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is antivirus software?",
+      "options": {
+        "A": "A security utility designed to detect, block, quarantine or remove malicious software",
+        "B": "Software used to create documents",
+        "C": "Software used to browse the internet",
+        "D": "Software used to manage hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antivirus software is a security utility designed to detect, block, quarantine or remove malicious software. Modern endpoint-protection tools may also use behavioural analysis and other security techniques.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS060",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is malware?",
+      "options": {
+        "A": "Malicious software designed to harm, disrupt, spy on, gain unauthorised access to or otherwise misuse a computer system or its data",
+        "B": "Software used to protect a computer",
+        "C": "Software used to create documents",
+        "D": "Software used to manage files"
+      },
+      "correctAnswer": "A",
+      "explanation": "Malware is malicious software designed to harm, disrupt, spy on, gain unauthorised access to or otherwise misuse a computer system or its data.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS061",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a computer virus?",
+      "options": {
+        "A": "A type of malware that attaches itself to a legitimate file or program and replicates when the infected host is executed or otherwise activated",
+        "B": "A type of hardware",
+        "C": "A type of application software",
+        "D": "A type of operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "A computer virus is a type of malware that attaches itself to a legitimate file or program and replicates when the infected host is executed or otherwise activated.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS062",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a computer worm?",
+      "options": {
+        "A": "Malware that can self-replicate and spread between systems, often across networks, without needing to attach itself to a host program",
+        "B": "A type of hardware",
+        "C": "A type of operating system",
+        "D": "A type of application software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A computer worm is malware that can self-replicate and spread between systems, often across networks, without needing to attach itself to a host program.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS063",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Trojan horse?",
+      "options": {
+        "A": "Malware that disguises itself as or is presented as legitimate software to trick users into installing or running it",
+        "B": "A type of hardware",
+        "C": "A type of operating system",
+        "D": "A type of application software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Trojan horse is malware that disguises itself as or is presented as legitimate software to trick users into installing or running it. Unlike a virus or worm, it does not inherently self-replicate.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS064",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is spyware?",
+      "options": {
+        "A": "Software that secretly monitors user activity or collects information without appropriate consent, potentially compromising privacy and security",
+        "B": "Software used to protect a computer",
+        "C": "Software used to create documents",
+        "D": "Software used to manage hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spyware is software that secretly monitors user activity or collects information without appropriate consent, potentially compromising privacy and security.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS065",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a firewall?",
+      "options": {
+        "A": "A security system, implemented in hardware, software or both, that monitors and controls network traffic according to defined security rules",
+        "B": "A physical wall that protects computers",
+        "C": "A type of application software",
+        "D": "A type of operating system"
+      },
+      "correctAnswer": "A",
+      "explanation": "A firewall is a security system, implemented in hardware, software or both, that monitors and controls network traffic according to defined security rules.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS066",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a backup utility?",
+      "options": {
+        "A": "Software that creates or manages copies of files, folders, system data or entire systems so that information can be restored after loss, corruption or failure",
+        "B": "Software used to create documents",
+        "C": "Software used to browse the internet",
+        "D": "Software used to play games"
+      },
+      "correctAnswer": "A",
+      "explanation": "A backup utility creates or manages copies of files, folders, system data or entire systems so that information can be restored after loss, corruption or failure.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS067",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is file-compression software?",
+      "options": {
+        "A": "Software that reduces the size of files or groups of files to save storage space or reduce transfer time",
+        "B": "Software used to create documents",
+        "C": "Software used to browse the internet",
+        "D": "Software used to manage hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "File-compression software reduces the size of files or groups of files to save storage space or reduce transfer time. Examples of common archive formats include ZIP and 7z.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS068",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between lossless and lossy compression?",
+      "options": {
+        "A": "Lossless compression allows the original data to be reconstructed exactly, whereas lossy compression permanently removes some information to achieve greater size reduction",
+        "B": "Lossless compression removes data and lossy compression preserves all data",
+        "C": "There is no difference between them",
+        "D": "Lossless compression is only for images and lossy compression is only for text"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lossless compression allows the original data to be reconstructed exactly, whereas lossy compression permanently removes some information to achieve greater size reduction. ZIP is commonly lossless; JPEG image compression is commonly lossy.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS069",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is disk-cleanup software?",
+      "options": {
+        "A": "Software that identifies and helps remove unnecessary files, such as temporary files and selected caches, to free storage space",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that manages network traffic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disk-cleanup software identifies and helps remove unnecessary files, such as temporary files and selected caches, to free storage space. Users should avoid deleting files whose purpose they do not understand.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS070",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is disk-defragmentation software?",
+      "options": {
+        "A": "A utility that rearranges fragmented file data to improve sequential access on traditional HDDs",
+        "B": "A utility that deletes all files from a disk",
+        "C": "A utility that encrypts files",
+        "D": "A utility that creates backups"
+      },
+      "correctAnswer": "A",
+      "explanation": "A disk-defragmentation utility rearranges fragmented file data to improve sequential access on traditional HDDs. SSDs generally do not require traditional defragmentation; operating systems use SSD-specific optimisation such as TRIM.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS071",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is disk-partitioning software?",
+      "options": {
+        "A": "Software that creates, deletes, resizes or manages partitions on a storage device",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that plays multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disk-partitioning software creates, deletes, resizes or manages partitions on a storage device. Partition changes can cause data loss if performed incorrectly, so backups are important.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS072",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is encryption software?",
+      "options": {
+        "A": "Software that converts readable data (plaintext) into an encoded form (ciphertext) using a cryptographic method and key",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that manages hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Encryption software converts readable data (plaintext) into an encoded form (ciphertext) using a cryptographic method and key, so that only authorised parties with the required key can decrypt it.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS073",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a file manager?",
+      "options": {
+        "A": "Software that allows users to browse, create, copy, move, rename, organise and delete files and folders",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that plays multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "A file manager is software that allows users to browse, create, copy, move, rename, organise and delete files and folders.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS074",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a system-monitoring utility?",
+      "options": {
+        "A": "A utility that displays information about system performance and resource use, such as CPU activity, memory use, storage activity, temperature or network traffic",
+        "B": "A utility that creates documents",
+        "C": "A utility that browses the internet",
+        "D": "A utility that plays multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "A system-monitoring utility displays information about system performance and resource use, such as CPU activity, memory use, storage activity, temperature or network traffic.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS075",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of a backup and restore utility?",
+      "options": {
+        "A": "A backup utility creates recovery copies, while a restore function uses those copies to recover files, settings or a system after accidental deletion, corruption or failure",
+        "B": "A backup utility deletes files and a restore function creates new files",
+        "C": "A backup utility encrypts files and a restore function decrypts them",
+        "D": "A backup utility compresses files and a restore function decompresses them"
+      },
+      "correctAnswer": "A",
+      "explanation": "A backup utility creates recovery copies, while a restore function uses those copies to recover files, settings or a system after accidental deletion, corruption or failure.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS076",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an operating system (OS)?",
+      "options": {
+        "A": "System software that acts as an intermediary between users or application programs and computer hardware, managing resources and providing common services",
+        "B": "A type of application software",
+        "C": "A hardware component",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "An operating system is system software that acts as an intermediary between users or application programs and computer hardware, managing resources and providing common services.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS077",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the main objectives of an operating system?",
+      "options": {
+        "A": "To make the computer convenient to use, manage hardware resources efficiently, provide a stable environment for programs and help protect system data and operations",
+        "B": "To create documents and spreadsheets",
+        "C": "To browse the internet and send emails",
+        "D": "To play games and multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The main objectives of an operating system are to make the computer convenient to use, manage hardware resources efficiently, provide a stable environment for programs and help protect system data and operations.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS078",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What are the major functions of an operating system?",
+      "options": {
+        "A": "Process management, memory management, file management, device and input/output management, storage management, security, user-interface services, networking and error handling",
+        "B": "Only word processing and spreadsheet calculations",
+        "C": "Only web browsing and email",
+        "D": "Only playing multimedia and games"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major functions of an operating system include process management, memory management, file management, device and input/output management, storage management, security, user-interface services, networking and error handling.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS079",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is process management?",
+      "options": {
+        "A": "The operating-system function that creates, schedules, coordinates and terminates processes and allocates CPU time to them",
+        "B": "The management of files and folders",
+        "C": "The management of memory",
+        "D": "The management of network traffic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Process management is the operating-system function that creates, schedules, coordinates and terminates processes and allocates CPU time to them.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS080",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a process?",
+      "options": {
+        "A": "A program in execution, together with its current state and the resources required for its execution",
+        "B": "A program stored on disk",
+        "C": "A type of hardware",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A process is a program in execution, together with its current state and the resources required for its execution.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS081",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a thread?",
+      "options": {
+        "A": "A unit of execution within a process",
+        "B": "A type of hardware",
+        "C": "A network cable",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "A thread is a unit of execution within a process. A process may contain one or more threads that share certain process resources while having their own execution state.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+        {
+      "id": "CS082",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is multitasking in an operating system?",
+      "options": {
+        "A": "The ability of an operating system to manage multiple tasks during the same period by scheduling processor time and coordinating resources",
+        "B": "The ability to use multiple processors",
+        "C": "The ability to support multiple users",
+        "D": "The ability to connect to multiple networks"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multitasking is the ability of an operating system to manage multiple tasks during the same period by scheduling processor time and coordinating resources. On a single-core CPU, tasks may take turns; multicore systems can also execute tasks in parallel.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS083",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is multiprocessing?",
+      "options": {
+        "A": "The use of two or more processing units or CPU cores to execute processes or threads concurrently",
+        "B": "The ability to manage multiple tasks on a single processor",
+        "C": "The ability to support multiple users",
+        "D": "The ability to run multiple operating systems"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multiprocessing is the use of two or more processing units or CPU cores to execute processes or threads concurrently.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS084",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is memory management?",
+      "options": {
+        "A": "The operating-system function that allocates, tracks and releases main memory for programs and system processes and helps protect the memory spaces of different processes",
+        "B": "The management of files and folders",
+        "C": "The management of network traffic",
+        "D": "The management of user accounts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Memory management is the operating-system function that allocates, tracks and releases main memory for programs and system processes and helps protect the memory spaces of different processes.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS085",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is virtual memory?",
+      "options": {
+        "A": "A memory-management technique that gives processes a virtual address space and allows the operating system to use secondary storage as backing for some memory contents when needed",
+        "B": "A type of physical RAM",
+        "C": "A type of cache memory",
+        "D": "A type of read-only memory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Virtual memory is a memory-management technique that gives processes a virtual address space and allows the operating system to use secondary storage as backing for some memory contents when needed. It does not make storage as fast as RAM.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS086",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is file management in an operating system?",
+      "options": {
+        "A": "The function that organises files and directories, maintains file names and metadata, controls access permissions and supports operations such as creating, reading, writing, moving and deleting files",
+        "B": "The management of hardware devices",
+        "C": "The management of network traffic",
+        "D": "The management of user accounts"
+      },
+      "correctAnswer": "A",
+      "explanation": "File management organises files and directories, maintains file names and metadata, controls access permissions and supports operations such as creating, reading, writing, moving and deleting files.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS087",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a file system?",
+      "options": {
+        "A": "The method and data structure an operating system uses to organise, name, store and retrieve files on a storage device",
+        "B": "A type of hardware",
+        "C": "A type of application software",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A file system is the method and data structure an operating system uses to organise, name, store and retrieve files on a storage device. Examples include FAT32, exFAT, NTFS, ext4 and APFS.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS088",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is device management?",
+      "options": {
+        "A": "The function that controls and coordinates hardware devices through drivers and operating-system services, allocating access and handling input/output operations",
+        "B": "The management of files and folders",
+        "C": "The management of user accounts",
+        "D": "The management of network traffic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Device management controls and coordinates hardware devices through drivers and operating-system services, allocating access and handling input/output operations.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS089",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is booting in an operating system?",
+      "options": {
+        "A": "The startup process in which firmware initialises hardware, identifies a bootable device and starts a bootloader or operating-system loader, which loads the operating system into memory",
+        "B": "The process of shutting down the computer",
+        "C": "The process of installing software",
+        "D": "The process of creating files"
+      },
+      "correctAnswer": "A",
+      "explanation": "Booting is the startup process in which firmware initialises hardware, identifies a bootable device and starts a bootloader or operating-system loader, which loads the operating system into memory.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS090",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a bootloader?",
+      "options": {
+        "A": "A program that helps load the operating system kernel and transfer control to it during the startup process",
+        "B": "A type of application software",
+        "C": "A hardware component",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A bootloader is a program that helps load the operating system kernel and transfer control to it during the startup process.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS091",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a user account in an operating system?",
+      "options": {
+        "A": "An account that identifies a user or service and determines the permissions, settings and resources available during system use",
+        "B": "A type of hardware",
+        "C": "A type of application software",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A user account identifies a user or service and determines the permissions, settings and resources available during system use.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS092",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is authentication?",
+      "options": {
+        "A": "The process of verifying the identity of a user, device or process, for example through a password, security key, fingerprint or multifactor authentication",
+        "B": "The process of determining what an authenticated user is permitted to access",
+        "C": "The process of creating a user account",
+        "D": "The process of deleting a user account"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authentication is the process of verifying the identity of a user, device or process, for example through a password, security key, fingerprint or multifactor authentication.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS093",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is authorisation?",
+      "options": {
+        "A": "The process of determining what an authenticated user or process is permitted to access or do",
+        "B": "The process of verifying identity",
+        "C": "The process of creating a user account",
+        "D": "The process of deleting a user account"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authorisation is the process of determining what an authenticated user or process is permitted to access or do.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS094",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between authentication and authorisation?",
+      "options": {
+        "A": "Authentication verifies identity; authorisation determines the permissions granted to that identity",
+        "B": "Authentication determines permissions; authorisation verifies identity",
+        "C": "There is no difference between them",
+        "D": "Authentication is for hardware; authorisation is for software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authentication verifies identity; authorisation determines the permissions granted to that identity.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS095",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a system call?",
+      "options": {
+        "A": "A controlled interface through which an application requests a service from the operating-system kernel, such as file access, process creation or memory management",
+        "B": "A telephone call made by the system",
+        "C": "A type of hardware interrupt",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A system call is a controlled interface through which an application requests a service from the operating-system kernel, such as file access, process creation or memory management.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS096",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a deadlock in an operating system?",
+      "options": {
+        "A": "A condition in which two or more processes are permanently waiting for resources held by one another, so none of them can proceed",
+        "B": "A condition in which the computer is turned off",
+        "C": "A condition in which the network is disconnected",
+        "D": "A condition in which the hard disk is full"
+      },
+      "correctAnswer": "A",
+      "explanation": "A deadlock is a condition in which two or more processes are permanently waiting for resources held by one another, so none of them can proceed.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS097",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is spoofing in the context of operating systems?",
+      "options": {
+        "A": "Simultaneous Peripheral Operations On-Line, which places jobs in a queue or temporary storage so a slower peripheral, such as a printer, can process them in sequence while the CPU continues other work",
+        "B": "A security attack that impersonates a user",
+        "C": "A type of file system",
+        "D": "A type of network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spoofing stands for Simultaneous Peripheral Operations On-Line. It places jobs in a queue or temporary storage so a slower peripheral, such as a printer, can process them in sequence while the CPU continues other work.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS098",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between GUI and CLI operating systems?",
+      "options": {
+        "A": "An operating system with a GUI provides graphical interaction through windows, icons and menus; a CLI provides text-based command interaction",
+        "B": "A GUI uses typed commands and a CLI uses graphical elements",
+        "C": "There is no difference between them",
+        "D": "A GUI is hardware and a CLI is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "An operating system with a GUI provides graphical interaction through windows, icons and menus; a CLI provides text-based command interaction. Many modern operating systems support both.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS099",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a real-time operating system (RTOS)?",
+      "options": {
+        "A": "An operating system designed to respond to events within specified timing constraints",
+        "B": "An operating system that runs only in real time on the internet",
+        "C": "An operating system that is always fast",
+        "D": "An operating system that only supports one user"
+      },
+      "correctAnswer": "A",
+      "explanation": "A real-time operating system is designed to respond to events within specified timing constraints. Correctness depends not only on the result but also on the time at which the result is produced.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS100",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a distributed operating system?",
+      "options": {
+        "A": "An operating system that manages resources across multiple networked computers and aims to present them in a coordinated way",
+        "B": "An operating system that runs only on a single computer",
+        "C": "An operating system that is only used for file sharing",
+        "D": "An operating system that is only used for printing"
+      },
+      "correctAnswer": "A",
+      "explanation": "A distributed operating system manages resources across multiple networked computers and aims to present them in a coordinated way. It is distinct from an ordinary operating system that merely supports networking.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS101",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a network operating system?",
+      "options": {
+        "A": "An operating system that provides services and tools for managing networked computers, users, shared files, printers and other network resources",
+        "B": "An operating system that runs only on a single computer",
+        "C": "An operating system that is only used for gaming",
+        "D": "An operating system that is only used for word processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "A network operating system provides services and tools for managing networked computers, users, shared files, printers and other network resources.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS102",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a single-user operating system?",
+      "options": {
+        "A": "An operating system designed primarily to support one user at a time",
+        "B": "An operating system that supports multiple users simultaneously",
+        "C": "An operating system that supports multiple processors",
+        "D": "An operating system that runs only on servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "A single-user operating system is designed primarily to support one user at a time. It may still run multiple programs for that user.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS103",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a multi-user operating system?",
+      "options": {
+        "A": "An operating system that allows multiple users to access system resources, often concurrently, while managing their accounts, processes and permissions",
+        "B": "An operating system that supports only one user at a time",
+        "C": "An operating system that runs only on a single computer",
+        "D": "An operating system that does not support networking"
+      },
+      "correctAnswer": "A",
+      "explanation": "A multi-user operating system allows multiple users to access system resources, often concurrently, while managing their accounts, processes and permissions.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS104",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a single-tasking operating system?",
+      "options": {
+        "A": "An operating system designed to execute one task or program at a time",
+        "B": "An operating system that can execute multiple tasks at a time",
+        "C": "An operating system that supports multiple users",
+        "D": "An operating system that supports multiple processors"
+      },
+      "correctAnswer": "A",
+      "explanation": "A single-tasking operating system is designed to execute one task or program at a time.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS105",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a multitasking operating system?",
+      "options": {
+        "A": "An operating system that allows multiple programs or tasks to make progress during the same period by sharing CPU time and system resources",
+        "B": "An operating system that executes only one task at a time",
+        "C": "An operating system that supports only one user",
+        "D": "An operating system that does not support networking"
+      },
+      "correctAnswer": "A",
+      "explanation": "A multitasking operating system allows multiple programs or tasks to make progress during the same period by sharing CPU time and system resources.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS106",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a batch operating system?",
+      "options": {
+        "A": "An operating system that collects jobs and processes them in groups or batches with little or no direct interaction between the user and the job while it runs",
+        "B": "An operating system that provides interactive access to multiple users",
+        "C": "An operating system that supports multiple processors",
+        "D": "An operating system that runs only on mobile devices"
+      },
+      "correctAnswer": "A",
+      "explanation": "A batch operating system collects jobs and processes them in groups or batches with little or no direct interaction between the user and the job while it runs.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS107",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a time-sharing operating system?",
+      "options": {
+        "A": "An operating system that divides processor time into small intervals and allocates them among multiple users or processes, providing interactive access and the appearance of simultaneous execution",
+        "B": "An operating system that processes jobs in batches",
+        "C": "An operating system that supports only one user",
+        "D": "An operating system that is used only for real-time applications"
+      },
+      "correctAnswer": "A",
+      "explanation": "A time-sharing operating system divides processor time into small intervals and allocates them among multiple users or processes, providing interactive access and the appearance of simultaneous execution.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS108",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a multiprocessing operating system?",
+      "options": {
+        "A": "An operating system that supports a computer with two or more processors or processing cores and can schedule work across them",
+        "B": "An operating system that supports only one processor",
+        "C": "An operating system that supports multiple users",
+        "D": "An operating system that processes jobs in batches"
+      },
+      "correctAnswer": "A",
+      "explanation": "A multiprocessing operating system supports a computer with two or more processors or processing cores and can schedule work across them.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS109",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a real-time operating system used for?",
+      "options": {
+        "A": "Applications such as industrial control, medical equipment and embedded systems that require predictable responses within specified time limits",
+        "B": "Word processing and spreadsheets",
+        "C": "Web browsing and email",
+        "D": "Playing games and multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "A real-time operating system is designed to provide predictable responses within specified time limits. It is used in applications such as industrial control, medical equipment and embedded systems.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS110",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is an embedded operating system?",
+      "options": {
+        "A": "An operating system designed for a dedicated computing device with specific functions and often limited resources, such as a router, appliance, vehicle controller or industrial device",
+        "B": "An operating system designed for personal computers",
+        "C": "An operating system designed for servers only",
+        "D": "An operating system designed for mainframes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "An embedded operating system is designed for a dedicated computing device with specific functions and often limited resources, such as a router, appliance, vehicle controller or industrial device.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS111",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a mobile operating system?",
+      "options": {
+        "A": "An operating system designed for portable devices such as smartphones and tablets and manages touch input, wireless communication, applications, power and device hardware",
+        "B": "An operating system designed for desktop computers",
+        "C": "An operating system designed for servers",
+        "D": "An operating system designed for mainframes"
+      },
+      "correctAnswer": "A",
+      "explanation": "A mobile operating system is designed for portable devices such as smartphones and tablets and manages touch input, wireless communication, applications, power and device hardware.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS112",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between batch processing and time-sharing?",
+      "options": {
+        "A": "Batch processing runs collected jobs with little user interaction during execution; time-sharing provides interactive access by allocating short CPU time slices among users or processes",
+        "B": "Batch processing provides interactive access; time-sharing runs collected jobs with little user interaction",
+        "C": "There is no difference between them",
+        "D": "Batch processing is for mobile devices; time-sharing is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Batch processing runs collected jobs with little user interaction during execution; time-sharing provides interactive access by allocating short CPU time slices among users or processes.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS113",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between multitasking and multiprocessing?",
+      "options": {
+        "A": "Multitasking is the management of multiple tasks so they make progress during the same period; multiprocessing uses multiple processing units or cores to execute work concurrently",
+        "B": "Multitasking uses multiple processors; multiprocessing manages multiple tasks on a single processor",
+        "C": "There is no difference between them",
+        "D": "Multitasking is for mobile devices; multiprocessing is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multitasking is the management of multiple tasks so they make progress during the same period; multiprocessing uses multiple processing units or cores to execute work concurrently.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS114",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a multi-user and a multitasking operating system?",
+      "options": {
+        "A": "Multi-user describes support for multiple users, while multitasking describes the ability to manage multiple tasks or programs; an operating system can support both",
+        "B": "Multi-user describes the ability to manage multiple tasks; multitasking describes support for multiple users",
+        "C": "There is no difference between them",
+        "D": "Multi-user is for mobile devices; multitasking is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multi-user describes support for multiple users, while multitasking describes the ability to manage multiple tasks or programs. An operating system can support both.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS115",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Microsoft Windows?",
+      "options": {
+        "A": "A family of proprietary operating systems developed by Microsoft and widely used on personal computers and in business environments",
+        "B": "An open-source operating system",
+        "C": "A type of application software",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Microsoft Windows is a family of proprietary operating systems developed by Microsoft and widely used on personal computers and in business environments.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS116",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Linux?",
+      "options": {
+        "A": "An open-source, Unix-like operating-system kernel",
+        "B": "A proprietary operating system developed by Microsoft",
+        "C": "A type of application software",
+        "D": "A hardware component"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linux is an open-source, Unix-like operating-system kernel. Complete Linux operating systems are commonly distributed as distributions, such as Ubuntu, Fedora and Debian, which combine the kernel with system tools and applications.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS117",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a Linux distribution?",
+      "options": {
+        "A": "An operating-system package built around the Linux kernel and supplied with system utilities, package-management tools, applications and configuration choices",
+        "B": "A type of hardware",
+        "C": "A programming language",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Linux distribution is an operating-system package built around the Linux kernel and supplied with system utilities, package-management tools, applications and configuration choices. Examples include Ubuntu, Debian, Fedora and Linux Mint.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS118",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is UNIX?",
+      "options": {
+        "A": "A family of operating systems developed from the original UNIX system and associated standards, associated with multi-user and multitasking capabilities",
+        "B": "A type of application software",
+        "C": "A programming language",
+        "D": "A hardware component"
+      },
+      "correctAnswer": "A",
+      "explanation": "UNIX is a family of operating systems developed from the original UNIX system and associated standards. It influenced many modern operating systems and is associated with multi-user and multitasking capabilities.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS119",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is macOS?",
+      "options": {
+        "A": "Apple's proprietary desktop operating system for Mac computers, based on Darwin which includes a Unix-derived foundation",
+        "B": "An open-source operating system",
+        "C": "A type of application software",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "macOS is Apple's proprietary desktop operating system for Mac computers. It is based on Darwin, which includes a Unix-derived foundation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS120",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Android?",
+      "options": {
+        "A": "A mobile operating-system platform based on the Linux kernel and developed primarily by Google and the Android Open Source Project ecosystem",
+        "B": "A desktop operating system developed by Microsoft",
+        "C": "A type of application software",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Android is a mobile operating-system platform based on the Linux kernel and developed primarily by Google and the Android Open Source Project ecosystem.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+        {
+      "id": "CS121",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is iOS?",
+      "options": {
+        "A": "Apple's mobile operating system used on iPhone devices",
+        "B": "Google's mobile operating system",
+        "C": "Microsoft's desktop operating system",
+        "D": "A Linux distribution"
+      },
+      "correctAnswer": "A",
+      "explanation": "iOS is Apple's mobile operating system used on iPhone devices.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS122",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is ChromeOS?",
+      "options": {
+        "A": "Google's operating system designed primarily for Chromebook devices, with strong integration of web applications and cloud services while also supporting local applications",
+        "B": "Apple's desktop operating system",
+        "C": "Microsoft's mobile operating system",
+        "D": "A Linux kernel"
+      },
+      "correctAnswer": "A",
+      "explanation": "ChromeOS is Google's operating system designed primarily for Chromebook devices, with strong integration of web applications and cloud services while also supporting local applications.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS123",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which operating system is open source among common desktop choices?",
+      "options": {
+        "A": "Linux distributions such as Ubuntu, Debian and Fedora",
+        "B": "Microsoft Windows",
+        "C": "macOS",
+        "D": "ChromeOS"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linux distributions such as Ubuntu, Debian and Fedora are open-source operating systems. The Linux kernel is open source; Windows and macOS are proprietary.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS124",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are Windows, Linux and macOS operating systems or application software?",
+      "options": {
+        "A": "They are operating systems, so they are classified as system software",
+        "B": "They are application software",
+        "C": "They are hardware",
+        "D": "They are programming languages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Windows, Linux-based distributions and macOS are operating systems, so they are classified as system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS125",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are Microsoft Word and Microsoft Excel operating systems?",
+      "options": {
+        "A": "No, Microsoft Word is word-processing application software and Microsoft Excel is spreadsheet application software",
+        "B": "Yes, they are operating systems",
+        "C": "Yes, they are system software",
+        "D": "They are hardware components"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. Microsoft Word is word-processing application software, and Microsoft Excel is spreadsheet application software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS126",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a device driver?",
+      "options": {
+        "A": "Software that allows an operating system to identify, communicate with and control a hardware device through a defined interface",
+        "B": "A person who drives devices",
+        "C": "A hardware component",
+        "D": "A type of application software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A device driver is software that allows an operating system to identify, communicate with and control a hardware device through a defined interface.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS127",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Why are device drivers required?",
+      "options": {
+        "A": "Drivers translate operating-system requests into device-specific operations and communicate device status or data back to the operating system",
+        "B": "Drivers are required only for playing games",
+        "C": "Drivers are required only for browsing the internet",
+        "D": "Drivers are required only for word processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drivers translate operating-system requests into device-specific operations and communicate device status or data back to the operating system, allowing hardware and software to work together.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS128",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following are common examples of device drivers?",
+      "options": {
+        "A": "Printer drivers, graphics drivers, audio drivers, network-adapter drivers, Bluetooth drivers, storage-controller drivers and chipset drivers",
+        "B": "Word processors and spreadsheets",
+        "C": "Web browsers and email clients",
+        "D": "Games and media players"
+      },
+      "correctAnswer": "A",
+      "explanation": "Common examples of device drivers include printer drivers, graphics drivers, audio drivers, network-adapter drivers, Bluetooth drivers, storage-controller drivers and chipset drivers.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS129",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a printer driver?",
+      "options": {
+        "A": "Software that enables the operating system and applications to send print jobs in a format and set of commands understood by a particular printer or printer family",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that plays multimedia"
+      },
+      "correctAnswer": "A",
+      "explanation": "A printer driver is software that enables the operating system and applications to send print jobs in a format and set of commands understood by a particular printer or printer family.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS130",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a graphics driver?",
+      "options": {
+        "A": "Software that enables the operating system and applications to communicate with a graphics processing unit or display",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that plays audio"
+      },
+      "correctAnswer": "A",
+      "explanation": "A graphics driver enables the operating system and applications to communicate with a graphics processing unit or display.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS131",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is an audio driver?",
+      "options": {
+        "A": "Software that enables the operating system to communicate with sound hardware, such as an audio controller or sound card, for audio input and output",
+        "B": "Software that creates documents",
+        "C": "Software that browses the internet",
+        "D": "Software that manages files"
+      },
+      "correctAnswer": "A",
+      "explanation": "An audio driver enables the operating system to communicate with sound hardware, such as an audio controller or sound card, for audio input and output.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS132",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is a network driver?",
+      "options": {
+        "A": "Software that enables the operating system to communicate with a network interface, such as an Ethernet adapter or Wi-Fi adapter",
+        "B": "Software that creates documents",
+        "C": "Software that plays multimedia",
+        "D": "Software that manages files"
+      },
+      "correctAnswer": "A",
+      "explanation": "A network driver enables the operating system to communicate with a network interface, such as an Ethernet adapter or Wi-Fi adapter.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS133",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens if a required device driver is missing or corrupted?",
+      "options": {
+        "A": "The hardware may not work, may operate with limited functionality, or may produce errors",
+        "B": "The computer will always work perfectly",
+        "C": "The hardware will automatically fix itself",
+        "D": "The operating system will be deleted"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hardware may not work, may operate with limited functionality, or may produce errors. Installing a compatible and trusted driver or updating the existing driver can resolve some driver-related problems.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS134",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is Plug and Play (PnP)?",
+      "options": {
+        "A": "A technology that allows an operating system to detect and configure supported hardware devices with minimal user intervention, often by identifying the device and loading a suitable driver",
+        "B": "A technology that requires manual configuration of all hardware",
+        "C": "A type of application software",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plug and Play is a technology that allows an operating system to detect and configure supported hardware devices with minimal user intervention, often by identifying the device and loading a suitable driver.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS135",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a device driver and an application program?",
+      "options": {
+        "A": "A device driver enables the operating system to control or communicate with hardware, whereas an application program performs a task for the user",
+        "B": "A device driver performs tasks for the user; an application program controls hardware",
+        "C": "There is no difference between them",
+        "D": "A device driver is hardware; an application program is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A device driver enables the operating system to control or communicate with hardware, whereas an application program performs a task for the user, such as editing a document or browsing the web.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS136",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Are device drivers hardware or software?",
+      "options": {
+        "A": "Device drivers are software, specifically system software",
+        "B": "Device drivers are hardware",
+        "C": "Device drivers are firmware only",
+        "D": "Device drivers are application software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Device drivers are software, specifically system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS137",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Should drivers be downloaded from unknown websites?",
+      "options": {
+        "A": "No, drivers should be obtained from the device manufacturer, computer manufacturer or a trusted operating-system update service",
+        "B": "Yes, any website is safe for drivers",
+        "C": "Yes, unknown websites provide the best drivers",
+        "D": "Drivers do not need to be downloaded"
+      },
+      "correctAnswer": "A",
+      "explanation": "No. Drivers should be obtained from the device manufacturer, computer manufacturer or a trusted operating-system update service to reduce the risk of malware, incompatibility and incorrect installation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS138",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which software manages the computer's hardware resources?",
+      "options": {
+        "A": "System software, especially the operating system",
+        "B": "Application software",
+        "C": "Utility software only",
+        "D": "Firmware only"
+      },
+      "correctAnswer": "A",
+      "explanation": "System software, especially the operating system, manages the computer's hardware resources.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS139",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which software is designed to perform user-oriented tasks?",
+      "options": {
+        "A": "Application software",
+        "B": "System software",
+        "C": "Firmware",
+        "D": "Device drivers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Application software is designed to perform user-oriented tasks such as word processing, calculations and browsing.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS140",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which software is used to protect a computer against malware?",
+      "options": {
+        "A": "Antivirus or endpoint-protection software",
+        "B": "Word processing software",
+        "C": "Spreadsheet software",
+        "D": "Presentation software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antivirus or endpoint-protection software is a security utility used to detect, block or remove malware.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS141",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which software manages files and folders?",
+      "options": {
+        "A": "The operating system provides file-management functions, and a file-manager utility or application gives users an interface to perform file operations",
+        "B": "Only application software",
+        "C": "Only firmware",
+        "D": "Only device drivers"
+      },
+      "correctAnswer": "A",
+      "explanation": "The operating system provides file-management functions, and a file-manager utility or application gives users an interface to perform file operations.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS142",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which software allows the operating system to communicate with a printer?",
+      "options": {
+        "A": "A printer driver",
+        "B": "A word processor",
+        "C": "A web browser",
+        "D": "A spreadsheet program"
+      },
+      "correctAnswer": "A",
+      "explanation": "A printer driver allows the operating system to communicate with and control a compatible printer.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS143",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which software converts a high-level language program into object code before execution in the traditional model?",
+      "options": {
+        "A": "A compiler",
+        "B": "An interpreter",
+        "C": "An assembler",
+        "D": "A linker"
+      },
+      "correctAnswer": "A",
+      "explanation": "A compiler translates high-level source code into object code or another target representation before execution.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS144",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which software translates assembly language into machine code?",
+      "options": {
+        "A": "An assembler",
+        "B": "A compiler",
+        "C": "An interpreter",
+        "D": "A linker"
+      },
+      "correctAnswer": "A",
+      "explanation": "An assembler translates assembly-language instructions into machine code or object code.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS145",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which software executes instructions at runtime without the traditional requirement to compile the entire source program into a standalone executable first?",
+      "options": {
+        "A": "An interpreter",
+        "B": "A compiler",
+        "C": "An assembler",
+        "D": "A linker"
+      },
+      "correctAnswer": "A",
+      "explanation": "An interpreter executes program instructions at runtime, although modern language systems may also use intermediate code and just-in-time compilation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS146",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which category includes Windows, Linux distributions and macOS?",
+      "options": {
+        "A": "They are operating systems and are classified as system software",
+        "B": "They are application software",
+        "C": "They are utility software only",
+        "D": "They are firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "They are operating systems and are classified as system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS147",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which category includes word processors, spreadsheets and presentation programs?",
+      "options": {
+        "A": "They are application software",
+        "B": "They are system software",
+        "C": "They are utility software",
+        "D": "They are firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "They are application software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS148",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which category includes antivirus, backup and disk-cleanup tools?",
+      "options": {
+        "A": "They are utility software, generally considered a category of system software",
+        "B": "They are application software",
+        "C": "They are operating systems",
+        "D": "They are firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "They are utility software, generally considered a category of system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS149",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which type of software is stored in a device to control its basic operation?",
+      "options": {
+        "A": "Firmware",
+        "B": "Application software",
+        "C": "Utility software",
+        "D": "Database software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Firmware is stored in non-volatile memory and controls basic device operations.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS150",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between a virus and a worm?",
+      "options": {
+        "A": "A virus attaches to a host file or program and spreads when the host is activated; a worm can self-replicate and spread independently across systems or networks",
+        "B": "A virus self-replicates independently; a worm attaches to a host file",
+        "C": "There is no difference between them",
+        "D": "A virus is hardware; a worm is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A virus attaches to a host file or program and spreads when the host is activated; a worm can self-replicate and spread independently across systems or networks.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS151",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between a Trojan horse and a virus?",
+      "options": {
+        "A": "A Trojan horse disguises itself as legitimate software to deceive users and does not inherently self-replicate; a virus attaches to a host and replicates when activated",
+        "B": "A Trojan horse self-replicates; a virus does not",
+        "C": "There is no difference between them",
+        "D": "A Trojan horse is hardware; a virus is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Trojan horse disguises itself as legitimate software to deceive users and does not inherently self-replicate; a virus attaches to a host and replicates when activated.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS152",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between freeware and open-source software?",
+      "options": {
+        "A": "Freeware is available without a purchase price but may have closed source and restrictive terms; open-source software provides source-code access and rights defined by its licence",
+        "B": "Freeware provides source code; open-source software does not",
+        "C": "There is no difference between them",
+        "D": "Freeware is always open source; open-source software is always paid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freeware is available without a purchase price but may have closed source and restrictive terms; open-source software provides source-code access and rights defined by its licence.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS153",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between an update and an upgrade?",
+      "options": {
+        "A": "An update generally applies fixes, security improvements or smaller enhancements to an existing version; an upgrade usually moves to a newer major version or a more substantial release",
+        "B": "An update moves to a new major version; an upgrade applies small fixes",
+        "C": "There is no difference between them",
+        "D": "An update is for hardware; an upgrade is for software"
+      },
+      "correctAnswer": "A",
+      "explanation": "An update generally applies fixes, security improvements or smaller enhancements to an existing version; an upgrade usually moves to a newer major version or a more substantial release. Vendors may use these terms differently.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS154",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does OS stand for?",
+      "options": {
+        "A": "Operating System",
+        "B": "Open Source",
+        "C": "Optical Scanner",
+        "D": "Output System"
+      },
+      "correctAnswer": "A",
+      "explanation": "OS stands for Operating System.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS155",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does GUI stand for?",
+      "options": {
+        "A": "Graphical User Interface",
+        "B": "General User Input",
+        "C": "Graphic Utility Interface",
+        "D": "Global User Integration"
+      },
+      "correctAnswer": "A",
+      "explanation": "GUI stands for Graphical User Interface.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS156",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does CLI stand for?",
+      "options": {
+        "A": "Command-Line Interface",
+        "B": "Computer Language Interface",
+        "C": "Central Logic Input",
+        "D": "Common Line Integration"
+      },
+      "correctAnswer": "A",
+      "explanation": "CLI stands for Command-Line Interface.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS157",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does BIOS stand for?",
+      "options": {
+        "A": "Basic Input/Output System",
+        "B": "Binary Input Output Software",
+        "C": "Basic Internal Operating System",
+        "D": "Boot Input Output Service"
+      },
+      "correctAnswer": "A",
+      "explanation": "BIOS stands for Basic Input/Output System. It is motherboard firmware used to initialise hardware and begin the boot process; modern systems commonly use UEFI.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS158",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does UEFI stand for?",
+      "options": {
+        "A": "Unified Extensible Firmware Interface",
+        "B": "Universal Extended Firmware Integration",
+        "C": "Unified External File Interface",
+        "D": "Universal Embedded Firmware Input"
+      },
+      "correctAnswer": "A",
+      "explanation": "UEFI stands for Unified Extensible Firmware Interface.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS159",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does ERP stand for?",
+      "options": {
+        "A": "Enterprise Resource Planning",
+        "B": "External Resource Protocol",
+        "C": "Electronic Resource Processing",
+        "D": "Enterprise Recovery Program"
+      },
+      "correctAnswer": "A",
+      "explanation": "ERP stands for Enterprise Resource Planning.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS160",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does CRM stand for?",
+      "options": {
+        "A": "Customer Relationship Management",
+        "B": "Central Resource Management",
+        "C": "Computer Resource Module",
+        "D": "Customer Recovery Method"
+      },
+      "correctAnswer": "A",
+      "explanation": "CRM stands for Customer Relationship Management.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS161",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does RTOS stand for?",
+      "options": {
+        "A": "Real-Time Operating System",
+        "B": "Remote Terminal Operating System",
+        "C": "Rapid Transfer Operating System",
+        "D": "Runtime Operating System"
+      },
+      "correctAnswer": "A",
+      "explanation": "RTOS stands for Real-Time Operating System.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS162",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does PnP stand for?",
+      "options": {
+        "A": "Plug and Play",
+        "B": "Print and Print",
+        "C": "Program and Process",
+        "D": "Power and Performance"
+      },
+      "correctAnswer": "A",
+      "explanation": "PnP stands for Plug and Play.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS163",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does GPL stand for?",
+      "options": {
+        "A": "GNU General Public License",
+        "B": "General Program Licence",
+        "C": "Global Public Licence",
+        "D": "GNU Program Logic"
+      },
+      "correctAnswer": "A",
+      "explanation": "GPL stands for GNU General Public License, a widely used free-software licence that grants specified rights to use, study, modify and redistribute software under its terms.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS164",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Exam Accuracy Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How is utility software usually classified in textbooks?",
+      "options": {
+        "A": "Usually taught as a subcategory of system software, but textbooks may classify it separately for convenience",
+        "B": "Always classified as application software",
+        "C": "Always classified as firmware",
+        "D": "Always classified as hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Utility software is usually taught as a subcategory of system software, but textbooks may classify it separately for convenience.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+        {
+      "id": "CS165",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Exam Accuracy Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Technically, what does Linux refer to?",
+      "options": {
+        "A": "The kernel; Ubuntu, Debian and Fedora are examples of complete Linux distributions",
+        "B": "A complete operating system with all applications",
+        "C": "A type of hardware",
+        "D": "A programming language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linux technically refers to the kernel; Ubuntu, Debian and Fedora are examples of complete Linux distributions.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS166",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Exam Accuracy Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "How are a compiler, interpreter and assembler commonly classified?",
+      "options": {
+        "A": "As language-translation tools and commonly classified as system software",
+        "B": "As application software",
+        "C": "As utility software only",
+        "D": "As firmware"
+      },
+      "correctAnswer": "A",
+      "explanation": "A compiler, interpreter and assembler are language-translation tools and are commonly classified as system software.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS167",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Exam Accuracy Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What do the labels freeware, shareware and open source describe?",
+      "options": {
+        "A": "Different licensing or distribution characteristics; free of cost does not automatically mean open source",
+        "B": "The same thing in all cases",
+        "C": "Only the price of software",
+        "D": "Only the hardware requirements"
+      },
+      "correctAnswer": "A",
+      "explanation": "The labels freeware, shareware and open source describe different licensing or distribution characteristics; free of cost does not automatically mean open source.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS168",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Exam Accuracy Notes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Can the categories of operating systems overlap?",
+      "options": {
+        "A": "Yes, for example an operating system can be multi-user, multitasking and multiprocessing at the same time",
+        "B": "No, an operating system can belong to only one category",
+        "C": "Yes, but only multi-user and multitasking can overlap",
+        "D": "No, categories are always mutually exclusive"
+      },
+      "correctAnswer": "A",
+      "explanation": "The categories of operating systems can overlap. For example, an operating system can be multi-user, multitasking and multiprocessing at the same time.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS169",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does software control in a computer?",
+      "options": {
+        "A": "Hardware operations and resource management",
+        "B": "Only the monitor brightness",
+        "C": "Only the keyboard input",
+        "D": "Only the printer output"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software provides the instructions that make hardware useful. It controls hardware operations, manages resources and enables users to perform tasks such as writing documents, calculations and communication.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS170",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is true about hardware and software?",
+      "options": {
+        "A": "Hardware performs operations under the direction of software, and software requires hardware to execute",
+        "B": "Software performs operations without hardware",
+        "C": "Hardware and software are the same thing",
+        "D": "Software is physical and hardware is non-physical"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hardware performs operations under the direction of software, and software requires hardware to execute.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS171",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Is freeware necessarily open source?",
+      "options": {
+        "A": "No, freeware is not necessarily open source; its source code and modification rights may remain restricted",
+        "B": "Yes, all freeware is open source",
+        "C": "Yes, freeware always provides source code",
+        "D": "Freeware is always proprietary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freeware is software made available for use without a purchase price. Freeware is not necessarily open source; its source code and modification rights may remain restricted.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS172",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does a software licence set out?",
+      "options": {
+        "A": "The conditions under which software may be installed, used, copied, modified or distributed",
+        "B": "The hardware requirements only",
+        "C": "The programming language used only",
+        "D": "The network speed only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A software licence is a legal agreement that sets out the conditions under which software may be installed, used, copied, modified or distributed.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS173",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of software updating?",
+      "options": {
+        "A": "To fix defects, improve security, add features or maintain compatibility",
+        "B": "To delete all files from the computer",
+        "C": "To replace the hardware",
+        "D": "To change the operating system permanently"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software updating is the process of replacing or modifying installed software components to fix defects, improve security, add features or maintain compatibility.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS174",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Software - Basic Concepts",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the purpose of version numbers in software?",
+      "options": {
+        "A": "To help users distinguish releases and determine compatibility or update status",
+        "B": "To increase the size of the software",
+        "C": "To change the programming language",
+        "D": "To replace the hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Version numbers help users distinguish releases and determine compatibility or update status.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS175",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does the kernel of an operating system manage?",
+      "options": {
+        "A": "Core functions such as processes, memory, files and devices",
+        "B": "Only the user interface",
+        "C": "Only the web browser",
+        "D": "Only the word processor"
+      },
+      "correctAnswer": "A",
+      "explanation": "The kernel is the central component of an operating system. It manages core functions such as processes, memory, files and devices.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS176",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a shell in an operating system?",
+      "options": {
+        "A": "A user interface or command interpreter through which users or programs request operating-system services",
+        "B": "A physical case that holds the computer",
+        "C": "A type of hardware",
+        "D": "A network cable"
+      },
+      "correctAnswer": "A",
+      "explanation": "A shell is a user interface or command interpreter through which users or programs request operating-system services. It may be command-line based or graphical, depending on the system.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS177",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "System Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the difference between a traditional compiler and an interpreter?",
+      "options": {
+        "A": "A traditional compiler translates source code into a target program or object code before execution, whereas an interpreter carries out program instructions at runtime",
+        "B": "A compiler executes code at runtime and an interpreter translates before execution",
+        "C": "There is no difference between them",
+        "D": "A compiler is hardware and an interpreter is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A traditional compiler translates source code into a target program or object code before execution, whereas an interpreter carries out program instructions at runtime. Modern language implementations may combine compilation and interpretation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS178",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is an example of a database-management system?",
+      "options": {
+        "A": "MySQL",
+        "B": "Microsoft Word",
+        "C": "Google Chrome",
+        "D": "Microsoft PowerPoint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Database application software is used to create, store, organise, retrieve and manage structured data. Examples include database-management systems such as Microsoft Access, MySQL and PostgreSQL.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS179",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which protocol is commonly used by email clients to access email?",
+      "options": {
+        "A": "IMAP",
+        "B": "HTTP",
+        "C": "FTP",
+        "D": "SSH"
+      },
+      "correctAnswer": "A",
+      "explanation": "An email client may access email through protocols or services such as IMAP, POP3 and SMTP.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS180",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Application Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the purpose of enterprise resource planning (ERP) software?",
+      "options": {
+        "A": "To integrate major organisational processes and data, such as finance, procurement, inventory, production and human resources, within a coordinated software system",
+        "B": "To create slide presentations only",
+        "C": "To browse the internet only",
+        "D": "To play multimedia only"
+      },
+      "correctAnswer": "A",
+      "explanation": "ERP stands for Enterprise Resource Planning. An ERP system integrates major organisational processes and data, such as finance, procurement, inventory, production and human resources, within a coordinated software system.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS181",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does encryption software convert plaintext into?",
+      "options": {
+        "A": "Ciphertext",
+        "B": "Plaintext",
+        "C": "Machine code",
+        "D": "Assembly code"
+      },
+      "correctAnswer": "A",
+      "explanation": "Encryption software converts readable data (plaintext) into an encoded form (ciphertext) using a cryptographic method and key, so that only authorised parties with the required key can decrypt it.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS182",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which compression type is commonly lossless?",
+      "options": {
+        "A": "ZIP",
+        "B": "JPEG",
+        "C": "MP3",
+        "D": "MP4"
+      },
+      "correctAnswer": "A",
+      "explanation": "ZIP is commonly lossless; JPEG image compression is commonly lossy.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS183",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which compression type is commonly lossy?",
+      "options": {
+        "A": "JPEG",
+        "B": "ZIP",
+        "C": "7z",
+        "D": "RAR"
+      },
+      "correctAnswer": "A",
+      "explanation": "JPEG image compression is commonly lossy.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS184",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Utility Software",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Do SSDs generally require traditional defragmentation?",
+      "options": {
+        "A": "No, SSDs generally do not require traditional defragmentation; operating systems use SSD-specific optimisation such as TRIM",
+        "B": "Yes, SSDs require defragmentation daily",
+        "C": "Yes, SSDs require defragmentation more than HDDs",
+        "D": "SSDs cannot be optimised at all"
+      },
+      "correctAnswer": "A",
+      "explanation": "SSDs generally do not require traditional defragmentation; operating systems use SSD-specific optimisation such as TRIM.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS185",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Does virtual memory make secondary storage as fast as RAM?",
+      "options": {
+        "A": "No, virtual memory does not make storage as fast as RAM",
+        "B": "Yes, virtual memory makes storage as fast as RAM",
+        "C": "Yes, virtual memory replaces RAM completely",
+        "D": "Virtual memory is faster than RAM"
+      },
+      "correctAnswer": "A",
+      "explanation": "Virtual memory is a memory-management technique that gives processes a virtual address space and allows the operating system to use secondary storage as backing for some memory contents when needed. It does not make storage as fast as RAM.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS186",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a file system?",
+      "options": {
+        "A": "The method and data structure an operating system uses to organise, name, store and retrieve files on a storage device",
+        "B": "A type of hardware",
+        "C": "A type of application software",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "A file system is the method and data structure an operating system uses to organise, name, store and retrieve files on a storage device. Examples include FAT32, exFAT, NTFS, ext4 and APFS.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS187",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What happens during booting of an operating system?",
+      "options": {
+        "A": "Firmware initialises hardware, identifies a bootable device and starts a bootloader or operating-system loader, which loads the operating system into memory",
+        "B": "The operating system is deleted from memory",
+        "C": "The computer is turned off",
+        "D": "All files are deleted"
+      },
+      "correctAnswer": "A",
+      "explanation": "Booting is the startup process in which firmware initialises hardware, identifies a bootable device and starts a bootloader or operating-system loader, which loads the operating system into memory.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS188",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Operating Systems - Concepts and Functions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is a system call used for?",
+      "options": {
+        "A": "To request a service from the operating-system kernel, such as file access, process creation or memory management",
+        "B": "To make a telephone call",
+        "C": "To send an email",
+        "D": "To print a document"
+      },
+      "correctAnswer": "A",
+      "explanation": "A system call is a controlled interface through which an application requests a service from the operating-system kernel, such as file access, process creation or memory management.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS189",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Types of Operating Systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What does a time-sharing operating system provide?",
+      "options": {
+        "A": "Interactive access by allocating short CPU time slices among users or processes",
+        "B": "Batch processing with no user interaction",
+        "C": "Only single-user access",
+        "D": "Only real-time processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "A time-sharing operating system divides processor time into small intervals and allocates them among multiple users or processes, providing interactive access and the appearance of simultaneous execution.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS190",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is a Linux distribution?",
+      "options": {
+        "A": "Ubuntu",
+        "B": "Windows 11",
+        "C": "macOS",
+        "D": "iOS"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Linux distribution is an operating-system package built around the Linux kernel. Examples include Ubuntu, Debian, Fedora and Linux Mint.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS191",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Common Operating Systems and Examples",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which operating system is based on Darwin, which includes a Unix-derived foundation?",
+      "options": {
+        "A": "macOS",
+        "B": "Windows",
+        "C": "Android",
+        "D": "ChromeOS"
+      },
+      "correctAnswer": "A",
+      "explanation": "macOS is Apple's proprietary desktop operating system for Mac computers. It is based on Darwin, which includes a Unix-derived foundation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS192",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Device Drivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the risk of downloading drivers from unknown websites?",
+      "options": {
+        "A": "Malware, incompatibility and incorrect installation",
+        "B": "Faster computer performance",
+        "C": "Better security",
+        "D": "Improved hardware quality"
+      },
+      "correctAnswer": "A",
+      "explanation": "Drivers should be obtained from the device manufacturer, computer manufacturer or a trusted operating-system update service to reduce the risk of malware, incompatibility and incorrect installation.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS193",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between a Trojan horse and a worm?",
+      "options": {
+        "A": "A Trojan horse disguises itself as legitimate software and does not inherently self-replicate; a worm can self-replicate and spread independently",
+        "B": "A Trojan horse self-replicates; a worm does not",
+        "C": "There is no difference between them",
+        "D": "A Trojan horse is hardware; a worm is software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Trojan horse disguises itself as legitimate software to deceive users and does not inherently self-replicate; a worm can self-replicate and spread independently across systems or networks.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS194",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between authentication and authorisation?",
+      "options": {
+        "A": "Authentication verifies identity; authorisation determines the permissions granted to that identity",
+        "B": "Authentication determines permissions; authorisation verifies identity",
+        "C": "There is no difference between them",
+        "D": "Authentication is for hardware; authorisation is for software"
+      },
+      "correctAnswer": "A",
+      "explanation": "Authentication verifies identity; authorisation determines the permissions granted to that identity.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS195",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between a multi-user and a multitasking operating system?",
+      "options": {
+        "A": "Multi-user describes support for multiple users, while multitasking describes the ability to manage multiple tasks or programs; an operating system can support both",
+        "B": "Multi-user describes the ability to manage multiple tasks; multitasking describes support for multiple users",
+        "C": "There is no difference between them",
+        "D": "Multi-user is for mobile devices; multitasking is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multi-user describes support for multiple users, while multitasking describes the ability to manage multiple tasks or programs. An operating system can support both.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS196",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between batch processing and time-sharing?",
+      "options": {
+        "A": "Batch processing runs collected jobs with little user interaction during execution; time-sharing provides interactive access by allocating short CPU time slices among users or processes",
+        "B": "Batch processing provides interactive access; time-sharing runs collected jobs with little user interaction",
+        "C": "There is no difference between them",
+        "D": "Batch processing is for mobile devices; time-sharing is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Batch processing runs collected jobs with little user interaction during execution; time-sharing provides interactive access by allocating short CPU time slices among users or processes.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS197",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between multitasking and multiprocessing?",
+      "options": {
+        "A": "Multitasking is the management of multiple tasks so they make progress during the same period; multiprocessing uses multiple processing units or cores to execute work concurrently",
+        "B": "Multitasking uses multiple processors; multiprocessing manages multiple tasks on a single processor",
+        "C": "There is no difference between them",
+        "D": "Multitasking is for mobile devices; multiprocessing is for servers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multitasking is the management of multiple tasks so they make progress during the same period; multiprocessing uses multiple processing units or cores to execute work concurrently.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS198",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between freeware and open-source software?",
+      "options": {
+        "A": "Freeware is available without a purchase price but may have closed source and restrictive terms; open-source software provides source-code access and rights defined by its licence",
+        "B": "Freeware provides source code; open-source software does not",
+        "C": "There is no difference between them",
+        "D": "Freeware is always open source; open-source software is always paid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freeware is available without a purchase price but may have closed source and restrictive terms; open-source software provides source-code access and rights defined by its licence.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS199",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the key difference between an update and an upgrade?",
+      "options": {
+        "A": "An update generally applies fixes, security improvements or smaller enhancements to an existing version; an upgrade usually moves to a newer major version or a more substantial release",
+        "B": "An update moves to a new major version; an upgrade applies small fixes",
+        "C": "There is no difference between them",
+        "D": "An update is for hardware; an upgrade is for software"
+      },
+      "correctAnswer": "A",
+      "explanation": "An update generally applies fixes, security improvements or smaller enhancements to an existing version; an upgrade usually moves to a newer major version or a more substantial release. Vendors may use these terms differently.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    },
+    {
+      "id": "CS200",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Software",
+      "chapter": "Important Comparisons and Examination Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does BIOS stand for and what is its role?",
+      "options": {
+        "A": "Basic Input/Output System; motherboard firmware used to initialise hardware and begin the boot process",
+        "B": "Binary Input Output Software; used for word processing",
+        "C": "Basic Internal Operating System; used for browsing",
+        "D": "Boot Input Output Service; used for printing"
+      },
+      "correctAnswer": "A",
+      "explanation": "BIOS stands for Basic Input/Output System. It is motherboard firmware used to initialise hardware and begin the boot process; modern systems commonly use UEFI.",
+      "source": "FDA_SDA_Computer_Knowledge_18_3_Computer_Software.pdf"
+    }
+  ]
+}

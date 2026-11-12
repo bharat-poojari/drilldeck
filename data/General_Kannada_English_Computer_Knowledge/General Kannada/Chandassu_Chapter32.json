@@ -1,0 +1,4039 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank derived from Chapter 32: Kannada Pramukha Chandhopakaragalu (Kannada Prosody). Verify and expand questions before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ 'ಛಂದಸ್ಸು' ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಾವ್ಯದ ಪದ್ಯಗಳಲ್ಲಿ ಅಕ್ಷರ, ಮಾತ್ರೆ, ಲಘು-ಗುರು, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳ ನಿಯಮಬದ್ಧ ವಿನ್ಯಾಸವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "B": "ಕಾವ್ಯದ ಅರ್ಥ ಮತ್ತು ಭಾವನೆಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "C": "ಕಾವ್ಯದ ಛಂದಸ್ಸಿನಲ್ಲಿ ಬಳಸುವ ಪದಗಳನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "D": "ಕಾವ್ಯದ ಕಥಾವಸ್ತುವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಎಂದರೆ ಕಾವ್ಯದ ಪದ್ಯಗಳಲ್ಲಿ ಅಕ್ಷರ, ಮಾತ್ರೆ, ಲಘು-ಗುರು, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳ ನಿಯಮಬದ್ಧ ವಿನ್ಯಾಸವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮುಖ್ಯ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಪದ್ಯಕ್ಕೆ ಲಯ, ಗತಿ, ಶ್ರವ್ಯಸೌಂದರ್ಯ ಮತ್ತು ನಿಯಮಬದ್ಧ ರಚನೆಯನ್ನು ಒದಗಿಸುವುದು",
+        "B": "ಪದ್ಯಕ್ಕೆ ಕೇವಲ ಅರ್ಥವನ್ನು ಒದಗಿಸುವುದು",
+        "C": "ಪದ್ಯಕ್ಕೆ ಕೇವಲ ಭಾವನೆಯನ್ನು ಒದಗಿಸುವುದು",
+        "D": "ಪದ್ಯಕ್ಕೆ ಕೇವಲ ವ್ಯಾಕರಣವನ್ನು ಒದಗಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮುಖ್ಯ ಉದ್ದೇಶ ಪದ್ಯಕ್ಕೆ ಲಯ, ಗತಿ, ಶ್ರವ್ಯಸೌಂದರ್ಯ ಮತ್ತು ನಿಯಮಬದ್ಧ ರಚನೆಯನ್ನು ಒದಗಿಸುವುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅಕ್ಷರ, ಮಾತ್ರೆ, ಲಘು, ಗುರು, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸ",
+        "B": "ಅಕ್ಷರ, ಪದ, ವಾಕ್ಯ, ಪರಿಚ್ಛೇದ",
+        "C": "ಸ್ವರ, ವ್ಯಂಜನ, ಒತ್ತಕ್ಷರ",
+        "D": "ನಾಮಪದ, ಸರ್ವನಾಮ, ಕ್ರಿಯಾಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಅಕ್ಷರ, ಮಾತ್ರೆ, ಲಘು, ಗುರು, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಲಘು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಹ್ರಸ್ವ ಉಚ್ಚಾರಣೆಯ ಅಕ್ಷರ",
+        "B": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ದೀರ್ಘ ಉಚ್ಚಾರಣೆಯ ಅಕ್ಷರ",
+        "C": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ",
+        "D": "ನಾಲ್ಕು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನಲ್ಲಿ ಒಂದು ಮಾತ್ರೆಯ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಹ್ರಸ್ವ ಉಚ್ಚಾರಣೆಯ ಅಕ್ಷರವನ್ನು ಲಘು ಎನ್ನುವರು. ಸಾಮಾನ್ಯವಾಗಿ 'ಲ' ಚಿಹ್ನೆಯಿಂದ ಸೂಚಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗುರು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ",
+        "B": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ",
+        "C": "ಮೂರು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ",
+        "D": "ನಾಲ್ಕು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡು ಮಾತ್ರೆಗಳ ಕಾಲವಳ್ಳಿ ಹೊಂದಿರುವ ಅಕ್ಷರವನ್ನು ಗುರು ಎನ್ನುವರು. ದೀರ್ಘಸ್ವರ, ಅನುಸ್ವಾರ ಅಥವಾ ವಿಸರ್ಗಾಂತ ಅಕ್ಷರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಗುರುವಾಗುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಾತ್ರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅಕ್ಷರದ ಉಚ್ಚಾರಣೆಗೆ ಬೇಕಾಗುವ ಕಾಲಮಾನದ ಘಟಕ",
+        "B": "ಅಕ್ಷರದ ಎತ್ತರದ ಅಳತೆ",
+        "C": "ಅಕ್ಷರದ ಅಗಲದ ಅಳತೆ",
+        "D": "ಅಕ್ಷರದ ಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರದ ಉಚ್ಚಾರಣೆಗೆ ಬೇಕಾಗುವ ಕಾಲಮಾನದ ಘಟಕವೇ ಮಾತ್ರೆ. ಸಾಮಾನ್ಯ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಹ್ರಸ್ವಕ್ಕೆ ಒಂದು, ದೀರ್ಘಕ್ಕೆ ಎರಡು ಮಾತ್ರೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿ ಗುಂಪುಗೊಂಡ ಅಕ್ಷರಸಮೂಹ",
+        "B": "ಒಂದೇ ಅಕ್ಷರದ ಪುನರಾವರ್ತನೆ",
+        "C": "ಎರಡು ಅಕ್ಷರಗಳ ಸಮೂಹ",
+        "D": "ಮೂರು ಪದಗಳ ಸಮೂಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದಲ್ಲಿ ಗುಂಪುಗೊಂಡ ಅಕ್ಷರಸಮೂಹವೇ ಗಣ. ವರ್ಣವೃತ್ತಗಳಲ್ಲಿ ಮೂರು ಅಕ್ಷರಗಳ ಗುಂಪನ್ನು ಗಣವೆಂದು ಗುರುತಿಸುವ ಪದ್ಧತಿ ಇದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q7"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಉಂಟಾಗುವ ವಿರಾಮ ಅಥವಾ ನಿಲುಗಡೆ",
+        "B": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ",
+        "C": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ಪದಗಳ ಸಂಖ್ಯೆ",
+        "D": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ಗಣಗಳ ಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಉಂಟಾಗುವ ವಿರಾಮ ಅಥವಾ ನಿಲುಗಡೆಯೇ ಯತಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಒಂದೇ ಅಥವಾ ಹೋಲುವ ಧ್ವನಿ ಪುನರಾವರ್ತನೆಯಾಗುವುದು",
+        "B": "ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ",
+        "C": "ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ಗಣಗಳ ಸಂಖ್ಯೆ",
+        "D": "ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ಯತಿಗಳ ಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಯದ ಸಾಲುಗಳಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಒಂದೇ ಅಥವಾ ಹೋಲುವ ಧ್ವನಿ ಪುನರಾವರ್ತನೆಯಾಗುವುದೇ ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಪ್ರಮುಖ ವಿಭಾಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಛಂದಸ್ಸು, ಅಕ್ಷರಗಣ ಅಥವಾ ವರ್ಣವೃತ್ತಗಳು ಮತ್ತು ಅಧುನಿಕ ಮುಕ್ತಛಂದಸ್ಸು",
+        "B": "ವೃತ್ತ, ಜಾತಿ, ಉಪಜಾತಿ",
+        "C": "ತ್ರಿಪದಿ, ಷಟ್ಪದಿ, ರಗಳೆ",
+        "D": "ಕಂದಪದ್ಯ, ಸಾಂಗತ್ಯ, ಮುಕ್ತಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಪ್ರಮುಖ ವಿಭಾಗಗಳು: ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಛಂದಸ್ಸು, ಅಕ್ಷರಗಣ ಅಥವಾ ವರ್ಣವೃತ್ತಗಳು ಮತ್ತು ಅಧುನಿಕ ಮುಕ್ತಛಂದಸ್ಸು.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q10"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಪ್ರಾಚೀನ ಮತ್ತು ಪ್ರಸಿದ್ಧ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ಒಂದು",
+        "B": "ಮೂರು ಸಾಲುಗಳ ಪದ್ಯ",
+        "C": "ಆರು ಸಾಲುಗಳ ಪದ್ಯ",
+        "D": "ನಾಲ್ಕು ಸಾಲುಗಳ ಪದ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯವು ಕನ್ನಡದ ಪ್ರಾಚೀನ ಮತ್ತು ಪ್ರಸಿದ್ಧ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ಒಂದು. ಇದರ ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದ ರಚನಾ ವೈಶಿಷ್ಟ್ಯವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯವಾಗಿ ನಾಲ್ಕು ಪಾದಗಳ ಪದ್ಯರೂಪವಾಗಿದ್ದು, ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಮಾತ್ರೆಗಳ ವಿಭಾಗ ಮತ್ತು ಯತಿ ನಿಗದಿತ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ",
+        "B": "ಮೂರು ಪಾದಗಳ ಪದ್ಯರೂಪ",
+        "C": "ಆರು ಪಾದಗಳ ಪದ್ಯರೂಪ",
+        "D": "ಎರಡು ಪಾದಗಳ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ನಾಲ್ಕು ಪಾದಗಳ ಪದ್ಯರೂಪವಾಗಿದ್ದು, ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಮಾತ್ರೆಗಳ ವಿಭಾಗ ಮತ್ತು ಯತಿ ನಿಗದಿತ ಕ್ರಮದಲ್ಲಿರುತ್ತವೆ. ಪಾಶ್ಚಾತ್ಯ ಛಂದೋಗ್ರಂಥಗಳಲ್ಲಿ ಗಣನೆಗೆ ಸಂಬಂಧಿಸಿದ ಸೂಕ್ಷ್ಮ ನಿಯಮಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ಕಲಿಯಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯವನ್ನು ಯಾವ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕಾಣಬಹುದು?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡ ಮತ್ತು ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಕಾವ್ಯಗಳಲ್ಲಿ",
+        "B": "ಆಧುನಿಕ ಕನ್ನಡ ಕಾವ್ಯಗಳಲ್ಲಿ ಮಾತ್ರ",
+        "C": "ಸಂಸ್ಕೃತ ಕಾವ್ಯಗಳಲ್ಲಿ ಮಾತ್ರ",
+        "D": "ಇಂಗ್ಲಿಷ್ ಕಾವ್ಯಗಳಲ್ಲಿ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯವನ್ನು ಹಳಗನ್ನಡ ಮತ್ತು ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಕಾವ್ಯಗಳಲ್ಲಿ ಬಳಸಿದ್ದನ್ನು ಕಾಣಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q13"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮೂರು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳನ್ನು ಒಳಗೊಂಡ ಕನ್ನಡದ ಜನಪ್ರಿಯ ಪದ್ಯರೂಪ",
+        "B": "ಆರು ಸಾಲುಗಳನ್ನು ಒಳಗೊಂಡ ಪದ್ಯರೂಪ",
+        "C": "ನಾಲ್ಕು ಸಾಲುಗಳನ್ನು ಒಳಗೊಂಡ ಪದ್ಯರೂಪ",
+        "D": "ಎರಡು ಸಾಲುಗಳನ್ನು ಒಳಗೊಂಡ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂರು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳನ್ನು ಒಳಗೊಂಡ ಕನ್ನಡದ ಜನಪ್ರಿಯ ಪದ್ಯರೂಪವೇ ತ್ರಿಪದಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ ಮತ್ತು ಕೊನೆಯ ಸಾಲಿನಲ್ಲಿ ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ",
+        "B": "ದೀರ್ಘತೆ ಮತ್ತು ಸಂಕೀರ್ಣ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ವರ್ಣನಾತ್ಮಕ ಅಭಿವ್ಯಕ್ತಿ",
+        "D": "ಕೇವಲ ಭಾವನಾತ್ಮಕ ಅಭಿವ್ಯಕ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು: ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ ಮತ್ತು ಕೊನೆಯ ಸಾಲಿನಲ್ಲಿ ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಗೆ ಪ್ರಸಿದ್ಧ ಉದಾಹರಣೆಯಾಗಿ ಯಾರ ಕೃತಿಗಳನ್ನು ಹೇಳಬಹುದು?",
+      "options": {
+        "A": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+        "B": "ಕುಮಾರವ್ಯಾಸನ ಕೃತಿಗಳು",
+        "C": "ಹರಿಹರನ ಕೃತಿಗಳು",
+        "D": "ರನ್ನನ ಕೃತಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು ಕನ್ನಡದಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ. ಅವುಗಳಲ್ಲಿ ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಜೀವನಾನುಭವ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಆರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಕನ್ನಡದ ಪ್ರಮುಖ ಪದ್ಯರೂಪ",
+        "B": "ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಕನ್ನಡದ ಪ್ರಮುಖ ಪದ್ಯರೂಪವೇ ಷಟ್ಪದಿ. ಕನ್ನಡ ಕಾವ್ಯಪರಂಪರೆಯಲ್ಲಿ ಹಲವು ಷಟ್ಪದಿ ಪ್ರಭೇದಗಳಿವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q17"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳನ್ನು ಹೆಸರಿಸಿ.",
+      "options": {
+        "A": "ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ ಮತ್ತು ವಾರ್ಧಕ",
+        "B": "ತ್ರಿಪದಿ, ಕಂದ, ರಗಳೆ, ಸಾಂಗತ್ಯ",
+        "C": "ಉತ್ಸಾಹ, ಮಂದಾನಿಲ, ಲಲಿತ",
+        "D": "ಚಂಪಕಮಾಲಾ, ಉತ್ಸಲಮಾಲಾ, ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು: ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ ಮತ್ತು ವಾರ್ಧಕ ಷಟ್ಪದಿಗಳು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶರ ಷಟ್ಪದಿಯ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ಆರು ಪಾದಗಳ ನಿರ್ದಿಷ್ಟ ಮಾತ್ರಾಗಣ ವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಷಟ್ಪದಿ ಪ್ರಭೇದ",
+        "B": "ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯ",
+        "C": "ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯ",
+        "D": "ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶರ ಷಟ್ಪದಿಯು ಆರು ಪಾದಗಳ ನಿರ್ದಿಷ್ಟ ಮಾತ್ರಾಗಣ ವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಷಟ್ಪದಿ ಪ್ರಭೇದ. ಇದರ ನಿಖರ ಗಣವಿನ್ಯಾಸವನ್ನು ಪದ್ಯದ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿ ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q19"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುಸುಮ ಷಟ್ಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕುಸುಮ ಷಟ್ಪದಿಯು ಒಂದು ಪ್ರಭೇದ. ಇದು ನಿಗದಿತ ಲಯ ಮತ್ತು ಪಾದವಿನ್ಯಾಸದ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ",
+        "B": "ಕುಸುಮ ಷಟ್ಪದಿಯು ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "C": "ಕುಸುಮ ಷಟ್ಪದಿಯು ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "D": "ಕುಸುಮ ಷಟ್ಪದಿಯು ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಸುಮ ಷಟ್ಪದಿಯು ಒಂದು ಪ್ರಭೇದ. ಇದು ನಿಗದಿತ ಲಯ ಮತ್ತು ಪಾದವಿನ್ಯಾಸದ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q20"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭೋಗ ಷಟ್ಪದಿಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಭೋಗ ಷಟ್ಪದಿಯು ಷಟ್ಪದಿಯ ಪರಂಪರೆಯ ಪ್ರಭೇದವಾಗಿದ್ದು, ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳಿಂದ ಇತರ ರೂಪಗಳಿಂದ ಬೇರ್ಪಡುತ್ತದೆ",
+        "B": "ಭೋಗ ಷಟ್ಪದಿಯು ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "C": "ಭೋಗ ಷಟ್ಪದಿಯು ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ",
+        "D": "ಭೋಗ ಷಟ್ಪದಿಯು ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭೋಗ ಷಟ್ಪದಿಯು ಷಟ್ಪದಿಯ ಪರಂಪರೆಯ ಪ್ರಭೇದವಾಗಿದ್ದು, ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳಿಂದ ಇತರ ರೂಪಗಳಿಂದ ಬೇರ್ಪಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಮಿನಿ ಷಟ್ಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಬಹಳ ಪ್ರಸಿದ್ಧವಾದ ಷಟ್ಪದಿ ಪ್ರಭೇದ. ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿ ರಚಿತವಾಗಿದೆ",
+        "B": "ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಅಪ್ರಸಿದ್ಧವಾದ ಷಟ್ಪದಿ ಪ್ರಭೇದ",
+        "C": "ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಮಿನಿ ಷಟ್ಪದಿಯು ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಬಹಳ ಪ್ರಸಿದ್ಧವಾದ ಷಟ್ಪದಿ ಪ್ರಭೇದ. ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿ ರಚಿತವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರಿವರ್ದಿನಿ ಷಟ್ಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಆರು ಪಾದಗಳ ನಿರ್ದಿಷ್ಟ ಛಂದೋವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಷಟ್ಪದಿ ಪ್ರಭೇದಗಳಲ್ಲಿ ಒಂದು. ಇದರ ರೂಪವನ್ನು ಮಾತ್ರೆ ಮತ್ತು ಗಣಗಳ ಆಧಾರದ ಮೇಲೆ ಗುರುತಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪರಿವರ್ದಿನಿ ಷಟ್ಪದಿಯು ಆರು ಪಾದಗಳ ನಿರ್ದಿಷ್ಟ ಛಂದೋವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಷಟ್ಪದಿ ಪ್ರಭೇದಗಳಲ್ಲಿ ಒಂದು. ಇದರ ರೂಪವನ್ನು ಮಾತ್ರೆ ಮತ್ತು ಗಣಗಳ ಆಧಾರದ ಮೇಲೆ ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q024",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಾರ್ಧಕ ಷಟ್ಪದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಷಟ್ಪದಿಯ ಮತ್ತೊಂದು ಪ್ರಭೇದ. ಇದರ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ",
+        "B": "ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯು ಷಟ್ಪದಿಯ ಮತ್ತೊಂದು ಪ್ರಭೇದ. ಇದರ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q025",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರಗಳೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ರಗಳೆ ಪ್ರಮುಖವಾದುದು. ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ ಇದರ ಲಕ್ಷಣಗಳು",
+        "B": "ಕೇವಲ ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ಕೇವಲ ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಕೇವಲ ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ರಗಳೆ ಪ್ರಮುಖವಾದುದು. ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ ಇದರ ಲಕ್ಷಣಗಳು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಉತ್ಸಾಹ ರಗಳೆ, ಮಂದಾನಿಲ ರಗಳೆ ಮತ್ತು ಲಲಿತ ರಗಳೆ",
+        "B": "ಶರ, ಕುಸುಮ, ಭೋಗ",
+        "C": "ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ, ವಾರ್ಧಕ",
+        "D": "ಕಂದ, ತ್ರಿಪದಿ, ಸಾಂಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು: ಉತ್ಸಾಹ ರಗಳೆ, ಮಂದಾನಿಲ ರಗಳೆ ಮತ್ತು ಲಲಿತ ರಗಳೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q027",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ಸಾಹ ರಗಳೆಯ ಸ್ವರೂಪವೇನು?",
+      "options": {
+        "A": "ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆಯ ಪ್ರಭೇದ. ಇದರ ಪಾದರಚನೆ ನಿಗದಿತ ಮಾತ್ರಾಗಣ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ",
+        "B": "ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "C": "ಕೇವಲ ಶೋಕಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಾಹ ರಗಳೆಯು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆಯ ಪ್ರಭೇದ. ಇದರ ಪಾದರಚನೆ ನಿಗದಿತ ಮಾತ್ರಾಗಣ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಂದಾನಿಲ ರಗಳೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಮಂದವಾದ, ಮೃದುವಾದ ಲಯದ ಸ್ವರೂಪ ಹೊಂದಿರುವ ರಗಳೆ ಪ್ರಭೇದ. ಹೆಸರಿನಲ್ಲಿರುವ 'ಮಂದಾನಿಲ' ಮೃದುವಾದ ಗಾಳಿಯ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "B": "ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "C": "ಕೇವಲ ಶೋಕಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ರಗಳೆಯು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯದ ಸ್ವರೂಪ ಹೊಂದಿರುವ ರಗಳೆ ಪ್ರಭೇದ. ಹೆಸರಿನಲ್ಲಿರುವ 'ಮಂದಾನಿಲ' ಮೃದುವಾದ ಗಾಳಿಯ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಲಿತ ರಗಳೆಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆಯ ಪ್ರಭೇದ. ಇದರ ಛಂದೋವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತದೆ",
+        "B": "ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "C": "ಕೇವಲ ಶೋಕಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯಭರಿತ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಲಿತ ರಗಳೆಯು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿರುವ ರಗಳೆಯ ಪ್ರಭೇದ. ಇದರ ಛಂದೋವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆ ಸಾಹಿತ್ಯಕ್ಕೆ ಪ್ರಸಿದ್ಧ ಕವಿಯ ಉದಾಹರಣೆ ನೀಡಿ.",
+      "options": {
+        "A": "ಹರಿಹರನು ಕನ್ನಡ ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ. ಅವನ ರಗಳೆಗಳು ಶಿವಭಕ್ತಿ ಮತ್ತು ಶರಣರ ಕಥನಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿವೆ",
+        "B": "ಕುಮಾರವ್ಯಾಸನು ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ",
+        "C": "ಸರ್ವಜ್ಞನು ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ",
+        "D": "ರನ್ನನು ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನು ಕನ್ನಡ ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ. ಅವನ ರಗಳೆಗಳು ಶಿವಭಕ್ತಿ ಮತ್ತು ಶರಣರ ಕಥನಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ಸಾಂಗತ್ಯ ಒಂದು. ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇದರ ಬಳಕೆಯಲ್ಲಿ ಕಾಣುತ್ತದೆ",
+        "B": "ಕೇವಲ ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ಕೇವಲ ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಕೇವಲ ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಮಾತ್ರಾಗಣ ಆಧಾರಿತ ಪದ್ಯರೂಪಗಳಲ್ಲಿ ಸಾಂಗತ್ಯ ಒಂದು. ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇದರ ಬಳಕೆಯಲ್ಲಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದ ಸಾಹಿತ್ಯಿಕ ಬಳಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಾಣ, ಭಕ್ತಿ ಕಥನ ಮತ್ತು ಜನಪ್ರಿಯ ಕಾವ್ಯಗಳ ನಿರೂಪಣೆಯಲ್ಲಿ ಸಾಂಗತ್ಯವನ್ನು ಬಳಸಲಾಗಿದೆ",
+        "B": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ವಿಷಯಗಳ ನಿರೂಪಣೆಯಲ್ಲಿ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಭಾಷಣಗಳಲ್ಲಿ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಕಾದಂಬರಿಗಳಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಾಣ, ಭಕ್ತಿ ಕಥನ ಮತ್ತು ಜನಪ್ರಿಯ ಕಾವ್ಯಗಳ ನಿರೂಪಣೆಯಲ್ಲಿ ಸಾಂಗತ್ಯವನ್ನು ಬಳಸಲಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಕ್ಷರ ಛಂದಸ್ಸು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ ಅಕ್ಷರವು ನಿರ್ದಿಷ್ಟ ಅಕ್ಷರ ಅಥವಾ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪದ್ಯರೂಪ/ಛಂದೋಘಟಕವಾಗಿ ಉಲ್ಲೇಖಿತವಾಗುತ್ತದೆ. ಪರ್ಯಾಯ ಪ್ರಕಾರದ ಅನುಸಾರ ಉಪವಿಭಾಗಗಳ ವಿವರಣೆ ಬದಲಾಗಬಹುದು",
+        "B": "ಕೇವಲ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "C": "ಕೇವಲ ಪದಗಳ ಅರ್ಥವನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ",
+        "D": "ಕೇವಲ ವಾಕ್ಯರಚನೆಯನ್ನು ಅಧ್ಯಯನ ಮಾಡುವ ಶಾಸ್ತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ ಅಕ್ಷರವು ನಿರ್ದಿಷ್ಟ ಅಕ್ಷರ ಅಥವಾ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪದ್ಯರೂಪ/ಛಂದೋಘಟಕವಾಗಿ ಉಲ್ಲೇಖಿತವಾಗುತ್ತದೆ. ಪರ್ಯಾಯ ಪ್ರಕಾರದ ಅನುಸಾರ ಉಪವಿಭಾಗಗಳ ವಿವರಣೆ ಬದಲಾಗಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವನ್ನು ಮಹಾಸಾಂಗತ್ಯ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅದರ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ ಅಭ್ಯಾಸಿಸಬೇಕು",
+        "B": "ಕೇವಲ ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "C": "ಕೇವಲ ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ",
+        "D": "ಕೇವಲ ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿರುವ ಪದ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವನ್ನು ಮಹಾಸಾಂಗತ್ಯ ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಅದರ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ",
+        "B": "ಕೇವಲ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "C": "ಕೇವಲ ಪದಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "D": "ಕೇವಲ ಸಾಲುಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾತ್ರಾವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಮಾತ್ರಾವೃತ್ತದಲ್ಲಿ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯೂ ವಿನ್ಯಾಸವೂ ಮುಖ್ಯ; ವರ್ಣವೃತ್ತದಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಪ್ರತಿ ಅಕ್ಷರದ ಲಘು-ಗುರು ಕ್ರಮ ಮುಖ್ಯ",
+        "B": "ಮಾತ್ರಾವೃತ್ತದಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮುಖ್ಯ; ವರ್ಣವೃತ್ತದಲ್ಲಿ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆ ಮುಖ್ಯ",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾತ್ರಾವೃತ್ತದಲ್ಲಿ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯೂ ವಿನ್ಯಾಸವೂ ಮುಖ್ಯ; ವರ್ಣವೃತ್ತದಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಪ್ರತಿ ಅಕ್ಷರದ ಲಘು-ಗುರು ಕ್ರಮ ಮುಖ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಛಂದಸ್ಸಿನಿಂದ ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿಯೂ ಬಳಕೆಯಾದ ವರ್ಣವೃತ್ತ. ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ ನಿಗದಿತವಾಗಿರುತ್ತದೆ",
+        "B": "ಕೇವಲ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "C": "ಕೇವಲ ಪದಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "D": "ಕೇವಲ ಸಾಲುಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ವೃತ್ತವು ಸಂಸ್ಕೃತ ಛಂದಸ್ಸಿನಿಂದ ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿಯೂ ಬಳಕೆಯಾದ ವರ್ಣವೃತ್ತ. ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ ನಿಗದಿತವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತ. ಚಂಪಕಮಾಲೆಯೊಂದಿಗೆ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಹೋಲಿಕೆ ಮಾಡಿ ಕಲಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಕೇವಲ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "C": "ಕೇವಲ ಪದಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು",
+        "D": "ಕೇವಲ ಸಾಲುಗಳ ಸಂಖ್ಯೆಯ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತವು ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತ. ಚಂಪಕಮಾಲೆಯೊಂದಿಗೆ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಹೋಲಿಕೆ ಮಾಡಿ ಕಲಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತದ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಸಂಸ್ಕೃತ ವರ್ಣವೃತ್ತ. ದೀರ್ಘಪಾದ, ಗಂಭೀರವಾದ ಲಯ ಇದರ ವೈಶಿಷ್ಟ್ಯ",
+        "B": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "C": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "D": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತವು ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ಸಂಸ್ಕೃತ ವರ್ಣವೃತ್ತ. ದೀರ್ಘಪಾದ, ಗಂಭೀರವಾದ ಲಯ ಇದರ ವೈಶಿಷ್ಟ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮತ್ತೇಭವಿಕ್ರೀಡಿತ ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತ. ಲಘು-ಗುರುಗಳ ನಿಗದಿತ ಗಣಕ್ರಮ ಇದರ ರಚನೆಯನ್ನು ನಿರ್ದೇಶಿಸುತ್ತದೆ",
+        "B": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "C": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "D": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮತ್ತೇಭವಿಕ್ರೀಡಿತ ವೃತ್ತವು ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತ. ಲಘು-ಗುರುಗಳ ನಿಗದಿತ ಗಣಕ್ರಮ ಇದರ ರಚನೆಯನ್ನು ನಿರ್ದೇಶಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q40"
+    },
+    {
+      "id": "Q041",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಲಿನಿ ವೃತ್ತದ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ, ನಿರ್ದಿಷ್ಟ ಗಣವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳಿವೆ",
+        "B": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "C": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "D": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಲಿನಿ ವೃತ್ತವು ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ, ನಿರ್ದಿಷ್ಟ ಗಣವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳಿವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ರಗ್ಧರಾ ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ದೀರ್ಘ ವರ್ಣವೃತ್ತ. ಇದರ ಲಯ ಗಂಭೀರ ಮತ್ತು ವಿಸ್ತಾರವಾಗಿರುತ್ತದೆ",
+        "B": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "C": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ",
+        "D": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ವರ್ಣವೃತ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ರಗ್ಧರಾ ವೃತ್ತವು ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳನ್ನು ಹೊಂದಿರುವ ದೀರ್ಘ ವರ್ಣವೃತ್ತ. ಇದರ ಲಯ ಗಂಭೀರ ಮತ್ತು ವಿಸ್ತಾರವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುವ ವರ್ಣವೃತ್ತ. ಇದರ ಚಲನೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯವನ್ನು ನೆನಪಿಸುತ್ತದೆ",
+        "B": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಮೂರು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುವ ವರ್ಣವೃತ್ತ",
+        "C": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಐದು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುವ ವರ್ಣವೃತ್ತ",
+        "D": "ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಆರು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುವ ವರ್ಣವೃತ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ಪ್ರತಿ ಪಾದದಲ್ಲಿ ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುವ ವರ್ಣವೃತ್ತ. ಇದರ ಚಲನೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯವನ್ನು ನೆನಪಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+        {
+      "id": "Q044",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತವನ್ನು ಗುರುತಿಸುವ ವಿಧಾನವೇನು?",
+      "options": {
+        "A": "ಪದ್ಯದ ಪಾದವನ್ನು ಅಕ್ಷರಗಣವಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿ ಅಕ್ಷರದ ಲಘು-ಗುರು ಮೌಲ್ಯ ಗುರುತಿಸಿ, ಗಣಗಳ ಕ್ರಮ ಮತ್ತು ಒಟ್ಟು ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಛಂದೋನಿಯಮದೊಂದಿಗೆ ಹೋಲಿಸಬೇಕು",
+        "B": "ಪದ್ಯದ ಪಾದವನ್ನು ಮಾತ್ರೆಗಳಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿ ಮಾತ್ರೆಯ ಮೌಲ್ಯ ಗುರುತಿಸಿ, ಗಣಗಳ ಕ್ರಮ ಮತ್ತು ಒಟ್ಟು ಮಾತ್ರಾಸಂಖ್ಯೆಯನ್ನು ಛಂದೋನಿಯಮದೊಂದಿಗೆ ಹೋಲಿಸಬೇಕು",
+        "C": "ಪದ್ಯದ ಪಾದವನ್ನು ಪದಗಳಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿ ಪದದ ಅರ್ಥ ಗುರುತಿಸಿ, ವಾಕ್ಯಗಳ ಕ್ರಮ ಮತ್ತು ಒಟ್ಟು ಪದಸಂಖ್ಯೆಯನ್ನು ಛಂದೋನಿಯಮದೊಂದಿಗೆ ಹೋಲಿಸಬೇಕು",
+        "D": "ಪದ್ಯದ ಪಾದವನ್ನು ಸಾಲುಗಳಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿ ಸಾಲಿನ ಉದ್ದ ಗುರುತಿಸಿ, ಸಾಲುಗಳ ಕ್ರಮ ಮತ್ತು ಒಟ್ಟು ಸಾಲುಸಂಖ್ಯೆಯನ್ನು ಛಂದೋನಿಯಮದೊಂದಿಗೆ ಹೋಲಿಸಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಯದ ಪಾದವನ್ನು ಅಕ್ಷರಗಣವಾಗಿ ವಿಭಜಿಸಿ, ಪ್ರತಿ ಅಕ್ಷರದ ಲಘು-ಗುರು ಮೌಲ್ಯ ಗುರುತಿಸಿ, ಗಣಗಳ ಕ್ರಮ ಮತ್ತು ಒಟ್ಟು ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಛಂದೋನಿಯಮದೊಂದಿಗೆ ಹೋಲಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳನ್ನು ನೆನಪಿಡಲು ಯಾವ ಪರಂಪರೆಯ ಸೂತ್ರ ಬಳಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳ ಹೆಸರುಗಳನ್ನು ಸಂಸ್ಕೃತ ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಮೂರು ಅಕ್ಷರಗಳ ಲಘು-ಗುರು ಕ್ರಮದಿಂದ ಪ್ರತಿಯೊಂದು ಗಣವನ್ನು ಗುರುತಿಸುತ್ತಾರೆ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ ಎಂಬ ಐದು ಗಣಗಳ ಹೆಸರುಗಳನ್ನು ಬಳಸುತ್ತಾರೆ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ ಎಂಬ ಐದು ಗಣಗಳ ಹೆಸರುಗಳನ್ನು ಬಳಸುತ್ತಾರೆ",
+        "D": "ಪ, ಫ, ಬ, ಭ, ಮ ಎಂಬ ಐದು ಗಣಗಳ ಹೆಸರುಗಳನ್ನು ಬಳಸುತ್ತಾರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳ ಹೆಸರುಗಳನ್ನು ಸಂಸ್ಕೃತ ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಬಳಸುತ್ತಾರೆ. ಮೂರು ಅಕ್ಷರಗಳ ಲಘು-ಗುರು ಕ್ರಮದಿಂದ ಪ್ರತಿಯೊಂದು ಗಣವನ್ನು ಗುರುತಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q046",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "B": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q047",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q048",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q49"
+    },
+    {
+      "id": "Q050",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)",
+        "B": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)",
+        "C": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q50"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಭಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "B": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)",
+        "C": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q51"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "B": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "C": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)",
+        "D": "ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q52"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು)",
+        "B": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "C": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "D": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q53"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಛಂದಸ್ಸು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಆಧುನಿಕ ಕಾವ್ಯದಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಛಂದೋನಿಯಮಗಳನ್ನು ಕೆಲವೊಮ್ಮೆ ಸಡಿಲಿಸಿ, ಹೊಸ ಲಯ, ಸಾಲಿನ ಉದ್ದ, ಧ್ವನಿಸಂಯೋಜನೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಗೆ ಆದ್ಯತೆ ನೀಡುವ ಛಂದೋಪ್ರಯೋಗವೇ ಆಧುನಿಕ ಛಂದಸ್ಸು",
+        "B": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದೋನಿಯಮಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸುವ ಛಂದಸ್ಸು",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಛಂದಸ್ಸು",
+        "D": "ಕೇವಲ ಕನ್ನಡ ಛಂದಸ್ಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಧುನಿಕ ಕಾವ್ಯದಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಛಂದೋನಿಯಮಗಳನ್ನು ಕೆಲವೊಮ್ಮೆ ಸಡಿಲಿಸಿ, ಹೊಸ ಲಯ, ಸಾಲಿನ ಉದ್ದ, ಧ್ವನಿಸಂಯೋಜನೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಗೆ ಆದ್ಯತೆ ನೀಡುವ ಛಂದೋಪ್ರಯೋಗವೇ ಆಧುನಿಕ ಛಂದಸ್ಸು.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q54"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸು ಎಂದರೇನು?",
+      "options": {
+        "A": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಗೆ ಒಳಪಡದೆ, ಕವಿಯ ಭಾವಲಯ ಮತ್ತು ಭಾಷೆಯ ಸಹಜ ಹರಿವಿನ ಆಧಾರದ ಮೇಲೆ ರಚಿಸುವ ಕಾವ್ಯರೂಪವೇ ಮುಕ್ತಛಂದಸ್ಸು",
+        "B": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಗೆ ಒಳಪಡುವ ಕಾವ್ಯರೂಪ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಛಂದಸ್ಸಿನಲ್ಲಿ ಬಳಸುವ ಕಾವ್ಯರೂಪ",
+        "D": "ಕೇವಲ ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ ಬಳಸುವ ಕಾವ್ಯರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಗೆ ಒಳಪಡದೆ, ಕವಿಯ ಭಾವಲಯ ಮತ್ತು ಭಾಷೆಯ ಸಹಜ ಹರಿವಿನ ಆಧಾರದ ಮೇಲೆ ರಚಿಸುವ ಕಾವ್ಯರೂಪವೇ ಮುಕ್ತಛಂದಸ್ಸು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q55"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸು ಎಂದರೆ ಲಯವಿಲ್ಲದ ಕಾವ್ಯವೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ. ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಛಂದೋನಿಯಮಗಳ ಕಟ್ಟುನಿಟ್ಟು ಇಲ್ಲದಿದ್ದರೂ ಆಂತರಿಕ ಲಯ, ಧ್ವನಿಸಾಮ್ಯ, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಭಾವಗತಿ ಇರಬಹುದು",
+        "B": "ಹೌದು. ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಲಯವಿಲ್ಲ",
+        "C": "ಹೌದು. ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಧ್ವನಿಸಾಮ್ಯವಿಲ್ಲ",
+        "D": "ಹೌದು. ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಪುನರಾವರ್ತನೆಯಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಲ್ಲ. ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಸಾಂಪ್ರದಾಯಿಕ ಛಂದೋನಿಯಮಗಳ ಕಟ್ಟುನಿಟ್ಟು ಇಲ್ಲದಿದ್ದರೂ ಆಂತರಿಕ ಲಯ, ಧ್ವನಿಸಾಮ್ಯ, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಭಾವಗತಿ ಇರಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q56"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಮತ್ತು ಮುಕ್ತಛಂದಸ್ಸಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಅಕ್ಷರ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಅಥವಾ ಪ್ರಾಸ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ",
+        "B": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ನಿಯಮಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪಾಲಿಸಬೇಕು",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಅಕ್ಷರ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಅಥವಾ ಪ್ರಾಸ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಅಧ್ಯಯನದಲ್ಲಿ ಕವಿತೆಯ ಪಾದವನ್ನು ಏಕೆ ವಿಭಜಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಪ್ರತಿ ಪಾದದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ",
+        "B": "ಪ್ರತಿ ಪಾದದ ಅರ್ಥವನ್ನು ಗುರುತಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ",
+        "C": "ಪ್ರತಿ ಪಾದದ ಭಾವನೆಯನ್ನು ಗುರುತಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ",
+        "D": "ಪ್ರತಿ ಪಾದದ ಕಥಾವಸ್ತುವನ್ನು ಗುರುತಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿ ಪಾದದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q58"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸು ಮತ್ತು ಲಯದ ಸಂಬಂಧವೇನು?",
+      "options": {
+        "A": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ; ಆ ನಿಯಮಿತ ಪುನರಾವರ್ತನೆಯಿಂದ ಲಯ ಮತ್ತು ಸಂಗೀತಾತ್ಮಕತೆ ಮೂಡುತ್ತದೆ",
+        "B": "ಛಂದಸ್ಸು ಮತ್ತು ಲಯಕ್ಕೆ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ",
+        "C": "ಛಂದಸ್ಸು ಕೇವಲ ಅರ್ಥಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ; ಲಯಕ್ಕೆ ಸಂಬಂಧಿಸಿಲ್ಲ",
+        "D": "ಛಂದಸ್ಸು ಕೇವಲ ಭಾವನೆಗೆ ಸಂಬಂಧಿಸಿದೆ; ಲಯಕ್ಕೆ ಸಂಬಂಧಿಸಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ; ಆ ನಿಯಮಿತ ಪುನರಾವರ್ತನೆಯಿಂದ ಲಯ ಮತ್ತು ಸಂಗೀತಾತ್ಮಕತೆ ಮೂಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q59"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಛಂದಸ್ಸಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಹೇಗೆ ಸಿದ್ಧರಾಗಬೇಕು?",
+      "options": {
+        "A": "ಪದ್ಯರೂಪಗಳ ಹೆಸರು-ಲಕ್ಷಣ, ಪ್ರಭೇದಗಳು, ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳು, ಲಘು-ಗುರು ಗುರುತು, ಗಣಗಳ ಕ್ರಮ ಹಾಗೂ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಅಭ್ಯಾಸಿಸಬೇಕು",
+        "B": "ಕೇವಲ ಪದ್ಯರೂಪಗಳ ಹೆಸರುಗಳನ್ನು ಅಭ್ಯಾಸಿಸಬೇಕು",
+        "C": "ಕೇವಲ ಪ್ರಮುಖ ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ಅಭ್ಯಾಸಿಸಬೇಕು",
+        "D": "ಕೇವಲ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಅಭ್ಯಾಸಿಸಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಯರೂಪಗಳ ಹೆಸರು-ಲಕ್ಷಣ, ಪ್ರಭೇದಗಳು, ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳು, ಲಘು-ಗುರು ಗುರುತು, ಗಣಗಳ ಕ್ರಮ ಹಾಗೂ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q60"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳಲ್ಲಿ ಯಾವುವು ಸೇರಿವೆ?",
+      "options": {
+        "A": "ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ",
+        "B": "ಅಕ್ಷರ, ಪದ, ವಾಕ್ಯ",
+        "C": "ಸ್ವರ, ವ್ಯಂಜನ, ಒತ್ತಕ್ಷರ",
+        "D": "ನಾಮಪದ, ಸರ್ವನಾಮ, ಕ್ರಿಯಾಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಎಷ್ಟು ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಮೂರು ಪಾದಗಳು",
+        "B": "ನಾಲ್ಕು ಪಾದಗಳು",
+        "C": "ಐದು ಪಾದಗಳು",
+        "D": "ಆರು ಪಾದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯಲ್ಲಿ ಮೂರು ಪಾದಗಳಿರುತ್ತವೆ. ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು ಪ್ರಸಿದ್ಧ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 2"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯಲ್ಲಿ ಎಷ್ಟು ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಆರು ಪಾದಗಳು",
+        "B": "ಮೂರು ಪಾದಗಳು",
+        "C": "ನಾಲ್ಕು ಪಾದಗಳು",
+        "D": "ಐದು ಪಾದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯಲ್ಲಿ ಆರು ಪಾದಗಳಿರುತ್ತವೆ. ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ, ವಾರ್ಧಕ ಷಟ್ಪದಿಗಳು ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 3"
+    },
+    {
+      "id": "Q064",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಯಾವ ಷಟ್ಪದಿಯಲ್ಲಿ ರಚಿತವಾಗಿದೆ?",
+      "options": {
+        "A": "ಭಾಮಿನಿ ಷಟ್ಪದಿ",
+        "B": "ಶರ ಷಟ್ಪದಿ",
+        "C": "ಕುಸುಮ ಷಟ್ಪದಿ",
+        "D": "ಭೋಗ ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿ ರಚಿತವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 4"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಮುಖ ಕವಿ ಯಾರು?",
+      "options": {
+        "A": "ಹರಿಹರ",
+        "B": "ಕುಮಾರವ್ಯಾಸ",
+        "C": "ಸರ್ವಜ್ಞ",
+        "D": "ರನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನು ರಗಳೆ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿ. ಉತ್ಸಾಹ, ಮಂದಾನಿಲ, ಲಲಿತ ರಗಳೆಗಳು ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 5"
+    },
+        {
+      "id": "Q066",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತ ಮತ್ತು ಮಾತ್ರಾವೃತ್ತದ ಆಧಾರ ಯಾವುದು?",
+      "options": {
+        "A": "ವರ್ಣವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ",
+        "B": "ವರ್ಣವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಆಧಾರಿತ",
+        "C": "ಎರಡೂ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ",
+        "D": "ಎರಡೂ ಅಕ್ಷರಸಂಖ್ಯೆ ಆಧಾರಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಣವೃತ್ತವು ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತವು ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 6"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ, ಮತ್ತೇಭವಿಕ್ರೀಡಿತ, ಮಾಲಿನಿ ಮತ್ತು ಸ್ರಗ್ಧರಾ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಗಳು ಕ್ರಮವಾಗಿ ಎಷ್ಟು?",
+      "options": {
+        "A": "19, 17, 15, 21",
+        "B": "17, 19, 21, 15",
+        "C": "15, 17, 19, 21",
+        "D": "21, 19, 17, 15"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ — 19 ಅಕ್ಷರ; ಮತ್ತೇಭವಿಕ್ರೀಡಿತ — 17; ಮಾಲಿನಿ — 15; ಸ್ರಗ್ಧರಾ — 21.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 7"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದಲ್ಲಿ ಎಷ್ಟು ಯಗಣಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು ಯಗಣಗಳು",
+        "B": "ಮೂರು ಯಗಣಗಳು",
+        "C": "ಐದು ಯಗಣಗಳು",
+        "D": "ಆರು ಯಗಣಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 8"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮಗಳಲ್ಲಿ ಯಗಣ, ಮಗಣ, ತಗಣ, ರಗಣ, ಜಗಣ, ಭಗಣ, ನಗಣ ಮತ್ತು ಸಗಣಗಳ ಸರಿಯಾದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು",
+        "B": "ಯ=ಗುಗು, ಮ=ಲಗು, ತ=ಗುಲಗು, ರ=ಗುಗುಲ, ಜ=ಗುಲ್ಲು, ಭ=ಲಗುಲ, ನ=ಲ್ಲಗು, ಸ=ಲ್ಲು",
+        "C": "ಯ=ಗುಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು",
+        "D": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲಗು, ಸ=ಲ್ಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನ ಪ್ರಮುಖ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ/ಗಣ/ಪ್ರಾಸ ನಿಯಮಗಳಿಲ್ಲ; ಆಂತರಿಕ ಲಯ ಇರಬಹುದು",
+        "B": "ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ ನಿಯಮಗಳು ಕಡ್ಡಾಯ",
+        "C": "ಕಟ್ಟುನಿಟ್ಟಿನ ಗಣ ನಿಯಮಗಳು ಕಡ್ಡಾಯ",
+        "D": "ಕಟ್ಟುನಿಟ್ಟಿನ ಪ್ರಾಸ ನಿಯಮಗಳು ಕಡ್ಡಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸು — ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ/ಗಣ/ಪ್ರಾಸ ನಿಯಮಗಳಿಲ್ಲ; ಆಂತರಿಕ ಲಯ ಇರಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 10"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಲಘುವನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಚಿಹ್ನೆ ಯಾವುದು?",
+      "options": {
+        "A": "'ಲ' ಚಿಹ್ನೆ",
+        "B": "'ಗು' ಚಿಹ್ನೆ",
+        "C": "'ಮ' ಚಿಹ್ನೆ",
+        "D": "'ಯ' ಚಿಹ್ನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಲಘುವನ್ನು 'ಲ' ಚಿಹ್ನೆಯಿಂದ ಸೂಚಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q072",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೀರ್ಘಸ್ವರ, ಅನುಸ್ವಾರ ಅಥವಾ ವಿಸರ್ಗಾಂತ ಅಕ್ಷರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಗಣಕ್ಕೆ ಸೇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಗುರು",
+        "B": "ಲಘು",
+        "C": "ಮಾತ್ರೆ",
+        "D": "ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೀರ್ಘಸ್ವರ, ಅನುಸ್ವಾರ ಅಥವಾ ವಿಸರ್ಗಾಂತ ಅಕ್ಷರಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಗುರುವಾಗುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q073",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಮಾನ್ಯ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಹ್ರಸ್ವಕ್ಕೆ ಎಷ್ಟು ಮಾತ್ರೆ ಮತ್ತು ದೀರ್ಘಕ್ಕೆ ಎಷ್ಟು ಮಾತ್ರೆ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಹ್ರಸ್ವಕ್ಕೆ ಒಂದು, ದೀರ್ಘಕ್ಕೆ ಎರಡು",
+        "B": "ಹ್ರಸ್ವಕ್ಕೆ ಎರಡು, ದೀರ್ಘಕ್ಕೆ ಒಂದು",
+        "C": "ಹ್ರಸ್ವಕ್ಕೆ ಮೂರು, ದೀರ್ಘಕ್ಕೆ ಎರಡು",
+        "D": "ಹ್ರಸ್ವಕ್ಕೆ ಎರಡು, ದೀರ್ಘಕ್ಕೆ ಮೂರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ ಛಂದೋವಿಚಾರದಲ್ಲಿ ಹ್ರಸ್ವಕ್ಕೆ ಒಂದು, ದೀರ್ಘಕ್ಕೆ ಎರಡು ಮಾತ್ರೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಅಕ್ಷರಗಳ ಗುಂಪನ್ನು ಗಣವೆಂದು ಗುರುತಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಮೂರು ಅಕ್ಷರಗಳ ಗುಂಪು",
+        "B": "ಎರಡು ಅಕ್ಷರಗಳ ಗುಂಪು",
+        "C": "ನಾಲ್ಕು ಅಕ್ಷರಗಳ ಗುಂಪು",
+        "D": "ಐದು ಅಕ್ಷರಗಳ ಗುಂಪು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಣವೃತ್ತಗಳಲ್ಲಿ ಮೂರು ಅಕ್ಷರಗಳ ಗುಂಪನ್ನು ಗಣವೆಂದು ಗುರುತಿಸುವ ಪದ್ಧತಿ ಇದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q7"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯತಿ ಎಲ್ಲಿ ಉಂಟಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ",
+        "B": "ಪದ್ಯದ ಸಾಲಿನ ಆರಂಭದಲ್ಲಿ ಮಾತ್ರ",
+        "C": "ಪದ್ಯದ ಸಾಲಿನ ಕೊನೆಯಲ್ಲಿ ಮಾತ್ರ",
+        "D": "ಪದ್ಯದ ಸಾಲಿನ ಮಧ್ಯದಲ್ಲಿ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯತಿಯು ಪದ್ಯದ ಸಾಲಿನಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಉಂಟಾಗುವ ವಿರಾಮ ಅಥವಾ ನಿಲುಗಡೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q076",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಸದಲ್ಲಿ ಏನು ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಒಂದೇ ಅಥವಾ ಹೋಲುವ ಧ್ವನಿ",
+        "B": "ಒಂದೇ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಒಂದೇ ಗಣಸಂಖ್ಯೆ",
+        "D": "ಒಂದೇ ಯತಿಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಸದಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ಸ್ಥಾನದಲ್ಲಿ ಒಂದೇ ಅಥವಾ ಹೋಲುವ ಧ್ವನಿ ಪುನರಾವರ್ತನೆಯಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು ಪಾದಗಳು",
+        "B": "ಮೂರು ಪಾದಗಳು",
+        "C": "ಆರು ಪಾದಗಳು",
+        "D": "ಎರಡು ಪಾದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯವು ಸಾಮಾನ್ಯವಾಗಿ ನಾಲ್ಕು ಪಾದಗಳ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯ ಕೊನೆಯ ಸಾಲಿನ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ",
+        "B": "ಕೇವಲ ವರ್ಣನೆ",
+        "C": "ಕೇವಲ ಭಾವನೆ",
+        "D": "ಕೇವಲ ಕಥನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಕೊನೆಯ ಸಾಲಿನಲ್ಲಿ ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q079",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ವ್ಯಕ್ತವಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಜೀವನಾನುಭವ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಪ್ರಣಯ",
+        "D": "ಕೇವಲ ವೀರರಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳಲ್ಲಿ ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಜೀವನಾನುಭವ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಒಂದನ್ನು ಹೆಸರಿಸಿ.",
+      "options": {
+        "A": "ಭಾಮಿನಿ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಮಿನಿ ಷಟ್ಪದಿಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭಾಮಿನಿ ಷಟ್ಪದಿಯ ಪ್ರಸಿದ್ಧ ಕೃತಿ ಮತ್ತು ಕವಿ ಯಾರು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಹರಿಹರ — ರಗಳೆ",
+        "C": "ಸರ್ವಜ್ಞ — ತ್ರಿಪದಿ",
+        "D": "ರನ್ನ — ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯಲ್ಲಿ ಯಾವ ರೀತಿಯ ಲಯ ಮತ್ತು ನಿರೂಪಣೆ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಿರಂತರ ಹರಿವಿನ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ನಿಧಾನವಾದ ಲಯ ಮತ್ತು ಕೇವಲ ವರ್ಣನೆ",
+        "C": "ವೇಗದ ಲಯ ಮತ್ತು ಕೇವಲ ಭಾವನೆ",
+        "D": "ಮಂದ ಲಯ ಮತ್ತು ಕೇವಲ ವಿವರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯಲ್ಲಿ ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಂದಾನಿಲ ರಗಳೆಯ ಹೆಸರು ಯಾವ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಮೃದುವಾದ ಗಾಳಿಯ ಭಾವ",
+        "B": "ಬಿರುಗಾಳಿಯ ಭಾವ",
+        "C": "ಮಳೆಯ ಭಾವ",
+        "D": "ಬಿಸಿಲಿನ ಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ಎಂಬ ಹೆಸರು ಮೃದುವಾದ ಗಾಳಿಯ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿಹರನ ರಗಳೆಗಳು ಯಾವ ವಿಷಯಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿವೆ?",
+      "options": {
+        "A": "ಶಿವಭಕ್ತಿ ಮತ್ತು ಶರಣರ ಕಥನಗಳು",
+        "B": "ಕೃಷ್ಣಭಕ್ತಿ ಮತ್ತು ಗೋಪಿಯರ ಕಥನಗಳು",
+        "C": "ರಾಮಭಕ್ತಿ ಮತ್ತು ವಾನರರ ಕಥನಗಳು",
+        "D": "ದೇವಿ ಭಕ್ತಿ ಮತ್ತು ಶಕ್ತಿ ಕಥನಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನ ರಗಳೆಗಳು ಶಿವಭಕ್ತಿ ಮತ್ತು ಶರಣರ ಕಥನಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಯಾವ ರೀತಿಯ ಲಯ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ",
+        "B": "ಕೇವಲ ವಾಚನಕ್ಕೆ ಅನುಕೂಲವಾದ ಲಯ",
+        "C": "ಕೇವಲ ನೃತ್ಯಕ್ಕೆ ಅನುಕೂಲವಾದ ಲಯ",
+        "D": "ಕೇವಲ ಅಭಿನಯಕ್ಕೆ ಅನುಕೂಲವಾದ ಲಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q086",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯವನ್ನು ಯಾವ ರೀತಿಯ ಕಾವ್ಯಗಳಲ್ಲಿ ಬಳಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಪುರಾಣ, ಭಕ್ತಿ ಕಥನ ಮತ್ತು ಜನಪ್ರಿಯ ಕಾವ್ಯಗಳು",
+        "B": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ಕಾವ್ಯಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಕಾವ್ಯಗಳು",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಕಾದಂಬರಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಾಣ, ಭಕ್ತಿ ಕಥನ ಮತ್ತು ಜನಪ್ರಿಯ ಕಾವ್ಯಗಳ ನಿರೂಪಣೆಯಲ್ಲಿ ಸಾಂಗತ್ಯವನ್ನು ಬಳಸಲಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯವು ಯಾವ ಪದ್ಯರೂಪದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸವಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯವು ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೃತ್ತದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮ",
+        "B": "ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ",
+        "C": "ಪದಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ",
+        "D": "ಸಾಲುಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೃತ್ತದಲ್ಲಿ ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮ ಮುಖ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾತ್ರಾವೃತ್ತದಲ್ಲಿ ಯಾವುದು ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯೂ ವಿನ್ಯಾಸವೂ",
+        "B": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ",
+        "C": "ಪದಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ",
+        "D": "ಸಾಲುಗಳ ಸಂಖ್ಯೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾತ್ರಾವೃತ್ತದಲ್ಲಿ ಮಾತ್ರೆಗಳ ಸಂಖ್ಯೆಯೂ ವಿನ್ಯಾಸವೂ ಮುಖ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q090",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ವೃತ್ತವು ಯಾವ ಛಂದಸ್ಸಿನಿಂದ ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿಯೂ ಬಳಕೆಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಂಸ್ಕೃತ ಛಂದಸ್ಸು",
+        "B": "ತಮಿಳು ಛಂದಸ್ಸು",
+        "C": "ತೆಲುಗು ಛಂದಸ್ಸು",
+        "D": "ಮಲಯಾಳಂ ಛಂದಸ್ಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ವೃತ್ತವು ಸಂಸ್ಕೃತ ಛಂದಸ್ಸಿನಿಂದ ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿಯೂ ಬಳಕೆಯಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಎಷ್ಟು ಅಕ್ಷರಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "19 ಅಕ್ಷರಗಳು",
+        "B": "17 ಅಕ್ಷರಗಳು",
+        "C": "15 ಅಕ್ಷರಗಳು",
+        "D": "21 ಅಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ 19 ಅಕ್ಷರಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮತ್ತೇಭವಿಕ್ರೀಡಿತ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಎಷ್ಟು ಅಕ್ಷರಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "17 ಅಕ್ಷರಗಳು",
+        "B": "19 ಅಕ್ಷರಗಳು",
+        "C": "15 ಅಕ್ಷರಗಳು",
+        "D": "21 ಅಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮತ್ತೇಭವಿಕ್ರೀಡಿತ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ 17 ಅಕ್ಷರಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q40"
+    },
+        {
+      "id": "Q093",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಲಿನಿ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಎಷ್ಟು ಅಕ್ಷರಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "15 ಅಕ್ಷರಗಳು",
+        "B": "17 ಅಕ್ಷರಗಳು",
+        "C": "19 ಅಕ್ಷರಗಳು",
+        "D": "21 ಅಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಲಿನಿ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ 15 ಅಕ್ಷರಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q094",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ರಗ್ಧರಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಎಷ್ಟು ಅಕ್ಷರಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "21 ಅಕ್ಷರಗಳು",
+        "B": "19 ಅಕ್ಷರಗಳು",
+        "C": "17 ಅಕ್ಷರಗಳು",
+        "D": "15 ಅಕ್ಷರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ರಗ್ಧರಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ 21 ಅಕ್ಷರಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q095",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದ ಚಲನೆ ಯಾವುದನ್ನು ನೆನಪಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಾವಿನ ಚಲನೆಯನ್ನು",
+        "B": "ಹಕ್ಕಿಯ ಹಾರಾಟವನ್ನು",
+        "C": "ನದಿಯ ಹರಿವನ್ನು",
+        "D": "ಬೆಂಕಿಯ ಜ್ವಾಲೆಯನ್ನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದ ಚಲನೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯವನ್ನು ನೆನಪಿಸುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q096",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳನ್ನು ನೆನಪಿಡಲು ಬಳಸುವ ಎಂಟು ಗಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ, ಚ, ಛ, ಜ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ, ತ, ಥ, ದ",
+        "D": "ಪ, ಫ, ಬ, ಭ, ಮ, ಯ, ರ, ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳನ್ನು ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಬಳಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q097",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ಯಾವ ಅಂಶಗಳಿಗೆ ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಹೊಸ ಲಯ, ಸಾಲಿನ ಉದ್ದ, ಧ್ವನಿಸಂಯೋಜನೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ",
+        "B": "ಕೇವಲ ಸಾಂಪ್ರದಾಯಿಕ ಮಾತ್ರಾ ನಿಯಮಗಳು",
+        "C": "ಕೇವಲ ಸಾಂಪ್ರದಾಯಿಕ ಗಣ ನಿಯಮಗಳು",
+        "D": "ಕೇವಲ ಸಾಂಪ್ರದಾಯಿಕ ಪ್ರಾಸ ನಿಯಮಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಧುನಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ಹೊಸ ಲಯ, ಸಾಲಿನ ಉದ್ದ, ಧ್ವನಿಸಂಯೋಜನೆ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿಗೆ ಆದ್ಯತೆ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q54"
+    },
+    {
+      "id": "Q098",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಇರಬಹುದು?",
+      "options": {
+        "A": "ಆಂತರಿಕ ಲಯ, ಧ್ವನಿಸಾಮ್ಯ, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಭಾವಗತಿ",
+        "B": "ಕೇವಲ ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರಾ ನಿಯಮಗಳು",
+        "C": "ಕೇವಲ ಕಟ್ಟುನಿಟ್ಟಿನ ಗಣ ನಿಯಮಗಳು",
+        "D": "ಕೇವಲ ಕಟ್ಟುನಿಟ್ಟಿನ ಪ್ರಾಸ ನಿಯಮಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಆಂತರಿಕ ಲಯ, ಧ್ವನಿಸಾಮ್ಯ, ಪುನರಾವರ್ತನೆ ಮತ್ತು ಭಾವಗತಿ ಇರಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q56"
+    },
+    {
+      "id": "Q099",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ಯಾವ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಅಥವಾ ಪ್ರಾಸ ನಿಯಮಗಳು",
+        "B": "ಕೇವಲ ಅಕ್ಷರ ನಿಯಮಗಳು",
+        "C": "ಕೇವಲ ಮಾತ್ರಾ ನಿಯಮಗಳು",
+        "D": "ಕೇವಲ ಪ್ರಾಸ ನಿಯಮಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸಿನಲ್ಲಿ ಅಕ್ಷರ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಅಥವಾ ಪ್ರಾಸ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q100",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಅಧ್ಯಯನದಲ್ಲಿ ಪಾದವಿಭಜನೆಯ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸಲು",
+        "B": "ಪದ್ಯದ ಅರ್ಥವನ್ನು ನಿರ್ಧರಿಸಲು",
+        "C": "ಪದ್ಯದ ಭಾವನೆಯನ್ನು ನಿರ್ಧರಿಸಲು",
+        "D": "ಪದ್ಯದ ಕಥಾವಸ್ತುವನ್ನು ನಿರ್ಧರಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿ ಪಾದದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸಲು ಪಾದವಿಭಜನೆ ಅಗತ್ಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q58"
+    },
+    {
+      "id": "Q101",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿಲ್ಲ?",
+      "options": {
+        "A": "ವ್ಯಾಕರಣ",
+        "B": "ಲಘು",
+        "C": "ಗುರು",
+        "D": "ಮಾತ್ರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ. ವ್ಯಾಕರಣವು ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕವಲ್ಲ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "Q102",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯ ಪ್ರಸಿದ್ಧ ಕವಿ ಯಾರು?",
+      "options": {
+        "A": "ಸರ್ವಜ್ಞ",
+        "B": "ಹರಿಹರ",
+        "C": "ಕುಮಾರವ್ಯಾಸ",
+        "D": "ರನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು ಕನ್ನಡದಲ್ಲಿ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q103",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "ಆರು",
+        "B": "ಮೂರು",
+        "C": "ನಾಲ್ಕು",
+        "D": "ಐದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು: ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ ಮತ್ತು ವಾರ್ಧಕ — ಒಟ್ಟು ಆರು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q104",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳ ಸಂಖ್ಯೆ ಎಷ್ಟು?",
+      "options": {
+        "A": "ಮೂರು",
+        "B": "ನಾಲ್ಕು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯ ಪ್ರಮುಖ ಪ್ರಭೇದಗಳು: ಉತ್ಸಾಹ ರಗಳೆ, ಮಂದಾನಿಲ ರಗಳೆ ಮತ್ತು ಲಲಿತ ರಗಳೆ — ಒಟ್ಟು ಮೂರು.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q105",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯವು ಯಾವ ಪದ್ಯರೂಪದ ವಿಸ್ತೃತ ರೂಪವಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯವು ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q106",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ಮತ್ತು ಉತ್ಸಲಮಾಲಾ ವೃತ್ತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಎರಡೂ ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತಗಳು",
+        "B": "ಎರಡೂ ಮಾತ್ರಾವೃತ್ತಗಳು",
+        "C": "ಎರಡೂ ಕೇವಲ ಸಂಸ್ಕೃತದಲ್ಲಿ ಬಳಕೆಯಾಗಿವೆ, ಕನ್ನಡದಲ್ಲಿ ಇಲ್ಲ",
+        "D": "ಎರಡೂ ಕೇವಲ ಆಧುನಿಕ ಕಾವ್ಯಗಳಲ್ಲಿ ಬಳಕೆಯಾಗಿವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ಮತ್ತು ಉತ್ಸಲಮಾಲಾ ಎರಡೂ ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿರುವ ಪ್ರಸಿದ್ಧ ವರ್ಣವೃತ್ತಗಳು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37 & Q38"
+    },
+    {
+      "id": "Q107",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತದ ಲಯ ಮತ್ತು ಪಾದದ ಸ್ವರೂಪ ಹೇಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ದೀರ್ಘಪಾದ ಮತ್ತು ಗಂಭೀರವಾದ ಲಯ",
+        "B": "ಹ್ರಸ್ವಪಾದ ಮತ್ತು ಹಾಸ್ಯಭರಿತ ಲಯ",
+        "C": "ಮಧ್ಯಮ ಪಾದ ಮತ್ತು ಶೋಕಭರಿತ ಲಯ",
+        "D": "ದೀರ್ಘಪಾದ ಮತ್ತು ವೇಗಯುತ ಲಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ ವೃತ್ತವು ದೀರ್ಘಪಾದ ಮತ್ತು ಗಂಭೀರವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q108",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸ್ರಗ್ಧರಾ ವೃತ್ತದ ಲಯದ ಸ್ವರೂಪ ಹೇಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಗಂಭೀರ ಮತ್ತು ವಿಸ್ತಾರವಾದ ಲಯ",
+        "B": "ಹಾಸ್ಯಭರಿತ ಲಯ",
+        "C": "ಶೋಕಭರಿತ ಲಯ",
+        "D": "ವೇಗಯುತ ಲಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸ್ರಗ್ಧರಾ ವೃತ್ತದ ಲಯ ಗಂಭೀರ ಮತ್ತು ವಿಸ್ತಾರವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q109",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದಲ್ಲಿ ಯಾವ ಗಣಗಳು ಬರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು ಯಗಣಗಳು",
+        "B": "ನಾಲ್ಕು ಮಗಣಗಳು",
+        "C": "ನಾಲ್ಕು ತಗಣಗಳು",
+        "D": "ನಾಲ್ಕು ರಗಣಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q110",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ಭ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "B": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)",
+        "C": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q51"
+    },
+    {
+      "id": "Q111",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ಸ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು)",
+        "B": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "C": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "D": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q53"
+    },
+    {
+      "id": "Q112",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ನ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "B": "ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು)",
+        "C": "ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ)",
+        "D": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q52"
+    },
+    {
+      "id": "Q113",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ಜ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ)",
+        "B": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)",
+        "C": "ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q50"
+    },
+    {
+      "id": "Q114",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ರ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "D": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q49"
+    },
+    {
+      "id": "Q115",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ತ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q116",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ಮ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "B": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q117",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮದಲ್ಲಿ 'ಯ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು)",
+        "B": "ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು)",
+        "C": "ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ)",
+        "D": "ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು)"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q118",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತವನ್ನು ಗುರುತಿಸುವಾಗ ಯಾವ ಅಂಶಗಳನ್ನು ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ, ಲಘು-ಗುರು ಮೌಲ್ಯ, ಗಣಗಳ ಕ್ರಮ, ಯತಿ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಲಘು-ಗುರು ಮೌಲ್ಯ",
+        "D": "ಕೇವಲ ಗಣಗಳ ಕ್ರಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಣವೃತ್ತವನ್ನು ಗುರುತಿಸುವಾಗ ಅಕ್ಷರಸಂಖ್ಯೆ, ಲಘು-ಗುರು ಮೌಲ್ಯ, ಗಣಗಳ ಕ್ರಮ ಮತ್ತು ಯತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q119",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸು ಮತ್ತು ಲಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಸರಿಯಾಗಿ ವಿವರಿಸುವ ಹೇಳಿಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಛಂದಸ್ಸು ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ; ನಿಯಮಿತ ಪುನರಾವರ್ತನೆಯಿಂದ ಲಯ ಮೂಡುತ್ತದೆ",
+        "B": "ಛಂದಸ್ಸು ಮತ್ತು ಲಯ ಸಂಪೂರ್ಣ ಅಸಂಬಂಧಿತ",
+        "C": "ಛಂದಸ್ಸು ಕೇವಲ ಅರ್ಥಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ, ಲಯಕ್ಕಲ್ಲ",
+        "D": "ಛಂದಸ್ಸು ಕೇವಲ ಭಾವನೆಗೆ ಸಂಬಂಧಿಸಿದೆ, ಲಯಕ್ಕಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ; ಆ ನಿಯಮಿತ ಪುನರಾವರ್ತನೆಯಿಂದ ಲಯ ಮತ್ತು ಸಂಗೀತಾತ್ಮಕತೆ ಮೂಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q59"
+    },
+        {
+      "id": "Q120",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಛಂದಸ್ಸಿನ ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಲು ಯಾವ ಅಂಶಗಳನ್ನು ಅಭ್ಯಾಸಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದ್ಯರೂಪಗಳ ಹೆಸರು-ಲಕ್ಷಣ, ಪ್ರಭೇದಗಳು, ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳು, ಲಘು-ಗುರು ಗುರುತು, ಗಣಗಳ ಕ್ರಮ, ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "B": "ಕೇವಲ ಪದ್ಯರೂಪಗಳ ಹೆಸರುಗಳು",
+        "C": "ಕೇವಲ ಪ್ರಮುಖ ಕವಿಗಳ ಹೆಸರುಗಳು",
+        "D": "ಕೇವಲ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಯರೂಪಗಳ ಹೆಸರು-ಲಕ್ಷಣ, ಪ್ರಭೇದಗಳು, ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳು, ಲಘು-ಗುರು ಗುರುತು, ಗಣಗಳ ಕ್ರಮ ಹಾಗೂ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಯನ್ನು ಉದಾಹರಣೆಗಳೊಂದಿಗೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q60"
+    },
+    {
+      "id": "Q121",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದಲ್ಲಿ ಯಾವ ನಿಯಮಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಗಣಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯದಲ್ಲಿ ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q122",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಯಾವ ಗುಣಗಳು ಪ್ರಮುಖವಾಗಿವೆ?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ",
+        "B": "ದೀರ್ಘತೆ, ಜಟಿಲತೆ, ಕ್ಲಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ವರ್ಣನೆ",
+        "D": "ಕೇವಲ ಕಥನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಪ್ರಮುಖ ಗುಣಗಳು: ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q123",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯಲ್ಲಿ ಯಾವ ಪ್ರಭೇದವು ಕುಮಾರವ್ಯಾಸನಿಂದ ಪ್ರಸಿದ್ಧವಾಯಿತು?",
+      "options": {
+        "A": "ಭಾಮಿನಿ",
+        "B": "ಶರ",
+        "C": "ಕುಸುಮ",
+        "D": "ವಾರ್ಧಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q124",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "B": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ರಗಳೆಯು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q125",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಾಹ ರಗಳೆಯು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q126",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಲಲಿತ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಲಿತ ರಗಳೆಯು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q127",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಯಾವ ರೀತಿಯ ನಿರೂಪಣೆ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ವರ್ಣನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "C": "ಕೇವಲ ಭಾವನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ನಿರೂಪಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q128",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಎಲ್ಲಿ ಅಭ್ಯಾಸಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ",
+        "B": "ವ್ಯಾಕರಣ ಗ್ರಂಥಗಳಲ್ಲಿ",
+        "C": "ಅರ್ಥಗಾರಿಕೆಯಲ್ಲಿ",
+        "D": "ಸಂಗೀತ ಶಾಸ್ತ್ರದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q129",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಪದಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ",
+        "B": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಬೇರೆ ಬೇರೆ ಪದ್ಯರೂಪಗಳು",
+        "C": "ವೃತ್ತವು ಕೇವಲ ಮಾತ್ರೆಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ",
+        "D": "ವರ್ಣವೃತ್ತವು ಕೇವಲ ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q130",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ನಿಗದಿತವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಗಣಕ್ರಮ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ ನಿಗದಿತವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q131",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ",
+        "B": "ಕೇವಲ ಮಾತ್ರಾಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪದಸಂಖ್ಯೆ",
+        "D": "ಕೇವಲ ಸಾಲುಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತವು ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q132",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದ ಹೆಸರು ಯಾವ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಾವಿನ ಚಲನೆಯ ಭಾವ",
+        "B": "ಹಕ್ಕಿಯ ಹಾರಾಟದ ಭಾವ",
+        "C": "ನದಿಯ ಹರಿವಿನ ಭಾವ",
+        "D": "ಬೆಂಕಿಯ ಜ್ವಾಲೆಯ ಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗ ಎಂದರೆ ಹಾವು; ಭುಜಂಗಪ್ರಯಾತ ಎಂದರೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q133",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಗಣಗಳನ್ನು ನೆನಪಿಡಲು ಯಾವ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ಪ, ಫ, ಬ, ಭ, ಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q134",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ಯಾವ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "C": "ಕೇವಲ ಪ್ರಾಸದಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "D": "ಕೇವಲ ಯತಿಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q55"
+    },
+    {
+      "id": "Q135",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಮತ್ತು ಮುಕ್ತಛಂದಸ್ಸಿನ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ",
+        "B": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q136",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಅಧ್ಯಯನದಲ್ಲಿ ಪಾದವಿಭಜನೆಯಿಂದ ಯಾವ ಅಂಶಗಳನ್ನು ಗುರುತಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಮಾತ್ರೆ",
+        "D": "ಕೇವಲ ಗಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಾದವಿಭಜನೆಯಿಂದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q58"
+    },
+    {
+      "id": "Q137",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸು ಪದ್ಯದ ಯಾವ ಅಂಶಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ",
+        "B": "ಅರ್ಥಕ್ಕೆ",
+        "C": "ಭಾವನೆಗೆ",
+        "D": "ಕಥಾವಸ್ತುವಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q59"
+    },
+    {
+      "id": "Q138",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಯತಿ",
+        "B": "ವ್ಯಾಕರಣ",
+        "C": "ಅರ್ಥ",
+        "D": "ಭಾವನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "Q139",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಎಷ್ಟು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಮೂರು",
+        "B": "ನಾಲ್ಕು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯಲ್ಲಿ ಮೂರು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 2"
+    },
+    {
+      "id": "Q140",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಪರಿವರ್ದಿನಿ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳು: ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ, ವಾರ್ಧಕ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q141",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
+      "options": {
+        "A": "ಇದರ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ",
+        "B": "ಇದು ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "C": "ಇದು ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "D": "ಇದು ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q142",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಲಕ್ಷಣಗಳಾಗಿವೆ?",
+      "options": {
+        "A": "ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ, ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯ ಲಕ್ಷಣಗಳು: ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q143",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯವು ಯಾವುದರ ವಿಸ್ತೃತ ರೂಪವಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯವು ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q144",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತ ಮತ್ತು ಮಾತ್ರಾವೃತ್ತಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ನಿರೂಪಿಸುವ ಹೇಳಿಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "ವರ್ಣವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ",
+        "B": "ವರ್ಣವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಆಧಾರಿತ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಣವೃತ್ತವು ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತವು ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 6"
+    },
+    {
+      "id": "Q145",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ, ಮತ್ತೇಭವಿಕ್ರೀಡಿತ, ಮಾಲಿನಿ ಮತ್ತು ಸ್ರಗ್ಧರಾ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿರುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "19, 17, 15, 21",
+        "B": "17, 19, 21, 15",
+        "C": "15, 17, 19, 21",
+        "D": "21, 19, 17, 15"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ — 19; ಮತ್ತೇಭವಿಕ್ರೀಡಿತ — 17; ಮಾಲಿನಿ — 15; ಸ್ರಗ್ಧರಾ — 21.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 7"
+    },
+        {
+      "id": "Q146",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಕ್ರಮಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು",
+        "B": "ಯ=ಗುಗು, ಮ=ಲಗು, ತ=ಗುಲಗು, ರ=ಗುಗುಲ, ಜ=ಗುಲ್ಲು, ಭ=ಲಗುಲ, ನ=ಲ್ಲಗು, ಸ=ಲ್ಲು",
+        "C": "ಯ=ಗುಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು",
+        "D": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲಗು, ಸ=ಲ್ಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ=ಲಗು, ಮ=ಗುಗು, ತ=ಗುಗುಲ, ರ=ಗುಲಗು, ಜ=ಲಗುಲ, ಭ=ಗುಲ್ಲು, ನ=ಲ್ಲು, ಸ=ಲ್ಲಗು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q147",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ/ಗಣ/ಪ್ರಾಸ ನಿಯಮಗಳಿಲ್ಲ; ಆಂತರಿಕ ಲಯ ಇರಬಹುದು",
+        "B": "ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ ನಿಯಮಗಳು ಕಡ್ಡಾಯ",
+        "C": "ಕಟ್ಟುನಿಟ್ಟಿನ ಗಣ ನಿಯಮಗಳು ಕಡ್ಡಾಯ",
+        "D": "ಕಟ್ಟುನಿಟ್ಟಿನ ಪ್ರಾಸ ನಿಯಮಗಳು ಕಡ್ಡಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸು — ಕಟ್ಟುನಿಟ್ಟಿನ ಮಾತ್ರೆ/ಗಣ/ಪ್ರಾಸ ನಿಯಮಗಳಿಲ್ಲ; ಆಂತರಿಕ ಲಯ ಇರಬಹುದು.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 10"
+    },
+    {
+      "id": "Q148",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು",
+        "B": "ಮೂರು",
+        "C": "ಆರು",
+        "D": "ಎರಡು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯವು ಸಾಮಾನ್ಯವಾಗಿ ನಾಲ್ಕು ಪಾದಗಳ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q149",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯ ಕೊನೆಯ ಸಾಲಿನ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ",
+        "B": "ಕೇವಲ ವರ್ಣನೆ",
+        "C": "ಕೇವಲ ಭಾವನೆ",
+        "D": "ಕೇವಲ ಕಥನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಕೊನೆಯ ಸಾಲಿನಲ್ಲಿ ಅರ್ಥಪೂರ್ಣ ತಿರುವು ಅಥವಾ ಸಾರಾಂಶ ನೀಡುವ ಗುಣ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q150",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ವ್ಯಕ್ತವಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಜೀವನಾನುಭವ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಪ್ರಣಯ",
+        "D": "ಕೇವಲ ವೀರರಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳಲ್ಲಿ ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಜೀವನಾನುಭವ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q151",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಕುಮಾರವ್ಯಾಸನಿಂದ ಪ್ರಸಿದ್ಧವಾಯಿತು?",
+      "options": {
+        "A": "ಭಾಮಿನಿ",
+        "B": "ಶರ",
+        "C": "ಕುಸುಮ",
+        "D": "ವಾರ್ಧಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q152",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "B": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ರಗಳೆಯು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q153",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಾಹ ರಗಳೆಯು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q154",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಲಲಿತ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಲಿತ ರಗಳೆಯು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q155",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಯಾವ ರೀತಿಯ ನಿರೂಪಣೆ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ವರ್ಣನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "C": "ಕೇವಲ ಭಾವನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ನಿರೂಪಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q156",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಎಲ್ಲಿ ಅಭ್ಯಾಸಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ",
+        "B": "ವ್ಯಾಕರಣ ಗ್ರಂಥಗಳಲ್ಲಿ",
+        "C": "ಅರ್ಥಗಾರಿಕೆಯಲ್ಲಿ",
+        "D": "ಸಂಗೀತ ಶಾಸ್ತ್ರದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q157",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಪದಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ",
+        "B": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಬೇರೆ ಬೇರೆ ಪದ್ಯರೂಪಗಳು",
+        "C": "ವೃತ್ತವು ಕೇವಲ ಮಾತ್ರೆಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ",
+        "D": "ವರ್ಣವೃತ್ತವು ಕೇವಲ ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q158",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ನಿಗದಿತವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಗಣಕ್ರಮ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ ನಿಗದಿತವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q159",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ",
+        "B": "ಕೇವಲ ಮಾತ್ರಾಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪದಸಂಖ್ಯೆ",
+        "D": "ಕೇವಲ ಸಾಲುಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತವು ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q160",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದ ಹೆಸರು ಯಾವ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಾವಿನ ಚಲನೆಯ ಭಾವ",
+        "B": "ಹಕ್ಕಿಯ ಹಾರಾಟದ ಭಾವ",
+        "C": "ನದಿಯ ಹರಿವಿನ ಭಾವ",
+        "D": "ಬೆಂಕಿಯ ಜ್ವಾಲೆಯ ಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗ ಎಂದರೆ ಹಾವು; ಭುಜಂಗಪ್ರಯಾತ ಎಂದರೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q161",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಗಣಗಳನ್ನು ನೆನಪಿಡಲು ಯಾವ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ಪ, ಫ, ಬ, ಭ, ಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q162",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ಯಾವ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "C": "ಕೇವಲ ಪ್ರಾಸದಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "D": "ಕೇವಲ ಯತಿಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q55"
+    },
+    {
+      "id": "Q163",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಮತ್ತು ಮುಕ್ತಛಂದಸ್ಸಿನ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ",
+        "B": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q164",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಅಧ್ಯಯನದಲ್ಲಿ ಪಾದವಿಭಜನೆಯಿಂದ ಯಾವ ಅಂಶಗಳನ್ನು ಗುರುತಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಮಾತ್ರೆ",
+        "D": "ಕೇವಲ ಗಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಾದವಿಭಜನೆಯಿಂದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q58"
+    },
+    {
+      "id": "Q165",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸು ಪದ್ಯದ ಯಾವ ಅಂಶಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ",
+        "B": "ಅರ್ಥಕ್ಕೆ",
+        "C": "ಭಾವನೆಗೆ",
+        "D": "ಕಥಾವಸ್ತುವಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q59"
+    },
+    {
+      "id": "Q166",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಯತಿ",
+        "B": "ವ್ಯಾಕರಣ",
+        "C": "ಅರ್ಥ",
+        "D": "ಭಾವನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "Q167",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಎಷ್ಟು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಮೂರು",
+        "B": "ನಾಲ್ಕು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯಲ್ಲಿ ಮೂರು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 2"
+    },
+    {
+      "id": "Q168",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಪರಿವರ್ದಿನಿ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳು: ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ, ವಾರ್ಧಕ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q169",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
+      "options": {
+        "A": "ಇದರ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ",
+        "B": "ಇದು ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "C": "ಇದು ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "D": "ಇದು ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q170",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಲಕ್ಷಣಗಳಾಗಿವೆ?",
+      "options": {
+        "A": "ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ, ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯ ಲಕ್ಷಣಗಳು: ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q171",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯವು ಯಾವುದರ ವಿಸ್ತೃತ ರೂಪವಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯವು ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+        {
+      "id": "Q173",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ, ಮತ್ತೇಭವಿಕ್ರೀಡಿತ, ಮಾಲಿನಿ ಮತ್ತು ಸ್ರಗ್ಧರಾ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿರುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "19, 17, 15, 21",
+        "B": "17, 19, 21, 15",
+        "C": "15, 17, 19, 21",
+        "D": "21, 19, 17, 15"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ — 19; ಮತ್ತೇಭವಿಕ್ರೀಡಿತ — 17; ಮಾಲಿನಿ — 15; ಸ್ರಗ್ಧರಾ — 21.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 7"
+    },
+    {
+      "id": "Q174",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ಎಷ್ಟು ಯಗಣಗಳಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು",
+        "B": "ಮೂರು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 8"
+    },
+    {
+      "id": "Q175",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಯ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಗುರು",
+        "B": "ಗುರು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಲಘು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q176",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಮ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಗುರು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಲಘು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q177",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ತ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಲಘು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಗುರು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q178",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ರ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಗುರು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಗುರು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q179",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಜ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಲಘು",
+        "B": "ಗುರು-ಲಘು-ಗುರು",
+        "C": "ಲಘು-ಲಘು-ಲಘು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q180",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಭ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಲಘು",
+        "B": "ಲಘು-ಗುರು-ಲಘು",
+        "C": "ಲಘು-ಲಘು-ಲಘು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q181",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ನ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಲಘು",
+        "B": "ಗುರು-ಲಘು-ಲಘು",
+        "C": "ಲಘು-ಗುರು-ಲಘು",
+        "D": "ಲಘು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q182",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಸ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಗುರು",
+        "B": "ಲಘು-ಲಘು-ಲಘು",
+        "C": "ಗುರು-ಲಘು-ಲಘು",
+        "D": "ಲಘು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q183",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಯಾವ ನಿಯಮಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಿನ ಬದ್ಧತೆ ಇರುವುದಿಲ್ಲ?",
+      "options": {
+        "A": "ಮಾತ್ರೆ, ಗಣ, ಪ್ರಾಸ",
+        "B": "ಅರ್ಥ, ಭಾವನೆ, ಕಥಾವಸ್ತು",
+        "C": "ಪದ, ವಾಕ್ಯ, ಪರಿಚ್ಛೇದ",
+        "D": "ಸ್ವರ, ವ್ಯಂಜನ, ಒತ್ತಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಮಾತ್ರೆ, ಗಣ, ಪ್ರಾಸ ನಿಯಮಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಿನ ಬದ್ಧತೆ ಇರುವುದಿಲ್ಲ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 10"
+    },
+    {
+      "id": "Q184",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಗಣಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯದಲ್ಲಿ ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q185",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಯಾವ ಗುಣಗಳು ಪ್ರಮುಖವಾಗಿವೆ?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ",
+        "B": "ದೀರ್ಘತೆ, ಜಟಿಲತೆ, ಕ್ಲಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ವರ್ಣನೆ",
+        "D": "ಕೇವಲ ಕಥನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಪ್ರಮುಖ ಗುಣಗಳು: ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q186",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯಲ್ಲಿ ಯಾವ ಪ್ರಭೇದವು ಕುಮಾರವ್ಯಾಸನಿಂದ ಪ್ರಸಿದ್ಧವಾಯಿತು?",
+      "options": {
+        "A": "ಭಾಮಿನಿ",
+        "B": "ಶರ",
+        "C": "ಕುಸುಮ",
+        "D": "ವಾರ್ಧಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q187",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "B": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ರಗಳೆಯು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q188",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಾಹ ರಗಳೆಯು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q189",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಲಲಿತ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಲಿತ ರಗಳೆಯು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q190",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಯಾವ ರೀತಿಯ ನಿರೂಪಣೆ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ವರ್ಣನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "C": "ಕೇವಲ ಭಾವನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ನಿರೂಪಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q191",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಎಲ್ಲಿ ಅಭ್ಯಾಸಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ",
+        "B": "ವ್ಯಾಕರಣ ಗ್ರಂಥಗಳಲ್ಲಿ",
+        "C": "ಅರ್ಥಗಾರಿಕೆಯಲ್ಲಿ",
+        "D": "ಸಂಗೀತ ಶಾಸ್ತ್ರದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯದ ನಿಖರ ರಚನಾ ನಿಯಮಗಳನ್ನು ಪದ್ಯದಲ್ಲಿನ ಛಂದೋಸೂತ್ರದಂತೆ ಅಭ್ಯಾಸಿಸಬೇಕು.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q192",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಪದಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ",
+        "B": "ವೃತ್ತ ಮತ್ತು ವರ್ಣವೃತ್ತ ಬೇರೆ ಬೇರೆ ಪದ್ಯರೂಪಗಳು",
+        "C": "ವೃತ್ತವು ಕೇವಲ ಮಾತ್ರೆಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ",
+        "D": "ವರ್ಣವೃತ್ತವು ಕೇವಲ ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಷರಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರುಗಳ ನಿರ್ದಿಷ್ಟ ಕ್ರಮದ ಆಧಾರದ ಮೇಲೆ ರೂಪುಗೊಳ್ಳುವ ಪದ್ಯಭಂದಸ್ಸನ್ನು ವೃತ್ತ ಅಥವಾ ವರ್ಣವೃತ್ತ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q193",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ನಿಗದಿತವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಗಣಕ್ರಮ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪಕಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಪ್ರತಿ ಪಾದದಲ್ಲಿನ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಗಣಕ್ರಮ ನಿಗದಿತವಾಗಿರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q194",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ",
+        "B": "ಕೇವಲ ಮಾತ್ರಾಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪದಸಂಖ್ಯೆ",
+        "D": "ಕೇವಲ ಸಾಲುಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಲಮಾಲಾ ವೃತ್ತವು ನಿಯತ ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಗಣವಿನ್ಯಾಸ ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q195",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತದ ಹೆಸರು ಯಾವ ಭಾವವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಾವಿನ ಚಲನೆಯ ಭಾವ",
+        "B": "ಹಕ್ಕಿಯ ಹಾರಾಟದ ಭಾವ",
+        "C": "ನದಿಯ ಹರಿವಿನ ಭಾವ",
+        "D": "ಬೆಂಕಿಯ ಜ್ವಾಲೆಯ ಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗ ಎಂದರೆ ಹಾವು; ಭುಜಂಗಪ್ರಯಾತ ಎಂದರೆ ಹಾವಿನ ಚಲನೆಯಂತೆ ಹರಿಯುವ ಲಯ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q196",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತಗಳ ಅಧ್ಯಯನದಲ್ಲಿ ಗಣಗಳನ್ನು ನೆನಪಿಡಲು ಯಾವ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ",
+        "B": "ಕ, ಖ, ಗ, ಘ, ಙ",
+        "C": "ಟ, ಠ, ಡ, ಢ, ಣ",
+        "D": "ಪ, ಫ, ಬ, ಭ, ಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯ, ಮ, ತ, ರ, ಜ, ಭ, ನ, ಸ ಎಂಬ ಎಂಟು ಗಣಗಳ ಸೂತ್ರವನ್ನು ಬಳಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q197",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ಯಾವ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "C": "ಕೇವಲ ಪ್ರಾಸದಿಂದ ಸ್ವಾತಂತ್ರ್ಯ",
+        "D": "ಕೇವಲ ಯತಿಯಿಂದ ಸ್ವಾತಂತ್ರ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಕವಿಗೆ ನಿಗದಿತ ಮಾತ್ರೆ, ಅಕ್ಷರಗಣ, ಪ್ರಾಸ ಅಥವಾ ಯತಿಯ ಕಟ್ಟುನಿಟ್ಟಿನ ನಿಯಮಗಳಿಂದ ಸ್ವಾತಂತ್ರ್ಯ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q55"
+    },
+    {
+      "id": "Q198",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಮತ್ತು ಮುಕ್ತಛಂದಸ್ಸಿನ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ",
+        "B": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ",
+        "C": "ಎರಡೂ ಒಂದೇ ರೀತಿಯವು",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಪ್ರದಾಯಿಕ ಛಂದಸ್ಸು ನಿರ್ದಿಷ್ಟ ನಿಯಮಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ; ಮುಕ್ತಛಂದಸ್ಸು ಕವಿಯ ಸ್ವಾಭಾವಿಕ ಭಾವಲಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಸ್ವಾತಂತ್ರ್ಯ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q199",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಅಧ್ಯಯನದಲ್ಲಿ ಪಾದವಿಭಜನೆಯಿಂದ ಯಾವ ಅಂಶಗಳನ್ನು ಗುರುತಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಮಾತ್ರೆ",
+        "D": "ಕೇವಲ ಗಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಾದವಿಭಜನೆಯಿಂದ ಅಕ್ಷರಸಂಖ್ಯೆ, ಮಾತ್ರೆ, ಗಣ, ಯತಿ ಮತ್ತು ಪ್ರಾಸಗಳನ್ನು ಗುರುತಿಸಿ ಛಂದಸ್ಸಿನ ಪ್ರಕಾರವನ್ನು ನಿರ್ಧರಿಸುತ್ತಾರೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q58"
+    },
+        {
+      "id": "Q200",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸು ಪದ್ಯದ ಯಾವ ಅಂಶಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ",
+        "B": "ಅರ್ಥಕ್ಕೆ",
+        "C": "ಭಾವನೆಗೆ",
+        "D": "ಕಥಾವಸ್ತುವಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸು ಪದ್ಯದ ಧ್ವನಿ-ಕಾಲ ವಿನ್ಯಾಸಕ್ಕೆ ನಿಯಮ ನೀಡುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, Q59"
+    },
+    {
+      "id": "Q201",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಯತಿ",
+        "B": "ವ್ಯಾಕರಣ",
+        "C": "ಅರ್ಥ",
+        "D": "ಭಾವನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದಸ್ಸಿನ ಮೂಲ ಘಟಕಗಳು: ಲಘು, ಗುರು, ಮಾತ್ರೆ, ಗಣ, ಯತಿ, ಪ್ರಾಸ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 1"
+    },
+    {
+      "id": "Q202",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಎಷ್ಟು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಮೂರು",
+        "B": "ನಾಲ್ಕು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯಲ್ಲಿ ಮೂರು ಸಾಲುಗಳು ಅಥವಾ ಪಾದಗಳಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 2"
+    },
+    {
+      "id": "Q203",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ಯಾವುದು ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಪರಿವರ್ದಿನಿ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಟ್ಪದಿಯ ಪ್ರಭೇದಗಳು: ಶರ, ಕುಸುಮ, ಭೋಗ, ಭಾಮಿನಿ, ಪರಿವರ್ದಿನಿ, ವಾರ್ಧಕ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q204",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಯಾವುದು ಸರಿ?",
+      "options": {
+        "A": "ಇದರ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ",
+        "B": "ಇದು ಮೂರು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "C": "ಇದು ನಾಲ್ಕು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ",
+        "D": "ಇದು ಎರಡು ಪಾದಗಳನ್ನು ಹೊಂದಿದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಾರ್ಧಕ ಷಟ್ಪದಿಯ ಪಾದಗಳ ಲಯ ಮತ್ತು ಮಾತ್ರಾವಿನ್ಯಾಸ ನಿರ್ದಿಷ್ಟ ಛಂದೋನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q205",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಲಕ್ಷಣಗಳಾಗಿವೆ?",
+      "options": {
+        "A": "ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ, ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಯತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆಯ ಲಕ್ಷಣಗಳು: ನಿರಂತರ ಹರಿವಿನ ಲಯ, ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಗಣಕ್ರಮ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q206",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಹಾಸಾಂಗತ್ಯವು ಯಾವುದರ ವಿಸ್ತೃತ ರೂಪವಾಗಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ಕಂದ",
+        "D": "ಷಟ್ಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಸಾಂಗತ್ಯವು ಸಾಂಗತ್ಯದ ವಿಸ್ತೃತ ಅಥವಾ ವಿಶೇಷ ವಿನ್ಯಾಸದ ಪದ್ಯರೂಪವಾಗಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q207",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವರ್ಣವೃತ್ತ ಮತ್ತು ಮಾತ್ರಾವೃತ್ತಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವನ್ನು ಸರಿಯಾಗಿ ನಿರೂಪಿಸುವ ಹೇಳಿಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "ವರ್ಣವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ",
+        "B": "ವರ್ಣವೃತ್ತ — ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತ — ಅಕ್ಷರಸಂಖ್ಯೆ ಆಧಾರಿತ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಎರಡೂ ವಿಭಿನ್ನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಣವೃತ್ತವು ಅಕ್ಷರಸಂಖ್ಯೆ ಮತ್ತು ಲಘು-ಗುರು ಕ್ರಮ ಆಧಾರಿತ; ಮಾತ್ರಾವೃತ್ತವು ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಆಧಾರಿತ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 6"
+    },
+    {
+      "id": "Q208",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ, ಮತ್ತೇಭವಿಕ್ರೀಡಿತ, ಮಾಲಿನಿ ಮತ್ತು ಸ್ರಗ್ಧರಾ ವೃತ್ತಗಳ ಅಕ್ಷರಸಂಖ್ಯೆಗಳನ್ನು ಸರಿಯಾಗಿ ಜೋಡಿಸಿರುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "19, 17, 15, 21",
+        "B": "17, 19, 21, 15",
+        "C": "15, 17, 19, 21",
+        "D": "21, 19, 17, 15"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾರ್ದೂಲವಿಕ್ರೀಡಿತ — 19; ಮತ್ತೇಭವಿಕ್ರೀಡಿತ — 17; ಮಾಲಿನಿ — 15; ಸ್ರಗ್ಧರಾ — 21.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 7"
+    },
+    {
+      "id": "Q209",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ಎಷ್ಟು ಯಗಣಗಳಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ?",
+      "options": {
+        "A": "ನಾಲ್ಕು",
+        "B": "ಮೂರು",
+        "C": "ಐದು",
+        "D": "ಆರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭುಜಂಗಪ್ರಯಾತ ವೃತ್ತವು ನಾಲ್ಕು ಯಗಣಗಳ ಕ್ರಮದಿಂದ ರೂಪುಗೊಳ್ಳುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 8"
+    },
+    {
+      "id": "Q210",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಯ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಗುರು",
+        "B": "ಗುರು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಲಘು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಗುರು (ಲ-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q211",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಮ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಗುರು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಲಘು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಗುರು (ಗು-ಗು-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q212",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ತ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಗುರು-ಲಘು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಗುರು",
+        "D": "ಗುರು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಗಣದ ಕ್ರಮ ಗುರು-ಗುರು-ಲಘು (ಗು-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q213",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ರ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಗುರು",
+        "B": "ಲಘು-ಗುರು-ಗುರು",
+        "C": "ಗುರು-ಗುರು-ಗುರು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಗುರು (ಗು-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q214",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಜ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಗುರು-ಲಘು",
+        "B": "ಗುರು-ಲಘು-ಗುರು",
+        "C": "ಲಘು-ಲಘು-ಲಘು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗಣದ ಕ್ರಮ ಲಘು-ಗುರು-ಲಘು (ಲ-ಗು-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q215",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಭ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುರು-ಲಘು-ಲಘು",
+        "B": "ಲಘು-ಗುರು-ಲಘು",
+        "C": "ಲಘು-ಲಘು-ಲಘು",
+        "D": "ಗುರು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಗಣದ ಕ್ರಮ ಗುರು-ಲಘು-ಲಘು (ಗು-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q216",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ನ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಲಘು",
+        "B": "ಗುರು-ಲಘು-ಲಘು",
+        "C": "ಲಘು-ಗುರು-ಲಘು",
+        "D": "ಲಘು-ಲಘು-ಗುರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಲಘು (ಲ-ಲ-ಲ).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q217",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಣಗಳ ಸೂತ್ರದಲ್ಲಿ 'ಸ' ಗಣದ ಲಘು-ಗುರು ಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಘು-ಲಘು-ಗುರು",
+        "B": "ಲಘು-ಲಘು-ಲಘು",
+        "C": "ಗುರು-ಲಘು-ಲಘು",
+        "D": "ಲಘು-ಗುರು-ಲಘು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಗಣದ ಕ್ರಮ ಲಘು-ಲಘು-ಗುರು (ಲ-ಲ-ಗು).",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 9"
+    },
+    {
+      "id": "Q218",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಯಾವ ನಿಯಮಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಿನ ಬದ್ಧತೆ ಇರುವುದಿಲ್ಲ?",
+      "options": {
+        "A": "ಮಾತ್ರೆ, ಗಣ, ಪ್ರಾಸ",
+        "B": "ಅರ್ಥ, ಭಾವನೆ, ಕಥಾವಸ್ತು",
+        "C": "ಪದ, ವಾಕ್ಯ, ಪರಿಚ್ಛೇದ",
+        "D": "ಸ್ವರ, ವ್ಯಂಜನ, ಒತ್ತಕ್ಷರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಕ್ತಛಂದಸ್ಸಿನಲ್ಲಿ ಮಾತ್ರೆ, ಗಣ, ಪ್ರಾಸ ನಿಯಮಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಿನ ಬದ್ಧತೆ ಇರುವುದಿಲ್ಲ.",
+      "source": "Chandassu_Chapter32.pdf, Page 5, ಶ್ವರಿತ ಪುನರವಲೋಕನ, Point 10"
+    },
+    {
+      "id": "Q219",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಂದಪದ್ಯದಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು",
+        "B": "ಕೇವಲ ಅಕ್ಷರಸಂಖ್ಯೆ",
+        "C": "ಕೇವಲ ಪ್ರಾಸ",
+        "D": "ಕೇವಲ ಗಣಸಂಖ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಂದಪದ್ಯದಲ್ಲಿ ಪಾದಗಳ ಮಾತ್ರಾ ವಿನ್ಯಾಸ ಮತ್ತು ಯತಿ ನಿಯಮಗಳು ನಿರ್ದಿಷ್ಟವಾಗಿರುತ್ತವೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q220",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತ್ರಿಪದಿಯಲ್ಲಿ ಯಾವ ಗುಣಗಳು ಪ್ರಮುಖವಾಗಿವೆ?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ",
+        "B": "ದೀರ್ಘತೆ, ಜಟಿಲತೆ, ಕ್ಲಿಷ್ಟ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ವರ್ಣನೆ",
+        "D": "ಕೇವಲ ಕಥನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಪದಿಯ ಪ್ರಮುಖ ಗುಣಗಳು: ಸಂಕ್ಷಿಪ್ತತೆ, ಲಯ, ಸರಳ ಅಭಿವ್ಯಕ್ತಿ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q221",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಟ್ಪದಿಯಲ್ಲಿ ಯಾವ ಪ್ರಭೇದವು ಕುಮಾರವ್ಯಾಸನಿಂದ ಪ್ರಸಿದ್ಧವಾಯಿತು?",
+      "options": {
+        "A": "ಭಾಮಿನಿ",
+        "B": "ಶರ",
+        "C": "ಕುಸುಮ",
+        "D": "ವಾರ್ಧಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಭಾಮಿನಿ ಷಟ್ಪದಿಯಲ್ಲಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q222",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "B": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂದಾನಿಲ ರಗಳೆಯು ಮಂದವಾದ, ಮೃದುವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q223",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಲಲಿತ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉತ್ಸಾಹ ರಗಳೆಯು ಉತ್ಸಾಹಭರಿತ, ವೇಗಯುತ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q224",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಗಳೆಯ ಪ್ರಭೇದಗಳಲ್ಲಿ ಯಾವುದು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಲಲಿತ ರಗಳೆ",
+        "B": "ಮಂದಾನಿಲ ರಗಳೆ",
+        "C": "ಉತ್ಸಾಹ ರಗಳೆ",
+        "D": "ಎಲ್ಲವೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಲಿತ ರಗಳೆಯು ಮೃದು, ಸುಂದರ ಮತ್ತು ಲಲಿತವಾದ ಲಯವನ್ನು ಹೊಂದಿದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q225",
+      "subject": "Kannada",
+      "topic": "Kannada Chandassu",
+      "chapter": "Chapter 32: Kannada Pramukha Chandhopakaragalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಯಾವ ರೀತಿಯ ನಿರೂಪಣೆ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ವರ್ಣನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "C": "ಕೇವಲ ಭಾವನಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "D": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ನಿರೂಪಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಂಗತ್ಯದಲ್ಲಿ ಹಾಡಲು ಅನುಕೂಲವಾದ ಲಯ ಮತ್ತು ಕಥನಾತ್ಮಕ ನಿರೂಪಣೆ ಇರುತ್ತದೆ.",
+      "source": "Chandassu_Chapter32.pdf, Page 3, Q31"
+    }
+  ]
+}

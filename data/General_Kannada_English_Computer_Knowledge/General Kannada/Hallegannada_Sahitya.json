@@ -1,0 +1,2203 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Comprehensive question bank on Halagannada Sahitya (Old Kannada Literature) based on the provided PDF. Designed for KEA examination preparation.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಾಚೀನ ರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "B": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "C": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "D": "ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಪ್ರಾಚೀನ ರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯವನ್ನು ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಮಾನವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಶತಮಾನಗಳವರೆಗೆ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ",
+        "B": "8ನೇ ಶತಮಾನದಿಂದ 10ನೇ ಶತಮಾನದವರೆಗೆ",
+        "C": "10ನೇ ಶತಮಾನದಿಂದ 14ನೇ ಶತಮಾನದವರೆಗೆ",
+        "D": "12ನೇ ಶತಮಾನದಿಂದ 15ನೇ ಶತಮಾನದವರೆಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ 9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗಿನ ಕಾವ್ಯಪರಂಪರೆ ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಆರಂಭವನ್ನು ತಿಳಿಸುವ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ವಡ್ಡಾರಾಧನೆ",
+        "C": "ಆದಿಪುರಾಣ",
+        "D": "ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಹಳಗನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ ಮತ್ತು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಆರಂಭಿಕ ಮಹತ್ವದ ಕೃತಿಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ",
+        "B": "ಶ್ರೀವಿಜಯ",
+        "C": "ಪಂಪ",
+        "D": "ರನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃತ್ವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷನಿಗೆ ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ. ಕೆಲವು ವಿದ್ವಾಂಸರು ಶ್ರೀವಿಜಯನ ಕೃತಿಯೆಂದೂ ಅಭಿಪ್ರಾಯಪಡುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನ",
+        "B": "10ನೇ ಶತಮಾನ",
+        "C": "11ನೇ ಶತಮಾನ",
+        "D": "12ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನಕ್ಕೆ ವಿಶೇಷವಾಗಿ ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಆಳ್ವಿಕೆಯ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ",
+        "B": "ಇದು ಮೊದಲ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಇದು ಮೊದಲ ಗದ್ಯ ಕಾವ್ಯ",
+        "D": "ಇದು ಮೊದಲ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥವೆಂದು ಪ್ರಸಿದ್ಧ. ಇದರಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯ ವ್ಯಾಪ್ತಿ, ಕಾವ್ಯಲಕ್ಷಣ, ಕವಿಗಳು, ಸಾಹಿತ್ಯಪರಂಪರೆ ಮತ್ತು ಕನ್ನಡನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ-ಭೌಗೋಳಿಕ ಉಲ್ಲೇಖಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಉಲ್ಲೇಖವಾಗುವ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಕಾವೀರಿಯಿಂದ ಗೋದಾವರಿವರೆಗೆ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿ ಇತ್ತು ಎಂಬ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖವನ್ನು ಒಳಗೊಂಡಿದೆ",
+        "B": "ಕಾವೇರಿಯಿಂದ ಕೃಷ್ಣಾ ನದಿವರೆಗೆ ಮಾತ್ರ ವ್ಯಾಪ್ತಿ",
+        "C": "ಗೋದಾವರಿಯಿಂದ ತುಂಗಭದ್ರಾ ನದಿವರೆಗೆ ವ್ಯಾಪ್ತಿ",
+        "D": "ಕಾವೇರಿಯಿಂದ ನರ್ಮದಾ ನದಿವರೆಗೆ ವ್ಯಾಪ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಗೋದಾವರಿಯಿಂದ ಕಾವೇರಿವರೆಗೆ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿ ಇತ್ತು ಎಂಬ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖವು ಕನ್ನಡ ಭಾಷೆಯ ಸಾಂಸ್ಕೃತಿಕ ವಲಯ ಮತ್ತು ಭಾಷಾಭಿಮಾನವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯಕೃತಿ",
+        "B": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ರಗಳೆ ಕಾವ್ಯ",
+        "D": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯಕೃತಿ. ಇದರಲ್ಲಿ ಜೈನ ಧರ್ಮದ ನೀತಿ, ತ್ಯಾಗ, ಧರ್ಮನಿಷ್ಠೆ ಮತ್ತು ಕಥೆಗಳ ಮೂಲಕ ನೈತಿಕ ಸಂದೇಶಗಳನ್ನು ನಿರೂಪಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q7"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ನಾಗವರ್ಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಅಂಗೀಕರಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಸಾಹಿತ್ಯಿಕ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು",
+        "B": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ರಗಳೆ ಕಾವ್ಯ",
+        "D": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ ಕನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು. ಕಥನಶೈಲಿ, ನಂಬಿಕೆ, ಜನಜೀವನದ ವಿವರಗಳು ಮತ್ತು ಜೈನ ಧಾರ್ಮಿಕ ಮೌಲ್ಯಗಳ ನಿರೂಪಣೆಯಿಂದ ಇದು ಮಹತ್ವ ಪಡೆದಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ ಯಾರು?",
+      "options": {
+        "A": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ",
+        "C": "ಆದಿಪುರಾಣದ ಕರ್ತೃ",
+        "D": "ಗದಾಯುದ್ಧದ ಕರ್ತೃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯರು ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಎಂದು ಪ್ರಸಿದ್ಧರಾದ ಹಳಗನ್ನಡದ ಗದ್ಯಸಾಹಿತಿ. ಅವರ ಕೃತಿ ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಪರಂಪರೆಯ ಪ್ರಮುಖ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q10"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಶಾಸನ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಲ್ಲು, ಸ್ತಂಭ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಮುಂತಾದ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಕೆತ್ತಲ್ಪಟ್ಟ ಕನ್ನಡದ ಬರಹಗಳು",
+        "B": "ಕವಿತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ನಾಟಕಗಳ ಸಂಗ್ರಹ",
+        "D": "ಕಥೆಗಳ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲ್ಲು, ಸ್ತಂಭ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಮುಂತಾದ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಕೆತ್ತಲ್ಪಟ್ಟ ಕನ್ನಡದ ಬರಹಗಳನ್ನು ಶಾಸನ ಸಾಹಿತ್ಯದ ಮೂಲಸಾಮಗ್ರಿ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಸನಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಇತಿಹಾಸಕ್ಕೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": {
+        "A": "ಅವು ಕನ್ನಡದ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ, ರಾಜವಂಶ, ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆ, ಧರ್ಮ, ಆರ್ಥಿಕತೆ ಮತ್ತು ಕಾವ್ಯಾತ್ಮಕ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "B": "ಅವು ಕೇವಲ ರಾಜರ ಹೆಸರುಗಳನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "C": "ಅವು ಕೇವಲ ದೇವಸ್ಥಾನಗಳ ನಿರ್ಮಾಣವನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "D": "ಅವು ಕೇವಲ ಯುದ್ಧಗಳ ವಿವರಣೆಯನ್ನು ನೀಡುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾಸನಗಳು ಕನ್ನಡದ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ, ಲಿಪಿ, ರಾಜವಂಶ, ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆ, ಧರ್ಮ, ಆರ್ಥಿಕತೆ ಮತ್ತು ಕಾವ್ಯಾತ್ಮಕ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಾಚೀನ ಶಾಸನಗಳ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+        "B": "ಐಹೊಳೆ ಶಾಸನ",
+        "C": "ಬೆಳಗಾವಿ ಶಾಸನ",
+        "D": "ಮೈಸೂರು ಶಾಸನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಪ್ರಾಚೀನ ಕನ್ನಡದ ಪ್ರಮುಖ ಶಾಸನ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q13"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ, ಗದ್ಯ-ಪದ್ಯದ ಮಿಶ್ರಣ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವ, ಪುರಾಣ ಮತ್ತು ಇತಿಹಾಸದ ಕಥೆಗಳ ಮರುಸೃಷ್ಟಿ, ಧಾರ್ಮಿಕ-ನೈತಿಕ ಆಶಯಗಳು ಮತ್ತು ರಾಜಾಶ್ರಯ",
+        "B": "ಕೇವಲ ಪದ್ಯ ರೂಪ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವವಿಲ್ಲದಿರುವುದು",
+        "C": "ಕೇವಲ ಗದ್ಯ ರೂಪ, ಜಾನಪದ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ನಾಟಕ ರೂಪ, ಆಧುನಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳೆಂದರೆ ಚಂಪೂ ಶೈಲಿ, ಗದ್ಯ-ಪದ್ಯದ ಮಿಶ್ರಣ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವ, ಪುರಾಣ ಮತ್ತು ಇತಿಹಾಸದ ಕಥೆಗಳ ಮರುಸೃಷ್ಟಿ, ಧಾರ್ಮಿಕ-ನೈತಿಕ ಆಶಯಗಳು ಮತ್ತು ರಾಜಾಶ್ರಯ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಂಪೂ ಕಾವ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಗದ್ಯ ಮತ್ತು ಪದ್ಯ ಎರಡನ್ನೂ ಮಿಶ್ರಣವಾಗಿ ಬಳಸಿಕೊಂಡು ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "B": "ಕೇವಲ ಗದ್ಯದಲ್ಲಿ ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "C": "ಕೇವಲ ಪದ್ಯದಲ್ಲಿ ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "D": "ಕೇವಲ ಸಂಭಾಷಣೆಗಳನ್ನು ಒಳಗೊಂಡ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗದ್ಯ ಮತ್ತು ಪದ್ಯ ಎರಡನ್ನೂ ಮಿಶ್ರಣವಾಗಿ ಬಳಸಿಕೊಂಡು ರಚಿಸಲಾದ ಕಾವ್ಯವನ್ನು ಚಂಪೂ ಕಾವ್ಯ ಎನ್ನುತ್ತಾರೆ. ಹಳಗನ್ನಡದ ಅನೇಕ ಮಹತ್ವದ ಕೃತಿಗಳು ಚಂಪೂ ಶೈಲಿಯಲ್ಲಿವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಪಂಪ, ರನ್ನ, ನಾಗಚಂದ್ರ",
+        "C": "ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ",
+        "D": "ಪಂಪ, ಪೊನ್ನ, ಹರಿಹರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇವರು ಹಳಗನ್ನಡದ ಮಹತ್ವದ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಕನ್ನಡ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಸ್ತಂಭಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಆದಿಕವಿ ಪಂಪ ಯಾರು?",
+      "options": {
+        "A": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "B": "9ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "D": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನು 10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ. ಕನ್ನಡದ ಆದಿಕವಿ ಎಂದು ಪ್ರಸಿದ್ಧನಾಗಿದ್ದು, ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ ಎಂಬ ಎರಡು ಮಹತ್ವದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾನೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "C": "ಅಜಿತಪುರಾಣ ಮತ್ತು ಯಶೋಧರ ಚರಿತೆ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ. ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯವನ್ನು ಪಂಪಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪನಿಗೆ ದೊರೆತ ಪ್ರಮುಖ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಕವಿ",
+        "B": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "C": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನಿಗೆ ಆದಿಕವಿ ಎಂಬ ಗೌರವಿಸಲಾಗುತ್ತದೆ. ಅವನ ಕಾವ್ಯಪ್ರತಿಭೆ ಮತ್ತು ಕನ್ನಡ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯ ಮೇಲೆ ಬೀರಿದ ಪ್ರಭಾವದಿಂದ ಈ ಬಿರುದು ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q19"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಆಶ್ರಯದಾತ ಯಾರು?",
+      "options": {
+        "A": "ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಕೃಷ್ಣ",
+        "C": "ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ",
+        "D": "ಚಾಲುಕ್ಯ ಅರಸ ಸತ್ಯಾಶ್ರಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನು ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ (ಅರಿಕೇಸರಿ II) ಆಶ್ರಯದಲ್ಲಿದ್ದನು ಎಂದು ಸಾಹಿತ್ಯ ಇತಿಹಾಸದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಕಾವ್ಯಶೈಲಿಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ, ಗಂಭೀರ ಭಾಷೆ, ಸಂಸ್ಕೃತ-ಕನ್ನಡ ಪದಸಂಪತ್ತಿನ ಸಮನ್ವಯ, ಪಾತ್ರಚಿತ್ರಣ ಮತ್ತು ವೀರ-ಧಾರ್ಮಿಕ ಆಶಯಗಳ ಕಲಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ಗದ್ಯ ಶೈಲಿ, ಸರಳ ಭಾಷೆ",
+        "C": "ಕೇವಲ ಪದ್ಯ ಶೈಲಿ, ಜಾನಪದ ಭಾಷೆ",
+        "D": "ಕೇವಲ ನಾಟಕ ಶೈಲಿ, ಆಧುನಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ಕಾವ್ಯದಲ್ಲಿ ಚಂಪೂ ಶೈಲಿ, ಗಂಭೀರ ಭಾಷೆ, ಸಂಸ್ಕೃತ-ಕನ್ನಡ ಪದಸಂಪತ್ತಿನ ಸಮನ್ವಯ, ಪಾತ್ರಚಿತ್ರಣ ಮತ್ತು ವೀರ-ಧಾರ್ಮಿಕ ಆಶಯಗಳ ಕಲಾತ್ಮಕ ನಿರೂಪಣೆ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆದಿಪುರಾಣದ ವಿಷಯವೇನು?",
+      "options": {
+        "A": "ಆದಿತೀರ್ಥಂಕರರಾದ ಋಷಭನಾಥ/ಆದಿನಾಥರ ಜೀವನ, ಅವರ ಪುತ್ರರಾದ ಭರತ ಮತ್ತು ಬಾಹುಬಲಿಯ ಕಥೆ ಹಾಗೂ ಜೈನ ಧರ್ಮದ ತತ್ತ್ವಗಳ ನಿರೂಪಣೆ",
+        "B": "ರಾಮಾಯಣದ ಕಥೆ",
+        "C": "ಮಹಾಭಾರತದ ಕಥೆ",
+        "D": "ಶಿವನ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣವು ಮೊದಲ ತೀರ್ಥಂಕರರಾದ ಋಷಭನಾಥ/ಆದಿನಾಥರ ಜೀವನ, ಅವರ ಪುತ್ರರಾದ ಭರತ ಮತ್ತು ಬಾಹುಬಲಿಯ ಕಥೆ ಹಾಗೂ ಜೈನ ಧರ್ಮದ ತತ್ತ್ವಗಳನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಾಚೀನ ರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "B": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "C": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "D": "ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಪ್ರಾಚೀನ ರೂಪದಲ್ಲಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯವನ್ನು ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಮಾನವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಶತಮಾನಗಳವರೆಗೆ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ",
+        "B": "8ನೇ ಶತಮಾನದಿಂದ 10ನೇ ಶತಮಾನದವರೆಗೆ",
+        "C": "10ನೇ ಶತಮಾನದಿಂದ 14ನೇ ಶತಮಾನದವರೆಗೆ",
+        "D": "12ನೇ ಶತಮಾನದಿಂದ 15ನೇ ಶತಮಾನದವರೆಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ 9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗಿನ ಕಾವ್ಯಪರಂಪರೆ ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಆರಂಭವನ್ನು ತಿಳಿಸುವ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ವಡ್ಡಾರಾಧನೆ",
+        "C": "ಆದಿಪುರಾಣ",
+        "D": "ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಹಳಗನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ ಮತ್ತು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಆರಂಭಿಕ ಮಹತ್ವದ ಕೃತಿಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ",
+        "B": "ಶ್ರೀವಿಜಯ",
+        "C": "ಪಂಪ",
+        "D": "ರನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃತ್ವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ನೃಪತುಂಗ ಅಮೋಘವರ್ಷನಿಗೆ ಸಂಬಂಧಿಸಲಾಗುತ್ತದೆ. ಕೆಲವು ವಿದ್ವಾಂಸರು ಶ್ರೀವಿಜಯನ ಕೃತಿಯೆಂದೂ ಅಭಿಪ್ರಾಯಪಡುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನ",
+        "B": "10ನೇ ಶತಮಾನ",
+        "C": "11ನೇ ಶತಮಾನ",
+        "D": "12ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನಕ್ಕೆ ವಿಶೇಷವಾಗಿ ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಆಳ್ವಿಕೆಯ ಕಾಲಕ್ಕೆ ಸೇರಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ",
+        "B": "ಇದು ಮೊದಲ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಇದು ಮೊದಲ ಗದ್ಯ ಕಾವ್ಯ",
+        "D": "ಇದು ಮೊದಲ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥವೆಂದು ಪ್ರಸಿದ್ಧ. ಇದರಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆಯ ವ್ಯಾಪ್ತಿ, ಕಾವ್ಯಲಕ್ಷಣ, ಕವಿಗಳು, ಸಾಹಿತ್ಯಪರಂಪರೆ ಮತ್ತು ಕನ್ನಡನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ-ಭೌಗೋಳಿಕ ಉಲ್ಲೇಖಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಉಲ್ಲೇಖವಾಗುವ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿಯ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಕಾವೀರಿಯಿಂದ ಗೋದಾವರಿವರೆಗೆ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿ ಇತ್ತು ಎಂಬ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖವನ್ನು ಒಳಗೊಂಡಿದೆ",
+        "B": "ಕಾವೇರಿಯಿಂದ ಕೃಷ್ಣಾ ನದಿವರೆಗೆ ಮಾತ್ರ ವ್ಯಾಪ್ತಿ",
+        "C": "ಗೋದಾವರಿಯಿಂದ ತುಂಗಭದ್ರಾ ನದಿವರೆಗೆ ವ್ಯಾಪ್ತಿ",
+        "D": "ಕಾವೇರಿಯಿಂದ ನರ್ಮದಾ ನದಿವರೆಗೆ ವ್ಯಾಪ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿ ಗೋದಾವರಿಯಿಂದ ಕಾವೇರಿವರೆಗೆ ಕನ್ನಡನಾಡಿನ ವ್ಯಾಪ್ತಿ ಇತ್ತು ಎಂಬ ಪ್ರಸಿದ್ಧ ಉಲ್ಲೇಖವು ಕನ್ನಡ ಭಾಷೆಯ ಸಾಂಸ್ಕೃತಿಕ ವಲಯ ಮತ್ತು ಭಾಷಾಭಿಮಾನವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯಕೃತಿ",
+        "B": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ರಗಳೆ ಕಾವ್ಯ",
+        "D": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯಕೃತಿ. ಇದರಲ್ಲಿ ಜೈನ ಧರ್ಮದ ನೀತಿ, ತ್ಯಾಗ, ಧರ್ಮನಿಷ್ಠೆ ಮತ್ತು ಕಥೆಗಳ ಮೂಲಕ ನೈತಿಕ ಸಂದೇಶಗಳನ್ನು ನಿರೂಪಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q7"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ನಾಗವರ್ಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಅಂಗೀಕರಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಸಾಹಿತ್ಯಿಕ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು",
+        "B": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ರಗಳೆ ಕಾವ್ಯ",
+        "D": "ಇದು ಅತ್ಯಂತ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ ಗ್ರಂಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ ಕನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು. ಕಥನಶೈಲಿ, ನಂಬಿಕೆ, ಜನಜೀವನದ ವಿವರಗಳು ಮತ್ತು ಜೈನ ಧಾರ್ಮಿಕ ಮೌಲ್ಯಗಳ ನಿರೂಪಣೆಯಿಂದ ಇದು ಮಹತ್ವ ಪಡೆದಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ ಯಾರು?",
+      "options": {
+        "A": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ",
+        "C": "ಆದಿಪುರಾಣದ ಕರ್ತೃ",
+        "D": "ಗದಾಯುದ್ಧದ ಕರ್ತೃ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯರು ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಎಂದು ಪ್ರಸಿದ್ಧರಾದ ಹಳಗನ್ನಡದ ಗದ್ಯಸಾಹಿತಿ. ಅವರ ಕೃತಿ ಕನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಪರಂಪರೆಯ ಪ್ರಮುಖ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q10"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಶಾಸನ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಲ್ಲು, ಸ್ತಂಭ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಮುಂತಾದ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಕೆತ್ತಲ್ಪಟ್ಟ ಕನ್ನಡದ ಬರಹಗಳು",
+        "B": "ಕವಿತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ನಾಟಕಗಳ ಸಂಗ್ರಹ",
+        "D": "ಕಥೆಗಳ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲ್ಲು, ಸ್ತಂಭ, ದೇವಾಲಯದ ಗೋಡೆ, ತಾಮ್ರಪಟ ಮುಂತಾದ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಕೆತ್ತಲ್ಪಟ್ಟ ಕನ್ನಡದ ಬರಹಗಳನ್ನು ಶಾಸನ ಸಾಹಿತ್ಯದ ಮೂಲಸಾಮಗ್ರಿ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಸನಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಇತಿಹಾಸಕ್ಕೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡುತ್ತವೆ?",
+      "options": {
+        "A": "ಅವು ಕನ್ನಡದ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ, ರಾಜವಂಶ, ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆ, ಧರ್ಮ, ಆರ್ಥಿಕತೆ ಮತ್ತು ಕಾವ್ಯಾತ್ಮಕ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "B": "ಅವು ಕೇವಲ ರಾಜರ ಹೆಸರುಗಳನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "C": "ಅವು ಕೇವಲ ದೇವಸ್ಥಾನಗಳ ನಿರ್ಮಾಣವನ್ನು ತಿಳಿಸುತ್ತವೆ",
+        "D": "ಅವು ಕೇವಲ ಯುದ್ಧಗಳ ವಿವರಣೆಯನ್ನು ನೀಡುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾಸನಗಳು ಕನ್ನಡದ ಪ್ರಾಚೀನ ವ್ಯಾಕರಣ, ಲಿಪಿ, ರಾಜವಂಶ, ಸಾಮಾಜಿಕ ವ್ಯವಸ್ಥೆ, ಧರ್ಮ, ಆರ್ಥಿಕತೆ ಮತ್ತು ಕಾವ್ಯಾತ್ಮಕ ಭಾಷೆಯ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಸುತ್ತವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q12"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಾಚೀನ ಶಾಸನಗಳ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+        "B": "ಐಹೊಳೆ ಶಾಸನ",
+        "C": "ಬೆಳಗಾವಿ ಶಾಸನ",
+        "D": "ಮೈಸೂರು ಶಾಸನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಪ್ರಾಚೀನ ಕನ್ನಡದ ಪ್ರಮುಖ ಶಾಸನ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿದೆ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q13"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ, ಗದ್ಯ-ಪದ್ಯದ ಮಿಶ್ರಣ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವ, ಪುರಾಣ ಮತ್ತು ಇತಿಹಾಸದ ಕಥೆಗಳ ಮರುಸೃಷ್ಟಿ, ಧಾರ್ಮಿಕ-ನೈತಿಕ ಆಶಯಗಳು ಮತ್ತು ರಾಜಾಶ್ರಯ",
+        "B": "ಕೇವಲ ಪದ್ಯ ರೂಪ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವವಿಲ್ಲದಿರುವುದು",
+        "C": "ಕೇವಲ ಗದ್ಯ ರೂಪ, ಜಾನಪದ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ನಾಟಕ ರೂಪ, ಆಧುನಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಾಚೀನ ಕನ್ನಡ ಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳೆಂದರೆ ಚಂಪೂ ಶೈಲಿ, ಗದ್ಯ-ಪದ್ಯದ ಮಿಶ್ರಣ, ಸಂಸ್ಕೃತದ ಪ್ರಭಾವ, ಪುರಾಣ ಮತ್ತು ಇತಿಹಾಸದ ಕಥೆಗಳ ಮರುಸೃಷ್ಟಿ, ಧಾರ್ಮಿಕ-ನೈತಿಕ ಆಶಯಗಳು ಮತ್ತು ರಾಜಾಶ್ರಯ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಂಪೂ ಕಾವ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಗದ್ಯ ಮತ್ತು ಪದ್ಯ ಎರಡನ್ನೂ ಮಿಶ್ರಣವಾಗಿ ಬಳಸಿಕೊಂಡು ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "B": "ಕೇವಲ ಗದ್ಯದಲ್ಲಿ ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "C": "ಕೇವಲ ಪದ್ಯದಲ್ಲಿ ರಚಿಸಲಾದ ಕಾವ್ಯ",
+        "D": "ಕೇವಲ ಸಂಭಾಷಣೆಗಳನ್ನು ಒಳಗೊಂಡ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗದ್ಯ ಮತ್ತು ಪದ್ಯ ಎರಡನ್ನೂ ಮಿಶ್ರಣವಾಗಿ ಬಳಸಿಕೊಂಡು ರಚಿಸಲಾದ ಕಾವ್ಯವನ್ನು ಚಂಪೂ ಕಾವ್ಯ ಎನ್ನುತ್ತಾರೆ. ಹಳಗನ್ನಡದ ಅನೇಕ ಮಹತ್ವದ ಕೃತಿಗಳು ಚಂಪೂ ಶೈಲಿಯಲ್ಲಿವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಪಂಪ, ರನ್ನ, ನಾಗಚಂದ್ರ",
+        "C": "ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ",
+        "D": "ಪಂಪ, ಪೊನ್ನ, ಹರಿಹರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಇವರು ಹಳಗನ್ನಡದ ಮಹತ್ವದ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಕನ್ನಡ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಸ್ತಂಭಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಆದಿಕವಿ ಪಂಪ ಯಾರು?",
+      "options": {
+        "A": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "B": "9ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "D": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನು 10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ. ಕನ್ನಡದ ಆದಿಕವಿ ಎಂದು ಪ್ರಸಿದ್ಧನಾಗಿದ್ದು, ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ ಎಂಬ ಎರಡು ಮಹತ್ವದ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದ್ದಾನೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q17"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "C": "ಅಜಿತಪುರಾಣ ಮತ್ತು ಯಶೋಧರ ಚರಿತೆ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ. ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯವನ್ನು ಪಂಪಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪನಿಗೆ ದೊರೆತ ಪ್ರಮುಖ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಕವಿ",
+        "B": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "C": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನಿಗೆ ಆದಿಕವಿ ಎಂಬ ಗೌರವಿಸಲಾಗುತ್ತದೆ. ಅವನ ಕಾವ್ಯಪ್ರತಿಭೆ ಮತ್ತು ಕನ್ನಡ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯ ಮೇಲೆ ಬೀರಿದ ಪ್ರಭಾವದಿಂದ ಈ ಬಿರುದು ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q19"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಆಶ್ರಯದಾತ ಯಾರು?",
+      "options": {
+        "A": "ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಕೃಷ್ಣ",
+        "C": "ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ",
+        "D": "ಚಾಲುಕ್ಯ ಅರಸ ಸತ್ಯಾಶ್ರಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನು ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ (ಅರಿಕೇಸರಿ II) ಆಶ್ರಯದಲ್ಲಿದ್ದನು ಎಂದು ಸಾಹಿತ್ಯ ಇತಿಹಾಸದಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q20"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಕಾವ್ಯಶೈಲಿಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ, ಗಂಭೀರ ಭಾಷೆ, ಸಂಸ್ಕೃತ-ಕನ್ನಡ ಪದಸಂಪತ್ತಿನ ಸಮನ್ವಯ, ಪಾತ್ರಚಿತ್ರಣ ಮತ್ತು ವೀರ-ಧಾರ್ಮಿಕ ಆಶಯಗಳ ಕಲಾತ್ಮಕ ನಿರೂಪಣೆ",
+        "B": "ಕೇವಲ ಗದ್ಯ ಶೈಲಿ, ಸರಳ ಭಾಷೆ",
+        "C": "ಕೇವಲ ಪದ್ಯ ಶೈಲಿ, ಜಾನಪದ ಭಾಷೆ",
+        "D": "ಕೇವಲ ನಾಟಕ ಶೈಲಿ, ಆಧುನಿಕ ವಿಷಯಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ಕಾವ್ಯದಲ್ಲಿ ಚಂಪೂ ಶೈಲಿ, ಗಂಭೀರ ಭಾಷೆ, ಸಂಸ್ಕೃತ-ಕನ್ನಡ ಪದಸಂಪತ್ತಿನ ಸಮನ್ವಯ, ಪಾತ್ರಚಿತ್ರಣ ಮತ್ತು ವೀರ-ಧಾರ್ಮಿಕ ಆಶಯಗಳ ಕಲಾತ್ಮಕ ನಿರೂಪಣೆ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆದಿಪುರಾಣದ ವಿಷಯವೇನು?",
+      "options": {
+        "A": "ಆದಿತೀರ್ಥಂಕರರಾದ ಋಷಭನಾಥ/ಆದಿನಾಥರ ಜೀವನ, ಅವರ ಪುತ್ರರಾದ ಭರತ ಮತ್ತು ಬಾಹುಬಲಿಯ ಕಥೆ ಹಾಗೂ ಜೈನ ಧರ್ಮದ ತತ್ತ್ವಗಳ ನಿರೂಪಣೆ",
+        "B": "ರಾಮಾಯಣದ ಕಥೆ",
+        "C": "ಮಹಾಭಾರತದ ಕಥೆ",
+        "D": "ಶಿವನ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣವು ಮೊದಲ ತೀರ್ಥಂಕರರಾದ ಋಷಭನಾಥ/ಆದಿನಾಥರ ಜೀವನ, ಅವರ ಪುತ್ರರಾದ ಭರತ ಮತ್ತು ಬಾಹುಬಲಿಯ ಕಥೆ ಹಾಗೂ ಜೈನ ಧರ್ಮದ ತತ್ತ್ವಗಳನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q22"
+    },
+        {
+      "id": "Q025",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನ ಯಾರು?",
+      "options": {
+        "A": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಜೈನ ಕವಿ ಮತ್ತು ರತ್ನತ್ರಯರಲ್ಲಿ ಒಬ್ಬ",
+        "B": "9ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಜೈನ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಜೈನ ಕವಿ",
+        "D": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಜೈನ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೊನ್ನನು 10ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಜೈನ ಕವಿ ಮತ್ತು ರತ್ನತ್ರಯರಲ್ಲಿ ಒಬ್ಬ. ಅವನ ಪ್ರಮುಖ ಕೃತಿ ಶಾಂತಿಪುರಾಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಶಾಂತಿಪುರಾಣ",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ಅಜಿತಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೊನ್ನನ ಪ್ರಸಿದ್ಧ ಕೃತಿ ಶಾಂತಿಪುರಾಣ. ಇದು 16ನೇ ತೀರ್ಥಂಕರರಾದ ಶಾಂತಿನಾಥರ ಚರಿತ್ರೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q027",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "B": "ಆದಿಕವಿ",
+        "C": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೊನ್ನನಿಗೆ ಉಭಯಕವಿಚಕ್ರವರ್ತಿ ಎಂಬ ಬಿರುದು ಪ್ರಸಿದ್ಧ. ಅವನು ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತ ಎರಡರಲ್ಲಿಯೂ ಪಾಂಡಿತ್ಯ ಹೊಂದಿದ್ದನೆಂಬ ಪರಂಪರೆಯೊಂದಿಗೆ ಈ ಬಿರುದು ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q26"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನ ಆಶ್ರಯದಾತ ಯಾರು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಕೃಷ್ಣ III",
+        "B": "ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ",
+        "C": "ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ",
+        "D": "ಚಾಲುಕ್ಯ ಅರಸ ಸತ್ಯಾಶ್ರಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೊನ್ನನು ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಕೃಷ್ಣ IIIನ ಆಶ್ರಯ ಪಡೆದಿದ್ದನೆಂದು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಳಲಾಗುತ್ತದೆ. ಕೆಲವು ವಿವರಗಳಲ್ಲಿ ಗಂಗ ಅರಸರ ಆಶ್ರಯಸಂಬಂಧವೂ ಉಲ್ಲೇಖವಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರನ್ನ ಯಾರು?",
+      "options": {
+        "A": "10ನೇ ಶತಮಾನದ ಕೊನೆಯ ಭಾಗ ಮತ್ತು 11ನೇ ಶತಮಾನದ ಆರಂಭದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "B": "9ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಮಧ್ಯದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ",
+        "D": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರನ್ನನು 10ನೇ ಶತಮಾನದ ಕೊನೆಯ ಭಾಗ ಮತ್ತು 11ನೇ ಶತಮಾನದ ಆರಂಭದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಕವಿ; ರತ್ನತ್ರಯರಲ್ಲಿ ಒಬ್ಬ. ಅಜಿತಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ ಅವನ ಪ್ರಸಿದ್ಧ ಕೃತಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಅಜಿತಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "B": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "C": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಯಶೋಧರ ಚರಿತೆ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರನ್ನನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಅಜಿತಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ. ಗದಾಯುದ್ಧವನ್ನು ಸಾಹಸಭೀಮ ವಿಜಯ ಎಂದೂ ಕರೆಯಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರನ್ನನಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "B": "ಆದಿಕವಿ",
+        "C": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರನ್ನನಿಗೆ ಕವಿಚಕ್ರವರ್ತಿ ಎಂಬ ಬಿರುದು ಪ್ರಸಿದ್ಧ. ಅವನ ಕಾವ್ಯಗಳಲ್ಲಿ ವೀರರಸ ಮತ್ತು ಯುದ್ಧವರ್ಣನೆಗೆ ವಿಶೇಷ ಸ್ಥಾನವಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಆಶ್ರಯದಾತರು ಯಾರು?",
+      "options": {
+        "A": "ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ ಮತ್ತು ನಂತರ ಚಾಲುಕ್ಯ ಅರಸ ಸತ್ಯಾಶ್ರಯ ಇಮ್ಮಡಿ ತೈಲಪ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಕೃಷ್ಣ III",
+        "C": "ವೇಮುಲವಾಡದ ಚಾಲುಕ್ಯ ಅರಸ ಅರಿಕೇಸರಿ",
+        "D": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರನ್ನನು ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ ಚಾವುಂಡರಾಯ ಮತ್ತು ನಂತರ ಚಾಲುಕ್ಯ ಅರಸ ಸತ್ಯಾಶ್ರಯ ಇಮ್ಮಡಿ ತೈಲಪನ ಆಶ್ರಯ ಪಡೆದಿದ್ದನೆಂದು ಸಾಹಿತ್ಯ ಇತಿಹಾಸದಲ್ಲಿ ಹೇಳಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗದಾಯುದ್ಧದ ಮತ್ತೊಂದು ಹೆಸರು ಯಾವುದು?",
+      "options": {
+        "A": "ಸಾಹಸಭೀಮ ವಿಜಯ",
+        "B": "ಪಂಪಭಾರತ",
+        "C": "ಪಂಪರಾಮಾಯಣ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗದಾಯುದ್ಧಕ್ಕೆ ಸಾಹಸಭೀಮ ವಿಜಯ ಎಂಬ ಮತ್ತೊಂದು ಹೆಸರು ಇದೆ. ಇದು ಭೀಮ ಮತ್ತು ದುರ್ಯೋಧನರ ಗದಾಯುದ್ಧವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡ ಕಾವ್ಯ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗವರ್ಮ ಯಾರು?",
+      "options": {
+        "A": "ಎರಡು ಪ್ರಮುಖ ಕನ್ನಡ ಸಾಹಿತಿಗಳನ್ನು ಸಾಹಿತ್ಯ ಇತಿಹಾಸದಲ್ಲಿ ಈ ಹೆಸರಿನಿಂದ ಗುರುತಿಸಲಾಗುತ್ತದೆ",
+        "B": "ಕೇವಲ ಒಬ್ಬ ಕವಿ",
+        "C": "ಕೇವಲ ಒಬ್ಬ ವ್ಯಾಕರಣಕಾರ",
+        "D": "ಕೇವಲ ಒಬ್ಬ ಶಾಸನಗಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ ಎಂಬ ಹೆಸರಿನ ಇಬ್ಬರು ಪ್ರಮುಖ ಕನ್ನಡ ಸಾಹಿತಿಗಳನ್ನು ಸಾಹಿತ್ಯ ಇತಿಹಾಸದಲ್ಲಿ ಗುರುತಿಸಲಾಗುತ್ತದೆ. ನಾಗವರ್ಮ I ಛಂದೋಂಬುಧಿ ಮತ್ತು ಕರ್ನಾಟಕ ಕಾದಂಬರಿಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದರೆ, ನಾಗವರ್ಮ II ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ ಮತ್ತು ವರ್ಧಮಾನ ಪುರಾಣದೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾನೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗವರ್ಮ Iನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಛಂದೋಂಬುಧಿ ಮತ್ತು ಕರ್ನಾಟಕ ಕಾದಂಬರಿ",
+        "B": "ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ ಮತ್ತು ವರ್ಧಮಾನ ಪುರಾಣ",
+        "C": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "D": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ Iನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಛಂದೋಂಬುಧಿ ಮತ್ತು ಕರ್ನಾಟಕ ಕಾದಂಬರಿ. ಛಂದೋಂಬುಧಿ ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಪ್ರಾಚೀನ ಗ್ರಂಥಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗವರ್ಮ IIನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ ಮತ್ತು ವರ್ಧಮಾನ ಪುರಾಣ",
+        "B": "ಛಂದೋಂಬುಧಿ ಮತ್ತು ಕರ್ನಾಟಕ ಕಾದಂಬರಿ",
+        "C": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "D": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ IIನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ ಮತ್ತು ವರ್ಧಮಾನ ಪುರಾಣ. ಇವು ಕಾವ್ಯಶಾಸ್ತ್ರ, ವ್ಯಾಕರಣ ಮತ್ತು ಜೈನ ಸಾಹಿತ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದವು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಾಗಚಂದ್ರ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ, ಅಭಿನವ ಪಂಪ ಎಂದು ಕರೆಯಲ್ಪಡುವವನು",
+        "B": "10ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ",
+        "D": "13ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗಚಂದ್ರನು 12ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ. ಅವನನ್ನು ಅಭಿನವ ಪಂಪ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ರಾಮಚಂದ್ರಚರಿತಪುರಾಣ (ಪಂಪರಾಮಾಯಣ) ಮತ್ತು ಮಲ್ಲಿನಾಥಪುರಾಣ ಅವನ ಪ್ರಮುಖ ಕೃತಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗಚಂದ್ರನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಮಚಂದ್ರಚರಿತಪುರಾಣ (ಪಂಪರಾಮಾಯಣ)",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ಶಾಂತಿಪುರಾಣ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗಚಂದ್ರನ ರಾಮಚಂದ್ರಚರಿತಪುರಾಣವು ಪಂಪರಾಮಾಯಣ ಎಂದೂ ಪ್ರಸಿದ್ಧ. ಇದು ರಾಮಕಥೆಯನ್ನು ಜೈನ ದೃಷ್ಟಿಕೋನದಿಂದ ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜನ್ನ ಯಾರು?",
+      "options": {
+        "A": "13ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಜೈನ ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಜೈನ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಜೈನ ಕವಿ",
+        "D": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಜೈನ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನ್ನನು 13ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹಳಗನ್ನಡ ಜೈನ ಕವಿ. ಯಶೋಧರ ಚರಿತೆ ಮತ್ತು ಅನಂತನಾಥ ಪುರಾಣ ಅವನ ಪ್ರಮುಖ ಕೃತಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನ್ನನಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "B": "ಆದಿಕವಿ",
+        "C": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನ್ನನಿಗೆ ಕವಿಚಕ್ರವರ್ತಿ ಎಂಬ ಬಿರುದು ಸಂಬಂಧಿಸಿದೆ. ಅವನ ಯಶೋಧರ ಚರಿತೆ ಜೈನ ನೈತಿಕ ತತ್ತ್ವಗಳ ನಿರೂಪಣೆಗೆ ಪ್ರಸಿದ್ಧ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q041",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹರಿಹರ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶೈವ ಕವಿ",
+        "B": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶೈವ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶೈವ ಕವಿ",
+        "D": "13ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶೈವ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನು 12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶೈವ ಕವಿ. ರಗಳೆ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಅವನ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ. ಗಿರಿಜಾಕಲ್ಯಾಣ ಮತ್ತು ವಿವಿಧ ಶಿವಶರಣರ ಕುರಿತ ರಗಳೆಗಳು ಅವನ ಕೃತಿಗಳಲ್ಲಿ ಸೇರಿವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q40"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿಹರನ ಪ್ರಮುಖ ಕಾವ್ಯರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ರಗಳೆ",
+        "B": "ಚಂಪೂ",
+        "C": "ಗದ್ಯ",
+        "D": "ಪಟ್ಟದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗಳೆ ಹರಿಹರನಿಗೆ ವಿಶೇಷವಾಗಿ ಸಂಬಂಧಿಸಿದ ಕಾವ್ಯರೂಪ. ಅವನು ರಗಳೆ ಛಂದಸ್ಸಿನ ಮೂಲಕ ಭಕ್ತಿ ಮತ್ತು ಶರಣರ ಜೀವನವನ್ನು ಕಾವ್ಯರೂಪದಲ್ಲಿ ನಿರೂಪಿಸಿದನು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರಾಘವಾಂಕ ಯಾರು?",
+      "options": {
+        "A": "13ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ",
+        "D": "10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನು 13ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ. ಹರಿಶ್ಚಂದರ ಕಾವ್ಯವು ಅವನ ಪ್ರಸಿದ್ಧ ಕೃತಿ; ಪಟ್ಟದಿ ಕಾವ್ಯಪರಂಪರೆಯ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಅವನಿಗೆ ಮಹತ್ವದ ಸ್ಥಾನವಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q044",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಘವಾಂಕನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದರ ಕಾವ್ಯ",
+        "B": "ಗಿರಿಜಾಕಲ್ಯಾಣ",
+        "C": "ಯಶೋಧರ ಚರಿತೆ",
+        "D": "ಕಬ್ಬಿಗರ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಪ್ರಮುಖ ಕೃತಿ ಹರಿಶ್ಚಂದರ ಕಾವ್ಯ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಷಟ್ಪದಿ ಕೈಪಿಡಿಯಲ್ಲಿ ರಚನೆಯಾದ ಮತ್ತು ಸತ್ಯನಿಷ್ಠ ಧರ್ಮಸಂಕಟ ಹಾಗೂ ತ್ಯಾಗವನ್ನು ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನೇಮಿಚಂದ್ರ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ",
+        "B": "10ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ",
+        "D": "13ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೇಮಿಚಂದ್ರನು 12ನೇ ಶತಮಾನದ ಜೈನ ಕವಿ. ಲೀಲಾವತಿ ಪ್ರಬಂಧ ಮತ್ತು ನೇಮಿನಾಥ ಪುರಾಣ ಅವನ ಪ್ರಮುಖ ಕೃತಿಗಳೆಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q046",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದುರ್ಗಸಿಂಹ ಯಾರು?",
+      "options": {
+        "A": "11ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯ-ಚಂಪೂ ಕವಿ",
+        "B": "10ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯ-ಚಂಪೂ ಕವಿ",
+        "C": "12ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯ-ಚಂಪೂ ಕವಿ",
+        "D": "13ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯ-ಚಂಪೂ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದುರ್ಗಸಿಂಹನು 11ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಪ್ರಮುಖ ಗದ್ಯ-ಚಂಪೂ ಕವಿ. ಅವನ ಪಂಚತಂತ್ರವು ಕನ್ನಡದ ಪ್ರಾಣಿ ಕಥನಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q047",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಾವುಂಡರಾಯ ಯಾರು?",
+      "options": {
+        "A": "ಪಶ್ಚಿಮ ಗಂಗರ ಕಾಲದ ಮಂತ್ರಿ, ಸೇನಾಪತಿ ಮತ್ತು ಜೈನ ಸಾಹಿತ್ಯದ ಪೋಷಕ",
+        "B": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ",
+        "C": "ಚಾಲುಕ್ಯ ಅರಸ",
+        "D": "ಹೊಯ್ಸಳ ಅರಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾವುಂಡರಾಯನು ಪಶ್ಚಿಮ ಗಂಗರ ಕಾಲದ ಮಂತ್ರಿ, ಸೇನಾಪತಿ ಮತ್ತು ಜೈನ ಸಾಹಿತ್ಯದ ಪೋಷಕ. ಅವನ ಚಾವುಂಡರಾಯ ಪುರಾಣವು ಕನ್ನಡದ ಪ್ರಾಣಿ ಗದ್ಯಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾಗಿದೆ. ಶ್ರವಣಬೆಳಗೊಳದ ಗೊಮ್ಮಟೇಶ್ವರ ಮೂರ್ತಿಯ ನಿರ್ಮಾಣಕೂಡ ಅವನ ಹೆಸರು ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q048",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಶ್ರೀವಿಜಯ ಯಾರು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಆಸ್ಥಾನಕವಿಯಾಗಿ ಗುರುತಿಸಲ್ಪಡುವ ಪ್ರಾಚೀನ ಕನ್ನಡ ಕವಿ",
+        "B": "ಚಾಲುಕ್ಯ ಅರಸ",
+        "C": "ಪಶ್ಚಿಮ ಗಂಗರ ಮಂತ್ರಿ",
+        "D": "ಹೊಯ್ಸಳ ಅರಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶ್ರೀವಿಜಯನು ರಾಷ್ಟ್ರಕೂಟ ಅರಸ ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಆಸ್ಥಾನಕವಿಯಾಗಿ ಗುರುತಿಸಲ್ಪಡುವ ಪ್ರಾಚೀನ ಕನ್ನಡ ಕವಿ. ಕವಿರಾಜಮಾರ್ಗದ ರಚನೆ ಅಥವಾ ಅದರ ಸಾಹಿತ್ಯಿಕ ರೂಪಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅವನ ಪಾತ್ರವಿದೆ ಎಂದು ಅನೇಕ ಅಧ್ಯಯನಗಳು ಸೂಚಿಸುತ್ತವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಗ್ಗಳ ಯಾರು?",
+      "options": {
+        "A": "ಹಳಗನ್ನಡದ ಜೈನ ಕವಿ",
+        "B": "ಹಳಗನ್ನಡದ ಶೈವ ಕವಿ",
+        "C": "ಹಳಗನ್ನಡದ ವೈಷ್ಣವ ಕವಿ",
+        "D": "ಹಳಗನ್ನಡದ ವ್ಯಾಕರಣಕಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಗ್ಗಳನು ಹಳಗನ್ನಡದ ಜೈನ ಕವಿ. ಚಂದ್ರಪ್ರಭ ಪುರಾಣ ಅವನ ಪ್ರಮುಖ ಕೃತಿಯಾಗಿ ಗುರುತಿಸಲ್ಪಟ್ಟಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q48"
+    },
+        {
+      "id": "Q050",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂಡಯ್ಯ ಯಾರು?",
+      "options": {
+        "A": "13ನೇ ಶತಮಾನದ ಕನ್ನಡ ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ಕನ್ನಡ ಕವಿ",
+        "C": "11ನೇ ಶತಮಾನದ ಕನ್ನಡ ಕವಿ",
+        "D": "10ನೇ ಶತಮಾನದ ಕನ್ನಡ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಡಯ್ಯನು 13ನೇ ಶತಮಾನದ ಕನ್ನಡ ಕವಿ. ಕಬ್ಬಿಗರ ಕಾವ್ಯ ಅವನ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q49"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಅಂಡಯ್ಯನ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಪದಸಂಪತ್ತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ ಸಂಸ್ಕೃತ ಪದಗಳ ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿದ ಪ್ರವೀಣ",
+        "B": "ಸಂಸ್ಕೃತ ಪದಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಬಳಸಿದ ಕವಿ",
+        "C": "ಕೇವಲ ಗದ್ಯದಲ್ಲಿ ಬರೆದ ಕವಿ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ ಗ್ರಂಥಗಳನ್ನು ಬರೆದ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಪದಸಂಪತ್ತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ ಸಂಸ್ಕೃತ ಪದಗಳ ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿದ ಪ್ರವೀಣ ಎಂದು ಅಂಡಯ್ಯನು ಗಮನಾರ್ಹನಾಗಿದ್ದಾನೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q49"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕೇಶಿರಾಜ ಯಾರು?",
+      "options": {
+        "A": "13ನೇ ಶತಮಾನದ ಕನ್ನಡ ವ್ಯಾಕರಣಕಾರ",
+        "B": "12ನೇ ಶತಮಾನದ ಕನ್ನಡ ವ್ಯಾಕರಣಕಾರ",
+        "C": "11ನೇ ಶತಮಾನದ ಕನ್ನಡ ವ್ಯಾಕರಣಕಾರ",
+        "D": "10ನೇ ಶತಮಾನದ ಕನ್ನಡ ವ್ಯಾಕರಣಕಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಶಿರಾಜನು 13ನೇ ಶತಮಾನದ ಕನ್ನಡ ವ್ಯಾಕರಣಕಾರ. ಅವನ ಶಬ್ದಮಣಿದರ್ಪಣವು ಹಳಗನ್ನಡ ವ್ಯಾಕರಣದ ಅತ್ಯಂತ ಮಹತ್ವದ ಗ್ರಂಥಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q50"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಕೇಶಿರಾಜ",
+        "B": "ನಾಗವರ್ಮ",
+        "C": "ಅಂಡಯ್ಯ",
+        "D": "ಚಾವುಂಡರಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಕರ್ತೃ ಕೇಶಿರಾಜ. ಇದು ಕನ್ನಡ ವ್ಯಾಕರಣದ ನಿಯಮಗಳನ್ನು ಸೂತ್ರರೂಪದಲ್ಲಿ ವಿವರಿಸುವ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q51"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡದ ವರ್ಣ, ಪದ, ವಿಭಕ್ತಿ ಸಮಾಸ, ಕ್ರಿಯಾಪದ ಮತ್ತು ವಾಕ್ಯರಚನೆ ಮುಂತಾದ ವಾಕ್ಯಾಂಶಗಳನ್ನು ವಿವರವಾಗಿ ವಿವರಿಸುತ್ತದೆ",
+        "B": "ಕೇವಲ ಕಥೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ",
+        "C": "ಕೇವಲ ಕವನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ",
+        "D": "ಕೇವಲ ಶಾಸನಗಳನ್ನು ಒಳಗೊಂಡಿದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಬ್ದಮಣಿದರ್ಪಣವು ಕನ್ನಡದ ವರ್ಣ, ಪದ, ವಿಭಕ್ತಿ ಸಮಾಸ, ಕ್ರಿಯಾಪದ ಮತ್ತು ವಾಕ್ಯರಚನೆ ಮುಂತಾದ ವಾಕ್ಯಾಂಶಗಳನ್ನು ವಿವರವಾಗಿ ವಿವರಿಸುತ್ತದೆ. ಕನ್ನಡ ವ್ಯಾಕರಣ ಇತಿಹಾಸದಲ್ಲಿ ಇದು ಪ್ರಮುಖ ಸ್ಥಾನ ಪಡೆದಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q52"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕವಿಗಳ ಕಾವ್ಯನಾಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕವಿ ತನ್ನ ನಿಜನಾಮದ ಬದಲಿಗೆ ಕಾವ್ಯದಲ್ಲಿ ಬಳಸುವ ಅಂಕಿತನಾಮ ಅಥವಾ ಕಾವ್ಯನಾಮ",
+        "B": "ಕವಿಯ ನಿಜವಾದ ಹೆಸರು",
+        "C": "ಕವಿಯ ಊರಿನ ಹೆಸರು",
+        "D": "ಕವಿಯ ಆಶ್ರಯದಾತನ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿ ತನ್ನ ನಿಜನಾಮದ ಬದಲಿಗೆ ಕಾವ್ಯದಲ್ಲಿ ಬಳಸುವ ಅಂಕಿತನಾಮ ಅಥವಾ ಕಾವ್ಯನಾಮವನ್ನು ಕವಿಯ ಕಾವ್ಯನಾಮ ಎನ್ನುವರು. ಭಕ್ತಿಕವಿಗಳಲ್ಲಿ ಅಂಕಿತನಾಮಗಳೇ ವಿಶೇಷವಾಗಿ ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 4, Q53"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಕವಿಗಳ ಬಿರುದುಗಳನ್ನು ಹೇಗೆ ನೆನಪಿಡಬೇಕು?",
+      "options": {
+        "A": "ಕವಿ ಮತ್ತು ಬಿರುದನ್ನು ಜೋಡಿಸಿ ನೆನಪಿಡಬೇಕು",
+        "B": "ಕೇವಲ ಬಿರುದುಗಳನ್ನು ನೆನಪಿಡಬೇಕು",
+        "C": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಡಬೇಕು",
+        "D": "ಯಾವುದನ್ನೂ ನೆನಪಿಡಬೇಕಾಗಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿ ಮತ್ತು ಬಿರುದನ್ನು ಜೋಡಿಸಿ ನೆನಪಿಡಬೇಕು: ಪಂಪ – ಆದಿಕವಿ; ಪೊನ್ನ – ಉಭಯಕವಿಚಕ್ರವರ್ತಿ; ರನ್ನ – ಕವಿಚಕ್ರವರ್ತಿ; ನಾಗಚಂದ್ರ – ಅಭಿನವ ಪಂಪ. ಬಿರುದುಗಳ ರೂಪಾಂತರಗಳು ಪರಸ್ಪರ ಸಂಬಂಧಗಳಲ್ಲಿ ಕಂಡುಬರಬಹುದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q54"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಕವಿಗಳ ಆಶ್ರಯದಾತರ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ರಾಜರು, ಮಂತ್ರಿಗಳು ಮತ್ತು ಸಾಮಂತರು ಕವಿಗಳಿಗೆ ಆಶ್ರಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಆಶ್ರಯ ಒದಗಿಸಿದರು. ಆಶ್ರಯದಾತರ ಪ್ರೋತ್ಸಾಹದಿಂದ ಮಹಾಕಾವ್ಯ, ಪುರಾಣ, ವ್ಯಾಕರಣ ಮತ್ತು ಛಂದೋಗ್ರಂಥಗಳು ರಚನೆಯಾದವು",
+        "B": "ಆಶ್ರಯದಾತರಿಗೆ ಯಾವುದೇ ಮಹತ್ವವಿಲ್ಲ",
+        "C": "ಕವಿಗಳು ಸ್ವತಂತ್ರವಾಗಿ ಕೃತಿಗಳನ್ನು ರಚಿಸಿದರು",
+        "D": "ಆಶ್ರಯದಾತರು ಕೇವಲ ಹಣವನ್ನು ನೀಡಿದರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜರು, ಮಂತ್ರಿಗಳು ಮತ್ತು ಸಾಮಂತರು ಕವಿಗಳಿಗೆ ಆಶ್ರಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಆಶ್ರಯ ಒದಗಿಸಿದರು. ಆಶ್ರಯದಾತರ ಪ್ರೋತ್ಸಾಹದಿಂದ ಮಹಾಕಾವ್ಯ, ಪುರಾಣ, ವ್ಯಾಕರಣ ಮತ್ತು ಛಂದೋಗ್ರಂಥಗಳು ರಚನೆಯಾದವು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q55"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನರ ಕಾಲಘಟ್ಟ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂರೂ ಕವಿಗಳು ಮುಖ್ಯವಾಗಿ 10ನೇ ಶತಮಾನದ ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು",
+        "B": "ಮೂರೂ ಕವಿಗಳು 9ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿದವರು",
+        "C": "ಮೂರೂ ಕವಿಗಳು 11ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿದವರು",
+        "D": "ಮೂರೂ ಕವಿಗಳು 12ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿದವರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೂರೂ ಕವಿಗಳು ಮುಖ್ಯವಾಗಿ 10ನೇ ಶತಮಾನದ ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು. ಪಂಪ ಮತ್ತು ಪೊನ್ನ 10ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕವಿಗಳು; ರನ್ನನು 10ನೇ ಶತಮಾನದ ಕೊನೆಯ ಭಾಗದಿಂದ 11ನೇ ಶತಮಾನದ ಆರಂಭದವರೆಗೆ ಸೇರಿದವನು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q56"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆದಿಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣದ ಕನ್ನಡ ಕರ್ತೃ ಪಂಪ. ಇದು ಜೈನ ಪುರಾಣಕಾವ್ಯವಾದುದು ಮೊದಲ ತೀರ್ಥಂಕರರಾದ ಋಷಭನಾಥರ ಚರಿತ್ರೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q57"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಪೊನ್ನ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಕರ್ತೃ ಪಂಪ. ಇದನ್ನು ಪಂಪಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q58"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಂತಿಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪೊನ್ನ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಾಂತಿಪುರಾಣದ ಕರ್ತೃ ಪೊನ್ನ. ಇದು 16ನೇ ತೀರ್ಥಂಕರರಾದ ಶಾಂತಿನಾಥರ ಜೀವನವನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q59"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗದಾಯುದ್ಧದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ರನ್ನ",
+        "B": "ಪಂಪ",
+        "C": "ಪೊನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗದಾಯುದ್ಧ ಅಥವಾ ಸಾಹಸಭೀಮ ವಿಜಯದ ಕರ್ತೃ ರನ್ನ. ಇದು ಭೀಮ-ದುರ್ಯೋಧನರ ಗದಾಯುದ್ಧವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q60"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಜಿತಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ರನ್ನ",
+        "B": "ಪಂಪ",
+        "C": "ಪೊನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಜಿತಪುರಾಣದ ಕರ್ತೃ ರನ್ನ. ಇದು ಎರಡನೇ ಜೈನ ತೀರ್ಥಂಕರರಾದ ಅಜಿತನಾಥರ ಚರಿತ್ರೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q61"
+    },
+    {
+      "id": "Q064",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯಶೋಧರ ಚರಿತೆಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಜನ್ನ",
+        "B": "ಪಂಪ",
+        "C": "ಪೊನ್ನ",
+        "D": "ರನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಶೋಧರ ಚರಿತೆಯ ಕರ್ತೃ ಜನ್ನ. ಇದು ಜೈನ ಧರ್ಮದ ಅಹಿಂಸೆ ಮತ್ತು ನೈತಿಕ ತತ್ತ್ವಗಳನ್ನು ಕಥಾರೂಪದಲ್ಲಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q62"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪಭಾರತ ಎಂದರೆ ಯಾವ ಕೃತಿ?",
+      "options": {
+        "A": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "B": "ಪಂಪನ ಆದಿಪುರಾಣದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "C": "ರನ್ನನ ಗದಾಯುದ್ಧದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "D": "ಪೊನ್ನನ ಶಾಂತಿಪುರಾಣದ ಮತ್ತೊಂದು ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪಭಾರತವು ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಮತ್ತೊಂದು ಹೆಸರು. ಇದು ಮಹಾಭಾರತದ ಕಥೆಯನ್ನು ಪಂಪನ ವಿಶಿಷ್ಟ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q63"
+    },
+    {
+      "id": "Q066",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪರಾಮಾಯಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಾಗಚಂದ್ರ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಪೊನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪರಾಮಾಯಣವು ನಾಗಚಂದ್ರನ ರಾಮಚಂದ್ರಚರಿತಪುರಾಣದ ಪ್ರಸಿದ್ಧ ಹೆಸರು. ಇದು ರಾಮಕಥೆಯ ಜೈನ ರೂಪಾಂತರವಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q64"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಸಭೀಮ ವಿಜಯ ಎಂದರೆ ಯಾವ ಕೃತಿ?",
+      "options": {
+        "A": "ರನ್ನನ ಗದಾಯುದ್ಧದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "B": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "C": "ಪೊನ್ನನ ಶಾಂತಿಪುರಾಣದ ಮತ್ತೊಂದು ಹೆಸರು",
+        "D": "ಜನ್ನನ ಯಶೋಧರ ಚರಿತೆಯ ಮತ್ತೊಂದು ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಸಭೀಮ ವಿಜಯವು ರನ್ನನ ಗದಾಯುದ್ಧದ ಮತ್ತೊಂದು ಹೆಸರು. ಭೀಮನ ವೀರತ್ವವನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡಿರುವುದರಿಂದ ಈ ಹೆಸರು ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q65"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಕರ್ತೃ ಗದುಗಿನ ನಾರಣಪ್ಪ ಅಂದರೆ ಕುಮಾರವ್ಯಾಸ. ಇದು ನಡುಗನ್ನಡ ಕಾಲದ ಭಾಮಿನಿ ಷಟ್ಪದಿ ಕೃತಿ; ಹಳಗನ್ನಡದ ಕೃತಿ ಅಲ್ಲ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q66"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧರ್ಮಾಮೃತದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಯಸೇನ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧರ್ಮಾಮೃತದ ಕರ್ತೃ ನಯಸೇನ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಗುರುತಿಸಲಾಗುತ್ತದೆ. ಇದು ಜೈನ ಧರ್ಮದ ಕಥೆಗಳು ಮತ್ತು ನೀತಿಬೋಧನೆಗಳನ್ನು ಒಳಗೊಂಡ ಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q67"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ. ಇದು ಹಳಗನ್ನಡದ ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q68"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಕಾಲಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ; ಅದರ ಕರ್ತೃತ್ವದಲ್ಲಿ ನೃಪತುಂಗ ಮತ್ತು ಶ್ರೀವಿಜಯರ ನಾತ್ಮದ ಕುರಿತು ವಿದ್ವಾಂಸರ ಚರ್ಚೆ ಇದೆ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವನ್ನು ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಕಾಲಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ; ಅದರ ಕರ್ತೃತ್ವದಲ್ಲಿ ನೃಪತುಂಗ ಮತ್ತು ಶ್ರೀವಿಜಯರ ನಾತ್ಮದ ಕುರಿತು ವಿದ್ವಾಂಸರ ಚರ್ಚೆ ಇದೆ. ಪರೀಕ್ಷೆಗೆ ಅಧಿಕೃತ ಪಠ್ಯಪುಸ್ತಕದ ನಿರ್ದಿಷ್ಟ ಉತ್ತರವನ್ನು ಬಳಸಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 5, Q69"
+    },
+    {
+      "id": "Q072",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಛಂದೋಂಬುಧಿಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಾಗವರ್ಮ I",
+        "B": "ನಾಗವರ್ಮ II",
+        "C": "ಕೇಶಿರಾಜ",
+        "D": "ಅಂಡಯ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಛಂದೋಂಬುಧಿಯ ಕರ್ತೃ ನಾಗವರ್ಮ I. ಇದು ಕನ್ನಡ ಛಂದಸ್ಸಿನ ಪ್ರಾಚೀನ ಶಾಸ್ತ್ರಗ್ರಂಥಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q70"
+    },
+    {
+      "id": "Q073",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಕಾದಂಬರಿಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಾಗವರ್ಮ I",
+        "B": "ನಾಗವರ್ಮ II",
+        "C": "ಕೇಶಿರಾಜ",
+        "D": "ಅಂಡಯ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಕಾದಂಬರಿಯ ಕರ್ತೃ ನಾಗವರ್ಮ I. ಇದು ಬಾಣಭಟ್ಟನ ಸಂಸ್ಕೃತ ಕಾದಂಬರಿಯ ಕಥೆಯನ್ನು ಕನ್ನಡದಲ್ಲಿ ಚಂಪೂ ಶೈಲಿಯಲ್ಲಿ ನಿರೂಪಿಸುತ್ತದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q71"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಕೇಶಿರಾಜ",
+        "B": "ನಾಗವರ್ಮ I",
+        "C": "ನಾಗವರ್ಮ II",
+        "D": "ಅಂಡಯ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಕರ್ತೃ ಕೇಶಿರಾಜ. ಇದು ಕನ್ನಡ ವ್ಯಾಕರಣದ ಪ್ರಸಿದ್ಧ ಗ್ರಂಥ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q72"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಕೃತಿಗಳ ಕರ್ತೃಗಳನ್ನು ಹೊಂದಿಸಿ ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ – ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ/ಶ್ರೀವಿಜಯ; ವಡ್ಡಾರಾಧನೆ – ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ; ಆದಿಪುರಾಣ – ಪಂಪ; ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ – ಪಂಪ; ಶಾಂತಿಪುರಾಣ – ಪೊನ್ನ; ಗದಾಯುದ್ಧ/ಸಾಹಸಭೀಮ ವಿಜಯ – ರನ್ನ; ಅಜಿತಪುರಾಣ – ರನ್ನ; ಯಶೋಧರ ಚರಿತೆ – ಜನ್ನ; ಪಂಪರಾಮಾಯಣ – ನಾಗಚಂದ್ರ; ಛಂದೋಂಬುಧಿ – ನಾಗವರ್ಮ I; ಕರ್ನಾಟಕ ಕಾದಂಬರಿ – ನಾಗವರ್ಮ I; ಶಬ್ದಮಣಿದರ್ಪಣ – ಕೇಶಿರಾಜ; ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ – ಕುಮಾರವ್ಯಾಸ (ನಡುಗನ್ನಡ); ಧರ್ಮಾಮೃತ – ನಯಸೇನ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗ – ಪಂಪ; ವಡ್ಡಾರಾಧನೆ – ರನ್ನ; ಆದಿಪುರಾಣ – ಪೊನ್ನ",
+        "C": "ಕವಿರಾಜಮಾರ್ಗ – ಜನ್ನ; ವಡ್ಡಾರಾಧನೆ – ಪಂಪ; ಆದಿಪುರಾಣ – ರನ್ನ",
+        "D": "ಕವಿರಾಜಮಾರ್ಗ – ಕೇಶಿರಾಜ; ವಡ್ಡಾರಾಧನೆ – ನಾಗವರ್ಮ; ಆದಿಪುರಾಣ – ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗ – ಅಮೋಘವರ್ಷ ನೃಪತುಂಗ/ಶ್ರೀವಿಜಯ; ವಡ್ಡಾರಾಧನೆ – ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ; ಆದಿಪುರಾಣ – ಪಂಪ; ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ – ಪಂಪ; ಶಾಂತಿಪುರಾಣ – ಪೊನ್ನ; ಗದಾಯುದ್ಧ/ಸಾಹಸಭೀಮ ವಿಜಯ – ರನ್ನ; ಅಜಿತಪುರಾಣ – ರನ್ನ; ಯಶೋಧರ ಚರಿತೆ – ಜನ್ನ; ಪಂಪರಾಮಾಯಣ – ನಾಗಚಂದ್ರ; ಛಂದೋಂಬುಧಿ – ನಾಗವರ್ಮ I; ಕರ್ನಾಟಕ ಕಾದಂಬರಿ – ನಾಗವರ್ಮ I; ಶಬ್ದಮಣಿದರ್ಪಣ – ಕೇಶಿರಾಜ; ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ – ಕುಮಾರವ್ಯಾಸ (ನಡುಗನ್ನಡ); ಧರ್ಮಾಮೃತ – ನಯಸೇನ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q73"
+    },
+        {
+      "id": "Q076",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಕವಿಗಳಲ್ಲಿ ಯಾರ ಕೃತಿ ಯಾವ ಸಾಹಿತ್ಯಪ್ರಕಾರಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ – ಚಂಪೂ ಮಹಾಕಾವ್ಯ/ಪುರಾಣ; ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ – ಗದ್ಯಕಥೆ; ನಾಗವರ್ಮ I – ಛಂದೋಗ್ರಂಥ ಮತ್ತು ಚಂಪೂ ಕಾದಂಬರಿ; ಕೇಶಿರಾಜ – ವ್ಯಾಕರಣಗ್ರಂಥ; ಹರಿಹರ – ರಗಳೆ; ರಾಘವಾಂಕ – ಪಟ್ಟದಿ",
+        "B": "ಪಂಪ – ಗದ್ಯ; ಪೊನ್ನ – ರಗಳೆ; ರನ್ನ – ವ್ಯಾಕರಣ",
+        "C": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ – ಚಂಪೂ; ನಾಗವರ್ಮ I – ರಗಳೆ; ಕೇಶಿರಾಜ – ಪಟ್ಟದಿ",
+        "D": "ಹರಿಹರ – ಚಂಪೂ; ರಾಘವಾಂಕ – ಗದ್ಯ; ಕೇಶಿರಾಜ – ರಗಳೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ – ಚಂಪೂ ಮಹಾಕಾವ್ಯ/ಪುರಾಣ; ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ – ಗದ್ಯಕಥೆ; ನಾಗವರ್ಮ I – ಛಂದೋಗ್ರಂಥ ಮತ್ತು ಚಂಪೂ ಕಾದಂಬರಿ; ಕೇಶಿರಾಜ – ವ್ಯಾಕರಣಗ್ರಂಥ; ಹರಿಹರ – ರಗಳೆ; ರಾಘವಾಂಕ – ಪಟ್ಟದಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q74"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಮತ್ತು ನಡುಗನ್ನಡ ಕೃತಿಗಳನ್ನು ಬೇರ್ಪಡಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಕೆಲವು ಪ್ರಸಿದ್ಧ ಕೃತಿಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ ವಿಭಿನ್ನ ಕಾಲಘಟ್ಟಗಳಿಗೆ ಸೇರಿವೆ. ಉದಾಹರಣೆಗೆ ಹರಿಹರ, ರಾಘವಾಂಕ ಮತ್ತು ಕುಮಾರವ್ಯಾಸರು ನಡುಗನ್ನಡ ಪರಂಪರೆಗೆ ಸೇರಿದವರು; ಅವರನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳಿಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು",
+        "B": "ಎಲ್ಲಾ ಕೃತಿಗಳು ಒಂದೇ ಕಾಲಕ್ಕೆ ಸೇರಿವೆ",
+        "C": "ಹಳಗನ್ನಡ ಮತ್ತು ನಡುಗನ್ನಡದಲ್ಲಿ ಯಾವುದೇ ವ್ಯತ್ಯಾಸವಿಲ್ಲ",
+        "D": "ನಡುಗನ್ನಡ ಕೃತಿಗಳು ಹಳಗನ್ನಡಕ್ಕಿಂತ ಹಳೆಯವು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪ್ರಸಿದ್ಧ ಕೃತಿಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯಲ್ಲಿ ವಿಭಿನ್ನ ಕಾಲಘಟ್ಟಗಳಿಗೆ ಸೇರಿವೆ. ಉದಾಹರಣೆಗೆ ಹರಿಹರ, ರಾಘವಾಂಕ ಮತ್ತು ಕುಮಾರವ್ಯಾಸರು ನಡುಗನ್ನಡ ಪರಂಪರೆಗೆ ಸೇರಿದವರು; ಅವರನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳಿಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q75"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಆಗುವ ತಪ್ಪುಗಳಾವುವು?",
+      "options": {
+        "A": "ನಾಗವರ್ಮ I ಮತ್ತು IIರನ್ನು ಒಂದೇ ವ್ಯಕ್ತಿ ಎಂದು ಭಾವಿಸುವುದು; ಪಂಪಭಾರತ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯವನ್ನು ಬೇರೆ ಕೃತಿಗಳಿಂದು ಪರಿಗಣಿಸುವುದು; ಗದಾಯುದ್ಧ ಮತ್ತು ಸಾಹಸಭೀಮ ವಿಜಯವನ್ನು ಬೇರೆ ಕೃತಿಗಳಿಂದು ತಿಳಿಯುವುದು; ನಡುಗನ್ನಡದ ಕವಿಗಳನ್ನು ಹಳಗನ್ನಡಕ್ಕೆ ಸೇರಿಸುವುದು",
+        "B": "ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ಸರಿಯಾಗಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದು",
+        "C": "ಕೃತಿಗಳ ಕಾಲಘಟ್ಟವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು",
+        "D": "ಬಿರುದುಗಳನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ I ಮತ್ತು IIರನ್ನು ಒಂದೇ ವ್ಯಕ್ತಿ ಎಂದು ಭಾವಿಸುವುದು; ಪಂಪಭಾರತ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯವನ್ನು ಬೇರೆ ಕೃತಿಗಳಿಂದು ಪರಿಗಣಿಸುವುದು; ಗದಾಯುದ್ಧ ಮತ್ತು ಸಾಹಸಭೀಮ ವಿಜಯವನ್ನು ಬೇರೆ ಕೃತಿಗಳಿಂದು ತಿಳಿಯುವುದು; ನಡುಗನ್ನಡದ ಕವಿಗಳನ್ನು ಹಳಗನ್ನಡಕ್ಕೆ ಸೇರಿಸುವುದು ಪ್ರಮುಖ ತಪ್ಪುಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q76"
+    },
+    {
+      "id": "Q079",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಕವಿ-ಕೃತಿ-ಬಿರುದು-ಆಶ್ರಯದಾತ ಹೊಂದಾಣಿಕೆಯನ್ನು ಹೇಗೆ ಅಭ್ಯಾಸ ಮಾಡಬೇಕು?",
+      "options": {
+        "A": "ನಾಲ್ಕು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ ಪ್ರತಿಯೊಬ್ಬ ಕವಿಗೆ ಕಾಲಘಟ್ಟ, ಪ್ರಮುಖ ಕೃತಿ, ಬಿರುದು ಮತ್ತು ಆಶ್ರಯದಾತನನ್ನು ಜೋಡಿಸಿ. ನಂತರ ಕೃತಿಯ ಪರ್ಯಾಯ ಹೆಸರುಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ನೆನಪಿಡಿ",
+        "B": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಡಿ",
+        "C": "ಕೇವಲ ಕೃತಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಡಿ",
+        "D": "ಯಾವುದನ್ನೂ ನೆನಪಿಡಬೇಡಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಲ್ಕು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ರಚಿಸಿ ಪ್ರತಿಯೊಬ್ಬ ಕವಿಗೆ ಕಾಲಘಟ್ಟ, ಪ್ರಮುಖ ಕೃತಿ, ಬಿರುದು ಮತ್ತು ಆಶ್ರಯದಾತನನ್ನು ಜೋಡಿಸಿ. ನಂತರ ಕೃತಿಯ ಪರ್ಯಾಯ ಹೆಸರುಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ ನೆನಪಿಡಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q77"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ಶತಮಾನಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನ",
+        "B": "10ನೇ ಶತಮಾನ",
+        "C": "11ನೇ ಶತಮಾನ",
+        "D": "12ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗ – 9ನೇ ಶತಮಾನ; ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಕಾಲ; ಶ್ರೀವಿಜಯರ ಕರ್ತೃತ್ವಸಂಬಂಧವೂ ಚರ್ಚಿತ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಡ್ಡಾರಾಧನೆಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಡ್ಡಾರಾಧನೆ – ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ; ಪ್ರಾಚೀನ ಗದ್ಯಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಪಂಪ, ರನ್ನ, ಜನ್ನ",
+        "C": "ಪೊನ್ನ, ರನ್ನ, ನಾಗಚಂದ್ರ",
+        "D": "ಪಂಪ, ಪೊನ್ನ, ಹರಿಹರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರತ್ನತ್ರಯರು: ಪಂಪ – ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ; ಪೊನ್ನ – ಶಾಂತಿಪುರಾಣ; ರನ್ನ – ಅಜಿತಪುರಾಣ, ಗದಾಯುದ್ಧ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪನಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಕವಿ",
+        "B": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "C": "ಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಅಭಿನವ ಪಂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಿರುದುಗಳು: ಪಂಪ – ಆದಿಕವಿ; ಪೊನ್ನ – ಉಭಯಕವಿಚಕ್ರವರ್ತಿ; ರನ್ನ – ಕವಿಚಕ್ರವರ್ತಿ; ನಾಗಚಂದ್ರ – ಅಭಿನವ ಪಂಪ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗವರ್ಮ Iನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಛಂದೋಂಬುಧಿ ಮತ್ತು ಕರ್ನಾಟಕ ಕಾದಂಬರಿ",
+        "B": "ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ",
+        "C": "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "D": "ಶಾಂತಿಪುರಾಣ, ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ I – ಛಂದೋಂಬುಧಿ, ಕರ್ನಾಟಕ ಕಾದಂಬರಿ; ನಾಗವರ್ಮ II – ಕಾವ್ಯಾವಲೋಕನ, ಕರ್ನಾಟಕ ಭಾಷಾಭೂಷಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಯಶೋಧರ ಚರಿತೆ",
+        "B": "ಪಂಚತಂತ್ರ",
+        "C": "ಚಾವುಂಡರಾಯ ಪುರಾಣ",
+        "D": "ಕಬ್ಬಿಗರ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನ್ನ – ಯಶೋಧರ ಚರಿತೆ; ದುರ್ಗಸಿಂಹ – ಪಂಚತಂತ್ರ; ಚಾವುಂಡರಾಯ ಪುರಾಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q086",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂಡಯ್ಯನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಬ್ಬಿಗರ ಕಾವ್ಯ",
+        "B": "ಶಬ್ದಮಣಿದರ್ಪಣ",
+        "C": "ಪಂಪರಾಮಾಯಣ",
+        "D": "ಯಶೋಧರ ಚರಿತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಡಯ್ಯ – ಕಬ್ಬಿಗರ ಕಾವ್ಯ; ಕೇಶಿರಾಜ – ಶಬ್ದಮಣಿದರ್ಪಣ; ನಾಗಚಂದ್ರ – ಪಂಪರಾಮಾಯಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಗದಾಯುದ್ಧದ ಮತ್ತೊಂದು ಹೆಸರು ಯಾವುದು?",
+      "options": {
+        "A": "ಸಾಹಸಭೀಮ ವಿಜಯ",
+        "B": "ಪಂಪಭಾರತ",
+        "C": "ಪಂಪರಾಮಾಯಣ",
+        "D": "ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರನ್ನನ ಗದಾಯುದ್ಧ = ಸಾಹಸಭೀಮ ವಿಜಯ; ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ = ಪಂಪಭಾರತ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ – ಕುಮಾರವ್ಯಾಸ (ನಡುಗನ್ನಡ); ಹರಿಹರ ಮತ್ತು ರಾಘವಾಂಕ – ನಡುಗನ್ನಡ ಕವಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹರಿಹರ ಮತ್ತು ರಾಘವಾಂಕರು ಯಾವ ಕಾಲಘಟ್ಟಕ್ಕೆ ಸೇರಿದವರು?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡ",
+        "B": "ಹಳಗನ್ನಡ",
+        "C": "ಹೊಸಗನ್ನಡ",
+        "D": "ಆಧುನಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ – ಕುಮಾರವ್ಯಾಸ (ನಡುಗನ್ನಡ); ಹರಿಹರ ಮತ್ತು ರಾಘವಾಂಕ – ನಡುಗನ್ನಡ ಕವಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q090",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗಚಂದ್ರನಿಗೆ ಸಂಬಂಧಿಸಿದ ಬಿರುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಅಭಿನವ ಪಂಪ",
+        "B": "ಆದಿಕವಿ",
+        "C": "ಉಭಯಕವಿಚಕ್ರವರ್ತಿ",
+        "D": "ಕವಿಚಕ್ರವರ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗಚಂದ್ರ – ಅಭಿನವ ಪಂಪ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯದ ಮತ್ತೊಂದು ಹೆಸರು ಯಾವುದು?",
+      "options": {
+        "A": "ಪಂಪಭಾರತ",
+        "B": "ಸಾಹಸಭೀಮ ವಿಜಯ",
+        "C": "ಪಂಪರಾಮಾಯಣ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನ ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ = ಪಂಪಭಾರತ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಬ್ದಮಣಿದರ್ಪಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಕೇಶಿರಾಜ",
+        "B": "ನಾಗವರ್ಮ I",
+        "C": "ನಾಗವರ್ಮ II",
+        "D": "ಅಂಡಯ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಶಿರಾಜ – ಶಬ್ದಮಣಿದರ್ಪಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q093",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧರ್ಮಾಮೃತದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನಯಸೇನ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧರ್ಮಾಮೃತ – ನಯಸೇನ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q094",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಚತಂತ್ರದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ದುರ್ಗಸಿಂಹ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನ್ನ – ಯಶೋಧರ ಚರಿತೆ; ದುರ್ಗಸಿಂಹ – ಪಂಚತಂತ್ರ; ಚಾವುಂಡರಾಯ ಪುರಾಣ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q095",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃತ್ವದ ಬಗ್ಗೆ ಇರುವ ಚರ್ಚೆ ಏನು?",
+      "options": {
+        "A": "ನೃಪತುಂಗ ಮತ್ತು ಶ್ರೀವಿಜಯರ ಕರ್ತೃತ್ವದ ಕುರಿತು ಚರ್ಚೆ ಇದೆ",
+        "B": "ಪಂಪ ಮತ್ತು ರನ್ನರ ಕರ್ತೃತ್ವದ ಕುರಿತು ಚರ್ಚೆ",
+        "C": "ಜನ್ನ ಮತ್ತು ನಾಗಚಂದ್ರರ ಕರ್ತೃತ್ವದ ಕುರಿತು ಚರ್ಚೆ",
+        "D": "ಕೇಶಿರಾಜ ಮತ್ತು ನಾಗವರ್ಮರ ಕರ್ತೃತ್ವದ ಕುರಿತು ಚರ್ಚೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗ – 9ನೇ ಶತಮಾನ; ಅಮೋಘವರ್ಷ ನೃಪತುಂಗನ ಕಾಲ; ಶ್ರೀವಿಜಯರ ಕರ್ತೃತ್ವಸಂಬಂಧವೂ ಚರ್ಚಿತ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q096",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಾವುಂಡರಾಯ ಪುರಾಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಚಾವುಂಡರಾಯ",
+        "B": "ಪಂಪ",
+        "C": "ರನ್ನ",
+        "D": "ಜನ್ನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾವುಂಡರಾಯ ಪುರಾಣವು ಚಾವುಂಡರಾಯನಿಂದ ರಚಿತವಾಗಿದೆ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Quick Revision"
+    },
+    {
+      "id": "Q097",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಜೈನ ಕವಿಗಳು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ, ನಾಗಚಂದ್ರ",
+        "B": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಕುಮಾರವ್ಯಾಸ",
+        "C": "ಕೇಶಿರಾಜ, ನಾಗವರ್ಮ I, ನಾಗವರ್ಮ II",
+        "D": "ಶಿವಕೋಟ್ಯಾಚಾರ್ಯ, ಚಾವುಂಡರಾಯ, ದುರ್ಗಸಿಂಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ, ನಾಗಚಂದ್ರ ಮುಂತಾದವರು ಹಳಗನ್ನಡದ ಪ್ರಮುಖ ಜೈನ ಕವಿಗಳು. ಹರಿಹರ, ರಾಘವಾಂಕ ಮತ್ತು ಕುಮಾರವ್ಯಾಸರು ನಡುಗನ್ನಡ ಪರಂಪರೆಗೆ ಸೇರಿದವರು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 1-6"
+    },
+    {
+      "id": "Q098",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಾದ 'ರಾಜಾಶ್ರಯ' ಎಂದರೇನು?",
+      "options": {
+        "A": "ರಾಜರು ಮತ್ತು ಮಂತ್ರಿಗಳು ಕವಿಗಳಿಗೆ ಆಶ್ರಯ ನೀಡಿ ಸಾಹಿತ್ಯ ರಚನೆಗೆ ಪ್ರೋತ್ಸಾಹಿಸುವುದು",
+        "B": "ರಾಜರು ಸ್ವತಃ ಕವಿಗಳಾಗಿರುವುದು",
+        "C": "ಕವಿಗಳು ರಾಜರನ್ನು ವಿರೋಧಿಸುವುದು",
+        "D": "ರಾಜರು ಕವಿಗಳಿಗೆ ಶಿಕ್ಷೆ ನೀಡುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜಾಶ್ರಯ ಎಂದರೆ ರಾಜರು ಮತ್ತು ಮಂತ್ರಿಗಳು ಕವಿಗಳಿಗೆ ಆಶ್ರಯ ನೀಡಿ ಸಾಹಿತ್ಯ ರಚನೆಗೆ ಪ್ರೋತ್ಸಾಹಿಸುವುದು. ಇದರಿಂದ ಮಹಾಕಾವ್ಯ, ಪುರಾಣ, ವ್ಯಾಕರಣ ಮತ್ತು ಛಂದೋಗ್ರಂಥಗಳು ರಚನೆಯಾದವು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q14 & Page 5, Q55"
+    },
+    {
+      "id": "Q099",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ 'ಚಂಪೂ' ಶೈಲಿಯ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ, ಶಾಂತಿಪುರಾಣ, ಗದಾಯುದ್ಧ, ಅಜಿತಪುರಾಣ",
+        "B": "ಕವಿರಾಜಮಾರ್ಗ, ವಡ್ಡಾರಾಧನೆ",
+        "C": "ಶಬ್ದಮಣಿದರ್ಪಣ, ಛಂದೋಂಬುಧಿ",
+        "D": "ಹರಿಶ್ಚಂದರ ಕಾವ್ಯ, ಗಿರಿಜಾಕಲ್ಯಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಪುರಾಣ, ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ, ಶಾಂತಿಪುರಾಣ, ಗದಾಯುದ್ಧ, ಅಜಿತಪುರಾಣ ಮುಂತಾದವು ಚಂಪೂ ಶೈಲಿಯ ಪ್ರಮುಖ ಕೃತಿಗಳು. ಕವಿರಾಜಮಾರ್ಗ ಮತ್ತು ವಡ್ಡಾರಾಧನೆ ಗದ್ಯಕೃತಿಗಳು; ಶಬ್ದಮಣಿದರ್ಪಣ ಮತ್ತು ಛಂದೋಂಬುಧಿ ಶಾಸ್ತ್ರಗ್ರಂಥಗಳು; ಹರಿಶ್ಚಂದರ ಕಾವ್ಯ ಮತ್ತು ಗಿರಿಜಾಕಲ್ಯಾಣ ನಡುಗನ್ನಡ ಕೃತಿಗಳು.",
+      "source": "Hallegannada_Sahitya.pdf, Page 2, Q15 & Page 6, Q74"
+    },
+    {
+      "id": "Q100",
+      "subject": "Kannada",
+      "topic": "Halagannada Sahitya",
+      "chapter": "Halagannada Sahitya",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ಕವಿ-ಕೃತಿ-ಬಿರುದು-ಆಶ್ರಯದಾತರ ಸಂಬಂಧವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲವನ್ನು ತಪ್ಪಿಸಲು ಮತ್ತು ಕೃತಿಗಳನ್ನು ಸರಿಯಾದ ಕಾಲಘಟ್ಟಕ್ಕೆ ಸೇರಿಸಲು",
+        "B": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಡಲು",
+        "C": "ಕೇವಲ ಕೃತಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಡಲು",
+        "D": "ಯಾವುದೇ ಕಾರಣವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಗೊಂದಲವನ್ನು ತಪ್ಪಿಸಲು ಮತ್ತು ಕೃತಿಗಳನ್ನು ಸರಿಯಾದ ಕಾಲಘಟ್ಟಕ್ಕೆ ಸೇರಿಸಲು ಕವಿ-ಕೃತಿ-ಬಿರುದು-ಆಶ್ರಯದಾತರ ಸಂಬಂಧವನ್ನು ಸರಿಯಾಗಿ ಗುರುತಿಸುವುದು ಮುಖ್ಯ. ಉದಾಹರಣೆಗೆ ಪಂಪಭಾರತ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ ಒಂದೇ ಕೃತಿ; ಗದಾಯುದ್ಧ ಮತ್ತು ಸಾಹಸಭೀಮ ವಿಜಯ ಒಂದೇ ಕೃತಿ.",
+      "source": "Hallegannada_Sahitya.pdf, Page 6, Q76 & Q77"
+    }
+  ]
+}

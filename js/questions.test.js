@@ -1,6 +1,13 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { createQuestionId, filterQuestions, selectRandomQuestions, shuffleAnswerOptions, validateDataset } from "./questions.js";
+import {
+  createQuestionId,
+  filterQuestions,
+  getDatasetLocation,
+  selectRandomQuestions,
+  shuffleAnswerOptions,
+  validateDataset
+} from "./questions.js";
 import { calculateResults } from "./scoring.js";
 
 const dataset = {
@@ -22,6 +29,21 @@ function makeQuestion(id) {
     source: "Sample reference"
   };
 }
+
+test("combined question folders map to their canonical subjects", () => {
+  const paths = [
+    ["General_Kannada_English_Computer_Knowledge/General Kannada/Grammar.json", "Kannada"],
+    ["General_Kannada_English_Computer_Knowledge/General English/Articles.json", "English"],
+    ["General_Kannada_English_Computer_Knowledge/Computer Knowledge/Hardware.json", "Computer"]
+  ];
+
+  paths.forEach(([path, subject]) => {
+    assert.deepEqual(
+      { paper: getDatasetLocation(path).paper, subject: getDatasetLocation(path).subject },
+      { paper: "combined", subject }
+    );
+  });
+});
 
 test("question IDs are namespaced by dataset and subject", () => {
   const otherDataset = {

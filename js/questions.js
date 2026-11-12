@@ -2,7 +2,10 @@ const REQUIRED_FIELDS = ["id","difficulty","question","options","correctAnswer",
 const SECOND_PAPER_SUBJECTS = new Map([
   ["kannada", "Kannada"],
   ["english", "English"],
-  ["computer", "Computer"]
+  ["computer", "Computer"],
+  ["generalkannada", "Kannada"],
+  ["generalenglish", "English"],
+  ["computerknowledge", "Computer"]
 ]);
 
 function humanize(value) {
@@ -15,7 +18,7 @@ function humanize(value) {
     .replace(/\s*\(/g, " (");
 }
 
-function getDatasetLocation(relativePath) {
+export function getDatasetLocation(relativePath) {
   const parts = relativePath.split("/").filter(Boolean);
   const normalize = value => value.toLowerCase().replace(/[_\s-]+/g, "");
   const first = normalize(parts[0] || "");

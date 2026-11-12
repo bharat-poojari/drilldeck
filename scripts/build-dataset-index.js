@@ -1,7 +1,7 @@
 import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
-import { validateDataset } from "../js/questions.js";
+import { getDatasetLocation, validateDataset } from "../js/questions.js";
 
 const projectRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 const dataRoot = join(projectRoot, "data");
@@ -60,6 +60,7 @@ const includeDataset = await Promise.all(datasets.map(async relativePath => {
     throw new Error(`Question dataset "${relativePath}" must contain a non-empty questions array.`);
   }
   const validation = validateDataset(data, { path: relativePath, title: relativePath });
+  getDatasetLocation(relativePath);
   if (validation.invalidQuestions.length) {
     const issues = validation.invalidQuestions.slice(0, 5)
       .flatMap(question => question.errors)

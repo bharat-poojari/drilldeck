@@ -1,0 +1,4417 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Question bank on Nadugannada Sahitya (Chapter 25) based on the provided PDF. Verify and expand before formal examination use.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡದ ನಂತರ ಮತ್ತು ಹೊಸಗನ್ನಡದ ಮೊದಲು ಬೆಳೆದ ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಭಾಷೆ ಹಾಗೂ ಸಾಹಿತ್ಯ ಪರಂಪರೆ",
+        "B": "ಕೇವಲ ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ದಾಸ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡದ ನಂತರ ಮತ್ತು ಹೊಸಗನ್ನಡದ ಮೊದಲು ಬೆಳೆದ ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಭಾಷೆ ಹಾಗೂ ಸಾಹಿತ್ಯ ಪರಂಪರೆಯನ್ನು ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಮಾನ್ಯವಾಗಿ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಾವಧಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "8ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನ",
+        "B": "12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನ",
+        "C": "18ನೇ ಶತಮಾನದಿಂದ 20ನೇ ಶತಮಾನ",
+        "D": "10ನೇ ಶತಮಾನದಿಂದ 15ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ 12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗಿನ ಸಾಹಿತ್ಯವನ್ನು ಈ ವಿಶಾಲ ವಿಭಾಗದಲ್ಲಿ ಸೇರಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಜನಭಾಷೆಯ ಬಳಕೆ",
+        "B": "ಭಕ್ತಿ ಚಳವಳಿಗಳ ಪ್ರಭಾವ",
+        "C": "ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಯ ಆಶಯ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಬಳಕೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣಗಳು: ಜನಭಾಷೆಯ ಬಳಕೆ, ಭಕ್ತಿ ಚಳವಳಿಗಳ ಪ್ರಭಾವ, ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಯ ಆಶಯ, ವಚನ ಮತ್ತು ದಾಸಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ, ರಗೆ-ಷಟ್ಟಟ್ಟಿ-ಸಾಂಗತ್ಯ ಮೊದಲಾದ ಛಂದೋಪ್ರಕಾರಗಳ ಬಳಕೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ದಾಸ ಸಾಹಿತ್ಯ",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿ ಸಾಹಿತ್ಯ",
+        "D": "ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆಗಳು: ವಚನ ಸಾಹಿತ್ಯ, ದಾಸ ಸಾಹಿತ್ಯ, ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯ, ವೈಷ್ಣವ ಭಕ್ತಿಕಾವ್ಯ, ಪುರಾಣಕಾವ್ಯ, ಷಟ್ಟಟ್ಟಿ ಮತ್ತು ಸಾಂಗತ್ಯ ಕಾವ್ಯಗಳು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಶರಣರು ಸರಳ, ನೇರ ಮತ್ತು ಅನುಭವವೂರ್ಣ ಕನ್ನಡದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ, ನೈತಿಕ ಹಾಗೂ ಸಾಮಾಜಿಕ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯರೂಪ",
+        "B": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ಸಂಸ್ಕೃತದಲ್ಲಿ ರಚಿಸಿದ ಕಾವ್ಯ",
+        "D": "ಆಧುನಿಕ ಕವನಗಳ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶರಣರು ಸರಳ, ನೇರ ಮತ್ತು ಅನುಭವವೂರ್ಣ ಕನ್ನಡದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ, ನೈತಿಕ ಹಾಗೂ ಸಾಮಾಜಿಕ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯರೂಪವೇ ವಚನ ಸಾಹಿತ್ಯ. ಇದು ಗದ್ಯದ ಸಹಜ ಹರಿವು ಹೊಂದಿದ ಪದ್ಯಾತ್ಮಕ ಅಭಿವ್ಯಕ್ತಿಯಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಉಗಮ ಯಾವ ಕಾಲದಲ್ಲಿ ನಡೆಯಿತು?",
+      "options": {
+        "A": "10ನೇ ಶತಮಾನ",
+        "B": "12ನೇ ಶತಮಾನ",
+        "C": "15ನೇ ಶತಮಾನ",
+        "D": "18ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯವು 12ನೇ ಶತಮಾನದಲ್ಲಿ ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ಮಹತ್ವದ ಸಾಹಿತ್ಯಧಾರೆಯಾಗಿ ಬೆಳೆಯಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾದ ಅಂಶಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಶರಣ ಚಳವಳಿ",
+        "B": "ಭಕ್ತಿಯ ವೈಯಕ್ತಿಕ ಅನುಭವ",
+        "C": "ಜಾತಿ-ಲಿಂಗ ಅಸಮಾನತೆಯ ವಿರೋಧ",
+        "D": "ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಪ್ರಾಬಲ್ಯ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾದ ಅಂಶಗಳು: ಶರಣ ಚಳವಳಿ, ಭಕ್ತಿಯ ವೈಯಕ್ತಿಕ ಅನುಭವ, ಜಾತಿ-ಲಿಂಗ ಅಸಮಾನತೆಯ ವಿರೋಧ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ತತ್ತ್ವ, ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯ ಬಳಕೆ ಮತ್ತು ಅನುಭವ ಮಂಟಪದ ಚರ್ಚಾಪರಂಪರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಸರಳ ಜನಭಾಷೆ",
+        "B": "ಅಲಂಕಾರಿಕ ಆಡಂಬರದ ನಿರಾಕರಣೆ",
+        "C": "ಅನುಭವದ ಪ್ರಾಮಾಣಿಕತೆ",
+        "D": "ಕೊನೆಯಲ್ಲಿ ಅಂಕಿತನಾಮದ ಬಳಕೆಯನ್ನು ನಿಷೇಧಿಸುವುದು"
+      },
+      "correctAnswer": "D",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು: ಸರಳ ಜನಭಾಷೆ, ನೇರ ಅಭಿವ್ಯಕ್ತಿ, ಅಲಂಕಾರಿಕ ಆಡಂಬರದ ನಿರಾಕರಣೆ, ಅನುಭವದ ಪ್ರಾಮಾಣಿಕತೆ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ, ಭಕ್ತಿ, ನೀತಿ, ಆತ್ಮಪರಿಶೀಲನೆ ಮತ್ತು ಕೊನೆಯಲ್ಲಿ ಅಂಕಿತನಾಮದ ಬಳಕೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಎಂದರೆ ಏನು?",
+      "options": {
+        "A": "ಅನುಭವ, ಚಿಂತನೆ, ಭಕ್ತಿ ಅಥವಾ ಸಾಮಾಜಿಕ ಸಂದೇಶವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಮತ್ತು ನೇರವಾಗಿ ವ್ಯಕ್ತಪಡಿಸುವ ಶರಣರ ಸಾಹಿತ್ಯರೂಪ",
+        "B": "ಒಂದು ರೀತಿಯ ಪುರಾಣ ಕಥೆ",
+        "C": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕ",
+        "D": "ಆಧುನಿಕ ಪ್ರಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ ಎಂದರೆ ಅನುಭವ, ಚಿಂತನೆ, ಭಕ್ತಿ ಅಥವಾ ಸಾಮಾಜಿಕ ಸಂದೇಶವನ್ನು ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಮತ್ತು ನೇರವಾಗಿ ವ್ಯಕ್ತಪಡಿಸುವ ಶರಣರ ಸಾಹಿತ್ಯರೂಪ. ಬಹುತೇಕ ವಚನಗಳ ಅಂತ್ಯದಲ್ಲಿ ರಚಯಿತ್ಯನ ಅಂಕಿತನಾಮ ಇರುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಚಳವಳಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದಲ್ಲಿ ಬಸವಣ್ಣ ಮತ್ತು ಇತರ ಶರಣರ ನೇತೃತ್ವದಲ್ಲಿ ಭಕ್ತಿ, ಸಮಾನತೆ, ಕಾಯಕ, ದಾಸೋಹ ಮತ್ತು ಜಾತಿಭೇದ ವಿರೋಧದ ಆಶಯಗಳನ್ನು ಮುಂದಿಟ್ಟ ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ-ಸಾಹಿತ್ಯ ಚಳವಳಿ",
+        "B": "18ನೇ ಶತಮಾನದ ದಾಸ ಚಳವಳಿ",
+        "C": "ಆಧುನಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಚಳವಳಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "12ನೇ ಶತಮಾನದಲ್ಲಿ ಬಸವಣ್ಣ ಮತ್ತು ಇತರ ಶರಣರ ನೇತೃತ್ವದಲ್ಲಿ ಭಕ್ತಿ, ಸಮಾನತೆ, ಕಾಯಕ, ದಾಸೋಹ ಮತ್ತು ಜಾತಿಭೇದ ವಿರೋಧದ ಆಶಯಗಳನ್ನು ಮುಂದಿಟ್ಟ ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ-ಸಾಹಿತ್ಯ ಚಳವಳಿಯೇ ವಚನ ಚಳವಳಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಚಳವಳಿಯ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವರ ಮುಂದೆ ಎಲ್ಲರೂ ಸಮಾನರು ಎಂಬ ಭಾವನೆ",
+        "B": "ಜಾತಿ ಮತ್ತು ವರ್ಣಭೇದದ ವಿರೋಧ",
+        "C": "ಕಾಯಕದ ಗೌರವ",
+        "D": "ಜಾತಿಭೇದವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುವುದು"
+      },
+      "correctAnswer": "D",
+      "explanation": "ವಚನ ಚಳವಳಿಯ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳು: ದೇವರ ಮುಂದೆ ಎಲ್ಲರೂ ಸಮಾನರು ಎಂಬ ಭಾವನೆ, ಜಾತಿ ಮತ್ತು ವರ್ಣಭೇದದ ವಿರೋಧ, ಕಾಯಕದ ಗೌರವ, ಸಂಪತ್ತಿನ ಹಂಚಿಕೆ ಅಥವಾ ದಾಸೋಹ, ಮಹಿಳೆಯರ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ವೈಯಕ್ತಿಕ ಅನುಭವಕ್ಕೆ ಆದ್ಯತೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Anubhava Mantapa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನುಭವ ಮಂಟಪ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕಲ್ಯಾಣದ ಶರಣರ ಧಾರ್ಮಿಕ, ತಾತ್ವಿಕ, ನೈತಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಚರ್ಚೆಗಳ ವೇದಿಕೆ",
+        "B": "ಒಂದು ದೇವಾಲಯ",
+        "C": "ಒಂದು ರಾಜಮನೆತನದ ಕಟ್ಟಡ",
+        "D": "ಒಂದು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲ್ಯಾಣದ ಶರಣರ ಧಾರ್ಮಿಕ, ತಾತ್ವಿಕ, ನೈತಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಚರ್ಚೆಗಳ ವೇದಿಕೆಯನ್ನು ಅನುಭವ ಮಂಟಪ ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಪರಂಪರೆಯಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭು ಇದರ ಅಧ್ಯಕ್ಷ/ಪ್ರಮುಖ ಮಾರ್ಗದರ್ಶಕರಾಗಿ ಗುರುತಿಸಲ್ಪಡುತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Anubhava Mantapa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅನುಭವ ಮಂಟಪದ ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ ಮತ್ತು ಅಧ್ಯಕ್ಷರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಡುವವರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ",
+        "B": "ಅಲ್ಲಮಪ್ರಭು",
+        "C": "ಅಕ್ಕಮಹಾದೇವಿ",
+        "D": "ಸಿದ್ಧರಾಮ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭು ಅನುಭವ ಮಂಟಪದ ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ ಮತ್ತು ಅಧ್ಯಕ್ಷರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಡುತ್ತಾರೆ. ಬಸವಣ್ಣನವರೂ ಶರಣವಳಿಯ ಪ್ರಮುಖ ಸಂಘಟಕರಾಗಿದ್ದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಶರಣ ಚಳವಳಿಯ ಪ್ರಮುಖ ನಾಯಕ, ವಚನಕಾರ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣರು 12ನೇ ಶತಮಾನದ ಶರಣ ಚಳವಳಿಯ ಪ್ರಮುಖ ನಾಯಕ, ವಚನಕಾರ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ. ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿಭೇದ ವಿರೋಧ ಮತ್ತು ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುಹೇಶ್ವರ",
+        "B": "ಕೂಡಲಸಂಗಮದೇವ",
+        "C": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬಸವಣ್ಣನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ 'ಕೂಡಲಸಂಗಮದೇವ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ ಪ್ರಮುಖ ಆಶಯಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಕಾಯಕವೇ ಕೈಲಾಸ",
+        "B": "ದಾಸೋಹ",
+        "C": "ಜಾತಿಭೇದ ವಿರೋಧ",
+        "D": "ಜಾತಿಭೇದವನ್ನು ಸಮರ್ಥಿಸುವುದು"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಬಸವಣ್ಣನವರ ಪ್ರಮುಖ ಆಶಯಗಳು: ಕಾಯಕವೇ ಕೈಲಾಸ, ದಾಸೋಹ, ಶ್ರಮದ ಗೌರವ, ಜಾತಿಭೇದ ವಿರೋಧ, ಆಂತರಿಕ ಶುದ್ಧತೆ, ಆಡಂಬರಹಿತ ಭಕ್ತಿ ಮತ್ತು ಎಲ್ಲರಿಗೂ ಆಧ್ಯಾತ್ಮಿಕ ಸಮಾನತೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ ವಚನಗಳ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ಸರಳ ಭಾಷೆ, ನೈತಿಕ ನಿಷ್ಠೆ, ಕಾಯಕದ ಮಹತ್ವ, ಸಾಮಾಜಿಕ ನ್ಯಾಯ, ಆತ್ಮಪರಿಶೀಲನೆ ಮತ್ತು ಕೂಡಲಸಂಗಮದೇವನ ಮೇಲಿನ ಭಕ್ತಿ",
+        "B": "ಸಂಸ್ಕೃತದಲ್ಲಿ ರಚನೆ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಷಯಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ಸರಳ ಭಾಷೆ, ನೈತಿಕ ನಿಷ್ಠೆ, ಕಾಯಕದ ಮಹತ್ವ, ಸಾಮಾಜಿಕ ನ್ಯಾಯ, ಆತ್ಮಪರಿಶೀಲನೆ ಮತ್ತು ಕೂಡಲಸಂಗಮದೇವನ ಮೇಲಿನ ಭಕ್ತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Allamaprabhu",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭು ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಶ್ರೇಷ್ಠ ವಚನಕಾರ, ತತ್ವಚಿಂತಕ ಮತ್ತು ಶರಣ ಚಳವಳಿಯ ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ವ್ಯಕ್ತಿ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭು 12ನೇ ಶತಮಾನದ ಶ್ರೇಷ್ಠ ವಚನಕಾರ, ತತ್ವಚಿಂತಕ ಮತ್ತು ಶರಣ ಚಳವಳಿಯ ಪ್ರಮುಖ ಆಧ್ಯಾತ್ಮಿಕ ವ್ಯಕ್ತಿ. ಅವರ ವಚನಗಳಲ್ಲಿ ಆತ್ಮಾನುಭವ, ಮಾಯೆ, ಅಹಂಕಾರ ಮತ್ತು ಪರಮತ್ವದ ವಿಚಾರಗಳು ಆಳವಾಗಿ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Allamaprabhu",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೂಡಲಸಂಗಮದೇವ",
+        "B": "ಗುಹೇಶ್ವರ",
+        "C": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಅಂಕಿತನಾಮ 'ಗುಹೇಶ್ವರ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Allamaprabhu",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭುವಿನ ವಚನಗಳ ಮುಖ್ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಗಹನ ತತ್ವಚಿಂತನೆ, ರೂಪಕಾತ್ಮಕ ಅಭಿವ್ಯಕ್ತಿ, ಆತ್ಮಜ್ಞಾನ, ಮಾಯೆ ಮತ್ತು ಅಹಂಕಾರದ ವಿಮರ್ಶೆ, ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಆಳ",
+        "B": "ಕೇವಲ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ನೀತಿ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಹನ ತತ್ವಚಿಂತನೆ, ರೂಪಕಾತ್ಮಕ ಅಭಿವ್ಯಕ್ತಿ, ಆತ್ಮಜ್ಞಾನ, ಮಾಯೆ ಮತ್ತು ಅಹಂಕಾರದ ವಿಮರ್ಶೆ, ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಆಳ ಅವರ ವಚನಗಳ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Akkamahadevi",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಕ್ಕಮಹಾದೇವಿ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಪ್ರಸಿದ್ಧ ಶರಣ ವಚನಕಾರ್ತಿ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸೆ",
+        "C": "ಆಧುನಿಕ ಕವಯಿತ್ರಿ",
+        "D": "ಒಬ್ಬ ರಾಣಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಕಮಹಾದೇವಿ 12ನೇ ಶತಮಾನದ ಪ್ರಸಿದ್ಧ ಶರಣ ವಚನಕಾರ್ತಿ. ಅವರು ವೈರಾಗ್ಯ, ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ, ಶಿವಭಕ್ತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರೇಮವನ್ನು ತಮ್ಮ ವಚನಗಳಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Akkamahadevi",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಕ್ಕಮಹಾದೇವಿಯ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುಹೇಶ್ವರ",
+        "B": "ಕೂಡಲಸಂಗಮದೇವ",
+        "C": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಅಕ್ಕಮಹಾದೇವಿಯ ಅಂಕಿತನಾಮ 'ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Akkamahadevi",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳ ಮುಖ್ಯ ಆಶಯವೇನು?",
+      "options": {
+        "A": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಮೇಲಿನ ಅನನ್ಯ ಭಕ್ತಿ, ಲೌಕಿಕ ಬಂಧನಗಳ ತ್ಯಾಗ, ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ, ವೈರಾಗ್ಯ ಮತ್ತು ಸ್ತ್ರೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾಯತ್ತತೆ",
+        "B": "ಕೇವಲ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ",
+        "C": "ಕೇವಲ ನೀತಿ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ ಮೇಲಿನ ಅನನ್ಯ ಭಕ್ತಿ, ಲೌಕಿಕ ಬಂಧನಗಳ ತ್ಯಾಗ, ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ, ವೈರಾಗ್ಯ ಮತ್ತು ಸ್ತ್ರೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾಯತ್ತತೆ ಪ್ರಮುಖ ಆಶಯಗಳು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+        {
+      "id": "Q025",
+      "subject": "Kannada",
+      "topic": "Siddharama",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಿದ್ಧರಾಮರ ವಚನಗಳ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೂಡಲಸಂಗಮದೇವ",
+        "B": "ಗುಹೇಶ್ವರ",
+        "C": "ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಸಿದ್ಧರಾಮರ ವಚನಗಳಲ್ಲಿ 'ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ' ಎಂಬ ಅಂಕಿತನಾಮ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada",
+      "topic": "Siddharama",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಿದ್ಧರಾಮರ ವಚನಗಳಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುವ ಆಶಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ಜನಸೇವೆ ಮತ್ತು ಕಾಯಕ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ವಿದ್ಯೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೊನ್ನಲಿಗೆಯ ಸಿದ್ಧರಾಮರು 12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶರಣ, ವಚನಕಾರ ಮತ್ತು ಸಮಾಜಸೇವಕ. ಭಕ್ತಿ, ಜನಸೇವೆ ಮತ್ತು ಕಾಯಕದ ಆಶಯಗಳು ಅವರ ವಚನಗಳಲ್ಲಿ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q027",
+      "subject": "Kannada",
+      "topic": "Chennabasavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಿನ್ನಬಸವಣ್ಣ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಶರಣ ಚಿಂತಕ ಮತ್ತು ವಚನಕಾರ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಿನ್ನಬಸವಣ್ಣರು 12ನೇ ಶತಮಾನದ ಶರಣ ಚಿಂತಕ ಮತ್ತು ವಚನಕಾರ. ಶರಣ ತತ್ವ, ಷಟ್ಸ್ಥಲ, ಲಿಂಗಾಂಗ ಸಾಮರಸ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಚಾರಗಳ ನಿರೂಪಣೆಗೆ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada",
+      "topic": "Chennabasavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಿನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೂಡಲಸಂಗಮದೇವ",
+        "B": "ಗುಹೇಶ್ವರ",
+        "C": "ಕೂಡಲಚಿನ್ನಸಂಗಮದೇವ",
+        "D": "ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಚಿನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳ ಅಂಕಿತನಾಮ 'ಕೂಡಲಚಿನ್ನಸಂಗಮದೇವ' ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada",
+      "topic": "Akkamma",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಯ್ಕೆಕ್ಕಿ ಲಕ್ಕಮ್ಮ ಯಾರು?",
+      "options": {
+        "A": "ಶರಣ ಚಳವಳಿಯ ಮಹಿಳಾ ವಚನಕಾರ್ತಿ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸೆ",
+        "C": "ಆಧುನಿಕ ಕವಯಿತ್ರಿ",
+        "D": "ಒಬ್ಬ ರಾಣಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಯ್ಕೆಕ್ಕಿ ಲಕ್ಕಮ್ಮ ಶರಣ ಚಳವಳಿಯ ಮಹಿಳಾ ವಚನಕಾರ್ತಿ. ಕಾಯಕದ ನಿಷ್ಠೆ, ಪ್ರಾಮಾಣಿಕತೆ, ದಾಸೋಹ ಮತ್ತು ನೈತಿಕ ಜೀವನದ ಮಹತ್ವವನ್ನು ಅವರ ವಚನಗಳು ಸಾರುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada",
+      "topic": "Ambigara Chowdayya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಂಬಿಗರ ಚೌಡಯ್ಯ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ, ಅಂಬಿಗ ವೃತ್ತಿಯ ಹಿನ್ನೆಲೆಯಿಂದ ಬಂದವರು",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಬಿಗರ ಚೌಡಯ್ಯ 12ನೇ ಶತಮಾನದ ವಚನಕಾರ. ಅಂಬಿಗ ವೃತ್ತಿಯ ಹಿನ್ನೆಲೆಯಿಂದ ಬಂದ ಅವರು ನೇರ, ತೀಕ್ಷ್ಮ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನ್ಯಾಯವನ್ನು ಪ್ರಶ್ನಿಸುವ ವಚನಗಳಿಗೆ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada",
+      "topic": "Ambigara Chowdayya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರ ಅಂಕಿತನಾಮದ ಕುರಿತು ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "'ಅಂಬಿಗರ ಚೌಡಯ್ಯ' ಎಂಬ ಹೆಸರಿನ ರೂಪದಲ್ಲಿಯೇ ಪ್ರಸಿದ್ಧವಾಗಿದೆ; ಕೆಲವು ಪಠ್ಯಗಳಲ್ಲಿ ಅಂಕಿತದ ರೂಪದಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಇರಬಹುದು",
+        "B": "ಗುಹೇಶ್ವರ",
+        "C": "ಕೂಡಲಸಂಗಮದೇವ",
+        "D": "ಅಂಕಿತನಾಮವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರ ಅಂಕಿತನಾಮ 'ಅಂಬಿಗರ ಚೌಡಯ್ಯ' ಎಂಬ ಹೆಸರಿನ ರೂಪದಲ್ಲಿಯೇ ಪ್ರಸಿದ್ಧವಾಗಿದೆ; ಕೆಲವು ಪಠ್ಯಗಳಲ್ಲಿ ಅಂಕಿತದ ರೂಪದಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಇರಬಹುದು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada",
+      "topic": "Madivala Machideva",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಡಿವಾಳ ಮಾಚಿದೇವ ಯಾರು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ಶರಣ ಮತ್ತು ವಚನಕಾರ",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಡಿವಾಳ ಮಾಚಿದೇವರು 12ನೇ ಶತಮಾನದ ಶರಣ ಮತ್ತು ವಚನಕಾರ. ಕಾಯಕನಿಷ್ಠೆ, ಶರಣರ ಸೇವೆ, ಭಕ್ತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada",
+      "topic": "Dohara Kakkaya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡೋಹರ ಕಕ್ಕಯ್ಯ ಯಾರು?",
+      "options": {
+        "A": "ಶರಣ ಚಳವಳಿಯ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೋಹರ ಕಕ್ಕಯ್ಯರು ಶರಣ ಚಳವಳಿಯ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು. ಸಮಾಜದಲ್ಲಿ ತಳಸಮುದಾಯಗಳಿಗೆ ವಿಧಿಸಲಾದ ತಾರತಮ್ಯವನ್ನು ಮೀರಿ ಭಕ್ತಿ ಮತ್ತು ಆತ್ಮಾನುಭವಕ್ಕೆ ಮಹತ್ವ ನೀಡಿದ ಶರಣ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada",
+      "topic": "Jedara Dasimayya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜೇಡರ ದಾಸಿಮಯ್ಯ ಯಾರು?",
+      "options": {
+        "A": "ಪ್ರಾಚೀನ ಶರಣ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೇಡರ ದಾಸಿಮಯ್ಯರು ಪ್ರಾಚೀನ ಶರಣ ವಚನಕಾರರಲ್ಲಿ ಒಬ್ಬರು. ಅವರ ವಚನಗಳು ಸರಳತೆ, ಭಕ್ತಿ ಮತ್ತು ನೈತಿಕ ಜೀವನದ ಸಂದೇಶಗಳನ್ನು ಒಳಗೊಂಡಿವೆ; ಅವರನ್ನು ಕೆಲವೊಮ್ಮೆ ಆರಂಭಿಕ ವಚನಕಾರರ ಸಾಲಿನಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada",
+      "topic": "Hadapada Appanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಡಪದ ಅಪ್ಪಣ್ಣ ಯಾರು?",
+      "options": {
+        "A": "ಶರಣ ಚಳವಳಿಯ ವಚನಕಾರ ಮತ್ತು ಬಸವಣ್ಣನವರ ಆಪ್ತ ಸಹಚರರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಡುವವರು",
+        "B": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಡಪದ ಅಪ್ಪಣ್ಣರು ಶರಣ ಚಳವಳಿಯ ವಚನಕಾರ ಮತ್ತು ಬಸವಣ್ಣನವರ ಆಪ್ತ ಸಹಚರರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಡುತ್ತಾರೆ. ಅವರ ವಚನಗಳು ಭಕ್ತಿ ಮತ್ತು ಶರಣಧರ್ಮದ ಆಶಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನಗಳ ಅಂಕಿತನಾಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವಚನದ ಕೊನೆಯಲ್ಲಿ ವಚನಕಾರನು ತನ್ನ ಆರಾಧ್ಯ ದೈವ ಅಥವಾ ಆಧ್ಯಾತ್ಮಿಕ ಗುರುತನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಹೆಸರು",
+        "B": "ವಚನದ ಆರಂಭದಲ್ಲಿ ಬರುವ ಹೆಸರು",
+        "C": "ವಚನದ ಮಧ್ಯದಲ್ಲಿ ಬರುವ ಹೆಸರು",
+        "D": "ವಚನದ ಶೀರ್ಷಿಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನದ ಕೊನೆಯಲ್ಲಿ ವಚನಕಾರನು ತನ್ನ ಆರಾಧ್ಯ ದೈವ ಅಥವಾ ಆಧ್ಯಾತ್ಮಿಕ ಗುರುತನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಹೆಸರನ್ನು ಅಂಕಿತನಾಮ ಎನ್ನತ್ತಾರೆ. ಇದು ವಚನಕಾರರನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಸಿದ್ಧರಾಮ ಮತ್ತು ಚೆನ್ನಬಸವಣ್ಣರ ಅಂಕಿತನಾಮಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ — ಕೂಡಲಸಂಗಮದೇವ; ಅಲ್ಲಮಪ್ರಭು — ಗುಹೇಶ್ವರ; ಅಕ್ಕಮಹಾದೇವಿ — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಸಿದ್ಧರಾಮ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ",
+        "B": "ಬಸವಣ್ಣ — ಗುಹೇಶ್ವರ; ಅಲ್ಲಮಪ್ರಭು — ಕೂಡಲಸಂಗಮದೇವ; ಅಕ್ಕಮಹಾದೇವಿ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಸಿದ್ಧರಾಮ — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ",
+        "C": "ಬಸವಣ್ಣ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಅಲ್ಲಮಪ್ರಭು — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಅಕ್ಕಮಹಾದೇವಿ — ಗುಹೇಶ್ವರ; ಸಿದ್ಧರಾಮ — ಕೂಡಲಸಂಗಮದೇವ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ",
+        "D": "ಬಸವಣ್ಣ — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಅಲ್ಲಮಪ್ರಭು — ಕೂಡಲಸಂಗಮದೇವ; ಅಕ್ಕಮಹಾದೇವಿ — ಗುಹೇಶ್ವರ; ಸಿದ್ಧರಾಮ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ; ಚೆನ್ನಬಸವಣ್ಣ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣ — ಕೂಡಲಸಂಗಮದೇವ; ಅಲ್ಲಮಪ್ರಭು — ಗುಹೇಶ್ವರ; ಅಕ್ಕಮಹಾದೇವಿ — ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಸಿದ್ಧರಾಮ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ. ಕೆಲವು ವಚನಕಾರರ ಅಂಕಿತರೂಪಗಳಲ್ಲಿ ಪಠ್ಯಪರಂಪರೆಯ ವ್ಯತ್ಯಾಸವಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಆಶಯಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿ",
+        "B": "ಕಾಯಕ ಮತ್ತು ದಾಸೋಹ",
+        "C": "ಜಾತಿ-ಲಿಂಗ ಭೇದದ ವಿರೋಧ",
+        "D": "ಅಹಂಕಾರವನ್ನು ಪೋಷಿಸುವುದು"
+      },
+      "correctAnswer": "D",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಆಶಯಗಳು: ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿ, ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿ-ಲಿಂಗ ಭೇದದ ವಿರೋಧ, ಆಂತರಿಕ ಶುದ್ಧತೆ, ಸತ್ಯನಿಷ್ಠೆ, ಅಹಂಕಾರದ ತ್ಯಾಗ ಮತ್ತು ಅನುಭವಾಧಾರಿತ ಆಧ್ಯಾತ್ಮಿಕತೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯವು ಸಾಮಾಜಿಕ ಸುಧಾರಣೆಗೆ ಹೇಗೆ ನೆರವಾಯಿತು?",
+      "options": {
+        "A": "ಜನ್ಮಾಧಾರಿತ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಶ್ರಮಕ್ಕೆ ಗೌರವ ನೀಡಿತು; ಮಹಿಳೆಯರು ಮತ್ತು ವಿವಿಧ ವೃತ್ತಿ-ಸಮುದಾಯಗಳ ಜನರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಅಭಿವ್ಯಕ್ತಿಯ ಅವಕಾಶ ನೀಡಿತು; ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಮಾನವೀಯತೆಯನ್ನು ಸಾರಿತು",
+        "B": "ಕೇವಲ ರಾಜರನ್ನು ಪ್ರಶಂಸಿಸಿತು",
+        "C": "ಜಾತಿಭೇದವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿತು",
+        "D": "ಸಂಸ್ಕೃತ ಭಾಷೆಯನ್ನು ಮಾತ್ರ ಪ್ರೋತ್ಸಾಹಿಸಿತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳು ಜನ್ಮಾಧಾರಿತ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಶ್ರಮಕ್ಕೆ ಗೌರವ ನೀಡಿದವು; ಮಹಿಳೆಯರು ಮತ್ತು ವಿವಿಧ ವೃತ್ತಿ-ಸಮುದಾಯಗಳ ಜನರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಅಭಿವ್ಯಕ್ತಿಯ ಅವಕಾಶ ನೀಡಿದವು; ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಮಾನವೀಯತೆಯನ್ನು ಸಾರಿದವು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವಿಷ್ಣು ಅಥವಾ ಅವತಾರಗಳ ಭಕ್ತಿಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಹರಿದಾಸರು ಕನ್ನಡದಲ್ಲಿ ರಚಿಸಿದ ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ, ಉಗಾಭೋಗ ಮುಂತಾದ ಭಕ್ತಿಸಾಹಿತ್ಯ",
+        "B": "ಶಿವಭಕ್ತಿ ವಚನಗಳ ಸಂಗ್ರಹ",
+        "C": "ಆಧುನಿಕ ಕವನಗಳ ಸಂಗ್ರಹ",
+        "D": "ಸಂಸ್ಕೃತ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಷ್ಣು ಅಥವಾ ಅವತಾರಗಳ ಭಕ್ತಿಯನ್ನು ಕೇಂದ್ರವಾಗಿಟ್ಟುಕೊಂಡು ಹರಿದಾಸರು ಕನ್ನಡದಲ್ಲಿ ರಚಿಸಿದ ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ, ಉಗಾಭೋಗ ಮುಂತಾದ ಭಕ್ತಿಸಾಹಿತ್ಯವನ್ನು ದಾಸ ಸಾಹಿತ್ಯ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q041",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ದಾಸ ಸಾಹಿತ್ಯದ ಉಗಮ ಯಾವ ಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ವೈಷ್ಣವ ಭಕ್ತಿ ಪರಂಪರೆ ಮತ್ತು ಮಾಧ್ವ ತತ್ವದ ಪ್ರಭಾವ",
+        "B": "ಶೈವ ಪರಂಪರೆ",
+        "C": "ಜೈನ ಪರಂಪರೆ",
+        "D": "ಬೌದ್ಧ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ದಾಸ ಸಾಹಿತ್ಯವು ವೈಷ್ಣವ ಭಕ್ತಿ ಪರಂಪರೆ ಮತ್ತು ಮಾಧ್ವ ತತ್ವದ ಪ್ರಭಾವದೊಂದಿಗೆ ಬೆಳೆಯಿತು. ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ಹರಿದಾಸ ಚಳವಳಿ ವಿಶೇಷವಾಗಿ ವಿಸ್ತರಿಸಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸ ಪರಂಪರೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹರಿಯ ಭಕ್ತಿ, ನಾಮಸ್ಮರಣೆ, ಧರ್ಮ, ನೀತಿ ಮತ್ತು ತತ್ವವನ್ನು ಸಂಗೀತಮಯ ಕನ್ನಡ ಪದಗಳ ಮೂಲಕ ಜನರಿಗೆ ತಲುಪಿಸಿದ ಭಕ್ತರ ಪರಂಪರೆ",
+        "B": "ಶಿವಭಕ್ತಿ ವಚನಗಳ ಪರಂಪರೆ",
+        "C": "ಆಧುನಿಕ ಸಾಹಿತ್ಯ ಪರಂಪರೆ",
+        "D": "ಜೈನ ಸಾಹಿತ್ಯ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಯ ಭಕ್ತಿ, ನಾಮಸ್ಮರಣೆ, ಧರ್ಮ, ನೀತಿ ಮತ್ತು ತತ್ವವನ್ನು ಸಂಗೀತಮಯ ಕನ್ನಡ ಪದಗಳ ಮೂಲಕ ಜನರಿಗೆ ತಲುಪಿಸಿದ ಭಕ್ತರ ಪರಂಪರೆಯೇ ಹರಿದಾಸ ಪರಂಪರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ವ್ಯಾಸರಾಯರ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ವಿಜಯನಗರ ಕಾಲದ ಪ್ರಮುಖ ಮಾಧ್ವ ಗುರು ಮತ್ತು ಹರಿದಾಸ ಪರಂಪರೆಯ ಪ್ರೇರಕರಲ್ಲಿ ಒಬ್ಬರು",
+        "B": "ಆಧುನಿಕ ಕವಿ",
+        "C": "ಒಬ್ಬ ರಾಜ",
+        "D": "ವಚನಕಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವ್ಯಾಸರಾಯರು ವಿಜಯನಗರ ಕಾಲದ ಪ್ರಮುಖ ಮಾಧ್ವ ಗುರು ಮತ್ತು ಹರಿದಾಸ ಪರಂಪರೆಯ ಪ್ರೇರಕರಲ್ಲಿ ಒಬ್ಬರು. ಪುರಂದರದಾಸ ಮತ್ತು ಕನಕದಾಸರೊಂದಿಗೆ ಅವರ ಸಂಬಂಧವನ್ನು ಪರಂಪರೆ ವಿಶೇಷವಾಗಿ ಉಲ್ಲೇಖಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q044",
+      "subject": "Kannada",
+      "topic": "Purandara Dasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "16ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ ಮತ್ತು ಸಂಗೀತಕಾರ",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸರು 16ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ ಮತ್ತು ಸಂಗೀತಕಾರ. ಕನ್ನಡ ದೇವರನಾಮಗಳ ಮೂಲಕ ಭಕ್ತಿ, ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಮತ್ತು ಮಾನವೀಯತೆಯನ್ನು ಜನರಿಗೆ ತಲುಪಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada",
+      "topic": "Purandara Dasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಕೇಶವ",
+        "B": "ಪುರಂದರವಿಠಲ",
+        "C": "ವಿಜಯವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪುರಂದರದಾಸರ ಅಂಕಿತನಾಮ 'ಪುರಂದರವಿಠಲ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q046",
+      "subject": "Kannada",
+      "topic": "Purandara Dasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ಸರಳ ಜನಭಾಷೆ",
+        "B": "ಸಂಗೀತಮಯತೆ",
+        "C": "ಸಾಮಾಜಿಕ ವ್ಯಂಗ್ಯ ಮತ್ತು ಮಾನವದೋಷಗಳ ವಿಮರ್ಶೆ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಬಳಕೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಪುರಂದರದಾಸರ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು: ಸರಳ ಜನಭಾಷೆ, ಸಂಗೀತಮಯತೆ, ಭಕ್ತಿ, ನೈತಿಕ ಬೋಧನೆ, ಸಾಮಾಜಿಕ ವ್ಯಂಗ್ಯ, ಮಾನವದೋಷಗಳ ವಿಮರ್ಶೆ ಮತ್ತು ವಿಠಲನ ಮೇಲಿನ ಶರಣಾಗತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+        {
+      "id": "Q048",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "16ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ, ತತ್ತ್ವಚಿಂತಕ ಮತ್ತು ಸಮಾಜಸುಧಾರಕ",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "18ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನಕದಾಸರು 16ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ, ತತ್ತ್ವಚಿಂತಕ ಮತ್ತು ಸಮಾಜಸುಧಾರಕ. ಅವರ ಕೃತಿಗಳಲ್ಲಿ ಭಕ್ತಿ, ಸಮಾನತೆ, ಜಾತಿಭೇದದ ವಿಮರ್ಶೆ ಮತ್ತು ನೈತಿಕ ಚಿಂತನೆ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರವಿಠಲ",
+        "B": "ಆದಿಕೇಶವ",
+        "C": "ವಿಜಯವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನಕದಾಸರ ಅಂಕಿತನಾಮ 'ಆದಿಕೇಶವ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q050",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಪ್ರಮುಖ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಲ್ಲದಿರುವುದು ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "B": "ಮೋಹನತರಂಗಿಣಿ",
+        "C": "ನಳಚರಿತ್ರೆ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಕನಕದಾಸರ ಪ್ರಮುಖ ಕೃತಿಗಳು: ರಾಮಧಾನ್ಯ ಚರಿತೆ, ಮೋಹನತರಂಗಿಣಿ, ನಳಚರಿತ್ರೆ ಮತ್ತು ಹರಿಭಕ್ತಿಸಾರ. ಜೈಮಿನಿ ಭಾರತವು ಲಕ್ಷ್ಮೀಶನ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಮಧಾನ್ಯ ಚರಿತೆಯ ಮುಖ್ಯ ಆಶಯವೇನು?",
+      "options": {
+        "A": "ರಾಗಿ ಮತ್ತು ಭತ್ತದ ಕಥೆಯ ಮೂಲಕ ಆಹಾರ, ಶ್ರಮ, ಸಾಮಾಜಿಕ ಮೌಲ್ಯ ಮತ್ತು ಸಮಾನತೆಯ ವಿಚಾರಗಳನ್ನು ರೂಪಕಾತ್ಮಕವಾಗಿ ನಿರೂಪಿಸಲಾಗಿದೆ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಮಧಾನ್ಯ ಚರಿತೆಯಲ್ಲಿ ರಾಗಿ ಮತ್ತು ಭತ್ತದ ಕಥೆಯ ಮೂಲಕ ಆಹಾರ, ಶ್ರಮ, ಸಾಮಾಜಿಕ ಮೌಲ್ಯ ಮತ್ತು ಸಮಾನತೆಯ ವಿಚಾರಗಳನ್ನು ರೂಪಕಾತ್ಮಕವಾಗಿ ನಿರೂಪಿಸಲಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada",
+      "topic": "Vijayadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಿಜಯದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸರು",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "16ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜಯದಾಸರು 18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸರು. ಭಕ್ತಿ, ತತ್ತ್ವಜ್ಞಾನ ಮತ್ತು ಸರಳ ಕನ್ನಡ ಪದಗಳ ಮೂಲಕ ದಾಸಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada",
+      "topic": "Vijayadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಿಜಯದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರವಿಠಲ",
+        "B": "ಆದಿಕೇಶವ",
+        "C": "ವಿಜಯವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ವಿಜಯದಾಸರ ಅಂಕಿತನಾಮ 'ವಿಜಯವಿಠಲ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada",
+      "topic": "Gopaladasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಪಾಲದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "16ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೋಪಾಲದಾಸರು 18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ ಕವಿ. ಭಕ್ತಿ, ತತ್ತ್ವ ಮತ್ತು ನೈತಿಕ ಸಂದೇಶಗಳನ್ನು ಒಳಗೊಂಡ ಅನೇಕ ಕೀರ್ತನೆಗಳನ್ನು ರಚಿಸಿದ್ದಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada",
+      "topic": "Gopaladasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಪಾಲದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರವಿಠಲ",
+        "B": "ಆದಿಕೇಶವ",
+        "C": "ವಿಜಯವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಗೋಪಾಲದಾಸರ ಅಂಕಿತನಾಮ 'ಗೋಪಾಲವಿಠಲ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada",
+      "topic": "Jagannathadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜಗನ್ನಾಥದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ, ತತ್ತ್ವಜ್ಞಾನಿ ಮತ್ತು ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "16ನೇ ಶತಮಾನದ ಹರಿದಾಸ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗನ್ನಾಥದಾಸರು 18ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಹರಿದಾಸ, ತತ್ತ್ವಜ್ಞಾನಿ ಮತ್ತು ಕವಿ. ಹರಿದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ತತ್ತ್ವಪರ ಕೃತಿಗಳ ಮೂಲಕ ವಿಶಿಷ್ಟ ಸ್ಥಾನ ಪಡೆದಿದ್ದಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada",
+      "topic": "Jagannathadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜಗನ್ನಾಥದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರವಿಠಲ",
+        "B": "ಆದಿಕೇಶವ",
+        "C": "ಜಗನ್ನಾಥವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಜಗನ್ನಾಥದಾಸರ ಅಂಕಿತನಾಮ 'ಜಗನ್ನಾಥವಿಠಲ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada",
+      "topic": "Jagannathadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜಗನ್ನಾಥದಾಸರ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಕಥಾಮೃತಸಾರ",
+        "B": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "C": "ಮೋಹನತರಂಗಿಣಿ",
+        "D": "ನಳಚರಿತ್ರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಗನ್ನಾಥದಾಸರ ಪ್ರಮುಖ ಕೃತಿ ಹರಿಕಥಾಮೃತಸಾರ. ಇದು ದ್ವೈತ ವೇದಾಂತದ ತತ್ತ್ವಗಳನ್ನು ಸರಳ ಕನ್ನಡದಲ್ಲಿ ವಿವರಿಸುವ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada",
+      "topic": "Prasanna Venkatadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "ಹರಿದಾಸ ಪರಂಪರೆಯ ಕವಿ",
+        "B": "12ನೇ ಶತಮಾನದ ವಚನಕಾರ",
+        "C": "ಆಧುನಿಕ ಕವಿ",
+        "D": "ಒಬ್ಬ ರಾಜ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರು ಹರಿದಾಸ ಪರಂಪರೆಯ ಕವಿ. ಅವರ ಕೀರ್ತನೆಗಳು ಭಕ್ತಿ ಮತ್ತು ತತ್ತ್ವವನ್ನು ಕನ್ನಡದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada",
+      "topic": "Prasanna Venkatadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರವಿಠಲ",
+        "B": "ಪ್ರಸನ್ನವೆಂಕಟ",
+        "C": "ಜಗನ್ನಾಥವಿಠಲ",
+        "D": "ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಅಂಕಿತನಾಮ 'ಪ್ರಸನ್ನವೆಂಕಟ'.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದಾಸರ ಪದಗಳು ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹರಿದಾಸರು ಭಕ್ತಿ, ತತ್ತ್ವ, ನೀತಿ ಮತ್ತು ಜೀವನಾನುಭವಗಳನ್ನು ಸಂಗೀತಕ್ಕೆ ಹೊಂದುವಂತೆ ರಚಿಸಿದ ಹಾಡುಗಳು",
+        "B": "ವಚನಗಳು",
+        "C": "ಆಧುನಿಕ ಕವನಗಳು",
+        "D": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸರು ಭಕ್ತಿ, ತತ್ತ್ವ, ನೀತಿ ಮತ್ತು ಜೀವನಾನುಭವಗಳನ್ನು ಸಂಗೀತಕ್ಕೆ ಹೊಂದುವಂತೆ ರಚಿಸಿದ ಹಾಡುಗಳನ್ನು ದಾಸರ ಪದಗಳು ಎನ್ನತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕೀರ್ತನೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ದೇವರ ಗುಣ, ನಾಮ, ಲೀಲೆ ಮತ್ತು ಮಹಿಮೆಯನ್ನು ಹಾಡಿ ಸ್ತುತಿಸುವ ಭಕ್ತಿಗೀತೆ",
+        "B": "ಒಂದು ರೀತಿಯ ವಚನ",
+        "C": "ಆಧುನಿಕ ಕವನ",
+        "D": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರ ಗುಣ, ನಾಮ, ಲೀಲೆ ಮತ್ತು ಮಹಿಮೆಯನ್ನು ಹಾಡಿ ಸ್ತುತಿಸುವ ಭಕ್ತಿಗೀತೆಯನ್ನು ಕೀರ್ತನೆ ಎನ್ನತ್ತಾರೆ. ಹರಿದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪಲ್ಲವಿ, ಅನುಪಲ್ಲವಿ ಮತ್ತು ಚರಣಗಳ ವಿಭಾಗ ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸುಳಾದಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ತಾಳ ಮತ್ತು ಸಂಗೀತದ ದೃಷ್ಟಿಯಿಂದ ವಿಭಾಗಿಸಲ್ಪಟ್ಟ, ಭಕ್ತಿ ಅಥವಾ ತತ್ತ್ವವನ್ನು ನಿರೂಪಿಸುವ ದಾಸಸಾಹಿತ್ಯದ ಸಂಗೀತರೂಪ",
+        "B": "ಒಂದು ರೀತಿಯ ವಚನ",
+        "C": "ಆಧುನಿಕ ಕವನ",
+        "D": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಳ ಮತ್ತು ಸಂಗೀತದ ದೃಷ್ಟಿಯಿಂದ ವಿಭಾಗಿಸಲ್ಪಟ್ಟ, ಭಕ್ತಿ ಅಥವಾ ತತ್ತ್ವವನ್ನು ನಿರೂಪಿಸುವ ದಾಸಸಾಹಿತ್ಯದ ಸಂಗೀತರೂಪವೇ ಸುಳಾದಿ. ವಿವಿಧ ತಾಳಗಳ ಬಳಕೆ ಇದರ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q064",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಗಾಭೋಗ ಎಂದರೇನು?",
+      "options": {
+        "A": "ನಿರ್ದಿಷ್ಟ ಕಟ್ಟುಪಾಡಿನ ಪಲ್ಲವಿ-ಚರಣ ವಿಭಾಗವಿಲ್ಲದೆ, ಸ್ವತಂತ್ರವಾಗಿ ಹರಿಯುವ ಭಕ್ತಿಪೂರ್ಣ ಸಂಗೀತಾತ್ಮಕ ರಚನೆ",
+        "B": "ಒಂದು ರೀತಿಯ ವಚನ",
+        "C": "ಆಧುನಿಕ ಕವನ",
+        "D": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಿರ್ದಿಷ್ಟ ಕಟ್ಟುಪಾಡಿನ ಪಲ್ಲವಿ-ಚರಣ ವಿಭಾಗವಿಲ್ಲದೆ, ಸ್ವತಂತ್ರವಾಗಿ ಹರಿಯುವ ಭಕ್ತಿಪೂರ್ಣ ಸಂಗೀತಾತ್ಮಕ ರಚನೆಯನ್ನು ಉಗಾಭೋಗ ಎನ್ನತ್ತಾರೆ. ಇದು ಸಾಮಾನ್ಯವಾಗಿ ರಾಗಭಾವ ಮತ್ತು ತತ್ತ್ವವನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದೇವರನಾಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ದೇವರ ನಾಮ, ಗುಣ, ಭಕ್ತಿ ಮತ್ತು ನೀತಿಯನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪಿಸುವ ಕನ್ನಡ ಭಕ್ತಿಗೀತೆ",
+        "B": "ಒಂದು ರೀತಿಯ ವಚನ",
+        "C": "ಆಧುನಿಕ ಕವನ",
+        "D": "ಸಂಸ್ಕೃತ ಶ್ಲೋಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರ ನಾಮ, ಗುಣ, ಭಕ್ತಿ ಮತ್ತು ನೀತಿಯನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪಿಸುವ ಕನ್ನಡ ಭಕ್ತಿಗೀತೆಯನ್ನು ದೇವರನಾಮ ಎನ್ನತ್ತಾರೆ. ಹರಿದಾಸರ ಪದಗಳಿಗೆ ಈ ಹೆಸರು ಸಾಮಾನ್ಯವಾಗಿ ಬಳಕೆಯಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q066",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದಾಸರ ಅಂಕಿತನಾಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ದಾಸರು ತಮ್ಮ ಕೀರ್ತನೆ ಅಥವಾ ಪದಗಳ ಕೊನೆಯಲ್ಲಿ ಆರಾಧ್ಯ ದೇವರ ಹೆಸರನ್ನು ಒಳಗೊಂಡು ಬಳಸುವ ಗುರುತಿನ ಹೆಸರು",
+        "B": "ಕೀರ್ತನೆಯ ಆರಂಭದಲ್ಲಿ ಬರುವ ಹೆಸರು",
+        "C": "ಕೀರ್ತನೆಯ ಶೀರ್ಷಿಕೆ",
+        "D": "ರಚನೆಯ ಕಾಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸರು ತಮ್ಮ ಕೀರ್ತನೆ ಅಥವಾ ಪದಗಳ ಕೊನೆಯಲ್ಲಿ ಆರಾಧ್ಯ ದೇವರ ಹೆಸರನ್ನು ಒಳಗೊಂಡು ಬಳಸುವ ಗುರುತಿನ ಹೆಸರೇ ಅಂಕಿತನಾಮ. ಇದು ರಚಯಿತ್ಯನನ್ನು ಗುರುತಿಸಲು ನೆರವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ, ಗೋಪಾಲದಾಸ, ಜಗನ್ನಾಥದಾಸ ಮತ್ತು ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಅಂಕಿತನಾಮಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರದಾಸ — ಪುರಂದರವಿಠಲ; ಕನಕದಾಸ — ಆದಿಕೇಶವ; ವಿಜಯದಾಸ — ವಿಜಯವಿಠಲ; ಗೋಪಾಲದಾಸ — ಗೋಪಾಲವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ",
+        "B": "ಪುರಂದರದಾಸ — ಆದಿಕೇಶವ; ಕನಕದಾಸ — ಪುರಂದರವಿಠಲ; ವಿಜಯದಾಸ — ಗೋಪಾಲವಿಠಲ; ಗೋಪಾಲದಾಸ — ವಿಜಯವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಜಗನ್ನಾಥವಿಠಲ",
+        "C": "ಪುರಂದರದಾಸ — ವಿಜಯವಿಠಲ; ಕನಕದಾಸ — ಗೋಪಾಲವಿಠಲ; ವಿಜಯದಾಸ — ಆದಿಕೇಶವ; ಗೋಪಾಲದಾಸ — ಪುರಂದರವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಜಗನ್ನಾಥವಿಠಲ",
+        "D": "ಪುರಂದರದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಕನಕದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ; ವಿಜಯದಾಸ — ಪುರಂದರವಿಠಲ; ಗೋಪಾಲದಾಸ — ಆದಿಕೇಶವ; ಜಗನ್ನಾಥದಾಸ — ವಿಜಯವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಗೋಪಾಲವಿಠಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸ — ಪುರಂದರವಿಠಲ; ಕನಕದಾಸ — ಆದಿಕೇಶವ; ವಿಜಯದಾಸ — ವಿಜಯವಿಠಲ; ಗೋಪಾಲದಾಸ — ಗೋಪಾಲವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದ ಸಾಮಾಜಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಕೊಡುಗೆಗಳೇನು?",
+      "options": {
+        "A": "ಭಕ್ತಿಯನ್ನು ಜನಭಾಷೆಯಲ್ಲಿ ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿಸಿತು; ನೀತಿಕಥೆ, ದಯೆ, ಸಮಾನತೆ, ಅಹಂಕಾರದ ತ್ಯಾಗ, ದೈವಸ್ಮರಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆಯನ್ನು ಉತ್ತೇಜಿಸಿತು; ಕರ್ನಾಟಕ ಸಂಗೀತದ ಬೆಳವಣಿಗೆಗೂ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿತು",
+        "B": "ಕೇವಲ ರಾಜರನ್ನು ಪ್ರಶಂಸಿಸಿತು",
+        "C": "ಜಾತಿಭೇದವನ್ನು ಪ್ರೋತ್ಸಾಹಿಸಿತು",
+        "D": "ಸಂಸ್ಕೃತ ಭಾಷೆಯನ್ನು ಮಾತ್ರ ಪ್ರೋತ್ಸಾಹಿಸಿತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯವು ಭಕ್ತಿಯನ್ನು ಜನಭಾಷೆಯಲ್ಲಿ ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿಸಿತು; ನೀತಿಕಥೆ, ದಯೆ, ಸಮಾನತೆ, ಅಹಂಕಾರದ ತ್ಯಾಗ, ದೈವಸ್ಮರಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆಯನ್ನು ಉತ್ತೇಜಿಸಿತು. ಕರ್ನಾಟಕ ಸಂಗೀತದ ಬೆಳವಣಿಗೆಗೂ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada",
+      "topic": "Raghavanka",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ; ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕಾವ್ಯ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿ",
+        "D": "ಸಂಸ್ಕೃತ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ. ಇದು ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada",
+      "topic": "Harihara",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿಹರನ ರಗಳೆಗಳ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಹರಿಹರನ ರಗಳೆಗಳು ಭಂಡಸ್ಸಿನಲ್ಲಿ ಶಿವಶರಣರ ಮತ್ತು ಭಕ್ತರ ಜೀವನವನ್ನು ಕಾವ್ಯಗೊಳಿಸಿವೆ; ರಗಳೆ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಅವನ ಪಾತ್ರ ಅತ್ಯಂತ ಮಹತ್ವದ್ದಾಗಿದೆ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿ",
+        "D": "ಸಂಸ್ಕೃತ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನ ರಗಳೆಗಳು ಶಿವಶರಣರ ಮತ್ತು ಭಕ್ತರ ಜೀವನವನ್ನು ಕಾವ್ಯಗೊಳಿಸಿವೆ. ರಗಳೆ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಅವನ ಪಾತ್ರ ಅತ್ಯಂತ ಮಹತ್ವದ್ದಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada",
+      "topic": "Kumaravyasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸನ ಪ್ರಸಿದ್ಧ ಮಹಾಭಾರತಾಧಾರಿತ ಕೃತಿ; ಇದನ್ನು ಗದುಗಿನ ಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ ಮತ್ತು ಭಾಮಿನಿ ಷಟ್ಟದಿ ಭಂಡಸ್ಸಿನಲ್ಲಿ ರಚಿತವಾಗಿದೆ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿ",
+        "D": "ಸಂಸ್ಕೃತ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಕುಮಾರವ್ಯಾಸನ ಪ್ರಸಿದ್ಧ ಮಹಾಭಾರತಾಧಾರಿತ ಕೃತಿ. ಇದನ್ನು ಗದುಗಿನ ಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ ಮತ್ತು ಭಾಮಿನಿ ಷಟ್ಟದಿ ಭಂಡಸ್ಸಿನಲ್ಲಿ ರಚಿತವಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+        {
+      "id": "Q073",
+      "subject": "Kannada",
+      "topic": "Lakshmisha",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತದ ಆಧಾರ ಗ್ರಂಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ",
+        "B": "ರಾಮಾಯಣ",
+        "C": "ಭಾಗವತ",
+        "D": "ಮಹಾಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಕ್ಷ್ಮೀಶನ ಜೈಮಿನಿ ಭಾರತವು ನಡುಗನ್ನಡದ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕಾವ್ಯ. ಇದು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada",
+      "topic": "Chamarasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಸಂಗ್ರಹ",
+        "C": "ಆಧುನಿಕ ಕಾದಂಬರಿ",
+        "D": "ಸಂಸ್ಕೃತ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ. ಇದು ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada",
+      "topic": "Torave Ramayana",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊರವೆ ರಾಮಾಯಣದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ನರಹರಿ ಅಥವಾ ಕುಮಾರ ವಾಲ್ಮೀಕಿ ಎಂದು ಪ್ರಸಿದ್ಧ",
+        "B": "ಕುಮಾರವ್ಯಾಸ",
+        "C": "ಲಕ್ಷ್ಮೀಶ",
+        "D": "ರತ್ನಾಕರವರ್ಣಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣದ ಕರ್ತೃ ನರಹರಿ ಅಥವಾ ಕುಮಾರ ವಾಲ್ಮೀಕಿ ಎಂದು ಪ್ರಸಿದ್ಧ. ಇದು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ ಮತ್ತು ಷಟ್ಟದಿ ಕೈಲಿಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q076",
+      "subject": "Kannada",
+      "topic": "Ratnakaravarni",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರತ್ನಾಕರವರ್ಣಿಯ ಭರತೇಶ ವೈಭವ ಯಾವ ಸಾಹಿತ್ಯರೂಪಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಸಾಂಗತ್ಯ ಕಾವ್ಯ",
+        "B": "ರಗಳೆ",
+        "C": "ತ್ರಿಪದಿ",
+        "D": "ವಚನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ರತ್ನಾಕರವರ್ಣಿಯ ಪ್ರಸಿದ್ಧ ಸಾಂಗತ್ಯ ಕಾವ್ಯ. ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada",
+      "topic": "Ratnakaravarni",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭರತೇಶ ವೈಭವ ಕಾವ್ಯದ ಆಧಾರ ಕಥೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ",
+        "B": "ರಾಮಾಯಣದ ಕಥೆ",
+        "C": "ಮಹಾಭಾರತದ ಕಥೆ",
+        "D": "ಭಾಗವತದ ಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದ ಸಾಂಗತ್ಯ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada",
+      "topic": "Shadaksharadeva",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಷಡಕ್ಷರದೇವ ಯಾರು?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡ ಕಾಲದ ಶೈವ ಕವಿ",
+        "B": "ಹರಿದಾಸ ಕವಿ",
+        "C": "ವಚನಕಾರ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಡಕ್ಷರದೇವರು ನಡುಗನ್ನಡ ಕಾಲದ ಶೈವ ಕವಿ. ರಾಜಶೇಖರವಿಲಾಸ ಮತ್ತು ಶಬರಶಂಕರವಿಲಾಸ ಅವರ ಪ್ರಮುಖ ಕೃತಿಗಳೆಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q079",
+      "subject": "Kannada",
+      "topic": "Shadaksharadeva",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಡಕ್ಷರದೇವರ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ರಾಜಶೇಖರವಿಲಾಸ ಮತ್ತು ಶಬರಶಂಕರವಿಲಾಸ",
+        "B": "ರಾಮಧಾನ್ಯ ಚರಿತೆ ಮತ್ತು ಮೋಹನತರಂಗಿಣಿ",
+        "C": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ ಮತ್ತು ರಗಳೆಗಳು",
+        "D": "ಜೈಮಿನಿ ಭಾರತ ಮತ್ತು ಭರತೇಶ ವೈಭವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜಶೇಖರವಿಲಾಸ ಮತ್ತು ಶಬರಶಂಕರವಿಲಾಸ ಷಡಕ್ಷರದೇವರ ಪ್ರಮುಖ ಕೃತಿಗಳೆಂದು ಗುರುತಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada",
+      "topic": "Sarvajna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞ ಯಾರು?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡದ ಪ್ರಸಿದ್ಧ ತ್ರಿಪದಿ ಕವಿ",
+        "B": "ಹರಿದಾಸ ಕವಿ",
+        "C": "ವಚನಕಾರ",
+        "D": "ಆಧುನಿಕ ಕವಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನು ನಡುಗನ್ನಡದ ಪ್ರಸಿದ್ಧ ತ್ರಿಪದಿ ಕವಿ. ಜೀವನಾನುಭವ, ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ, ಧರ್ಮ ಮತ್ತು ಮಾನವಸ್ವಭಾವದ ಕುರಿತು ಸಂಕ್ಷಿಪ್ತ ತ್ರಿಪದಿಗಳನ್ನು ರಚಿಸಿದ್ದಾನೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada",
+      "topic": "Sarvajna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞನ ಕಾವ್ಯರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ತ್ರಿಪದಿ",
+        "B": "ರಗಳೆ",
+        "C": "ಸಾಂಗತ್ಯ",
+        "D": "ವಚನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ಕಾವ್ಯರೂಪ ತ್ರಿಪದಿ. ಮೂರು ಸಾಲುಗಳ ಸಂಕ್ಷಿಪ್ತ ರಚನೆಯಲ್ಲಿ ಗಾಢವಾದ ಜೀವನಸಂದೇಶವನ್ನು ನೀಡುವುದು ಅವನ ಶೈಲಿಯ ವೈಶಿಷ್ಟ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada",
+      "topic": "Sarvajna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳ ಮುಖ್ಯ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೀವನಾನುಭವ, ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ, ಧರ್ಮ ಮತ್ತು ಮಾನವಸ್ವಭಾವ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನು ಜೀವನಾನುಭವ, ನೀತಿ, ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ, ಧರ್ಮ ಮತ್ತು ಮಾನವಸ್ವಭಾವದ ಕುರಿತು ಸಂಕ್ಷಿಪ್ತ ತ್ರಿಪದಿಗಳನ್ನು ರಚಿಸಿದ್ದಾನೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada",
+      "topic": "Modern Kannada",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಯಾರು?",
+      "options": {
+        "A": "20ನೇ ಶತಮಾನದ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತಿ, ಚಿಂತಕ ಮತ್ತು ಪತ್ರಕರ್ತ",
+        "B": "ನಡುಗನ್ನಡ ಕವಿ",
+        "C": "ವಚನಕಾರ",
+        "D": "ಹರಿದಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ (ಜ್ಞಾನಪೀಠ) 20ನೇ ಶತಮಾನದ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತಿ, ಚಿಂತಕ ಮತ್ತು ಪತ್ರಕರ್ತ. ಅವರು ನಡುಗನ್ನಡ ಕವಿ ಅಲ್ಲ; ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada",
+      "topic": "Modern Kannada",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ",
+        "B": "ಕುಮಾರವ್ಯಾಸ",
+        "C": "ಸರ್ವಜ್ಞ",
+        "D": "ಪುರಂದರದಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗದ ಕರ್ತೃ ಡಿ.ವಿ. ಗುಂಡಪ್ಪ. ಈ ಕೃತಿ ಜೀವನತ್ವ, ನೀತಿ, ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಮಾನವಾನುಭವಗಳನ್ನು ಚೌಪದಿ/ಕಗ್ಗ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada",
+      "topic": "Modern Kannada",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ಯಾವ ಸಾಹಿತ್ಯಕಾಲಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+        "B": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "C": "ಹಳೆಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "D": "ವಚನ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದೆ. ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q086",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡದ ಪ್ರಮುಖ ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳಲ್ಲಿ ಸರಿಯಾದದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಹರ — ರಗಳೆಗಳು; ರಾಘವಾಂಕ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಕುಮಾರವ್ಯಾಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ; ಲಕ್ಷ್ಮೀಶ — ಜೈಮಿನಿ ಭಾರತ; ಚಾಮರಸ — ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಹರಿಹರ — ಜೈಮಿನಿ ಭಾರತ; ರಾಘವಾಂಕ — ರಗಳೆಗಳು; ಕುಮಾರವ್ಯಾಸ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ಲಕ್ಷ್ಮೀಶ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಚಾಮರಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "C": "ಹರಿಹರ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ರಾಘವಾಂಕ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ; ಕುಮಾರವ್ಯಾಸ — ರಗಳೆಗಳು; ಲಕ್ಷ್ಮೀಶ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ಚಾಮರಸ — ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ಹರಿಹರ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ರಾಘವಾಂಕ — ಜೈಮಿನಿ ಭಾರತ; ಕುಮಾರವ್ಯಾಸ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಲಕ್ಷ್ಮೀಶ — ರಗಳೆಗಳು; ಚಾಮರಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರ — ರಗಳೆಗಳು; ರಾಘವಾಂಕ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಕುಮಾರವ್ಯಾಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ; ಲಕ್ಷ್ಮೀಶ — ಜೈಮಿನಿ ಭಾರತ; ಚಾಮರಸ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ನರಹರಿ/ಕುಮಾರ ವಾಲ್ಮೀಕಿ — ತೊರವೆ ರಾಮಾಯಣ; ರತ್ನಾಕರವರ್ಣಿ — ಭರತೇಶ ವೈಭವ; ಷಡಕ್ಷರದೇವ — ರಾಜಶೇಖರವಿಲಾಸ; ಸರ್ವಜ್ಞ — ತ್ರಿಪದಿಗಳು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯ ಮತ್ತು ದಾಸ ಸಾಹಿತ್ಯಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯವು ಮುಖ್ಯವಾಗಿ ಶರಣರ ಶಿವಭಕ್ತಿ, ಆತ್ಮಾನುಭವ ಮತ್ತು ಸಾಮಾಜಿಕ ಸುಧಾರಣೆಯ ವಿಚಾರಗಳನ್ನು ಸರಳ ವಚನರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ; ದಾಸ ಸಾಹಿತ್ಯವು ಮುಖ್ಯವಾಗಿ ವೈಷ್ಣವ ಭಕ್ತಿ, ನಾಮಸ್ಮರಣೆ ಮತ್ತು ಸಂಗೀತಮಯ ಕೀರ್ತನೆಗಳ ಮೂಲಕ ತತ್ವವನ್ನು ಸಾರುತ್ತದೆ",
+        "B": "ಎರಡೂ ಒಂದೇ",
+        "C": "ವಚನ ಸಾಹಿತ್ಯ ವೈಷ್ಣವ ಭಕ್ತಿ, ದಾಸ ಸಾಹಿತ್ಯ ಶಿವಭಕ್ತಿ",
+        "D": "ವಚನ ಸಾಹಿತ್ಯ ಆಧುನಿಕ, ದಾಸ ಸಾಹಿತ್ಯ ಪ್ರಾಚೀನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯವು ಮುಖ್ಯವಾಗಿ ಶರಣರ ಶಿವಭಕ್ತಿ, ಆತ್ಮಾನುಭವ ಮತ್ತು ಸಾಮಾಜಿಕ ಸುಧಾರಣೆಯ ವಿಚಾರಗಳನ್ನು ಸರಳ ವಚನರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ. ದಾಸ ಸಾಹಿತ್ಯವು ಮುಖ್ಯವಾಗಿ ವೈಷ್ಣವ ಭಕ್ತಿ, ನಾಮಸ್ಮರಣೆ ಮತ್ತು ಸಂಗೀತಮಯ ಕೀರ್ತನೆಗಳ ಮೂಲಕ ತತ್ವವನ್ನು ಸಾರುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ಯಾವ ಕಾಲವರ್ಗೀಕರಣದ ತಪ್ಪನ್ನು ತಪ್ಪಿಸಬೇಕು?",
+      "options": {
+        "A": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಕುಮಾರವ್ಯಾಸ, ಲಕ್ಷ್ಮೀಶ, ಚಾಮರಸ, ಸರ್ವಜ್ಞ ಮುಂತಾದವರನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳೆಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಮತ್ತು ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿವೆ",
+        "B": "ಎಲ್ಲರೂ ಹಳಗನ್ನಡ ಕವಿಗಳು",
+        "C": "ಎಲ್ಲರೂ ಆಧುನಿಕ ಕವಿಗಳು",
+        "D": "ಎಲ್ಲರೂ ದಾಸ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಕುಮಾರವ್ಯಾಸ, ಲಕ್ಷ್ಮೀಶ, ಚಾಮರಸ, ಸರ್ವಜ್ಞ ಮುಂತಾದವರನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳೆಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು. ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಮತ್ತು ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಹೇಗೆ ಸಿದ್ಧರಾಗಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಕವಿಗೆ ಕಾಲಘಟ್ಟ, ಸಾಹಿತ್ಯಧಾರೆ, ಪ್ರಮುಖ ಕೃತಿ, ಛಂದಸ್ಸು/ರೂಪ ಮತ್ತು ಅಂಕಿತನಾಮ ಅಥವಾ ಬಿರುದನ್ನು ಜೋಡಿಸಿ ಓದಿ; ವಿಶೇಷವಾಗಿ ವಚನಕಾರರು-ಅಂಕಿತನಾಮಗಳು, ಹರಿದಾಸರು-ಅಂಕಿತನಾಮಗಳು ಮತ್ತು ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ",
+        "B": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ",
+        "C": "ಕೇವಲ ಕೃತಿಗಳ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ",
+        "D": "ಕೇವಲ ಕಾಲಘಟ್ಟವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿ ಕವಿಗೆ ಕಾಲಘಟ್ಟ, ಸಾಹಿತ್ಯಧಾರೆ, ಪ್ರಮುಖ ಕೃತಿ, ಛಂದಸ್ಸು/ರೂಪ ಮತ್ತು ಅಂಕಿತನಾಮ ಅಥವಾ ಬಿರುದನ್ನು ಜೋಡಿಸಿ ಓದಿ. ವಿಶೇಷವಾಗಿ ವಚನಕಾರರು-ಅಂಕಿತನಾಮಗಳು, ಹರಿದಾಸರು-ಅಂಕಿತನಾಮಗಳು ಮತ್ತು ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q090",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಕಾಲ ಮತ್ತು ಪ್ರಮುಖ ವಚನಕಾರರ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನ; ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ; ಶರಣ ಚಳವಳಿ",
+        "B": "16ನೇ ಶತಮಾನ; ಪುರಂದರದಾಸ, ಕನಕದಾಸ; ಹರಿದಾಸ ಚಳವಳಿ",
+        "C": "18ನೇ ಶತಮಾನ; ವಿಜಯದಾಸ, ಗೋಪಾಲದಾಸ; ಹರಿದಾಸ ಪರಂಪರೆ",
+        "D": "20ನೇ ಶತಮಾನ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ; ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯ — 12ನೇ ಶತಮಾನ; ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ; ಶರಣ ಚಳವಳಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು ಮತ್ತು ಅಕ್ಕಮಹಾದೇವಿಯರ ಅಂಕಿತನಾಮಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ — ಕೂಡಲಸಂಗಮದೇವ; ಅಲ್ಲಮಪ್ರಭು — ಗುಹೇಶ್ವರ; ಅಕ್ಕಮಹಾದೇವಿ — ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "B": "ಬಸವಣ್ಣ — ಗುಹೇಶ್ವರ; ಅಲ್ಲಮಪ್ರಭು — ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಅಕ್ಕಮಹಾದೇವಿ — ಕೂಡಲಸಂಗಮದೇವ",
+        "C": "ಬಸವಣ್ಣ — ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಅಲ್ಲಮಪ್ರಭು — ಕೂಡಲಸಂಗಮದೇವ; ಅಕ್ಕಮಹಾದೇವಿ — ಗುಹೇಶ್ವರ",
+        "D": "ಬಸವಣ್ಣ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಅಲ್ಲಮಪ್ರಭು — ಗುಹೇಶ್ವರ; ಅಕ್ಕಮಹಾದೇವಿ — ಕೂಡಲಸಂಗಮದೇವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣ — ಕೂಡಲಸಂಗಮದೇವ; ಅಲ್ಲಮಪ್ರಭು — ಗುಹೇಶ್ವರ; ಅಕ್ಕಮಹಾದೇವಿ — ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಿದ್ಧರಾಮ ಮತ್ತು ಚೆನ್ನಬಸವಣ್ಣರ ಅಂಕಿತನಾಮಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಿದ್ಧರಾಮ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ",
+        "B": "ಸಿದ್ಧರಾಮ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ; ಚೆನ್ನಬಸವಣ್ಣ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ",
+        "C": "ಸಿದ್ಧರಾಮ — ಗುಹೇಶ್ವರ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಸಂಗಮದೇವ",
+        "D": "ಸಿದ್ಧರಾಮ — ಚಿನ್ನಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಿದ್ಧರಾಮ — ಕಪಿಲಸಿದ್ಧಮಲ್ಲಿಕಾರ್ಜುನ; ಚೆನ್ನಬಸವಣ್ಣ — ಕೂಡಲಚೆನ್ನಸಂಗಮದೇವ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q093",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನಗಳ ಪ್ರಮುಖ ಆಶಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿಭೇದ ವಿರೋಧ, ಆತ್ಮಾನುಭವ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳ ಪ್ರಮುಖ ಆಶಯಗಳು: ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿಭೇದ ವಿರೋಧ, ಆತ್ಮಾನುಭವ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q095",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಪಾಲದಾಸ, ಜಗನ್ನಾಥದಾಸ ಮತ್ತು ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಅಂಕಿತನಾಮಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಗೋಪಾಲದಾಸ — ಗೋಪಾಲವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ",
+        "B": "ಗೋಪಾಲದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಗೋಪಾಲವಿಠಲ",
+        "C": "ಗೋಪಾಲದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ; ಜಗನ್ನಾಥದಾಸ — ಗೋಪಾಲವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಜಗನ್ನಾಥವಿಠಲ",
+        "D": "ಗೋಪಾಲದಾಸ — ಆದಿಕೇಶವ; ಜಗನ್ನಾಥದಾಸ — ಪುರಂದರವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ವಿಜಯವಿಠಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೋಪಾಲದಾಸ — ಗೋಪಾಲವಿಠಲ; ಜಗನ್ನಾಥದಾಸ — ಜಗನ್ನಾಥವಿಠಲ; ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸ — ಪ್ರಸನ್ನವೆಂಕಟ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q096",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ರೂಪಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ, ಉಗಾಭೋಗ",
+        "B": "ವಚನ, ರಗಳೆ, ಸಾಂಗತ್ಯ, ತ್ರಿಪದಿ",
+        "C": "ಕಾದಂಬರಿ, ಕವನ, ಪ್ರಬಂಧ, ನಾಟಕ",
+        "D": "ಶ್ಲೋಕ, ಸೂಕ್ತ, ಮಂತ್ರ, ಸ್ತೋತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯ ರೂಪಗಳು: ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ, ಉಗಾಭೋಗ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q097",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹರಿಹರ, ರಾಘವಾಂಕ ಮತ್ತು ಕುಮಾರವ್ಯಾಸರ ಪ್ರಮುಖ ಕೃತಿಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಹರ — ರಗಳೆ; ರಾಘವಾಂಕ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಕುಮಾರವ್ಯಾಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಹರಿಹರ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ರಾಘವಾಂಕ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ; ಕುಮಾರವ್ಯಾಸ — ರಗಳೆ",
+        "C": "ಹರಿಹರ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ; ರಾಘವಾಂಕ — ರಗಳೆ; ಕುಮಾರವ್ಯಾಸ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "D": "ಹರಿಹರ — ಜೈಮಿನಿ ಭಾರತ; ರಾಘವಾಂಕ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ಕುಮಾರವ್ಯಾಸ — ಭರತೇಶ ವೈಭವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರ — ರಗಳೆ; ರಾಘವಾಂಕ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ಕುಮಾರವ್ಯಾಸ — ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q098",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಲಕ್ಷ್ಮೀಶ, ಚಾಮರಸ ಮತ್ತು ರತ್ನಾಕರವರ್ಣಿಯರ ಪ್ರಮುಖ ಕೃತಿಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಕ್ಷ್ಮೀಶ — ಜೈಮಿನಿ ಭಾರತ; ಚಾಮರಸ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ರತ್ನಾಕರವರ್ಣಿ — ಭರತೇಶ ವೈಭವ",
+        "B": "ಲಕ್ಷ್ಮೀಶ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ಚಾಮರಸ — ಭರತೇಶ ವೈಭವ; ರತ್ನಾಕರವರ್ಣಿ — ಜೈಮಿನಿ ಭಾರತ",
+        "C": "ಲಕ್ಷ್ಮೀಶ — ಭರತೇಶ ವೈಭವ; ಚಾಮರಸ — ಜೈಮಿನಿ ಭಾರತ; ರತ್ನಾಕರವರ್ಣಿ — ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "D": "ಲಕ್ಷ್ಮೀಶ — ರಗಳೆ; ಚಾಮರಸ — ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ; ರತ್ನಾಕರವರ್ಣಿ — ತ್ರಿಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಕ್ಷ್ಮೀಶ — ಜೈಮಿನಿ ಭಾರತ; ಚಾಮರಸ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ರತ್ನಾಕರವರ್ಣಿ — ಭರತೇಶ ವೈಭವ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q099",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞ, ಷಡಕ್ಷರದೇವ ಮತ್ತು ಡಿ.ವಿ. ಗುಂಡಪ್ಪರ ಪ್ರಮುಖ ಕೃತಿಗಳ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಸರ್ವಜ್ಞ — ತ್ರಿಪದಿ; ಷಡಕ್ಷರದೇವ — ರಾಜಶೇಖರವಿಲಾಸ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ — ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ (ಆಧುನಿಕ)",
+        "B": "ಸರ್ವಜ್ಞ — ರಾಜಶೇಖರವಿಲಾಸ; ಷಡಕ್ಷರದೇವ — ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ — ತ್ರಿಪದಿ",
+        "C": "ಸರ್ವಜ್ಞ — ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ; ಷಡಕ್ಷರದೇವ — ತ್ರಿಪದಿ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ — ರಾಜಶೇಖರವಿಲಾಸ",
+        "D": "ಸರ್ವಜ್ಞ — ಜೈಮಿನಿ ಭಾರತ; ಷಡಕ್ಷರದೇವ — ಪ್ರಭುಲಿಂಗಲೀಲೆ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ — ಭರತೇಶ ವೈಭವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞ — ತ್ರಿಪದಿ; ಷಡಕ್ಷರದೇವ — ರಾಜಶೇಖರವಿಲಾಸ; ಡಿ.ವಿ. ಗುಂಡಪ್ಪ — ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ (ಆಧುನಿಕ).",
+      "source": "Nadugannada_Sahityaa.pdf, Page 7"
+    },
+    {
+      "id": "Q100",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆಗಳಲ್ಲಿ ಒಂದಾದ ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಪುರಂದರದಾಸರ ದೇವರನಾಮ",
+        "C": "ಕನಕದಾಸರ ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "D": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q101",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ವೈಷ್ಣವ ಭಕ್ತಿಕಾವ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರದಾಸರ ದೇವರನಾಮಗಳು",
+        "B": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಹರಿಹರನ ರಗಳೆಗಳು",
+        "D": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸರ ದೇವರನಾಮಗಳು ವೈಷ್ಣವ ಭಕ್ತಿಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q102",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪುರಾಣಕಾವ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ",
+        "C": "ಬಸವಣ್ಣನ ವಚನ",
+        "D": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಪುರಾಣಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q103",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಷಟ್ಟದಿ ಕಾವ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ",
+        "C": "ಬಸವಣ್ಣನ ವಚನ",
+        "D": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ ಷಟ್ಟದಿ ಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q104",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಸಾಂಗತ್ಯ ಕಾವ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ರತ್ನಾಕರವರ್ಣಿಯ ಭರತೇಶ ವೈಭವ",
+        "B": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "C": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "D": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರತ್ನಾಕರವರ್ಣಿಯ ಭರತೇಶ ವೈಭವ ಸಾಂಗತ್ಯ ಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q105",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ರಗಳೆ ಸಾಹಿತ್ಯಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಹರನ ರಗಳೆಗಳು",
+        "B": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "C": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿ",
+        "D": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನ ರಗಳೆಗಳು ರಗಳೆ ಸಾಹಿತ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q106",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ತ್ರಿಪದಿ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+        "B": "ಹರಿಹರನ ರಗಳೆಗಳು",
+        "C": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "D": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು ತ್ರಿಪದಿ ರೂಪಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q107",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ವಚನ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣನ ವಚನಗಳು",
+        "B": "ಹರಿಹರನ ರಗಳೆಗಳು",
+        "C": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "D": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನ ವಚನಗಳು ವಚನ ರೂಪಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q108",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕೀರ್ತನೆ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು",
+        "B": "ಹರಿಹರನ ರಗಳೆಗಳು",
+        "C": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+        "D": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸರ ಕೀರ್ತನೆಗಳು ಕೀರ್ತನೆ ರೂಪಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q109",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಸುಳಾದಿ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿದಾಸರ ಸುಳಾದಿಗಳು",
+        "B": "ಬಸವಣ್ಣನ ವಚನಗಳು",
+        "C": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+        "D": "ಹರಿಹರನ ರಗಳೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸರ ಸುಳಾದಿಗಳು ಸುಳಾದಿ ರೂಪಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q110",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಉಗಾಭೋಗ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿದಾಸರ ಉಗಾಭೋಗಗಳು",
+        "B": "ಬಸವಣ್ಣನ ವಚನಗಳು",
+        "C": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು",
+        "D": "ಹರಿಹರನ ರಗಳೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸರ ಉಗಾಭೋಗಗಳು ಉಗಾಭೋಗ ರೂಪಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q111",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲದಲ್ಲಿ ರಗೆ-ಷಟ್ಟಟ್ಟಿ-ಸಾಂಗತ್ಯ ಮೊದಲಾದ ಛಂದೋಪ್ರಕಾರಗಳ ಬಳಕೆ ಯಾವ ಲಕ್ಷಣಕ್ಕೆ ಸೇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ",
+        "B": "ಆಧುನಿಕ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "C": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "D": "ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಗೆ-ಷಟ್ಟಟ್ಟಿ-ಸಾಂಗತ್ಯ ಮೊದಲಾದ ಛಂದೋಪ್ರಕಾರಗಳ ಬಳಕೆ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q112",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜನಭಾಷೆಯ ಬಳಕೆ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಪ್ರಮುಖವಾಯಿತು?",
+      "options": {
+        "A": "ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯಲ್ಲಿ ಭಕ್ತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂದೇಶಗಳನ್ನು ತಲುಪಿಸಲು",
+        "B": "ಕೇವಲ ರಾಜರನ್ನು ಮೆಚ್ಚಿಸಲು",
+        "C": "ಸಂಸ್ಕೃತವನ್ನು ಬದಲಿಸಲು",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಪ್ರಯೋಗಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಭಾಷೆಯ ಬಳಕೆಯು ಜನಸಾಮಾನ್ಯರಿಗೆ ಭಕ್ತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಂದೇಶಗಳನ್ನು ತಲುಪಿಸಲು ಪ್ರಮುಖವಾಯಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q113",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿಯ ವೈಯಕ್ತಿಕ ಅನುಭವಕ್ಕೆ ಒತ್ತು ನೀಡುವುದು ಯಾವ ಕಾರಣಕ್ಕಾಗಿ?",
+      "options": {
+        "A": "ಶರಣರ ಪ್ರತ್ಯಕ್ಷ ಅನುಭವ ಮತ್ತು ಆತ್ಮಪರಿಶೀಲನೆಗೆ ಆದ್ಯತೆ ನೀಡಲು",
+        "B": "ಕೇವಲ ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನವನ್ನು ಪ್ರಚಾರ ಮಾಡಲು",
+        "C": "ರಾಜಕೀಯ ಅಧಿಕಾರವನ್ನು ಪಡೆಯಲು",
+        "D": "ಸಂಸ್ಕೃತ ಗ್ರಂಥಗಳನ್ನು ಅನುವಾದಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿಯ ವೈಯಕ್ತಿಕ ಅನುಭವಕ್ಕೆ ಒತ್ತು ನೀಡುವುದು ಶರಣರ ಪ್ರತ್ಯಕ್ಷ ಅನುಭವ ಮತ್ತು ಆತ್ಮಪರಿಶೀಲನೆಗೆ ಆದ್ಯತೆ ನೀಡಲು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q114",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜಾತಿ-ಲಿಂಗ ಅಸಮಾನತೆಯ ವಿರೋಧ ಯಾವ ಆಶಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+        "B": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಸುಧಾರಣೆ",
+        "D": "ಕೇವಲ ಆರ್ಥಿಕ ಅಭಿವೃದ್ಧಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾತಿ-ಲಿಂಗ ಅಸಮಾನತೆಯ ವಿರೋಧವು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯ ಆಶಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q115",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ತತ್ತ್ವ ಯಾವ ಆಶಯವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಶ್ರಮದ ಗೌರವ ಮತ್ತು ಸಂಪತ್ತಿನ ಹಂಚಿಕೆ",
+        "B": "ಕೇವಲ ಧ್ಯಾನ",
+        "C": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆ",
+        "D": "ಕೇವಲ ಪೂಜೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ತತ್ತ್ವವು ಶ್ರಮದ ಗೌರವ ಮತ್ತು ಸಂಪತ್ತಿನ ಹಂಚಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q116",
+      "subject": "Kannada",
+      "topic": "Anubhava Mantapa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅನುಭವ ಮಂಟಪದ ಚರ್ಚಾಪರಂಪರೆ ವಚನ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಗೆ ಹೇಗೆ ಕಾರಣವಾಯಿತು?",
+      "options": {
+        "A": "ಶರಣರ ಧಾರ್ಮಿಕ, ತಾತ್ವಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಚರ್ಚೆಗಳಿಗೆ ವೇದಿಕೆ ಒದಗಿಸಿತು",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ನಿರ್ಣಯಗಳನ್ನು ತೆಗೆದುಕೊಂಡಿತು",
+        "C": "ಸಂಸ್ಕೃತ ಗ್ರಂಥಗಳನ್ನು ರಚಿಸಿತು",
+        "D": "ಆಧುನಿಕ ಕವನಗಳನ್ನು ಪ್ರಕಟಿಸಿತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುಭವ ಮಂಟಪದ ಚರ್ಚಾಪರಂಪರೆ ಶರಣರ ಧಾರ್ಮಿಕ, ತಾತ್ವಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಚರ್ಚೆಗಳಿಗೆ ವೇದಿಕೆ ಒದಗಿಸಿ ವಚನ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾಯಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q117",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ 'ಕಾಯಕವೇ ಕೈಲಾಸ' ಆಶಯ ಯಾವ ತತ್ತ್ವವನ್ನು ಸಾರುತ್ತದೆ?",
+      "options": {
+        "A": "ಶ್ರಮದ ಗೌರವ ಮತ್ತು ಕಾಯಕದ ಮಹತ್ವ",
+        "B": "ಕೇವಲ ಧ್ಯಾನದ ಮಹತ್ವ",
+        "C": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆಯ ಮಹತ್ವ",
+        "D": "ಕೇವಲ ಪೂಜೆಯ ಮಹತ್ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಯಕವೇ ಕೈಲಾಸ ಆಶಯವು ಶ್ರಮದ ಗೌರವ ಮತ್ತು ಕಾಯಕದ ಮಹತ್ವವನ್ನು ಸಾರುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q118",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ 'ದಾಸೋಹ' ಆಶಯ ಯಾವ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಂಪತ್ತಿನ ಹಂಚಿಕೆ ಮತ್ತು ಸೇವೆ",
+        "B": "ಕೇವಲ ಧ್ಯಾನ",
+        "C": "ಕೇವಲ ಪೂಜೆ",
+        "D": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸೋಹ ಆಶಯವು ಸಂಪತ್ತಿನ ಹಂಚಿಕೆ ಮತ್ತು ಸೇವೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+        {
+      "id": "Q120",
+      "subject": "Kannada",
+      "topic": "Basavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನವರ 'ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿ' ಆಶಯ ಯಾವ ಅರ್ಥವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ವೈಯಕ್ತಿಕ ಭಕ್ತಿ ಮತ್ತು ಆಂತರಿಕ ಶುದ್ಧತೆ",
+        "B": "ಕೇವಲ ಬಾಹ್ಯ ಆಚರಣೆ",
+        "C": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆ",
+        "D": "ಕೇವಲ ಪೂಜೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿಯು ವೈಯಕ್ತಿಕ ಭಕ್ತಿ ಮತ್ತು ಆಂತರಿಕ ಶುದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q121",
+      "subject": "Kannada",
+      "topic": "Allamaprabhu",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭುವಿನ ವಚನಗಳಲ್ಲಿ ಮಾಯೆ ಮತ್ತು ಅಹಂಕಾರದ ವಿಮರ್ಶೆ ಯಾವ ಆಶಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಆತ್ಮಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಆಳ",
+        "B": "ಕೇವಲ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ನೀತಿ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಯೆ ಮತ್ತು ಅಹಂಕಾರದ ವಿಮರ್ಶೆ ಆತ್ಮಜ್ಞಾನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಅನುಭವದ ಆಳಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q122",
+      "subject": "Kannada",
+      "topic": "Akkamahadevi",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳಲ್ಲಿ ವೈರಾಗ್ಯ ಮತ್ತು ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ ಯಾವ ಆಶಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಲೌಕಿಕ ಬಂಧನಗಳ ತ್ಯಾಗ ಮತ್ತು ಸ್ತ್ರೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾಯತ್ತತೆ",
+        "B": "ಕೇವಲ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ನೀತಿ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೈರಾಗ್ಯ ಮತ್ತು ಆತ್ಮಸ್ವಾತಂತ್ರ್ಯ ಲೌಕಿಕ ಬಂಧನಗಳ ತ್ಯಾಗ ಮತ್ತು ಸ್ತ್ರೀಯ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾಯತ್ತತೆಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q123",
+      "subject": "Kannada",
+      "topic": "Siddharama",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಿದ್ಧರಾಮರನ್ನು 'ಸೊನ್ನಲಿಗೆಯ ಸಿದ್ಧರಾಮ' ಎಂದು ಏಕೆ ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅವರು ಸೊನ್ನಲಿಗೆಯಲ್ಲಿ ಜೀವಿಸಿದ್ದರು ಮತ್ತು ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದರು",
+        "B": "ಅವರು ಸೊನ್ನಲಿಗೆಯ ರಾಜನಾಗಿದ್ದರು",
+        "C": "ಅವರು ಸೊನ್ನಲಿಗೆಯಲ್ಲಿ ಜನಿಸಿದ್ದರು",
+        "D": "ಅವರು ಸೊನ್ನಲಿಗೆಯಲ್ಲಿ ವಚನಗಳನ್ನು ರಚಿಸಿದ್ದರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸೊನ್ನಲಿಗೆಯ ಸಿದ್ಧರಾಮರು 12ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಶರಣ, ವಚನಕಾರ ಮತ್ತು ಸಮಾಜಸೇವಕ. ಅವರು ಸೊನ್ನಲಿಗೆಯಲ್ಲಿ ಜೀವಿಸಿದ್ದರು ಮತ್ತು ಸೇವೆ ಸಲ್ಲಿಸಿದ್ದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q124",
+      "subject": "Kannada",
+      "topic": "Chennabasavanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಿನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುವ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಶರಣ ತತ್ವ, ಷಟ್ಸ್ಥಲ, ಲಿಂಗಾಂಗ ಸಾಮರಸ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಚಾರಗಳು",
+        "B": "ಕೇವಲ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ನೀತಿ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಿನ್ನಬಸವಣ್ಣನವರ ವಚನಗಳಲ್ಲಿ ಶರಣ ತತ್ವ, ಷಟ್ಸ್ಥಲ, ಲಿಂಗಾಂಗ ಸಾಮರಸ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಿಚಾರಗಳು ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q125",
+      "subject": "Kannada",
+      "topic": "Akkamma",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಯ್ಕೆಕ್ಕಿ ಲಕ್ಕಮ್ಮನ ವಚನಗಳು ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಸಾರುತ್ತವೆ?",
+      "options": {
+        "A": "ಕಾಯಕದ ನಿಷ್ಠೆ, ಪ್ರಾಮಾಣಿಕತೆ, ದಾಸೋಹ ಮತ್ತು ನೈತಿಕ ಜೀವನ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಯ್ಕೆಕ್ಕಿ ಲಕ್ಕಮ್ಮನ ವಚನಗಳು ಕಾಯಕದ ನಿಷ್ಠೆ, ಪ್ರಾಮಾಣಿಕತೆ, ದಾಸೋಹ ಮತ್ತು ನೈತಿಕ ಜೀವನದ ಮಹತ್ವವನ್ನು ಸಾರುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q126",
+      "subject": "Kannada",
+      "topic": "Ambigara Chowdayya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರ ವಚನಗಳ ವಿಶೇಷತೆ ಏನು?",
+      "options": {
+        "A": "ನೇರ, ತೀಕ್ಷ್ಮ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನ್ಯಾಯವನ್ನು ಪ್ರಶ್ನಿಸುವ ವಚನಗಳು",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಂಬಿಗರ ಚೌಡಯ್ಯನವರು ನೇರ, ತೀಕ್ಷ್ಮ ಮತ್ತು ಸಾಮಾಜಿಕ ಅನ್ಯಾಯವನ್ನು ಪ್ರಶ್ನಿಸುವ ವಚನಗಳಿಗೆ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q127",
+      "subject": "Kannada",
+      "topic": "Madivala Machideva",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಡಿವಾಳ ಮಾಚಿದೇವರು ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು?",
+      "options": {
+        "A": "ಕಾಯಕನಿಷ್ಠೆ, ಶರಣರ ಸೇವೆ, ಭಕ್ತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಡಿವಾಳ ಮಾಚಿದೇವರು ಕಾಯಕನಿಷ್ಠೆ, ಶರಣರ ಸೇವೆ, ಭಕ್ತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q128",
+      "subject": "Kannada",
+      "topic": "Dohara Kakkaya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡೋಹರ ಕಕ್ಕಯ್ಯನವರು ಯಾವ ಶರಣ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ತಳಸಮುದಾಯಗಳಿಗೆ ವಿಧಿಸಲಾದ ತಾರತಮ್ಯವನ್ನು ಮೀರಿ ಭಕ್ತಿ ಮತ್ತು ಆತ್ಮಾನುಭವಕ್ಕೆ ಮಹತ್ವ ನೀಡಿದ ಶರಣ ಪರಂಪರೆ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ಪರಂಪರೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಪರಂಪರೆ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡೋಹರ ಕಕ್ಕಯ್ಯರು ಸಮಾಜದಲ್ಲಿ ತಳಸಮುದಾಯಗಳಿಗೆ ವಿಧಿಸಲಾದ ತಾರತಮ್ಯವನ್ನು ಮೀರಿ ಭಕ್ತಿ ಮತ್ತು ಆತ್ಮಾನುಭವಕ್ಕೆ ಮಹತ್ವ ನೀಡಿದ ಶರಣ ಪರಂಪರೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q129",
+      "subject": "Kannada",
+      "topic": "Jedara Dasimayya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜೇಡರ ದಾಸಿಮಯ್ಯನವರನ್ನು ಯಾವ ಸಾಲಿನಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಆರಂಭಿಕ ವಚನಕಾರರ ಸಾಲು",
+        "B": "ಆಧುನಿಕ ಕವಿಗಳ ಸಾಲು",
+        "C": "ಹರಿದಾಸರ ಸಾಲು",
+        "D": "ಜೈನ ಕವಿಗಳ ಸಾಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೇಡರ ದಾಸಿಮಯ್ಯರನ್ನು ಕೆಲವೊಮ್ಮೆ ಆರಂಭಿಕ ವಚನಕಾರರ ಸಾಲಿನಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q130",
+      "subject": "Kannada",
+      "topic": "Hadapada Appanna",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಡಪದ ಅಪ್ಪಣ್ಣನವರನ್ನು ಯಾರ ಆಪ್ತ ಸಹಚರರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಬಸವಣ್ಣನವರ ಆಪ್ತ ಸಹಚರರು",
+        "B": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಆಪ್ತ ಸಹಚರರು",
+        "C": "ಅಕ್ಕಮಹಾದೇವಿಯ ಆಪ್ತ ಸಹಚರರು",
+        "D": "ಸಿದ್ಧರಾಮರ ಆಪ್ತ ಸಹಚರರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಡಪದ ಅಪ್ಪಣ್ಣರು ಶರಣ ಚಳವಳಿಯ ವಚನಕಾರ ಮತ್ತು ಬಸವಣ್ಣನವರ ಆಪ್ತ ಸಹಚರರೆಂದು ಪರಂಪರೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಡುತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q131",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸ ಚಳವಳಿ ವಿಶೇಷವಾಗಿ ಯಾವ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ವಿಸ್ತರಿಸಿತು?",
+      "options": {
+        "A": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ",
+        "B": "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+        "C": "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ",
+        "D": "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ಹರಿದಾಸ ಚಳವಳಿ ವಿಶೇಷವಾಗಿ ವಿಸ್ತರಿಸಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q132",
+      "subject": "Kannada",
+      "topic": "Purandara Dasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರನ್ನು ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ ಎಂದು ಕರೆಯಲು ಮುಖ್ಯ ಕಾರಣವೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ಶಿಕ್ಷಣಪದ್ಧತಿಯನ್ನು ಕ್ರಮಬದ್ಧಗೊಳಿಸಿದ್ದು",
+        "B": "ಅವರು ರಾಜನಾಗಿದ್ದರು",
+        "C": "ಅವರು ವಚನಗಳನ್ನು ರಚಿಸಿದರು",
+        "D": "ಅವರು ಸಂಸ್ಕೃತ ಕಾವ್ಯಗಳನ್ನು ರಚಿಸಿದರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ಶಿಕ್ಷಣಪದ್ಧತಿಯನ್ನು ಕ್ರಮಬದ್ಧಗೊಳಿಸುವಲ್ಲಿ ಪುರಂದರದಾಸರ ಕೊಡುಗೆ ಮಹತ್ವದ್ದೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q133",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಕೃತಿಗಳಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುವ ವಿಷಯಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ಸಮಾನತೆ, ಜಾತಿಭೇದದ ವಿಮರ್ಶೆ ಮತ್ತು ನೈತಿಕ ಚಿಂತನೆ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಸಂಗೀತ ಸಿದ್ಧಾಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನಕದಾಸರ ಕೃತಿಗಳಲ್ಲಿ ಭಕ್ತಿ, ಸಮಾನತೆ, ಜಾತಿಭೇದದ ವಿಮರ್ಶೆ ಮತ್ತು ನೈತಿಕ ಚಿಂತನೆ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q134",
+      "subject": "Kannada",
+      "topic": "Vijayadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಜಯದಾಸರು ದಾಸಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದ ರೀತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ತತ್ತ್ವಜ್ಞಾನ ಮತ್ತು ಸರಳ ಕನ್ನಡ ಪದಗಳ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಶ್ಲೋಕಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ವಚನಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಗಳೆಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜಯದಾಸರು ಭಕ್ತಿ, ತತ್ತ್ವಜ್ಞಾನ ಮತ್ತು ಸರಳ ಕನ್ನಡ ಪದಗಳ ಮೂಲಕ ದಾಸಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q135",
+      "subject": "Kannada",
+      "topic": "Gopaladasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗೋಪಾಲದಾಸರ ಕೀರ್ತನೆಗಳಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುವ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ತತ್ತ್ವ ಮತ್ತು ನೈತಿಕ ಸಂದೇಶ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಸಂಗೀತ ಸಿದ್ಧಾಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೋಪಾಲದಾಸರ ಕೀರ್ತನೆಗಳಲ್ಲಿ ಭಕ್ತಿ, ತತ್ತ್ವ ಮತ್ತು ನೈತಿಕ ಸಂದೇಶಗಳು ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q136",
+      "subject": "Kannada",
+      "topic": "Jagannathadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿಕಥಾಮೃತಸಾರ ಕೃತಿಯು ಯಾವ ತತ್ತ್ವವನ್ನು ವಿವರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ದ್ವೈತ ವೇದಾಂತದ ತತ್ತ್ವಗಳನ್ನು ಸರಳ ಕನ್ನಡದಲ್ಲಿ",
+        "B": "ಅದ್ವೈತ ವೇದಾಂತವನ್ನು ಸಂಸ್ಕೃತದಲ್ಲಿ",
+        "C": "ಜೈನ ತತ್ತ್ವವನ್ನು",
+        "D": "ಬೌದ್ಧ ತತ್ತ್ವವನ್ನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಕಥಾಮೃತಸಾರವು ದ್ವೈತ ವೇದಾಂತದ ತತ್ತ್ವಗಳನ್ನು ಸರಳ ಕನ್ನಡದಲ್ಲಿ ವಿವರಿಸುವ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q137",
+      "subject": "Kannada",
+      "topic": "Prasanna Venkatadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಕೀರ್ತನೆಗಳು ಯಾವ ಅಂಶಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಕ್ತಿ ಮತ್ತು ತತ್ತ್ವ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು",
+        "D": "ಕೇವಲ ಸಂಗೀತ ಸಿದ್ಧಾಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಸನ್ನ ವೆಂಕಟದಾಸರ ಕೀರ್ತನೆಗಳು ಭಕ್ತಿ ಮತ್ತು ತತ್ತ್ವವನ್ನು ಕನ್ನಡದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q138",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೀರ್ತನೆಯ ರಚನೆಯಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣುವ ವಿಭಾಗಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪಲ್ಲವಿ, ಅನುಪಲ್ಲವಿ ಮತ್ತು ಚರಣ",
+        "B": "ಪಲ್ಲವಿ ಮತ್ತು ಚರಣ ಮಾತ್ರ",
+        "C": "ಅನುಪಲ್ಲವಿ ಮತ್ತು ಚರಣ ಮಾತ್ರ",
+        "D": "ಪಲ್ಲವಿ, ಅನುಪಲ್ಲವಿ, ಚರಣ ಮತ್ತು ತಾಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪಲ್ಲವಿ, ಅನುಪಲ್ಲವಿ ಮತ್ತು ಚರಣಗಳ ವಿಭಾಗ ಸಾಮಾನ್ಯವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q139",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸುಳಾದಿಯ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ವಿವಿಧ ತಾಳಗಳ ಬಳಕೆ",
+        "B": "ಕೇವಲ ಒಂದು ತಾಳದ ಬಳಕೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಳಾದಿಯಲ್ಲಿ ವಿವಿಧ ತಾಳಗಳ ಬಳಕೆ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q140",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಉಗಾಭೋಗದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಸ್ವತಂತ್ರವಾಗಿ ಹರಿಯುವ ಭಕ್ತಿಪೂರ್ಣ ಸಂಗೀತಾತ್ಮಕ ರಚನೆ",
+        "B": "ಕೇವಲ ಒಂದು ತಾಳದ ಬಳಕೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಉಗಾಭೋಗವು ನಿರ್ದಿಷ್ಟ ಕಟ್ಟುಪಾಡಿನ ಪಲ್ಲವಿ-ಚರಣ ವಿಭಾಗವಿಲ್ಲದೆ, ಸ್ವತಂತ್ರವಾಗಿ ಹರಿಯುವ ಭಕ್ತಿಪೂರ್ಣ ಸಂಗೀತಾತ್ಮಕ ರಚನೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q141",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದೇವರನಾಮದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವರ ನಾಮ, ಗುಣ, ಭಕ್ತಿ ಮತ್ತು ನೀತಿಯನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪಿಸುವುದು",
+        "B": "ಕೇವಲ ಒಂದು ತಾಳದ ಬಳಕೆ",
+        "C": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರನಾಮವು ದೇವರ ನಾಮ, ಗುಣ, ಭಕ್ತಿ ಮತ್ತು ನೀತಿಯನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪಿಸುವ ಕನ್ನಡ ಭಕ್ತಿಗೀತೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q142",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸರ ಅಂಕಿತನಾಮದ ಪ್ರಮುಖ ಉದ್ದೇಶ ಯಾವುದು?",
+      "options": {
+        "A": "ರಚಯಿತ್ಯನನ್ನು ಗುರುತಿಸಲು ನೆರವಾಗುವುದು",
+        "B": "ಕೀರ್ತನೆಯನ್ನು ಉದ್ದವಾಗಿಸುವುದು",
+        "C": "ಸಂಗೀತವನ್ನು ಸುಲಭಗೊಳಿಸುವುದು",
+        "D": "ತಾಳವನ್ನು ನಿರ್ಧರಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸರ ಅಂಕಿತನಾಮವು ರಚಯಿತ್ಯನನ್ನು ಗುರುತಿಸಲು ನೆರವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q143",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯವು ಕರ್ನಾಟಕ ಸಂಗೀತದ ಬೆಳವಣಿಗೆಗೆ ನೀಡಿದ ಕೊಡುಗೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ ಮತ್ತು ಉಗಾಭೋಗಗಳ ಮೂಲಕ ಸಂಗೀತ ಪರಂಪರೆಯನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿತು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಕೊಡುಗೆ ನೀಡಿತು",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕೊಡುಗೆ ನೀಡಿತು",
+        "D": "ಕೇವಲ ಸಾಮಾಜಿಕ ಕೊಡುಗೆ ನೀಡಿತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯವು ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ ಮತ್ತು ಉಗಾಭೋಗಗಳ ಮೂಲಕ ಕರ್ನಾಟಕ ಸಂಗೀತ ಪರಂಪರೆಯನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿತು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q144",
+      "subject": "Kannada",
+      "topic": "Kanakadasa",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಮಧಾನ್ಯ ಚರಿತೆಯಲ್ಲಿ ಯಾವ ಎರಡು ಧಾನ್ಯಗಳ ಕಥೆ ಇದೆ?",
+      "options": {
+        "A": "ರಾಗಿ ಮತ್ತು ಭತ್ತ",
+        "B": "ಗೋಧಿ ಮತ್ತು ಭತ್ತ",
+        "C": "ರಾಗಿ ಮತ್ತು ಗೋಧಿ",
+        "D": "ಭತ್ತ ಮತ್ತು ಕಡಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಮಧಾನ್ಯ ಚರಿತೆಯಲ್ಲಿ ರಾಗಿ ಮತ್ತು ಭತ್ತದ ಕಥೆಯ ಮೂಲಕ ಆಹಾರ, ಶ್ರಮ, ಸಾಮಾಜಿಕ ಮೌಲ್ಯ ಮತ್ತು ಸಮಾನತೆಯ ವಿಚಾರಗಳನ್ನು ರೂಪಕಾತ್ಮಕವಾಗಿ ನಿರೂಪಿಸಲಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q145",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯನ್ನು ಯಾವ ಇನ್ನೊಂದು ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಗದುಗಿನ ಭಾರತ",
+        "B": "ತೊರವೆ ರಾಮಾಯಣ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ಭರತೇಶ ವೈಭವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯನ್ನು ಗದುಗಿನ ಭಾರತ ಎಂದೂ ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+        {
+      "id": "Q146",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುಮಾರವ್ಯಾಸನ ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಯಾವ ಛಂದಸ್ಸಿನಲ್ಲಿ ರಚಿತವಾಗಿದೆ?",
+      "options": {
+        "A": "ಭಾಮಿನಿ ಷಟ್ಟದಿ",
+        "B": "ರಗಳೆ",
+        "C": "ತ್ರಿಪದಿ",
+        "D": "ಸಾಂಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಭಾಮಿನಿ ಷಟ್ಟದಿ ಛಂದಸ್ಸಿನಲ್ಲಿ ರಚಿತವಾಗಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q147",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ಯಾವ ಪರಂಪರೆಗೆ ಸೇರಿದ ಕಾವ್ಯ?",
+      "options": {
+        "A": "ವೀರಶೈವ ಪರಂಪರೆ",
+        "B": "ವೈಷ್ಣವ ಪರಂಪರೆ",
+        "C": "ಜೈನ ಪರಂಪರೆ",
+        "D": "ಬೌದ್ಧ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ವೀರಶೈವ ಪರಂಪರೆಗೆ ಸೇರಿದ ಪ್ರಸಿದ್ಧ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q148",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೊರವೆ ರಾಮಾಯಣ ಯಾವ ಛಂದಸ್ಸಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಷಟ್ಟದಿ",
+        "B": "ರಗಳೆ",
+        "C": "ತ್ರಿಪದಿ",
+        "D": "ಸಾಂಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಷಟ್ಟದಿ ಛಂದಸ್ಸಿಗೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q149",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಭರತೇಶ ವೈಭವ ಕಾವ್ಯವು ಯಾವ ಪರಂಪರೆಗೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಜೈನ ಪರಂಪರೆ",
+        "B": "ವೀರಶೈವ ಪರಂಪರೆ",
+        "C": "ವೈಷ್ಣವ ಪರಂಪರೆ",
+        "D": "ಬೌದ್ಧ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದ ಸಾಂಗತ್ಯ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q150",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಡಕ್ಷರದೇವರು ಯಾವ ದೇವತೆಯ ಭಕ್ತರಾಗಿದ್ದರು?",
+      "options": {
+        "A": "ಶಿವ",
+        "B": "ವಿಷ್ಣು",
+        "C": "ಜಿನ",
+        "D": "ಬುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಡಕ್ಷರದೇವರು ನಡುಗನ್ನಡ ಕಾಲದ ಶೈವ ಕವಿ. ರಾಜಶೇಖರವಿಲಾಸ ಮತ್ತು ಶಬರಶಂಕರವಿಲಾಸ ಅವರ ಪ್ರಮುಖ ಕೃತಿಗಳು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q151",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳ ರಚನೆಯ ವೈಶಿಷ್ಟ್ಯ ಏನು?",
+      "options": {
+        "A": "ಮೂರು ಸಾಲುಗಳ ಸಂಕ್ಷಿಪ್ತ ರಚನೆಯಲ್ಲಿ ಗಾಢವಾದ ಜೀವನಸಂದೇಶ",
+        "B": "ನಾಲ್ಕು ಸಾಲುಗಳ ರಚನೆ",
+        "C": "ಐದು ಸಾಲುಗಳ ರಚನೆ",
+        "D": "ಆರು ಸಾಲುಗಳ ರಚನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರ್ವಜ್ಞನ ತ್ರಿಪದಿಗಳು ಮೂರು ಸಾಲುಗಳ ಸಂಕ್ಷಿಪ್ತ ರಚನೆಯಲ್ಲಿ ಗಾಢವಾದ ಜೀವನಸಂದೇಶವನ್ನು ನೀಡುತ್ತವೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q152",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪನವರು ಯಾವ ಸಾಹಿತ್ಯಕಾಲಕ್ಕೆ ಸೇರಿದವರು?",
+      "options": {
+        "A": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+        "B": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "C": "ಹಳೆಗನ್ನಡ ಸಾಹಿತ್ಯ",
+        "D": "ವಚನ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪನವರು 20ನೇ ಶತಮಾನದ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತಿ, ಚಿಂತಕ ಮತ್ತು ಪತ್ರಕರ್ತ. ಅವರು ನಡುಗನ್ನಡ ಕವಿ ಅಲ್ಲ; ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q153",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ ಯಾವ ರೂಪದಲ್ಲಿ ರಚಿತವಾಗಿದೆ?",
+      "options": {
+        "A": "ಚೌಪದಿ/ಕಗ್ಗ",
+        "B": "ತ್ರಿಪದಿ",
+        "C": "ರಗಳೆ",
+        "D": "ಸಾಂಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗವು ಜೀವನತ್ವ, ನೀತಿ, ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಮಾನವಾನುಭವಗಳನ್ನು ಚೌಪದಿ/ಕಗ್ಗ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q154",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ಯಾವ ಕವಿಗಳನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳೆಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು?",
+      "options": {
+        "A": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಕುಮಾರವ್ಯಾಸ, ಲಕ್ಷ್ಮೀಶ, ಚಾಮರಸ, ಸರ್ವಜ್ಞ",
+        "B": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ",
+        "D": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ, ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಕುಮಾರವ್ಯಾಸ, ಲಕ್ಷ್ಮೀಶ, ಚಾಮರಸ, ಸರ್ವಜ್ಞ ಮುಂತಾದವರನ್ನು ಹಳಗನ್ನಡದ ಕವಿಗಳೆಂದು ತಪ್ಪಾಗಿ ವರ್ಗೀಕರಿಸಬಾರದು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q155",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಲು ಯಾವ ಅಂಶಗಳನ್ನು ಜೋಡಿಸಿ ಓದಬೇಕು?",
+      "options": {
+        "A": "ಕಾಲಘಟ್ಟ, ಸಾಹಿತ್ಯಧಾರೆ, ಪ್ರಮುಖ ಕೃತಿ, ಛಂದಸ್ಸು/ರೂಪ ಮತ್ತು ಅಂಕಿತನಾಮ ಅಥವಾ ಬಿರುದು",
+        "B": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳು",
+        "C": "ಕೇವಲ ಕೃತಿಗಳ ಹೆಸರುಗಳು",
+        "D": "ಕೇವಲ ಕಾಲಘಟ್ಟಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿ ಕವಿಗೆ ಕಾಲಘಟ್ಟ, ಸಾಹಿತ್ಯಧಾರೆ, ಪ್ರಮುಖ ಕೃತಿ, ಛಂದಸ್ಸು/ರೂಪ ಮತ್ತು ಅಂಕಿತನಾಮ ಅಥವಾ ಬಿರುದನ್ನು ಜೋಡಿಸಿ ಓದಬೇಕು.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q156",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆಗಳಲ್ಲಿ ಒಂದಾದ ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯಕ್ಕೆ ಸೇರಿದ ಕವಿ ಯಾರು?",
+      "options": {
+        "A": "ಚಾಮರಸ",
+        "B": "ಪುರಂದರದಾಸ",
+        "C": "ಕನಕದಾಸ",
+        "D": "ಸರ್ವಜ್ಞ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಾಮರಸನ ಪ್ರಭುಲಿಂಗಲೀಲೆ ಶೈವ-ವೀರಶೈವ ಕಾವ್ಯಕ್ಕೆ ಪ್ರಮುಖ ಉದಾಹರಣೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q157",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಂಕಿತನಾಮದ ಬಳಕೆ ಯಾವ ಉದ್ದೇಶಕ್ಕಾಗಿ ಮಾಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ವಚನಕಾರರನ್ನು ಗುರುತಿಸಲು",
+        "B": "ವಚನವನ್ನು ಉದ್ದವಾಗಿಸಲು",
+        "C": "ಛಂದಸ್ಸನ್ನು ನಿರ್ಧರಿಸಲು",
+        "D": "ತಾಳವನ್ನು ನಿರ್ಧರಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನದ ಕೊನೆಯಲ್ಲಿ ವಚನಕಾರನು ತನ್ನ ಆರಾಧ್ಯ ದೈವ ಅಥವಾ ಆಧ್ಯಾತ್ಮಿಕ ಗುರುತನ್ನು ಸೂಚಿಸಲು ಬಳಸುವ ಹೆಸರನ್ನು ಅಂಕಿತನಾಮ ಎನ್ನತ್ತಾರೆ. ಇದು ವಚನಕಾರರನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q158",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಯಾವ ರೀತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಜಾತಿ, ಲಿಂಗ, ಅಸಮಾನತೆ ಮತ್ತು ಆಡಂಬರದ ವಿರುದ್ಧದ ಟೀಕೆಗಳ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಜಾತಿ, ಲಿಂಗ, ಅಸಮಾನತೆ ಮತ್ತು ಆಡಂಬರದ ವಿರುದ್ಧದ ಟೀಕೆಗಳ ಮೂಲಕ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q159",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಆತ್ಮಪರಿಶೀಲನೆ ಯಾವ ರೀತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸ್ವಂತ ದೋಷಗಳನ್ನು ಅರಿತು ಸುಧಾರಿಸಿಕೊಳ್ಳುವ ಆಶಯದ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಸ್ವಂತ ದೋಷಗಳನ್ನು ಅರಿತು ಸುಧಾರಿಸಿಕೊಳ್ಳುವ ಆಶಯದ ಮೂಲಕ ಆತ್ಮಪರಿಶೀಲನೆ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q160",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿ ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿ ಮತ್ತು ಆಂತರಿಕ ಶುದ್ಧತೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಬಾಹ್ಯ ಆಚರಣೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಪೂಜೆಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಇಷ್ಟಲಿಂಗ ಭಕ್ತಿ ಮತ್ತು ಆಂತರಿಕ ಶುದ್ಧತೆಯ ಮೂಲಕ ಭಕ್ತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 2"
+    },
+    {
+      "id": "Q161",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ನೀತಿ ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸತ್ಯನಿಷ್ಠೆ, ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ನೈತಿಕ ಜೀವನದ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಸತ್ಯನಿಷ್ಠೆ, ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ನೈತಿಕ ಜೀವನದ ಮೂಲಕ ನೀತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q162",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವಚನ ಮತ್ತು ದಾಸಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ ಯಾವ ಲಕ್ಷಣಕ್ಕೆ ಸೇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ",
+        "B": "ಆಧುನಿಕ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "C": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "D": "ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನ ಮತ್ತು ದಾಸಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q163",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವೈವಿಧ್ಯಮಯ ಕಥನರೂಪಗಳ ಬಳಕೆ ಯಾವ ಲಕ್ಷಣಕ್ಕೆ ಸೇರುತ್ತದೆ?",
+      "options": {
+        "A": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ",
+        "B": "ಆಧುನಿಕ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "C": "ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ",
+        "D": "ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೈವಿಧ್ಯಮಯ ಕಥನರೂಪಗಳು ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q164",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿ ಚಳವಳಿಗಳ ಪ್ರಭಾವ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ವಚನ ಮತ್ತು ದಾಸ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಕಾವ್ಯಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಕ್ತಿ ಚಳವಳಿಗಳ ಪ್ರಭಾವವು ವಚನ ಮತ್ತು ದಾಸ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯ ಮೂಲಕ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q165",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಯ ಆಶಯ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜಾತಿ, ಲಿಂಗ, ಅಸಮಾನತೆ ಮತ್ತು ಆಡಂಬರದ ವಿರುದ್ಧದ ವಿಮರ್ಶೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಕಾವ್ಯಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾಜಿಕ-ಧಾರ್ಮಿಕ ಸುಧಾರಣೆಯ ಆಶಯವು ಜಾತಿ, ಲಿಂಗ, ಅಸಮಾನತೆ ಮತ್ತು ಆಡಂಬರದ ವಿರುದ್ಧದ ವಿಮರ್ಶೆಯ ಮೂಲಕ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q166",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜನಭಾಷೆಯ ಬಳಕೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯ ಬಳಕೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಭಾಷೆಯ ಬಳಕೆಯ ಮೂಲಕ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಭಾಷೆಯ ಬಳಕೆಯ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಪುರಾಣ ಭಾಷೆಯ ಬಳಕೆಯ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಭಾಷೆಯ ಬಳಕೆಯು ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಅರ್ಥವಾಗುವ ಭಾಷೆಯ ಬಳಕೆಯ ಮೂಲಕ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q167",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ನೇರ ಅಭಿವ್ಯಕ್ತಿ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಅಲಂಕಾರಿಕ ಆಡಂಬರವಿಲ್ಲದೆ ನೇರವಾಗಿ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುವುದರ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಅಲಂಕಾರಿಕ ಭಾಷೆಯ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಶ್ಲೋಕಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಅಲಂಕಾರಿಕ ಆಡಂಬರವಿಲ್ಲದೆ ನೇರವಾಗಿ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುವುದರ ಮೂಲಕ ನೇರ ಅಭಿವ್ಯಕ್ತಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q168",
+      "subject": "Kannada",
+      "topic": "Vachana Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅನುಭವದ ಪ್ರಾಮಾಣಿಕತೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಶರಣರ ಪ್ರತ್ಯಕ್ಷ ಅನುಭವ ಮತ್ತು ಆತ್ಮಪರಿಶೀಲನೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಶಾಸ್ತ್ರೀಯ ಜ್ಞಾನದ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಗಳಲ್ಲಿ ಶರಣರ ಪ್ರತ್ಯಕ್ಷ ಅನುಭವ ಮತ್ತು ಆತ್ಮಪರಿಶೀಲನೆಯ ಮೂಲಕ ಅನುಭವದ ಪ್ರಾಮಾಣಿಕತೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q169",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ನಾಮಸ್ಮರಣೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ದೇವರನಾಮ, ಕೀರ್ತನೆ ಮತ್ತು ಸುಳಾದಿಗಳ ಮೂಲಕ",
+        "B": "ಕೇವಲ ವಚನಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ದೇವರನಾಮ, ಕೀರ್ತನೆ ಮತ್ತು ಸುಳಾದಿಗಳ ಮೂಲಕ ನಾಮಸ್ಮರಣೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q170",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಂಗೀತಮಯತೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ ಮತ್ತು ಉಗಾಭೋಗಗಳ ಮೂಲಕ",
+        "B": "ಕೇವಲ ವಚನಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕೀರ್ತನೆ, ದೇವರನಾಮ, ಸುಳಾದಿ ಮತ್ತು ಉಗಾಭೋಗಗಳ ಮೂಲಕ ಸಂಗೀತಮಯತೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q171",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಮಾನವದೋಷಗಳ, ಅನ್ಯಾಯದ ಮತ್ತು ಅಸಮಾನತೆಯ ವಿಮರ್ಶೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಾನವದೋಷಗಳ, ಅನ್ಯಾಯದ ಮತ್ತು ಅಸಮಾನತೆಯ ವಿಮರ್ಶೆಯ ಮೂಲಕ ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+        {
+      "id": "Q172",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭಕ್ತಿ ಯಾವ ರೂಪದಲ್ಲಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ವಿಠಲನ ಮೇಲಿನ ಶರಣಾಗತಿ ಮತ್ತು ನಾಮಸ್ಮರಣೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಬಾಹ್ಯ ಆಚರಣೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ತೀರ್ಥಯಾತ್ರೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಪೂಜೆಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ವಿಠಲನ ಮೇಲಿನ ಶರಣಾಗತಿ ಮತ್ತು ನಾಮಸ್ಮರಣೆಯ ಮೂಲಕ ಭಕ್ತಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 4"
+    },
+    {
+      "id": "Q173",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ನೈತಿಕ ಬೋಧನೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ನೀತಿಕಥೆ, ದಯೆ, ಸಮಾನತೆ ಮತ್ತು ಅಹಂಕಾರದ ತ್ಯಾಗದ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ನೀತಿಕಥೆ, ದಯೆ, ಸಮಾನತೆ ಮತ್ತು ಅಹಂಕಾರದ ತ್ಯಾಗದ ಮೂಲಕ ನೈತಿಕ ಬೋಧನೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q174",
+      "subject": "Kannada",
+      "topic": "Dasa Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಾನವೀಯತೆ ಯಾವ ರೀತಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಮಾನತೆ, ದಯೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆಯ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳ ಮೂಲಕ",
+        "C": "ಕೇವಲ ಪುರಾಣ ಕಥೆಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸಮಾನತೆ, ದಯೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಮರ್ಶೆಯ ಮೂಲಕ ಮಾನವೀಯತೆ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q175",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ವಚನಕಾರರು-ಅಂಕಿತನಾಮಗಳ ಜೋಡಣೆ ಯಾಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಲು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "C": "ಕೇವಲ ಐತಿಹಾಸಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಸಕ್ತಿಗಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಶೇಷವಾಗಿ ವಚನಕಾರರು-ಅಂಕಿತನಾಮಗಳು, ಹರಿದಾಸರು-ಅಂಕಿತನಾಮಗಳು ಮತ್ತು ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸುವುದು ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q176",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ಹರಿದಾಸರು-ಅಂಕಿತನಾಮಗಳ ಜೋಡಣೆ ಯಾಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಲು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "C": "ಕೇವಲ ಐತಿಹಾಸಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಸಕ್ತಿಗಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸರು-ಅಂಕಿತನಾಮಗಳ ಜೋಡಣೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸುವುದು ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q177",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಅಧ್ಯಯನದಲ್ಲಿ ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳ ಜೋಡಣೆ ಯಾಕೆ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಹೆಚ್ಚಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಲು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "C": "ಕೇವಲ ಐತಿಹಾಸಿಕ ಆಸಕ್ತಿಗಾಗಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಸಕ್ತಿಗಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸುವುದು ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q178",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಶರಣ ಚಳವಳಿಯ ಪ್ರಭಾವ ಯಾವ ಸಾಹಿತ್ಯಧಾರೆಯಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ದಾಸ ಸಾಹಿತ್ಯ",
+        "C": "ರಗಳೆ ಸಾಹಿತ್ಯ",
+        "D": "ತ್ರಿಪದಿ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶರಣ ಚಳವಳಿಯ ಪ್ರಭಾವ ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q179",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವೈಷ್ಣವ ಭಕ್ತಿ ಪರಂಪರೆಯ ಪ್ರಭಾವ ಯಾವ ಸಾಹಿತ್ಯಧಾರೆಯಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ದಾಸ ಸಾಹಿತ್ಯ",
+        "B": "ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ರಗಳೆ ಸಾಹಿತ್ಯ",
+        "D": "ತ್ರಿಪದಿ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೈಷ್ಣವ ಭಕ್ತಿ ಪರಂಪರೆಯ ಪ್ರಭಾವ ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q180",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಾಧ್ವ ತತ್ತ್ವದ ಪ್ರಭಾವ ಯಾವ ಸಾಹಿತ್ಯಧಾರೆಯಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ದಾಸ ಸಾಹಿತ್ಯ",
+        "B": "ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ರಗಳೆ ಸಾಹಿತ್ಯ",
+        "D": "ತ್ರಿಪದಿ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಧ್ವ ತತ್ತ್ವದ ಪ್ರಭಾವ ದಾಸ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 3"
+    },
+    {
+      "id": "Q181",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಶಿವಭಕ್ತಿ ಯಾವ ಸಾಹಿತ್ಯಧಾರೆಯಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ದಾಸ ಸಾಹಿತ್ಯ",
+        "C": "ರಗಳೆ ಸಾಹಿತ್ಯ",
+        "D": "ತ್ರಿಪದಿ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವಭಕ್ತಿ ವಚನ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಧಾನವಾಗಿ ಕಾಣುತ್ತದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 1"
+    },
+    {
+      "id": "Q182",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈನ ಪರಂಪರೆಯ ಪ್ರಭಾವ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "D": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದ ಸಾಂಗತ್ಯ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q183",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವೀರಶೈವ ಪರಂಪರೆಯ ಪ್ರಭಾವ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "D": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ವೀರಶೈವ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q184",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಭಾವ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q185",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತ ಪರಂಪರೆಯ ಪ್ರಭಾವ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q186",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q187",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q188",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q189",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q190",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q191",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q192",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q193",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q194",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q195",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q196",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q197",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q198",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q199",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+        {
+      "id": "Q200",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q201",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q202",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q203",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q204",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q205",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q206",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q207",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q208",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q209",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q210",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q211",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q212",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q213",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q214",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q215",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q216",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q217",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q218",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q219",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q220",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q221",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q222",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q223",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q224",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q225",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q226",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q227",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+        {
+      "id": "Q228",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q229",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q230",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q231",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q232",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q233",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q234",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q235",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q236",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q237",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q238",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q239",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q240",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q241",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q242",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q243",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q244",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q245",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮಹಾಭಾರತದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಮಹಾಭಾರತಾಧಾರಿತ ಪ್ರಸಿದ್ಧ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q246",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಜೈಮಿನಿ ಭಾರತ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈಮಿನಿ ಭಾರತವು ಜೈಮಿನಿ ಅಶ್ವಮೇಧ ಪರ್ವದ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q247",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಭರತೇಶ ವೈಭವ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭರತೇಶ ವೈಭವವು ಜೈನ ಪರಂಪರೆಯ ಭರತ ಚಕ್ರವರ್ತಿಯ ಕಥೆಯನ್ನು ಆಧರಿಸಿದೆ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    },
+    {
+      "id": "Q248",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "B": "ಭರತೇಶ ವೈಭವ",
+        "C": "ಜೈಮಿನಿ ಭಾರತ",
+        "D": "ತೊರವೆ ರಾಮಾಯಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಭುಲಿಂಗಲೀಲೆ ಅಲ್ಲಮಪ್ರಭುವಿನ ಜೀವನ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹಿಮೆಯನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ವೀರಶೈವ ಕಾವ್ಯ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q249",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಶ್ಚಂದ್ರನ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯವು ಸತ್ಯನಿಷ್ಠೆ, ವಚನಪಾಲನೆ, ಧರ್ಮಸಂಕಟ ಮತ್ತು ತ್ಯಾಗವನ್ನು ಚಿತ್ರಿಸುವ ಪ್ರಸಿದ್ಧ ಷಟ್ಟದಿ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 5"
+    },
+    {
+      "id": "Q250",
+      "subject": "Kannada",
+      "topic": "Nadugannada Sahitya",
+      "chapter": "Nadugannada Sahitya",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಮಾಯಣದ ಕಥೆ ಯಾವ ಕಾವ್ಯದಲ್ಲಿ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "ತೊರವೆ ರಾಮಾಯಣ",
+        "B": "ಪ್ರಭುಲಿಂಗಲೀಲೆ",
+        "C": "ಭರತೇಶ ವೈಭವ",
+        "D": "ಜೈಮಿನಿ ಭಾರತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೊರವೆ ರಾಮಾಯಣವು ಕನ್ನಡದ ರಾಮಾಯಣ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Nadugannada_Sahityaa.pdf, Page 6"
+    }
+  ]
+}

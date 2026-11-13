@@ -1,0 +1,2601 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Question bank on Kannada Sahitya Charitre Kalavibhaga (Chapter 23) — compiled from the prescribed PDF. Covers origin, antiquity, Halegannada, Nadugannada, Hosagannada, religious literature (Jaina, Veerashaiva, Vaishnava, Shaiva), literary movements, and exam strategy. Verify against the prescribed textbook before formal use.",
+  "sourcePdf": "Sahitya_Charitre_Kalavibhaga.pdf",
+  "chapter": "Chapter 23 — Kannada Sahitya Kalavibhaga",
+  "questions": [
+    {
+      "id": "KLV001",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಉಗಮ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೇವಲ ಶಾಸನಗಳ ಸಂಗ್ರಹ",
+        "B": "ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಮೌಖಿಕವಾಗಿ ಮತ್ತು ಲಿಖಿತವಾಗಿ ರೂಪುಗೊಂಡ ಸಾಹಿತ್ಯ ಪರಂಪರೆಯ ಆರಂಭ",
+        "C": "ಕೇವಲ ಆಧುನಿಕ ಕಾದಂಬರಿಗಳ ಆರಂಭ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಗ್ರಂಥಗಳ ಆರಂಭ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯಲ್ಲಿ ಮೌಖಿಕವಾಗಿ ಮತ್ತು ಲಿಖಿತವಾಗಿ ರೂಪುಗೊಂಡ ಸಾಹಿತ್ಯ ಪರಂಪರೆಯ ಆರಂಭವನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಉಗಮ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q1"
+    },
+    {
+      "id": "KLV002",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಾರಂಭಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುವ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜನಪದ ಹಾಡುಗಳು, ಗಾದೆಗಳು, ಕಥೆಗಳು ಮತ್ತು ಶಾಸನಗಳು",
+        "B": "ಕೇವಲ ಆಧುನಿಕ ಕಾದಂಬರಿಗಳು",
+        "C": "ಕೇವಲ ಪಾಶ್ಚಾತ್ಯ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಗ್ರಂಥಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನಪದ ಹಾಡುಗಳು, ಗಾದೆಗಳು, ಕಥೆಗಳು ಮತ್ತು ಶಾಸನಗಳು ಸಾಹಿತ್ಯದ ಪ್ರಾರಂಭಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q1"
+    },
+    {
+      "id": "KLV003",
+      "subject": "Kannada Literature",
+      "topic": "Antiquity of Kannada Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಾಚೀನತೆಯನ್ನು ತಿಳಿಸುವ ಪ್ರಮುಖ ಆಧಾರಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಕೇವಲ ನಾಣ್ಯಗಳು",
+        "B": "ಶಾಸನಗಳು, ತಾಮ್ರಪಟಗಳು, ನಾಣ್ಯಗಳು, ಹಸ್ತಪ್ರತಿಗಳು, ಪ್ರಾಚೀನ ಕಾವ್ಯಗಳು ಮತ್ತು ಜನಪದ ಪರಂಪರೆಗಳು",
+        "C": "ಕೇವಲ ಹಸ್ತಪ್ರತಿಗಳು",
+        "D": "ಕೇವಲ ಜನಪದ ಹಾಡುಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶಾಸನಗಳು, ತಾಮ್ರಪಟಗಳು, ನಾಣ್ಯಗಳು, ಹಸ್ತಪ್ರತಿಗಳು, ಪ್ರಾಚೀನ ಕಾವ್ಯಗಳು ಮತ್ತು ಜನಪದ ಪರಂಪರೆಗಳು ಪ್ರಮುಖ ಆಧಾರಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q2"
+    },
+    {
+      "id": "KLV004",
+      "subject": "Kannada Literature",
+      "topic": "Antiquity of Kannada Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಾಸನ, ತಾಮ್ರಪಟ, ನಾಣ್ಯ, ಹಸ್ತಪ್ರತಿ ಮುಂತಾದ ಆಧಾರಗಳಿಂದ ಯಾವ ಅಂಶಗಳನ್ನು ತಿಳಿಯಬಹುದು?",
+      "options": {
+        "A": "ಕೇವಲ ರಾಜರ ಹೆಸರುಗಳು",
+        "B": "ಕೇವಲ ಯುದ್ಧಗಳ ವಿವರ",
+        "C": "ಭಾಷೆಯ ರೂಪ, ಸಮಾಜ, ಧರ್ಮ ಮತ್ತು ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ",
+        "D": "ಕೇವಲ ಹವಾಮಾನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಇವುಗಳಿಂದ ಭಾಷೆಯ ರೂಪ, ಸಮಾಜ, ಧರ್ಮ ಮತ್ತು ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ತಿಳಿಯಬಹುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q2"
+    },
+    {
+      "id": "KLV005",
+      "subject": "Kannada Literature",
+      "topic": "Ancient Inscriptions",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಶಾಸನ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಲ್ಮಿಡಿ ಶಾಸನ",
+        "B": "ತಾಳಗುಂದ ಶಾಸನ",
+        "C": "ಬೆಳತೂರು ಶಾಸನ",
+        "D": "ಕಪ್ಪೆ ಅರಭಟ್ಟನ ಶಾಸನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವು ಸಾಮಾನ್ಯವಾಗಿ ಲಭ್ಯವಿರುವ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಪೂರ್ಣಪ್ರಮಾಣದ ಕನ್ನಡ ಶಾಸನವೆಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q3"
+    },
+    {
+      "id": "KLV006",
+      "subject": "Kannada Literature",
+      "topic": "Ancient Inscriptions",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಶತಮಾನಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. 3ನೇ ಶತಮಾನ",
+        "B": "ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನ",
+        "C": "ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನ",
+        "D": "ಕ್ರಿ.ಶ. 12ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹಲ್ಮಿಡಿ ಶಾಸನವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಕ್ರಿ.ಶ. 5ನೇ ಶತಮಾನಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ; ನಿಖರ ದಿನಾಂಕದ ಕುರಿತು ವಿದ್ವಾಂಸರ ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ ಸಣ್ಣ ವ್ಯತ್ಯಾಸಗಳಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q3"
+    },
+    {
+      "id": "KLV007",
+      "subject": "Kannada Literature",
+      "topic": "Ancient Inscriptions",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಲ್ಮಿಡಿ ಶಾಸನದ ನಿಖರ ದಿನಾಂಕದ ಕುರಿತು ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲ ವಿದ್ವಾಂಸರು ಒಂದೇ ಅಭಿಪ್ರಾಯ ಹೊಂದಿದ್ದಾರೆ",
+        "B": "ದಿನಾಂಕ ನಿಶ್ಚಿತವಾಗಿ ತಿಳಿದಿಲ್ಲ",
+        "C": "ವಿದ್ವಾಂಸರ ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ ಸಣ್ಣ ವ್ಯತ್ಯಾಸಗಳಿವೆ",
+        "D": "ಇದು ಆಧುನಿಕ ಶಾಸನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ನಿಖರ ದಿನಾಂಕದ ಕುರಿತು ವಿದ್ವಾಂಸರ ಅಭಿಪ್ರಾಯಗಳಲ್ಲಿ ಸಣ್ಣ ವ್ಯತ್ಯಾಸಗಳಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q3"
+    },
+    {
+      "id": "KLV008",
+      "subject": "Kannada Literature",
+      "topic": "Origin of Kannada Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಭಾಷೆಯ ಲಿಖಿತ ಸಾಕ್ಷ್ಯಗಳು ಯಾವ ಕಾಲದಿಂದ ದೊರೆಯುತ್ತವೆ?",
+      "options": {
+        "A": "ಕ್ರಿ.ಶ. ಮೊದಲ ಸಹಸ್ರಮಾನದ ಆರಂಭದ ಶತಮಾನಗಳಿಂದ",
+        "B": "ಕ್ರಿ.ಶ. 15ನೇ ಶತಮಾನದಿಂದ",
+        "C": "ಕ್ರಿ.ಶ. 19ನೇ ಶತಮಾನದಿಂದ",
+        "D": "ಕ್ರಿ.ಪೂ. 3ನೇ ಶತಮಾನದಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆಯ ಲಿಖಿತ ಸಾಕ್ಷ್ಯಗಳು ಕ್ರಿ.ಶ. ಮೊದಲ ಸಹಸ್ರಮಾನದ ಆರಂಭದ ಶತಮಾನಗಳಿಂದ ದೊರೆಯುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q4"
+    },
+    {
+      "id": "KLV009",
+      "subject": "Kannada Literature",
+      "topic": "Origin of Kannada Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಲಭ್ಯವಿರುವ ಪ್ರಮುಖ ಶಾಸನಗಳು ಯಾವ ಶತಮಾನಗಳಿಂದ ಸ್ಪಷ್ಟವಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "1ನೇ-2ನೇ ಶತಮಾನಗಳಿಂದ",
+        "B": "5ನೇ-6ನೇ ಶತಮಾನಗಳಿಂದ",
+        "C": "10ನೇ-11ನೇ ಶತಮಾನಗಳಿಂದ",
+        "D": "18ನೇ-19ನೇ ಶತಮಾನಗಳಿಂದ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಲಭ್ಯವಿರುವ ಪ್ರಮುಖ ಶಾಸನಗಳು 5ನೇ-6ನೇ ಶತಮಾನಗಳಿಂದ ಸ್ಪಷ್ಟವಾಗುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q4"
+    },
+    {
+      "id": "KLV010",
+      "subject": "Kannada Literature",
+      "topic": "Origin of Kannada Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯಕ ಕೃತಿಗಳ ಸಮೃದ್ಧ ಲಭ್ಯತೆ ಯಾವ ಶತಮಾನದಿಂದ ಕಾಣುತ್ತದೆ?",
+      "options": {
+        "A": "5ನೇ ಶತಮಾನ",
+        "B": "7ನೇ ಶತಮಾನ",
+        "C": "9ನೇ ಶತಮಾನ",
+        "D": "12ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಸಾಹಿತ್ಯಕ ಕೃತಿಗಳ ಸಮೃದ್ಧ ಲಭ್ಯತೆ 9ನೇ ಶತಮಾನದಿಂದ ಕಾಣುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q4"
+    },
+    {
+      "id": "KLV011",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಮಹತ್ವದ ಕಾವ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶ್ರೀವಿಜಯನ ಕವಿರಾಜಮಾರ್ಗವು ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನದ ಕನ್ನಡದ ಅತ್ಯಂತ ಪ್ರಾಚೀನ ಲಭ್ಯ ಸಾಹಿತ್ಯ-ಕಾವ್ಯಶಾಸ್ತ್ರ ಕೃತಿಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q5"
+    },
+    {
+      "id": "KLV012",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಕರ್ತೃ ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ",
+        "B": "ಶ್ರೀವಿಜಯ",
+        "C": "ರನ್ನ",
+        "D": "ಪೊನ್ನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಶ್ರೀವಿಜಯನ ಕವಿರಾಜಮಾರ್ಗವು ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನದ ಕೃತಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q5"
+    },
+    {
+      "id": "KLV013",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ಶತಮಾನಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "7ನೇ ಶತಮಾನ",
+        "B": "9ನೇ ಶತಮಾನ",
+        "C": "11ನೇ ಶತಮಾನ",
+        "D": "13ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಕ್ರಿ.ಶ. 9ನೇ ಶತಮಾನದ ಕೃತಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q5"
+    },
+    {
+      "id": "KLV014",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವು ಯಾವ ಅಂಶವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಕಾವ್ಯಪರಂಪರೆ ಆಗಲೇ ಅಭಿವೃದ್ಧಿಯಾಗಿತ್ತು",
+        "B": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಆರಂಭವಾಗಿರಲಿಲ್ಲ",
+        "C": "ಕನ್ನಡ ಭಾಷೆ ಇನ್ನೂ ಹುಟ್ಟಿರಲಿಲ್ಲ",
+        "D": "ಕೇವಲ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯವಿತ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಕಾವ್ಯಪರಂಪರೆ ಆಗಲೇ ಅಭಿವೃದ್ಧಿಯಾಗಿದ್ದುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q5"
+    },
+    {
+      "id": "KLV015",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಮಹತ್ವವೇನು?",
+      "options": {
+        "A": "ಕೇವಲ ಧಾರ್ಮಿಕ ಕಥೆಗಳ ಸಂಗ್ರಹ",
+        "B": "ಕನ್ನಡದ ಕಾವ್ಯಲಕ್ಷಣ, ಭಾಷಾಶೈಲಿ, ಕವಿಗಳು, ಪ್ರದೇಶಗಳು ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆಯ ಕುರಿತು ಮಾಹಿತಿ ನೀಡುತ್ತದೆ",
+        "C": "ಕೇವಲ ರಾಜರ ಚರಿತ್ರೆ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು ಕನ್ನಡದ ಕಾವ್ಯಲಕ್ಷಣ, ಭಾಷಾಶೈಲಿ, ಕವಿಗಳು, ಪ್ರದೇಶಗಳು ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆಯ ಕುರಿತು ಮಾಹಿತಿ ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q6"
+    },
+    {
+      "id": "KLV016",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗವನ್ನು ಏನೆಂದು ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ",
+        "B": "ಕನ್ನಡದ ಮೊದಲ ಕಾದಂಬರಿ",
+        "C": "ಕನ್ನಡದ ಮೊದಲ ನಾಟಕ",
+        "D": "ಕನ್ನಡದ ಮೊದಲ ವಚನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥವೆಂದು ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q6"
+    },
+    {
+      "id": "KLV017",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲವಿಭಾಗ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೇವಲ ರಾಜಕೀಯ ಆಳ್ವಿಕೆಗಳ ವಿಭಾಗ",
+        "B": "ಭಾಷೆಯ ರೂಪ, ಸಾಹಿತ್ಯದ ಶೈಲಿ, ಧಾರ್ಮಿಕ-ಸಾಮಾಜಿಕ ಚಳವಳಿಗಳು ಮತ್ತು ಐತಿಹಾಸಿಕ ಬದಲಾವಣೆಗಳ ಆಧಾರದ ಮೇಲೆ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ಕಾಲಘಟ್ಟಗಳಾಗಿ ವಿಂಗಡಿಸುವುದು",
+        "C": "ಕೇವಲ ಕವಿಗಳ ಜನ್ಮದಿನಗಳ ವಿಭಾಗ",
+        "D": "ಕೇವಲ ಪುಸ್ತಕಗಳ ಪಟ್ಟಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಭಾಷೆಯ ರೂಪ, ಸಾಹಿತ್ಯದ ಶೈಲಿ, ಧಾರ್ಮಿಕ-ಸಾಮಾಜಿಕ ಚಳವಳಿಗಳು ಮತ್ತು ಐತಿಹಾಸಿಕ ಬದಲಾವಣೆಗಳ ಆಧಾರದ ಮೇಲೆ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯನ್ನು ವಿವಿಧ ಕಾಲಘಟ್ಟಗಳಾಗಿ ವಿಂಗಡಿಸುವುದೇ ಕಾಲವಿಭಾಗ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q7"
+    },
+    {
+      "id": "KLV018",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಸಾಮಾನ್ಯ ಕಾಲವಿಭಾಗ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಳಿಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ",
+        "B": "ಪ್ರಾಚೀನ, ಮಧ್ಯಕಾಲೀನ, ಆಧುನಿಕ, ಭವಿಷ್ಯ",
+        "C": "ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ, ಶೈವ",
+        "D": "ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ನವ್ಯ, ದಲಿತ, ಬಂಡಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಾಚೀನ ಕನ್ನಡ ಅಥವಾ ಹಳಿಗನ್ನಡ, ನಡುಗನ್ನಡ ಮತ್ತು ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ ಎಂಬ ವಿಶಾಲ ವಿಭಾಗಗಳನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q8"
+    },
+    {
+      "id": "KLV019",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾಲವಿಭಾಗದ ಉಪವಿಭಾಗಗಳ ಗಡಿಗಳ ಬಗ್ಗೆ ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲರಿಗೂ ಒಂದೇ ರೀತಿ ಇರುತ್ತವೆ",
+        "B": "ವಿದ್ವಾಂಸರು ಮತ್ತು ಪಠ್ಯಪುಸ್ತಕಗಳ ಪ್ರಕಾರ ಬದಲಾಗಬಹುದು",
+        "C": "ಗಡಿಗಳೇ ಇರುವುದಿಲ್ಲ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ದಿನಾಂಕಗಳಿಂದ ನಿರ್ಧರಿಸಲಾಗುತ್ತದೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಉಪವಿಭಾಗಗಳ ಗಡಿಗಳು ವಿದ್ವಾಂಸರು ಮತ್ತು ಪಠ್ಯಪುಸ್ತಕಗಳ ಪ್ರಕಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q8"
+    },
+    {
+      "id": "KLV020",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸುಮಾರು 9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ ಪ್ರಾಬಲ್ಯ ಹೊಂದಿದ್ದ ಹಳೆಯ ಭಾಷಾರೂಪ ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆ",
+        "B": "19ನೇ ಶತಮಾನದ ಆಧುನಿಕ ಸಾಹಿತ್ಯ",
+        "C": "12ನೇ ಶತಮಾನದ ವಚನ ಸಾಹಿತ್ಯ",
+        "D": "20ನೇ ಶತಮಾನದ ನವ್ಯ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ 9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ ಪ್ರಾಬಲ್ಯ ಹೊಂದಿದ್ದ ಹಳೆಯ ಭಾಷಾರೂಪ ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆಯನ್ನು ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q9"
+    },
+    {
+      "id": "KLV021",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಕಾಲದಲ್ಲಿ ಪ್ರಮುಖವಾಗಿದ್ದ ಕವಿಗಳು ಮತ್ತು ಕಾವ್ಯಪರಂಪರೆ ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನಕಾರರು ಮತ್ತು ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ಜೈನ ಕವಿಗಳು ಮತ್ತು ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ",
+        "C": "ಹರಿದಾಸರು ಮತ್ತು ಕೀರ್ತನೆಗಳು",
+        "D": "ನವ್ಯ ಕವಿಗಳು ಮತ್ತು ನವ್ಯ ಕಾವ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಈ ಕಾಲದಲ್ಲಿ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ ಪ್ರಮುಖವಾಗಿದ್ದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q9"
+    },
+    {
+      "id": "KLV022",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ",
+        "B": "ಜೈನ ಧಾರ್ಮಿಕ-ನೈತಿಕ ವಿಷಯಗಳು",
+        "C": "ವಚನ ರೂಪದ ಸರಳ ಗದ್ಯ",
+        "D": "ಗದ್ಯ-ಪದ್ಯ ಮಿಶ್ರ ರಚನೆ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ವಚನ ರೂಪವು ನಡುಗನ್ನಡದ ವೀರಶೈವ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದೆ; ಹಳಿಗನ್ನಡದ ಲಕ್ಷಣವಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q10"
+    },
+    {
+      "id": "KLV023",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ, ಸಂಸ್ಕೃತ ಪ್ರಭಾವ, ಜೈನ ಧಾರ್ಮಿಕ-ನೈತಿಕ ವಿಷಯಗಳು, ಪುರಾಣಕಥೆಗಳ ಮರುಸ್ಕೃತಿ, ಗದ್ಯ-ಪದ್ಯ ಮಿಶ್ರ ರಚನೆ, ಗಂಭೀರ ಭಾಷಾಶೈಲಿ",
+        "B": "ಸರಳ ಗದ್ಯ, ಜನಭಾಷೆ, ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+        "C": "ನಗರಜೀವನ, ಮನೋವೈಜ್ಞಾನಿಕ ಸಂಕೀರ್ಣತೆ",
+        "D": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂಪೂ ಶೈಲಿ, ಸಂಸ್ಕೃತ ಪ್ರಭಾವ, ಜೈನ ಧಾರ್ಮಿಕ-ನೈತಿಕ ವಿಷಯಗಳು, ಪುರಾಣಕಥೆಗಳ ಮರುಸ್ಕೃತಿ, ಗದ್ಯ-ಪದ್ಯ ಮಿಶ್ರ ರಚನೆ ಮತ್ತು ಗಂಭೀರ ಭಾಷಾಶೈಲಿ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q10"
+    },
+    {
+      "id": "KLV024",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡದ ಪ್ರಮುಖ ಕವಿಗಳು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ನಾಗವರ್ಮ, ಜನ್ನ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ",
+        "D": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ನಾಗವರ್ಮ, ಜನ್ನ ಮುಂತಾದವರು ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q11"
+    },
+        {
+      "id": "KLV026",
+      "subject": "Kannada Literature",
+      "topic": "Pampa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "B": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ (ಪಂಪಭಾರತ)",
+        "C": "ಅಜಿತಪುರಾಣ ಮತ್ತು ಯಶೋಧರ ಚರಿತ್ರೆ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ ಮತ್ತು ಮೋಹನತರಂಗಿಣಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ (ಪಂಪಭಾರತ).",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q12"
+    },
+    {
+      "id": "KLV027",
+      "subject": "Kannada Literature",
+      "topic": "Pampa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪನನ್ನು ಏನೆಂದು ಪ್ರಸಿದ್ಧವಾಗಿ ಕರೆಯಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡದ ಆದಿಕವಿ",
+        "B": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ",
+        "C": "ವಚನ ಸಾಹಿತ್ಯದ ಜನಕ",
+        "D": "ನವ್ಯ ಸಾಹಿತ್ಯದ ಪ್ರವರ್ತಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪನು ಕನ್ನಡದ ಆದಿಕವಿಯಿಂದ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದಾನೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q12"
+    },
+    {
+      "id": "KLV028",
+      "subject": "Kannada Literature",
+      "topic": "Ponna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ",
+        "B": "ಗದಾಯುದ್ಧ",
+        "C": "ಶಾಂತಿಪುರಾಣ",
+        "D": "ಯಶೋಧರ ಚರಿತ್ರೆ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಪೊನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಶಾಂತಿಪುರಾಣ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q13"
+    },
+    {
+      "id": "KLV029",
+      "subject": "Kannada Literature",
+      "topic": "Ponna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪೊನ್ನನನ್ನು ಯಾವ ಗುಂಪಿನಲ್ಲಿ ಪರಿಗಣಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಹರಿದಾಸರು",
+        "B": "ವಚನಕಾರರು",
+        "C": "ಕನ್ನಡದ ರತ್ನತ್ರಯರು",
+        "D": "ನವ್ಯ ಕವಿಗಳು"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಅವನು ಕನ್ನಡದ ರತ್ನತ್ರಯರಲ್ಲಿ ಒಬ್ಬನೆಂದು ಪರಿಗಣಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q13"
+    },
+    {
+      "id": "KLV030",
+      "subject": "Kannada Literature",
+      "topic": "Ranna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರನ್ನನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಅಜಿತಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "C": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಯಶೋಧರ ಚರಿತ್ರೆ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ ಮತ್ತು ನಳಚರಿತ್ರೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ರನ್ನನ ಪ್ರಮುಖ ಕೃತಿಗಳು ಅಜಿತಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q14"
+    },
+    {
+      "id": "KLV031",
+      "subject": "Kannada Literature",
+      "topic": "Ranna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗದಾಯುದ್ಧ ಕಾವ್ಯವು ಯಾವ ಸಮರವನ್ನು ಆಧರಿಸಿದೆ?",
+      "options": {
+        "A": "ರಾಮ-ರಾವಣರ ಸಮರ",
+        "B": "ಭೀಮ-ದುರ್ಯೋಧನರ ಅಂತಿಮ ಸಮರ",
+        "C": "ಕೌರವ-ಪಾಂಡವರ ದ್ರೋಣ ಪರ್ವ",
+        "D": "ಶಿವ-ಪಾರ್ವತಿಯ ಸಮರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಗದಾಯುದ್ಧವು ಭೀಮ-ದುರ್ಯೋಧನರ ಅಂತಿಮ ಸಮರವನ್ನು ಆಧರಿಸಿದ ಪ್ರಸಿದ್ಧ ಕಾವ್ಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q14"
+    },
+    {
+      "id": "KLV032",
+      "subject": "Kannada Literature",
+      "topic": "Ratnatrayaru",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ರತ್ನತ್ರಯರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ",
+        "D": "ಹರಿಹರ, ರಾಘವಾಂಕ, ಜನ್ನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ ಮತ್ತು ರನ್ನರನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ರತ್ನತ್ರಯರು ಎಂದು ಕರೆಯುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q15"
+    },
+    {
+      "id": "KLV033",
+      "subject": "Kannada Literature",
+      "topic": "Ratnatrayaru",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರತ್ನತ್ರಯರು ಯಾವ ಧರ್ಮದ ಮಹತ್ವದ ಕವಿಗಳು?",
+      "options": {
+        "A": "ವೀರಶೈವ",
+        "B": "ವೈಷ್ಣವ",
+        "C": "ಜೈನ",
+        "D": "ಶೈವ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಇವರು ಹಳೆಗನ್ನಡದ ಮಹತ್ವದ ಜೈನ ಕವಿಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q15"
+    },
+    {
+      "id": "KLV034",
+      "subject": "Kannada Literature",
+      "topic": "Nadugannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗೆ ಬೆಳೆದ ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆ",
+        "B": "9ನೇ ಶತಮಾನದ ಜೈನ ಕಾವ್ಯ",
+        "C": "19ನೇ ಶತಮಾನದ ಆಧುನಿಕ ಸಾಹಿತ್ಯ",
+        "D": "20ನೇ ಶತಮಾನದ ನವ್ಯ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗೆ ಬೆಳೆದ ಮಧ್ಯಕಾಲೀನ ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಪರಂಪರೆಯನ್ನು ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q16"
+    },
+    {
+      "id": "KLV035",
+      "subject": "Kannada Literature",
+      "topic": "Nadugannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಅವಧಿಯಲ್ಲಿ ಬೆಳೆದ ಸಾಹಿತ್ಯ ರೂಪಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಚಂಪೂ ಮತ್ತು ಮಹಾಕಾವ್ಯ ಮಾತ್ರ",
+        "B": "ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ ಮತ್ತು ಸಾಂಗತ್ಯ",
+        "C": "ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ಪ್ರಬಂಧ ಮಾತ್ರ",
+        "D": "ನವ್ಯ ಕಾವ್ಯ ಮತ್ತು ದಲಿತ ಸಾಹಿತ್ಯ ಮಾತ್ರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಈ ಅವಧಿಯಲ್ಲಿ ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ ಮತ್ತು ಸಾಂಗತ್ಯ ರೂಪಗಳು ಬೆಳೆಯುವುವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q16"
+    },
+    {
+      "id": "KLV036",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಉದಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಕಾಲ ಯಾವುದು?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನ",
+        "B": "12ನೇ ಶತಮಾನ",
+        "C": "16ನೇ ಶತಮಾನ",
+        "D": "19ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "12ನೇ ಶತಮಾನದಲ್ಲಿ ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ವಚನ ಸಾಹಿತ್ಯವು ಮಹತ್ವದ ರೂಪದಲ್ಲಿ ಬೆಳೆಯಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q18"
+    },
+    {
+      "id": "KLV037",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯವು ಯಾವ ರೀತಿಯ ಭಾಷೆಯನ್ನು ಬಳಸಿತು?",
+      "options": {
+        "A": "ಗಂಭೀರ ಸಂಸ್ಕೃತಮಿಶ್ರಿತ ಭಾಷೆ",
+        "B": "ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಹತ್ತಿರವಾದ ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಆಂಗ್ಲ ಭಾಷೆ",
+        "D": "ಕೇವಲ ಪ್ರಾಕೃತ ಭಾಷೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇದು ಸರಳ, ನೇರ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಹತ್ತಿರವಾದ ಕನ್ನಡವನ್ನು ಬಳಸಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q18"
+    },
+    {
+      "id": "KLV038",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಶರಣರು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಚನ್ನಬಸವಣ್ಣ, ಸಿದ್ಧರಾಮ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ",
+        "D": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಚನ್ನಬಸವಣ್ಣ, ಸಿದ್ಧರಾಮ ಮುಂತಾದವರು ಪ್ರಮುಖ ವಚನಕಾರರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q19"
+    },
+    {
+      "id": "KLV039",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನಗಳು ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಆತ್ಮಾನುಭವ",
+        "B": "ಕೇವಲ ರಾಜಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಜಾತಿಭೇದ",
+        "D": "ಕೇವಲ ಸಂಪತ್ತಿನ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇವರ ವಚನಗಳು ಭಕ್ತಿ, ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಆತ್ಮಾನುಭವವನ್ನು ಪ್ರತಿಪಾದಿಸುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q19"
+    },
+    {
+      "id": "KLV040",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "12ನೇ ಶತಮಾನದ ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ಸಾಮಾನ್ಯವಾಗಿ 19ನೇ ಶತಮಾನದ ಉತ್ತರಾರ್ಧದಿಂದ ರೂಪುಗೊಂಡ ಆಧುನಿಕ ಭಾಷಾರೂಪ, ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ ಮತ್ತು ಹೊಸ ಸಾಹಿತ್ಯಪ್ರಕಾರಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಂಬಂಧಿಸಿದ ಸಾಹಿತ್ಯ",
+        "C": "9ನೇ ಶತಮಾನದ ಜೈನ ಕಾವ್ಯ",
+        "D": "ಕೇವಲ ಜನಪದ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ 19ನೇ ಶತಮಾನದ ಉತ್ತರಾರ್ಧದಿಂದ ರೂಪುಗೊಂಡ ಆಧುನಿಕ ಭಾಷಾರೂಪ, ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ ಮತ್ತು ಹೊಸ ಸಾಹಿತ್ಯಪ್ರಕಾರಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಂಬಂಧಿಸಿದ ಸಾಹಿತ್ಯವನ್ನು ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q20"
+    },
+    {
+      "id": "KLV041",
+      "subject": "Kannada Literature",
+      "topic": "Adhunika Kannada Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೇವಲ ಜೈನ ಕಾವ್ಯ",
+        "B": "ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ನವ್ಯ, ದಲಿತ, ಬಂಡಾಯ ಮತ್ತು ಇತರ ಸಮಕಾಲೀನ ಸಾಹಿತ್ಯ ಚಳವಳಿಗಳ ಮೂಲಕ ವೈವಿಧ್ಯಮಯವಾಗಿ ಬೆಳೆದ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಚನ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ಹರಿದಾಸ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ನವ್ಯ, ದಲಿತ, ಬಂಡಾಯ ಮತ್ತು ಇತರ ಸಮಕಾಲೀನ ಸಾಹಿತ್ಯ ಚಳವಳಿಗಳ ಮೂಲಕ ವೈವಿಧ್ಯಮಯವಾಗಿ ಬೆಳೆದ ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q21"
+    },
+    {
+      "id": "KLV042",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada vs Adhunika",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ ಮತ್ತು ಆಧುನಿಕ ಕನ್ನಡ ಪದಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸದ ಬಗ್ಗೆ ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಇವು ಸಂಪೂರ್ಣ ವಿಭಿನ್ನ ಅರ್ಥಗಳನ್ನು ಹೊಂದಿವೆ",
+        "B": "ಕೆಲವು ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಹೊಸಗನ್ನಡ ಮತ್ತು ಆಧುನಿಕ ಕನ್ನಡ ಪದಗಳನ್ನು ಸಮಾನಾರ್ಥಕವಾಗಿ ಬಳಸುತ್ತಾರೆ",
+        "C": "ಹೊಸಗನ್ನಡವು ಆಧುನಿಕ ಕನ್ನಡಕ್ಕಿಂತ ನಂತರದ ಕಾಲ",
+        "D": "ಆಧುನಿಕ ಕನ್ನಡವು ಹೊಸಗನ್ನಡಕ್ಕಿಂತ ಮೊದಲಿನ ಕಾಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕೆಲವು ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಹೊಸಗನ್ನಡ ಮತ್ತು ಆಧುನಿಕ ಕನ್ನಡ ಪದಗಳನ್ನು ಸಮಾನಾರ್ಥಕವಾಗಿ ಬಳಸುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q22"
+    },
+    {
+      "id": "KLV043",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada vs Adhunika",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೆಲವು ವರ್ಗೀಕರಣಗಳಲ್ಲಿ ಹೊಸಗನ್ನಡವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಆಧುನಿಕ ಭಾಷಾರೂಪದ ಆರಂಭಿಕ ಹಂತವನ್ನು",
+        "B": "ಕೇವಲ ದಲಿತ ಸಾಹಿತ್ಯವನ್ನು",
+        "C": "ಕೇವಲ ಬಂಡಾಯ ಸಾಹಿತ್ಯವನ್ನು",
+        "D": "ಕೇವಲ ನವ್ಯ ಸಾಹಿತ್ಯವನ್ನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇತರ ವರ್ಗೀಕರಣಗಳಲ್ಲಿ ಹೊಸಗನ್ನಡವು ಆಧುನಿಕ ಭಾಷಾರೂಪದ ಆರಂಭಿಕ ಹಂತವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q22"
+    },
+    {
+      "id": "KLV044",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada vs Adhunika",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಸಾಹಿತ್ಯವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೇವಲ ಒಂದು ಚಳವಳಿಯನ್ನು",
+        "B": "ನಂತರದ ವಿವಿಧ ಸಾಹಿತ್ಯ ಚಳವಳಿಗಳನ್ನು",
+        "C": "ಕೇವಲ ಜೈನ ಸಾಹಿತ್ಯವನ್ನು",
+        "D": "ಕೇವಲ ಶಾಸನಗಳನ್ನು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಆಧುನಿಕ ಸಾಹಿತ್ಯವು ನಂತರದ ವಿವಿಧ ಚಳವಳಿಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q22"
+    },
+    {
+      "id": "KLV045",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಾನುಕ್ರಮವನ್ನು ಹೇಗೆ ನೆನಪಿಡಬೇಕು?",
+      "options": {
+        "A": "ಹೊಸಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹಳಿಗನ್ನಡ",
+        "B": "ಪ್ರಾಚೀನ/ಹಳಿಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ",
+        "C": "ನಡುಗನ್ನಡ → ಹಳಿಗನ್ನಡ → ಹೊಸಗನ್ನಡ",
+        "D": "ಆಧುನಿಕ → ಪ್ರಾಚೀನ → ಮಧ್ಯಕಾಲೀನ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪ್ರಾಚೀನ/ಹಳಿಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ ಎಂಬ ಕ್ರಮವನ್ನು ನೆನಪಿಡಬೇಕು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q23"
+    },
+    {
+      "id": "KLV046",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರತಿ ಕಾಲಘಟ್ಟದೊಂದಿಗೆ ಯಾವ ಅಂಶಗಳನ್ನು ಜೋಡಿಸಿ ಅಭ್ಯಾಸ ಮಾಡಬೇಕು?",
+      "options": {
+        "A": "ಕೇವಲ ಕವಿಗಳ ಹೆಸರುಗಳು",
+        "B": "ಆಯಾ ಪ್ರಮುಖ ಸಾಹಿತ್ಯರೂಪ, ಕವಿ ಮತ್ತು ಚಳವಳಿಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ದಿನಾಂಕಗಳು",
+        "D": "ಕೇವಲ ಪುಸ್ತಕಗಳ ಬೆಲೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪ್ರತಿ ಹಂತದೊಂದಿಗೆ ಅದರ ಪ್ರಮುಖ ಸಾಹಿತ್ಯರೂಪ, ಕವಿ ಮತ್ತು ಚಳವಳಿಯನ್ನು ಜೋಡಿಸಿ ಅಭ್ಯಾಸ ಮಾಡಬೇಕು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q23"
+    },
+    {
+      "id": "KLV047",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲವಿಭಾಗಕ್ಕೆ ನಿಖರವಾದ ಒಂದೇ ದಿನಾಂಕಗಳಿವೆಯೇ?",
+      "options": {
+        "A": "ಹೌದು, ಎಲ್ಲ ಕಾಲಘಟ್ಟಗಳಿಗೆ ನಿಖರ ದಿನಾಂಕಗಳಿವೆ",
+        "B": "ಇಲ್ಲ, ಸಾಹಿತ್ಯಕಾಲಗಳ ಗಡಿಗಳು ಕಟ್ಟುನಿಟ್ಟಾದ ರಾಜಕೀಯ ದಿನಾಂಕಗಳಲ್ಲ",
+        "C": "ಹೌದು, ಕೇವಲ ಒಂದು ದಿನಾಂಕ ಮಾತ್ರ ಇದೆ",
+        "D": "ಇಲ್ಲ, ಏಕೆಂದರೆ ಸಾಹಿತ್ಯವೇ ಇಲ್ಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಇಲ್ಲ. ಸಾಹಿತ್ಯಕಾಲಗಳ ಗಡಿಗಳು ಕಟ್ಟುನಿಟ್ಟಾದ ರಾಜಕೀಯ ದಿನಾಂಕಗಳಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q24"
+    },
+    {
+      "id": "KLV048",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾಲಮಿತಿಗಳು ಪಠ್ಯಪುಸ್ತಕ ಮತ್ತು ಸಂಶೋಧಕರ ಪ್ರಕಾರ ಏಕೆ ಸ್ವಲ್ಪ ಬದಲಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಾಷಾ ಬದಲಾವಣೆ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಳವಳಿಗಳು ಕ್ರಮೇಣ ಬೆಳೆಯುವುದರಿಂದ",
+        "B": "ಏಕೆಂದರೆ ಎಲ್ಲರೂ ಒಂದೇ ಅಭಿಪ್ರಾಯ ಹೊಂದಿದ್ದಾರೆ",
+        "C": "ಏಕೆಂದರೆ ದಿನಾಂಕಗಳು ಯಾವಾಗಲೂ ಒಂದೇ",
+        "D": "ಏಕೆಂದರೆ ಸಾಹಿತ್ಯ ಬದಲಾಗುವುದಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾಷಾ ಬದಲಾವಣೆ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಳವಳಿಗಳು ಕ್ರಮೇಣ ಬೆಳೆಯುವುದರಿಂದ ಕಾಲಮಿತಿಗಳು ಪಠ್ಯಪುಸ್ತಕ ಮತ್ತು ಸಂಶೋಧಕರ ಪ್ರಕಾರ ಸ್ವಲ್ಪ ಬದಲಾಗುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q24"
+    },
+    {
+      "id": "KLV049",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜೈನ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಜೈನ ಧರ್ಮದ ತತ್ವಗಳು, ತೀರ್ಥಂಕರರ ಚರಿತ್ರೆ, ಅಹಿಂಸೆ, ತ್ಯಾಗ, ನೀತಿ ಮತ್ತು ಮೋಕ್ಷಮಾರ್ಗವನ್ನು ಆಧರಿಸಿ ರಚಿತವಾದ ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+        "B": "ಕೇವಲ ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ಹರಿದಾಸ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈನ ಧರ್ಮದ ತತ್ವಗಳು, ತೀರ್ಥಂಕರರ ಚರಿತ್ರೆ, ಅಹಿಂಸೆ, ತ್ಯಾಗ, ನೀತಿ ಮತ್ತು ಮೋಕ್ಷಮಾರ್ಗವನ್ನು ಆಧರಿಸಿ ರಚಿತವಾದ ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಜೈನ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q25"
+    },
+    {
+      "id": "KLV050",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಜೈನರ ಪಾತ್ರವೇನು?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡದ ಆರಂಭಿಕ ಲಿಖಿತ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯನ್ನು ಬೆಳೆಸುವಲ್ಲಿ ಜೈನ ಕವಿಗಳ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ",
+        "B": "ಜೈನರು ಸಾಹಿತ್ಯಕ್ಕೆ ಯಾವುದೇ ಕೊಡುಗೆ ನೀಡಿಲ್ಲ",
+        "C": "ಜೈನರು ಕೇವಲ ಆಧುನಿಕ ಸಾಹಿತ್ಯ ರಚಿಸಿದರು",
+        "D": "ಜೈನರು ಕೇವಲ ಶಾಸನಗಳನ್ನು ಬರೆದರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡದ ಆರಂಭಿಕ ಲಿಖಿತ ಮಹಾಕಾವ್ಯ ಪರಂಪರೆಯನ್ನು ಬೆಳೆಸುವಲ್ಲಿ ಜೈನ ಕವಿಗಳ ಪಾತ್ರ ಮಹತ್ವದ್ದಾಗಿದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q26"
+    },
+    {
+      "id": "KLV051",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ ಮುಂತಾದವರು ಕನ್ನಡ ಕಾವ್ಯಕ್ಕೆ ಏನು ತಂದರು?",
+      "options": {
+        "A": "ಉನ್ನತ ಸ್ಥಾನ",
+        "B": "ಕೇವಲ ಸಂಗೀತ",
+        "C": "ಕೇವಲ ನಾಟಕ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ, ಜನ್ನ ಮುಂತಾದವರು ಕನ್ನಡ ಕಾವ್ಯಕ್ಕೆ ಉನ್ನತ ಸ್ಥಾನ ತಂದರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q26"
+    },
+    {
+      "id": "KLV053",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜನ್ನನ ಪ್ರಮುಖ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಯಶೋಧರ ಚರಿತ್ರೆ",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜನ್ನ — ಯಶೋಧರ ಚರಿತ್ರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q27"
+    },
+    {
+      "id": "KLV054",
+      "subject": "Kannada Literature",
+      "topic": "Veerashaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೀರಶೈವ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವೀರಶೈವ ಅಥವಾ ಲಿಂಗಾಯತ ಧಾರ್ಮಿಕ-ಸಾಮಾಜಿಕ ಚಿಂತನೆ, ಶಿವಭಕ್ತಿ, ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಆತ್ಮಾನುಭವವನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಸಾಹಿತ್ಯ",
+        "B": "ಕೇವಲ ಜೈನ ಧರ್ಮದ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವೈಷ್ಣವ ಭಕ್ತಿ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವೀರಶೈವ ಅಥವಾ ಲಿಂಗಾಯತ ಧಾರ್ಮಿಕ-ಸಾಮಾಜಿಕ ಚಿಂತನೆ, ಶಿವಭಕ್ತಿ, ಕಾಯಕ, ದಾಸೋಹ, ಸಮಾನತೆ ಮತ್ತು ಆತ್ಮಾನುಭವವನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಸಾಹಿತ್ಯವನ್ನು ವೀರಶೈವ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q28"
+    },
+    {
+      "id": "KLV055",
+      "subject": "Kannada Literature",
+      "topic": "Veerashaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೀರಶೈವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ಚಂಪೂ",
+        "B": "ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ಕೀರ್ತನೆ",
+        "D": "ಕಾದಂಬರಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯವು ವೀರಶೈವ/ಶರಣ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ರೂಪ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q29"
+    },
+    {
+      "id": "KLV056",
+      "subject": "Kannada Literature",
+      "topic": "Veerashaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯವು ಯಾವ ರೂಪದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಸರಳ ಗದ್ಯಸನ್ನಿಹಿತ ಪದ್ಯರೂಪ",
+        "B": "ಗಂಭೀರ ಸಂಸ್ಕೃತ ಪದ್ಯ",
+        "C": "ಕೇವಲ ಗದ್ಯ",
+        "D": "ಕೇವಲ ನಾಟಕ ರೂಪ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಳ ಗದ್ಯಸನ್ನಿಹಿತ ಪದ್ಯರೂಪದಲ್ಲಿ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ವಿಚಾರಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q29"
+    },
+    {
+      "id": "KLV057",
+      "subject": "Kannada Literature",
+      "topic": "Veerashaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೀರಶೈವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿಗಳು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಚನ್ನಬಸವಣ್ಣ, ಸಿದ್ಧರಾಮ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ",
+        "D": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ, ಪಿ. ಲಂಕೇಶ್"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ, ಚನ್ನಬಸವಣ್ಣ ಮತ್ತು ಸಿದ್ಧರಾಮ ಪ್ರಮುಖ ಶರಣ-ವಚನಕಾರರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q30"
+    },
+    {
+      "id": "KLV058",
+      "subject": "Kannada Literature",
+      "topic": "Veerashaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಂತರದ ವೀರಶೈವ ಸಾಹಿತ್ಯದಲ್ಲಿ ಪ್ರಮುಖರಾದ ಕವಿಗಳು ಯಾರು?",
+      "options": {
+        "A": "ಹರಿಹರ, ರಾಘವಾಂಕ",
+        "B": "ಪಂಪ, ಪೊನ್ನ",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ",
+        "D": "ಅಡಿಗ, ಅನಂತಮೂರ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಂತರದ ವೀರಶೈವ ಸಾಹಿತ್ಯದಲ್ಲಿ ಹರಿಹರ, ರಾಘವಾಂಕ ಮುಂತಾದ ಕವಿಗಳು ಪ್ರಮುಖರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q30"
+    },
+    {
+      "id": "KLV059",
+      "subject": "Kannada Literature",
+      "topic": "Basavanna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನ ವಚನಗಳು ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಒತ್ತಿಹೇಳುತ್ತವೆ?",
+      "options": {
+        "A": "ಕಾಯಕವೇ ಕೈಲಾಸ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿಭೇದ ವಿರೋಧ ಮತ್ತು ವೈಯಕ್ತಿಕ ಭಕ್ತಿ",
+        "B": "ಕೇವಲ ರಾಜಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಜಾತಿಭೇದ ಸಮರ್ಥನೆ",
+        "D": "ಕೇವಲ ಸಂಪತ್ತಿನ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನ ವಚನಗಳು ಕಾಯಕವೇ ಕೈಲಾಸ, ದಾಸೋಹ, ಸಮಾನತೆ, ಜಾತಿಭೇದ ವಿರೋಧ ಮತ್ತು ವೈಯಕ್ತಿಕ ಭಕ್ತಿಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q31"
+    },
+    {
+      "id": "KLV060",
+      "subject": "Kannada Literature",
+      "topic": "Basavanna",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಗುಹೇಶ್ವರ",
+        "B": "ಕೂಡಲಸಂಗಮದೇವ",
+        "C": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ವಿಠ್ಠಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬಸವಣ್ಣನ ಅಂಕಿತನಾಮ ಕೂಡಲಸಂಗಮದೇವ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q31"
+    },
+    {
+      "id": "KLV061",
+      "subject": "Kannada Literature",
+      "topic": "Allamaprabhu",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭುವಿನ ವಚನಗಳಲ್ಲಿ ಮುಖ್ಯವಾದ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕತೆ, ಅನುಭವಮಂಟಪದ ಚಿಂತನೆ, ಮಾಯೆ-ಅಹಂಕಾರದ ವಿಮರ್ಶೆ ಮತ್ತು ತತ್ವ ಜಿಜ್ಞಾಸೆ",
+        "B": "ಕೇವಲ ರಾಜಕೀಯ ವಿಚಾರಗಳು",
+        "C": "ಕೇವಲ ಪ್ರಕೃತಿ ವರ್ಣನೆ",
+        "D": "ಕೇವಲ ಹಾಸ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭುವಿನ ವಚನಗಳಲ್ಲಿ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕತೆ, ಅನುಭವಮಂಟಪದ ಚಿಂತನೆ, ಮಾಯೆ-ಅಹಂಕಾರದ ವಿಮರ್ಶೆ ಮತ್ತು ತತ್ವ ಜಿಜ್ಞಾಸೆ ಮುಖ್ಯವಾಗಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q32"
+    },
+    {
+      "id": "KLV062",
+      "subject": "Kannada Literature",
+      "topic": "Allamaprabhu",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಅಂಕಿತನಾಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೂಡಲಸಂಗಮದೇವ",
+        "B": "ಗುಹೇಶ್ವರ",
+        "C": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ",
+        "D": "ವಿಠ್ಠಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭುವಿನ ಅಂಕಿತನಾಮ ಗುಹೇಶ್ವರ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q32"
+    },
+    {
+      "id": "KLV063",
+      "subject": "Kannada Literature",
+      "topic": "Vaishnava Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವೈಷ್ಣವ ಸಾಹಿತ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ವಿಷ್ಣು ಅಥವಾ ಅವತಾರಗಳ ಭಕ್ತಿ, ಧರ್ಮ, ನೀತಿ, ಪುರಾಣಕಥೆ ಮತ್ತು ಭಕ್ತಾನುಭವಗಳನ್ನು ಆಧರಿಸಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯ",
+        "B": "ಕೇವಲ ಶಿವಭಕ್ತಿ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ಜೈನ ಸಾಹಿತ್ಯ",
+        "D": "ಕೇವಲ ಆಧುನಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಷ್ಣು ಅಥವಾ ಅವತಾರಗಳ ಭಕ್ತಿ, ಧರ್ಮ, ನೀತಿ, ಪುರಾಣಕಥೆ ಮತ್ತು ಭಕ್ತಾನುಭವಗಳನ್ನು ಆಧರಿಸಿ ರಚಿತವಾದ ಸಾಹಿತ್ಯವನ್ನು ವೈಷ್ಣವ ಸಾಹಿತ್ಯ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q33"
+    },
+    {
+      "id": "KLV064",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ವೈಷ್ಣವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿದಾಸ ಸಾಹಿತ್ಯ",
+        "B": "ವಚನ ಸಾಹಿತ್ಯ",
+        "C": "ರಗಳೆ ಸಾಹಿತ್ಯ",
+        "D": "ಚಂಪೂ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸ ಸಾಹಿತ್ಯವು ಕನ್ನಡ ವೈಷ್ಣವ ಭಕ್ತಿಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q34"
+    },
+    {
+      "id": "KLV065",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸ ಸಾಹಿತ್ಯವು ಯಾವ ಮಾಧ್ಯಮಗಳ ಮೂಲಕ ಭಕ್ತಿ ಮತ್ತು ತತ್ವವನ್ನು ಜನರಿಗೆ ತಲುಪಿಸಿತು?",
+      "options": {
+        "A": "ಕೀರ್ತನೆ, ದೇವರನಾಮ ಮತ್ತು ಸುಳಾದಿಗಳು",
+        "B": "ಕೇವಲ ವಚನಗಳು",
+        "C": "ಕೇವಲ ಕಾದಂಬರಿಗಳು",
+        "D": "ಕೇವಲ ನಾಟಕಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೀರ್ತನೆ, ದೇವರನಾಮ ಮತ್ತು ಸುಳಾದಿಗಳ ಮೂಲಕ ಭಕ್ತಿ ಮತ್ತು ತತ್ವವನ್ನು ಜನರಿಗೆ ತಲುಪಿಸಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q34"
+    },
+    {
+      "id": "KLV066",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ರಮುಖ ಹರಿದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು",
+        "C": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ, ಗೋಪಾಲದಾಸ, ಜಗನ್ನಾಥದಾಸ",
+        "D": "ಹರಿಹರ, ರಾಘವಾಂಕ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ, ವಿಜಯದಾಸ, ಗೋಪಾಲದಾಸ ಮತ್ತು ಜಗನ್ನಾಥದಾಸ ಪ್ರಮುಖ ಹರಿದಾಸರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q35"
+    },
+    {
+      "id": "KLV067",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸರ ಕೀರ್ತನೆಗಳು ಯಾವ ಪರಂಪರೆಗಳಲ್ಲಿ ಮಹತ್ವ ಪಡೆದಿವೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಕ್ತಿಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಗೀತ ಪರಂಪರೆ",
+        "B": "ಕೇವಲ ವಾಸ್ತುಶಿಲ್ಪ ಪರಂಪರೆ",
+        "C": "ಕೇವಲ ಚಿತ್ರಕಲೆ ಪರಂಪರೆ",
+        "D": "ಕೇವಲ ನೃತ್ಯ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇವರ ಕೀರ್ತನೆಗಳು ಕನ್ನಡ ಭಕ್ತಿಸಾಹಿತ್ಯ ಮತ್ತು ಸಂಗೀತ ಪರಂಪರೆಯಲ್ಲಿ ಮಹತ್ವ ಪಡೆದಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q35"
+    },
+    {
+      "id": "KLV068",
+      "subject": "Kannada Literature",
+      "topic": "Purandara Dasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರು ಯಾವ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕವಿ-ಸಂಗೀತಕಾರರು?",
+      "options": {
+        "A": "ಹರಿದಾಸ ಪರಂಪರೆ",
+        "B": "ವಚನ ಪರಂಪರೆ",
+        "C": "ಜೈನ ಪರಂಪರೆ",
+        "D": "ನವ್ಯ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪುರಂದರದಾಸರು ಹರಿದಾಸ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಕವಿ-ಸಂಗೀತಕಾರರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q36"
+    },
+    {
+      "id": "KLV069",
+      "subject": "Kannada Literature",
+      "topic": "Purandara Dasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರ ದೇವರನಾಮಗಳಲ್ಲಿ ಯಾವ ಅಂಶಗಳು ಕಂಡುಬರುತ್ತವೆ?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ನೀತಿ, ಸಾಮಾಜಿಕ ಅರಿವು ಮತ್ತು ಸರಳ ಜನಭಾಷೆಯ ಬಳಕೆ",
+        "B": "ಕೇವಲ ಸಂಸ್ಕೃತ ಶ್ಲೋಕಗಳು",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ವಿಮರ್ಶೆ",
+        "D": "ಕೇವಲ ಪ್ರಕೃತಿ ವರ್ಣನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವರ ದೇವರನಾಮಗಳಲ್ಲಿ ಭಕ್ತಿ, ನೀತಿ, ಸಾಮಾಜಿಕ ಅರಿವು ಮತ್ತು ಸರಳ ಜನಭಾಷೆಯ ಬಳಕೆ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q36"
+    },
+    {
+      "id": "KLV070",
+      "subject": "Kannada Literature",
+      "topic": "Purandara Dasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರನ್ನು ಏನೆಂದು ಗೌರವಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ",
+        "B": "ಕನ್ನಡದ ಆದಿಕವಿ",
+        "C": "ವಚನ ಸಾಹಿತ್ಯದ ಜನಕ",
+        "D": "ನವ್ಯ ಸಾಹಿತ್ಯದ ಪ್ರವರ್ತಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವರನ್ನು ಕರ್ನಾಟಕ ಸಂಗೀತದ ಪಿತಾಮಹ ಎಂದು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q36"
+    },
+    {
+      "id": "KLV071",
+      "subject": "Kannada Literature",
+      "topic": "Kanakadasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಪ್ರಮುಖ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ರಾಮಧಾನ್ಯ ಚರಿತೆ, ಮೋಹನತರಂಗಿಣಿ, ನಳಚರಿತ್ರೆ ಮತ್ತು ಹರಿಭಕ್ತಿಸಾರ",
+        "B": "ಆದಿಪುರಾಣ ಮತ್ತು ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "C": "ಶಾಂತಿಪುರಾಣ ಮತ್ತು ಗದಾಯುದ್ಧ",
+        "D": "ಯಶೋಧರ ಚರಿತ್ರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನಕದಾಸರ ಪ್ರಮುಖ ಕೃತಿಗಳಲ್ಲಿ ರಾಮಧಾನ್ಯ ಚರಿತೆ, ಮೋಹನತರಂಗಿಣಿ, ನಳಚರಿತ್ರೆ ಮತ್ತು ಹರಿಭಕ್ತಿಸಾರ ಸೇರಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q37"
+    },
+    {
+      "id": "KLV072",
+      "subject": "Kannada Literature",
+      "topic": "Kanakadasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಕೃತಿಗಳಲ್ಲಿ ಯಾವ ಸಂದೇಶಗಳಿವೆ?",
+      "options": {
+        "A": "ಭಕ್ತಿ, ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+        "B": "ಕೇವಲ ರಾಜಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಜಾತಿಭೇದ ಸಮರ್ಥನೆ",
+        "D": "ಕೇವಲ ಸಂಪತ್ತಿನ ಸಂಗ್ರಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವರ ಕೃತಿಗಳಲ್ಲಿ ಭಕ್ತಿ, ನೀತಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯ ಸಂದೇಶಗಳಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q37"
+    },
+    {
+      "id": "KLV073",
+      "subject": "Kannada Literature",
+      "topic": "Shaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವೀರಶೈವ ಸಾಹಿತ್ಯ ಮತ್ತು ಶೈವ ಸಾಹಿತ್ಯಗಳ ಸಂಬಂಧದ ಬಗ್ಗೆ ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎರಡೂ ಸಂಪೂರ್ಣ ಒಂದೇ",
+        "B": "ವೀರಶೈವ ಸಾಹಿತ್ಯವು ವಿಶಾಲ ಶೈವ ಭಕ್ತಿ ಪರಂಪರೆಯೊಂದಿಗಿನ ಸಂಬಂಧ ಹೊಂದಿದ್ದರೂ, ತನ್ನದೇ ಆದ ಲಿಂಗಾಯತ ತತ್ತ್ವ, ಇಷ್ಟಲಿಂಗೋಪಾಸನೆ, ಕಾಯಕ-ದಾಸೋಹ ಮತ್ತು ಶರಣ ಚಳವಳಿಯ ಸಾಮಾಜಿಕ ಆಶಯಗಳಿಂದ ವಿಶಿಷ್ಟವಾಗಿದೆ",
+        "C": "ಎರಡೂ ಸಂಪೂರ್ಣ ವಿಭಿನ್ನ ಮತ್ತು ಸಂಬಂಧವಿಲ್ಲ",
+        "D": "ವೀರಶೈವ ಸಾಹಿತ್ಯವು ವೈಷ್ಣವ ಸಾಹಿತ್ಯದ ಭಾಗ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವೀರಶೈವ ಸಾಹಿತ್ಯವು ವಿಶಾಲ ಶೈವ ಭಕ್ತಿ ಪರಂಪರೆಯೊಂದಿಗಿನ ಸಂಬಂಧ ಹೊಂದಿದ್ದರೂ, ತನ್ನದೇ ಆದ ಲಿಂಗಾಯತ ತತ್ತ್ವ, ಇಷ್ಟಲಿಂಗೋಪಾಸನೆ, ಕಾಯಕ-ದಾಸೋಹ ಮತ್ತು ಶರಣ ಚಳವಳಿಯ ಸಾಮಾಜಿಕ ಆಶಯಗಳಿಂದ ವಿಶಿಷ್ಟವಾಗಿದೆ. ಎರಡನ್ನೂ ಸಂಪೂರ್ಣ ಒಂದೇ ಎಂದು ಪರಿಗಣಿಸಬಾರದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q39"
+    },
+    {
+      "id": "KLV074",
+      "subject": "Kannada Literature",
+      "topic": "Shaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶೈವ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳ ಉದಾಹರಣೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಹರಿಹರನ ರಗಳಿಗಳು ಮತ್ತು ರಾಘವಾಂಕನ ಹರಿಶ್ಶಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಪಂಪನ ಆದಿಪುರಾಣ",
+        "C": "ಪುರಂದರದಾಸರ ದೇವರನಾಮಗಳು",
+        "D": "ಕನಕದಾಸರ ರಾಮಧಾನ್ಯ ಚರಿತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನ ರಗಳಿಗಳು ಮತ್ತು ರಾಘವಾಂಕನ ಹರಿಶ್ಶಂದ್ರ ಕಾವ್ಯವು ಶೈವ/ವೀರಶೈವ ಭಕ್ತಿಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಕೃತಿಗಳಾಗಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q40"
+    },
+    {
+      "id": "KLV075",
+      "subject": "Kannada Literature",
+      "topic": "Shaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕವಿಗಳ ಧಾರ್ಮಿಕ ಗುರುತಿಸುವಿಕೆಯಲ್ಲಿ ಯಾವ ಅಂಶಗಳನ್ನು ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೃತಿಯ ಸಂದರ್ಭ ಮತ್ತು ಕಾಲವನ್ನು",
+        "B": "ಕೇವಲ ಕವಿಯ ಹೆಸರನ್ನು",
+        "C": "ಕೇವಲ ಕೃತಿಯ ಉದ್ದವನ್ನು",
+        "D": "ಕೇವಲ ಪುಸ್ತಕದ ಬೆಲೆಯನ್ನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿಗಳ ಧಾರ್ಮಿಕ ಗುರುತಿಸುವಿಕೆಯಲ್ಲಿ ಕೃತಿಯ ಸಂದರ್ಭ ಮತ್ತು ಕಾಲವನ್ನು ಗಮನಿಸಬೇಕು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q40"
+    },
+    {
+      "id": "KLV076",
+      "subject": "Kannada Literature",
+      "topic": "Religion and Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧರ್ಮವು ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಮೇಲೆ ಹೇಗೆ ಪ್ರಭಾವ ಬೀರಿತು?",
+      "options": {
+        "A": "ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ ಮತ್ತು ಶೈವ ಧಾರ್ಮಿಕ ಚಿಂತನೆಗಳು ವಿಷಯ, ಪಾತ್ರ, ಕಥಾವಸ್ತು, ನೈತಿಕ ಮೌಲ್ಯ, ಕಾವ್ಯರೂಪ ಮತ್ತು ಭಾಷಾಶೈಲಿಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವು",
+        "B": "ಧರ್ಮವು ಸಾಹಿತ್ಯದ ಮೇಲೆ ಯಾವುದೇ ಪ್ರಭಾವ ಬೀರಲಿಲ್ಲ",
+        "C": "ಧರ್ಮವು ಕೇವಲ ಆಧುನಿಕ ಸಾಹಿತ್ಯದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿತು",
+        "D": "ಧರ್ಮವು ಕೇವಲ ಶಾಸನಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ ಮತ್ತು ಶೈವ ಧಾರ್ಮಿಕ ಚಿಂತನೆಗಳು ವಿಷಯ, ಪಾತ್ರ, ಕಥಾವಸ್ತು, ನೈತಿಕ ಮೌಲ್ಯ, ಕಾವ್ಯರೂಪ ಮತ್ತು ಭಾಷಾಶೈಲಿಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q41"
+    },
+    {
+      "id": "KLV077",
+      "subject": "Kannada Literature",
+      "topic": "Religion and Literature",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಧಾರ್ಮಿಕ ಆಶಯಗಳು ಯಾವ ಮೂಲಕ ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿದವು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯದ ಮೂಲಕ",
+        "B": "ಕೇವಲ ಶಿಲ್ಪಕಲೆಯ ಮೂಲಕ",
+        "C": "ಕೇವಲ ನಾಣ್ಯಗಳ ಮೂಲಕ",
+        "D": "ಕೇವಲ ಯುದ್ಧಗಳ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧಾರ್ಮಿಕ ಆಶಯಗಳು ಸಾಹಿತ್ಯದ ಮೂಲಕ ಜನಸಾಮಾನ್ಯರಿಗೆ ತಲುಪಿದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q41"
+    },
+    {
+      "id": "KLV079",
+      "subject": "Kannada Literature",
+      "topic": "Printing and Western Education",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮುದ್ರಣ ಮತ್ತು ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣವು ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಯಾವ ಬದಲಾವಣೆ ತಂದವು?",
+      "options": {
+        "A": "ಮುದ್ರಣಾಲಯಗಳು ಪುಸ್ತಕ ಮತ್ತು ಪತ್ರಿಕೆಗಳ ಪ್ರಸಾರಕ್ಕೆ ನೆರವಾದವು; ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣದಿಂದ ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ಪ್ರಬಂಧ, ನಾಟಕ ಮತ್ತು ಆಧುನಿಕ ವಿಮರ್ಶೆಯಂತಹ ಸಾಹಿತ್ಯಪ್ರಕಾರಗಳು ಬೆಳೆಯಲು ಅವಕಾಶವಾಯಿತು",
+        "B": "ಮುದ್ರಣವು ಸಾಹಿತ್ಯ ಪ್ರಸಾರವನ್ನು ಕಡಿಮೆ ಮಾಡಿತು",
+        "C": "ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣವು ಹೊಸ ಪ್ರಕಾರಗಳನ್ನು ತಡೆಯಿತು",
+        "D": "ಮುದ್ರಣ ಮತ್ತು ಶಿಕ್ಷಣದಿಂದ ಯಾವುದೇ ಬದಲಾವಣೆ ಆಗಲಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುದ್ರಣಾಲಯಗಳು ಪುಸ್ತಕ ಮತ್ತು ಪತ್ರಿಕೆಗಳ ಪ್ರಸಾರಕ್ಕೆ ನೆರವಾದವು. ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣದಿಂದ ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ಪ್ರಬಂಧ, ನಾಟಕ ಮತ್ತು ಆಧುನಿಕ ವಿಮರ್ಶೆಯಂತಹ ಸಾಹಿತ್ಯಪ್ರಕಾರಗಳು ಬೆಳೆಯಲು ಅವಕಾಶವಾಯಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q43"
+    },
+    {
+      "id": "KLV080",
+      "subject": "Kannada Literature",
+      "topic": "Literary Movements",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಚಳವಳಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಾಲದಲ್ಲಿ ಸಮಾನವಾದ ಸಾಹಿತ್ಯದೃಷ್ಟಿ, ಸಾಮಾಜಿಕ ಆಶಯ, ಭಾಷಾಶೈಲಿ ಅಥವಾ ಕಲಾತ್ಮಕ ಪ್ರಯೋಗಗಳನ್ನು ಹಂಚಿಕೊಂಡ ಲೇಖಕರ ಸಮೂಹದ ಸಾಹಿತ್ಯಪ್ರವೃತ್ತಿ",
+        "B": "ಕೇವಲ ಒಬ್ಬ ಲೇಖಕನ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ರಾಜಕೀಯ ಪಕ್ಷದ ಚಳವಳಿ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ನಿರ್ದಿಷ್ಟ ಕಾಲದಲ್ಲಿ ಸಮಾನವಾದ ಸಾಹಿತ್ಯದೃಷ್ಟಿ, ಸಾಮಾಜಿಕ ಆಶಯ, ಭಾಷಾಶೈಲಿ ಅಥವಾ ಕಲಾತ್ಮಕ ಪ್ರಯೋಗಗಳನ್ನು ಹಂಚಿಕೊಂಡ ಲೇಖಕರ ಸಮೂಹದ ಸಾಹಿತ್ಯಪ್ರವೃತ್ತಿಯನ್ನು ಸಾಹಿತ್ಯ ಚಳವಳಿ ಎನ್ನುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q44"
+    },
+    {
+      "id": "KLV081",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರೀಯತೆ, ಮಾನವತಾವಾದ, ಪ್ರಕೃತಿಪ್ರೇಮ, ರೊಮ್ಯಾಂಟಿಕ್ ಭಾವನೆ, ಭಾರತೀಯ ಪರಂಪರೆ ಮತ್ತು ಪಾಶ್ಚಾತ್ಯ ಸಾಹಿತ್ಯದ ಪ್ರಭಾವ",
+        "B": "ಕೇವಲ ವರ್ಗಶೋಷಣೆಯ ಚಿತ್ರಣ",
+        "C": "ಕೇವಲ ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ",
+        "D": "ಕೇವಲ ಜಾತಿ ಶೋಷಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "20ನೇ ಶತಮಾನದ ಆರಂಭದಿಂದ ಮಧ್ಯಭಾಗದವರೆಗೆ ಪ್ರಭಾವಿ ಆಗಿದ್ದ ನವೋದಯ ಚಳವಳಿಯಲ್ಲಿ ರಾಷ್ಟ್ರೀಯತೆ, ಮಾನವತಾವಾದ, ಪ್ರಕೃತಿಪ್ರೇಮ, ರೊಮ್ಯಾಂಟಿಕ್ ಭಾವನೆ, ಭಾರತೀಯ ಪರಂಪರೆ ಮತ್ತು ಪಾಶ್ಚಾತ್ಯ ಸಾಹಿತ್ಯದ ಪ್ರಭಾವ ಕಂಡುಬರುತ್ತವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q45"
+    },
+    {
+      "id": "KLV082",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಚಳವಳಿಯು ಯಾವ ಕಾಲದಲ್ಲಿ ಪ್ರಭಾವಿ ಆಗಿತ್ತು?",
+      "options": {
+        "A": "20ನೇ ಶತಮಾನದ ಆರಂಭದಿಂದ ಮಧ್ಯಭಾಗದವರೆಗೆ",
+        "B": "12ನೇ ಶತಮಾನದಲ್ಲಿ",
+        "C": "9ನೇ ಶತಮಾನದಲ್ಲಿ",
+        "D": "18ನೇ ಶತಮಾನದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "20ನೇ ಶತಮಾನದ ಆರಂಭದಿಂದ ಮಧ್ಯಭಾಗದವರೆಗೆ ನವೋದಯ ಚಳವಳಿ ಪ್ರಭಾವಿ ಆಗಿತ್ತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q45"
+    },
+    {
+      "id": "KLV083",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನವೋದಯದ ಪ್ರಮುಖ ಕನ್ನಡ ಸಾಹಿತ್ಯಕಾರರು ಯಾರು?",
+      "options": {
+        "A": "ಬಿ.ಎಂ.ಶ್ರೀ, ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು",
+        "D": "ನಿರಂಜನ, ಬಸವರಾಜ ಕಟ್ಟೀಮನಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಿ.ಎಂ.ಶ್ರೀ, ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ ಮುಂತಾದವರು ನವೋದಯ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಹೆಸರುಗಳಾಗಿ ಉಲ್ಲೇಖಿಸಲ್ಪಡುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q46"
+    },
+    {
+      "id": "KLV084",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಚಳವಳಿಯ ಕಾಲಮಿತಿ ಮತ್ತು ಲೇಖಕರ ವರ್ಗೀಕರಣದ ಬಗ್ಗೆ ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲರಿಗೂ ಒಂದೇ ರೀತಿ ನಿಶ್ಚಿತ",
+        "B": "ವ್ಯತ್ಯಾಸ ಇರಬಹುದು",
+        "C": "ಕಾಲಮಿತಿಯೇ ಇಲ್ಲ",
+        "D": "ಲೇಖಕರೇ ಇಲ್ಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಚಳವಳಿಯ ಕಾಲಮಿತಿ ಮತ್ತು ಲೇಖಕರ ವರ್ಗೀಕರಣದಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಇರಬಹುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q46"
+    },
+    {
+      "id": "KLV085",
+      "subject": "Kannada Literature",
+      "topic": "Pragatishila",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಆಶಯವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾಜಿಕ ಅಸಮಾನತೆ, ಶೋಷಣೆ, ಬಡತನ, ಕಾರ್ಮಿಕರ ಬದುಕು ಮತ್ತು ವರ್ಗಸಂಬಂಧಗಳನ್ನು ವಾಸ್ತವಿಕವಾಗಿ ಚಿತ್ರಿಸಿ ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಗೆ ಧ್ವನಿಯಾಗುವುದು",
+        "B": "ಕೇವಲ ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ಕೇವಲ ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ",
+        "D": "ಕೇವಲ ಜಾತಿ ಶೋಷಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾಜಿಕ ಅಸಮಾನತೆ, ಶೋಷಣೆ, ಬಡತನ, ಕಾರ್ಮಿಕರ ಬದುಕು ಮತ್ತು ವರ್ಗಸಂಬಂಧಗಳನ್ನು ವಾಸ್ತವಿಕವಾಗಿ ಚಿತ್ರಿಸಿ ಸಾಮಾಜಿಕ ಬದಲಾವಣೆಗೆ ಧ್ವನಿಯಾಗುವುದು ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಆಶಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q47"
+    },
+    {
+      "id": "KLV086",
+      "subject": "Kannada Literature",
+      "topic": "Pragatishila",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯ ಚಳವಳಿಯ ಪ್ರಮುಖ ಲೇಖಕರಲ್ಲಿ ಯಾರು?",
+      "options": {
+        "A": "ನಿರಂಜನ, ಬಸವರಾಜ ಕಟ್ಟೀಮನಿ ಮತ್ತು ಅ.ನ.ಕೃಷ್ಣರಾವ್",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು",
+        "D": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಹೆಸರುಗಳಿಂದ ನಿರಂಜನ, ಬಸವರಾಜ ಕಟ್ಟೀಮನಿ ಮತ್ತು ಅ.ನ.ಕೃಷ್ಣರಾವ್ ಮುಂತಾದವರನ್ನು ಉಲ್ಲೇಖಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q48"
+    },
+    {
+      "id": "KLV087",
+      "subject": "Kannada Literature",
+      "topic": "Pragatishila",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯದ ಲೇಖಕರ ವರ್ಗೀಕರಣದ ಬಗ್ಗೆ ಏನು ಹೇಳಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲರಿಗೂ ಒಂದೇ ರೀತಿ ನಿಶ್ಚಿತ",
+        "B": "ಸಾಹಿತ್ಯ ಇತಿಹಾಸಕಾರರ ಪ್ರಕಾರ ವ್ಯತ್ಯಾಸವಿರಬಹುದು",
+        "C": "ವರ್ಗೀಕರಣವೇ ಇಲ್ಲ",
+        "D": "ಲೇಖಕರೇ ಇಲ್ಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಲೇಖಕರ ವರ್ಗೀಕರಣದಲ್ಲಿ ಸಾಹಿತ್ಯ ಇತಿಹಾಸಕಾರರ ಪ್ರಕಾರ ವ್ಯತ್ಯಾಸವಿರಬಹುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q48"
+    },
+    {
+      "id": "KLV088",
+      "subject": "Kannada Literature",
+      "topic": "Navya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನವ್ಯ ಸಾಹಿತ್ಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವ್ಯಕ್ತಿಯ ಆಂತರಿಕ ಸಂಘರ್ಷ, ಅಸ್ತಿತ್ವದ ಪ್ರಶ್ನೆ, ನಗರಜೀವನ, ಮನೋವೈಜ್ಞಾನಿಕ ಸಂಕೀರ್ಣತೆ, ಭಾಷೆಯ ಹೊಸ ಪ್ರಯೋಗ ಮತ್ತು ಆಧುನಿಕತೆಯ ವಿಮರ್ಶೆ",
+        "B": "ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ವರ್ಗಶೋಷಣೆಯ ಚಿತ್ರಣ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನವ್ಯ ಸಾಹಿತ್ಯದಲ್ಲಿ ವ್ಯಕ್ತಿಯ ಆಂತರಿಕ ಸಂಘರ್ಷ, ಅಸ್ತಿತ್ವದ ಪ್ರಶ್ನೆ, ನಗರಜೀವನ, ಮನೋವೈಜ್ಞಾನಿಕ ಸಂಕೀರ್ಣತೆ, ಭಾಷೆಯ ಹೊಸ ಪ್ರಯೋಗ ಮತ್ತು ಆಧುನಿಕತೆಯ ವಿಮರ್ಶೆ ಮುಖ್ಯವಾಗಿವೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q49"
+    },
+    {
+      "id": "KLV089",
+      "subject": "Kannada Literature",
+      "topic": "Navya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನವ್ಯ ಕಾವ್ಯದ ಪ್ರಮುಖ ಪ್ರವರ್ತಕರಾಗಿ ಗುರುತಿಸಲ್ಪಡುವವರು ಯಾರು?",
+      "options": {
+        "A": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ",
+        "B": "ಪಂಪ",
+        "C": "ಬಸವಣ್ಣ",
+        "D": "ಪುರಂದರದಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗರು ನವ್ಯ ಕಾವ್ಯದ ಪ್ರಮುಖ ಪ್ರವರ್ತಕರಾಗಿ ಗುರುತಿಸಲ್ಪಡುತ್ತಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q50"
+    },
+    {
+      "id": "KLV090",
+      "subject": "Kannada Literature",
+      "topic": "Navya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ನವ್ಯ/ಆಧುನಿಕ ಪ್ರವೃತ್ತಿಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಲೇಖಕರು ಯಾರು?",
+      "options": {
+        "A": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಪಿ. ಲಂಕೇಶ್, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "B": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "C": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು",
+        "D": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಪಿ. ಲಂಕೇಶ್, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಮುಂತಾದವರು ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ನವ್ಯ/ಆಧುನಿಕ ಪ್ರವೃತ್ತಿಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q50"
+    },
+    {
+      "id": "KLV091",
+      "subject": "Kannada Literature",
+      "topic": "Dalita",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದಲಿತ ಸಾಹಿತ್ಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಆಶಯವೇನು?",
+      "options": {
+        "A": "ಜಾತಿ ಆಧಾರಿತ ಶೋಷಣೆ, ಅಸ್ಪೃಶ್ಯತೆ, ಸಾಮಾಜಿಕ ಅನ್ಯಾಯ ಮತ್ತು ಅಸಮಾನತೆಯ ವಿರುದ್ಧ ಧ್ವನಿ ಎತ್ತಿ ದಲಿತ ಸಮುದಾಯಗಳ ಅನುಭವ, ಆತ್ಮಗೌರವ ಮತ್ತು ಹೋರಾಟಗಳನ್ನು ಸಾಹಿತ್ಯದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು",
+        "B": "ಕೇವಲ ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ಕೇವಲ ವರ್ಗಶೋಷಣೆಯ ಚಿತ್ರಣ",
+        "D": "ಕೇವಲ ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಾತಿ ಆಧಾರಿತ ಶೋಷಣೆ, ಅಸ್ಪೃಶ್ಯತೆ, ಸಾಮಾಜಿಕ ಅನ್ಯಾಯ ಮತ್ತು ಅಸಮಾನತೆಯ ವಿರುದ್ಧ ಧ್ವನಿ ಎತ್ತಿ ದಲಿತ ಸಮುದಾಯಗಳ ಅನುಭವ, ಆತ್ಮಗೌರವ ಮತ್ತು ಹೋರಾಟಗಳನ್ನು ಸಾಹಿತ್ಯದಲ್ಲಿ ವ್ಯಕ್ತಪಡಿಸುವುದು ದಲಿತ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಆಶಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q51"
+    },
+    {
+      "id": "KLV092",
+      "subject": "Kannada Literature",
+      "topic": "Bandaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಂಡಾಯ ಸಾಹಿತ್ಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಲಕ್ಷಣವೇನು?",
+      "options": {
+        "A": "ಸಾಮಾಜಿಕ ಅನ್ಯಾಯ, ಜಾತಿ-ವರ್ಗ ಅಸಮಾನತೆ, ಶೋಷಣೆ ಮತ್ತು ಅಧಿಕಾರದ ದಮನದ ವಿರುದ್ಧ ಪ್ರತಿಭಟನಾತ್ಮಕ ಧ್ವನಿ ಎತ್ತುವುದು",
+        "B": "ಕೇವಲ ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ಕೇವಲ ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ",
+        "D": "ಕೇವಲ ಭಕ್ತಿ ಗೀತೆಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾಜಿಕ ಅನ್ಯಾಯ, ಜಾತಿ-ವರ್ಗ ಅಸಮಾನತೆ, ಶೋಷಣೆ ಮತ್ತು ಅಧಿಕಾರದ ದಮನದ ವಿರುದ್ಧ ಪ್ರತಿಭಟನಾತ್ಮಕ ಧ್ವನಿ ಎತ್ತುವುದು ಬಂಡಾಯ ಸಾಹಿತ್ಯದ ಮುಖ್ಯ ಲಕ್ಷಣ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q52"
+    },
+    {
+      "id": "KLV093",
+      "subject": "Kannada Literature",
+      "topic": "Bandaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಂಡಾಯ ಸಾಹಿತ್ಯವು ಸಾಹಿತ್ಯವನ್ನು ಯಾವ ಸಾಧನವಾಗಿಯೂ ಬಳಸಿತು?",
+      "options": {
+        "A": "ಸಾಮಾಜಿಕ ಹೋರಾಟದ ಸಾಧನ",
+        "B": "ಕೇವಲ ಮನರಂಜನೆಯ ಸಾಧನ",
+        "C": "ಕೇವಲ ಧಾರ್ಮಿಕ ಆಚರಣೆಯ ಸಾಧನ",
+        "D": "ಕೇವಲ ವ್ಯಾಕರಣ ಅಭ್ಯಾಸದ ಸಾಧನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇದು ಸಾಹಿತ್ಯವನ್ನು ಸಾಮಾಜಿಕ ಹೋರಾಟದ ಸಾಧನವಾಗಿಯೂ ಬಳಸಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q52"
+    },
+    {
+      "id": "KLV094",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಗುಣಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "B": "ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ",
+        "C": "ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನವೋದಯ — ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV095",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪ್ರಗತಿಶೀಲ ಚಳವಳಿಯ ಮುಖ್ಯ ಗುಣಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "B": "ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ",
+        "C": "ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪ್ರಗತಿಶೀಲ — ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV096",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನವ್ಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಗುಣಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "B": "ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ",
+        "C": "ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ನವ್ಯ — ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV097",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ದಲಿತ ಚಳವಳಿಯ ಮುಖ್ಯ ಗುಣಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "B": "ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ",
+        "C": "ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ದಲಿತ — ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV098",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಬಂಡಾಯ ಚಳವಳಿಯ ಮುಖ್ಯ ಗುಣಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಅನ್ಯಾಯದ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆ",
+        "B": "ರಾಷ್ಟ್ರೀಯತೆ ಮತ್ತು ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ",
+        "D": "ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಂಡಾಯ — ಅನ್ಯಾಯದ ವಿರುದ್ಧ ಪ್ರತಿಭಟನೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV099",
+      "subject": "Kannada Literature",
+      "topic": "Religious Literature Timeline",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡದಲ್ಲಿ ಯಾವ ಧಾರ್ಮಿಕ ಕಾವ್ಯಪರಂಪರೆ ಪ್ರಬಲವಾಗಿತ್ತು?",
+      "options": {
+        "A": "ಜೈನ ಕಾವ್ಯಪರಂಪರೆ",
+        "B": "ವೀರಶೈವ ವಚನ ಪರಂಪರೆ",
+        "C": "ವೈಷ್ಣವ ಹರಿದಾಸ ಪರಂಪರೆ",
+        "D": "ಶೈವ ರಗಳೆ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡದಲ್ಲಿ ಜೈನ ಕಾವ್ಯಪರಂಪರೆ ಪ್ರಬಲವಾಗಿತ್ತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q54"
+    },
+    {
+      "id": "KLV102",
+      "subject": "Kannada Literature",
+      "topic": "Exam Strategy",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಾಹಿತ್ಯದ ಕಾಲವಿಭಾಗದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಹೇಗೆ ಉತ್ತರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಮೊದಲು ಕಾಲಘಟ್ಟದ ಹೆಸರನ್ನು ಬರೆಯಿರಿ; ನಂತರ ಅಂದಾಜು ಕಾಲಮಿತಿ, ಪ್ರಮುಖ ಲಕ್ಷಣ, ಪ್ರಮುಖ ಸಾಹಿತ್ಯರೂಪ, ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳನ್ನು ಜೋಡಿಸಿ",
+        "B": "ಕೇವಲ ಕವಿಯ ಹೆಸರನ್ನು ಬರೆಯಿರಿ",
+        "C": "ಕೇವಲ ದಿನಾಂಕವನ್ನು ಬರೆಯಿರಿ",
+        "D": "ಉತ್ತರ ಬರೆಯಬೇಡಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲು ಕಾಲಘಟ್ಟದ ಹೆಸರನ್ನು ಬರೆಯಿರಿ; ನಂತರ ಅಂದಾಜು ಕಾಲಮಿತಿ, ಪ್ರಮುಖ ಲಕ್ಷಣ, ಪ್ರಮುಖ ಸಾಹಿತ್ಯರೂಪ, ಕವಿಗಳು ಮತ್ತು ಕೃತಿಗಳನ್ನು ಜೋಡಿಸಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q55"
+    },
+    {
+      "id": "KLV103",
+      "subject": "Kannada Literature",
+      "topic": "Exam Strategy",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕಾಲವಿಭಾಗದ ಪ್ರಶ್ನೆಗಳಿಗೆ ಉತ್ತರಿಸುವಾಗ ಯಾವ ಅಂಶವನ್ನು ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕಾಲಗಡಿಗಳು ಪಠ್ಯಪುಸ್ತಕಾನುಸಾರ ಬದಲಾಗಬಹುದು ಎಂಬುದನ್ನು",
+        "B": "ಕಾಲಗಡಿಗಳು ಯಾವಾಗಲೂ ಒಂದೇ",
+        "C": "ಕಾಲಗಡಿಗಳು ಇಲ್ಲ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ದಿನಾಂಕಗಳು ಮುಖ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಲಗಡಿಗಳು ಪಠ್ಯಪುಸ್ತಕಾನುಸಾರ ಬದಲಾಗಬಹುದು ಎಂಬುದನ್ನು ಗಮನಿಸಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q55"
+    },
+    {
+      "id": "KLV104",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಪಂಪನ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ/ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಅಜಿತಪುರಾಣ/ಗದಾಯುದ್ಧ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ/ಮೋಹನತರಂಗಿಣಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ — ಆದಿಪುರಾಣ/ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV105",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಪೊನ್ನನ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪೊನ್ನ — ಶಾಂತಿಪುರಾಣ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV106",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ರನ್ನನ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ/ವಿಕ್ರಮಾರ್ಜುನ ವಿಜಯ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಅಜಿತಪುರಾಣ/ಗದಾಯುದ್ಧ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ/ಮೋಹನತರಂಗಿಣಿ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ರನ್ನ — ಅಜಿತಪುರಾಣ/ಗದಾಯುದ್ಧ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV107",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಬಸವಣ್ಣನ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನಗಳು",
+        "B": "ದೇವರನಾಮಗಳು",
+        "C": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣ — ವಚನಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV108",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಅಲ್ಲಮಪ್ರಭುವಿನ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನಗಳು",
+        "B": "ದೇವರನಾಮಗಳು",
+        "C": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಲ್ಲಮಪ್ರಭು — ವಚನಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV109",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಪುರಂದರದಾಸರ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನಗಳು",
+        "B": "ದೇವರನಾಮಗಳು",
+        "C": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪುರಂದರದಾಸ — ದೇವರನಾಮಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV110",
+      "subject": "Kannada Literature",
+      "topic": "Key Poet-Work Matchings",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಈ ಅಧ್ಯಾಯದ ಪ್ರಕಾರ ಕನಕದಾಸರ ಕೃತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ವಚನಗಳು",
+        "B": "ದೇವರನಾಮಗಳು",
+        "C": "ರಾಮಧಾನ್ಯ ಚರಿತೆ/ಮೋಹನತರಂಗಿಣಿ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಕನಕದಾಸ — ರಾಮಧಾನ್ಯ ಚರಿತೆ/ಮೋಹನತರಂಗಿಣಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q56"
+    },
+    {
+      "id": "KLV111",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಪ್ರಮುಖ ಪ್ರಾಚೀನ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಕವಿರಾಜಮಾರ್ಗ",
+        "B": "ಆದಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ಶಾಂತಿಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಪ್ರಮುಖ ಪ್ರಾಚೀನ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಕೃತಿ — ಕವಿರಾಜಮಾರ್ಗ (9ನೇ ಶತಮಾನ).",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV112",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಕ್ರಮ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಳೆಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ",
+        "B": "ನಡುಗನ್ನಡ → ಹಳೆಗನ್ನಡ → ಹೊಸಗನ್ನಡ",
+        "C": "ಹೊಸಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹಳೆಗನ್ನಡ",
+        "D": "ಆಧುನಿಕ → ಪ್ರಾಚೀನ → ಮಧ್ಯಕಾಲೀನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಾಲಕ್ರಮ: ಹಳೆಗನ್ನಡ → ನಡುಗನ್ನಡ → ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕನ್ನಡ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV113",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹಳೆಗನ್ನಡದ ಪ್ರಮುಖ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೈನ ಕಾವ್ಯ, ಚಂಪೂ ಶೈಲಿ; ರತ್ನತ್ರಯರು — ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "B": "ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ",
+        "C": "ದಾಸಸಾಹಿತ್ಯ, ಸಾಂಗತ್ಯ",
+        "D": "ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳೆಗನ್ನಡ: ಜೈನ ಕಾವ್ಯ, ಚಂಪೂ ಶೈಲಿ; ರತ್ನತ್ರಯರು — ಪಂಪ, ಪೊನ್ನ, ರನ್ನ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV114",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡದ ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ರೂಪಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೈನ ಕಾವ್ಯ, ಚಂಪೂ ಶೈಲಿ",
+        "B": "ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ, ಸಾಂಗತ್ಯ",
+        "C": "ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ",
+        "D": "ನವ್ಯ ಕಾವ್ಯ, ದಲಿತ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ನಡುಗನ್ನಡ: ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ, ಸಾಂಗತ್ಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV115",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಚನಕಾರರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ",
+        "B": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ",
+        "C": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "D": "ಗೋಪಾಲಕೃಷ್ಣ ಅಡಿಗ, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಚನಕಾರರು: ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು, ಅಕ್ಕಮಹಾದೇವಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV116",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸರು ಯಾರು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣ, ಅಲ್ಲಮಪ್ರಭು",
+        "B": "ಪುರಂದರದಾಸ, ಕನಕದಾಸ",
+        "C": "ಪಂಪ, ಪೊನ್ನ, ರನ್ನ",
+        "D": "ಹರಿಹರ, ರಾಘವಾಂಕ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಹರಿದಾಸರು: ಪುರಂದರದಾಸ, ಕನಕದಾಸ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV117",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ ಕಾಲದ ಪ್ರಮುಖ ಅಂಶಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೈನ ಕಾವ್ಯ, ಚಂಪೂ ಶೈಲಿ",
+        "B": "ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ",
+        "C": "ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ",
+        "D": "ಕೇವಲ ಧಾರ್ಮಿಕ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಹೊಸಗನ್ನಡ/ಆಧುನಿಕ: ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV118",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಚಳವಳಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ನವ್ಯ, ದಲಿತ, ಬಂಡಾಯ",
+        "B": "ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ, ಶೈವ",
+        "C": "ಹಳೆಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡ",
+        "D": "ಚಂಪೂ, ವಚನ, ರಗಳೆ, ಸಾಂಗತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಳವಳಿಗಳು: ನವೋದಯ, ಪ್ರಗತಿಶೀಲ, ನವ್ಯ, ದಲಿತ, ಬಂಡಾಯ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV119",
+      "subject": "Kannada Literature",
+      "topic": "Quick Revision",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದ ಧಾರ್ಮಿಕ ಪರಂಪರೆಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ, ಶೈವ ಪರಂಪರೆಗಳು",
+        "B": "ಕೇವಲ ಜೈನ ಪರಂಪರೆ",
+        "C": "ಕೇವಲ ವೈಷ್ಣವ ಪರಂಪರೆ",
+        "D": "ಕೇವಲ ಶೈವ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಧಾರ್ಮಿಕ ಪ್ರಭಾವ: ಜೈನ, ವೀರಶೈವ, ವೈಷ್ಣವ, ಶೈವ ಪರಂಪರೆಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ಶ್ರೀಮಂತಗೊಳಿಸಿದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    },
+    {
+      "id": "KLV120",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯದ ಕಾಲವಿಭಾಗಕ್ಕೆ ಒಂದೇ ಸಾರ್ವತ್ರಿಕ ದಿನಾಂಕಮಿತಿ ಇದೆಯೇ?",
+      "options": {
+        "A": "ಇಲ್ಲ, ಒಂದೇ ಸಾರ್ವತ್ರಿಕ ದಿನಾಂಕಮಿತಿ ಇಲ್ಲ",
+        "B": "ಹೌದು, ಒಂದೇ ದಿನಾಂಕಮಿತಿ ಇದೆ",
+        "C": "ಹೌದು, ಎರಡು ದಿನಾಂಕಮಿತಿಗಳಿವೆ",
+        "D": "ದಿನಾಂಕಮಿತಿಯ ಪ್ರಶ್ನೆಯೇ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯದ ಕಾಲವಿಭಾಗಕ್ಕೆ ಒಂದೇ ಸಾರ್ವತ್ರಿಕ ದಿನಾಂಕಮಿತಿ ಇಲ್ಲ. ಹಳಿಗನ್ನಡ, ನಡುಗನ್ನಡ, ಹೊಸಗನ್ನಡಗಳ ಕಾಲಗಡಿಗಳು ಪಠ್ಯಪುಸ್ತಕ ಮತ್ತು ವಿದ್ವಾಂಸರ ಪ್ರಕಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Page 1 Notice"
+    },
+    {
+      "id": "KLV121",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಯಾವ ಕಾಲಮಿತಿಗೆ ಆದ್ಯತೆ ನೀಡಬೇಕು?",
+      "options": {
+        "A": "ನಿಗದಿಪಡಿಸಿದ ಪಠ್ಯಪುಸ್ತಕದ ಕಾಲಮಿತಿಗೆ",
+        "B": "ಯಾವುದೇ ಪಠ್ಯಪುಸ್ತಕದ ಕಾಲಮಿತಿಗೆ",
+        "C": "ಕೇವಲ ವಿದ್ವಾಂಸರ ಅಭಿಪ್ರಾಯಕ್ಕೆ",
+        "D": "ಕೇವಲ ರಾಜಕೀಯ ದಿನಾಂಕಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪರೀಕ್ಷೆಗೆ ನಿಗದಿಪಡಿಸಿದ ಪಠ್ಯಪುಸ್ತಕದ ಕಾಲಮಿತಿಗೆ ಆದ್ಯತೆ ನೀಡಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Page 1 Notice"
+    },
+    {
+      "id": "KLV122",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಮಿತಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದು?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ",
+        "B": "12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗೆ",
+        "C": "19ನೇ ಶತಮಾನದಿಂದ 20ನೇ ಶತಮಾನದವರೆಗೆ",
+        "D": "5ನೇ ಶತಮಾನದಿಂದ 6ನೇ ಶತಮಾನದವರೆಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯ 9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಾಬಲ್ಯ ಹೊಂದಿತ್ತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q9"
+    },
+    {
+      "id": "KLV123",
+      "subject": "Kannada Literature",
+      "topic": "Nadugannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಾಲಮಿತಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವುದು?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನದಿಂದ 12ನೇ ಶತಮಾನದವರೆಗೆ",
+        "B": "12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗೆ",
+        "C": "19ನೇ ಶತಮಾನದಿಂದ 20ನೇ ಶತಮಾನದವರೆಗೆ",
+        "D": "5ನೇ ಶತಮಾನದಿಂದ 6ನೇ ಶತಮಾನದವರೆಗೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸುಮಾರು 12ನೇ ಶತಮಾನದಿಂದ 18ನೇ ಶತಮಾನದವರೆಗೆ ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯ ಬೆಳೆಯಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q16"
+    },
+    {
+      "id": "KLV124",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದ ಆರಂಭ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಕಾಲಕ್ಕೆ ಸೇರಿಸಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "9ನೇ ಶತಮಾನ",
+        "B": "12ನೇ ಶತಮಾನ",
+        "C": "19ನೇ ಶತಮಾನದ ಉತ್ತರಾರ್ಧ",
+        "D": "5ನೇ ಶತಮಾನ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ 19ನೇ ಶತಮಾನದ ಉತ್ತರಾರ್ಧದಿಂದ ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ ರೂಪುಗೊಂಡಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q20"
+    },
+    {
+      "id": "KLV125",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಚನ ಸಾಹಿತ್ಯವು ಯಾವ ಚಳವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ಬೆಳೆಯಿತು?",
+      "options": {
+        "A": "ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿ",
+        "B": "ನವೋದಯ ಚಳವಳಿ",
+        "C": "ಬಂಡಾಯ ಚಳವಳಿ",
+        "D": "ದಲಿತ ಚಳವಳಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "12ನೇ ಶತಮಾನದಲ್ಲಿ ಕಲ್ಯಾಣದ ಶರಣ ಚಳವಳಿಯ ಸಂದರ್ಭದಲ್ಲಿ ವಚನ ಸಾಹಿತ್ಯವು ಮಹತ್ವದ ರೂಪದಲ್ಲಿ ಬೆಳೆಯಿತು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q18"
+    },
+    {
+      "id": "KLV126",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿದಾಸ ಸಾಹಿತ್ಯವು ಯಾವ ಧರ್ಮದ ಭಕ್ತಿಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ವೈಷ್ಣವ",
+        "B": "ಜೈನ",
+        "C": "ಶೈವ",
+        "D": "ಬೌದ್ಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿದಾಸ ಸಾಹಿತ್ಯವು ಕನ್ನಡ ವೈಷ್ಣವ ಭಕ್ತಿಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಧಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q34"
+    },
+    {
+      "id": "KLV127",
+      "subject": "Kannada Literature",
+      "topic": "Shaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಹರಿಹರನ ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ರಗಳೆಗಳು",
+        "B": "ವಚನಗಳು",
+        "C": "ದೇವರನಾಮಗಳು",
+        "D": "ಚಂಪೂ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹರಿಹರನ ರಗಳಿಗಳು ಶೈವ/ವೀರಶೈವ ಭಕ್ತಿಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q40"
+    },
+    {
+      "id": "KLV128",
+      "subject": "Kannada Literature",
+      "topic": "Shaiva Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಘವಾಂಕನ ಪ್ರಮುಖ ಕಾವ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಹರಿಶ್ಶಂದ್ರ ಕಾವ್ಯ",
+        "B": "ಗದಾಯುದ್ಧ",
+        "C": "ಶಾಂತಿಪುರಾಣ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಘವಾಂಕನ ಹರಿಶ್ಶಂದ್ರ ಕಾವ್ಯವು ಶೈವ/ವೀರಶೈವ ಭಕ್ತಿಪರಂಪರೆಯ ಪ್ರಮುಖ ಕೃತಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q40"
+    },
+    {
+      "id": "KLV129",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜೈನ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಿಪುರಾಣ",
+        "B": "ಶಾಂತಿಪುರಾಣ",
+        "C": "ಗದಾಯುದ್ಧ",
+        "D": "ರಾಮಧಾನ್ಯ ಚರಿತೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ರಾಮಧಾನ್ಯ ಚರಿತೆ ಕನಕದಾಸರ (ಹರಿದಾಸ) ಕೃತಿ; ಜೈನ ಸಾಹಿತ್ಯದ್ದಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q27, Q37"
+    },
+    {
+      "id": "KLV131",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸರಿಯಾದ ಜೋಡಣೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಳಿಗನ್ನಡ — ಜೈನ ಕವಿಗಳು ಮತ್ತು ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ",
+        "B": "ನಡುಗನ್ನಡ — ಜೈನ ಚಂಪೂ ಕಾವ್ಯ",
+        "C": "ಹೊಸಗನ್ನಡ — ವಚನ ಸಾಹಿತ್ಯ",
+        "D": "ನಡುಗನ್ನಡ — ಕಾದಂಬರಿ ಮತ್ತು ಸಣ್ಣಕಥೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಳಿಗನ್ನಡ ಕಾಲದಲ್ಲಿ ಜೈನ ಕವಿಗಳು ಮತ್ತು ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ ಪ್ರಮುಖವಾಗಿದ್ದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q9"
+    },
+    {
+      "id": "KLV132",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಮತ್ತು ಪ್ರಗತಿಶೀಲ ಚಳವಳಿಗಳ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನವೋದಯ — ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ; ಪ್ರಗತಿಶೀಲ — ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ",
+        "B": "ನವೋದಯ — ಜಾತಿ ಶೋಷಣೆ; ಪ್ರಗತಿಶೀಲ — ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "C": "ನವೋದಯ — ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ; ಪ್ರಗತಿಶೀಲ — ರಾಷ್ಟ್ರೀಯತೆ",
+        "D": "ಎರಡೂ ಒಂದೇ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನವೋದಯ — ರಾಷ್ಟ್ರೀಯತೆ/ಮಾನವತಾವಾದ/ಪ್ರಕೃತಿಪ್ರೇಮ; ಪ್ರಗತಿಶೀಲ — ವರ್ಗಶೋಷಣೆ ಮತ್ತು ಸಾಮಾಜಿಕ ವಾಸ್ತವ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV133",
+      "subject": "Kannada Literature",
+      "topic": "Movement Comparison",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನವ್ಯ ಮತ್ತು ದಲಿತ ಚಳವಳಿಗಳ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನವ್ಯ — ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ; ದಲಿತ — ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ",
+        "B": "ನವ್ಯ — ಜಾತಿ ಶೋಷಣೆ; ದಲಿತ — ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ",
+        "C": "ನವ್ಯ — ರಾಷ್ಟ್ರೀಯತೆ; ದಲಿತ — ಪ್ರಕೃತಿಪ್ರೇಮ",
+        "D": "ಎರಡೂ ಒಂದೇ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನವ್ಯ — ವ್ಯಕ್ತಿಯ ಅಂತರಂಗ ಮತ್ತು ಆಧುನಿಕ ಸಂಕೀರ್ಣತೆ; ದಲಿತ — ಜಾತಿ ಶೋಷಣೆ ಮತ್ತು ಆತ್ಮಗೌರವ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q53"
+    },
+    {
+      "id": "KLV134",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಕ್ಕಮಹಾದೇವಿ ಯಾವ ಸಾಹಿತ್ಯ ಪರಂಪರೆಗೆ ಸೇರಿದವರು?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ಹರಿದಾಸ ಸಾಹಿತ್ಯ",
+        "C": "ಜೈನ ಸಾಹಿತ್ಯ",
+        "D": "ನವ್ಯ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಕ್ಕಮಹಾದೇವಿ ಪ್ರಮುಖ ವಚನಕಾರ್ತಿ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q19, Q30"
+    },
+    {
+      "id": "KLV135",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚನ್ನಬಸವಣ್ಣ ಮತ್ತು ಸಿದ್ಧರಾಮ ಯಾವ ಸಾಹಿತ್ಯಕ್ಕೆ ಸೇರಿದವರು?",
+      "options": {
+        "A": "ವಚನ ಸಾಹಿತ್ಯ",
+        "B": "ಹರಿದಾಸ ಸಾಹಿತ್ಯ",
+        "C": "ಜೈನ ಸಾಹಿತ್ಯ",
+        "D": "ನವ್ಯ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚನ್ನಬಸವಣ್ಣ ಮತ್ತು ಸಿದ್ಧರಾಮ ಪ್ರಮುಖ ಶರಣ-ವಚನಕಾರರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q19, Q30"
+    },
+    {
+      "id": "KLV136",
+      "subject": "Kannada Literature",
+      "topic": "Haridasa Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಜಯದಾಸ, ಗೋಪಾಲದಾಸ ಮತ್ತು ಜಗನ್ನಾಥದಾಸ ಯಾವ ಪರಂಪರೆಗೆ ಸೇರಿದವರು?",
+      "options": {
+        "A": "ಹರಿದಾಸ ಪರಂಪರೆ",
+        "B": "ವಚನ ಪರಂಪರೆ",
+        "C": "ಜೈನ ಪರಂಪರೆ",
+        "D": "ನವ್ಯ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇವರು ಪ್ರಮುಖ ಹರಿದಾಸರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q35"
+    },
+    {
+      "id": "KLV137",
+      "subject": "Kannada Literature",
+      "topic": "Jaina Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಗವರ್ಮ ಯಾವ ಕಾಲದ ಪ್ರಮುಖ ಕವಿ?",
+      "options": {
+        "A": "ಹಳಿಗನ್ನಡ",
+        "B": "ನಡುಗನ್ನಡ",
+        "C": "ಹೊಸಗನ್ನಡ",
+        "D": "ಆಧುನಿಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಗವರ್ಮ ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಕವಿಗಳಲ್ಲಿ ಒಬ್ಬರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q11"
+    },
+    {
+      "id": "KLV138",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಯಾವ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸೇರಿದ ಪ್ರಮುಖರು?",
+      "options": {
+        "A": "ನವೋದಯ",
+        "B": "ಪ್ರಗತಿಶೀಲ",
+        "C": "ನವ್ಯ",
+        "D": "ದಲಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ನವೋದಯ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಹೆಸರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q46"
+    },
+    {
+      "id": "KLV139",
+      "subject": "Kannada Literature",
+      "topic": "Navodaya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ.ರಾ. ಬೇಂದ್ರೆ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಮತ್ತು ಕೆ.ಎಸ್. ನರಸಿಂಹಸ್ವಾಮಿ ಯಾವ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸೇರಿದ ಪ್ರಮುಖರು?",
+      "options": {
+        "A": "ನವೋದಯ",
+        "B": "ಪ್ರಗತಿಶೀಲ",
+        "C": "ನವ್ಯ",
+        "D": "ಬಂಡಾಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇವರು ನವೋದಯ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಹೆಸರುಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q46"
+    },
+    {
+      "id": "KLV140",
+      "subject": "Kannada Literature",
+      "topic": "Navya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಯಾವ ಪ್ರವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖರು?",
+      "options": {
+        "A": "ನವ್ಯ/ಆಧುನಿಕ ಪ್ರವೃತ್ತಿ",
+        "B": "ಜೈನ ಕಾವ್ಯಪರಂಪರೆ",
+        "C": "ವಚನ ಪರಂಪರೆ",
+        "D": "ಹರಿದಾಸ ಪರಂಪರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ನವ್ಯ/ಆಧುನಿಕ ಪ್ರವೃತ್ತಿಗಳೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q50"
+    },
+    {
+      "id": "KLV141",
+      "subject": "Kannada Literature",
+      "topic": "Pragatishila",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಿರಂಜನ ಯಾವ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖರು?",
+      "options": {
+        "A": "ಪ್ರಗತಿಶೀಲ",
+        "B": "ನವೋದಯ",
+        "C": "ನವ್ಯ",
+        "D": "ಜೈನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಿರಂಜನ ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಹೆಸರು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q48"
+    },
+    {
+      "id": "KLV142",
+      "subject": "Kannada Literature",
+      "topic": "Pragatishila",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವರಾಜ ಕಟ್ಟೀಮನಿ ಮತ್ತು ಅ.ನ.ಕೃಷ್ಣರಾವ್ ಯಾವ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖರು?",
+      "options": {
+        "A": "ಪ್ರಗತಿಶೀಲ",
+        "B": "ನವೋದಯ",
+        "C": "ನವ್ಯ",
+        "D": "ದಲಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇವರು ಪ್ರಗತಿಶೀಲ ಸಾಹಿತ್ಯ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಹೆಸರುಗಳು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q48"
+    },
+    {
+      "id": "KLV143",
+      "subject": "Kannada Literature",
+      "topic": "Vachana Sahitya",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಬಸವಣ್ಣನ ವಚನಗಳ ಪ್ರಮುಖ ಆಶಯಗಳಲ್ಲಿ ಒಂದಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಕಾಯಕವೇ ಕೈಲಾಸ",
+        "B": "ದಾಸೋಹ",
+        "C": "ಜಾತಿಭೇದ ವಿರೋಧ",
+        "D": "ಜಾತಿಭೇದ ಸಮರ್ಥನೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಬಸವಣ್ಣನ ವಚನಗಳು ಜಾತಿಭೇದ ವಿರೋಧವನ್ನು ಒತ್ತಿಹೇಳುತ್ತವೆ; ಸಮರ್ಥನೆಯಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q31"
+    },
+    {
+      "id": "KLV144",
+      "subject": "Kannada Literature",
+      "topic": "Kanakadasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನಕದಾಸರ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+        "B": "ಮೋಹನತರಂಗಿಣಿ",
+        "C": "ನಳಚರಿತ್ರೆ",
+        "D": "ಗದಾಯುದ್ಧ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಗದಾಯುದ್ಧ ರನ್ನನ ಕೃತಿ; ಕನಕದಾಸರದ್ದಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q37, Q14"
+    },
+    {
+      "id": "KLV145",
+      "subject": "Kannada Literature",
+      "topic": "Purandara Dasa",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಪುರಂದರದಾಸರ ದೇವರನಾಮಗಳಲ್ಲಿ ಒಂದಲ್ಲದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಭಕ್ತಿ",
+        "B": "ನೀತಿ",
+        "C": "ಸಾಮಾಜಿಕ ಅರಿವು",
+        "D": "ಜಾತಿಭೇದ ಸಮರ್ಥನೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಅವರ ದೇವರನಾಮಗಳಲ್ಲಿ ಭಕ್ತಿ, ನೀತಿ, ಸಾಮಾಜಿಕ ಅರಿವು ಮತ್ತು ಸರಳ ಜನಭಾಷೆಯ ಬಳಕೆ ಕಂಡುಬರುತ್ತದೆ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q36"
+    },
+    {
+      "id": "KLV146",
+      "subject": "Kannada Literature",
+      "topic": "Kavirajamarga",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕವಿರಾಜಮಾರ್ಗದ ಬಗ್ಗೆ ಸರಿಯಾದ ಹೇಳಿಕೆ ಯಾವುದು?",
+      "options": {
+        "A": "ಇದು 9ನೇ ಶತಮಾನದ ಕೃತಿ ಮತ್ತು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ",
+        "B": "ಇದು 12ನೇ ಶತಮಾನದ ವಚನ ಸಂಗ್ರಹ",
+        "C": "ಇದು 19ನೇ ಶತಮಾನದ ಕಾದಂಬರಿ",
+        "D": "ಇದು ಜೈನ ಪುರಾಣ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವಿರಾಜಮಾರ್ಗವು 9ನೇ ಶತಮಾನದ ಕೃತಿ ಮತ್ತು ಕನ್ನಡದ ಮೊದಲ ಲಭ್ಯ ಕಾವ್ಯಶಾಸ್ತ್ರ ಗ್ರಂಥ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q5, Q6"
+    },
+    {
+      "id": "KLV147",
+      "subject": "Kannada Literature",
+      "topic": "Halegannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹಳಿಗನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣಗಳಲ್ಲಿ ಸೇರದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಚಂಪೂ ಶೈಲಿ",
+        "B": "ಸಂಸ್ಕೃತ ಪ್ರಭಾವ",
+        "C": "ಸರಳ ಜನಭಾಷೆ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+        "D": "ಗಂಭೀರ ಭಾಷಾಶೈಲಿ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಸರಳ ಜನಭಾಷೆ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ ವಚನ ಸಾಹಿತ್ಯದ ಲಕ್ಷಣ; ಹಳಿಗನ್ನಡದ್ದಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q10, Q18"
+    },
+    {
+      "id": "KLV148",
+      "subject": "Kannada Literature",
+      "topic": "Nadugannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನಡುಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸೇರದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ವಚನ",
+        "B": "ರಗಳೆ",
+        "C": "ಚಂಪೂ ಮಹಾಕಾವ್ಯ",
+        "D": "ದಾಸಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಚಂಪೂ ಮಹಾಕಾವ್ಯ ಹಳಿಗನ್ನಡದ ಪ್ರಮುಖ ರೂಪ; ನಡುಗನ್ನಡದಲ್ಲಿ ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ, ಸಾಂಗತ್ಯ ಬೆಳೆದವು.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q9, Q16"
+    },
+    {
+      "id": "KLV149",
+      "subject": "Kannada Literature",
+      "topic": "Hosagannada",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆಗೆ ಕಾರಣವಾದ ಅಂಶಗಳಲ್ಲಿ ಸೇರದ್ದು ಯಾವುದು?",
+      "options": {
+        "A": "ಮುದ್ರಣ",
+        "B": "ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ",
+        "C": "ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ಪ್ರಬಂಧ, ನಾಟಕ",
+        "D": "ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ಚಂಪೂ ಕಾವ್ಯಪರಂಪರೆ ಹಳಿಗನ್ನಡದ್ದು; ಹೊಸಗನ್ನಡದ ಬೆಳವಣಿಗೆಗೆ ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ ಮತ್ತು ಹೊಸ ಪ್ರಕಾರಗಳು ಕಾರಣ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Q20, Q43"
+    },
+    {
+      "id": "KLV150",
+      "subject": "Kannada Literature",
+      "topic": "Kannada Literary Periodization",
+      "chapter": "Kannada Sahitya Kalavibhaga",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕೆಳಗಿನ ಯಾವ ಹೇಳಿಕೆ ತಪ್ಪಾಗಿದೆ?",
+      "options": {
+        "A": "ಹಳಿಗನ್ನಡ — ಜೈನ ಕಾವ್ಯ, ಚಂಪೂ ಶೈಲಿ",
+        "B": "ನಡುಗನ್ನಡ — ವಚನ, ರಗಳೆ, ಷಟ್ಟದಿ, ದಾಸಸಾಹಿತ್ಯ, ಸಾಂಗತ್ಯ",
+        "C": "ಹೊಸಗನ್ನಡ — ಮುದ್ರಣ, ಪಾಶ್ಚಾತ್ಯ ಶಿಕ್ಷಣ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ",
+        "D": "ಹಳಿಗನ್ನಡ — ವಚನ ಸಾಹಿತ್ಯ ಮತ್ತು ಹರಿದಾಸ ಸಾಹಿತ್ಯ"
+      },
+      "correctAnswer": "D",
+      "explanation": "ವಚನ ಸಾಹಿತ್ಯ ಮತ್ತು ಹರಿದಾಸ ಸಾಹಿತ್ಯ ನಡುಗನ್ನಡಕ್ಕೆ ಸೇರಿದವು; ಹಳಿಗನ್ನಡಕ್ಕಲ್ಲ.",
+      "source": "Sahitya_Charitre_Kalavibhaga.pdf, Quick Revision"
+    }
+  ]
+}

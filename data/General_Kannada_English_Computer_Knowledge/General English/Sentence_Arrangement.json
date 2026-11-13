@@ -1,0 +1,4507 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Sentence Arrangement question bank for FDA/SDA General English, derived from exam-oriented notes. Covers sentence ordering, paragraph ordering, connectors, pronoun reference, chronological order, cause-and-effect, general-to-specific order, articles, repeated keywords, opening/closing clues, problem-solution, compare-contrast, narrative structure, common mistakes, and solving methods. Verify before formal examination use.",
+  "questions": [
+    {
+      "id": "SA001",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. He works in a bank.\nB. Ramesh is a hardworking young man.\nC. He supports his family.\nD. He goes to work every morning.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "A-B-C-D",
+        "C": "B-D-A-C",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces Ramesh; the remaining sentences give details. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1"
+    },
+    {
+      "id": "SA002",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides oxygen and absorbs carbon dioxide.\nB. Trees are essential for life on Earth.\nC. Therefore, we must protect them.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-B-A",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces the topic; A gives the reason; C draws the conclusion. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA003",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Therefore, regular exercise is important.\nB. It improves physical fitness.\nC. Exercise also reduces stress.\nD. Regular exercise provides several health benefits.",
+      "options": {
+        "A": "D-B-C-A",
+        "B": "A-B-C-D",
+        "C": "D-C-B-A",
+        "D": "B-D-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "D introduces the topic; B and C give benefits; A concludes with 'Therefore'. Order: D-B-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA004",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. First, she collected the documents.\nC. Then, she filled in the form.\nD. After that, she checked the details.\nA. Finally, she submitted the application.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "A-B-C-D",
+        "C": "B-D-C-A",
+        "D": "C-B-D-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "The steps follow chronological order: first, then, after that, finally. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.4"
+    },
+    {
+      "id": "SA005",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. It rained heavily throughout the night.\nA. As a result, many roads were flooded.\nC. Traffic movement was disrupted.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-A-B",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "B is the cause; A is the immediate effect; C is the further consequence. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5"
+    },
+    {
+      "id": "SA006",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Kannada is one of the major Dravidian languages.\nC. It has a rich literary tradition.\nA. It is spoken by millions of people.\nD. It is also the official language of Karnataka.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces the general topic; C, A and D give specific details. One logical order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 1.6"
+    },
+    {
+      "id": "SA007",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. A new machine was purchased by the factory.\nA. The machine was installed last week.\nC. It is expected to increase production.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-B-A",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces 'a new machine'; A refers to 'the machine' (identified); C refers to 'it'. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA008",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Water scarcity is becoming a serious problem.\nC. Excessive consumption and poor management contribute to it.\nD. Rainwater harvesting and conservation can help reduce it.\nA. Therefore, citizens should use water carefully.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem → causes → solution → recommendation. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2"
+    },
+    {
+      "id": "SA009",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Both urban and rural areas need accessible healthcare.\nC. Cities generally have more specialised facilities.\nA. However, rural areas may have fewer specialised hospitals.\nD. This difference can affect access to treatment.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General statement → first side → contrasting side → conclusion. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA010",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. He immediately called the doctor.\nB. Ravi suddenly developed a high fever.\nC. The doctor examined him and prescribed medicine.\nD. After taking the medicine, Ravi began to recover.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "A-B-C-D",
+        "C": "B-C-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Illness, call for help, treatment, recovery. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA011",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Finally, the seeds begin to germinate.\nB. First, the farmer prepares the soil.\nC. Then, he sows the seeds.\nD. He waters the field regularly.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The steps follow the farming process. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA012",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It is celebrated on 15 August every year.\nB. India became independent in 1947.\nC. The day is known as Independence Day.\nD. It is an important national celebration.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Independence is introduced, the day is named, its date and significance follow. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA013",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. As a result, the crops failed.\nB. The region received very little rainfall.\nC. Farmers suffered heavy financial losses.\nD. The drought continued for several months.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low rainfall continued as drought, causing crop failure and financial loss. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA014",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. She carefully read the instructions.\nB. Meena wanted to apply for a government job.\nC. She submitted the completed application online.\nD. She filled in the application form.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purpose, instructions, form completion and submission. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA015",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It improves concentration and memory.\nB. Reading is a valuable habit.\nC. It also increases knowledge and vocabulary.\nD. Therefore, students should read regularly.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, benefits and recommendation. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA016",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers boarded the train.\nB. The train arrived at the station.\nC. It departed after a few minutes.\nD. The passengers found their seats.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arrival precedes boarding, seating and departure. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA017",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This helps prevent the spread of diseases.\nB. Clean drinking water is essential for good health.\nC. Therefore, water should be properly treated and stored.\nD. Contaminated water can carry harmful microorganisms.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Importance, danger, preventive recommendation and benefit. Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA018",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. He practised every day.\nB. Eventually, he won the competition.\nC. Arun wanted to become a good athlete.\nD. His performance gradually improved.",
+      "options": {
+        "A": "C-A-D-B",
+        "B": "C-D-A-B",
+        "C": "A-C-D-B",
+        "D": "B-A-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Goal, practice, improvement and achievement. Order: C-A-D-B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA019",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. However, many people still lack access to it.\nB. Education plays an important role in social development.\nC. Governments must work to make education accessible to everyone.\nD. It helps people acquire knowledge and skills.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, explanation, limitation and recommendation. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA020",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. These measures can reduce pollution and improve public health.\nB. Air pollution is a major environmental problem in cities.\nC. Governments can promote public transport and cleaner energy.\nD. Vehicle emissions and industrial smoke are important sources of pollution.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "C-B-D-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem, sources, solutions and expected benefit. Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA021",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The collected waste is then separated into different categories.\nB. Recycling helps reduce the amount of waste sent to landfills.\nC. Reusable materials are processed to make new products.\nD. This process also helps conserve natural resources.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, sorting, processing and additional benefit. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA022",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The student therefore decided to prepare a daily timetable.\nB. He was unable to complete his syllabus on time.\nC. He followed the timetable and revised regularly.\nD. As a result, his preparation became more organised.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem, plan, implementation and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA023",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides employment to millions of people.\nB. Agriculture is an important sector of the Indian economy.\nC. It also supplies raw materials to several industries.\nD. Therefore, agricultural development is important for economic growth.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, contributions and conclusion. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA024",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The rescue team reached the village.\nB. Heavy rainfall caused flooding in the village.\nC. The affected families were moved to safer places.\nD. The authorities received information about the situation.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flooding, notification, arrival of rescuers and evacuation. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA025",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The library was renovated recently.\nB. It now has more books and reading spaces.\nC. Students can use the library for research.\nD. The improved facilities encourage reading.",
+      "options": {
+        "A": "A-B-C-D",
+        "B": "A-C-B-D",
+        "C": "B-A-C-D",
+        "D": "D-C-B-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renovation, facilities, use and benefit. Order: A-B-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA026",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Finally, the application was approved.\nB. The applicant submitted all required documents.\nC. The officials verified the documents.\nD. The applicant received an approval notification.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submission, verification, approval and notification. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA027",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Exercise strengthens muscles and improves stamina.\nB. Regular physical activity is beneficial to health.\nC. It can also reduce the risk of certain diseases.\nD. People should include suitable exercise in their daily routine.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, supporting benefits and recommendation. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA028",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.\nC. The company repaired the defect and improved quality checks.\nD. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Complaint, investigation, corrective action and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA029",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The final results were announced.\nB. The candidates appeared for the examination.\nC. The answer scripts were evaluated.\nD. The examination authority published the merit list.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination, evaluation, merit list and announcement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA030",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The museum displays objects from different historical periods.\nB. It helps visitors understand the past.\nC. A museum preserves valuable historical and cultural objects.\nD. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "C-A-B-D",
+        "B": "C-B-A-D",
+        "C": "A-C-B-D",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Definition, display, educational benefit and conclusion. Order: C-A-B-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA031",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers were asked to remain calm.\nB. The flight was delayed because of bad weather.\nC. The airline provided updated information about the departure.\nD. The passengers waited at the airport.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delay, instruction, waiting and update. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA032",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This makes it easier to identify areas that need improvement.\nB. Students should review their test performance.\nC. They can examine their incorrect answers.\nD. They should then practise similar questions.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Review, identify errors, practise and improvement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA033",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The tree grew taller over the following years.\nB. A child planted a small sapling near his house.\nC. He watered it and protected it from animals.\nD. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planting, care, growth and result. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA034",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Practice Questions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Consequently, the government introduced new safety measures.\nB. Several road accidents occurred in the area.\nC. Investigations revealed that speeding was a major cause.\nD. The measures included stricter checks and public awareness campaigns.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accidents, investigation, response and details. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA035",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence of a paragraph?",
+      "options": {
+        "A": "He immediately called the doctor.",
+        "B": "Ravi suddenly developed a high fever.",
+        "C": "The doctor examined him and prescribed medicine.",
+        "D": "After taking the medicine, Ravi began to recover."
+      },
+      "correctAnswer": "B",
+      "explanation": "An opening sentence usually introduces the main topic or person and does not depend on an unexplained pronoun. B introduces Ravi.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1"
+    },
+    {
+      "id": "SA036",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence of a paragraph?",
+      "options": {
+        "A": "It provides oxygen and absorbs carbon dioxide.",
+        "B": "Trees are essential for life on Earth.",
+        "C": "Therefore, we must protect them.",
+        "D": "They also provide shade."
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces the topic 'trees' independently; A and C depend on it.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA037",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the closing sentence of a paragraph?",
+      "options": {
+        "A": "Regular exercise provides several health benefits.",
+        "B": "It improves physical fitness.",
+        "C": "Exercise also reduces stress.",
+        "D": "Therefore, regular exercise is important."
+      },
+      "correctAnswer": "D",
+      "explanation": "Closing sentences often give a result, recommendation or summary. 'Therefore' signals a conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8"
+    },
+    {
+      "id": "SA038",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'moreover' in a paragraph?",
+      "options": {
+        "A": "Shows contrast",
+        "B": "Adds information",
+        "C": "Shows result",
+        "D": "Introduces a reason"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Moreover / furthermore' adds information.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA039",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'however' in a paragraph?",
+      "options": {
+        "A": "Shows contrast or concession",
+        "B": "Shows sequence",
+        "C": "Introduces a reason",
+        "D": "Introduces an illustration"
+      },
+      "correctAnswer": "A",
+      "explanation": "'However / nevertheless' shows contrast or concession.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA040",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'therefore' in a paragraph?",
+      "options": {
+        "A": "Shows result or conclusion",
+        "B": "Shows contrast",
+        "C": "Shows simultaneous events",
+        "D": "Introduces the first point"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore / thus / consequently' shows result or conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+        {
+      "id": "SA041",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'because' in a paragraph?",
+      "options": {
+        "A": "Introduces a reason",
+        "B": "Shows contrast",
+        "C": "Shows sequence",
+        "D": "Introduces a final step"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Because / since / as' introduces a reason.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA042",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'for example' in a paragraph?",
+      "options": {
+        "A": "Introduces an illustration",
+        "B": "Shows result",
+        "C": "Shows contrast",
+        "D": "Shows simultaneous events"
+      },
+      "correctAnswer": "A",
+      "explanation": "'For example / for instance' introduces an illustration.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA043",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'meanwhile' in a paragraph?",
+      "options": {
+        "A": "Shows simultaneous events",
+        "B": "Shows result",
+        "C": "Introduces a reason",
+        "D": "Adds information"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Meanwhile' shows simultaneous events.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA044",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'in contrast / on the other hand' in a paragraph?",
+      "options": {
+        "A": "Introduces a comparison or difference",
+        "B": "Shows sequence",
+        "C": "Introduces an illustration",
+        "D": "Introduces a final step"
+      },
+      "correctAnswer": "A",
+      "explanation": "'In contrast / on the other hand' introduces a comparison or difference.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA045",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'firstly / first' in a paragraph?",
+      "options": {
+        "A": "Introduces the first point or step",
+        "B": "Shows contrast",
+        "C": "Shows result",
+        "D": "Introduces a reason"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Firstly / first' introduces the first point or step.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA046",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the function of the connector 'finally / lastly' in a paragraph?",
+      "options": {
+        "A": "Introduces a final step or point",
+        "B": "Shows contrast",
+        "C": "Adds information",
+        "D": "Introduces a reason"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Finally / lastly' introduces a final step or point.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA047",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Therefore, regular exercise is important.\nB. It improves physical fitness.\nC. Exercise also reduces stress.\nD. Regular exercise provides several health benefits.",
+      "options": {
+        "A": "D-B-C-A",
+        "B": "D-C-B-A",
+        "C": "B-D-C-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "D introduces the topic; B and C give benefits; A concludes with 'Therefore'. Order: D-B-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA048",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the sentence 'It provides oxygen and absorbs carbon dioxide', what does 'It' most likely refer to?",
+      "options": {
+        "A": "Trees",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Life"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pronoun refers to a noun or idea already introduced. In the example, 'It' refers to 'Trees'.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA049",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In the sentence 'The machine was installed last week', what does 'The machine' refer to?",
+      "options": {
+        "A": "A new machine purchased by the factory",
+        "B": "The factory",
+        "C": "Production",
+        "D": "Last week"
+      },
+      "correctAnswer": "A",
+      "explanation": "'The machine' refers to the previously introduced 'a new machine'.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA050",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which pronoun generally refers to a previously mentioned plural noun or group?",
+      "options": {
+        "A": "He",
+        "B": "She",
+        "C": "They",
+        "D": "It"
+      },
+      "correctAnswer": "C",
+      "explanation": "'They' refers to a previously mentioned plural noun or group.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA051",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which demonstratives generally refer to plural items?",
+      "options": {
+        "A": "This / that",
+        "B": "These / those",
+        "C": "He / she",
+        "D": "It / they"
+      },
+      "correctAnswer": "B",
+      "explanation": "'These / those' generally refer to plural items.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA052",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A sentence beginning with a pronoun is:",
+      "options": {
+        "A": "Always impossible as an opening sentence",
+        "B": "Not automatically impossible as an opening if the context is already established",
+        "C": "Always the closing sentence",
+        "D": "Always the second sentence"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sentence beginning with a pronoun is not automatically impossible as an opening if the context is already established.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA053",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Chronological Order",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which words are clues for chronological order?",
+      "options": {
+        "A": "First, next, then, after that, before, later, eventually, finally",
+        "B": "However, nevertheless, in contrast",
+        "C": "Because, since, as, due to",
+        "D": "Moreover, furthermore, in addition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chronological order clues include first, next, then, after that, before, later, eventually and finally.",
+      "source": "Sentence_Arrangement.pdf, Section 1.4"
+    },
+    {
+      "id": "SA054",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Chronological Order",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. First, she collected the documents.\nC. Then, she filled in the form.\nD. After that, she checked the details.\nA. Finally, she submitted the application.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "C-B-D-A",
+        "C": "B-D-C-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sequence follows chronological order: first, then, after that, finally. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.4"
+    },
+    {
+      "id": "SA055",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which words are clues for cause-and-effect order?",
+      "options": {
+        "A": "Because, due to, as a result, consequently, hence, therefore",
+        "B": "First, next, then, finally",
+        "C": "However, nevertheless, on the other hand",
+        "D": "For example, for instance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cause-and-effect clues include because, due to, as a result, consequently, hence and therefore.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5"
+    },
+    {
+      "id": "SA056",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Cause and Effect",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. It rained heavily throughout the night.\nA. As a result, many roads were flooded.\nC. Traffic movement was disrupted.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-A-B",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "B is the cause; A is the result; C is the further consequence. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5"
+    },
+    {
+      "id": "SA057",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "General to Specific",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Kannada is one of the major Dravidian languages.\nC. It has a rich literary tradition.\nA. It is spoken by millions of people.\nD. It is also the official language of Karnataka.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "The paragraph moves from a general statement to specific details. One logical order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 1.6"
+    },
+    {
+      "id": "SA058",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "General to Specific",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In general-to-specific order, a paragraph often moves from:",
+      "options": {
+        "A": "A general statement to explanation, details or examples, and then to a conclusion",
+        "B": "A conclusion to a general statement",
+        "C": "Specific details to a random statement",
+        "D": "A pronoun to its antecedent"
+      },
+      "correctAnswer": "A",
+      "explanation": "A paragraph often moves from a general statement to explanation, details or examples, and then to a conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 1.6"
+    },
+    {
+      "id": "SA059",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Articles and Reference Words",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which article often introduces a countable noun for the first time?",
+      "options": {
+        "A": "A / an",
+        "B": "The",
+        "C": "This",
+        "D": "That"
+      },
+      "correctAnswer": "A",
+      "explanation": "'A / an' often introduces a countable noun for the first time; 'the' often refers to an identified or previously mentioned noun.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA060",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Articles and Reference Words",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which article often refers to an identified or previously mentioned noun?",
+      "options": {
+        "A": "A",
+        "B": "An",
+        "C": "The",
+        "D": "Some"
+      },
+      "correctAnswer": "C",
+      "explanation": "'The' often refers to an identified or previously mentioned noun.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA061",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Articles and Reference Words",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. A new machine was purchased by the factory.\nA. The machine was installed last week.\nC. It is expected to increase production.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-B-A",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "'A new machine' is introduced first; 'The machine' refers back to it; 'It' refers to the machine. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA062",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Opening and Closing Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a typical function of an opening sentence?",
+      "options": {
+        "A": "Gives a result or recommendation",
+        "B": "Introduces the topic, supplies background or states a general fact",
+        "C": "Summarises the paragraph",
+        "D": "Gives a final outcome"
+      },
+      "correctAnswer": "B",
+      "explanation": "An opening sentence introduces the topic, supplies background or states a general fact.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8"
+    },
+    {
+      "id": "SA063",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Opening and Closing Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a typical function of a closing sentence?",
+      "options": {
+        "A": "Introduces the main topic",
+        "B": "Gives a result, recommendation, summary, lesson or final outcome",
+        "C": "Supplies background",
+        "D": "Introduces an unexplained pronoun"
+      },
+      "correctAnswer": "B",
+      "explanation": "A closing sentence gives a result, recommendation, summary, lesson or final outcome.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8"
+    },
+    {
+      "id": "SA064",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Opening and Closing Clues",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Are 'Therefore' and 'Finally' absolute proof that a sentence must be last?",
+      "options": {
+        "A": "Yes, they always make a sentence last",
+        "B": "No, they are clues, not absolute proof",
+        "C": "Yes, but only in narrative paragraphs",
+        "D": "No, they always make a sentence first"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Therefore' and 'finally' are clues, not absolute proof that a sentence must be last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8"
+    },
+    {
+      "id": "SA065",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common paragraph structure?",
+      "options": {
+        "A": "Introduction → explanation → supporting details/examples → conclusion",
+        "B": "Conclusion → introduction → examples → explanation",
+        "C": "Example → conclusion → introduction → explanation",
+        "D": "Random order of all sentences"
+      },
+      "correctAnswer": "A",
+      "explanation": "A common paragraph structure is Introduction → explanation → supporting details/examples → conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1"
+    },
+    {
+      "id": "SA066",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common paragraph structure?",
+      "options": {
+        "A": "Problem → causes → consequences → solution",
+        "B": "Solution → problem → causes → consequences",
+        "C": "Consequences → solution → problem → causes",
+        "D": "Causes → solution → problem → consequences"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem → causes → consequences → solution is a common paragraph structure.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1"
+    },
+    {
+      "id": "SA067",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common paragraph structure?",
+      "options": {
+        "A": "General statement → specific details → example → inference",
+        "B": "Example → inference → general statement → specific details",
+        "C": "Inference → example → specific details → general statement",
+        "D": "Specific details → general statement → inference → example"
+      },
+      "correctAnswer": "A",
+      "explanation": "General statement → specific details → example → inference is a common paragraph structure.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1"
+    },
+    {
+      "id": "SA068",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common paragraph structure?",
+      "options": {
+        "A": "Event or story → chronological actions → outcome",
+        "B": "Outcome → event → chronological actions",
+        "C": "Chronological actions → outcome → event",
+        "D": "Outcome → chronological actions → event"
+      },
+      "correctAnswer": "A",
+      "explanation": "Event or story → chronological actions → outcome is a common paragraph structure.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1"
+    },
+    {
+      "id": "SA069",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common paragraph structure?",
+      "options": {
+        "A": "Comparison topic → first side → contrasting side → overall conclusion",
+        "B": "Overall conclusion → first side → contrasting side → comparison topic",
+        "C": "First side → comparison topic → overall conclusion → contrasting side",
+        "D": "Contrasting side → overall conclusion → first side → comparison topic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Comparison topic → first side → contrasting side → overall conclusion is a common paragraph structure.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1"
+    },
+    {
+      "id": "SA070",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Problem and Solution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Water scarcity is becoming a serious problem.\nC. Excessive consumption and poor management contribute to it.\nD. Rainwater harvesting and conservation can help reduce it.\nA. Therefore, citizens should use water carefully.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem → causes → solution → recommendation. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2"
+    },
+    {
+      "id": "SA071",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Problem and Solution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a problem-and-solution paragraph, which sentence usually comes last?",
+      "options": {
+        "A": "The sentence stating the problem",
+        "B": "The sentence explaining the causes",
+        "C": "The sentence giving a recommendation or solution",
+        "D": "The sentence introducing the topic"
+      },
+      "correctAnswer": "C",
+      "explanation": "In problem-and-solution structure, the recommendation or solution typically comes last, often with 'Therefore'.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2"
+    },
+    {
+      "id": "SA072",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Compare and Contrast",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nB. Both urban and rural areas need accessible healthcare.\nC. Cities generally have more specialised facilities.\nA. However, rural areas may have fewer specialised hospitals.\nD. This difference can affect access to treatment.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General statement → first side → contrasting side → conclusion. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA073",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Compare and Contrast",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which words are clues for compare-and-contrast structure?",
+      "options": {
+        "A": "Similarly, likewise, in contrast, on the other hand, whereas, unlike, however",
+        "B": "First, next, then, finally",
+        "C": "Because, since, due to, as a result",
+        "D": "For example, for instance, such as"
+      },
+      "correctAnswer": "A",
+      "explanation": "Compare-and-contrast clues include similarly, likewise, in contrast, on the other hand, whereas, unlike and however.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA074",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Compare and Contrast",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A contrast sentence needs:",
+      "options": {
+        "A": "Something to contrast with",
+        "B": "A pronoun with no antecedent",
+        "C": "A chronological sequence",
+        "D": "A final result"
+      },
+      "correctAnswer": "A",
+      "explanation": "A contrast sentence needs something to contrast with.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA075",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Narrative Structure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In a narrative or event-based structure, what should be identified first?",
+      "options": {
+        "A": "The initial event",
+        "B": "The final outcome",
+        "C": "The conclusion",
+        "D": "The recommendation"
+      },
+      "correctAnswer": "A",
+      "explanation": "In narrative structure, identify the initial event, response, development and final outcome.",
+      "source": "Sentence_Arrangement.pdf, Section 2.4"
+    },
+    {
+      "id": "SA076",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Narrative Structure",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sequence represents a typical narrative structure?",
+      "options": {
+        "A": "A fire breaks out → people call emergency services → firefighters arrive → the fire is controlled",
+        "B": "The fire is controlled → firefighters arrive → people call emergency services → a fire breaks out",
+        "C": "Firefighters arrive → a fire breaks out → the fire is controlled → people call emergency services",
+        "D": "People call emergency services → a fire breaks out → the fire is controlled → firefighters arrive"
+      },
+      "correctAnswer": "A",
+      "explanation": "A typical narrative structure: initial event → response → development → final outcome.",
+      "source": "Sentence_Arrangement.pdf, Section 2.4"
+    },
+    {
+      "id": "SA077",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'pronouns'?",
+      "options": {
+        "A": "Find the noun or person referred to",
+        "B": "Check whether a noun is introduced or identified",
+        "C": "Determine addition, contrast, reason, result or sequence",
+        "D": "Maintain a sensible time sequence"
+      },
+      "correctAnswer": "A",
+      "explanation": "For pronouns, find the noun or person referred to.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA078",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'articles'?",
+      "options": {
+        "A": "Check whether a noun is introduced or identified",
+        "B": "Find the noun or person referred to",
+        "C": "Determine addition, contrast, reason, result or sequence",
+        "D": "Check whether the sentence summarises or draws a result"
+      },
+      "correctAnswer": "A",
+      "explanation": "For articles, check whether a noun is introduced or identified.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA079",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'connectors'?",
+      "options": {
+        "A": "Determine addition, contrast, reason, result or sequence",
+        "B": "Find the noun or person referred to",
+        "C": "Check whether a noun is introduced or identified",
+        "D": "Maintain a sensible time sequence"
+      },
+      "correctAnswer": "A",
+      "explanation": "For connectors, determine addition, contrast, reason, result or sequence.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA080",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'repeated words / synonyms'?",
+      "options": {
+        "A": "Link sentences about the same topic",
+        "B": "Find the noun or person referred to",
+        "C": "Determine addition, contrast, reason, result or sequence",
+        "D": "Check whether a noun is introduced or identified"
+      },
+      "correctAnswer": "A",
+      "explanation": "Repeated words and synonyms link sentences about the same topic.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA081",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'tense and time expressions'?",
+      "options": {
+        "A": "Maintain a sensible time sequence",
+        "B": "Find the noun or person referred to",
+        "C": "Determine addition, contrast, reason, result or sequence",
+        "D": "Link sentences about the same topic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tense and time expressions should maintain a sensible time sequence.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA082",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'demonstratives'?",
+      "options": {
+        "A": "Identify the earlier idea or object being referred to",
+        "B": "Determine addition, contrast, reason, result or sequence",
+        "C": "Maintain a sensible time sequence",
+        "D": "Find the noun or person referred to"
+      },
+      "correctAnswer": "A",
+      "explanation": "Demonstratives identify the earlier idea or object being referred to.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA083",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'logical meaning'?",
+      "options": {
+        "A": "Check whether the next sentence follows naturally",
+        "B": "Find the noun or person referred to",
+        "C": "Check whether a noun is introduced or identified",
+        "D": "Maintain a sensible time sequence"
+      },
+      "correctAnswer": "A",
+      "explanation": "For logical meaning, check whether the next sentence follows naturally.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA084",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you check for the clue 'conclusion markers'?",
+      "options": {
+        "A": "Check whether the sentence summarises or draws a result",
+        "B": "Find the noun or person referred to",
+        "C": "Determine addition, contrast, reason, result or sequence",
+        "D": "Maintain a sensible time sequence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Conclusion markers help check whether the sentence summarises or draws a result.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA085",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Starting with a pronoun whose reference has not been introduced",
+        "B": "Reading every sentence once to identify the topic",
+        "C": "Finding a likely opening sentence",
+        "D": "Rereading the complete sequence after choosing an order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Starting with a pronoun whose reference has not been introduced is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA086",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Ignoring contrast or result connectors such as however and therefore",
+        "B": "Identifying pronouns and demonstratives",
+        "C": "Marking connectors and determining their logical function",
+        "D": "Checking chronological relationships"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ignoring contrast or result connectors such as however and therefore is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+        {
+      "id": "SA087",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Putting a result before its cause when the passage clearly explains a causal sequence",
+        "B": "Identifying the opening sentence",
+        "C": "Locating pronoun references",
+        "D": "Rereading the final sequence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Putting a result before its cause when the passage clearly explains a causal sequence is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA088",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Arranging by option letters rather than by meaning",
+        "B": "Checking chronological relationships",
+        "C": "Finding the sentence that gives the final result",
+        "D": "Eliminating options that break reference"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arranging by option letters rather than by meaning is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA089",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Assuming every passage must end with finally or therefore",
+        "B": "Checking whether a sentence introduces the topic",
+        "C": "Identifying contrast connectors",
+        "D": "Finding pronoun antecedents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Assuming every passage must end with finally or therefore is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA090",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Overlooking a strong pair linked by a pronoun, repeated noun or connector",
+        "B": "Reading every sentence once to identify the topic",
+        "C": "Checking cause-and-effect relationships",
+        "D": "Forming the sequence and rereading it"
+      },
+      "correctAnswer": "A",
+      "explanation": "Overlooking a strong pair linked by a pronoun, repeated noun or connector is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA091",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which of the following is a common mistake in sentence arrangement?",
+      "options": {
+        "A": "Failing to reread the complete sequence after choosing an order",
+        "B": "Finding a likely opening sentence",
+        "C": "Marking connectors",
+        "D": "Identifying the final result sentence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Failing to reread the complete sequence after choosing an order is a common mistake.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA092",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What is the first step in the step-by-step solving method for sentence arrangement?",
+      "options": {
+        "A": "Read every sentence once to identify the topic and overall situation",
+        "B": "Find the sentence that gives the final result",
+        "C": "Form the sequence and reread it",
+        "D": "Eliminate options that break reference"
+      },
+      "correctAnswer": "A",
+      "explanation": "The first step is to read every sentence once to identify the topic and overall situation.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA093",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "After identifying pronouns and demonstratives, what should you do next in the solving method?",
+      "options": {
+        "A": "Mark connectors and determine their logical function",
+        "B": "Form the sequence immediately",
+        "C": "Eliminate all options",
+        "D": "Write the final answer"
+      },
+      "correctAnswer": "A",
+      "explanation": "After identifying pronouns and demonstratives and locating what they refer to, mark connectors and determine their logical function.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA094",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you do after forming the sequence in the solving method?",
+      "options": {
+        "A": "Reread it as one paragraph",
+        "B": "Immediately mark the answer",
+        "C": "Ignore the connectors",
+        "D": "Start with a pronoun"
+      },
+      "correctAnswer": "A",
+      "explanation": "After forming the sequence, reread it as one paragraph.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA095",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What should you do with options that break reference, chronology, grammar or meaning?",
+      "options": {
+        "A": "Eliminate them",
+        "B": "Select them",
+        "C": "Ignore them",
+        "D": "Reverse them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eliminate options that break reference, chronology, grammar or meaning.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA096",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "According to the quick revision notes, an opening sentence usually:",
+      "options": {
+        "A": "Introduces the topic and can usually stand independently",
+        "B": "Depends on an unexplained pronoun",
+        "C": "Gives a final result",
+        "D": "Summarises the paragraph"
+      },
+      "correctAnswer": "A",
+      "explanation": "An opening sentence introduces the topic and can usually stand independently.",
+      "source": "Sentence_Arrangement.pdf, Section 8"
+    },
+    {
+      "id": "SA097",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "For a pronoun sentence, what should you check?",
+      "options": {
+        "A": "Which earlier noun or idea it refers to",
+        "B": "Whether it ends with finally",
+        "C": "Whether it contains a date",
+        "D": "Whether it is the longest sentence"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a pronoun sentence, check which earlier noun or idea it refers to.",
+      "source": "Sentence_Arrangement.pdf, Section 8"
+    },
+    {
+      "id": "SA098",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "For a connector, what should you identify?",
+      "options": {
+        "A": "Addition, contrast, reason, result or sequence",
+        "B": "The number of words in the sentence",
+        "C": "The option letter",
+        "D": "The length of the paragraph"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a connector, identify addition, contrast, reason, result or sequence.",
+      "source": "Sentence_Arrangement.pdf, Section 8"
+    },
+    {
+      "id": "SA099",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Quick Revision",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "For chronology, how should events be arranged?",
+      "options": {
+        "A": "In time order",
+        "B": "In reverse alphabetical order",
+        "C": "By option letter",
+        "D": "By sentence length"
+      },
+      "correctAnswer": "A",
+      "explanation": "For chronology, arrange events in time order.",
+      "source": "Sentence_Arrangement.pdf, Section 8"
+    },
+    {
+      "id": "SA100",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Quick Revision",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "According to the exam note, when more than one sequence is grammatically possible, which option should be chosen in a multiple-choice examination?",
+      "options": {
+        "A": "The option that gives the strongest overall cohesion, reference and logical progression",
+        "B": "The option with the longest first sentence",
+        "C": "The option that starts with a pronoun",
+        "D": "The option arranged alphabetically"
+      },
+      "correctAnswer": "A",
+      "explanation": "Choose the option that gives the strongest overall cohesion, reference and logical progression.",
+      "source": "Sentence_Arrangement.pdf, Section 8"
+    },
+    {
+      "id": "SA101",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "What does sentence arrangement primarily test?",
+      "options": {
+        "A": "Comprehension, grammar, sequence, reference, cohesion and reasoning",
+        "B": "Only spelling",
+        "C": "Only vocabulary",
+        "D": "Only handwriting"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sentence arrangement tests comprehension, grammar, sequence, reference, cohesion and reasoning.",
+      "source": "Sentence_Arrangement.pdf, Page 1 Definition"
+    },
+    {
+      "id": "SA102",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "In sentence-ordering questions, sentences should be arranged so that ideas develop naturally from:",
+      "options": {
+        "A": "Introduction to explanation and conclusion",
+        "B": "Conclusion to introduction and explanation",
+        "C": "Explanation to conclusion and introduction",
+        "D": "Random order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arrange sentences so that ideas develop naturally from introduction to explanation and conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 1"
+    },
+    {
+      "id": "SA103",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "An opening sentence may give:",
+      "options": {
+        "A": "A general fact before later sentences provide details",
+        "B": "A final result before the cause",
+        "C": "A pronoun without an antecedent",
+        "D": "A conclusion before the introduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "An opening sentence may give a general fact before later sentences provide details.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1"
+    },
+    {
+      "id": "SA104",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Should you decide the opening sentence from the first word alone?",
+      "options": {
+        "A": "No, check the complete meaning",
+        "B": "Yes, always",
+        "C": "Yes, if it is a pronoun",
+        "D": "Yes, if it is a connector"
+      },
+      "correctAnswer": "A",
+      "explanation": "Do not decide from the first word alone; check the complete meaning.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1"
+    },
+    {
+      "id": "SA105",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Paragraph ordering requires arranging a longer sequence of sentences or paragraph units so that:",
+      "options": {
+        "A": "The whole passage develops logically",
+        "B": "Each sentence is alphabetical",
+        "C": "The longest sentence comes first",
+        "D": "Pronouns are avoided"
+      },
+      "correctAnswer": "A",
+      "explanation": "Paragraph ordering requires arranging a longer sequence so that the whole passage develops logically.",
+      "source": "Sentence_Arrangement.pdf, Section 2"
+    },
+    {
+      "id": "SA106",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The collected waste is then separated into different categories.\nB. Recycling helps reduce the amount of waste sent to landfills.\nC. Reusable materials are processed to make new products.\nD. This process also helps conserve natural resources.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, sorting, processing and additional benefit. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA107",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The student therefore decided to prepare a daily timetable.\nB. He was unable to complete his syllabus on time.\nC. He followed the timetable and revised regularly.\nD. As a result, his preparation became more organised.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem, plan, implementation and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA108",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides employment to millions of people.\nB. Agriculture is an important sector of the Indian economy.\nC. It also supplies raw materials to several industries.\nD. Therefore, agricultural development is important for economic growth.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, contributions and conclusion. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA109",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The rescue team reached the village.\nB. Heavy rainfall caused flooding in the village.\nC. The affected families were moved to safer places.\nD. The authorities received information about the situation.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flooding, notification, arrival of rescuers and evacuation. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA110",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The library was renovated recently.\nB. It now has more books and reading spaces.\nC. Students can use the library for research.\nD. The improved facilities encourage reading.",
+      "options": {
+        "A": "A-B-C-D",
+        "B": "A-C-B-D",
+        "C": "B-A-C-D",
+        "D": "D-C-B-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renovation, facilities, use and benefit. Order: A-B-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA111",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Finally, the application was approved.\nB. The applicant submitted all required documents.\nC. The officials verified the documents.\nD. The applicant received an approval notification.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submission, verification, approval and notification. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA112",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Exercise strengthens muscles and improves stamina.\nB. Regular physical activity is beneficial to health.\nC. It can also reduce the risk of certain diseases.\nD. People should include suitable exercise in their daily routine.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, supporting benefits and recommendation. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA113",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.\nC. The company repaired the defect and improved quality checks.\nD. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Complaint, investigation, corrective action and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA114",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The final results were announced.\nB. The candidates appeared for the examination.\nC. The answer scripts were evaluated.\nD. The examination authority published the merit list.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination, evaluation, merit list and announcement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA115",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The museum displays objects from different historical periods.\nB. It helps visitors understand the past.\nC. A museum preserves valuable historical and cultural objects.\nD. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "C-A-B-D",
+        "B": "C-B-A-D",
+        "C": "A-C-B-D",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Definition, display, educational benefit and conclusion. Order: C-A-B-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA116",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers were asked to remain calm.\nB. The flight was delayed because of bad weather.\nC. The airline provided updated information about the departure.\nD. The passengers waited at the airport.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delay, instruction, waiting and update. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA117",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This makes it easier to identify areas that need improvement.\nB. Students should review their test performance.\nC. They can examine their incorrect answers.\nD. They should then practise similar questions.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Review, identify errors, practise and improvement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA118",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The tree grew taller over the following years.\nB. A child planted a small sapling near his house.\nC. He watered it and protected it from animals.\nD. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planting, care, growth and result. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA119",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Consequently, the government introduced new safety measures.\nB. Several road accidents occurred in the area.\nC. Investigations revealed that speeding was a major cause.\nD. The measures included stricter checks and public awareness campaigns.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accidents, investigation, response and details. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA120",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. He works in a bank.\nB. Ramesh is a hardworking young man.\nC. He supports his family.\nD. He goes to work every morning.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "A-B-C-D",
+        "C": "B-D-A-C",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces Ramesh; A, D and C give details. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1"
+    },
+    {
+      "id": "SA121",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides oxygen and absorbs carbon dioxide.\nB. Trees are essential for life on Earth.\nC. Therefore, we must protect them.",
+      "options": {
+        "A": "B-A-C",
+        "B": "A-B-C",
+        "C": "C-B-A",
+        "D": "B-C-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "B introduces the topic; A gives the reason; C concludes. Order: B-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA122",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence in the set is the best opening sentence?\nA. It provides oxygen and absorbs carbon dioxide.\nB. Trees are essential for life on Earth.\nC. Therefore, we must protect them.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "Both A and C"
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces the topic independently and does not depend on an unexplained pronoun.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA123",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence in the set is the best closing sentence?\nA. Regular exercise provides several health benefits.\nB. It improves physical fitness.\nC. Exercise also reduces stress.\nD. Therefore, regular exercise is important.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "D",
+      "explanation": "D gives the conclusion with 'Therefore', making it the best closing sentence.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA124",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. She carefully read the instructions.\nB. Meena wanted to apply for a government job.\nC. She submitted the completed application online.\nD. She filled in the application form.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purpose, instructions, form completion and submission. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA125",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It improves concentration and memory.\nB. Reading is a valuable habit.\nC. It also increases knowledge and vocabulary.\nD. Therefore, students should read regularly.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, benefits and recommendation. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA126",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers boarded the train.\nB. The train arrived at the station.\nC. It departed after a few minutes.\nD. The passengers found their seats.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arrival precedes boarding, seating and departure. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA127",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This helps prevent the spread of diseases.\nB. Clean drinking water is essential for good health.\nC. Therefore, water should be properly treated and stored.\nD. Contaminated water can carry harmful microorganisms.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Importance, danger, preventive recommendation and benefit. Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA128",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. He practised every day.\nB. Eventually, he won the competition.\nC. Arun wanted to become a good athlete.\nD. His performance gradually improved.",
+      "options": {
+        "A": "C-A-D-B",
+        "B": "C-D-A-B",
+        "C": "A-C-D-B",
+        "D": "B-A-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Goal, practice, improvement and achievement. Order: C-A-D-B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA129",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. However, many people still lack access to it.\nB. Education plays an important role in social development.\nC. Governments must work to make education accessible to everyone.\nD. It helps people acquire knowledge and skills.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, explanation, limitation and recommendation. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+        {
+      "id": "SA130",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. These measures can reduce pollution and improve public health.\nB. Air pollution is a major environmental problem in cities.\nC. Governments can promote public transport and cleaner energy.\nD. Vehicle emissions and industrial smoke are important sources of pollution.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "C-B-D-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem, sources, solutions and expected benefit. Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA131",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The collected waste is then separated into different categories.\nB. Recycling helps reduce the amount of waste sent to landfills.\nC. Reusable materials are processed to make new products.\nD. This process also helps conserve natural resources.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, sorting, processing and additional benefit. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA132",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The student therefore decided to prepare a daily timetable.\nB. He was unable to complete his syllabus on time.\nC. He followed the timetable and revised regularly.\nD. As a result, his preparation became more organised.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem, plan, implementation and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA133",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides employment to millions of people.\nB. Agriculture is an important sector of the Indian economy.\nC. It also supplies raw materials to several industries.\nD. Therefore, agricultural development is important for economic growth.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic, contributions and conclusion. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA134",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The rescue team reached the village.\nB. Heavy rainfall caused flooding in the village.\nC. The affected families were moved to safer places.\nD. The authorities received information about the situation.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flooding, notification, arrival of rescuers and evacuation. Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA135",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The library was renovated recently.\nB. It now has more books and reading spaces.\nC. Students can use the library for research.\nD. The improved facilities encourage reading.",
+      "options": {
+        "A": "A-B-C-D",
+        "B": "A-C-B-D",
+        "C": "B-A-C-D",
+        "D": "D-C-B-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renovation, facilities, use and benefit. Order: A-B-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA136",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Finally, the application was approved.\nB. The applicant submitted all required documents.\nC. The officials verified the documents.\nD. The applicant received an approval notification.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submission, verification, approval and notification. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA137",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Exercise strengthens muscles and improves stamina.\nB. Regular physical activity is beneficial to health.\nC. It can also reduce the risk of certain diseases.\nD. People should include suitable exercise in their daily routine.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit, supporting benefits and recommendation. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA138",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.\nC. The company repaired the defect and improved quality checks.\nD. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Complaint, investigation, corrective action and result. Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA139",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The final results were announced.\nB. The candidates appeared for the examination.\nC. The answer scripts were evaluated.\nD. The examination authority published the merit list.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination, evaluation, merit list and announcement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA140",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The museum displays objects from different historical periods.\nB. It helps visitors understand the past.\nC. A museum preserves valuable historical and cultural objects.\nD. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "C-A-B-D",
+        "B": "C-B-A-D",
+        "C": "A-C-B-D",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Definition, display, educational benefit and conclusion. Order: C-A-B-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA141",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers were asked to remain calm.\nB. The flight was delayed because of bad weather.\nC. The airline provided updated information about the departure.\nD. The passengers waited at the airport.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delay, instruction, waiting and update. Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA142",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This makes it easier to identify areas that need improvement.\nB. Students should review their test performance.\nC. They can examine their incorrect answers.\nD. They should then practise similar questions.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Review, identify errors, practise and improvement. Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA143",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The tree grew taller over the following years.\nB. A child planted a small sapling near his house.\nC. He watered it and protected it from animals.\nD. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planting, care, growth and result. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA144",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Consequently, the government introduced new safety measures.\nB. Several road accidents occurred in the area.\nC. Investigations revealed that speeding was a major cause.\nD. The measures included stricter checks and public awareness campaigns.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accidents, investigation, response and details. Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA145",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order to form a coherent paragraph:\nA. However, many people still lack access to it.\nB. Education plays an important role in social development.\nC. Governments must work to make education accessible to everyone.\nD. It helps people acquire knowledge and skills.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topic (B) → explanation (D) → limitation (A) → recommendation (C). Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA146",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which connector best fits the blank? 'The region received very little rainfall. ___, the crops failed.'",
+      "options": {
+        "A": "However",
+        "B": "As a result",
+        "C": "For example",
+        "D": "Meanwhile"
+      },
+      "correctAnswer": "B",
+      "explanation": "'As a result' shows the effect of low rainfall. Cause-and-effect order.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5 & 1.3"
+    },
+    {
+      "id": "SA147",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which connector best fits the blank? 'Cities generally have more specialised facilities. ___, rural areas may have fewer specialised hospitals.'",
+      "options": {
+        "A": "Therefore",
+        "B": "However",
+        "C": "Firstly",
+        "D": "Finally"
+      },
+      "correctAnswer": "B",
+      "explanation": "'However' shows contrast between cities and rural areas.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA148",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which connector introduces the first point or step?",
+      "options": {
+        "A": "Finally",
+        "B": "Firstly",
+        "C": "However",
+        "D": "Therefore"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Firstly / first' introduces the first point or step.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA149",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which connector shows sequence?",
+      "options": {
+        "A": "Next / then / afterwards",
+        "B": "However / nevertheless",
+        "C": "Therefore / thus",
+        "D": "Because / since"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Next / then / afterwards' shows sequence.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA150",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Connectors",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which connector introduces a final step or point?",
+      "options": {
+        "A": "Firstly",
+        "B": "Moreover",
+        "C": "Finally",
+        "D": "Because"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Finally / lastly' introduces a final step or point.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA151",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence pair is correctly linked by pronoun reference?\nA. Trees are essential for life on Earth.\nB. It provides oxygen and absorbs carbon dioxide.",
+      "options": {
+        "A": "A must come before B because 'It' refers to 'Trees'",
+        "B": "B must come before A because 'It' refers to 'Earth'",
+        "C": "Either order is fine because 'It' has no reference",
+        "D": "B must come first because it starts with a pronoun"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'Trees' in A, so A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2"
+    },
+    {
+      "id": "SA152",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Pronoun Reference",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The machine was installed last week.\nB. A new machine was purchased by the factory.",
+      "options": {
+        "A": "A before B because 'The machine' refers to 'a new machine'",
+        "B": "B before A because 'The machine' refers to 'a new machine'",
+        "C": "Either order is fine",
+        "D": "A must come first because it is shorter"
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces 'a new machine'; A refers back to it as 'The machine'.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA153",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Articles and Reference Words",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the pair 'A new machine was purchased by the factory.' and 'The machine was installed last week.', which article clue helps determine the order?",
+      "options": {
+        "A": "'A' introduces a noun for the first time; 'The' refers to the identified noun",
+        "B": "'The' introduces a noun for the first time; 'A' refers to the identified noun",
+        "C": "Both articles introduce new nouns",
+        "D": "Articles do not affect sentence order"
+      },
+      "correctAnswer": "A",
+      "explanation": "'A / an' often introduces a countable noun for the first time; 'the' often refers to an identified or previously mentioned noun.",
+      "source": "Sentence_Arrangement.pdf, Section 1.7"
+    },
+    {
+      "id": "SA154",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. As a result, the crops failed.\nB. The region received very little rainfall.\nC. Farmers suffered heavy financial losses.\nD. The drought continued for several months.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low rainfall continued as drought (B-D), causing crop failure (A) and financial loss (C). Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA155",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Chronological Order",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers boarded the train.\nB. The train arrived at the station.\nC. It departed after a few minutes.\nD. The passengers found their seats.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arrival (B) precedes boarding (A), seating (D) and departure (C). Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA156",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Narrative Structure",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The rescue team reached the village.\nB. Heavy rainfall caused flooding in the village.\nC. The affected families were moved to safer places.\nD. The authorities received information about the situation.",
+      "options": {
+        "A": "B-D-A-C",
+        "B": "B-A-D-C",
+        "C": "D-B-A-C",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Narrative structure: initial event (B) → response (D) → development (A) → outcome (C). Order: B-D-A-C.",
+      "source": "Sentence_Arrangement.pdf, Section 2.4 & 6 & 7"
+    },
+    {
+      "id": "SA157",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Problem and Solution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. These measures can reduce pollution and improve public health.\nB. Air pollution is a major environmental problem in cities.\nC. Governments can promote public transport and cleaner energy.\nD. Vehicle emissions and industrial smoke are important sources of pollution.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "C-B-D-A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem (B) → sources (D) → solutions (C) → expected benefit (A). Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2 & 6 & 7"
+    },
+    {
+      "id": "SA158",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Consequently, the government introduced new safety measures.\nB. Several road accidents occurred in the area.\nC. Investigations revealed that speeding was a major cause.\nD. The measures included stricter checks and public awareness campaigns.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cause (B) → investigation (C) → result (A) → details (D). Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA159",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Problem and Solution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This helps prevent the spread of diseases.\nB. Clean drinking water is essential for good health.\nC. Therefore, water should be properly treated and stored.\nD. Contaminated water can carry harmful microorganisms.",
+      "options": {
+        "A": "B-D-C-A",
+        "B": "B-C-D-A",
+        "C": "D-B-C-A",
+        "D": "A-B-D-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Importance (B) → danger (D) → recommendation (C) → benefit (A). Order: B-D-C-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA160",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Chronological Order",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. Finally, the application was approved.\nB. The applicant submitted all required documents.\nC. The officials verified the documents.\nD. The applicant received an approval notification.",
+      "options": {
+        "A": "B-C-A-D",
+        "B": "B-A-C-D",
+        "C": "C-B-A-D",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Submission (B) → verification (C) → approval (A) → notification (D). Order: B-C-A-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA161",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Cause and Effect",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The student therefore decided to prepare a daily timetable.\nB. He was unable to complete his syllabus on time.\nC. He followed the timetable and revised regularly.\nD. As a result, his preparation became more organised.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem (B) → plan (A) → implementation (C) → result (D). Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA162",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Problem and Solution",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.\nC. The company repaired the defect and improved quality checks.\nD. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-C-A-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem (B) → investigation (A) → solution (C) → result (D). Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA163",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "General to Specific",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. It provides employment to millions of people.\nB. Agriculture is an important sector of the Indian economy.\nC. It also supplies raw materials to several industries.\nD. Therefore, agricultural development is important for economic growth.",
+      "options": {
+        "A": "B-A-C-D",
+        "B": "B-C-A-D",
+        "C": "A-B-C-D",
+        "D": "D-A-C-B"
+      },
+      "correctAnswer": "A",
+      "explanation": "General topic (B) → contribution (A) → contribution (C) → conclusion (D). Order: B-A-C-D.",
+      "source": "Sentence_Arrangement.pdf, Section 1.6 & 6 & 7"
+    },
+    {
+      "id": "SA164",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Chronological Order",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The final results were announced.\nB. The candidates appeared for the examination.\nC. The answer scripts were evaluated.\nD. The examination authority published the merit list.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination (B) → evaluation (C) → merit list (D) → announcement (A). Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA165",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "General to Specific",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The museum displays objects from different historical periods.\nB. It helps visitors understand the past.\nC. A museum preserves valuable historical and cultural objects.\nD. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "C-A-B-D",
+        "B": "C-B-A-D",
+        "C": "A-C-B-D",
+        "D": "D-A-B-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Definition (C) → display (A) → educational benefit (B) → conclusion (D). Order: C-A-B-D.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA166",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. The passengers were asked to remain calm.\nB. The flight was delayed because of bad weather.\nC. The airline provided updated information about the departure.\nD. The passengers waited at the airport.",
+      "options": {
+        "A": "B-A-D-C",
+        "B": "B-D-A-C",
+        "C": "A-B-D-C",
+        "D": "D-B-A-C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delay (B) → instruction (A) → waiting (D) → update (C). Order: B-A-D-C.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA167",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "General to Specific",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Arrange the following sentences in the most logical order:\nA. This makes it easier to identify areas that need improvement.\nB. Students should review their test performance.\nC. They can examine their incorrect answers.\nD. They should then practise similar questions.",
+      "options": {
+        "A": "B-C-D-A",
+        "B": "B-D-C-A",
+        "C": "C-B-D-A",
+        "D": "A-B-C-D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Review (B) → examine errors (C) → practise (D) → improvement (A). Order: B-C-D-A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA168",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is 'Arranging by option letters rather than by meaning' a mistake?",
+      "options": {
+        "A": "Because sentence order should be decided by logical meaning, not by option labels",
+        "B": "Because option letters are always wrong",
+        "C": "Because option letters are alphabetical",
+        "D": "Because option letters indicate the correct order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sentence order should be determined by logical meaning and cohesion, not by the letters used to label options.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+        {
+      "id": "SA169",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is 'Assuming every passage must end with finally or therefore' a mistake?",
+      "options": {
+        "A": "Because some passages may end with a summary, lesson or outcome without these words",
+        "B": "Because finally and therefore are never used in paragraphs",
+        "C": "Because every passage must end with a pronoun",
+        "D": "Because every passage must end with a question"
+      },
+      "correctAnswer": "A",
+      "explanation": "A closing sentence may give a result, recommendation, summary, lesson or final outcome without using 'finally' or 'therefore'. These words are clues, not absolute proof.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8 & 4"
+    },
+    {
+      "id": "SA170",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Common Mistakes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Why is 'Overlooking a strong pair linked by a pronoun, repeated noun or connector' a mistake?",
+      "options": {
+        "A": "Because such pairs help fix the relative order of two sentences",
+        "B": "Because such pairs are always at the end",
+        "C": "Because such pairs are always at the beginning",
+        "D": "Because such pairs should be ignored"
+      },
+      "correctAnswer": "A",
+      "explanation": "A strong pair linked by a pronoun, repeated noun or connector helps fix the relative order of two sentences and should not be overlooked.",
+      "source": "Sentence_Arrangement.pdf, Section 4"
+    },
+    {
+      "id": "SA171",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the solving method, what should you find after identifying a likely opening sentence?",
+      "options": {
+        "A": "Pronouns, demonstratives and definite references, and locate what they refer to",
+        "B": "The longest sentence",
+        "C": "The sentence with the most difficult words",
+        "D": "The sentence with the most punctuation marks"
+      },
+      "correctAnswer": "A",
+      "explanation": "After finding a likely opening sentence, identify pronouns, demonstratives and definite references; locate what they refer to.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA172",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the solving method, what relationships should you check after marking connectors?",
+      "options": {
+        "A": "Chronological, cause-and-effect or problem-solution relationships",
+        "B": "Alphabetical relationships",
+        "C": "Sentence-length relationships",
+        "D": "Option-letter relationships"
+      },
+      "correctAnswer": "A",
+      "explanation": "After marking connectors and determining their logical function, check chronological, cause-and-effect or problem-solution relationships.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA173",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Solving Method",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In the solving method, what kind of sentence should you find before forming the sequence?",
+      "options": {
+        "A": "The sentence that gives the final result, recommendation or summary",
+        "B": "The sentence with the most pronouns",
+        "C": "The sentence with the fewest words",
+        "D": "The sentence that starts with 'A'"
+      },
+      "correctAnswer": "A",
+      "explanation": "Find the sentence that gives the final result, recommendation or summary.",
+      "source": "Sentence_Arrangement.pdf, Section 5"
+    },
+    {
+      "id": "SA174",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which clue helps identify the earlier idea or object being referred to?",
+      "options": {
+        "A": "Demonstratives",
+        "B": "Tense",
+        "C": "Repeated words",
+        "D": "Conclusion markers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Demonstratives such as this, that, these and those identify the earlier idea or object being referred to.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA175",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which clue helps maintain a sensible time sequence?",
+      "options": {
+        "A": "Tense and time expressions",
+        "B": "Articles",
+        "C": "Pronouns",
+        "D": "Repeated words"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tense and time expressions help maintain a sensible time sequence.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA176",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which clue helps link sentences about the same topic?",
+      "options": {
+        "A": "Repeated words / synonyms",
+        "B": "Articles",
+        "C": "Conclusion markers",
+        "D": "Demonstratives"
+      },
+      "correctAnswer": "A",
+      "explanation": "Repeated words and synonyms link sentences about the same topic.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA177",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Important Clues",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which clue helps check whether the sentence summarises or draws a result?",
+      "options": {
+        "A": "Conclusion markers",
+        "B": "Pronouns",
+        "C": "Tense",
+        "D": "Articles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Conclusion markers help check whether the sentence summarises or draws a result.",
+      "source": "Sentence_Arrangement.pdf, Section 3"
+    },
+    {
+      "id": "SA178",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a problem-and-solution paragraph, which sentence typically comes immediately after the problem statement?",
+      "options": {
+        "A": "The sentence explaining the causes",
+        "B": "The sentence giving the final recommendation",
+        "C": "The sentence giving the conclusion",
+        "D": "The sentence introducing the topic again"
+      },
+      "correctAnswer": "A",
+      "explanation": "In problem-and-solution structure, the problem statement is typically followed by its causes, then consequences/solutions, and finally a recommendation.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1 & 2.2"
+    },
+    {
+      "id": "SA179",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a compare-and-contrast paragraph, which sentence typically comes immediately after the general comparison topic?",
+      "options": {
+        "A": "The first side of the comparison",
+        "B": "The overall conclusion",
+        "C": "The contrasting side",
+        "D": "A pronoun with no antecedent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Comparison topic → first side → contrasting side → overall conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1 & 2.3"
+    },
+    {
+      "id": "SA180",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Paragraph Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a narrative paragraph, which of the following should come last?",
+      "options": {
+        "A": "The final outcome",
+        "B": "The initial event",
+        "C": "The response",
+        "D": "The development"
+      },
+      "correctAnswer": "A",
+      "explanation": "Narrative structure: initial event → response → development → final outcome.",
+      "source": "Sentence_Arrangement.pdf, Section 2.1 & 2.4"
+    },
+    {
+      "id": "SA181",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence?\nA. It improves concentration and memory.\nB. Reading is a valuable habit.\nC. It also increases knowledge and vocabulary.\nD. Therefore, students should read regularly.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces the topic 'Reading' independently; A and C depend on it; D is a conclusion.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1 & 6 & 7"
+    },
+    {
+      "id": "SA182",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence?\nA. He practised every day.\nB. Eventually, he won the competition.\nC. Arun wanted to become a good athlete.\nD. His performance gradually improved.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "C",
+      "explanation": "C introduces Arun and his goal independently. A, D and B follow chronologically.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1 & 6 & 7"
+    },
+    {
+      "id": "SA183",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence?\nA. She carefully read the instructions.\nB. Meena wanted to apply for a government job.\nC. She submitted the completed application online.\nD. She filled in the application form.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces Meena and her purpose independently. A, D and C give subsequent steps.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1 & 6 & 7"
+    },
+    {
+      "id": "SA184",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the opening sentence?\nA. The passengers boarded the train.\nB. The train arrived at the station.\nC. It departed after a few minutes.\nD. The passengers found their seats.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "B",
+      "explanation": "B introduces the train's arrival, which is the initial event. Boarding, seating and departure follow.",
+      "source": "Sentence_Arrangement.pdf, Section 1.1 & 6 & 7"
+    },
+    {
+      "id": "SA185",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the closing sentence?\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.\nC. The company repaired the defect and improved quality checks.\nD. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "D",
+      "explanation": "D gives the final result: complaints decreased after corrective action.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8 & 6 & 7"
+    },
+    {
+      "id": "SA186",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which sentence is most likely to be the closing sentence?\nA. The tree grew taller over the following years.\nB. A child planted a small sapling near his house.\nC. He watered it and protected it from animals.\nD. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correctAnswer": "D",
+      "explanation": "D gives the final outcome with 'Eventually'.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8 & 6 & 7"
+    },
+    {
+      "id": "SA187",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence pair is linked by the connector 'However'?\nA. Cities generally have more specialised facilities.\nB. Rural areas may have fewer specialised hospitals.",
+      "options": {
+        "A": "A must come before B because 'However' in B contrasts with A",
+        "B": "B must come before A because 'However' in A contrasts with B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A states one side; B begins with 'However' to introduce the contrasting side. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA188",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence pair is linked by the connector 'Therefore'?\nA. Regular exercise provides several health benefits.\nB. Regular exercise is important.",
+      "options": {
+        "A": "A must come before B because B draws a conclusion from A",
+        "B": "B must come before A because A draws a conclusion from B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A states the benefits; B draws the conclusion with 'Therefore'. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3"
+    },
+    {
+      "id": "SA189",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence pair is linked by cause and effect?\nA. It rained heavily throughout the night.\nB. Many roads were flooded.",
+      "options": {
+        "A": "A must come before B because B is the effect of A",
+        "B": "B must come before A because A is the effect of B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A is the cause; B is the effect. Cause comes before effect.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5"
+    },
+    {
+      "id": "SA190",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The applicant received an approval notification.\nB. Finally, the application was approved.",
+      "options": {
+        "A": "B before A because approval precedes the notification",
+        "B": "A before B because notification precedes approval",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The application is approved (B) before the applicant receives the notification (A).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA191",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The officials verified the documents.\nB. The applicant submitted all required documents.",
+      "options": {
+        "A": "B before A because submission precedes verification",
+        "B": "A before B because verification precedes submission",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Documents must be submitted before they can be verified. B before A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA192",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The answer scripts were evaluated.\nB. The candidates appeared for the examination.",
+      "options": {
+        "A": "B before A because the examination precedes evaluation",
+        "B": "A before B because evaluation precedes the examination",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Candidates appear for the examination before answer scripts are evaluated. B before A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA193",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The examination authority published the merit list.\nB. The final results were announced.",
+      "options": {
+        "A": "A before B because the merit list is published before final results are announced",
+        "B": "B before A because final results are announced before the merit list is published",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The merit list is published (A), then the final results are announced (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA194",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The flight was delayed because of bad weather.\nB. The passengers were asked to remain calm.",
+      "options": {
+        "A": "A before B because the delay is the reason for the instruction",
+        "B": "B before A because the instruction causes the delay",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The delay (A) is the cause; the instruction to remain calm (B) follows. A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA195",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The passengers waited at the airport.\nB. The airline provided updated information about the departure.",
+      "options": {
+        "A": "A before B because waiting precedes the update",
+        "B": "B before A because the update precedes waiting",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Passengers wait (A), then the airline provides an update (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA196",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Students should review their test performance.\nB. They can examine their incorrect answers.",
+      "options": {
+        "A": "A before B because 'They' refers to 'Students' in A",
+        "B": "B before A because 'They' refers to 'answers' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'They' in B refers to 'Students' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA197",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. This makes it easier to identify areas that need improvement.\nB. They should then practise similar questions.",
+      "options": {
+        "A": "B before A because 'This' in A refers to the practice in B",
+        "B": "A before B because 'This' in A refers to the practice in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'This' in A refers to the action described in B (practising similar questions). B must come before A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA198",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The tree grew taller over the following years.\nB. A child planted a small sapling near his house.",
+      "options": {
+        "A": "B before A because planting precedes growth",
+        "B": "A before B because growth precedes planting",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sapling is planted (B) before it grows taller (A). B before A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA199",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. He watered it and protected it from animals.\nB. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "A before B because care precedes the final outcome",
+        "B": "B before A because the outcome precedes care",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Care (A) precedes the eventual outcome (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA200",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The company repaired the defect and improved quality checks.\nB. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "A before B because corrective action precedes the result",
+        "B": "B before A because the result precedes corrective action",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Corrective action (A) leads to the result (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA201",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The company identified the cause of the problem.\nB. Customers reported that the product was not working properly.",
+      "options": {
+        "A": "B before A because the complaint precedes the investigation",
+        "B": "A before B because the investigation precedes the complaint",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Customers report the problem (B) before the company identifies its cause (A). B before A.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA202",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The museum displays objects from different historical periods.\nB. A museum preserves valuable historical and cultural objects.",
+      "options": {
+        "A": "B before A because B gives the general definition and A gives a specific detail",
+        "B": "A before B because A gives the general definition and B gives a specific detail",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B gives the general definition of a museum; A gives a specific detail about display. General-to-specific order: B before A.",
+      "source": "Sentence_Arrangement.pdf, Section 1.6 & 6 & 7"
+    },
+    {
+      "id": "SA203",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. It helps visitors understand the past.\nB. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "B last because 'Therefore' signals the conclusion",
+        "B": "A last because it gives the conclusion",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore' signals a conclusion, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3 & 1.8"
+    },
+    {
+      "id": "SA204",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Regular physical activity is beneficial to health.\nB. People should include suitable exercise in their daily routine.",
+      "options": {
+        "A": "B last because it gives a recommendation",
+        "B": "A last because it gives a recommendation",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B gives a recommendation, which typically comes at the end of a paragraph.",
+      "source": "Sentence_Arrangement.pdf, Section 1.8 & 6 & 7"
+    },
+    {
+      "id": "SA205",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Reading is a valuable habit.\nB. Therefore, students should read regularly.",
+      "options": {
+        "A": "B last because 'Therefore' signals the conclusion/recommendation",
+        "B": "A last because it introduces the topic",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore' signals a conclusion or recommendation, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3 & 1.8"
+    },
+    {
+      "id": "SA206",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Agriculture is an important sector of the Indian economy.\nB. It provides employment to millions of people.",
+      "options": {
+        "A": "A before B because 'It' in B refers to 'Agriculture' in A",
+        "B": "B before A because 'It' in A refers to 'Agriculture' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'Agriculture' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA207",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Education plays an important role in social development.\nB. It helps people acquire knowledge and skills.",
+      "options": {
+        "A": "A before B because 'It' in B refers to 'Education' in A",
+        "B": "B before A because 'It' in A refers to 'Education' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'Education' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA208",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Recycling helps reduce the amount of waste sent to landfills.\nB. The collected waste is then separated into different categories.",
+      "options": {
+        "A": "A before B because B describes a step in the recycling process introduced in A",
+        "B": "B before A because A describes a step in the process introduced in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A introduces recycling as a general benefit; B then describes the sorting step. A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA209",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Reusable materials are processed to make new products.\nB. This process also helps conserve natural resources.",
+      "options": {
+        "A": "B last because it gives an additional benefit of the process",
+        "B": "A last because it gives an additional benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B gives an additional benefit of the process described in A. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA210",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Water scarcity is becoming a serious problem.\nB. Excessive consumption and poor management contribute to it.",
+      "options": {
+        "A": "A before B because 'it' in B refers to 'Water scarcity' in A",
+        "B": "B before A because 'it' in A refers to 'Water scarcity' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'Water scarcity' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2"
+    },
+        {
+      "id": "SA211",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Rainwater harvesting and conservation can help reduce it.\nB. Therefore, citizens should use water carefully.",
+      "options": {
+        "A": "B last because 'Therefore' signals the recommendation",
+        "B": "A last because it gives the recommendation",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore' signals a recommendation, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2"
+    },
+    {
+      "id": "SA212",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Both urban and rural areas need accessible healthcare.\nB. Cities generally have more specialised facilities.",
+      "options": {
+        "A": "A before B because A gives the general comparison topic and B gives the first side",
+        "B": "B before A because B gives the general comparison topic",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gives the general comparison topic; B gives the first side. Compare-and-contrast order: A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA213",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. However, rural areas may have fewer specialised hospitals.\nB. This difference can affect access to treatment.",
+      "options": {
+        "A": "B last because it draws a conclusion from the contrast",
+        "B": "A last because it introduces the contrast",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B draws a conclusion from the contrast stated in A. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 2.3"
+    },
+    {
+      "id": "SA214",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Air pollution is a major environmental problem in cities.\nB. Vehicle emissions and industrial smoke are important sources of pollution.",
+      "options": {
+        "A": "A before B because A states the problem and B gives the sources",
+        "B": "B before A because B states the problem",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem-and-solution order: problem (A) before sources (B).",
+      "source": "Sentence_Arrangement.pdf, Section 2.2 & 6 & 7"
+    },
+    {
+      "id": "SA215",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Governments can promote public transport and cleaner energy.\nB. These measures can reduce pollution and improve public health.",
+      "options": {
+        "A": "B last because it gives the expected benefit of the measures",
+        "B": "A last because it gives the expected benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B gives the expected benefit of the measures in A. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2 & 6 & 7"
+    },
+    {
+      "id": "SA216",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Clean drinking water is essential for good health.\nB. Contaminated water can carry harmful microorganisms.",
+      "options": {
+        "A": "A before B because A states the importance and B states the danger",
+        "B": "B before A because B states the importance",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Importance (A) before danger (B).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA217",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Therefore, water should be properly treated and stored.\nB. This helps prevent the spread of diseases.",
+      "options": {
+        "A": "B last because it gives the benefit of the recommendation in A",
+        "B": "A last because it gives the benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gives the recommendation; B gives its benefit. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA218",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Arun wanted to become a good athlete.\nB. He practised every day.",
+      "options": {
+        "A": "A before B because 'He' in B refers to 'Arun' in A",
+        "B": "B before A because 'He' in A refers to 'Arun' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'He' in B refers to 'Arun' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA219",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. His performance gradually improved.\nB. Eventually, he won the competition.",
+      "options": {
+        "A": "B last because 'Eventually' signals the final outcome",
+        "B": "A last because it gives the final outcome",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Eventually' signals the final outcome, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.4 & 6 & 7"
+    },
+    {
+      "id": "SA220",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Meena wanted to apply for a government job.\nB. She carefully read the instructions.",
+      "options": {
+        "A": "A before B because 'She' in B refers to 'Meena' in A",
+        "B": "B before A because 'She' in A refers to 'Meena' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'She' in B refers to 'Meena' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA221",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. She filled in the application form.\nB. She submitted the completed application online.",
+      "options": {
+        "A": "B last because submission follows form completion",
+        "B": "A last because form completion follows submission",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The form is filled in (A) before it is submitted (B). B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA222",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. He was unable to complete his syllabus on time.\nB. The student therefore decided to prepare a daily timetable.",
+      "options": {
+        "A": "A before B because the problem precedes the solution",
+        "B": "B before A because the solution precedes the problem",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The problem (A) precedes the solution (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA223",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. He followed the timetable and revised regularly.\nB. As a result, his preparation became more organised.",
+      "options": {
+        "A": "B last because 'As a result' signals the consequence",
+        "B": "A last because it gives the consequence",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'As a result' signals a consequence, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.5 & 6 & 7"
+    },
+    {
+      "id": "SA224",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The applicants submitted all required documents.\nB. The officials verified the documents.",
+      "options": {
+        "A": "A before B because submission precedes verification",
+        "B": "B before A because verification precedes submission",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Documents are submitted (A) before they are verified (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA225",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The applicant received an approval notification.\nB. Finally, the application was approved.",
+      "options": {
+        "A": "A last because the notification follows approval",
+        "B": "B last because approval follows notification",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approval (B) precedes the notification (A). A comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA226",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Regular physical activity is beneficial to health.\nB. Exercise strengthens muscles and improves stamina.",
+      "options": {
+        "A": "A before B because A gives the general benefit and B gives a supporting benefit",
+        "B": "B before A because B gives the general benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit (A) before supporting benefit (B).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA227",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. It can also reduce the risk of certain diseases.\nB. People should include suitable exercise in their daily routine.",
+      "options": {
+        "A": "B last because it gives a recommendation",
+        "B": "A last because it gives a recommendation",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "B gives a recommendation, which typically comes at the end.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA228",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The candidates appeared for the examination.\nB. The answer scripts were evaluated.",
+      "options": {
+        "A": "A before B because the examination precedes evaluation",
+        "B": "B before A because evaluation precedes the examination",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination (A) precedes evaluation (B).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA229",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The final results were announced.\nB. The examination authority published the merit list.",
+      "options": {
+        "A": "A last because final results are announced after the merit list is published",
+        "B": "B last because the merit list is published after the results",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The merit list is published (B) before final results are announced (A). A comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA230",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. A museum preserves valuable historical and cultural objects.\nB. The museum displays objects from different historical periods.",
+      "options": {
+        "A": "A before B because A gives the general definition and B gives a specific detail",
+        "B": "B before A because B gives the general definition",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "General definition (A) before specific detail (B).",
+      "source": "Sentence_Arrangement.pdf, Section 1.6 & 6 & 7"
+    },
+    {
+      "id": "SA231",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. It helps visitors understand the past.\nB. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "B last because 'Therefore' signals the conclusion",
+        "B": "A last because it gives the conclusion",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore' signals a conclusion, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3 & 1.8"
+    },
+    {
+      "id": "SA232",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The flight was delayed because of bad weather.\nB. The passengers were asked to remain calm.",
+      "options": {
+        "A": "A before B because the delay is the reason for the instruction",
+        "B": "B before A because the instruction causes the delay",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The delay (A) is the cause; the instruction (B) follows. A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA233",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The passengers waited at the airport.\nB. The airline provided updated information about the departure.",
+      "options": {
+        "A": "B last because the update follows the waiting",
+        "B": "A last because waiting follows the update",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Passengers wait (A), then the airline provides an update (B). B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA234",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Students should review their test performance.\nB. This makes it easier to identify areas that need improvement.",
+      "options": {
+        "A": "A before B because 'This' in B refers to reviewing test performance in A",
+        "B": "B before A because 'This' in A refers to reviewing in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'This' in B refers to the review action described in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA235",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. They can examine their incorrect answers.\nB. They should then practise similar questions.",
+      "options": {
+        "A": "B last because 'then' signals the next step after examining answers",
+        "B": "A last because it is the next step",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Then' signals the next step; practice follows examination of answers. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3 & 6 & 7"
+    },
+    {
+      "id": "SA236",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. A child planted a small sapling near his house.\nB. The tree grew taller over the following years.",
+      "options": {
+        "A": "A before B because planting precedes growth",
+        "B": "B before A because growth precedes planting",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sapling is planted (A) before it grows taller (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA237",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. He watered it and protected it from animals.\nB. Eventually, it provided shade to the family.",
+      "options": {
+        "A": "B last because 'Eventually' signals the final outcome",
+        "B": "A last because it gives the final outcome",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Eventually' signals the final outcome, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.4 & 6 & 7"
+    },
+    {
+      "id": "SA238",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Customers reported that the product was not working properly.\nB. The company identified the cause of the problem.",
+      "options": {
+        "A": "A before B because the complaint precedes the investigation",
+        "B": "B before A because the investigation precedes the complaint",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The complaint (A) precedes the investigation (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA239",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The company repaired the defect and improved quality checks.\nB. The number of complaints subsequently decreased.",
+      "options": {
+        "A": "B last because the decrease follows the corrective action",
+        "B": "A last because the corrective action follows the decrease",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Corrective action (A) precedes the resulting decrease in complaints (B). B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA240",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. The candidates appeared for the examination.\nB. The answer scripts were evaluated.",
+      "options": {
+        "A": "A before B because the examination precedes evaluation",
+        "B": "B before A because evaluation precedes the examination",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Examination (A) precedes evaluation (B).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA241",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The examination authority published the merit list.\nB. The final results were announced.",
+      "options": {
+        "A": "B last because final results are announced after the merit list is published",
+        "B": "A last because the merit list is published after the results",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "The merit list is published (A), then final results are announced (B). B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA242",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. A museum preserves valuable historical and cultural objects.\nB. It helps visitors understand the past.",
+      "options": {
+        "A": "A before B because 'It' in B refers to 'A museum' in A",
+        "B": "B before A because 'It' in A refers to 'A museum' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'A museum' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    },
+    {
+      "id": "SA243",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. The museum displays objects from different historical periods.\nB. Therefore, museums play an important educational role.",
+      "options": {
+        "A": "B last because 'Therefore' signals the conclusion",
+        "B": "A last because it gives the conclusion",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Therefore' signals a conclusion, so B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 1.3 & 1.8"
+    },
+    {
+      "id": "SA244",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Several road accidents occurred in the area.\nB. Investigations revealed that speeding was a major cause.",
+      "options": {
+        "A": "A before B because the accidents precede the investigation",
+        "B": "B before A because the investigation precedes the accidents",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accidents (A) precede the investigation into their cause (B). A before B.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA245",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Consequently, the government introduced new safety measures.\nB. The measures included stricter checks and public awareness campaigns.",
+      "options": {
+        "A": "B last because it gives details of the measures introduced in A",
+        "B": "A last because it gives details of the measures",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "A introduces the measures; B gives details. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA246",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Air pollution is a major environmental problem in cities.\nB. Vehicle emissions and industrial smoke are important sources of pollution.",
+      "options": {
+        "A": "A before B because A states the problem and B gives the sources",
+        "B": "B before A because B states the problem",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "Problem (A) before sources (B).",
+      "source": "Sentence_Arrangement.pdf, Section 2.2 & 6 & 7"
+    },
+    {
+      "id": "SA247",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Governments can promote public transport and cleaner energy.\nB. These measures can reduce pollution and improve public health.",
+      "options": {
+        "A": "B last because 'These measures' refers to the solutions in A and gives their benefit",
+        "B": "A last because it gives the benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'These measures' in B refers to the solutions in A; B gives the benefit. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 2.2 & 6 & 7"
+    },
+    {
+      "id": "SA248",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Recycling helps reduce the amount of waste sent to landfills.\nB. The collected waste is then separated into different categories.",
+      "options": {
+        "A": "A before B because A introduces the general benefit and B describes a step",
+        "B": "B before A because B introduces the general benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "General benefit (A) before specific step (B).",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA249",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come last?\nA. Reusable materials are processed to make new products.\nB. This process also helps conserve natural resources.",
+      "options": {
+        "A": "B last because 'This process' refers to the processing in A and adds an additional benefit",
+        "B": "A last because it gives the additional benefit",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'This process' in B refers to the processing in A; B adds an additional benefit. B comes last.",
+      "source": "Sentence_Arrangement.pdf, Section 6 & 7"
+    },
+    {
+      "id": "SA250",
+      "subject": "English",
+      "topic": "Sentence Arrangement",
+      "chapter": "Sentence Ordering",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which sentence should come first?\nA. Agriculture is an important sector of the Indian economy.\nB. It provides employment to millions of people.",
+      "options": {
+        "A": "A before B because 'It' in B refers to 'Agriculture' in A",
+        "B": "B before A because 'It' in A refers to 'Agriculture' in B",
+        "C": "Either order is fine",
+        "D": "They cannot be linked"
+      },
+      "correctAnswer": "A",
+      "explanation": "'It' in B refers to 'Agriculture' in A. A must come before B.",
+      "source": "Sentence_Arrangement.pdf, Section 1.2 & 6 & 7"
+    }
+  ]
+}

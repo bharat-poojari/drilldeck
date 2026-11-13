@@ -1,0 +1,4507 @@
+{
+  "exam": "KEA",
+  "version": "1.0.0",
+  "description": "Kannada Sahitya Prashastigalu question bank generated from Sahitya_Prashastigalu.pdf. All questions are in Kannada.",
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ಗೌರವಗಳ ಉದ್ದೇಶವೇನು?",
+      "options": {
+        "A": "ಉತ್ತಮ ಸಾಹಿತ್ಯಸೃಷ್ಟಿ, ಭಾಷಾ-ಸಂಸ್ಕೃತಿಗೆ ಕೊಡುಗೆ, ಸಂಶೋಧನೆ, ಅನುವಾದ ಮತ್ತು ಸಾಹಿತ್ಯಸೇವೆಯನ್ನು ಗುರುತಿಸಿ ಗೌರವಿಸುವುದು",
+        "B": "ಕೇವಲ ಹಣಕಾಸಿನ ಸಹಾಯ ನೀಡುವುದು",
+        "C": "ಕೇವಲ ಪುಸ್ತಕಗಳನ್ನು ಪ್ರಕಟಿಸುವುದು",
+        "D": "ಕೇವಲ ಸಮ್ಮೇಳನಗಳನ್ನು ಆಯೋಜಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳು ಉತ್ತಮ ಸಾಹಿತ್ಯಸೃಷ್ಟಿ, ಭಾಷಾ-ಸಂಸ್ಕೃತಿಗೆ ಕೊಡುಗೆ, ಸಂಶೋಧನೆ, ಅನುವಾದ ಮತ್ತು ಸಾಹಿತ್ಯಸೇವೆಯನ್ನು ಗುರುತಿಸಿ ಗೌರವಿಸುವುದಕ್ಕಾಗಿ ನೀಡಲಾಗುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q002",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿಯ ಆಯ್ಕೆ ಮಾನದಂಡ ಮತ್ತು ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ ಯಾವುದರ ನಿಯಮಾನುಸಾರ ಬದಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಂಸ್ಥೆಯ ನಿಯಮಾನುಸಾರ",
+        "B": "ಸರ್ಕಾರದ ನಿಯಮಾನುಸಾರ",
+        "C": "ರಾಜ್ಯದ ನಿಯಮಾನುಸಾರ",
+        "D": "ಜಿಲ್ಲೆಯ ನಿಯಮಾನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಆಯ್ಕೆ ಮಾನದಂಡ ಮತ್ತು ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ ಸಂಸ್ಥೆಯ ನಿಯಮಾನುಸಾರ ಬದಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q1"
+    },
+    {
+      "id": "Q003",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಅತ್ಯಂತ ಪ್ರತಿಷ್ಠಿತ ಸಾಹಿತ್ಯ ಗೌರವಗಳಲ್ಲಿ ಒಂದು",
+        "B": "ಕೇವಲ ಕನ್ನಡ ಭಾಷೆಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ ಭಾಷೆಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಭಾಷೆಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಅತ್ಯಂತ ಪ್ರತಿಷ್ಠಿತ ಸಾಹಿತ್ಯ ಗೌರವಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q004",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ಸ್ಥಾಪಿಸಿದೆ?",
+      "options": {
+        "A": "ಭಾರತೀಯ ಜ್ಞಾನಪೀಠ ಸಂಸ್ಥೆ",
+        "B": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "C": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾರತೀಯ ಜ್ಞಾನಪೀಠ ಸಂಸ್ಥೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q005",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ ಎಲ್ಲಿಂದ ಆರಂಭವಾಯಿತು?",
+      "options": {
+        "A": "1965",
+        "B": "1967",
+        "C": "1973",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "1965ರಿಂದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ ಆರಂಭವಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q006",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾರಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಜಿ. ಶಂಕರ ಕುರುಪ್",
+        "B": "ಕುವೆಂಪು",
+        "C": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "D": "ಶಿವರಾಮ ಕಾರಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "1965ರ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ಮಲಯಾಳಂ ಕವಿ ಜಿ. ಶಂಕರ ಕುರುಪ್ ಅವರಿಗೆ ನೀಡಲಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q007",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಓಡಕ್ಕುಳಲ್",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಿ. ಶಂಕರ ಕುರುಪ್ ಅವರಿಗೆ 'ಓಡಕ್ಕುಳಲ್' ಕೃತಿಗಾಗಿ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q008",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು",
+        "B": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "C": "ಶಿವರಾಮ ಕಾರಂತ",
+        "D": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 1967ರಲ್ಲಿ ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರಾದರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q009",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 'ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ' ಕೃತಿಗಾಗಿ 1967ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q4 & Q7"
+    },
+    {
+      "id": "Q010",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಮತ್ತು ಚಂದ್ರಶೇಖರ ಕಂಬಾರರು ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q011",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1973",
+        "B": "1967",
+        "C": "1977",
+        "D": "1983"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 1973ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q012",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1977",
+        "B": "1973",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 1977ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q013",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1983",
+        "B": "1977",
+        "C": "1990",
+        "D": "1994"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 1983ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q014",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1990",
+        "B": "1983",
+        "C": "1994",
+        "D": "1998"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 1990ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q015",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1994",
+        "B": "1990",
+        "C": "1998",
+        "D": "2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ 1994ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q016",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1998",
+        "B": "1994",
+        "C": "2010",
+        "D": "1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ 1998ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q017",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "2010",
+        "B": "1998",
+        "C": "1994",
+        "D": "2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ 2010ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6 & Page 2, Q14"
+    },
+    {
+      "id": "Q018",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ನಾಕುತಂತಿ",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 'ನಾಕುತಂತಿ' ಕವನಸಂಕಲನಕ್ಕೆ 1973ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q019",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 'ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು' ಕಾದಂಬರಿಗೆ 1977ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q020",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 'ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ' ಕಾದಂಬರಿಗೆ 1983ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q10"
+    },
+    {
+      "id": "Q021",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "B": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಮಹಾಕಾವ್ಯಕ್ಕೆ 1990ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q022",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ಸಂಸ್ಕಾರ' ಕಾದಂಬರಿಗಾಗಿ",
+        "C": "ಕೇವಲ ಕವನಸಂಕಲನಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ ನಾಟಕಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ 1994ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q023",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರ ಪ್ರಸಿದ್ಧ ಕಾದಂಬರಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕಾರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ನಾಕುತಂತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಸಂಸ್ಕಾರ' ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರ ಪ್ರಸಿದ್ಧ ಕಾದಂಬರಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q024",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ತುಫಲಕ್' ನಾಟಕಕ್ಕಾಗಿ",
+        "C": "ಕೇವಲ 'ಯಯಾತಿ' ನಾಟಕಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ 'ನಾಗಮಂಡಲ' ನಾಟಕಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ 1998ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q13"
+    },
+    {
+      "id": "Q025",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತುಫಲಕ್, ಯಯಾತಿ ಮತ್ತು ನಾಗಮಂಡಲ",
+        "B": "ಜೋಕುಮಾರಸ್ವಾಮಿ ಮತ್ತು ಸಿರಿಸಂಪಿಗೆ",
+        "C": "ಸಂಸ್ಕಾರ ಮತ್ತು ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "D": "ನಾಕುತಂತಿ ಮತ್ತು ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ತುಫಲಕ್', 'ಯಯಾತಿ' ಮತ್ತು 'ನಾಗಮಂಡಲ' ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q13"
+    },
+    {
+      "id": "Q026",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ಜೋಕುಮಾರಸ್ವಾಮಿ' ನಾಟಕಕ್ಕಾಗಿ",
+        "C": "ಕೇವಲ 'ಸಿರಿಸಂಪಿಗೆ' ನಾಟಕಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ ಕವನಸಂಕಲನಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ 2010ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q14"
+    },
+        {
+      "id": "Q027",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೋಕುಮಾರಸ್ವಾಮಿ ಮತ್ತು ಸಿರಿಸಂಪಿಗೆ",
+        "B": "ತುಫಲಕ್ ಮತ್ತು ಯಯಾತಿ",
+        "C": "ನಾಗಮಂಡಲ ಮತ್ತು ತುಫಲಕ್",
+        "D": "ಸಂಸ್ಕಾರ ಮತ್ತು ಯಯಾತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಜೋಕುಮಾರಸ್ವಾಮಿ' ಮತ್ತು 'ಸಿರಿಸಂಪಿಗೆ' ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q028",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಕೃತಿ ಸಚಿವಾಲಯದಡಿ ಸ್ವಾಯತ್ತ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ ನೀಡುವ ವಾರ್ಷಿಕ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಕೃತಿ ಸಚಿವಾಲಯದಡಿ ಸ್ವಾಯತ್ತ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆಯಾಗಿದ್ದು, ಮಾನ್ಯತೆ ಪಡೆದ ಭಾರತೀಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟಿತ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕ್ಕೆ ವಾರ್ಷಿಕ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q15"
+    },
+    {
+      "id": "Q029",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠವು ಸಮಗ್ರ ಅಥವಾ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ಗೌರವ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ನಿರ್ದಿಷ್ಟ ವರ್ಷದಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಕೃತಿಗೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠವು ಕೇವಲ ಕನ್ನಡಕ್ಕೆ; ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಎಲ್ಲಾ ಭಾಷೆಗಳಿಗೆ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ಸಮಗ್ರ ಅಥವಾ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ರಾಷ್ಟ್ರಮಟ್ಟದ ಗೌರವ. ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಸಾಮಾನ್ಯವಾಗಿ ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ವರ್ಷದಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಕೃತಿಗೆ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q030",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕವನ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ, ವಿಮರ್ಶೆ, ಆತ್ಮಕಥೆ, ಜೀವನಚರಿತ್ರೆ ಮತ್ತು ಇತರ ಮಾನ್ಯ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳು",
+        "B": "ಕೇವಲ ಕವನ ಮತ್ತು ಕಾದಂಬರಿ",
+        "C": "ಕೇವಲ ನಾಟಕ ಮತ್ತು ಪ್ರಬಂಧ",
+        "D": "ಕೇವಲ ವಿಮರ್ಶೆ ಮತ್ತು ಸಂಶೋಧನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವನ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ, ವಿಮರ್ಶೆ, ಆತ್ಮಕಥೆ, ಜೀವನಚರಿತ್ರೆ ಮತ್ತು ಇತರ ಮಾನ್ಯ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳ ಕೃತಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಭಾಷಾ-ವರ್ಷದ ನಿಯಮಗಳಂತೆ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q17"
+    },
+    {
+      "id": "Q031",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರನ್ನು ಹೇಗೆ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಭಾಷೆ, ವರ್ಷ, ಲೇಖಕ ಮತ್ತು ಕೃತಿಯ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಬೇಕು",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಹುಡುಕಬೇಕು",
+        "C": "ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಮಾತ್ರ ಹುಡುಕಬೇಕು",
+        "D": "ಸ್ನೇಹಿತರನ್ನು ಕೇಳಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಭಾಷೆ, ವರ್ಷ, ಲೇಖಕ ಮತ್ತು ಕೃತಿಯ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಪ್ರಶಸ್ತಿ ವರ್ಷ ಮತ್ತು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷ ಒಂದೇ ಆಗಿರಬೇಕೆಂಬ ನಿಯಮವಿಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q032",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಇಲಾಖೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ",
+        "B": "ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಥೆ",
+        "C": "ಖಾಸಗಿ ಸಂಸ್ಥೆ",
+        "D": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಭಾಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಇಲಾಖೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ. ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ, ಅಧ್ಯಯನ, ಪ್ರಕಟಣೆ, ಪ್ರಶಸ್ತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಉತ್ತೇಜಿಸುವುದು ಇದರ ಉದ್ದೇಶ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q19"
+    },
+    {
+      "id": "Q033",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಯಾವ ಉದ್ದೇಶಕ್ಕೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ವಿವಿಧ ಪ್ರಕಾರಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ಕೃತಿಗಳು, ಸಾಹಿತ್ಯಸೇವೆ, ವಿಮರ್ಶೆ, ಸಂಶೋಧನೆ ಮತ್ತು ಇತರ ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು",
+        "B": "ಕೇವಲ ಕವನಗಳಿಗೆ",
+        "C": "ಕೇವಲ ಕಾದಂಬರಿಗಳಿಗೆ",
+        "D": "ಕೇವಲ ನಾಟಕಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ವಿವಿಧ ಪ್ರಕಾರಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ಕೃತಿಗಳು, ಸಾಹಿತ್ಯಸೇವೆ, ವಿಮರ್ಶೆ, ಸಂಶೋಧನೆ ಮತ್ತು ಇತರ ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡುತ್ತದೆ. ಪ್ರಶಸ್ತಿ ವಿಭಾಗಗಳು ಮತ್ತು ನಿಯಮಗಳು ಕಾಲಾನುಸಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q20"
+    },
+    {
+      "id": "Q034",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿದ ಹಿರಿಯ ಸಾಹಿತಿಗಳಿಗೆ ನೀಡುವ ಪ್ರಮುಖ ಗೌರವ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಖಾಸಗಿ ಸಂಸ್ಥೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿದ ಹಿರಿಯ ಸಾಹಿತಿಗಳಿಗೆ ನೀಡುವ ಪ್ರಮುಖ ಗೌರವಗಳಲ್ಲಿ ಪಂಪ ಪ್ರಶಸ್ತಿಯೂ ಒಂದು. ಆದಿಕವಿ ಪಂಪನ ಹೆಸರಿನಲ್ಲಿ ಈ ಪ್ರಶಸ್ತಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q035",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದ ಮಹತ್ವದ ಸಾಧನೆ ಮತ್ತು ಜೀವಮಾನ ಸಾಹಿತ್ಯ ಕೊಡುಗೆ",
+        "B": "ಕೇವಲ ವಿಜ್ಞಾನ ಕ್ಷೇತ್ರ",
+        "C": "ಕೇವಲ ಕಲೆ ಕ್ಷೇತ್ರ",
+        "D": "ಕೇವಲ ಸಮಾಜಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಖ್ಯವಾಗಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದ ಮಹತ್ವದ ಸಾಧನೆ ಮತ್ತು ಜೀವಮಾನ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಯನ್ನು ಗುರುತಿಸುವ ಪ್ರಶಸ್ತಿ. ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q036",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ. ಇದು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q037",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಯನ್ನು ಗೌರವಿಸುವ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೇವಲ ಕಲೆಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಯನ್ನು ಗೌರವಿಸುವ ಪ್ರಶಸ್ತಿ. ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಗೌರವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿಗಳ ಸಾಧನೆಗೆ ನೀಡಲಾಗುತ್ತದೆ; ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಲ್ಲಿ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q038",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡುವ ರಾಜ್ಯಮಟ್ಟದ ಗೌರವ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಖಾಸಗಿ ಸಂಸ್ಥೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡುವ ರಾಜ್ಯಮಟ್ಟದ ಗೌರವವೇ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ. ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q039",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಷ್ಟ್ರಕವಿ ಗೌರವ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಮತ್ತು ನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ ಜೀವನಕ್ಕೆ ವಿಶಿಷ್ಟ ಕೊಡುಗೆ ನೀಡಿದ ಕವಿಗೆ ನೀಡುವ ಗೌರವ",
+        "B": "ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ಕಾದಂಬರಿಗಾರರಿಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಮತ್ತು ನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ ಜೀವನಕ್ಕೆ ವಿಶಿಷ್ಟ ಕೊಡುಗೆ ನೀಡಿದ ಕವಿಗೆ ನೀಡುವ ಗೌರವ. ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು; ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q040",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿಯೇ ನಾಡೋಜ. ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆಯ ಸಾಧಕರನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q041",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ಸ್ಥಾಪಿಸಿದ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ಸ್ಥಾಪಿಸಿದ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ. ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟವಾದ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನಿಯಮಾನುಸಾರ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q042",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠವು ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿಗೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ",
+        "D": "ಜ್ಞಾನಪೀಠವು ಕೇವಲ ಕನ್ನಡಕ್ಕೆ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಎಲ್ಲಾ ಭಾಷೆಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ಗೌರವ. ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನೀಡುವ ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q043",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ",
+        "B": "ಪದ್ಮ ವಿಭೂಷಣ ಮತ್ತು ಪದ್ಮ ಭೂಷಣ ಮಾತ್ರ",
+        "C": "ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ ಮಾತ್ರ",
+        "D": "ಪದ್ಮಶ್ರೀ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ ಎಂಬ ಮೂರು ಪ್ರಮುಖ ನಾಗರಿಕ ಗೌರವಗಳಿವೆ. ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ಇವುಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q044",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳೇ?",
+      "options": {
+        "A": "ಅವು ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ; ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ವಿಶಿಷ್ಟ ನಾಗರಿಕ ಕೊಡುಗೆಗೆ ನೀಡುವ ಗೌರವಗಳು",
+        "B": "ಹೌದು, ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ",
+        "C": "ಅವು ಕೇವಲ ವಿಜ್ಞಾನಕ್ಕೆ ಮಾತ್ರ",
+        "D": "ಅವು ಕೇವಲ ಕಲೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವು ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ; ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ವಿಶಿಷ್ಟ ನಾಗರಿಕ ಕೊಡುಗೆಗೆ ನೀಡುವ ಗೌರವಗಳು. ಸಾಹಿತ್ಯ ಮತ್ತು ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರದ ಸಾಧಕರೂ ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳ ಆಯ್ಕೆಯಾಗಬಹುದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q045",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುವ ಮಹತ್ವದ ಸಾಹಿತ್ಯ ಸಮಾವೇಶ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಕವಿಗೋಷ್ಠಿ",
+        "D": "ಕೇವಲ ವಿಚಾರಗೋಷ್ಠಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುವ ಮಹತ್ವದ ಸಾಹಿತ್ಯ ಸಮಾವೇಶವೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q32"
+    },
+        {
+      "id": "Q046",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನವನ್ನು ಯಾವ ಸಂಸ್ಥೆ ಆಯೋಜಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನವನ್ನು ಆಯೋಜಿಸುವ ಪ್ರಮುಖ ಸಂಸ್ಥೆ. ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q047",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಯಾವಾಗ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+      "options": {
+        "A": "1915",
+        "B": "1965",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q048",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಎಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+      "options": {
+        "A": "ಬೆಂಗಳೂರು",
+        "B": "ಮೈಸೂರು",
+        "C": "ಹಂಪಿ",
+        "D": "ಧಾರವಾಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q049",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯದ ಅಭಿವೃದ್ಧಿ, ಪುಸ್ತಕ ಪ್ರಕಟಣೆ, ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ, ಕನ್ನಡದ ಅಧ್ಯಯನ-ಸಂಶೋಧನೆಗೆ ಉತ್ತೇಜನ, ಗ್ರಂಥಾಲಯ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳ ವಿಸ್ತರಣೆ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ",
+        "D": "ಕೇವಲ ಗ್ರಂಥಾಲಯ ನಿರ್ವಹಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯದ ಅಭಿವೃದ್ಧಿ, ಪುಸ್ತಕ ಪ್ರಕಟಣೆ, ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ, ಕನ್ನಡದ ಅಧ್ಯಯನ-ಸಂಶೋಧನೆಗೆ ಉತ್ತೇಜನ, ಗ್ರಂಥಾಲಯ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳ ವಿಸ್ತರಣೆ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q050",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ ಅಧ್ಯಕ್ಷರ ಬಗ್ಗೆ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಾವ ಮಾಹಿತಿ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಸಮ್ಮೇಳನದ ವರ್ಷ",
+        "D": "ಕೇವಲ ಸಮ್ಮೇಳನದ ಸ್ಥಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರವನ್ನು ಓದಬೇಕು. ಪ್ರತಿ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರ ಸಂಪೂರ್ಣ ಪಟ್ಟಿಯನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಂದ ಪರಿಶೀಲಿಸುವುದು ಸೂಕ್ತ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q051",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಅಧ್ಯಕ್ಷರ ಪಟ್ಟಿಯನ್ನು ಹೇಗೆ ನೆನಪಿಡಬೇಕು?",
+      "options": {
+        "A": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ, ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "D": "ಕೇವಲ ಸ್ಥಳಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ. ಸಮ್ಮೇಳನಗಳ ಸಂಖ್ಯೆ, ಸ್ಥಳ ಅಥವಾ ಅಧ್ಯಕ್ಷರ ಹೆಸರನ್ನು ನೆನಪಿನಿಂದ ಊಹಿಸದೆ ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q052",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಮತ್ತು ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆ",
+        "C": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ 1915ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಸಮ್ಮೇಳನ, ಪ್ರಕಟಣೆ ಮತ್ತು ಕನ್ನಡದ ಪ್ರಚಾರ ಅದರ ಪ್ರಮುಖ ಚಟುವಟಿಕೆಗಳು. ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯಾಗಿ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನ, ಪ್ರಶಸ್ತಿ, ಸಂಶೋಧನೆ ಮತ್ತು ಪ್ರಕಟಣೆಗೆ ಒತ್ತು ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q053",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "B": "1965, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "C": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2005",
+        "D": "1967, 1975, 1977, 1983, 1990, 1994, 1998, 2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q054",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಮತ್ತು ಕೊನೆಯ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಮೊದಲನೆಯವರು ಕುವೆಂಪು (1967); ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010)",
+        "B": "ಮೊದಲನೆಯವರು ದ.ರಾ. ಬೇಂದ್ರೆ; ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "C": "ಮೊದಲನೆಯವರು ಕುವೆಂಪು; ಕೊನೆಯವರು ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "D": "ಮೊದಲನೆಯವರು ಶಿವರಾಮ ಕಾರಂತ; ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಕುವೆಂಪು (1967). ಪ್ರಸ್ತುತ ಕನ್ನಡದ ಎಂಟನೇ ಮತ್ತು ಕೊನೆಯ ಪುರಸ್ಕೃತರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010).",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q40"
+    },
+    {
+      "id": "Q055",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪುರಸ್ಕಾರ ನೀಡುವಾಗ ಯಾವ ತಪ್ಪುಗಳು ಸಾಮಾನ್ಯ?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಹೆಸರುಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "D": "ಯಾವ ತಪ್ಪೂ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q056",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಅವರ ಕೃತಿಗಳನ್ನು ಓದುವಾಗ ಯಾವ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ",
+        "B": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಒಂದೇ ರೀತಿ",
+        "C": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಕೃತಿಗಳಿಗೆ ಮಾತ್ರ",
+        "D": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಜೀವಮಾನ ಸಾಧನೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ. ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ದಾಖಲೆಯಲ್ಲಿ ನೀಡಿರುವ ಕಾರಣವನ್ನೇ ಅನುಸರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q057",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಎಲ್ಲಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು. ವಾರ್ಷಿಕ ವಿಜೇತರ ಹೆಸರುಗಳು ಬದಲಾಗುವುದರಿಂದ ಹಳೆಯ ಸಾಮಾನ್ಯ ಪಟ್ಟಿಯನ್ನೇ ನಂಬಬಾರದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q058",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ. ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q059",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q060",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q061",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯವಾದ ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ",
+        "B": "ಕುವೆಂಪು — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಕಾರಂತ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಮಾಸ್ತಿ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಗೋಕಾಕ್ — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q062",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಕುರಿತು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಪ್ರತಿವರ್ಷ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "C": "ಕೇವಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮಾಹಿತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆ ಬಂದಾಗ ನವೀಕರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q063",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಕಾರ್ನಾಡ್, ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+        {
+      "id": "Q064",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "B": "1965, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "C": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2005",
+        "D": "1967, 1975, 1977, 1983, 1990, 1994, 1998, 2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳು — 1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q065",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 'ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q066",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬೇಂದ್ರೆ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ನಾಕುತಂತಿ",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 'ನಾಕುತಂತಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q067",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಾರಂತ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 'ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q068",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 'ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q069",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಕಾಕ್ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "B": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q070",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಮತ್ತು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠ — ನಿರ್ದಿಷ್ಟ ಕೃತಿ; ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ಸಮಗ್ರ ಸಾಧನೆ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q071",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಬಸವ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಬಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q072",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಯಾವ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ — ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q073",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜ — ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q074",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ — ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q075",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "B": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ",
+        "C": "ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "D": "ಪದ್ಮಶ್ರೀ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು — ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q076",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಸ್ಥಾಪನೆ ವರ್ಷ ಯಾವುದು?",
+      "options": {
+        "A": "1915",
+        "B": "1965",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು — ಸ್ಥಾಪನೆ 1915.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q077",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು ಯಾರು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು — ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q078",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಎಲ್ಲಿಂದ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ನವೀಕರಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q079",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ 'ರಾಷ್ಟ್ರಕವಿ' ಗೌರವದ ಬಗ್ಗೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿ?",
+      "options": {
+        "A": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ",
+        "B": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಇದು ಕೇವಲ ಕಾದಂಬರಿಗಾರರಿಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಇದು ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು; ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q080",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರನ್ನು ಗೌರವಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆಯ ಸಾಧಕರನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q081",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಭಾಷೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳು",
+        "B": "ಕೇವಲ ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟವಾದ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನಿಯಮಾನುಸಾರ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q082",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ಇವುಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q083",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಯಾವ ಚಟುವಟಿಕೆಗಳು ನಡೆಯುತ್ತವೆ?",
+      "options": {
+        "A": "ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಕವಿಗೋಷ್ಠಿ",
+        "D": "ಕೇವಲ ವಿಚಾರಗೋಷ್ಠಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q084",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಯಾವುದರ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ",
+        "B": "ಸರ್ಕಾರದ ನಿಯಮಾನುಸಾರ",
+        "C": "ಅಕಾಡೆಮಿಯ ನಿಯಮಾನುಸಾರ",
+        "D": "ವಿಶ್ವವಿದ್ಯಾಲಯದ ನಿಯಮಾನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q085",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಯಾವ ಚಟುವಟಿಕೆಗಳಿಗೆ ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳು",
+        "D": "ಕೇವಲ ಗ್ರಂಥಾಲಯ ನಿರ್ವಹಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಇದು ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q086",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಎಲ್ಲಿಂದ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q087",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕವಿಯ ಹೆಸರಿನಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಆದಿಕವಿ ಪಂಪ",
+        "B": "ಕುವೆಂಪು",
+        "C": "ಬೇಂದ್ರೆ",
+        "D": "ಕಾರಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಕವಿ ಪಂಪನ ಹೆಸರಿನಲ್ಲಿ ಈ ಪ್ರಶಸ್ತಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q088",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವ ಪ್ರಶಸ್ತಿಯು ಬಸವಣ್ಣನವರ ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸೇವೆ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣ ಸೇವೆ",
+        "D": "ಕೇವಲ ವಿಜ್ಞಾನ ಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಈ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q089",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂಸ್ಥೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಗೌರವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿಗಳ ಸಾಧನೆಗೆ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q24"
+    },
+        {
+      "id": "Q090",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "B": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "D": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q091",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯಲ್ಲಿ ಸಾಹಿತ್ಯವು ಯಾವ ಸ್ಥಾನವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು",
+        "B": "ಸಾಹಿತ್ಯಕ್ಕೆ ಈ ಪ್ರಶಸ್ತಿ ಸಂಬಂಧಿಸಿಲ್ಲ",
+        "C": "ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಈ ಪ್ರಶಸ್ತಿ",
+        "D": "ಸಾಹಿತ್ಯವು ಇದರಲ್ಲಿ ಒಂದು ಕ್ಷೇತ್ರವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು, ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q092",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರು ಯಾವ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕವಿ",
+        "B": "ನಾಡೋಜ",
+        "C": "ಪಂಪ",
+        "D": "ಬಸವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q093",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ರೀತಿಯ ಗೌರವವಾಗಿದೆ?",
+      "options": {
+        "A": "ಗೌರವ ಪದವಿ",
+        "B": "ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ನಗದು ಬಹುಮಾನ",
+        "D": "ಕೇವಲ ಪ್ರಮಾಣಪತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿಯೇ ನಾಡೋಜ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q094",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಯಾವ ಮೂಲದಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ",
+        "C": "ಸ್ನೇಹಿತರ ಬಳಿ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q095",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q096",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q097",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q098",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯವಾದ ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ",
+        "B": "ಕುವೆಂಪು — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಕಾರಂತ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಮಾಸ್ತಿ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಗೋಕಾಕ್ — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q099",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಕುರಿತು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಪ್ರತಿವರ್ಷ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "C": "ಕೇವಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮಾಹಿತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆ ಬಂದಾಗ ನವೀಕರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q100",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "1965 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "C": "1967 — ಕುವೆಂಪು; 1975 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "D": "1967 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2005 — ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q101",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಸ್ಥಾಪನೆಯ ವರ್ಷ ಮತ್ತು ಸ್ಥಳ ಯಾವುದು?",
+      "options": {
+        "A": "1915, ಬೆಂಗಳೂರು",
+        "B": "1915, ಮೈಸೂರು",
+        "C": "1965, ಬೆಂಗಳೂರು",
+        "D": "1915, ಹಂಪಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q102",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ — ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠ — ನಿರ್ದಿಷ್ಟ ಕೃತಿ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ — ಸಮಗ್ರ ಸಾಧನೆ",
+        "D": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ಗೌರವ. ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನೀಡುವ ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q103",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳಲ್ಲಿ ಎಷ್ಟು ಪ್ರಮುಖ ನಾಗರಿಕ ಗೌರವಗಳಿವೆ?",
+      "options": {
+        "A": "ಮೂರು",
+        "B": "ಎರಡು",
+        "C": "ನಾಲ್ಕು",
+        "D": "ಐದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ ಎಂಬ ಮೂರು ಪ್ರಮುಖ ನಾಗರಿಕ ಗೌರವಗಳಿವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q104",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರ ಬಗ್ಗೆ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಾವ ಮಾಹಿತಿ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಸಮ್ಮೇಳನದ ವರ್ಷ",
+        "D": "ಕೇವಲ ಸಮ್ಮೇಳನದ ಸ್ಥಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರವನ್ನು ಓದಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q105",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಅಧ್ಯಕ್ಷರ ಪಟ್ಟಿಯನ್ನು ಹೇಗೆ ನೆನಪಿಡಬೇಕು?",
+      "options": {
+        "A": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ, ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "D": "ಕೇವಲ ಸ್ಥಳಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ. ಸಮ್ಮೇಳನಗಳ ಸಂಖ್ಯೆ, ಸ್ಥಳ ಅಥವಾ ಅಧ್ಯಕ್ಷರ ಹೆಸರನ್ನು ನೆನಪಿನಿಂದ ಊಹಿಸದೆ ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q106",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಮತ್ತು ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆ",
+        "C": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ 1915ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಸಮ್ಮೇಳನ, ಪ್ರಕಟಣೆ ಮತ್ತು ಕನ್ನಡದ ಪ್ರಚಾರ ಅದರ ಪ್ರಮುಖ ಚಟುವಟಿಕೆಗಳು. ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯಾಗಿ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನ, ಪ್ರಶಸ್ತಿ, ಸಂಶೋಧನೆ ಮತ್ತು ಪ್ರಕಟಣೆಗೆ ಒತ್ತು ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q107",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪುರಸ್ಕಾರ ನೀಡುವಾಗ ಯಾವ ತಪ್ಪುಗಳು ಸಾಮಾನ್ಯ?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಹೆಸರುಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "D": "ಯಾವ ತಪ್ಪೂ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q108",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಅವರ ಕೃತಿಗಳನ್ನು ಓದುವಾಗ ಯಾವ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ",
+        "B": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಒಂದೇ ರೀತಿ",
+        "C": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಕೃತಿಗಳಿಗೆ ಮಾತ್ರ",
+        "D": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಜೀವಮಾನ ಸಾಧನೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ. ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ದಾಖಲೆಯಲ್ಲಿ ನೀಡಿರುವ ಕಾರಣವನ್ನೇ ಅನುಸರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q42"
+    },
+        {
+      "id": "Q109",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು",
+        "B": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "C": "ಶಿವರಾಮ ಕಾರಂತ",
+        "D": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 1967ರಲ್ಲಿ ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರಾದರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q4"
+    },
+    {
+      "id": "Q110",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1967",
+        "B": "1965",
+        "C": "1973",
+        "D": "1977"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 1967ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q111",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಭಾಷೆಯ ಕವಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಮಲಯಾಳಂ",
+        "B": "ಕನ್ನಡ",
+        "C": "ತಮಿಳು",
+        "D": "ತೆಲುಗು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ಮಲಯಾಳಂ ಕವಿ ಜಿ. ಶಂಕರ ಕುರುಪ್ ಅವರಿಗೆ ನೀಡಲಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q3"
+    },
+    {
+      "id": "Q112",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಎಷ್ಟು ವರ್ಷಗಳಿಂದ ಪ್ರದಾನ ಆರಂಭವಾಯಿತು?",
+      "options": {
+        "A": "1965",
+        "B": "1967",
+        "C": "1950",
+        "D": "1970"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ 1965ರಿಂದ ಆರಂಭವಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q2"
+    },
+    {
+      "id": "Q113",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರಲ್ಲಿ ಯಾರು ಸೇರಿಲ್ಲ?",
+      "options": {
+        "A": "ಜಿ. ಶಂಕರ ಕುರುಪ್",
+        "B": "ಕುವೆಂಪು",
+        "C": "ದ.ರಾ. ಬೇಂದ್ರೆ",
+        "D": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜಿ. ಶಂಕರ ಕುರುಪ್ ಮಲಯಾಳಂ ಕವಿ; ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರಲ್ಲಿ ಸೇರಿಲ್ಲ. ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ ಕನ್ನಡದ ಎಂಟು ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q5"
+    },
+    {
+      "id": "Q114",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರಲ್ಲಿ ಕೊನೆಯವರು ಯಾರು?",
+      "options": {
+        "A": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "C": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ",
+        "D": "ವಿ.ಕೆ. ಗೋಕಾಕ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಸ್ತುತ ಕನ್ನಡದ ಎಂಟನೇ ಮತ್ತು ಕೊನೆಯ ಪುರಸ್ಕೃತರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010).",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q40"
+    },
+    {
+      "id": "Q115",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಮತ್ತು ಕೊನೆಯ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಮೊದಲನೆಯವರು ಕುವೆಂಪು (1967); ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010)",
+        "B": "ಮೊದಲನೆಯವರು ದ.ರಾ. ಬೇಂದ್ರೆ; ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "C": "ಮೊದಲನೆಯವರು ಕುವೆಂಪು; ಕೊನೆಯವರು ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "D": "ಮೊದಲನೆಯವರು ಶಿವರಾಮ ಕಾರಂತ; ಕೊನೆಯವರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡದ ಮೊದಲ ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಕುವೆಂಪು (1967). ಪ್ರಸ್ತುತ ಕನ್ನಡದ ಎಂಟನೇ ಮತ್ತು ಕೊನೆಯ ಪುರಸ್ಕೃತರು ಚಂದ್ರಶೇಖರ ಕಂಬಾರ (2010).",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q40"
+    },
+    {
+      "id": "Q116",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1994",
+        "B": "1990",
+        "C": "1998",
+        "D": "2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ 1994ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q117",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1998",
+        "B": "1994",
+        "C": "2010",
+        "D": "1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ 1998ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q118",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "2010",
+        "B": "1998",
+        "C": "1994",
+        "D": "2005"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ 2010ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6 & Page 2, Q14"
+    },
+    {
+      "id": "Q119",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1973",
+        "B": "1967",
+        "C": "1977",
+        "D": "1983"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 1973ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q120",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1977",
+        "B": "1973",
+        "C": "1983",
+        "D": "1990"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 1977ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q121",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1983",
+        "B": "1977",
+        "C": "1990",
+        "D": "1994"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 1983ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q122",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ವರ್ಷದಲ್ಲಿ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "1990",
+        "B": "1983",
+        "C": "1994",
+        "D": "1998"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 1990ರಲ್ಲಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q6"
+    },
+    {
+      "id": "Q123",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 'ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q4 & Q7"
+    },
+    {
+      "id": "Q124",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ನಾಕುತಂತಿ",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 'ನಾಕುತಂತಿ' ಕವನಸಂಕಲನಕ್ಕೆ 1973ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q8"
+    },
+    {
+      "id": "Q125",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 'ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು' ಕಾದಂಬರಿಗೆ 1977ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q9"
+    },
+    {
+      "id": "Q126",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 'ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ' ಕಾದಂಬರಿಗೆ 1983ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q10"
+    },
+    {
+      "id": "Q127",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕೃತಿಗೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "B": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಮಹಾಕಾವ್ಯಕ್ಕೆ 1990ರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q11"
+    },
+    {
+      "id": "Q128",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ಸಂಸ್ಕಾರ' ಕಾದಂಬರಿಗಾಗಿ",
+        "C": "ಕೇವಲ ಕವನಸಂಕಲನಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ ನಾಟಕಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರಿಗೆ 1994ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q129",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ತುಫಲಕ್' ನಾಟಕಕ್ಕಾಗಿ",
+        "C": "ಕೇವಲ 'ಯಯಾತಿ' ನಾಟಕಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ 'ನಾಗಮಂಡಲ' ನಾಟಕಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರಿಗೆ 1998ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q13"
+    },
+    {
+      "id": "Q130",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಯಾವ ಕಾರಣಕ್ಕೆ ದೊರೆಯಿತು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ",
+        "B": "ಕೇವಲ 'ಜೋಕುಮಾರಸ್ವಾಮಿ' ನಾಟಕಕ್ಕಾಗಿ",
+        "C": "ಕೇವಲ 'ಸಿರಿಸಂಪಿಗೆ' ನಾಟಕಕ್ಕಾಗಿ",
+        "D": "ಕೇವಲ ಕವನಸಂಕಲನಕ್ಕಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರಿಗೆ 2010ರಲ್ಲಿ ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q131",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರ ಪ್ರಸಿದ್ಧ ಕಾದಂಬರಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಸ್ಕಾರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ನಾಕುತಂತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಸಂಸ್ಕಾರ' ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ ಅವರ ಪ್ರಸಿದ್ಧ ಕಾದಂಬರಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q12"
+    },
+    {
+      "id": "Q132",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ತುಫಲಕ್, ಯಯಾತಿ ಮತ್ತು ನಾಗಮಂಡಲ",
+        "B": "ಜೋಕುಮಾರಸ್ವಾಮಿ ಮತ್ತು ಸಿರಿಸಂಪಿಗೆ",
+        "C": "ಸಂಸ್ಕಾರ ಮತ್ತು ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "D": "ನಾಕುತಂತಿ ಮತ್ತು ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ತುಫಲಕ್', 'ಯಯಾತಿ' ಮತ್ತು 'ನಾಗಮಂಡಲ' ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 1, Q13"
+    },
+    {
+      "id": "Q133",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಜೋಕುಮಾರಸ್ವಾಮಿ ಮತ್ತು ಸಿರಿಸಂಪಿಗೆ",
+        "B": "ತುಫಲಕ್ ಮತ್ತು ಯಯಾತಿ",
+        "C": "ನಾಗಮಂಡಲ ಮತ್ತು ತುಫಲಕ್",
+        "D": "ಸಂಸ್ಕಾರ ಮತ್ತು ಯಯಾತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಜೋಕುಮಾರಸ್ವಾಮಿ' ಮತ್ತು 'ಸಿರಿಸಂಪಿಗೆ' ಚಂದ್ರಶೇಖರ ಕಂಬಾರ ಅವರ ಪ್ರಸಿದ್ಧ ನಾಟಕಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q14"
+    },
+    {
+      "id": "Q134",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಕೃತಿ ಸಚಿವಾಲಯದಡಿ ಸ್ವಾಯತ್ತ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ ನೀಡುವ ವಾರ್ಷಿಕ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಕೃತಿ ಸಚಿವಾಲಯದಡಿ ಸ್ವಾಯತ್ತ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆಯಾಗಿದ್ದು, ಮಾನ್ಯತೆ ಪಡೆದ ಭಾರತೀಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟಿತ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕ್ಕೆ ವಾರ್ಷಿಕ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q15"
+    },
+        {
+      "id": "Q135",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ಸಮಗ್ರ ಅಥವಾ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ರಾಷ್ಟ್ರಮಟ್ಟದ ಗೌರವ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಸಾಮಾನ್ಯವಾಗಿ ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ವರ್ಷದಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಕೃತಿಗೆ ನೀಡಲಾಗುತ್ತದೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠವು ಕೇವಲ ಕನ್ನಡಕ್ಕೆ; ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಎಲ್ಲಾ ಭಾಷೆಗಳಿಗೆ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ಸಮಗ್ರ ಅಥವಾ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ರಾಷ್ಟ್ರಮಟ್ಟದ ಗೌರವ. ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಸಾಮಾನ್ಯವಾಗಿ ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟ ವರ್ಷದಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಕೃತಿಗೆ ನೀಡಲಾಗುತ್ತದೆ; ಎರಡರ ನಿಯಮ ಮತ್ತು ವ್ಯಾಪ್ತಿ ವಿಭಿನ್ನ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q16"
+    },
+    {
+      "id": "Q136",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕವನ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ, ವಿಮರ್ಶೆ, ಆತ್ಮಕಥೆ, ಜೀವನಚರಿತ್ರೆ ಮತ್ತು ಇತರ ಮಾನ್ಯ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳು",
+        "B": "ಕೇವಲ ಕವನ ಮತ್ತು ಕಾದಂಬರಿ",
+        "C": "ಕೇವಲ ನಾಟಕ ಮತ್ತು ಪ್ರಬಂಧ",
+        "D": "ಕೇವಲ ವಿಮರ್ಶೆ ಮತ್ತು ಸಂಶೋಧನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕವನ, ಕಾದಂಬರಿ, ಸಣ್ಣಕಥೆ, ನಾಟಕ, ಪ್ರಬಂಧ, ವಿಮರ್ಶೆ, ಆತ್ಮಕಥೆ, ಜೀವನಚರಿತ್ರೆ ಮತ್ತು ಇತರ ಮಾನ್ಯ ಸಾಹಿತ್ಯ ಪ್ರಕಾರಗಳ ಕೃತಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಭಾಷಾ-ವರ್ಷದ ನಿಯಮಗಳಂತೆ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q17"
+    },
+    {
+      "id": "Q137",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರನ್ನು ಹೇಗೆ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಭಾಷೆ, ವರ್ಷ, ಲೇಖಕ ಮತ್ತು ಕೃತಿಯ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಬೇಕು",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಹುಡುಕಬೇಕು",
+        "C": "ಪತ್ರಿಕೆಗಳಲ್ಲಿ ಮಾತ್ರ ಹುಡುಕಬೇಕು",
+        "D": "ಸ್ನೇಹಿತರನ್ನು ಕೇಳಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ಆರ್ಕೈವ್‌ನಲ್ಲಿ ಭಾಷೆ, ವರ್ಷ, ಲೇಖಕ ಮತ್ತು ಕೃತಿಯ ಹೆಸರನ್ನು ಪರಿಶೀಲಿಸಬೇಕು. ಪ್ರಶಸ್ತಿ ವರ್ಷ ಮತ್ತು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷ ಒಂದೇ ಆಗಿರಬೇಕೆಂಬ ನಿಯಮವಿಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q18"
+    },
+    {
+      "id": "Q138",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಇಲಾಖೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ",
+        "B": "ಭಾರತ ಸರ್ಕಾರದ ಸಂಸ್ಥೆ",
+        "C": "ಖಾಸಗಿ ಸಂಸ್ಥೆ",
+        "D": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಭಾಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತಿ ಇಲಾಖೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ. ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಬೆಳವಣಿಗೆ, ಅಧ್ಯಯನ, ಪ್ರಕಟಣೆ, ಪ್ರಶಸ್ತಿ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಉತ್ತೇಜಿಸುವುದು ಇದರ ಉದ್ದೇಶ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q19"
+    },
+    {
+      "id": "Q139",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಯಾವ ಉದ್ದೇಶಕ್ಕೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ವಿವಿಧ ಪ್ರಕಾರಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ಕೃತಿಗಳು, ಸಾಹಿತ್ಯಸೇವೆ, ವಿಮರ್ಶೆ, ಸಂಶೋಧನೆ ಮತ್ತು ಇತರ ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು",
+        "B": "ಕೇವಲ ಕವನಗಳಿಗೆ",
+        "C": "ಕೇವಲ ಕಾದಂಬರಿಗಳಿಗೆ",
+        "D": "ಕೇವಲ ನಾಟಕಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯದ ವಿವಿಧ ಪ್ರಕಾರಗಳಲ್ಲಿ ಗಮನಾರ್ಹ ಕೃತಿಗಳು, ಸಾಹಿತ್ಯಸೇವೆ, ವಿಮರ್ಶೆ, ಸಂಶೋಧನೆ ಮತ್ತು ಇತರ ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಗುರುತಿಸಲು ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳನ್ನು ನೀಡುತ್ತದೆ. ಪ್ರಶಸ್ತಿ ವಿಭಾಗಗಳು ಮತ್ತು ನಿಯಮಗಳು ಕಾಲಾನುಸಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q20"
+    },
+    {
+      "id": "Q140",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿದ ಹಿರಿಯ ಸಾಹಿತಿಗಳಿಗೆ ನೀಡುವ ಪ್ರಮುಖ ಗೌರವ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಖಾಸಗಿ ಸಂಸ್ಥೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಹತ್ವದ ಕೊಡುಗೆ ನೀಡಿದ ಹಿರಿಯ ಸಾಹಿತಿಗಳಿಗೆ ನೀಡುವ ಪ್ರಮುಖ ಗೌರವಗಳಲ್ಲಿ ಪಂಪ ಪ್ರಶಸ್ತಿಯೂ ಒಂದು. ಆದಿಕವಿ ಪಂಪನ ಹೆಸರಿನಲ್ಲಿ ಈ ಪ್ರಶಸ್ತಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q141",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದ ಮಹತ್ವದ ಸಾಧನೆ ಮತ್ತು ಜೀವಮಾನ ಸಾಹಿತ್ಯ ಕೊಡುಗೆ",
+        "B": "ಕೇವಲ ವಿಜ್ಞಾನ ಕ್ಷೇತ್ರ",
+        "C": "ಕೇವಲ ಕಲೆ ಕ್ಷೇತ್ರ",
+        "D": "ಕೇವಲ ಸಮಾಜಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮುಖ್ಯವಾಗಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರದ ಮಹತ್ವದ ಸಾಧನೆ ಮತ್ತು ಜೀವಮಾನ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಯನ್ನು ಗುರುತಿಸುವ ಪ್ರಶಸ್ತಿ. ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q142",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ. ಇದು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q143",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಯನ್ನು ಗೌರವಿಸುವ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೇವಲ ಕಲೆಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವದ ಕೊಡುಗೆಯನ್ನು ಗೌರವಿಸುವ ಪ್ರಶಸ್ತಿ. ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಗೌರವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿಗಳ ಸಾಧನೆಗೆ ನೀಡಲಾಗುತ್ತದೆ; ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಲ್ಲಿ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q144",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡುವ ರಾಜ್ಯಮಟ್ಟದ ಗೌರವ",
+        "B": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಖಾಸಗಿ ಸಂಸ್ಥೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡುವ ರಾಜ್ಯಮಟ್ಟದ ಗೌರವವೇ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ. ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q145",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಷ್ಟ್ರಕವಿ ಗೌರವ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಮತ್ತು ನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ ಜೀವನಕ್ಕೆ ವಿಶಿಷ್ಟ ಕೊಡುಗೆ ನೀಡಿದ ಕವಿಗೆ ನೀಡುವ ಗೌರವ",
+        "B": "ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ಕಾದಂಬರಿಗಾರರಿಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಮತ್ತು ನಾಡಿನ ಸಾಂಸ್ಕೃತಿಕ ಜೀವನಕ್ಕೆ ವಿಶಿಷ್ಟ ಕೊಡುಗೆ ನೀಡಿದ ಕವಿಗೆ ನೀಡುವ ಗೌರವ. ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು; ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q146",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿಯೇ ನಾಡೋಜ. ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆಯ ಸಾಧಕರನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q147",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ಸ್ಥಾಪಿಸಿದ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್ ಸ್ಥಾಪಿಸಿದ ರಾಷ್ಟ್ರೀಯ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿ. ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟವಾದ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನಿಯಮಾನುಸಾರ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q148",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠವು ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿಗೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ",
+        "D": "ಜ್ಞಾನಪೀಠವು ಕೇವಲ ಕನ್ನಡಕ್ಕೆ; ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಎಲ್ಲಾ ಭಾಷೆಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠವು ಭಾರತೀಯ ಭಾಷೆಗಳ ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಹಿತ್ಯಸಾಧನೆಗೆ ನೀಡುವ ಗೌರವ. ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ನಿರ್ದಿಷ್ಟ ಅವಧಿಯಲ್ಲಿ ಪ್ರಕಟವಾದ ಆಯ್ಕೆಯಾದ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನೀಡುವ ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q29"
+    },
+    {
+      "id": "Q149",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ",
+        "B": "ಪದ್ಮ ವಿಭೂಷಣ ಮತ್ತು ಪದ್ಮ ಭೂಷಣ ಮಾತ್ರ",
+        "C": "ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ ಮಾತ್ರ",
+        "D": "ಪದ್ಮಶ್ರೀ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ ಮತ್ತು ಪದ್ಮಶ್ರೀ ಎಂಬ ಮೂರು ಪ್ರಮುಖ ನಾಗರಿಕ ಗೌರವಗಳಿವೆ. ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ಇವುಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q150",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳೇ?",
+      "options": {
+        "A": "ಅವು ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ; ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ವಿಶಿಷ್ಟ ನಾಗರಿಕ ಕೊಡುಗೆಗೆ ನೀಡುವ ಗೌರವಗಳು",
+        "B": "ಹೌದು, ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ",
+        "C": "ಅವು ಕೇವಲ ವಿಜ್ಞಾನಕ್ಕೆ ಮಾತ್ರ",
+        "D": "ಅವು ಕೇವಲ ಕಲೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವು ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಸೀಮಿತವಲ್ಲ; ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿನ ವಿಶಿಷ್ಟ ನಾಗರಿಕ ಕೊಡುಗೆಗೆ ನೀಡುವ ಗೌರವಗಳು. ಸಾಹಿತ್ಯ ಮತ್ತು ಶಿಕ್ಷಣ ಕ್ಷೇತ್ರದ ಸಾಧಕರೂ ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳ ಆಯ್ಕೆಯಾಗಬಹುದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q31"
+    },
+    {
+      "id": "Q151",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುವ ಮಹತ್ವದ ಸಾಹಿತ್ಯ ಸಮಾವೇಶ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಕವಿಗೋಷ್ಠಿ",
+        "D": "ಕೇವಲ ವಿಚಾರಗೋಷ್ಠಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುವ ಮಹತ್ವದ ಸಾಹಿತ್ಯ ಸಮಾವೇಶವೇ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q152",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನವನ್ನು ಯಾವ ಸಂಸ್ಥೆ ಆಯೋಜಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನವನ್ನು ಆಯೋಜಿಸುವ ಪ್ರಮುಖ ಸಂಸ್ಥೆ. ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q153",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಯಾವಾಗ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+      "options": {
+        "A": "1915",
+        "B": "1965",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+        {
+      "id": "Q154",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಎಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು?",
+      "options": {
+        "A": "ಬೆಂಗಳೂರು",
+        "B": "ಮೈಸೂರು",
+        "C": "ಹಂಪಿ",
+        "D": "ಧಾರವಾಡ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q155",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯದ ಅಭಿವೃದ್ಧಿ, ಪುಸ್ತಕ ಪ್ರಕಟಣೆ, ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ, ಕನ್ನಡದ ಅಧ್ಯಯನ-ಸಂಶೋಧನೆಗೆ ಉತ್ತೇಜನ, ಗ್ರಂಥಾಲಯ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳ ವಿಸ್ತರಣೆ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ",
+        "D": "ಕೇವಲ ಗ್ರಂಥಾಲಯ ನಿರ್ವಹಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ ಮತ್ತು ಸಾಹಿತ್ಯದ ಅಭಿವೃದ್ಧಿ, ಪುಸ್ತಕ ಪ್ರಕಟಣೆ, ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಆಯೋಜನೆ, ಕನ್ನಡದ ಅಧ್ಯಯನ-ಸಂಶೋಧನೆಗೆ ಉತ್ತೇಜನ, ಗ್ರಂಥಾಲಯ ಮತ್ತು ಸಾಹಿತ್ಯ ಚಟುವಟಿಕೆಗಳ ವಿಸ್ತರಣೆ ಪ್ರಮುಖ ಉದ್ದೇಶಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q35"
+    },
+    {
+      "id": "Q156",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನ ಅಧ್ಯಕ್ಷರ ಬಗ್ಗೆ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಯಾವ ಮಾಹಿತಿ ಮುಖ್ಯ?",
+      "options": {
+        "A": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಸಮ್ಮೇಳನದ ವರ್ಷ",
+        "D": "ಕೇವಲ ಸಮ್ಮೇಳನದ ಸ್ಥಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಧ್ಯಕ್ಷರ ಪೂರ್ಣ ಹೆಸರು, ಸಮ್ಮೇಳನದ ವರ್ಷ, ನಡೆದ ಸ್ಥಳ ಮತ್ತು ಅವರು ಪ್ರಸಿದ್ಧರಾದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರವನ್ನು ಓದಬೇಕು. ಪ್ರತಿ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರ ಸಂಪೂರ್ಣ ಪಟ್ಟಿಯನ್ನು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಂದ ಪರಿಶೀಲಿಸುವುದು ಸೂಕ್ತ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q36"
+    },
+    {
+      "id": "Q157",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಮುಖ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳ ಅಧ್ಯಕ್ಷರ ಪಟ್ಟಿಯನ್ನು ಹೇಗೆ ನೆನಪಿಡಬೇಕು?",
+      "options": {
+        "A": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ, ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ",
+        "B": "ಕೇವಲ ಅಧ್ಯಕ್ಷರ ಹೆಸರುಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು",
+        "D": "ಕೇವಲ ಸ್ಥಳಗಳನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವರ್ಷ-ಸ್ಥಳ-ಅಧ್ಯಕ್ಷ ಎಂಬ ಮೂರು ಕಾಲಮ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತಯಾರಿಸಿ. ಸಮ್ಮೇಳನಗಳ ಸಂಖ್ಯೆ, ಸ್ಥಳ ಅಥವಾ ಅಧ್ಯಕ್ಷರ ಹೆಸರನ್ನು ನೆನಪಿನಿಂದ ಊಹಿಸದೆ ಅಧಿಕೃತ ಪರಿಷತ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q37"
+    },
+    {
+      "id": "Q158",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಮತ್ತು ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆ",
+        "C": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ 1915ರಲ್ಲಿ ಸ್ಥಾಪನೆಯಾಯಿತು",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು 1915ರಲ್ಲಿ ಸ್ಥಾಪಿತವಾದ ಸಾರ್ವಜನಿಕ ಸಾಹಿತ್ಯ ಸಂಸ್ಥೆ; ಸಮ್ಮೇಳನ, ಪ್ರಕಟಣೆ ಮತ್ತು ಕನ್ನಡದ ಪ್ರಚಾರ ಅದರ ಪ್ರಮುಖ ಚಟುವಟಿಕೆಗಳು. ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ರಾಜ್ಯದ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯಾಗಿ ಸಾಹಿತ್ಯ ಅಧ್ಯಯನ, ಪ್ರಶಸ್ತಿ, ಸಂಶೋಧನೆ ಮತ್ತು ಪ್ರಕಟಣೆಗೆ ಒತ್ತು ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q38"
+    },
+    {
+      "id": "Q159",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "1965 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "C": "1967 — ಕುವೆಂಪು; 1975 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "D": "1967 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2005 — ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q160",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದವರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಮತ್ತು ಚಂದ್ರಶೇಖರ ಕಂಬಾರರು ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q40"
+    },
+    {
+      "id": "Q161",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪುರಸ್ಕಾರ ನೀಡುವಾಗ ಯಾವ ತಪ್ಪುಗಳು ಸಾಮಾನ್ಯ?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಹೆಸರುಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "D": "ಯಾವ ತಪ್ಪೂ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q162",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಅವರ ಕೃತಿಗಳನ್ನು ಓದುವಾಗ ಯಾವ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ",
+        "B": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಒಂದೇ ರೀತಿ",
+        "C": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಕೃತಿಗಳಿಗೆ ಮಾತ್ರ",
+        "D": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಜೀವಮಾನ ಸಾಧನೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ. ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ದಾಖಲೆಯಲ್ಲಿ ನೀಡಿರುವ ಕಾರಣವನ್ನೇ ಅನುಸರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q163",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಎಲ್ಲಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು. ವಾರ್ಷಿಕ ವಿಜೇತರ ಹೆಸರುಗಳು ಬದಲಾಗುವುದರಿಂದ ಹಳೆಯ ಸಾಮಾನ್ಯ ಪಟ್ಟಿಯನ್ನೇ ನಂಬಬಾರದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q164",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ. ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q165",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q166",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q167",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯವಾದ ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ",
+        "B": "ಕುವೆಂಪು — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಕಾರಂತ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಮಾಸ್ತಿ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಗೋಕಾಕ್ — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q168",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಕುರಿತು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಪ್ರತಿವರ್ಷ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "C": "ಕೇವಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮಾಹಿತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆ ಬಂದಾಗ ನವೀಕರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q169",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಕಾರ್ನಾಡ್, ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q170",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ವರ್ಷಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "B": "1965, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "C": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2005",
+        "D": "1967, 1975, 1977, 1983, 1990, 1994, 1998, 2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ ವರ್ಷಗಳು — 1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+        {
+      "id": "Q171",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 'ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q172",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬೇಂದ್ರೆ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ನಾಕುತಂತಿ",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 'ನಾಕುತಂತಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q173",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಾರಂತ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 'ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q174",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 'ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q175",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಕಾಕ್ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "B": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q176",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಮತ್ತು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠ — ನಿರ್ದಿಷ್ಟ ಕೃತಿ; ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ಸಮಗ್ರ ಸಾಧನೆ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q177",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಬಸವ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಬಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q178",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಯಾವ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ — ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q179",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜ — ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q180",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ — ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q181",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "B": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ",
+        "C": "ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "D": "ಪದ್ಮಶ್ರೀ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು — ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q182",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಸ್ಥಾಪನೆ ವರ್ಷ ಯಾವುದು?",
+      "options": {
+        "A": "1915",
+        "B": "1965",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು — ಸ್ಥಾಪನೆ 1915.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q183",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು ಯಾರು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು — ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q184",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಎಲ್ಲಿಂದ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ನವೀಕರಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q185",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ 'ರಾಷ್ಟ್ರಕವಿ' ಗೌರವದ ಬಗ್ಗೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿ?",
+      "options": {
+        "A": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ",
+        "B": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಇದು ಕೇವಲ ಕಾದಂಬರಿಗಾರರಿಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಇದು ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು; ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q186",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರನ್ನು ಗೌರವಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆಯ ಸಾಧಕರನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q187",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಭಾಷೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳು",
+        "B": "ಕೇವಲ ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟವಾದ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನಿಯಮಾನುಸಾರ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q188",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ಇವುಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q189",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಯಾವ ಚಟುವಟಿಕೆಗಳು ನಡೆಯುತ್ತವೆ?",
+      "options": {
+        "A": "ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಕವಿಗೋಷ್ಠಿ",
+        "D": "ಕೇವಲ ವಿಚಾರಗೋಷ್ಠಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q190",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಯಾವುದರ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ",
+        "B": "ಸರ್ಕಾರದ ನಿಯಮಾನುಸಾರ",
+        "C": "ಅಕಾಡೆಮಿಯ ನಿಯಮಾನುಸಾರ",
+        "D": "ವಿಶ್ವವಿದ್ಯಾಲಯದ ನಿಯಮಾನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q33"
+    },
+    {
+      "id": "Q191",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಯಾವ ಚಟುವಟಿಕೆಗಳಿಗೆ ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳು",
+        "D": "ಕೇವಲ ಗ್ರಂಥಾಲಯ ನಿರ್ವಹಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಇದು ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q192",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಎಲ್ಲಿಂದ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q193",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕವಿಯ ಹೆಸರಿನಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಆದಿಕವಿ ಪಂಪ",
+        "B": "ಕುವೆಂಪು",
+        "C": "ಬೇಂದ್ರೆ",
+        "D": "ಕಾರಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಕವಿ ಪಂಪನ ಹೆಸರಿನಲ್ಲಿ ಈ ಪ್ರಶಸ್ತಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q194",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವ ಪ್ರಶಸ್ತಿಯು ಬಸವಣ್ಣನವರ ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸೇವೆ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣ ಸೇವೆ",
+        "D": "ಕೇವಲ ವಿಜ್ಞಾನ ಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಈ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q195",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂಸ್ಥೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಗೌರವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿಗಳ ಸಾಧನೆಗೆ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q196",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "B": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "D": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+        {
+      "id": "Q197",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯಲ್ಲಿ ಸಾಹಿತ್ಯವು ಯಾವ ಸ್ಥಾನವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು",
+        "B": "ಸಾಹಿತ್ಯಕ್ಕೆ ಈ ಪ್ರಶಸ್ತಿ ಸಂಬಂಧಿಸಿಲ್ಲ",
+        "C": "ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಈ ಪ್ರಶಸ್ತಿ",
+        "D": "ಸಾಹಿತ್ಯವು ಇದರಲ್ಲಿ ಒಂದು ಕ್ಷೇತ್ರವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು, ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q198",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರು ಯಾವ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕವಿ",
+        "B": "ನಾಡೋಜ",
+        "C": "ಪಂಪ",
+        "D": "ಬಸವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q199",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ರೀತಿಯ ಗೌರವವಾಗಿದೆ?",
+      "options": {
+        "A": "ಗೌರವ ಪದವಿ",
+        "B": "ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ನಗದು ಬಹುಮಾನ",
+        "D": "ಕೇವಲ ಪ್ರಮಾಣಪತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿಯೇ ನಾಡೋಜ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q200",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಯಾವ ಮೂಲದಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ",
+        "C": "ಸ್ನೇಹಿತರ ಬಳಿ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q201",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q202",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q203",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    },
+    {
+      "id": "Q204",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯವಾದ ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ",
+        "B": "ಕುವೆಂಪು — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಕಾರಂತ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಮಾಸ್ತಿ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಗೋಕಾಕ್ — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q205",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಕುರಿತು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಪ್ರತಿವರ್ಷ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "C": "ಕೇವಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮಾಹಿತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆ ಬಂದಾಗ ನವೀಕರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q206",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವರ್ಷಗಳನ್ನು ಕ್ರಮವಾಗಿ ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "1965 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "C": "1967 — ಕುವೆಂಪು; 1975 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2010 — ಕಂಬಾರ",
+        "D": "1967 — ಕುವೆಂಪು; 1973 — ಬೇಂದ್ರೆ; 1977 — ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ಗೋಕಾಕ್; 1994 — ಅನಂತಮೂರ್ತಿ; 1998 — ಕಾರ್ನಾಡ್; 2005 — ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "1967 — ಕುವೆಂಪು; 1973 — ದ.ರಾ. ಬೇಂದ್ರೆ; 1977 — ಶಿವರಾಮ ಕಾರಂತ; 1983 — ಮಾಸ್ತಿ; 1990 — ವಿ.ಕೆ. ಗೋಕಾಕ್; 1994 — ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ; 1998 — ಗಿರೀಶ್ ಕಾರ್ನಾಡ್; 2010 — ಚಂದ್ರಶೇಖರ ಕಂಬಾರ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q39"
+    },
+    {
+      "id": "Q207",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದವರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್, ಚಂದ್ರಶೇಖರ ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ದ.ರಾ. ಬೇಂದ್ರೆ, ಶಿವರಾಮ ಕಾರಂತ, ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್, ವಿ.ಕೆ. ಗೋಕಾಕ್, ಯು.ಆರ್. ಅನಂತಮೂರ್ತಿ, ಗಿರೀಶ್ ಕಾರ್ನಾಡ್ ಮತ್ತು ಚಂದ್ರಶೇಖರ ಕಂಬಾರರು ಕನ್ನಡದ ಎಂಟು ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q40"
+    },
+    {
+      "id": "Q208",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪುರಸ್ಕಾರ ನೀಡುವಾಗ ಯಾವ ತಪ್ಪುಗಳು ಸಾಮಾನ್ಯ?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು",
+        "B": "ಕೇವಲ ಹೆಸರುಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "C": "ಕೇವಲ ವರ್ಷಗಳನ್ನು ತಪ್ಪಾಗಿ ಬರೆಯುವುದು",
+        "D": "ಯಾವ ತಪ್ಪೂ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿ ಪಡೆದ ವರ್ಷವನ್ನು ಕೃತಿ ಪ್ರಕಟಣೆಯ ವರ್ಷವೆಂದು ಭಾವಿಸುವುದು, ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ದೊರೆತ ಪ್ರಶಸ್ತಿಗೆ ನಿರ್ದಿಷ್ಟ ಕೃತಿಯನ್ನು ತಪ್ಪಾಗಿ ಜೋಡಿಸುವುದು, ರಾಜ್ಯ ಪ್ರಶಸ್ತಿ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸುವುದು ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q41"
+    },
+    {
+      "id": "Q209",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಅವರ ಕೃತಿಗಳನ್ನು ಓದುವಾಗ ಯಾವ ವ್ಯತ್ಯಾಸ ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ",
+        "B": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಒಂದೇ ರೀತಿ",
+        "C": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಕೃತಿಗಳಿಗೆ ಮಾತ್ರ",
+        "D": "ಎಲ್ಲಾ ಪ್ರಶಸ್ತಿಗಳು ಕೇವಲ ಜೀವಮಾನ ಸಾಧನೆಗೆ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಪ್ರಶಸ್ತಿಗಳು ನಿರ್ದಿಷ್ಟ ಕೃತಿಗೆ ನೀಡಲ್ಪಟ್ಟಿವೆ; ಕೆಲವು ಗೌರವಗಳು ಜೀವಮಾನ ಸಾಧನೆ ಅಥವಾ ಸಮಗ್ರ ಕೊಡುಗೆಗಾಗಿ ನೀಡಲ್ಪಟ್ಟಿವೆ. ಅಧಿಕೃತ ಪ್ರಶಸ್ತಿ ದಾಖಲೆಯಲ್ಲಿ ನೀಡಿರುವ ಕಾರಣವನ್ನೇ ಅನುಸರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q42"
+    },
+    {
+      "id": "Q210",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಎಲ್ಲಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು. ವಾರ್ಷಿಕ ವಿಜೇತರ ಹೆಸರುಗಳು ಬದಲಾಗುವುದರಿಂದ ಹಳೆಯ ಸಾಮಾನ್ಯ ಪಟ್ಟಿಯನ್ನೇ ನಂಬಬಾರದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q211",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ. ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q212",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q213",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    },
+        {
+      "id": "Q214",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಮುಖ್ಯವಾದ ಕನ್ನಡದ ಜ್ಞಾನಪೀಠ-ಕೃತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬರೆಯಿರಿ.",
+      "options": {
+        "A": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ",
+        "B": "ಕುವೆಂಪು — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಕಾರಂತ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಮಾಸ್ತಿ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಗೋಕಾಕ್ — ನಾಕುತಂತಿ; ಬೇಂದ್ರೆ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು — ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ; ಬೇಂದ್ರೆ — ನಾಕುತಂತಿ; ಕಾರಂತ — ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು; ಮಾಸ್ತಿ — ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ; ಗೋಕಾಕ್ — ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ; ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್ ಮತ್ತು ಕಂಬಾರರಿಗೆ ಸಮಗ್ರ ಸಾಹಿತ್ಯ ಕೊಡುಗೆಗಾಗಿ ಪ್ರಶಸ್ತಿ ದೊರೆತಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q47"
+    },
+    {
+      "id": "Q215",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಕುರಿತು ಯಾವ ಮಾಹಿತಿಯನ್ನು ಪ್ರತಿವರ್ಷ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿ",
+        "B": "ಕೇವಲ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "C": "ಕೇವಲ ಪಂಪ ಪ್ರಶಸ್ತಿ ಮಾಹಿತಿ",
+        "D": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಮಾಹಿತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ, ಪಂಪ ಪ್ರಶಸ್ತಿ, ಬಸವ ಪ್ರಶಸ್ತಿ, ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ, ನಾಡೋಜ ಮತ್ತು ಇತ್ತೀಚಿನ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಸ್ಥಳ-ಅಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆ ಬಂದಾಗ ನವೀಕರಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q48"
+    },
+    {
+      "id": "Q216",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು ಯಾರು?",
+      "options": {
+        "A": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ",
+        "B": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್",
+        "C": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಂಬಾರ",
+        "D": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಕಾರ್ನಾಡ್, ಕಂಬಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು, ಬೇಂದ್ರೆ, ಕಾರಂತ, ಮಾಸ್ತಿ, ಗೋಕಾಕ್, ಅನಂತಮೂರ್ತಿ, ಕಾರ್ನಾಡ್, ಕಂಬಾರ ಕನ್ನಡದ 8 ಜ್ಞಾನಪೀಠ ಪುರಸ್ಕೃತರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q217",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ವರ್ಷಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "B": "1965, 1973, 1977, 1983, 1990, 1994, 1998, 2010",
+        "C": "1967, 1973, 1977, 1983, 1990, 1994, 1998, 2005",
+        "D": "1967, 1975, 1977, 1983, 1990, 1994, 1998, 2010"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ ವರ್ಷಗಳು — 1967, 1973, 1977, 1983, 1990, 1994, 1998, 2010.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q218",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರಿಗೆ 'ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q219",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬೇಂದ್ರೆ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ನಾಕುತಂತಿ",
+        "B": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+        "C": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ.ರಾ. ಬೇಂದ್ರೆ ಅವರಿಗೆ 'ನಾಕುತಂತಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q220",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕಾರಂತ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "B": "ನಾಕುತಂತಿ",
+        "C": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಶಿವರಾಮ ಕಾರಂತ ಅವರಿಗೆ 'ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q221",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಮಾಸ್ತಿ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "B": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ ಅವರಿಗೆ 'ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q222",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಗೋಕಾಕ್ ಅವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಕೃತಿ ಯಾವುದು?",
+      "options": {
+        "A": "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+        "B": "ಚಿಕ್ಕವೀರ ರಾಜೇಂದ್ರ",
+        "C": "ನಾಕುತಂತಿ",
+        "D": "ಮೂಕಜ್ಞಿಯ ಕನಸುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿ.ಕೆ. ಗೋಕಾಕ್ ಅವರಿಗೆ 'ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ' ಕೃತಿಗಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ದೊರೆಯಿತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q223",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಜ್ಞಾನಪೀಠ ಮತ್ತು ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಜ್ಞಾನಪೀಠ — ನಿರ್ದಿಷ್ಟ ಕೃತಿ; ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ಸಮಗ್ರ ಸಾಧನೆ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಜ್ಞಾನಪೀಠಕ್ಕಿಂತ ಹೆಚ್ಚು ಪ್ರತಿಷ್ಠಿತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಜ್ಞಾನಪೀಠ — ಸಾಹಿತ್ಯಕಾರರ ವಿಶಿಷ್ಟ ಸಾಧನೆ; ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ — ನಿರ್ದಿಷ್ಟ ಭಾಷೆಯ ಆಯ್ಕೆಯಾದ ಕೃತಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q224",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಬಸವ ಪ್ರಶಸ್ತಿಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಬಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಪ ಪ್ರಶಸ್ತಿ — ಕನ್ನಡ ಸಾಹಿತ್ಯ; ಬಸವ ಪ್ರಶಸ್ತಿ — ಬಸವಣ್ಣನ ಮೌಲ್ಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಸೇವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q225",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಯಾವ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ — ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q226",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜ — ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q227",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯನ್ನು ಯಾವ ಸಂಸ್ಥೆ ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್",
+        "B": "ಕರ್ನಾಟಕ ಸರ್ಕಾರ",
+        "C": "ಕೇಂದ್ರ ಸರ್ಕಾರ",
+        "D": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ — ಕೆ.ಕೆ. ಬಿರ್ಲಾ ಫೌಂಡೇಶನ್.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q228",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "B": "ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ",
+        "C": "ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ",
+        "D": "ಪದ್ಮಶ್ರೀ ಮಾತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳು — ಪದ್ಮ ವಿಭೂಷಣ, ಪದ್ಮ ಭೂಷಣ, ಪದ್ಮಶ್ರೀ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q229",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಸ್ಥಾಪನೆ ವರ್ಷ ಯಾವುದು?",
+      "options": {
+        "A": "1915",
+        "B": "1965",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು — ಸ್ಥಾಪನೆ 1915.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q230",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು ಯಾರು?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಖಿಲ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಪ್ರಮುಖ ಆಯೋಜಕರು — ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q231",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಎಲ್ಲಿಂದ ನವೀಕರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಇತ್ತೀಚಿನ ಪ್ರಶಸ್ತಿ ವಿಜೇತರು ಮತ್ತು ಸಮ್ಮೇಳನಾಧ್ಯಕ್ಷರ ಮಾಹಿತಿಯನ್ನು ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ನವೀಕರಿಸಿ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 5"
+    },
+    {
+      "id": "Q232",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರಿಗೆ 'ರಾಷ್ಟ್ರಕವಿ' ಗೌರವದ ಬಗ್ಗೆ ಯಾವ ಹೇಳಿಕೆ ಸರಿ?",
+      "options": {
+        "A": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ",
+        "B": "ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಇದು ಕೇವಲ ಕಾದಂಬರಿಗಾರರಿಗೆ ನೀಡುವ ಪ್ರಶಸ್ತಿ",
+        "D": "ಇದು ಕೇಂದ್ರ ಸರ್ಕಾರ ನೀಡುವ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು; ಇದು ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿಯಂತಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q233",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರನ್ನು ಗೌರವಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ, ಕಲೆ, ಸಂಸ್ಕೃತಿ, ಜನಪದ ಮತ್ತು ಸಮಾಜಸೇವೆಯ ಸಾಧಕರನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q234",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸರಸ್ವತಿ ಸಮ್ಮಾನ್ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಭಾಷೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳು",
+        "B": "ಕೇವಲ ಕನ್ನಡ",
+        "C": "ಕೇವಲ ಸಂಸ್ಕೃತ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಭಾರತೀಯ ಸಂವಿಧಾನದ ಎಂಟನೇ ಅನುಸೂಚಿಯ ಭಾಷೆಗಳಲ್ಲಿ ಪ್ರಕಟವಾದ ಅತ್ಯುತ್ತಮ ಸಾಹಿತ್ಯಕೃತಿಗೆ ನಿಯಮಾನುಸಾರ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q28"
+    },
+    {
+      "id": "Q235",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪದ್ಮ ಪ್ರಶಸ್ತಿಗಳನ್ನು ಯಾವ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳು",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ",
+        "C": "ಕೇವಲ ವಿಜ್ಞಾನ",
+        "D": "ಕೇವಲ ಕಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕಲೆ, ಸಾಹಿತ್ಯ, ಶಿಕ್ಷಣ, ವಿಜ್ಞಾನ, ಸಾರ್ವಜನಿಕ ಸೇವೆ ಸೇರಿದಂತೆ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ಇವುಗಳನ್ನು ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q30"
+    },
+    {
+      "id": "Q236",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಯಾವ ಚಟುವಟಿಕೆಗಳು ನಡೆಯುತ್ತವೆ?",
+      "options": {
+        "A": "ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರದರ್ಶನ",
+        "C": "ಕೇವಲ ಕವಿಗೋಷ್ಠಿ",
+        "D": "ಕೇವಲ ವಿಚಾರಗೋಷ್ಠಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ನಾಡಿನ ವಿಚಾರಗಳ ಕುರಿತು ಚರ್ಚೆ, ವಿಚಾರಗೋಷ್ಠಿ, ಕವಿಗೋಷ್ಠಿ, ಪುಸ್ತಕ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಾಹಿತ್ಯಕ ಸಂವಾದ ನಡೆಯುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q32"
+    },
+    {
+      "id": "Q237",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಯಾವುದರ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ",
+        "B": "ಸರ್ಕಾರದ ನಿಯಮಾನುಸಾರ",
+        "C": "ಅಕಾಡೆಮಿಯ ನಿಯಮಾನುಸಾರ",
+        "D": "ವಿಶ್ವವಿದ್ಯಾಲಯದ ನಿಯಮಾನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆ ಮತ್ತು ಆಯೋಜನಾ ವಿವರಗಳು ಪರಿಷತ್ತಿನ ನಿಯಮಾನುಸಾರ ಇರುತ್ತವೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q33"
+    },
+        {
+      "id": "Q238",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ಯಾವ ಚಟುವಟಿಕೆಗಳಿಗೆ ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳು",
+        "B": "ಕೇವಲ ಪುಸ್ತಕ ಪ್ರಕಟಣೆ",
+        "C": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನಗಳು",
+        "D": "ಕೇವಲ ಗ್ರಂಥಾಲಯ ನಿರ್ವಹಣೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಭಾಷೆ, ಸಾಹಿತ್ಯ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಏಕೀಕರಣದ ಚಟುವಟಿಕೆಗಳಿಗೆ ಇದು ಪ್ರಮುಖ ಸಂಸ್ಥೆಯಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q34"
+    },
+    {
+      "id": "Q239",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಎಲ್ಲಿಂದ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ",
+        "C": "ಸ್ನೇಹಿತರಿಂದ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಜೇತರ ವರ್ಷ ಮತ್ತು ವಿವರಗಳನ್ನು ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಅಧಿಕೃತ ಪ್ರಕಟಣೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q22"
+    },
+    {
+      "id": "Q240",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಪ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಕವಿಯ ಹೆಸರಿನಲ್ಲಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ?",
+      "options": {
+        "A": "ಆದಿಕವಿ ಪಂಪ",
+        "B": "ಕುವೆಂಪು",
+        "C": "ಬೇಂದ್ರೆ",
+        "D": "ಕಾರಂತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆದಿಕವಿ ಪಂಪನ ಹೆಸರಿನಲ್ಲಿ ಈ ಪ್ರಶಸ್ತಿ ಸ್ಥಾಪಿಸಲಾಗಿದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q21"
+    },
+    {
+      "id": "Q241",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಸವ ಪ್ರಶಸ್ತಿಯು ಬಸವಣ್ಣನವರ ಯಾವ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹ",
+        "B": "ಕೇವಲ ಸಾಹಿತ್ಯ ಸೇವೆ",
+        "C": "ಕೇವಲ ಶಿಕ್ಷಣ ಸೇವೆ",
+        "D": "ಕೇವಲ ವಿಜ್ಞಾನ ಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಸವಣ್ಣನವರ ಸಮಾನತೆ, ಮಾನವೀಯತೆ, ಕಾಯಕ ಮತ್ತು ದಾಸೋಹದ ಮೌಲ್ಯಗಳನ್ನು ಪ್ರತಿಪಾದಿಸುವ ವ್ಯಕ್ತಿಗಳ ಸೇವೆಯನ್ನು ಗೌರವಿಸಲು ಈ ಪ್ರಶಸ್ತಿ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q23"
+    },
+    {
+      "id": "Q242",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನೃಪತುಂಗ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂಸ್ಥೆಯೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+        "B": "ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+        "C": "ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ",
+        "D": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನೊಂದಿಗೆ ಸಂಬಂಧಿಸಿದ ಈ ಗೌರವವನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹಿರಿಯ ಸಾಹಿತಿಗಳ ಸಾಧನೆಗೆ ನೀಡಲಾಗುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q24"
+    },
+    {
+      "id": "Q243",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ಯಾವ ಸಂದರ್ಭದಲ್ಲಿ ನೀಡಲಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "B": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಸಂದರ್ಭದಲ್ಲಿ",
+        "C": "ಗಣರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ",
+        "D": "ಕನ್ನಡ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ನಾಟಕ ರಾಜ್ಯೋತ್ಸವದ ಸಂದರ್ಭದಲ್ಲಿ ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಗಣನೀಯ ಸೇವೆ ಸಲ್ಲಿಸಿದ ವ್ಯಕ್ತಿಗಳಿಗೆ ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ನೀಡುತ್ತದೆ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q244",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯಲ್ಲಿ ಸಾಹಿತ್ಯವು ಯಾವ ಸ್ಥಾನವನ್ನು ಹೊಂದಿದೆ?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು",
+        "B": "ಸಾಹಿತ್ಯಕ್ಕೆ ಈ ಪ್ರಶಸ್ತಿ ಸಂಬಂಧಿಸಿಲ್ಲ",
+        "C": "ಸಾಹಿತ್ಯಕ್ಕೆ ಮಾತ್ರ ಈ ಪ್ರಶಸ್ತಿ",
+        "D": "ಸಾಹಿತ್ಯವು ಇದರಲ್ಲಿ ಒಂದು ಕ್ಷೇತ್ರವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿಯು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದು, ಸಾಹಿತ್ಯವೂ ಇದರ ಪ್ರಮುಖ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಒಂದು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q25"
+    },
+    {
+      "id": "Q245",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕುವೆಂಪು ಅವರು ಯಾವ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+      "options": {
+        "A": "ರಾಷ್ಟ್ರಕವಿ",
+        "B": "ನಾಡೋಜ",
+        "C": "ಪಂಪ",
+        "D": "ಬಸವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕುವೆಂಪು ಅವರು 'ರಾಷ್ಟ್ರಕವಿ' ಎಂಬ ಗೌರವದಿಂದ ಪ್ರಸಿದ್ಧರು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 2, Q26"
+    },
+    {
+      "id": "Q246",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಪ್ರಶಸ್ತಿಯು ಯಾವ ರೀತಿಯ ಗೌರವವಾಗಿದೆ?",
+      "options": {
+        "A": "ಗೌರವ ಪದವಿ",
+        "B": "ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ",
+        "C": "ಕೇವಲ ನಗದು ಬಹುಮಾನ",
+        "D": "ಕೇವಲ ಪ್ರಮಾಣಪತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಂಪಿಯ ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯವು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ವಿಶಿಷ್ಟ ಸಾಧನೆ ಮಾಡಿದವರಿಗೆ ನೀಡುವ ಗೌರವ ಪದವಿಯೇ ನಾಡೋಜ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 3, Q27"
+    },
+    {
+      "id": "Q247",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ವಿಜೇತರ ಇತ್ತೀಚಿನ ಪಟ್ಟಿಯನ್ನು ಯಾವ ಮೂಲದಿಂದ ಪಡೆಯಬೇಕು?",
+      "options": {
+        "A": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗ",
+        "B": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ",
+        "C": "ಸ್ನೇಹಿತರ ಬಳಿ",
+        "D": "ಯಾವುದೇ ಪತ್ರಿಕೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್/ವಾರ್ಷಿಕ ವಿಭಾಗದಿಂದ ಭಾಷೆ ಮತ್ತು ವರ್ಷವನ್ನು ಆಯ್ಕೆಮಾಡಿ ಪಡೆಯಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q43"
+    },
+    {
+      "id": "Q248",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಪ ಪ್ರಶಸ್ತಿಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಪ್ರಶಸ್ತಿಗಳು",
+        "C": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ",
+        "D": "ಪಂಪ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳ ಸಾಧಕರಿಗೆ ನೀಡುವ ಬಹುಕ್ಷೇತ್ರೀಯ ರಾಜ್ಯ ಗೌರವ; ಪಂಪ ಪ್ರಶಸ್ತಿ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ವಿಶೇಷ ಸಾಹಿತ್ಯ ಗೌರವ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q44"
+    },
+    {
+      "id": "Q249",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ನಾಡೋಜ ಮತ್ತು ರಾಷ್ಟ್ರಕವಿ ಗೌರವಗಳ ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ; ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ",
+        "B": "ಎರಡೂ ಒಂದೇ ರೀತಿಯ ಗೌರವಗಳು",
+        "C": "ನಾಡೋಜವು ಕೇವಲ ಸಾಹಿತ್ಯಕ್ಕೆ; ರಾಷ್ಟ್ರಕವಿ ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ",
+        "D": "ರಾಷ್ಟ್ರಕವಿ ವಾರ್ಷಿಕ ಸ್ಪರ್ಧಾತ್ಮಕ ಪ್ರಶಸ್ತಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನಾಡೋಜವು ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ ಹಂಪಿ ನೀಡುವ ಗೌರವ ಪದವಿ. ರಾಷ್ಟ್ರಕವಿ ಎಂಬುದು ಕವಿಗೆ ನೀಡಲಾದ ಗೌರವ ಪದವಿ. ಎರಡೂ ಒಂದೇ ಸಂಸ್ಥೆಯ ಅಥವಾ ಒಂದೇ ವಿಧದ ಪ್ರಶಸ್ತಿಗಳಲ್ಲ.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q45"
+    },
+    {
+      "id": "Q250",
+      "subject": "Kannada",
+      "topic": "Kannada Sahitya Prashastigalu",
+      "chapter": "Kannada Sahitya Prashastigalu",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಾಹಿತ್ಯ ಪ್ರಶಸ್ತಿಗಳ ಅಧಿಕೃತ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸುವಾಗ ಯಾವ ವಿವರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣ",
+        "B": "ಕೇವಲ ಪುರಸ್ಕೃತರ ಹೆಸರು",
+        "C": "ಕೇವಲ ಪ್ರಶಸ್ತಿ ವರ್ಷ",
+        "D": "ಕೇವಲ ಕೃತಿಯ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರಶಸ್ತಿಯ ಪೂರ್ಣ ಹೆಸರು, ನೀಡುವ ಸಂಸ್ಥೆ, ಸ್ಥಾಪನೆ ವರ್ಷ, ಅರ್ಹತಾ ವ್ಯಾಪ್ತಿ, ಪ್ರಶಸ್ತಿ ವರ್ಷ, ಪುರಸ್ಕೃತರ ಹೆಸರು, ಕೃತಿ ಮತ್ತು ಪ್ರಶಸ್ತಿ ನೀಡಿದ ಕಾರಣವನ್ನು ದಾಖಲಿಸಬೇಕು.",
+      "source": "Sahitya_Prashastigalu.pdf, Page 4, Q46"
+    }
+  ]
+}

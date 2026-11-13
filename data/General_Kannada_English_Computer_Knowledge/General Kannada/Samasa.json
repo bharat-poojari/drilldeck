@@ -1,0 +1,3265 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Comprehensive question bank on ಸಮಾಸ (Samasa) from F.D.A./S.D.A. Exam Preparation - Kannada Language and Basic Grammar, Chapter 9. All questions in Kannada.",
+  "questions": [
+    {
+      "id": "SAM001",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳು ತಮ್ಮ ನಡುವಿನ ವಿಭಕ್ತಿ ಅಥವಾ ಸಂಬಂಧಸೂಚಕ ಪದಗಳನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿಕೊಂಡು ಒಂದೇ ಸಂಯುಕ್ತ ಪದವಾಗಿ ರೂಪುಗೊಳ್ಳುವುದು",
+        "B": "ಎರಡು ಪದಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ ಬರೆಯುವುದು",
+        "C": "ಪದಗಳ ಅರ್ಥವನ್ನು ಬದಲಾಯಿಸುವುದು",
+        "D": "ವಾಕ್ಯವನ್ನು ಉದ್ದಗೊಳಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳು ತಮ್ಮ ನಡುವಿನ ವಿಭಕ್ತಿ ಅಥವಾ ಸಂಬಂಧಸೂಚಕ ಪದಗಳನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸಿಕೊಂಡು ಒಂದೇ ಸಂಯುಕ್ತ ಪದವಾಗಿ ರೂಪುಗೊಳ್ಳುವುದನ್ನು ಸಮಾಸ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM002",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದಿಂದ ಭಾಷೆಗೆ ಏನು ಉಂಟಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಭಾಷೆ ಉದ್ದವಾಗುತ್ತದೆ",
+        "B": "ಭಾಷೆ ಸಂಕ್ಷಿಪ್ತವೂ ಅರ್ಥಪೂರ್ಣವೂ ಆಗುತ್ತದೆ",
+        "C": "ಭಾಷೆ ಕ್ಲಿಷ್ಟವಾಗುತ್ತದೆ",
+        "D": "ಭಾಷೆ ಅರ್ಥಹೀನವಾಗುತ್ತದೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಮಾಸದಿಂದ ಭಾಷೆ ಸಂಕ್ಷಿಪ್ತವೂ ಅರ್ಥಪೂರ್ಣವೂ ಆಗುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM003",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ರಾಜನ ಪುತ್ರ' ಎಂಬುದರ ಸಮಾಸಪದ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಜಪುತ್ರ",
+        "B": "ರಾಜನಪುತ್ರ",
+        "C": "ಪುತ್ರರಾಜ",
+        "D": "ರಾಜಪುತ್ರನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜನ ಪುತ್ರ = ರಾಜಪುತ್ರ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM004",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತಾಯಿ ಮತ್ತು ತಂದೆ' ಎಂಬುದರ ಸಮಾಸಪದ ಯಾವುದು?",
+      "options": {
+        "A": "ತಾಯಿತಂದೆ",
+        "B": "ತಂದೆತಾಯಿ",
+        "C": "ತಾಯಿಯತಂದೆ",
+        "D": "ತಂದೆಯತಾಯಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿ ಮತ್ತು ತಂದೆ = ತಾಯಿತಂದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM005",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸಪದ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಿಂದ ರೂಪುಗೊಂಡ ಸಂಯುಕ್ತ ಪದ",
+        "B": "ಬೇರ್ಪಡಿಸಿದ ಪದ",
+        "C": "ವಾಕ್ಯ",
+        "D": "ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಿಂದ ರೂಪುಗೊಂಡ ಸಂಯುಕ್ತ ಪದವನ್ನು ಸಮಾಸಪದ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM006",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸಪದದಲ್ಲಿ ಎಷ್ಟು ಅರ್ಥಘಟಕಗಳು ಇರುತ್ತವೆ?",
+      "options": {
+        "A": "ಒಂದೇ",
+        "B": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು",
+        "C": "ಮೂರು ಮಾತ್ರ",
+        "D": "ಐದು ಮಾತ್ರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಮಾಸಪದದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಅರ್ಥಘಟಕಗಳು ಒಂದೇ ಪದವಾಗಿ ಸೇರಿರುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM007",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದ ಮುಖ್ಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳು ಒಂದಾಗುತ್ತವೆ",
+        "B": "ಪದಗಳು ಬೇರ್ಪಡುತ್ತವೆ",
+        "C": "ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯ ಸೇರಿಸಲ್ಪಡುತ್ತದೆ",
+        "D": "ವಾಕ್ಯ ಉದ್ದವಾಗುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳು ಒಂದಾಗುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM008",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದಲ್ಲಿ ಮಧ್ಯದ ವಿಭಕ್ತಿ ಅಥವಾ ಸಂಬಂಧಪದಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಸೇರಿಸಲ್ಪಡುತ್ತದೆ",
+        "B": "ಸಾಮಾನ್ಯವಾಗಿ ಲೋಪವಾಗುತ್ತದೆ ಅಥವಾ ಸಂಕ್ಷಿಪ್ತಗೊಳ್ಳುತ್ತದೆ",
+        "C": "ದ್ವಿಗುಣವಾಗುತ್ತದೆ",
+        "D": "ಬದಲಾಯಿಸಲ್ಪಡುತ್ತದೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಮಧ್ಯದ ವಿಭಕ್ತಿ/ಸಂಬಂಧಪದ ಸಾಮಾನ್ಯವಾಗಿ ಲೋಪವಾಗುತ್ತದೆ ಅಥವಾ ಸಂಕ್ಷಿಪ್ತಗೊಳ್ಳುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM009",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸಪದವನ್ನು ಏನಾಗಿ ಬಿಡಿಸಬಹುದು?",
+      "options": {
+        "A": "ವಿಗ್ರಹವಾಕ್ಯವಾಗಿ",
+        "B": "ಸಂಧಿಯಾಗಿ",
+        "C": "ವಿಭಕ್ತಿಯಾಗಿ",
+        "D": "ಕ್ರಿಯಾಪದವಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದವನ್ನು ವಿಗ್ರಹವಾಕ್ಯವಾಗಿ ಬಿಡಿಸಬಹುದು.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM010",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇವರ ಆಲಯ' ಎಂಬುದರ ಸಮಾಸಪದ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವಾಲಯ",
+        "B": "ದೇವರಾಲಯ",
+        "C": "ಆಲಯದೇವ",
+        "D": "ದೇವಾಲಯನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರ ಆಲಯ = ದೇವಾಲಯ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM011",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ವಿಗ್ರಹವಾಕ್ಯ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸಪದದಲ್ಲಿರುವ ಪದಗಳ ನಡುವಿನ ಅರ್ಥಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುವಂತೆ ಅದನ್ನು ಬಿಡಿಸಿ ಹೇಳುವ ವಾಕ್ಯ ಅಥವಾ ಪದಗುಚ್ಚ",
+        "B": "ಸಮಾಸಪದವನ್ನು ಉದ್ದಗೊಳಿಸುವುದು",
+        "C": "ಪದಗಳನ್ನು ಬೇರ್ಪಡಿಸಿ ಬರೆಯುವುದು",
+        "D": "ವಾಕ್ಯವನ್ನು ಸಂಕ್ಷಿಪ್ತಗೊಳಿಸುವುದು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದದಲ್ಲಿರುವ ಪದಗಳ ನಡುವಿನ ಅರ್ಥಸಂಬಂಧವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುವಂತೆ ಅದನ್ನು ಬಿಡಿಸಿ ಹೇಳುವ ವಾಕ್ಯ ಅಥವಾ ಪದಗುಚ್ಚವೇ ವಿಗ್ರಹವಾಕ್ಯ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM012",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ರಾಜಪುತ್ರ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ರಾಜನ ಪುತ್ರ",
+        "B": "ರಾಜ ಮತ್ತು ಪುತ್ರ",
+        "C": "ರಾಜನಿಂದ ಪುತ್ರ",
+        "D": "ರಾಜನಿಗೆ ಪುತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜಪುತ್ರ = ರಾಜನ ಪುತ್ರ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM013",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ನೀಲಾಕಾಶ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ನೀಲವಾದ ಆಕಾಶ",
+        "B": "ನೀಲ ಮತ್ತು ಆಕಾಶ",
+        "C": "ನೀಲದ ಆಕಾಶ",
+        "D": "ಆಕಾಶದ ನೀಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀಲಾಕಾಶ = ನೀಲವಾದ ಆಕಾಶ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM014",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತಾಯಿತಂದೆ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ತಾಯಿ ಮತ್ತು ತಂದೆ",
+        "B": "ತಾಯಿಯ ತಂದೆ",
+        "C": "ತಂದೆಯ ತಾಯಿ",
+        "D": "ತಾಯಿಗೆ ತಂದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿತಂದೆ = ತಾಯಿ ಮತ್ತು ತಂದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM015",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದ ವಿಧಗಳನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಹೇಗೆ ವಿಂಗಡಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ, ತತ್ಪುರುಷ, ಕರ್ಮಧಾರಯ, ದ್ವಿಗು, ದ್ವಂದ್ವ ಮತ್ತು ಬಹುವ್ರೀಹಿ",
+        "B": "ಸಂಧಿ, ವಿಭಕ್ತಿ, ವಚನ, ಲಿಂಗ, ಪುರುಷ, ಕಾಲ",
+        "C": "ನಾಮಪದ, ಸರ್ವನಾಮ, ಕ್ರಿಯಾಪದ, ವಿಶೇಷಣ, ಅವ್ಯಯ, ಸಂಖ್ಯಾವಾಚಕ",
+        "D": "ಸ್ವರ, ವ್ಯಂಜನ, ಯೋಗವಾಹಕ, ಅಕ್ಷರ, ಪದ, ವಾಕ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯೀಭಾವ, ತತ್ಪುರುಷ, ಕರ್ಮಧಾರಯ, ದ್ವಿಗು, ದ್ವಂದ್ವ ಮತ್ತು ಬಹುವ್ರೀಹಿ ಎಂಬ ವಿಧಗಳನ್ನು ಕಲಿಸಲಾಗುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM016",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಮತ್ತು ದ್ವಿಗುಗಳನ್ನು ಕೆಲವು ವ್ಯಾಕರಣ ಪದ್ಧತಿಗಳಲ್ಲಿ ಯಾವ ಸಮಾಸದ ಉಪವಿಧಗಳಾಗಿ ವಿವರಿಸುತ್ತಾರೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ಅವ್ಯಯೀಭಾವ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಮತ್ತು ದ್ವಿಗುಗಳನ್ನು ಕೆಲವು ವ್ಯಾಕರಣ ಪದ್ಧತಿಗಳಲ್ಲಿ ತತ್ಪುರುಷ ಸಮಾಸದ ಉಪವಿಧಗಳಾಗಿಯೂ ವಿವರಿಸುತ್ತಾರೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM017",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು ಮುಖ್ಯವಾಗಿ ಏನನ್ನು ಗಮನಿಸಬೇಕು?",
+      "options": {
+        "A": "ಘಟಕ ಪದಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳ ನಡುವಿನ ಅರ್ಥಸಂಬಂಧವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು",
+        "B": "ಕೇವಲ ಪದಗಳ ಸಂಖ್ಯೆಯನ್ನು ಎಣಿಸಬೇಕು",
+        "C": "ಕೇವಲ ಅಕ್ಷರಗಳನ್ನು ಎಣಿಸಬೇಕು",
+        "D": "ಕೇವಲ ಉಚ್ಚಾರಣೆಯನ್ನು ಗಮನಿಸಬೇಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದದಲ್ಲಿನ ಘಟಕ ಪದಗಳನ್ನು ಗುರುತಿಸಿ, ಅವುಗಳ ನಡುವಿನ ಅರ್ಥಸಂಬಂಧವನ್ನು ಕಂಡುಹಿಡಿಯಬೇಕು.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM018",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಮೊದಲ ಪದ ಅವ್ಯಯವೇ ಎಂದು ಏಕೆ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಕರ್ಮಧಾರಯ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿದ್ದರೆ ಅದು ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM019",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಒಂದು ಪದ ಇನ್ನೊಂದನ್ನು ವಿಶೇಷಿಸುತ್ತಿದೆಯೇ ಎಂದು ಏಕೆ ನೋಡಬೇಕು?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಪದ ಇನ್ನೊಂದನ್ನು ವಿಶೇಷಿಸುತ್ತಿದ್ದರೆ ಅದು ಕರ್ಮಧಾರಯ ಸಮಾಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM020",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿವೆಯೇ ಎಂದು ಏಕೆ ನೋಡಬೇಕು?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ದ್ವಿಗು ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿದ್ದರೆ ಅದು ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM021",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತಿದೆಯೇ ಎಂದು ಏಕೆ ಪರಿಶೀಲಿಸಬೇಕು?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಕರ್ಮಧಾರಯ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದವು ತನ್ನ ಘಟಕ ಪದಗಳಿಗಿಂತ ಬೇರೆಯದೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತಿದ್ದರೆ ಅದು ಬಹುವ್ರೀಹಿ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM022",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಅವ್ಯಯ ಪದವು ಮುಖ್ಯವಾಗಿದ್ದು, ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯದಂತೆಯೇ ಬಳಕೆಯಾಗುವ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಂಖ್ಯಾಪೂರ್ವವಾದ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವ್ಯಯ ಪದವು ಮುಖ್ಯವಾಗಿದ್ದು, ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯದಂತೆಯೇ ಬಳಕೆಯಾಗುವ ಸಮಾಸವನ್ನು ಅವ್ಯಯೀಭಾವ ಸಮಾಸ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM023",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಶಕ್ತಿ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಶಕ್ತಿಗೆ ಅನುಗುಣವಾಗಿ",
+        "B": "ಶಕ್ತಿ ಇಲ್ಲದೆ",
+        "C": "ಶಕ್ತಿಯಿಂದ ದೂರ",
+        "D": "ಶಕ್ತಿಯನ್ನು ಮೀರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಶಕ್ತಿ = ಶಕ್ತಿಗೆ ಅನುಗುಣವಾಗಿ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM024",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪ್ರತಿದಿನ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಪ್ರತಿ ದಿನ",
+        "B": "ಕೆಲವು ದಿನ",
+        "C": "ಒಂದು ದಿನ",
+        "D": "ದಿನದ ಕೊನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿದಿನ = ಪ್ರತಿ ದಿನ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM025",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಆಜೀವ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಜೀವನಪೂರ್ತಿ",
+        "B": "ಜೀವನದ ಆರಂಭ",
+        "C": "ಜೀವನದ ಕೊನೆ",
+        "D": "ಜೀವನದ ಮಧ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಜೀವ = ಜೀವನಪೂರ್ತಿ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM026",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸದಲ್ಲಿ ಸಮಾಸಪದವು ಯಾವ ಅರ್ಥವನ್ನು ನೀಡಬಹುದು?",
+      "options": {
+        "A": "ಕಾಲ, ರೀತಿ, ಪ್ರಮಾಣ ಅಥವಾ ಅನುಸರಣೆಯ ಅರ್ಥ",
+        "B": "ಕೇವಲ ವ್ಯಕ್ತಿಯ ಹೆಸರು",
+        "C": "ಕೇವಲ ಸ್ಥಳದ ಹೆಸರು",
+        "D": "ಕೇವಲ ವಸ್ತುವಿನ ಹೆಸರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸಪದವು ಕಾಲ, ರೀತಿ, ಪ್ರಮಾಣ ಅಥವಾ ಅನುಸರಣೆಯ ಅರ್ಥವನ್ನು ನೀಡಬಹುದು.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM027",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸಪದವು ವಾಕ್ಯದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ರೀತಿ ಕೆಲಸ ಮಾಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕ್ರಿಯಾವಿಶೇಷಣದಂತೆ",
+        "B": "ನಾಮಪದದಂತೆ",
+        "C": "ಸರ್ವನಾಮದಂತೆ",
+        "D": "ಕ್ರಿಯಾಪದದಂತೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸಪದವು ವಾಕ್ಯದಲ್ಲಿ ಕ್ರಿಯಾವಿಶೇಷಣದಂತೆ ಕೆಲಸ ಮಾಡಬಹುದು.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM028",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಶಕ್ತಿ ಕೆಲಸಮಾಡು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ಯಥಾಶಕ್ತಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಶಕ್ತಿ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM029",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪ್ರತಿದಿನ ವ್ಯಾಯಾಮಾಡು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ಪ್ರತಿದಿನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿದಿನ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM030",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಕ್ರಮ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಕ್ರಮಕ್ಕೆ ತಕ್ಕಂತೆ",
+        "B": "ಕ್ರಮವಿಲ್ಲದೆ",
+        "C": "ಕ್ರಮದಿಂದ ದೂರ",
+        "D": "ಕ್ರಮವನ್ನು ಮೀರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಕ್ರಮ = ಕ್ರಮಕ್ಕೆ ತಕ್ಕಂತೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM031",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಅನುಕ್ರಣ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಪ್ರತಿ ಕ್ಷಣ",
+        "B": "ಕೆಲವು ಕ್ಷಣ",
+        "C": "ಒಂದು ಕ್ಷಣ",
+        "D": "ಕ್ಷಣದ ಕೊನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುಕ್ರಣ = ಪ್ರತಿ ಕ್ಷಣ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+        {
+      "id": "SAM032",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಉತ್ತರಪದ ಅಥವಾ ಎರಡನೇ ಪದ ಪ್ರಧಾನವಾಗಿದ್ದು, ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದಗಳ ನಡುವೆ ವಿಭಕ್ತಿಯ ಸಂಬಂಧ ಅಡಕವಾಗಿರುವ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಉತ್ತರಪದ ಅಥವಾ ಎರಡನೇ ಪದ ಪ್ರಧಾನವಾಗಿದ್ದು, ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದಗಳ ನಡುವೆ ವಿಭಕ್ತಿಯ ಸಂಬಂಧ ಅಡಕವಾಗಿರುವ ಸಮಾಸ ತತ್ಪುರುಷ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM033",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ರಾಜನ ಪುತ್ರ = ರಾಜಪುತ್ರ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜನ ಪುತ್ರ = ರಾಜಪುತ್ರ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM034",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇವರ ಆಲಯ = ದೇವಾಲಯ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರ ಆಲಯ = ದೇವಾಲಯ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM035",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಗ್ರಾಮಕ್ಕೆ ಪ್ರವೇಶ = ಗ್ರಾಮಪ್ರವೇಶ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗ್ರಾಮಕ್ಕೆ ಪ್ರವೇಶ = ಗ್ರಾಮಪ್ರವೇಶ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM036",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸದ ಮುಖ್ಯ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಎರಡನೇ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ",
+        "B": "ಮೊದಲ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ",
+        "C": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುತ್ತವೆ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಎರಡನೇ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM037",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸಬಹುದು?",
+      "options": {
+        "A": "'ನ, ಅನ್ನು, ಇಂದ, ಗೆ, ಇಂದ/ರಿಂದ, ಅ, ನಲ್ಲಿ' ಮುಂತಾದ ಸಂಬಂಧಗಳು",
+        "B": "'ಮತ್ತು', 'ಹಾಗೂ' ಎಂಬ ಸಂಯೋಜಕ ಅರ್ಥಗಳು",
+        "C": "'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥಗಳು",
+        "D": "ಯಾವ ಸಂಬಂಧವೂ ಇರುವುದಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಪುರುಷ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ 'ನ, ಅನ್ನು, ಇಂದ, ಗೆ, ಇಂದ/ರಿಂದ, ಅ, ನಲ್ಲಿ' ಮುಂತಾದ ವಿಭಕ್ತಿ ಸಂಬಂಧಗಳನ್ನು ತೋರಿಸಬಹುದು.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM038",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಮನೆಯ ಬಾಗಿಲು = ಮನೆಬಾಗಿಲು' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮನೆಯ ಬಾಗಿಲು = ಮನೆಬಾಗಿಲು ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM039",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇಶದ ಸೇವೆ = ದೇಶಸೇವೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇಶದ ಸೇವೆ = ದೇಶಸೇವೆ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM040",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಭಕ್ತಿ ತತ್ಪುರುಷ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದಗಳ ನಡುವೆ ನಿರ್ದಿಷ್ಟ ವಿಭಕ್ತಿಯ ಸಂಬಂಧವಿದ್ದು, ಆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯವು ಸಮಾಸದಲ್ಲಿ ಲೋಪವಾಗುವ ತತ್ಪುರುಷ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದಗಳ ನಡುವೆ ನಿರ್ದಿಷ್ಟ ವಿಭಕ್ತಿಯ ಸಂಬಂಧವಿದ್ದು, ಆ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯವು ಸಮಾಸದಲ್ಲಿ ಲೋಪವಾಗುವ ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ವಿಭಕ್ತಿ ತತ್ಪುರುಷ ಎನ್ನತ್ತಾರೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM041",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ರಾಜನ ಪುತ್ರ = ರಾಜಪುತ್ರ' ಯಾವ ವಿಭಕ್ತಿ ಸಂಬಂಧವನ್ನು ತೋರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಷಷ್ಠೀ ಸಂಬಂಧ",
+        "B": "ದ್ವಿತೀಯಾ ಸಂಬಂಧ",
+        "C": "ತೃತೀಯಾ ಸಂಬಂಧ",
+        "D": "ಸಪ್ತಮೀ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜನ ಪುತ್ರ = ರಾಜಪುತ್ರ ಎಂಬುದು ಷಷ್ಠೀ ಸಂಬಂಧವನ್ನು (ಯಾರ/ಯಾವುದರ) ತೋರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM042",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ದೇವರಿಗೆ ಅರ್ಪಣೆ = ದೇವಾರ್ಪಣೆ' ಯಾವ ವಿಭಕ್ತಿ ಸಂಬಂಧಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಚತುರ್ಥೀ ಸಂಬಂಧ",
+        "B": "ದ್ವಿತೀಯಾ ಸಂಬಂಧ",
+        "C": "ಪಂಚಮೀ ಸಂಬಂಧ",
+        "D": "ಸಪ್ತಮೀ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವರಿಗೆ ಅರ್ಪಣೆ = ದೇವಾರ್ಪಣೆ ಎಂಬುದು ಚತುರ್ಥೀ ಸಂಬಂಧಕ್ಕೆ (ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ) ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM043",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವಿಭಕ್ತಿ ತತ್ಪುರುಷದಲ್ಲಿ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ಯಾವ ವಿಭಕ್ತಿ ಸಂಬಂಧಗಳು ಬರಬಹುದು?",
+      "options": {
+        "A": "ದ್ವಿತೀಯಾ, ತೃತೀಯಾ, ಚತುರ್ಥೀ, ಪಂಚಮೀ, ಷಷ್ಠೀ, ಸಪ್ತಮೀ",
+        "B": "ಕೇವಲ ಷಷ್ಠೀ ಮಾತ್ರ",
+        "C": "ಕೇವಲ ದ್ವಿತೀಯಾ ಮತ್ತು ತೃತೀಯಾ",
+        "D": "ಕೇವಲ ಚತುರ್ಥೀ ಮತ್ತು ಪಂಚಮೀ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ದ್ವಿತೀಯಾ, ತೃತೀಯಾ, ಚತುರ್ಥೀ, ಪಂಚಮೀ, ಷಷ್ಠೀ, ಸಪ್ತಮೀ ಸಂಬಂಧಗಳು ಕಾಣಬಹುದು.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM044",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿತೀಯಾ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "B": "ಯಾರಿಂದ/ಯಾವುದರಿಂದ",
+        "C": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "D": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿತೀಯಾ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಯಾರನ್ನು/ಏನನ್ನು' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM045",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತೃತೀಯಾ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಯಾರಿಂದ/ಯಾವುದರಿಂದ",
+        "B": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "C": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "D": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತೃತೀಯಾ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಯಾರಿಂದ/ಯಾವುದರಿಂದ' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM046",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಚತುರ್ಥೀ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "B": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "C": "ಯಾರಿಂದ/ಯಾವುದರಿಂದ",
+        "D": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚತುರ್ಥೀ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM047",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪಂಚಮೀ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಯಾರಿಂದ/ಯಾವುದರಿಂದ ಬೇರ್ಪಟ್ಟು",
+        "B": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "C": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "D": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಚಮೀ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಯಾರಿಂದ/ಯಾವುದರಿಂದ ಬೇರ್ಪಟ್ಟು' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM048",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಷಷ್ಠೀ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಯಾರ/ಯಾವುದರ",
+        "B": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "C": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "D": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಷಷ್ಠೀ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಯಾರ/ಯಾವುದರ' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM049",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಪ್ತಮೀ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಯಾವ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ",
+        "B": "ಯಾರನ್ನು/ಏನನ್ನು",
+        "C": "ಯಾರಿಗೆ/ಯಾವುದಕ್ಕೆ",
+        "D": "ಯಾರಿಂದ/ಯಾವುದರಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಪ್ತಮೀ ವಿಭಕ್ತಿ ಸಂಬಂಧವು 'ಎಲ್ಲಿ/ಯಾವುದರಲ್ಲಿ' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM050",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಯಾವ ಉದಾಹರಣೆ ಯಾವ ವಿಭಕ್ತಿಗೆ ಸೇರುತ್ತದೆ ಎಂಬುದನ್ನು ಹೇಗೆ ನಿರ್ಧರಿಸಬೇಕು?",
+      "options": {
+        "A": "ಅದರ ವಿಗ್ರಹವಾಕ್ಯದಿಂದ",
+        "B": "ಅದರ ಉಚ್ಚಾರಣೆಯಿಂದ",
+        "C": "ಅದರ ಅಕ್ಷರ ಸಂಖ್ಯೆಯಿಂದ",
+        "D": "ಅದರ ಪದ ಸಂಖ್ಯೆಯಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಾವ ಉದಾಹರಣೆ ಯಾವ ವಿಭಕ್ತಿಗೆ ಸೇರುತ್ತದೆ ಎಂಬುದನ್ನು ಅದರ ವಿಗ್ರಹವಾಕ್ಯದಿಂದ ನಿರ್ಧರಿಸಬೇಕು.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM051",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಒಂದು ಪದವು ಇನ್ನೊಂದು ಪದದ ಗುಣ, ವಿಶೇಷಣ ಅಥವಾ ಅಪ್ಪಣೆ ವಿವರಿಸುವ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಒಂದು ಪದವು ಇನ್ನೊಂದು ಪದದ ಗುಣ, ವಿಶೇಷಣ ಅಥವಾ ಅಪ್ಪಣೆಯನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM052",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "B": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು ಸಮಾನ",
+        "D": "ಯಾವುದೂ ಪ್ರಧಾನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಉತ್ತರಪದ (ಎರಡನೇ ಪದ) ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM053",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಉತ್ತರಪದವನ್ನು ಹೇಗೆ ವಿವರಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಗುಣ, ವಿಶೇಷಣ ಅಥವಾ ಅಪ್ಪಣೆಯ ಮೂಲಕ",
+        "B": "ವಿಭಕ್ತಿ ಸಂಬಂಧದ ಮೂಲಕ",
+        "C": "ಸಂಯೋಜಕ ಅರ್ಥದ ಮೂಲಕ",
+        "D": "ಸಂಖ್ಯೆಯ ಮೂಲಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಉತ್ತರಪದವನ್ನು ಗುಣ, ವಿಶೇಷಣ ಅಥವಾ ಅಪ್ಪಣೆಯ ಮೂಲಕ ವಿವರಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM054",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ನೀಲಾಕಾಶ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀಲಾಕಾಶ = ನೀಲವಾದ ಆಕಾಶ ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM055",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಮಹಾಜನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಜನ = ದೊಡ್ಡ ಜನ ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM056",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಂದರಮುಖಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಂದರಮುಖಿ = ಸುಂದರವಾದ ಮುಖವುಳ್ಳವಳು ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM057",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಎರಡೂ ಪದಗಳು ಯಾವ ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿ ಹೊಂದಿರುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿ",
+        "B": "ಬೇರೆ ಬೇರೆ ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿ",
+        "C": "ಕೇವಲ ಪುಲ್ಲಿಂಗ",
+        "D": "ಕೇವಲ ಸ್ತ್ರೀಲಿಂಗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಎರಡೂ ಪದಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ ಲಿಂಗ, ವಚನ, ವಿಭಕ್ತಿ ಹೊಂದಿರುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM058",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಂಬಂಧ ಕಾಣಬಹುದು?",
+      "options": {
+        "A": "ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಸಂಬಂಧ",
+        "B": "ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "C": "ಸಂಯೋಜಕ ಸಂಬಂಧ",
+        "D": "ಸಂಖ್ಯಾ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಸಂಬಂಧ ಕಾಣಬಹುದು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM059",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಂಖ್ಯಾಪೂರ್ವವಾದ ಸಮಾಸ, ಇದರಲ್ಲಿ ಮೊದಲ ಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸವು ಸಂಖ್ಯಾಪೂರ್ವವಾದ ಸಮಾಸವಾಗಿದ್ದು, ಮೊದಲ ಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM060",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತ್ರಿಲೋಕ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೂರು ಲೋಕಗಳು",
+        "B": "ಎರಡು ಲೋಕಗಳು",
+        "C": "ನಾಲ್ಕು ಲೋಕಗಳು",
+        "D": "ಐದು ಲೋಕಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಲೋಕ = ಮೂರು ಲೋಕಗಳು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM061",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚತುರ್ವೇದ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ನಾಲ್ಕು ವೇದಗಳು",
+        "B": "ಎರಡು ವೇದಗಳು",
+        "C": "ಮೂರು ವೇದಗಳು",
+        "D": "ಐದು ವೇದಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚತುರ್ವೇದ = ನಾಲ್ಕು ವೇದಗಳು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+        {
+      "id": "SAM062",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪಂಚವಟಿ' ಎಂಬುದರ ಪರಂಪರೆಯ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಐದು ವಟವೃಕ್ಷಗಳ ಸಮೂಹ/ಸ್ಥಳ",
+        "B": "ಐದು ನದಿಗಳ ಸಮೂಹ",
+        "C": "ಐದು ಪರ್ವತಗಳ ಸಮೂಹ",
+        "D": "ಐದು ಜನರ ಸಮೂಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಚವಟಿ = ಐದು ವಟವೃಕ್ಷಗಳ ಸಮೂಹ/ಸ್ಥಳ ಎಂಬ ಪರಂಪರೆಯ ಅರ್ಥ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM063",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸದ ಮುಖ್ಯ ಗುರುತುಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಸಂಖ್ಯಾಪೂರ್ವವದ ಮತ್ತು ಸಮೂಹಾರ್ಥ",
+        "B": "ಅವ್ಯಯಪೂರ್ವವದ ಮತ್ತು ಕಾಲಾರ್ಥ",
+        "C": "ವಿಭಕ್ತಿ ಸಂಬಂಧ ಮತ್ತು ಉತ್ತರಪದ ಪ್ರಾಧಾನ್ಯ",
+        "D": "ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಮತ್ತು ಸಂಯೋಜಕ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸದ ಮುಖ್ಯ ಗುರುತುಗಳು ಸಂಖ್ಯಾಪೂರ್ವವದ ಮತ್ತು ಸಮೂಹಾರ್ಥ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM064",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "B": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು",
+        "D": "ಯಾವುದೂ ಅಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM065",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೆಲವು ದ್ವಿಗು ಸಮಾಸದ ಉದಾಹರಣೆಗಳ ವರ್ಗೀಕರಣ ಏಕೆ ಬದಲಾಗಬಹುದು?",
+      "options": {
+        "A": "ಸಂಪ್ರದಾಯಾನುಸಾರ",
+        "B": "ಅಕ್ಷರ ಸಂಖ್ಯೆಯನುಸಾರ",
+        "C": "ಉಚ್ಚಾರಣೆಯನುಸಾರ",
+        "D": "ಪದ ಸಂಖ್ಯೆಯನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಉದಾಹರಣೆಗಳ ವರ್ಗೀಕರಣ ಸಂಪ್ರದಾಯಾನುಸಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM066",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳಿಗೆ ಸಮಾನ ಪ್ರಾಮುಖ್ಯವಿದ್ದು, ಅವುಗಳ ನಡುವೆ 'ಮತ್ತು' ಎಂಬ ಅರ್ಥ ಅಡಕವಾಗಿರುವ ಸಮಾಸ",
+        "B": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳಿಗೆ ಸಮಾನ ಪ್ರಾಮುಖ್ಯವಿದ್ದು, ಅವುಗಳ ನಡುವೆ 'ಮತ್ತು' ಎಂಬ ಅರ್ಥ ಅಡಕವಾಗಿರುವ ಸಮಾಸ ದ್ವಂದ್ವ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM067",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತಾಯಿ ಮತ್ತು ತಂದೆ = ತಾಯಿತಂದೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿ ಮತ್ತು ತಂದೆ = ತಾಯಿತಂದೆ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM068",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಅಣ್ಣ ಮತ್ತು ತಮ್ಮ = ಅಣ್ಣತಮ್ಮ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಣ್ಣ ಮತ್ತು ತಮ್ಮ = ಅಣ್ಣತಮ್ಮ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM069",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಹಗಲು ಮತ್ತು ರಾತ್ರಿ = ಹಗಲಿರುಳು' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಗಲು ಮತ್ತು ರಾತ್ರಿ = ಹಗಲಿರುಳು ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM070",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಖದುಃಖ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಸುಖ ಮತ್ತು ದುಃಖ",
+        "B": "ಸುಖದ ದುಃಖ",
+        "C": "ಸುಖಕ್ಕೆ ದುಃಖ",
+        "D": "ಸುಖದಿಂದ ದುಃಖ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಖದುಃಖ = ಸುಖ ಮತ್ತು ದುಃಖ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM071",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಲಾಭನಷ್ಟ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಾಭ ಮತ್ತು ನಷ್ಟ",
+        "B": "ಲಾಭದ ನಷ್ಟ",
+        "C": "ಲಾಭಕ್ಕೆ ನಷ್ಟ",
+        "D": "ಲಾಭದಿಂದ ನಷ್ಟ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಾಭನಷ್ಟ = ಲಾಭ ಮತ್ತು ನಷ್ಟ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM072",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸದ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಎರಡು ಘಟಕ ಪದಗಳು ಸಮಾನವಾಗಿ ಮುಖ್ಯವಾಗಿರುತ್ತವೆ",
+        "B": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸದಲ್ಲಿ ಎರಡು ಘಟಕ ಪದಗಳು ಸಮಾನವಾಗಿ ಮುಖ್ಯವಾಗಿರುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM073",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಸಂಯೋಜಕ ಅರ್ಥ ಬರುತ್ತದೆ?",
+      "options": {
+        "A": "'ಮತ್ತು', 'ಹಾಗೂ' ಎಂಬ ಸಂಯೋಜಕ ಅರ್ಥ",
+        "B": "'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ 'ಮತ್ತು', 'ಹಾಗೂ' ಎಂಬ ಸಂಯೋಜಕ ಅರ್ಥ ಬರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM074",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸಪದವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದಗಳ ಜೋಡಿ ಅಥವಾ ಸಮೂಹ",
+        "B": "ಒಂದೇ ವ್ಯಕ್ತಿ",
+        "C": "ಒಂದೇ ವಸ್ತು",
+        "D": "ಒಂದೇ ಸ್ಥಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸಪದವು ಪದಗಳ ಜೋಡಿ ಅಥವಾ ಸಮೂಹವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM075",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿನ ಪದಗಳ ಅರ್ಥಕ್ಕಿಂತ ಬೇರೆಯೇ ವ್ಯಕ್ತಿ ಅಥವಾ ವಸ್ತುವನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿನ ಪದಗಳ ಅರ್ಥಕ್ಕಿಂತ ಬೇರೆಯೇ ವ್ಯಕ್ತಿ ಅಥವಾ ವಸ್ತುವನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ ಬಹುವ್ರೀಹಿ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM076",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪೀತಾಂಬರ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು",
+        "B": "ಹಳದಿ ಬಣ್ಣದ ವಸ್ತ್ರ",
+        "C": "ಹಳದಿ ಮತ್ತು ಅಂಬರ",
+        "D": "ಹಳದಿ ಆಕಾಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀತಾಂಬರ = ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM077",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದಶಾನನ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು",
+        "B": "ಹತ್ತು ಮುಖಗಳು",
+        "C": "ಹತ್ತು ಮತ್ತು ಮುಖ",
+        "D": "ಹತ್ತು ಕಣ್ಣುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಶಾನನ = ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM078",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "'ಯಾವನಿಗಿ/ಯಾವುದಕ್ಕೆ ಈ ಗುಣವಿದೆಯೋ ಅವನು/ಅದು' ಎಂಬ ಅರ್ಥ",
+        "B": "'ಮತ್ತು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ 'ಯಾವನಿಗಿ/ಯಾವುದಕ್ಕೆ ಈ ಗುಣವಿದೆಯೋ ಅವನು/ಅದು' ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM079",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುವುದಿಲ್ಲ",
+        "B": "ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುತ್ತದೆ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ",
+        "D": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುವುದಿಲ್ಲ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM080",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು",
+        "B": "ಕೇವಲ ಮೊದಲ ಪದವನ್ನು",
+        "C": "ಕೇವಲ ಎರಡನೇ ಪದವನ್ನು",
+        "D": "ಎರಡೂ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM081",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ವಿಗ್ರಹದಲ್ಲಿ ಯಾವ ಅರ್ಥ ಬರುತ್ತದೆ?",
+      "options": {
+        "A": "'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ",
+        "B": "'ಮತ್ತು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ವಿಗ್ರಹದಲ್ಲಿ 'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ ಬರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM082",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚಕ್ರಪಾಣಿ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು",
+        "B": "ಚಕ್ರ ಮತ್ತು ಪಾಣಿ",
+        "C": "ಚಕ್ರದ ಕೈ",
+        "D": "ಚಕ್ರವನ್ನು ಹೊಂದಿರುವ ಕೈ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಕ್ರಪಾಣಿ = ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM083",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದಶಾನನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಶಾನನ = ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM084",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪೀತಾಂಬರ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀತಾಂಬರ = ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM085",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚಕ್ರಪಾಣಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಕ್ರಪಾಣಿ = ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM086",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎಷ್ಟು ಮೂಲಪದಗಳಿವೆ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ಸಮಾಸದ ರಚನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು",
+        "B": "ಸಂಧಿಯನ್ನು ಗುರುತಿಸಲು",
+        "C": "ವಿಭಕ್ತಿಯನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಕ್ರಿಯಾಪದವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎಷ್ಟು ಮೂಲಪದಗಳಿವೆ ಎಂದು ಕೇಳುವುದು ಸಮಾಸದ ರಚನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM087",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ದ್ವಿಗು ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ದ್ವಿಗು ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM088",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಕೇಳುವುದು ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM089",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಮತ್ತು ಸಂಧಿಗಳ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ",
+        "B": "ಸಮಾಸದಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಎರಡೂ ಸಂಪೂರ್ಣ ಬೇರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM090",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸವು ಯಾವ ಆಧಾರದ ಮೇಲೆ ಸಂಯುಕ್ತ ಪದ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆ?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳ ಅರ್ಥಸಂಬಂಧದ ಆಧಾರದ ಮೇಲೆ",
+        "B": "ಧ್ವನಿಬದಲಾವಣೆಯ ಆಧಾರದ ಮೇಲೆ",
+        "C": "ಅಕ್ಷರ ಬದಲಾವಣೆಯ ಆಧಾರದ ಮೇಲೆ",
+        "D": "ಉಚ್ಚಾರಣೆಯ ಆಧಾರದ ಮೇಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸವು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳ ಅರ್ಥಸಂಬಂಧದ ಆಧಾರದ ಮೇಲೆ ಸಂಯುಕ್ತ ಪದ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM091",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಂಧಿಯು ಯಾವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದಗಳ ಗಡಿಯಲ್ಲಿ ಸ್ವರ/ವ್ಯಂಜನಗಳ ಧ್ವನಿ ಅಥವಾ ಅಕ್ಷರ ಬದಲಾವಣೆ",
+        "B": "ಪದಗಳ ಅರ್ಥಸಂಬಂಧ",
+        "C": "ಪದಗಳ ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "D": "ಪದಗಳ ಸಂಯೋಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಧಿಯು ಪದಗಳ ಗಡಿಯಲ್ಲಿ ಸ್ವರ/ವ್ಯಂಜನಗಳ ಧ್ವನಿ ಅಥವಾ ಅಕ್ಷರ ಬದಲಾವಣೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM092",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ತಾಯಿತಂದೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ ಸಮಾಸ",
+        "B": "ಗುಣಸಂಧಿ",
+        "C": "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "D": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿತಂದೆ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM062",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪಂಚವಟಿ' ಎಂಬುದರ ಪರಂಪರೆಯ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಐದು ವಟವೃಕ್ಷಗಳ ಸಮೂಹ/ಸ್ಥಳ",
+        "B": "ಐದು ನದಿಗಳ ಸಮೂಹ",
+        "C": "ಐದು ಪರ್ವತಗಳ ಸಮೂಹ",
+        "D": "ಐದು ಜನರ ಸಮೂಹ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಚವಟಿ = ಐದು ವಟವೃಕ್ಷಗಳ ಸಮೂಹ/ಸ್ಥಳ ಎಂಬ ಪರಂಪರೆಯ ಅರ್ಥ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM063",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸದ ಮುಖ್ಯ ಗುರುತುಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ಸಂಖ್ಯಾಪೂರ್ವವದ ಮತ್ತು ಸಮೂಹಾರ್ಥ",
+        "B": "ಅವ್ಯಯಪೂರ್ವವದ ಮತ್ತು ಕಾಲಾರ್ಥ",
+        "C": "ವಿಭಕ್ತಿ ಸಂಬಂಧ ಮತ್ತು ಉತ್ತರಪದ ಪ್ರಾಧಾನ್ಯ",
+        "D": "ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಮತ್ತು ಸಂಯೋಜಕ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸದ ಮುಖ್ಯ ಗುರುತುಗಳು ಸಂಖ್ಯಾಪೂರ್ವವದ ಮತ್ತು ಸಮೂಹಾರ್ಥ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM064",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "B": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು",
+        "D": "ಯಾವುದೂ ಅಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಸಂಖ್ಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM065",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೆಲವು ದ್ವಿಗು ಸಮಾಸದ ಉದಾಹರಣೆಗಳ ವರ್ಗೀಕರಣ ಏಕೆ ಬದಲಾಗಬಹುದು?",
+      "options": {
+        "A": "ಸಂಪ್ರದಾಯಾನುಸಾರ",
+        "B": "ಅಕ್ಷರ ಸಂಖ್ಯೆಯನುಸಾರ",
+        "C": "ಉಚ್ಚಾರಣೆಯನುಸಾರ",
+        "D": "ಪದ ಸಂಖ್ಯೆಯನುಸಾರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕೆಲವು ಉದಾಹರಣೆಗಳ ವರ್ಗೀಕರಣ ಸಂಪ್ರದಾಯಾನುಸಾರ ಬದಲಾಗಬಹುದು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM066",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳಿಗೆ ಸಮಾನ ಪ್ರಾಮುಖ್ಯವಿದ್ದು, ಅವುಗಳ ನಡುವೆ 'ಮತ್ತು' ಎಂಬ ಅರ್ಥ ಅಡಕವಾಗಿರುವ ಸಮಾಸ",
+        "B": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳಿಗೆ ಸಮಾನ ಪ್ರಾಮುಖ್ಯವಿದ್ದು, ಅವುಗಳ ನಡುವೆ 'ಮತ್ತು' ಎಂಬ ಅರ್ಥ ಅಡಕವಾಗಿರುವ ಸಮಾಸ ದ್ವಂದ್ವ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM067",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತಾಯಿ ಮತ್ತು ತಂದೆ = ತಾಯಿತಂದೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿ ಮತ್ತು ತಂದೆ = ತಾಯಿತಂದೆ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM068",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಅಣ್ಣ ಮತ್ತು ತಮ್ಮ = ಅಣ್ಣತಮ್ಮ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅಣ್ಣ ಮತ್ತು ತಮ್ಮ = ಅಣ್ಣತಮ್ಮ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM069",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಹಗಲು ಮತ್ತು ರಾತ್ರಿ = ಹಗಲಿರುಳು' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹಗಲು ಮತ್ತು ರಾತ್ರಿ = ಹಗಲಿರುಳು ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM070",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಖದುಃಖ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಸುಖ ಮತ್ತು ದುಃಖ",
+        "B": "ಸುಖದ ದುಃಖ",
+        "C": "ಸುಖಕ್ಕೆ ದುಃಖ",
+        "D": "ಸುಖದಿಂದ ದುಃಖ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಖದುಃಖ = ಸುಖ ಮತ್ತು ದುಃಖ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM071",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಲಾಭನಷ್ಟ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಲಾಭ ಮತ್ತು ನಷ್ಟ",
+        "B": "ಲಾಭದ ನಷ್ಟ",
+        "C": "ಲಾಭಕ್ಕೆ ನಷ್ಟ",
+        "D": "ಲಾಭದಿಂದ ನಷ್ಟ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಾಭನಷ್ಟ = ಲಾಭ ಮತ್ತು ನಷ್ಟ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM072",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸದ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಎರಡು ಘಟಕ ಪದಗಳು ಸಮಾನವಾಗಿ ಮುಖ್ಯವಾಗಿರುತ್ತವೆ",
+        "B": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ",
+        "D": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸದಲ್ಲಿ ಎರಡು ಘಟಕ ಪದಗಳು ಸಮಾನವಾಗಿ ಮುಖ್ಯವಾಗಿರುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM073",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಸಂಯೋಜಕ ಅರ್ಥ ಬರುತ್ತದೆ?",
+      "options": {
+        "A": "'ಮತ್ತು', 'ಹಾಗೂ' ಎಂಬ ಸಂಯೋಜಕ ಅರ್ಥ",
+        "B": "'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸದ ವಿಗ್ರಹವಾಕ್ಯದಲ್ಲಿ 'ಮತ್ತು', 'ಹಾಗೂ' ಎಂಬ ಸಂಯೋಜಕ ಅರ್ಥ ಬರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM074",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸಪದವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದಗಳ ಜೋಡಿ ಅಥವಾ ಸಮೂಹ",
+        "B": "ಒಂದೇ ವ್ಯಕ್ತಿ",
+        "C": "ಒಂದೇ ವಸ್ತು",
+        "D": "ಒಂದೇ ಸ್ಥಳ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸಪದವು ಪದಗಳ ಜೋಡಿ ಅಥವಾ ಸಮೂಹವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM075",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ ಎಂದರೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿನ ಪದಗಳ ಅರ್ಥಕ್ಕಿಂತ ಬೇರೆಯೇ ವ್ಯಕ್ತಿ ಅಥವಾ ವಸ್ತುವನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ",
+        "B": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುವ ಸಮಾಸ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುವ ಸಮಾಸ",
+        "D": "ಉತ್ತರಪದ ಪ್ರಧಾನವಾಗಿರುವ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿನ ಪದಗಳ ಅರ್ಥಕ್ಕಿಂತ ಬೇರೆಯೇ ವ್ಯಕ್ತಿ ಅಥವಾ ವಸ್ತುವನ್ನು ಸೂಚಿಸುವ ಸಮಾಸ ಬಹುವ್ರೀಹಿ ಸಮಾಸ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM076",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪೀತಾಂಬರ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು",
+        "B": "ಹಳದಿ ಬಣ್ಣದ ವಸ್ತ್ರ",
+        "C": "ಹಳದಿ ಮತ್ತು ಅಂಬರ",
+        "D": "ಹಳದಿ ಆಕಾಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀತಾಂಬರ = ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM077",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದಶಾನನ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು",
+        "B": "ಹತ್ತು ಮುಖಗಳು",
+        "C": "ಹತ್ತು ಮತ್ತು ಮುಖ",
+        "D": "ಹತ್ತು ಕಣ್ಣುಗಳು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಶಾನನ = ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM078",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "'ಯಾವನಿಗಿ/ಯಾವುದಕ್ಕೆ ಈ ಗುಣವಿದೆಯೋ ಅವನು/ಅದು' ಎಂಬ ಅರ್ಥ",
+        "B": "'ಮತ್ತು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಸಾಮಾನ್ಯವಾಗಿ 'ಯಾವನಿಗಿ/ಯಾವುದಕ್ಕೆ ಈ ಗುಣವಿದೆಯೋ ಅವನು/ಅದು' ಎಂಬ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM079",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ಲಕ್ಷಣಗಳಲ್ಲಿ ಒಂದು ಯಾವುದು?",
+      "options": {
+        "A": "ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುವುದಿಲ್ಲ",
+        "B": "ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುತ್ತದೆ",
+        "C": "ಮೊದಲ ಪದ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ",
+        "D": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಪ್ರಾಮುಖ್ಯ ಹೊಂದಿರುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಎರಡು ಪದಗಳನ್ನೇ ನೇರವಾಗಿ ಸೂಚಿಸುವುದಿಲ್ಲ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM080",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು",
+        "B": "ಕೇವಲ ಮೊದಲ ಪದವನ್ನು",
+        "C": "ಕೇವಲ ಎರಡನೇ ಪದವನ್ನು",
+        "D": "ಎರಡೂ ಪದಗಳನ್ನು ಪ್ರತ್ಯೇಕವಾಗಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM081",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ವಿಗ್ರಹದಲ್ಲಿ ಯಾವ ಅರ್ಥ ಬರುತ್ತದೆ?",
+      "options": {
+        "A": "'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ",
+        "B": "'ಮತ್ತು' ಎಂಬ ಅರ್ಥ",
+        "C": "'ಇಲ್ಲದೆ' ಎಂಬ ಅರ್ಥ",
+        "D": "'ಮೇಲೆ' ಎಂಬ ಅರ್ಥ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದ ವಿಗ್ರಹದಲ್ಲಿ 'ಉಳ್ಳವನು', 'ಹೊಂದಿರುವವನು' ಎಂಬ ಅರ್ಥ ಬರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM082",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚಕ್ರಪಾಣಿ' ಎಂಬುದರ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು",
+        "B": "ಚಕ್ರ ಮತ್ತು ಪಾಣಿ",
+        "C": "ಚಕ್ರದ ಕೈ",
+        "D": "ಚಕ್ರವನ್ನು ಹೊಂದಿರುವ ಕೈ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಕ್ರಪಾಣಿ = ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM083",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದಶಾನನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಶಾನನ = ಹತ್ತು ಮುಖಗಳನ್ನು ಹೊಂದಿರುವವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM084",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪೀತಾಂಬರ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀತಾಂಬರ = ಹಳದಿ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿದವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM085",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚಕ್ರಪಾಣಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಕ್ರಪಾಣಿ = ಕೈಯಲ್ಲಿ ಚಕ್ರವನ್ನು ಹೊಂದಿರುವವನು ಎಂಬುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM086",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎಷ್ಟು ಮೂಲಪದಗಳಿವೆ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ಸಮಾಸದ ರಚನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು",
+        "B": "ಸಂಧಿಯನ್ನು ಗುರುತಿಸಲು",
+        "C": "ವಿಭಕ್ತಿಯನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಕ್ರಿಯಾಪದವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎಷ್ಟು ಮೂಲಪದಗಳಿವೆ ಎಂದು ಕೇಳುವುದು ಸಮಾಸದ ರಚನೆಯನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM087",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ದ್ವಿಗು ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ದ್ವಿಗು ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM088",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಏಕೆ ಕೇಳಬೇಕು?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಕೇಳುವುದು ತತ್ಪುರುಷ ಸಮಾಸವನ್ನು ಗುರುತಿಸಲು ಸಹಾಯಕ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM089",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಮತ್ತು ಸಂಧಿಗಳ ನಡುವಿನ ಮುಖ್ಯ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ",
+        "B": "ಸಮಾಸದಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ",
+        "C": "ಎರಡೂ ಒಂದೇ",
+        "D": "ಎರಡೂ ಸಂಪೂರ್ಣ ಬೇರೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ; ಸಂಧಿಯಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM090",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸವು ಯಾವ ಆಧಾರದ ಮೇಲೆ ಸಂಯುಕ್ತ ಪದ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆ?",
+      "options": {
+        "A": "ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳ ಅರ್ಥಸಂಬಂಧದ ಆಧಾರದ ಮೇಲೆ",
+        "B": "ಧ್ವನಿಬದಲಾವಣೆಯ ಆಧಾರದ ಮೇಲೆ",
+        "C": "ಅಕ್ಷರ ಬದಲಾವಣೆಯ ಆಧಾರದ ಮೇಲೆ",
+        "D": "ಉಚ್ಚಾರಣೆಯ ಆಧಾರದ ಮೇಲೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸವು ಎರಡು ಅಥವಾ ಹೆಚ್ಚು ಪದಗಳ ಅರ್ಥಸಂಬಂಧದ ಆಧಾರದ ಮೇಲೆ ಸಂಯುಕ್ತ ಪದ ರಚಿಸುವ ಪ್ರಕ್ರಿಯೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM091",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಂಧಿಯು ಯಾವುದನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಪದಗಳ ಗಡಿಯಲ್ಲಿ ಸ್ವರ/ವ್ಯಂಜನಗಳ ಧ್ವನಿ ಅಥವಾ ಅಕ್ಷರ ಬದಲಾವಣೆ",
+        "B": "ಪದಗಳ ಅರ್ಥಸಂಬಂಧ",
+        "C": "ಪದಗಳ ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "D": "ಪದಗಳ ಸಂಯೋಜನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಂಧಿಯು ಪದಗಳ ಗಡಿಯಲ್ಲಿ ಸ್ವರ/ವ್ಯಂಜನಗಳ ಧ್ವನಿ ಅಥವಾ ಅಕ್ಷರ ಬದಲಾವಣೆಯನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM092",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ತಾಯಿತಂದೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ ಸಮಾಸ",
+        "B": "ಗುಣಸಂಧಿ",
+        "C": "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "D": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತಾಯಿತಂದೆ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+        {
+      "id": "SAM093",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ದೇವ + ಇಂದ್ರ = ದೇವೇಂದ್ರ' ಇದು ಯಾವುದಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಗುಣಸಂಧಿ",
+        "B": "ದ್ವಂದ್ವ ಸಮಾಸ",
+        "C": "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "D": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವ + ಇಂದ್ರ = ದೇವೇಂದ್ರ ಎಂಬುದು ಗುಣಸಂಧಿಗೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM094",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಮತ್ತು ಸಂಧಿ ಒಂದೇ ಪದದಲ್ಲಿ ಸಂಭವಿಸಬಹುದೇ?",
+      "options": {
+        "A": "ಹೌದು",
+        "B": "ಇಲ್ಲ",
+        "C": "ಕೆಲವೊಮ್ಮೆ ಮಾತ್ರ",
+        "D": "ಯಾವಾಗಲೂ ಇಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಹೌದು. ಎರಡೂ ಪದಗಳು ಸಮಾಸವಾಗಿ ಸೇರುವಾಗ ಅವುಗಳ ಗಡಿಯಲ್ಲಿ ಸಂಧಿಯೂ ಸಂಭವಿಸಬಹುದು.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM095",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಮತ್ತು ಸಂಧಿ ಒಂದೇ ಪದದಲ್ಲಿ ಸಂಭವಿಸಿದಾಗ ಏನನ್ನು ವಿಶ್ಲೇಷಿಸಬೇಕು?",
+      "options": {
+        "A": "ಪದದ ರಚನೆ/ಆರ್ಥಸಂಬಂಧವನ್ನು ಸಮಾಸದ ದೃಷ್ಟಿಯಿಂದಲೂ, ಅಕ್ಷರ/ಧ್ವನಿ ಬದಲಾವಣೆಯನ್ನು ಸಂಧಿಯ ದೃಷ್ಟಿಯಿಂದಲೂ",
+        "B": "ಕೇವಲ ಸಮಾಸದ ದೃಷ್ಟಿಯಿಂದ",
+        "C": "ಕೇವಲ ಸಂಧಿಯ ದೃಷ್ಟಿಯಿಂದ",
+        "D": "ಯಾವುದನ್ನೂ ವಿಶ್ಲೇಷಿಸಬೇಕಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪದದ ರಚನೆ/ಆರ್ಥಸಂಬಂಧವನ್ನು ಸಮಾಸದ ದೃಷ್ಟಿಯಿಂದಲೂ, ಅಕ್ಷರ/ಧ್ವನಿ ಬದಲಾವಣೆಯನ್ನು ಸಂಧಿಯ ದೃಷ್ಟಿಯಿಂದಲೂ ವಿಶ್ಲೇಷಿಸಬೇಕು.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM096",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಮತ್ತು ಜೋಡುಪದಗಳ ವ್ಯತ್ಯಾಸವೇನು?",
+      "options": {
+        "A": "ಸಮಾಸದಲ್ಲಿ ಪದಗಳು ಅರ್ಥಸಂಬಂಧದಿಂದ ಒಂದಾಗುತ್ತವೆ; ಜೋಡುಪದಗಳು ಸಮಾನಾರ್ಥಕ ಅಥವಾ ಸಮಾನರೂಪದ ಪದಗಳ ಜೋಡಿ",
+        "B": "ಸಮಾಸ ಮತ್ತು ಜೋಡುಪದಗಳು ಒಂದೇ",
+        "C": "ಜೋಡುಪದಗಳಲ್ಲಿ ಅರ್ಥಸಂಬಂಧ ಮುಖ್ಯ",
+        "D": "ಸಮಾಸದಲ್ಲಿ ಧ್ವನಿಬದಲಾವಣೆ ಮುಖ್ಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ಪದಗಳು ಅರ್ಥಸಂಬಂಧದಿಂದ ಒಂದಾಗುತ್ತವೆ; ಜೋಡುಪದಗಳು ಸಮಾನಾರ್ಥಕ ಅಥವಾ ಸಮಾನರೂಪದ ಪದಗಳ ಜೋಡಿ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM097",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದ ಉಪವಿಧಗಳ ವರ್ಗೀಕರಣ ಏಕೆ ಬದಲಾಗಬಹುದು?",
+      "options": {
+        "A": "ಕೆಲವು ಕನ್ನಡ ವ್ಯಾಕರಣ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಬದಲಾಗಬಹುದು",
+        "B": "ಎಲ್ಲಾ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಒಂದೇ ರೀತಿ",
+        "C": "ಯಾವಾಗಲೂ ಬದಲಾಗುವುದಿಲ್ಲ",
+        "D": "ಕೇವಲ ಇಂಗ್ಲಿಷ್ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದ ಉಪವಿಧಗಳ ವರ್ಗೀಕರಣವು ಕೆಲವು ಕನ್ನಡ ವ್ಯಾಕರಣ ಪಠ್ಯಪುಸ್ತಕಗಳಲ್ಲಿ ಬದಲಾಗಬಹುದು.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM098",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಪರೀಕ್ಷೆಗೆ ಯಾವ ವರ್ಗಿಕರಣಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಬೇಕು?",
+      "options": {
+        "A": "ನಿಗದಿತ ಪಠ್ಯಪುಸ್ತಕದ ವರ್ಗಿಕರಣಕ್ಕೆ",
+        "B": "ಯಾವುದೇ ಪಠ್ಯಪುಸ್ತಕದ ವರ್ಗಿಕರಣಕ್ಕೆ",
+        "C": "ಸ್ವಂತ ವರ್ಗಿಕರಣಕ್ಕೆ",
+        "D": "ಯಾವುದಕ್ಕೂ ಆದ್ಯತೆ ನೀಡಬೇಕಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪರೀಕ್ಷೆಗೆ ನಿಗದಿತ ಪಠ್ಯಪುಸ್ತಕದ ವರ್ಗಿಕರಣಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಿ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM099",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "ಸಮಾಸದಲ್ಲಿ ವಿಭಕ್ತಿ ಅಥವಾ ಸಂಬಂಧಸೂಚಕ ಪದಗಳು ಏನಾಗುತ್ತವೆ?",
+      "options": {
+        "A": "ಸಂಕ್ಷಿಪ್ತಗೊಳ್ಳುತ್ತವೆ",
+        "B": "ಉದ್ದವಾಗುತ್ತವೆ",
+        "C": "ದ್ವಿಗುಣವಾಗುತ್ತವೆ",
+        "D": "ಬದಲಾಯಿಸಲ್ಪಡುತ್ತವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸದಲ್ಲಿ ವಿಭಕ್ತಿ ಅಥವಾ ಸಂಬಂಧಸೂಚಕ ಪದಗಳು ಸಂಕ್ಷಿಪ್ತಗೊಳ್ಳುತ್ತವೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM100",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ನೀಲಾಕಾಶ' ಎಂಬುದರ ಸಮಾಸಪದದ ಘಟಕ ಪದಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ನೀಲ + ಆಕಾಶ",
+        "B": "ನೀಲ + ಆಕಾಶ",
+        "C": "ನೀ + ಲಾಕಾಶ",
+        "D": "ನೀಲಾ + ಕಾಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀಲಾಕಾಶ = ನೀಲ + ಆಕಾಶ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM101",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇವಾಲಯ' ಎಂಬುದರ ಸಮಾಸಪದದ ಘಟಕ ಪದಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ದೇವ + ಆಲಯ",
+        "B": "ದೇವಾ + ಲಯ",
+        "C": "ದೇ + ವಾಲಯ",
+        "D": "ದೇವ + ಆ + ಲಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವಾಲಯ = ದೇವ + ಆಲಯ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM102",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ರಾಜಪುತ್ರ' ಎಂಬುದರ ಸಮಾಸಪದದ ಘಟಕ ಪದಗಳು ಯಾವುವು?",
+      "options": {
+        "A": "ರಾಜ + ಪುತ್ರ",
+        "B": "ರಾಜಾ + ಪುತ್ರ",
+        "C": "ರಾ + ಜಪುತ್ರ",
+        "D": "ರಾಜ + ಪು + ತ್ರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜಪುತ್ರ = ರಾಜ + ಪುತ್ರ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM103",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸಪದದಲ್ಲಿ ಘಟಕ ಪದಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ಏನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ವಿಗ್ರಹವಾಕ್ಯ",
+        "B": "ಸಂಧಿ",
+        "C": "ವಿಭಕ್ತಿ",
+        "D": "ಕ್ರಿಯಾಪದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದದಲ್ಲಿ ಘಟಕ ಪದಗಳ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ವಿಗ್ರಹವಾಕ್ಯ ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM104",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸದಲ್ಲಿ ಮೊದಲ ಘಟಕ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ರೀತಿ ಇರುತ್ತದೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯ",
+        "B": "ನಾಮಪದ",
+        "C": "ಕ್ರಿಯಾಪದ",
+        "D": "ಸರ್ವನಾಮ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸದಲ್ಲಿ ಮೊದಲ ಘಟಕ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM105",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಶಕ್ತಿ' ಎಂಬುದರಲ್ಲಿ ಯಾವ ಅವ್ಯಯ ಪದವಿದೆ?",
+      "options": {
+        "A": "ಯಥಾ",
+        "B": "ಶಕ್ತಿ",
+        "C": "ಯಥ",
+        "D": "ಶಕ್ತ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಶಕ್ತಿ = ಯಥಾ + ಶಕ್ತಿ. ಇಲ್ಲಿ 'ಯಥಾ' ಅವ್ಯಯ ಪದ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM106",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪ್ರತಿದಿನ' ಎಂಬುದರಲ್ಲಿ ಯಾವ ಅವ್ಯಯ ಪದವಿದೆ?",
+      "options": {
+        "A": "ಪ್ರತಿ",
+        "B": "ದಿನ",
+        "C": "ಪ್ರ",
+        "D": "ತಿದಿನ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿದಿನ = ಪ್ರತಿ + ದಿನ. ಇಲ್ಲಿ 'ಪ್ರತಿ' ಅವ್ಯಯ ಪದ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM107",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಆಜೀವ' ಎಂಬುದರಲ್ಲಿ ಯಾವ ಅವ್ಯಯ ಪದವಿದೆ?",
+      "options": {
+        "A": "ಆ",
+        "B": "ಜೀವ",
+        "C": "ಆಜೀ",
+        "D": "ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಜೀವ = ಆ + ಜೀವ. ಇಲ್ಲಿ 'ಆ' ಅವ್ಯಯ ಪದ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM108",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "B": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು ಸಮಾನ",
+        "D": "ಯಾವುದೂ ಪ್ರಧಾನವಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಉತ್ತರಪದ (ಎರಡನೇ ಪದ) ಪ್ರಧಾನವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM109",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಉತ್ತರಪದದೊಂದಿಗೆ ಯಾವ ಸಂಬಂಧ ಹೊಂದಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "B": "ಸಂಯೋಜಕ ಸಂಬಂಧ",
+        "C": "ವಿಶೇಷಣ ಸಂಬಂಧ",
+        "D": "ಸಂಖ್ಯಾ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ಉತ್ತರಪದದೊಂದಿಗೆ ವಿಭಕ್ತಿ ಸಂಬಂಧ ಹೊಂದಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM110",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಗ್ರಾಮಪ್ರವೇಶ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಗ್ರಾಮಕ್ಕೆ ಪ್ರವೇಶ",
+        "B": "ಗ್ರಾಮದ ಪ್ರವೇಶ",
+        "C": "ಗ್ರಾಮ ಮತ್ತು ಪ್ರವೇಶ",
+        "D": "ಗ್ರಾಮದಿಂದ ಪ್ರವೇಶ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗ್ರಾಮಪ್ರವೇಶ = ಗ್ರಾಮಕ್ಕೆ ಪ್ರವೇಶ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM111",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇವಾಲಯ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇವರ ಆಲಯ",
+        "B": "ದೇವ ಮತ್ತು ಆಲಯ",
+        "C": "ದೇವನಿಂದ ಆಲಯ",
+        "D": "ದೇವನಿಗೆ ಆಲಯ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವಾಲಯ = ದೇವರ ಆಲಯ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM112",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಮನೆಬಾಗಿಲು' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಮನೆಯ ಬಾಗಿಲು",
+        "B": "ಮನೆ ಮತ್ತು ಬಾಗಿಲು",
+        "C": "ಮನೆಗೆ ಬಾಗಿಲು",
+        "D": "ಮನೆಯಿಂದ ಬಾಗಿಲು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮನೆಬಾಗಿಲು = ಮನೆಯ ಬಾಗಿಲು.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM113",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇಶಸೇವೆ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ದೇಶದ ಸೇವೆ",
+        "B": "ದೇಶ ಮತ್ತು ಸೇವೆ",
+        "C": "ದೇಶಕ್ಕೆ ಸೇವೆ",
+        "D": "ದೇಶದಿಂದ ಸೇವೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇಶಸೇವೆ = ದೇಶದ ಸೇವೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM114",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ವಿಭಕ್ತಿ ತತ್ಪುರುಷದಲ್ಲಿ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯಕ್ಕೆ ಏನಾಗುತ್ತದೆ?",
+      "options": {
+        "A": "ಲೋಪವಾಗುತ್ತದೆ",
+        "B": "ಉಳಿಯುತ್ತದೆ",
+        "C": "ದ್ವಿಗುಣವಾಗುತ್ತದೆ",
+        "D": "ಬದಲಾಯಿಸಲ್ಪಡುತ್ತದೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಭಕ್ತಿ ತತ್ಪುರುಷದಲ್ಲಿ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯವು ಸಮಾಸದಲ್ಲಿ ಲೋಪವಾಗುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM115",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದದ ನಡುವಿನ ಸಂಬಂಧ ಯಾವುದು?",
+      "options": {
+        "A": "ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಸಂಬಂಧ",
+        "B": "ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "C": "ಸಂಯೋಜಕ ಸಂಬಂಧ",
+        "D": "ಸಂಖ್ಯಾ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದದ ನಡುವಿನ ಸಂಬಂಧ ವಿಶೇಷಣ-ವಿಶೇಷ್ಯ ಸಂಬಂಧ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM116",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ವಿಶೇಷಣವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "B": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು",
+        "D": "ಯಾವುದೂ ಅಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದವು ವಿಶೇಷಣವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM117",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ವಿಶೇಷ್ಯವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಉತ್ತರಪದ (ಎರಡನೇ ಪದ)",
+        "B": "ಪೂರ್ವಪದ (ಮೊದಲ ಪದ)",
+        "C": "ಎರಡೂ ಪದಗಳು",
+        "D": "ಯಾವುದೂ ಅಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕರ್ಮಧಾರಯ ಸಮಾಸದಲ್ಲಿ ಉತ್ತರಪದವು ವಿಶೇಷ್ಯವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM118",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಮಹಾಜನ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ದೊಡ್ಡ ಜನ",
+        "B": "ಮಹಾ ಮತ್ತು ಜನ",
+        "C": "ಜನರ ಮಹಾ",
+        "D": "ಜನಕ್ಕೆ ಮಹಾ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಜನ = ದೊಡ್ಡ ಜನ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM119",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಂದರಮುಖಿ' ಎಂಬುದರ ವಿಗ್ರಹವಾಕ್ಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಸುಂದರವಾದ ಮುಖವುಳ್ಳವಳು",
+        "B": "ಸುಂದರ ಮತ್ತು ಮುಖಿ",
+        "C": "ಸುಂದರಳ ಮುಖ",
+        "D": "ಮುಖಿಯ ಸುಂದರ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಂದರಮುಖಿ = ಸುಂದರವಾದ ಮುಖವುಳ್ಳವಳು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM120",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಸಮೂಹಾರ್ಥ ಯಾವಾಗ ಬರುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಂಖ್ಯಾಪೂರ್ವವಾದ ಸಮಾಸದಲ್ಲಿ",
+        "B": "ಅವ್ಯಯಪೂರ್ವವಾದ ಸಮಾಸದಲ್ಲಿ",
+        "C": "ವಿಭಕ್ತಿ ಸಂಬಂಧದ ಸಮಾಸದಲ್ಲಿ",
+        "D": "ಸಮಾನ ಪ್ರಾಮುಖ್ಯದ ಸಮಾಸದಲ್ಲಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಿಗು ಸಮಾಸದಲ್ಲಿ ಸಂಖ್ಯಾಪೂರ್ವವಾದ ಮತ್ತು ಸಮೂಹಾರ್ಥ ಮುಖ್ಯ ಗುರುತು.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM121",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ತ್ರಿಲೋಕ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಿಗು",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತ್ರಿಲೋಕ = ಮೂರು ಲೋಕಗಳು ಎಂಬುದು ದ್ವಿಗು ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM122",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚತುರ್ವೇದ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಿಗು",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚತುರ್ವೇದ = ನಾಲ್ಕು ವೇದಗಳು ಎಂಬುದು ದ್ವಿಗು ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM123",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪಂಚವಟಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಿಗು",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪಂಚವಟಿ = ಐದು ವಟವೃಕ್ಷಗಳ ಸಮೂಹ/ಸ್ಥಳ ಎಂಬುದು ದ್ವಿಗು ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM124",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ದ್ವಂದ್ವ ಸಮಾಸದಲ್ಲಿ ಎರಡು ಪದಗಳಿಗೆ ಯಾವ ರೀತಿಯ ಪ್ರಾಮುಖ್ಯವಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಸಮಾನ ಪ್ರಾಮುಖ್ಯ",
+        "B": "ಉತ್ತರಪದಕ್ಕೆ ಹೆಚ್ಚು ಪ್ರಾಮುಖ್ಯ",
+        "C": "ಪೂರ್ವಪದಕ್ಕೆ ಹೆಚ್ಚು ಪ್ರಾಮುಖ್ಯ",
+        "D": "ಯಾವುದಕ್ಕೂ ಪ್ರಾಮುಖ್ಯವಿಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದ್ವಂದ್ವ ಸಮಾಸದಲ್ಲಿ ಎರಡು ಪದಗಳಿಗೆ ಸಮಾನ ಪ್ರಾಮುಖ್ಯವಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM125",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಖದುಃಖ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಖದುಃಖ = ಸುಖ ಮತ್ತು ದುಃಖ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM126",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಲಾಭನಷ್ಟ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಲಾಭನಷ್ಟ = ಲಾಭ ಮತ್ತು ನಷ್ಟ ಎಂಬುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+        {
+      "id": "SAM127",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಬಹುವ್ರೀಹಿ ಸಮಾಸದಲ್ಲಿ ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಪದಗಳನ್ನು ನೇರವಾಗಿ ಸೂಚಿಸದೆ ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು",
+        "B": "ಕೇವಲ ಮೊದಲ ಪದದ ಅರ್ಥವನ್ನು",
+        "C": "ಕೇವಲ ಎರಡನೇ ಪದದ ಅರ್ಥವನ್ನು",
+        "D": "ಎರಡೂ ಪದಗಳ ಪ್ರತ್ಯೇಕ ಅರ್ಥಗಳನ್ನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಬಹುವ್ರೀಹಿ ಸಮಾಸಪದವು ತನ್ನೊಳಗಿನ ಪದಗಳನ್ನು ನೇರವಾಗಿ ಸೂಚಿಸದೆ ಆ ಗುಣವನ್ನು ಹೊಂದಿರುವ ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM128",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದಶಾನನ' ಎಂಬುದರಲ್ಲಿ 'ದಶ' ಎಂಬುದು ಯಾವ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಹತ್ತು",
+        "B": "ಎರಡು",
+        "C": "ಮೂರು",
+        "D": "ನಾಲ್ಕು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದಶಾನನ = ದಶ (ಹತ್ತು) + ಆನನ (ಮುಖ).",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM129",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪೀತಾಂಬರ' ಎಂಬುದರಲ್ಲಿ 'ಪೀತ' ಎಂಬುದು ಯಾವ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಹಳದಿ",
+        "B": "ಕೆಂಪು",
+        "C": "ನೀಲಿ",
+        "D": "ಹಸಿರು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪೀತಾಂಬರ = ಪೀತ (ಹಳದಿ) + ಅಂಬರ (ವಸ್ತ್ರ).",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM130",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಚಕ್ರಪಾಣಿ' ಎಂಬುದರಲ್ಲಿ 'ಪಾಣಿ' ಎಂಬುದು ಯಾವ ಅರ್ಥವನ್ನು ನೀಡುತ್ತದೆ?",
+      "options": {
+        "A": "ಕೈ",
+        "B": "ಕಾಲು",
+        "C": "ತಲೆ",
+        "D": "ಕಣ್ಣು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಚಕ್ರಪಾಣಿ = ಚಕ್ರ + ಪಾಣಿ (ಕೈ).",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM131",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಒಂದು ಪದ ಇನ್ನೊಂದನ್ನು ವಿಶೇಷಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಒಂದು ಪದ ಇನ್ನೊಂದನ್ನು ವಿಶೇಷಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM132",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಎರಡೂ ಪದಗಳು ಸಮಾನ ಮುಖ್ಯವೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ದ್ವಂದ್ವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಎರಡೂ ಪದಗಳು ಸಮಾನ ಮುಖ್ಯವೇ ಎಂದು ಕೇಳುವುದು ದ್ವಂದ್ವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM133",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಬಹುವ್ರೀಹಿ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಕರ್ಮಧಾರಯ",
+        "D": "ತತ್ಪುರುಷ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸಮಾಸಪದವು ಮೂರನೇ ವ್ಯಕ್ತಿ/ವಸ್ತುವನ್ನು ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ಬಹುವ್ರೀಹಿ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM134",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಮೊದಲ ಪದ ಅವ್ಯಯವೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಪದ ಅವ್ಯಯವೇ ಎಂದು ಕೇಳುವುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM135",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ದ್ವಿಗು",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮೊದಲ ಪದ ಸಂಖ್ಯೆ ಸೂಚಿಸುತ್ತದೆಯೇ ಎಂದು ಕೇಳುವುದು ದ್ವಿಗು ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM136",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಸಮಾಸ ಗುರುತಿಸುವಾಗ ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಕೇಳುವುದು ಯಾವ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ವಿಗ್ರಹದಲ್ಲಿ ವಿಭಕ್ತಿ ಸಂಬಂಧವಿದೆಯೇ ಎಂದು ಕೇಳುವುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ.",
+      "source": "Samasa.pdf - Page 4"
+    },
+    {
+      "id": "SAM137",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಶಕ್ತಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಶಕ್ತಿ = ಶಕ್ತಿಗೆ ಅನುಗುಣವಾಗಿ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM138",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಯಥಾಕ್ರಮ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಯಥಾಕ್ರಮ = ಕ್ರಮಕ್ಕೆ ತಕ್ಕಂತೆ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM139",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಪ್ರತಿದಿನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಪ್ರತಿದಿನ = ಪ್ರತಿ ದಿನ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM140",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಆಜೀವ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆಜೀವ = ಜೀವನಪೂರ್ತಿ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM141",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಅನುಕ್ರಣ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಅವ್ಯಯೀಭಾವ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅನುಕ್ರಣ = ಪ್ರತಿ ಕ್ಷಣ ಎಂಬುದು ಅವ್ಯಯೀಭಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM142",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸದಲ್ಲಿ ಯಾವ ಪದವು ಅವ್ಯಯವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ಮೊದಲ ಘಟಕ ಪದ",
+        "B": "ಎರಡನೇ ಘಟಕ ಪದ",
+        "C": "ಎರಡೂ ಪದಗಳು",
+        "D": "ಯಾವುದೂ ಅಲ್ಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸದಲ್ಲಿ ಮೊದಲ ಘಟಕ ಪದ ಸಾಮಾನ್ಯವಾಗಿ ಅವ್ಯಯವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 1"
+    },
+    {
+      "id": "SAM143",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದದ ನಡುವೆ ಯಾವ ಸಂಬಂಧ ಅಡಕವಾಗಿರುತ್ತದೆ?",
+      "options": {
+        "A": "ವಿಭಕ್ತಿ ಸಂಬಂಧ",
+        "B": "ಸಂಯೋಜಕ ಸಂಬಂಧ",
+        "C": "ವಿಶೇಷಣ ಸಂಬಂಧ",
+        "D": "ಸಂಖ್ಯಾ ಸಂಬಂಧ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ತತ್ಪುರುಷ ಸಮಾಸದಲ್ಲಿ ಪೂರ್ವಪದ ಮತ್ತು ಉತ್ತರಪದಗಳ ನಡುವೆ ವಿಭಕ್ತಿಯ ಸಂಬಂಧ ಅಡಕವಾಗಿರುತ್ತದೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM144",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ರಾಜಪುತ್ರ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ರಾಜಪುತ್ರ = ರಾಜನ ಪುತ್ರ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM145",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇವಾಲಯ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇವಾಲಯ = ದೇವರ ಆಲಯ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM146",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಗ್ರಾಮಪ್ರವೇಶ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಗ್ರಾಮಪ್ರವೇಶ = ಗ್ರಾಮಕ್ಕೆ ಪ್ರವೇಶ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM147",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ದೇಶಸೇವೆ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತತ್ಪುರುಷ",
+        "B": "ದ್ವಂದ್ವ",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ಅವ್ಯಯೀಭಾವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ದೇಶಸೇವೆ = ದೇಶದ ಸೇವೆ ಎಂಬುದು ತತ್ಪುರುಷ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 2"
+    },
+    {
+      "id": "SAM148",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ನೀಲಾಕಾಶ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ನೀಲಾಕಾಶ = ನೀಲವಾದ ಆಕಾಶ ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM149",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಮಹಾಜನ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಹಾಜನ = ದೊಡ್ಡ ಜನ ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    },
+    {
+      "id": "SAM150",
+      "subject": "Kannada",
+      "topic": "ಸಮಾಸ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Easy",
+      "language": "Kannada",
+      "question": "'ಸುಂದರಮುಖಿ' ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ತತ್ಪುರುಷ",
+        "C": "ದ್ವಂದ್ವ",
+        "D": "ಬಹುವ್ರೀಹಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಸುಂದರಮುಖಿ = ಸುಂದರವಾದ ಮುಖವುಳ್ಳವಳು ಎಂಬುದು ಕರ್ಮಧಾರಯ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ.",
+      "source": "Samasa.pdf - Page 3"
+    }
+  ]
+}

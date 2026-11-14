@@ -2,6 +2,7 @@ import { cp, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import { dirname, join, relative, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 import { getDatasetLocation, validateDataset } from "../js/questions.js";
+import { buildExtensionPackage } from "./build-extension-package.js";
 
 const projectRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 const dataRoot = join(projectRoot, "data");
@@ -103,6 +104,7 @@ await Promise.all([
   "robots.txt",
   "sitemap.xml",
   "site.webmanifest",
+  "service-worker.js",
   "favicon.ico",
   "googlef225cee30a4b6859.html"
 ].map(entry =>
@@ -113,4 +115,5 @@ await Promise.all([
       !source.toLowerCase().endsWith(".test.js")
   })
 ));
+await buildExtensionPackage(join(outputRoot, "downloads", "drilldeck-browser-extension.zip"));
 console.log(`Indexed ${indexedDatasets.length} question dataset(s) and assembled ${relative(projectRoot, outputRoot)}.`);

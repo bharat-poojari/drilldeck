@@ -51,6 +51,12 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 
 The app loads the generated `data/datasets.json` index, so it works on Vercel without public directory listings. `vercel.json` runs `npm run build`; the build generates the index and assembles the site into the configured `public/` output folder. Run the same command after adding JSON files when testing locally. Use a web server rather than opening the page through `file://`.
 
+## Install DrillDeck
+
+On a deployed HTTPS site, use **Install** in the app header or the browser's install option to add DrillDeck as a PWA. On Android, use Chrome or Edge; on iPhone or iPad, open the site in Safari and choose **Share → Add to Home Screen**. The service worker caches the app shell and recently loaded question files; first-time use of uncached content, chat, leaderboard and updates still needs an internet connection.
+
+The production build also creates `public/downloads/drilldeck-browser-extension.zip`. To install the desktop Chrome or Edge launcher, download and extract the ZIP, open `chrome://extensions` or `edge://extensions`, enable **Developer mode**, choose **Load unpacked**, and select the extracted folder. This small launcher opens the hosted site in a new tab and requests no browser permissions; it is not a Chrome Web Store release. This desktop extension ZIP cannot be installed in Chrome or Edge on phones, so install the PWA on phones and tablets instead.
+
 ## Daily current-affairs updates
 
 The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time (18:00 UTC; GitHub Actions cron uses UTC) and can also be started manually from the GitHub Actions tab. Add a repository Actions secret named `GEMINI_API_KEY` containing a Gemini API key. The key is sent only from the workflow to Google's Gemini REST API; do not put it in the repository, frontend, or Vercel environment. Gemini quotas are enforced by Google for the API project and model associated with that key, not per GitHub workflow run; check the project's usage and billing in Google AI Studio if generation reports an exhausted quota.

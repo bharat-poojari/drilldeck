@@ -1,7 +1,7 @@
 import { createReadStream } from "node:fs";
 import { stat } from "node:fs/promises";
 import { createServer } from "node:http";
-import { extname, relative, resolve, sep } from "node:path";
+import { extname, join, relative, resolve, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 import configurationHandler from "../api/configuration.js";
 import chatHandler from "../api/chat.js";
@@ -29,7 +29,7 @@ const MIME_TYPES = {
   ".xml":"application/xml; charset=utf-8"
 };
 const PUBLIC_DIRECTORIES = new Set(["about", "assets", "css", "data", "exams", "js", "mock-tests", "public", "subjects"]);
-const PUBLIC_FILES = new Set(["404.html", "browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "site.webmanifest", "sitemap.xml"]);
+const PUBLIC_FILES = new Set(["404.html", "browserconfig.xml", "favicon.ico", "googlef225cee30a4b6859.html", "robots.txt", "service-worker.js", "site.webmanifest", "sitemap.xml"]);
 const SEO_REDIRECTS = new Map([
   ["/kea-exam-preparation", "/exams/"],
   ["/fda-exam-preparation", "/exams/kea-fda/"],
@@ -137,7 +137,10 @@ async function handleStatic(req, res, pathname) {
     : decodedPath.endsWith("/")
       ? `${decodedPath.replace(/^[/\\]+|[/\\]+$/g, "")}/index.html`
       : decodedPath.replace(/^[/\\]+/, "");
-  let filePath = resolve(ROOT, relativePath);
+  const isDownload = relativePath.startsWith("downloads/") || relativePath.startsWith(`downloads${sep}`);
+  let filePath = resolve(ROOT, isDownload
+    ? join("public", relativePath)
+    : relativePath);
   const fromRoot = relative(ROOT, filePath);
   const [first, ...rest] = fromRoot.split(sep);
   const publicFile = !rest.length && PUBLIC_FILES.has(first);

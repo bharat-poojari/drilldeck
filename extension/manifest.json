@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "DrillDeck",
+  "version": "1.0.0",
+  "description": "Open Karnataka exam practice on DrillDeck.",
+  "action": {
+    "default_title": "Open DrillDeck",
+    "default_popup": "popup.html"
+  }
+}

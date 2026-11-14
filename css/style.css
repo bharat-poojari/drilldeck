@@ -87,6 +87,19 @@ button,.button,.filter-button,.account-tab,.mobile-palette-toggle,.palette-numbe
 .icon-button{width:44px;height:44px}
 a:focus-visible,summary:focus-visible{outline:3px solid rgba(66,89,213,.38);outline-offset:3px;border-radius:5px}
 @media(max-width:850px){.app-shell{padding-right:clamp(16px,4vw,28px);padding-left:clamp(16px,4vw,28px)}.hero-copy{margin-top:0}.setup-grid{gap:18px}}
+.install-topbar-button{min-height:40px;padding:0 12px;font-size:11px}
+.install-guide{width:min(100%,1000px);margin:0 auto 15px;padding:25px}
+.install-guide-heading{margin-bottom:16px}
+.install-guide-heading h2{margin:6px 0;font:700 22px Manrope,sans-serif}
+.install-guide-heading>p,.install-guide-card p{color:var(--muted);font-size:11px;line-height:1.75}
+.install-guide-heading>p{margin:0 0 12px}
+.install-guide-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}
+.install-guide-card{min-width:0;padding:19px;border:1px solid var(--line);border-radius:13px;background:var(--surface-2)}
+.install-guide-card h3{margin:0 0 9px;font:700 14px Manrope,sans-serif}
+.install-guide-card p{margin:8px 0}
+.install-guide-card .button{margin-top:5px;text-decoration:none}
+.install-guide-card code{overflow-wrap:anywhere}
+@media(max-width:560px){.install-topbar-button{min-height:40px;padding:0 9px;font-size:10px}.install-guide{padding:18px}.install-guide-grid{grid-template-columns:1fr}.install-guide-card{padding:16px}}
 @media(max-width:560px){.app-shell{padding-right:15px;padding-left:15px}.topbar{height:auto;min-height:68px;gap:9px;margin-bottom:23px}.brand{gap:8px;font-size:18px;white-space:nowrap}.brand-mark{width:36px;height:36px;border-radius:11px}.topbar-right{gap:6px}.account-open{min-height:40px;padding:0 9px;font-size:10px}.icon-button{width:40px;height:40px}.hero-copy{margin:0 0 21px}.hero-copy h1{font-size:clamp(33px,9vw,43px);letter-spacing:-1.7px}.hero-copy p{font-size:13px;line-height:1.65}.hero-keywords{gap:5px;margin-top:11px}.hero-keywords span{font-size:8px;padding:5px 8px}.setup-grid{gap:15px}.setup-panel{padding:21px 17px}.creator-card{padding:19px}.creator-card h2{font-size:18px}.setup-aside{gap:13px}.page-footer{padding-top:22px}.creator-contact{gap:8px 12px}.contact-links{gap:8px 13px}}
 @media(max-width:360px){.app-shell{padding-right:12px;padding-left:12px}.brand{font-size:16px}.brand-mark{width:33px;height:33px}.topbar-right{gap:4px}.account-open{font-size:9px;padding:0 7px}.hero-copy h1{font-size:32px}.creator-badge{font-size:7px}.field-grid{gap:0}.marking-items{gap:10px}.creator-social-links{gap:8px 10px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}

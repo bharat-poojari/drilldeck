@@ -6,8 +6,11 @@
   "scope": "/",
   "start_url": "/",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
   "background_color": "#F5F7FA",
   "theme_color": "#111C2E",
+  "categories": ["education", "productivity"],
   "icons": [
     {
       "src": "/favicon.ico",

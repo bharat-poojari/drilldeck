@@ -157,6 +157,7 @@
       </nav>
       <div class="topbar-right">
         <span class="status-pill"><span class="status-dot"></span> Flexible practice</span>
+        <button class="button button-outline install-topbar-button" id="install-app-button" type="button">Install</button>
         <button class="icon-button" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle theme">◐</button>
       </div>
     </header>
@@ -516,6 +517,28 @@
           <h2 id="about-mission-title">Make every practice session count.</h2>
           <p>DrillDeck brings exam practice, revision and performance review into one clear experience. Instead of one fixed mock paper, you can choose a quick practice session or build a custom test around the subjects and topics you want to work on.</p>
           <p>The goal is simple: make it easier to start, stay focused while you practise, and learn something useful from every attempt.</p>
+        </section>
+        <section class="install-guide panel" id="install-section" aria-labelledby="install-guide-title">
+          <div class="install-guide-heading">
+            <span class="step-label">USE DRILLDECK YOUR WAY</span>
+            <h2 id="install-guide-title">Install on your device</h2>
+            <p>Choose the app experience for your device. Your test history stays in the browser where you practise.</p>
+            <button class="button button-primary hidden" id="install-pwa-button" type="button">Install DrillDeck</button>
+          </div>
+          <div class="install-guide-grid">
+            <article class="install-guide-card">
+              <h3>Install as an app (PWA)</h3>
+              <p><strong>Android:</strong> open DrillDeck in Chrome or Edge and use the browser's Install app option. <strong>iPhone or iPad:</strong> open it in Safari, tap Share, then Add to Home Screen.</p>
+              <p><strong>Desktop:</strong> in Chrome or Edge, use the install icon in the address bar or the browser menu's Install DrillDeck option.</p>
+              <p>The app shell and recently loaded question files can be available offline. First-time use of uncached questions may need an internet connection; chat, leaderboard and updates are online features.</p>
+            </article>
+            <article class="install-guide-card">
+              <h3>Chrome / Edge extension (desktop)</h3>
+              <p>The lightweight extension adds a toolbar shortcut that opens DrillDeck in a new tab. Download and extract the ZIP, open <code>chrome://extensions</code> or <code>edge://extensions</code>, turn on Developer mode, then choose Load unpacked and select the extracted folder.</p>
+              <p>For security, this locally installed extension requests no browser permissions and is not published in the Chrome Web Store. This desktop extension ZIP cannot be installed in Chrome or Edge on phones; use the PWA instructions instead.</p>
+              <a class="button button-outline" href="/downloads/drilldeck-browser-extension.zip" download>Download desktop extension (ZIP)</a>
+            </article>
+          </div>
         </section>
         <div class="about-detail-grid">
           <article class="about-detail-card panel">

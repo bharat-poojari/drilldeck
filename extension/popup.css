@@ -1,0 +1,10 @@
+*{box-sizing:border-box}
+body{width:280px;margin:0;background:#f4f6f4;color:#1c2826;font:14px/1.5 Arial,sans-serif}
+main{display:grid;justify-items:center;padding:24px 20px 20px;text-align:center}
+img{border-radius:13px}
+h1{margin:12px 0 2px;font-size:20px}
+p{margin:0 0 18px;color:#5c6f68}
+button{width:100%;min-height:44px;border:0;border-radius:9px;background:#0d9488;color:#fff;font-size:14px;font-weight:700;cursor:pointer}
+button:hover{background:#0f766e}
+button:focus-visible{outline:3px solid #68c7ba;outline-offset:3px}
+small{margin-top:12px;color:#5c6f68;font-size:11px}

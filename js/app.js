@@ -60,6 +60,7 @@ let activeChallenge = null;
 let lastTimerRemaining = null;
 let pendingSubjectPreset = null;
 let quickSummaryType = "gk";
+let deferredInstallPrompt = null;
 const timerWarningsShown = new Set();
 const setupStepTitles = ["Choose your paper","Choose subcategories & topics","Set test preferences","Privacy & start"];
 const setupStepIcons = [
@@ -1936,6 +1937,53 @@ window.addEventListener("hashchange", () => {
   if (route.view === "about") showView("about");
   if (route.view === "home") showView("home");
 });
+
+function showInstallInstructions() {
+  if (resolveAppRoute().view !== "about") window.location.hash = "about-view";
+  showView("about");
+  $("install-section").scrollIntoView({ behavior:"smooth", block:"start" });
+}
+
+async function handleInstallAction() {
+  if (!deferredInstallPrompt) {
+    showInstallInstructions();
+    return;
+  }
+  const prompt = deferredInstallPrompt;
+  deferredInstallPrompt = null;
+  try {
+    const { outcome } = await prompt.prompt();
+    if (outcome === "accepted") {
+      $("install-app-button").classList.add("hidden");
+      $("install-pwa-button").classList.add("hidden");
+    }
+  } catch (error) {
+    console.error("DrillDeck's install prompt could not be opened:", error);
+    toast("Use your browser menu to install DrillDeck.");
+  }
+}
+
+[$("install-app-button"), $("install-pwa-button")].forEach(button =>
+  button.addEventListener("click", handleInstallAction)
+);
+window.addEventListener("beforeinstallprompt", event => {
+  event.preventDefault();
+  deferredInstallPrompt = event;
+  $("install-app-button").textContent = "Install app";
+  $("install-pwa-button").classList.remove("hidden");
+});
+window.addEventListener("appinstalled", () => {
+  deferredInstallPrompt = null;
+  $("install-app-button").classList.add("hidden");
+  $("install-pwa-button").classList.add("hidden");
+});
+if ("serviceWorker" in navigator && window.isSecureContext) {
+  navigator.serviceWorker.register("/service-worker.js")
+    .catch(error => console.error("DrillDeck offline support could not be enabled:", error));
+}
+if (window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true) {
+  $("install-app-button").classList.add("hidden");
+}
 
 initialize();
 renderLocalHistory();

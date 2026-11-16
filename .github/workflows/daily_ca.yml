@@ -1,4 +1,4 @@
-name: Generate Current Affairs
+name: Generate Current Affairs from RSS
 
 on:
   schedule:
@@ -15,6 +15,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -29,13 +30,10 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Test generator
+      - name: Test RSS generator
         run: python -m unittest scripts.test_generate_ca
 
-      - name: Generate current-affairs questions
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-3.8-flash
+      - name: Generate current-affairs questions from RSS
         run: python scripts/generate_ca.py
 
       - name: Validate datasets and refresh index

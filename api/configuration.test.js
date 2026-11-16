@@ -46,6 +46,36 @@ test("configuration endpoint validates a real dataset before exam creation", asy
   assert.equal(invalid.statusCode, 400);
 });
 
+test("configuration endpoint makes the complete precompiled Paper-II set selectable", async () => {
+  const datasetId = "Pre-compiled_paper/paper-2_16-nov.json";
+  const manifest = JSON.parse(await readFile(resolve("data", "datasets.json"), "utf8"));
+  assert.ok(manifest.datasets.includes(datasetId));
+  const dataset = JSON.parse(await readFile(resolve("data", datasetId), "utf8"));
+  const topics = [...new Set(dataset.questions.map(question => question.topic || question.chapter))];
+  assert.equal(dataset.questions.length, 100);
+
+  const response = await callHandler({
+    method:"POST",
+    headers:{ origin:"https://drilldeck.example", host:"drilldeck.example" },
+    body:{
+      paper:"combined",
+      categories:["Pre-compiled Paper"],
+      datasets:[datasetId],
+      topics,
+      topicsByDataset:{ [datasetId]:topics },
+      difficulty:"Mixed",
+      questionCount:100,
+      durationMinutes:120,
+      markingScheme:{ correct:1, incorrect:-0.25, unanswered:0 }
+    }
+  });
+
+  assert.equal(response.statusCode, 200);
+  const body = JSON.parse(response.body);
+  assert.equal(body.configuration.availableQuestions, 100);
+  assert.equal(body.configuration.maximumScore, 100);
+});
+
 function humanize(value) {
   return value
     .replace(/[_-]+/g, " ")

@@ -45,6 +45,19 @@ test("combined question folders map to their canonical subjects", () => {
   });
 });
 
+test("precompiled question sets are categorized under Paper II and get an original-source fallback", () => {
+  const path = "Pre-compiled_paper/Paper-2.json";
+  const location = getDatasetLocation(path);
+  const result = validateDataset({
+    questions:[{ ...makeQuestion("Q001"), source:"" }]
+  }, location);
+
+  assert.equal(location.paper, "combined");
+  assert.equal(location.subject, "Pre-compiled Paper");
+  assert.equal(result.invalidQuestions.length, 0);
+  assert.equal(result.questions[0].source, "Original DrillDeck pre-compiled mock test question.");
+});
+
 test("question IDs are namespaced by dataset and subject", () => {
   const otherDataset = {
     ...dataset,

@@ -24,6 +24,7 @@ export function getDatasetLocation(relativePath) {
   const first = normalize(parts[0] || "");
   const isGeneralKnowledge = first === "generalknowledge";
   const isCombinedPaper = first === "generalkannadaenglishcomputerknowledge";
+  const isPrecompiledPaper = first === "precompiledpaper";
   let paper;
   let category;
   let contentStart;
@@ -36,19 +37,27 @@ export function getDatasetLocation(relativePath) {
     paper = "combined";
     category = parts[1];
     contentStart = 2;
+  } else if (isPrecompiledPaper) {
+    paper = "combined";
+    category = "Pre-compiled Paper";
+    contentStart = 1;
   } else if (SECOND_PAPER_SUBJECTS.has(first)) {
     paper = "combined";
     category = parts[0];
     contentStart = 1;
   } else {
-    throw new Error(`Unsupported dataset path "${relativePath}". Place files under General_Knowledge/<category>/ or Kannada, English, or Computer folders.`);
+    throw new Error(`Unsupported dataset path "${relativePath}". Place files under General_Knowledge/<category>/, Pre-compiled_paper/, or Kannada, English, or Computer folders.`);
   }
 
   if (!category || !relativePath.toLowerCase().endsWith(".json")) {
     throw new Error(`Dataset "${relativePath}" must be a JSON file inside a subject folder.`);
   }
 
-  const subject = isGeneralKnowledge ? humanize(category) : SECOND_PAPER_SUBJECTS.get(normalize(category));
+  const subject = isGeneralKnowledge
+    ? humanize(category)
+    : isPrecompiledPaper
+      ? "Pre-compiled Paper"
+      : SECOND_PAPER_SUBJECTS.get(normalize(category));
   if (!subject) throw new Error(`Unsupported subject folder "${category}" in "${relativePath}".`);
   const folders = parts.slice(contentStart, -1);
   const filename = parts[parts.length - 1].replace(/\.json$/i, "");
@@ -78,6 +87,10 @@ export function validateDataset(data, dataset) {
   const duplicateQuestions = [];
   const invalidQuestions = [];
   const validQuestions = [];
+  const root = dataset.path.split("/")[0].toLowerCase().replace(/[_\s-]+/g, "");
+  const fallbackSource = root === "precompiledpaper"
+    ? "Original DrillDeck pre-compiled mock test question."
+    : "";
   data.questions.forEach((question, index) => {
     const label = `${dataset.title}, question ${index + 1}`;
     const errors = [];
@@ -86,7 +99,9 @@ export function validateDataset(data, dataset) {
       return;
     }
     for (const field of REQUIRED_FIELDS) {
-      const value = question[field];
+      const value = field === "source" && !question.source && fallbackSource
+        ? fallbackSource
+        : question[field];
       if (["difficulty", "question", "correctAnswer", "explanation", "source"].includes(field) &&
           (typeof value !== "string" || !value.trim())) {
         errors.push(`${label} is missing ${field}.`);
@@ -118,7 +133,9 @@ export function validateDataset(data, dataset) {
       return;
     }
 
-    validQuestions.push(question);
+    validQuestions.push(!question.source && fallbackSource
+      ? { ...question, source:fallbackSource }
+      : question);
     const sourceId = String(question.id).trim();
     const occurrences = (seen.get(sourceId) || 0) + 1;
     seen.set(sourceId, occurrences);

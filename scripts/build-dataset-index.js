@@ -10,6 +10,7 @@ const outputRoot = join(projectRoot, "public");
 const allowedRootFolders = new Set([
   "General_Knowledge",
   "General_Kannada_English_Computer_Knowledge",
+  "Pre-compiled_paper",
   "Kannada",
   "English",
   "Computer"

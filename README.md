@@ -19,6 +19,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Fullscreen option, subject-based question navigation and clear-all responses during a mock test.
 - Correct +1, incorrect −0.25 and unanswered 0 scoring.
 - Dedicated Practice Mode with no timer or negative marking, immediate answer feedback and explanations, bookmarks, and free question navigation.
+- Pre-compiled Paper-II mock tests are selectable in Custom Test; the current set contains 100 questions across Kannada, English, and Computer Knowledge.
 - Practice feedback supports authored distractor explanations and important facts, and offers related questions from the same topic when available.
 - Revision Mode is available from the home screen and combines questions answered incorrectly or marked for review in saved test history; the result page also offers a focused revision set.
 - My Revision organizes saved questions into bookmarked, incorrect, unanswered and difficult collections, with subject/topic filters, recent/due/incorrect sorting, retry actions and custom sets saved privately in this browser.
@@ -27,7 +28,7 @@ DrillDeck is a customizable mock test application for Karnataka state-level exam
 - Complete a date-stable 25-question Daily Drill (10 General Knowledge, 5 Karnataka GK, 5 General Science and 5 Current Affairs), plus focused Karnataka GK and Current Affairs challenges and a Question of the Day.
 - Reveal a date-stable daily fact and practice its question across Karnataka, Constitution, Geography, Science and Current Affairs when matching questions are available.
 - Generate local weak-area practice from saved performance; custom test setup remains syllabus/topic-based and does not claim to reproduce an unverified official paper pattern.
-- Generate daily Karnataka and national current-affairs questions from RSS headlines using Gemini; generated questions are validated as part of the existing question banks and deployed with the normal Vercel Git integration.
+- Generate daily Karnataka, national, international and other current-affairs headline-matching questions from RSS feeds without an AI API key; generated datasets are validated and deployed with the normal Vercel Git integration.
 - Track challenge practice days, a private daily streak, weekly activity and monthly practice milestones from locally saved results. A challenge counts as a practice day after attempting at least half its questions; scores and total question volume do not increase streaks.
 - Complete submitted test results saved in this browser, with refresh recovery and a **My Test History** section.
 - Import/export of versioned JSON backups to transfer local test history between browsers or devices.
@@ -59,9 +60,9 @@ The production build also creates `public/downloads/drilldeck-browser-extension.
 
 ## Daily current-affairs updates
 
-The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time (18:00 UTC; GitHub Actions cron uses UTC) and can also be started manually from the GitHub Actions tab. Add a repository Actions secret named `GEMINI_API_KEY` containing a Gemini API key. The key is sent only from the workflow to Google's Gemini REST API; do not put it in the repository, frontend, or Vercel environment. Gemini quotas are enforced by Google for the API project and model associated with that key, not per GitHub workflow run; check the project's usage and billing in Google AI Studio if generation reports an exhausted quota.
+The `.github/workflows/daily_ca.yml` workflow runs daily at 23:30 India Standard Time (18:00 UTC; GitHub Actions cron uses UTC) and can also be started manually from the GitHub Actions tab. It reads recent stories from The Hindu's free RSS feeds for Karnataka, India, international affairs, business, and science/technology. No AI API key or paid service is required.
 
-The workflow asks Gemini with Google Search grounding to generate ten structured questions from recent current affairs. It validates question structure, dates, and cited sources, updates the daily question set and permanent archive, then runs the normal dataset build and commits the updated data and manifest. A successful push triggers Vercel redeployment when the repository is connected to the Vercel project. If generation, JSON validation, or the build fails, the workflow stops without committing.
+The workflow builds source-linked headline-matching questions from recent RSS summaries, validates the feeds and question format, archives the previous daily set, runs the normal dataset build, and commits the updated data and manifest. RSS-based questions are simpler than AI-written exam questions; each links to its original article. If the feeds do not provide at least four distinct recent stories, generation stops and reports the failure instead of publishing an empty or fabricated quiz. A successful push triggers Vercel redeployment when the repository is connected to the Vercel project.
 
 ### Option A: VS Code Live Server
 
@@ -85,7 +86,7 @@ Then open:
 http://127.0.0.1:8000
 ```
 
-This server provides the configuration-validation API needed to start a test. Chat and leaderboard data use local JSON files in `.local-data/` by default, so no GitHub credentials are required for local practice; this directory is ignored by Git. To use GitHub-backed chat and leaderboard storage while running this server, set `DRILLDECK_USE_GITHUB_STORAGE=true` along with `EXAMDESK_GITHUB_TOKEN`, `EXAMDESK_GITHUB_OWNER` and `EXAMDESK_GITHUB_REPO`. Production continues to use the GitHub-backed handlers. Test results and bookmarks remain local to the browser. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
+This server provides the configuration-validation API needed to start a test. Chat and leaderboard data use local JSON files in `.local-data/` by default, so no GitHub credentials are required for local practice; this directory is ignored by Git. To use GitHub-backed chat and leaderboard storage while running this server, add `DRILLDECK_USE_GITHUB_STORAGE=true` to `.env` (or your shell environment) along with `EXAMDESK_GITHUB_TOKEN`, `EXAMDESK_GITHUB_OWNER` and `EXAMDESK_GITHUB_REPO`. `npm run dev` loads `.env` on Node.js 20.12 or newer. Production continues to use the GitHub-backed handlers. The GitHub token must have **Contents: Read and write** permission on the configured repository and the configured branch must exist. A missing `accounts.json` is initialized only after the repository and branch have been verified; an inaccessible repository is reported as a storage error rather than treated as an empty leaderboard. Test results and bookmarks remain local to the browser. Live Server and Python's static server only serve files; use `npm run dev` or `vercel dev` to start tests.
 
 ## Deploy chat and score sharing to Vercel
 
@@ -110,7 +111,7 @@ Individual account creation, sign-in and online account history are disabled. Th
 
 Full submitted results, including the questions and answers needed to recover the review, are saved in the browser's local storage independently of leaderboard consent and are not uploaded to GitHub. Private attempts therefore remain in **My Test History** without a public entry. Use **My Test History** to reopen a result, or export/import a JSON backup to move history to another browser. Browser storage is device- and browser-specific; clearing site data removes local results, so keep an exported backup. The server requires explicit consent before accepting a public score and checks score-management requests against a private browser owner key.
 
-If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. Shared chat and global rankings do not require individual accounts.
+If publishing fails, the result stays visible and a retry button reuses the same submission ID to avoid duplicate leaderboard rows. The API reports GitHub repository, branch, and token-permission errors so a failed write is actionable. Shared chat and global rankings do not require individual accounts.
 
 For local serverless testing, use the Vercel CLI (`vercel dev`) with the same GitHub storage environment variables. The configuration endpoint validates the selected datasets, topics, question count, duration and marking scheme against the server-side question bank before generating the test. `vercel.json` includes the data files in that function. A plain Python/Live Server instance has no `/api` functions, so test creation, leaderboard and chat requests will report that the service is unavailable; an HTTP 501 when starting a test means it must be run through `vercel dev` or a Vercel deployment.
 

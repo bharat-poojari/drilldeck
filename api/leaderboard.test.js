@@ -34,6 +34,12 @@ test("leaderboard requires explicit consent and supports private owner controls"
       storedContent = JSON.parse(Buffer.from(JSON.parse(options.body).content, "base64").toString("utf8"));
       return { ok:true, status:201, json:async () => ({ sha:"test-sha" }) };
     }
+    if (url.endsWith("/repos/test-owner/test-storage")) {
+      return { ok:true, status:200, json:async () => ({}) };
+    }
+    if (url.endsWith("/branches/test-branch")) {
+      return { ok:true, status:200, json:async () => ({}) };
+    }
     if (!storedContent) return { ok:false, status:404 };
     return {
       ok:true,
@@ -141,6 +147,35 @@ test("leaderboard requires explicit consent and supports private owner controls"
     restoreEnvironment("EXAMDESK_GITHUB_BRANCH", previousEnvironment.branch);
     restoreEnvironment("EXAMDESK_SESSION_SECRET", previousEnvironment.secret);
     restoreEnvironment("drilldeck_SESSION_SECRET", previousEnvironment.legacySecret);
+  }
+});
+
+test("leaderboard reports inaccessible GitHub storage instead of returning an empty list", async () => {
+  const previousEnvironment = {
+    token:process.env.EXAMDESK_GITHUB_TOKEN,
+    owner:process.env.EXAMDESK_GITHUB_OWNER,
+    repo:process.env.EXAMDESK_GITHUB_REPO,
+    branch:process.env.EXAMDESK_GITHUB_BRANCH
+  };
+  const originalFetch = globalThis.fetch;
+  Object.assign(process.env, {
+    EXAMDESK_GITHUB_TOKEN:"test-token",
+    EXAMDESK_GITHUB_OWNER:"test-owner",
+    EXAMDESK_GITHUB_REPO:"missing-repository",
+    EXAMDESK_GITHUB_BRANCH:"main"
+  });
+  globalThis.fetch = async () => ({ ok:false, status:404 });
+
+  try {
+    const response = await callHandler({ method:"GET", headers:{} });
+    assert.equal(response.statusCode, 503);
+    assert.match(JSON.parse(response.body).error, /Check the configured repository/);
+  } finally {
+    globalThis.fetch = originalFetch;
+    restoreEnvironment("EXAMDESK_GITHUB_TOKEN", previousEnvironment.token);
+    restoreEnvironment("EXAMDESK_GITHUB_OWNER", previousEnvironment.owner);
+    restoreEnvironment("EXAMDESK_GITHUB_REPO", previousEnvironment.repo);
+    restoreEnvironment("EXAMDESK_GITHUB_BRANCH", previousEnvironment.branch);
   }
 });
 

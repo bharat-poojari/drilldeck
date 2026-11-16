@@ -1,0 +1,1820 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Original KEA FDA-level Communication Paper mock test. 100 MCQs, 100 marks, 120 minutes. Practice blueprint: General Kannada 35 questions, General English 35 questions, Computer Knowledge 30 questions. Questions are newly authored and are not copied from the user's uploaded starter question bank. Suggested marking practice: +1 for correct, -0.25 for incorrect; follow the current official notification for the actual examination.",
+  "paper": "Paper-II: Communication",
+  "maximumMarks": 100,
+  "durationMinutes": 120,
+  "markingScheme": {
+    "correct": 1,
+    "incorrect": -0.25,
+    "unanswered": 0
+  },
+  "sectionDistribution": {
+    "General Kannada": 35,
+    "General English": 35,
+    "Computer Knowledge": 30
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಸಂಧಿ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮಹಾ + ಇಂದ್ರ' ಎಂಬ ಪದಗಳು ಸಂಧಿಯಾದಾಗ ಉಂಟಾಗುವ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ಮಹೇಂದ್ರ",
+        "B": "ಮಹೈಂದ್ರ",
+        "C": "ಮಹಿಂದ್ರ",
+        "D": "ಮಹೇಂದ್ರನು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಆ + ಇ ಸೇರಿ ಏ ಆಗುವುದರಿಂದ 'ಮಹೇಂದ್ರ' ಎಂಬ ರೂಪ ಉಂಟಾಗುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q002",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ರಾಜಪುತ್ರ' ಎಂಬ ಪದದಲ್ಲಿರುವ ಸಮಾಸದ ಪ್ರಕಾರವನ್ನು ಗುರುತಿಸಿ.",
+      "options": {
+        "A": "ದ್ವಂದ್ವ ಸಮಾಸ",
+        "B": "ತತ್ಪುರುಷ ಸಮಾಸ",
+        "C": "ಬಹುವ್ರೀಹಿ ಸಮಾಸ",
+        "D": "ಅವ್ಯಯೀಭಾವ ಸಮಾಸ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ರಾಜನ ಪುತ್ರ ಎಂಬ ಷಷ್ಠೀ ತತ್ಪುರುಷ ಸಂಬಂಧ ಇಲ್ಲಿ ಅಡಕವಾಗಿದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q003",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ವಿಭಕ್ತಿ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಮರದಿಂದ ಹಣ್ಣು ಬಿತ್ತು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ಮರದಿಂದ' ಪದವು ಯಾವ ವಿಭಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪ್ರಥಮಾ",
+        "B": "ದ್ವಿತೀಯಾ",
+        "C": "ತೃತೀಯಾ",
+        "D": "ಸಪ್ತಮೀ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ಇಂದ/ದಿಂದ' ಪ್ರತ್ಯಯವು ಕರಣ ಅಥವಾ ಅಪಾದಾನಾರ್ಥಕ ತೃತೀಯಾ ವಿಭಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q004",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಕೃದಂತ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಓದಿದ ಪುಸ್ತಕ' ಎಂಬ ಪದಗುಚ್ಛದಲ್ಲಿ 'ಓದಿದ' ಯಾವ ರೂಪಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ತದ್ಧಿತಾಂತ",
+        "B": "ಕೃದಂತ",
+        "C": "ಸಮಾಸ",
+        "D": "ಅವ್ಯಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಧಾತುವಿಗೆ ಕೃತ್ ಪ್ರತ್ಯಯ ಸೇರಿ ರೂಪುಗೊಂಡ 'ಓದಿದ' ಕೃದಂತ ರೂಪವಾಗಿದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q005",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ತದ್ಧಿತಾಂತ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮಾನವೀಯ' ಎಂಬ ಪದದಲ್ಲಿ ವ್ಯಕ್ತವಾಗಿರುವ ತದ್ಧಿತಾರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಂಬಂಧ/ಗುಣ ಸೂಚನೆ",
+        "B": "ಸಂಖ್ಯೆ ಸೂಚನೆ",
+        "C": "ಕಾಲ ಸೂಚನೆ",
+        "D": "ನಿಷೇಧ ಸೂಚನೆ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಮಾನವ' ಪದದಿಂದ 'ಮಾನವೀಯ' ಎಂಬ ಗುಣ ಅಥವಾ ಸಂಬಂಧ ಸೂಚಕ ರೂಪ ಸಿದ್ಧವಾಗಿದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q006",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಪದವರ್ಗ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಅವಳು ಬಹಳ ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿದಳು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ನಿಧಾನವಾಗಿ' ಯಾವ ಪದವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ನಾಮಪದ",
+        "B": "ಸರ್ವನಾಮ",
+        "C": "ಕ್ರಿಯಾವಿಶೇಷಣ",
+        "D": "ಸಂಬಂಧಸೂಚಕ ಅವ್ಯಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ನಿಧಾನವಾಗಿ' ಮಾತನಾಡುವ ಕ್ರಿಯೆಯ ರೀತಿಯನ್ನು ವಿವರಿಸುವ ಕ್ರಿಯಾವಿಶೇಷಣ.",
+      "source": ""
+    },
+    {
+      "id": "Q007",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ವಾಕ್ಯರಚನೆ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮಳೆ ಬಂದರೆ ಬೆಳೆ ಚೆನ್ನಾಗಿ ಬರುತ್ತದೆ' ಎಂಬುದು ರಚನೆಯ ಆಧಾರದ ಮೇಲೆ ಯಾವ ವಾಕ್ಯ?",
+      "options": {
+        "A": "ಸಾಮಾನ್ಯ ವಾಕ್ಯ",
+        "B": "ಸಂಯುಕ್ತ ವಾಕ್ಯ",
+        "C": "ಮಿಶ್ರ ವಾಕ್ಯ",
+        "D": "ಆಜ್ಞಾರ್ಥಕ ವಾಕ್ಯ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಒಂದು ಅವಲಂಬಿತ ಷರತ್ತು ವಾಕ್ಯ ಮತ್ತು ಒಂದು ಪ್ರಧಾನ ವಾಕ್ಯ ಇರುವುದರಿಂದ ಇದು ಮಿಶ್ರ ವಾಕ್ಯ.",
+      "source": ""
+    },
+    {
+      "id": "Q008",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ತತ್ಸಮ-ತದ್ಭವ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಅಗ್ನಿ' ಪದಕ್ಕೆ ಹೊಂದುವ ತದ್ಭವ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ಬೆಂಕಿ",
+        "B": "ಅನಲ",
+        "C": "ಜ್ವಾಲೆ",
+        "D": "ಪಾವಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಬೆಂಕಿ' ಕನ್ನಡದಲ್ಲಿ ಬಳಕೆಯಲ್ಲಿರುವ ತದ್ಭವ ರೂಪ; ಉಳಿದವು ಸಂಸ್ಕೃತ ಮೂಲದ ಸಮಾನಾರ್ಥಕ ಪದಗಳು.",
+      "source": ""
+    },
+    {
+      "id": "Q009",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ಸಮಾನಾರ್ಥಕ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಪಯೋಧಿ' ಪದಕ್ಕೆ ಸಮಾನಾರ್ಥಕ ಪದ ಯಾವುದು?",
+      "options": {
+        "A": "ಪರ್ವತ",
+        "B": "ಸಮುದ್ರ",
+        "C": "ಆಕಾಶ",
+        "D": "ಅರಣ್ಯ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಪಯೋಧಿ' ಎಂದರೆ ನೀರನ್ನು ಹೊಂದಿರುವುದು; ಸಮುದ್ರ ಎಂಬ ಅರ್ಥದಲ್ಲಿ ಬಳಕೆಯಾಗುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q010",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ವಿರುದ್ಧಾರ್ಥಕ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಉತ್ಕರ್ಷ' ಪದದ ವಿರುದ್ಧಾರ್ಥಕ ಪದವನ್ನು ಗುರುತಿಸಿ.",
+      "options": {
+        "A": "ಅಭಿವೃದ್ಧಿ",
+        "B": "ಅವನತಿ",
+        "C": "ಪ್ರಗತಿ",
+        "D": "ಏರಿಕೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಉತ್ಕರ್ಷ ಎಂದರೆ ಏಳಿಗೆ; ಅವನತಿ ಅದರ ವಿರುದ್ಧಾರ್ಥ.",
+      "source": ""
+    },
+    {
+      "id": "Q011",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ಅನೇಕಾರ್ಥಕ ಪದ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಅಂಕ' ಪದವು ಕೆಳಗಿನ ಯಾವ ಅರ್ಥಗಳಲ್ಲಿ ಬಳಕೆಯಾಗಬಹುದು?",
+      "options": {
+        "A": "ಸಂಖ್ಯೆ/ಮಡಿಲು/ನಾಟಕದ ಭಾಗ",
+        "B": "ಮಾತ್ರ ಬಣ್ಣ",
+        "C": "ಮಾತ್ರ ದಿಕ್ಕು",
+        "D": "ಮಾತ್ರ ಕಾಲ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಅಂಕ' ಪದಕ್ಕೆ ಸಂಖ್ಯೆ, ಮಡಿಲು, ನಾಟಕದ ಅಂಕ ಮುಂತಾದ ಹಲವು ಅರ್ಥಗಳಿವೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q012",
+      "subject": "General Kannada",
+      "topic": "ನುಡಿಗಟ್ಟು",
+      "chapter": "ಅರ್ಥ ಮತ್ತು ಬಳಕೆ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಕೈಚೆಲ್ಲು' ಎಂಬ ನುಡಿಗಟ್ಟಿನ ಸರಿಯಾದ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಸಹಾಯ ಮಾಡು",
+        "B": "ಪ್ರಯತ್ನ ನಿಲ್ಲಿಸು",
+        "C": "ಸ್ವಾಗತಿಸು",
+        "D": "ವೇಗವಾಗಿ ಓಡು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕೈಚೆಲ್ಲು ಎಂದರೆ ಪ್ರಯತ್ನ ಅಥವಾ ಭರವಸೆಯನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+      "source": ""
+    },
+    {
+      "id": "Q013",
+      "subject": "General Kannada",
+      "topic": "ಗಾದೆ",
+      "chapter": "ಅರ್ಥಗ್ರಹಣ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು' ಎಂಬ ಗಾದೆಯ ಆಶಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದಾಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಖರ್ಚುಮಾಡು",
+        "B": "ಸಾಮರ್ಥ್ಯಕ್ಕೆ ತಕ್ಕಂತೆ ನಡೆದುಕೊಳ್ಳು",
+        "C": "ಯಾವಾಗಲೂ ಸಾಲಮಾಡು",
+        "D": "ಇತರರನ್ನು ಅನುಕರಿಸು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಲಭ್ಯವಿರುವ ಸಂಪನ್ಮೂಲ ಮತ್ತು ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಜೀವನ ನಡೆಸಬೇಕು ಎಂಬುದು ಗಾದೆಯ ಆಶಯ.",
+      "source": ""
+    },
+    {
+      "id": "Q014",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಅಲಂಕಾರ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಅವಳ ಮುಖ ಚಂದ್ರನಂತೆ ಹೊಳೆಯಿತು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಅಲಂಕಾರವಿದೆ?",
+      "options": {
+        "A": "ರೂಪಕ",
+        "B": "ಉಪಮೆ",
+        "C": "ಅತಿಶಯೋಕ್ತಿ",
+        "D": "ಶ್ಲೇಷ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಹಾಗೆ/ಅಂತೆ' ಎಂಬ ಹೋಲಿಕೆಯ ಸೂಚಕದ ಮೂಲಕ ಹೋಲಿಸಿರುವುದರಿಂದ ಉಪಮಾಲಂಕಾರ.",
+      "source": ""
+    },
+    {
+      "id": "Q015",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಛಂದಸ್ಸು",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡ ಛಂದಸ್ಸಿನಲ್ಲಿ ಒಂದು ಮಾತ್ರೆಯ ಕಾಲಮೌಲ್ಯ ಹೊಂದಿರುವ ಅಕ್ಷರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ಗುರು",
+        "B": "ಲಘು",
+        "C": "ಗಣ",
+        "D": "ಯತಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಒಂದು ಮಾತ್ರೆಯ ಕಾಲಮೌಲ್ಯವುಳ್ಳ ಅಕ್ಷರ ಲಘು; ಎರಡು ಮಾತ್ರೆಯದು ಗುರು.",
+      "source": ""
+    },
+    {
+      "id": "Q016",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಲಿಂಗ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಕವಯಿತ್ರಿ' ಪದವು ಯಾವ ಲಿಂಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಪುಲ್ಲಿಂಗ",
+        "B": "ಸ್ತ್ರೀಲಿಂಗ",
+        "C": "ನಪುಂಸಕಲಿಂಗ",
+        "D": "ಉಭಯಲಿಂಗ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಕವಯಿತ್ರಿ ಎಂಬುದು ಸ್ತ್ರೀ ಕವಿಯನ್ನು ಸೂಚಿಸುವ ಸ್ತ್ರೀಲಿಂಗ ಪದ.",
+      "source": ""
+    },
+    {
+      "id": "Q017",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ವಚನ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಮಕ್ಕಳು' ಪದದ ಏಕವಚನ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ಮಗು",
+        "B": "ಮಕ್ಕಳ",
+        "C": "ಮಕ್ಕಳಿಗೆ",
+        "D": "ಮಕ್ಕಳಿಂದ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಮಗು' ಏಕವಚನ; 'ಮಕ್ಕಳು' ಅದರ ಬಹುವಚನ ರೂಪ.",
+      "source": ""
+    },
+    {
+      "id": "Q018",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಪುರುಷ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ನಾವು ನಾಳೆ ಸಭೆಗೆ ಬರುತ್ತೇವೆ' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿನ ಸರ್ವನಾಮ ಯಾವ ಪುರುಷಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ಉತ್ತಮ ಪುರುಷ",
+        "B": "ಮಧ್ಯಮ ಪುರುಷ",
+        "C": "ಪ್ರಥಮ ಪುರುಷ",
+        "D": "ಅನಿರ್ದಿಷ್ಟ ಪುರುಷ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಮಾತನಾಡುವವರನ್ನು ಒಳಗೊಂಡ 'ನಾವು' ಉತ್ತಮ ಪುರುಷ ಸರ್ವನಾಮ.",
+      "source": ""
+    },
+    {
+      "id": "Q019",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಕಾಲ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಅವರು ಪತ್ರ ಬರೆದಿದ್ದರು' ಎಂಬ ಕ್ರಿಯಾರೂಪವು ಯಾವ ಕಾಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ವರ್ತಮಾನ ಕಾಲ",
+        "B": "ಸಾಮಾನ್ಯ ಭೂತಕಾಲ",
+        "C": "ಪೂರ್ಣ ಭೂತಕಾಲ",
+        "D": "ಭವಿಷ್ಯತ್ ಕಾಲ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ಬರೆದಿದ್ದರು' ಎಂಬ ರೂಪವು ಇನ್ನೊಂದು ಭೂತಕಾಲದ ಸಂದರ್ಭಕ್ಕಿಂತ ಮುಂಚೆ ಪೂರ್ಣಗೊಂಡ ಕ್ರಿಯೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q020",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಪ್ರತ್ಯಯ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮನೆತನ' ಪದದಲ್ಲಿ ಸೇರಿರುವ ಪ್ರತ್ಯಯ ಯಾವುದು?",
+      "options": {
+        "A": "ತನ",
+        "B": "ಇಕೆ",
+        "C": "ಅನು",
+        "D": "ತ್ವ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಮನೆ' ಪದಕ್ಕೆ 'ತನ' ಪ್ರತ್ಯಯ ಸೇರಿ ಮನೆತನ ಎಂಬ ಭಾವವಾಚಕ ನಾಮಪದ ರೂಪುಗೊಂಡಿದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q021",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಅವ್ಯಯ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಸಮುಚ್ಚಯಾರ್ಥಕ ಅವ್ಯಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಆದರೆ",
+        "B": "ಮತ್ತು",
+        "C": "ಬಹಳ",
+        "D": "ನಿನ್ನೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಮತ್ತು' ಎರಡು ಪದಗಳು ಅಥವಾ ವಾಕ್ಯಗಳನ್ನು ಜೋಡಿಸುವ ಸಮುಚ್ಚಯಾರ್ಥಕ ಅವ್ಯಯ.",
+      "source": ""
+    },
+    {
+      "id": "Q022",
+      "subject": "General Kannada",
+      "topic": "ಶುದ್ಧಲೇಖನ",
+      "chapter": "ಪದಶುದ್ಧಿ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಶುದ್ಧವಾಗಿ ಬರೆದಿರುವ ಪದ ಯಾವುದು?",
+      "options": {
+        "A": "ಔದಾರ್ಯ",
+        "B": "ಔದಾರ್ಯ್ಯ",
+        "C": "ಔದಾರ್ಯೆ",
+        "D": "ಔದಾರ್ಯಾ"
+      },
+      "correctAnswer": "A",
+      "explanation": "'ಔದಾರ್ಯ' ಎಂಬುದೇ ಸರಿಯಾದ ಶುದ್ಧಲೇಖನ.",
+      "source": ""
+    },
+    {
+      "id": "Q023",
+      "subject": "General Kannada",
+      "topic": "ಶುದ್ಧಲೇಖನ",
+      "chapter": "ವಾಕ್ಯಶುದ್ಧಿ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ವ್ಯಾಕರಣದ ದೃಷ್ಟಿಯಿಂದ ಸರಿಯಾದ ವಾಕ್ಯವನ್ನು ಗುರುತಿಸಿ.",
+      "options": {
+        "A": "ಅವನು ಮತ್ತು ನಾನು ನಾಳೆ ಬರುತ್ತೇನೆ.",
+        "B": "ಅವನು ಮತ್ತು ನಾನು ನಾಳೆ ಬರುತ್ತೇವೆ.",
+        "C": "ಅವನು ಮತ್ತು ನಾನು ನಾಳೆ ಬರುತ್ತಾನೆ.",
+        "D": "ಅವನು ಮತ್ತು ನಾನು ನಾಳೆ ಬರುವನು."
+      },
+      "correctAnswer": "B",
+      "explanation": "ಬಹುವಚನ ಕರ್ತೃಸಮೂಹಕ್ಕೆ ಅನುಗುಣವಾಗಿ 'ಬರುತ್ತೇವೆ' ಎಂಬ ಕ್ರಿಯಾಪದ ಬಳಕೆಯಾಗಬೇಕು.",
+      "source": ""
+    },
+    {
+      "id": "Q024",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಕಾರಕ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಗುರುವು ವಿದ್ಯಾರ್ಥಿಗೆ ಪುಸ್ತಕ ಕೊಟ್ಟರು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ವಿದ್ಯಾರ್ಥಿಗೆ' ಯಾವ ಕಾರಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ?",
+      "options": {
+        "A": "ಕರ್ತೃಕಾರಕ",
+        "B": "ಕರ್ಮಕಾರಕ",
+        "C": "ಸಂಪ್ರದಾನ ಕಾರಕ",
+        "D": "ಕರಣ ಕಾರಕ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ಯಾರಿಗೆ ನೀಡಲಾಯಿತು ಎಂಬ ಸ್ವೀಕರಿಸುವವನನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಸಂಪ್ರದಾನ ಕಾರಕ.",
+      "source": ""
+    },
+    {
+      "id": "Q025",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ಸಂದರ್ಭಾರ್ಥ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಅವನ ಮಾತುಗಳಲ್ಲಿ ವ್ಯಂಗ್ಯವಿತ್ತು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ವ್ಯಂಗ್ಯ' ಪದದ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ನೇರ ಪ್ರಶಂಸೆ",
+        "B": "ಪರೋಕ್ಷ ಟೀಕೆ ಅಥವಾ ಚುಚ್ಚುಮಾತು",
+        "C": "ಮೌನ",
+        "D": "ವಿನಂತಿ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವ್ಯಂಗ್ಯ ಎಂದರೆ ಪರೋಕ್ಷವಾಗಿ ಟೀಕಿಸುವ ಅಥವಾ ಚುಚ್ಚುವ ಮಾತು.",
+      "source": ""
+    },
+    {
+      "id": "Q026",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಸಂಧಿ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಲೋಕ + ಉಪಕಾರ' ಪದಗಳು ಸೇರಿ ಉಂಟಾಗುವ ಸರಿಯಾದ ರೂಪ ಯಾವುದು?",
+      "options": {
+        "A": "ಲೋಕೋಪಕಾರ",
+        "B": "ಲೋಕಾಪಕಾರ",
+        "C": "ಲೋಕೂಪಕಾರ",
+        "D": "ಲೋಕೋಪಕಾರಿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಅ + ಉ ಸೇರಿ ಓ ಆಗುವ ಗುಣಸಂಧಿಯಿಂದ 'ಲೋಕೋಪಕಾರ' ರೂಪ ಸಿದ್ಧವಾಗುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q027",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಸಮಾಸ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ನೀಲಕಂಠ' ಎಂಬುದು ಶಿವನನ್ನು ಸೂಚಿಸುವಾಗ ಯಾವ ಸಮಾಸಕ್ಕೆ ಉದಾಹರಣೆ?",
+      "options": {
+        "A": "ಕರ್ಮಧಾರಯ",
+        "B": "ದ್ವಿಗು",
+        "C": "ಬಹುವ್ರೀಹಿ",
+        "D": "ದ್ವಂದ್ವ"
+      },
+      "correctAnswer": "C",
+      "explanation": "ನೀಲವಾದ ಕಂಠವುಳ್ಳವನು ಎಂಬ ಬಾಹ್ಯಾರ್ಥದಲ್ಲಿ ಶಿವನನ್ನು ಸೂಚಿಸುವುದರಿಂದ ಬಹುವ್ರೀಹಿ ಸಮಾಸ.",
+      "source": ""
+    },
+    {
+      "id": "Q028",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ಸರ್ವನಾಮ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಯಾರು ಶ್ರಮಿಸುತ್ತಾರೋ ಅವರು ಯಶಸ್ಸು ಪಡೆಯುತ್ತಾರೆ' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ 'ಯಾರು' ಯಾವ ವಿಧದ ಸರ್ವನಾಮ?",
+      "options": {
+        "A": "ಪುರುಷವಾಚಕ",
+        "B": "ಪ್ರಶ್ನಾರ್ಥಕ",
+        "C": "ಸಂಬಂಧವಾಚಕ",
+        "D": "ಆತ್ಮವಾಚಕ"
+      },
+      "correctAnswer": "C",
+      "explanation": "'ಯಾರು-ಅವರು' ಎಂಬ ಸಂಬಂಧವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ಇಲ್ಲಿ ಸಂಬಂಧವಾಚಕ ಬಳಕೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q029",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ವಾಕ್ಯಪ್ರಕಾರ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ಬಾಗಿಲನ್ನು ಮುಚ್ಚಿರಿ' ಎಂಬ ವಾಕ್ಯವು ಯಾವ ವಿಧಕ್ಕೆ ಸೇರಿದೆ?",
+      "options": {
+        "A": "ವಿಧ್ಯರ್ಥಕ/ಆಜ್ಞಾರ್ಥಕ",
+        "B": "ಪ್ರಶ್ನಾರ್ಥಕ",
+        "C": "ಸಂದೇಹಾರ್ಥಕ",
+        "D": "ಸೂಚನಾರ್ಥಕ"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಕ್ರಿಯೆಯನ್ನು ಮಾಡಲು ಸೂಚನೆ ಅಥವಾ ಆಜ್ಞೆ ನೀಡುವುದರಿಂದ ಆಜ್ಞಾರ್ಥಕ ವಾಕ್ಯ.",
+      "source": ""
+    },
+    {
+      "id": "Q030",
+      "subject": "General Kannada",
+      "topic": "ಶಬ್ದಸಂಪತ್ತು",
+      "chapter": "ನುಡಿಗಟ್ಟು",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಮೂಗಿಗೆ ತುಪ್ಪ ಸವರು' ಎಂಬ ನುಡಿಗಟ್ಟಿನ ಅರ್ಥ ಯಾವುದು?",
+      "options": {
+        "A": "ಮೋಸಮಾಡಿ ನಂಬಿಸು",
+        "B": "ಊಟ ಮಾಡು",
+        "C": "ಅಪಮಾನಿಸು",
+        "D": "ಅತಿಯಾಗಿ ಹೊಗಳಿ ಗೌರವಿಸು"
+      },
+      "correctAnswer": "A",
+      "explanation": "ಈ ನುಡಿಗಟ್ಟು ಮೋಸಗೊಳಿಸಿ ಅಥವಾ ಸುಳ್ಳು ಭರವಸೆ ನೀಡಿ ನಂಬಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q031",
+      "subject": "General Kannada",
+      "topic": "ಸಾಹಿತ್ಯಜ್ಞಾನ",
+      "chapter": "ಸಾಹಿತ್ಯ ಪ್ರಕಾರ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "'ವಚನ' ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಕಟ್ಟುನಿಟ್ಟಾದ ಪ್ರಾಸಬದ್ಧ ಛಂದಸ್ಸು ಮಾತ್ರ",
+        "B": "ಸರಳ, ನೇರ ಮತ್ತು ಅನುಭವಾಧಾರಿತ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ರಾಜವಂಶಗಳ ವರ್ಣನೆ",
+        "D": "ಸಂಸ್ಕೃತದಲ್ಲಿಯೇ ರಚನೆ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವಚನಗಳು ಸರಳ ಗದ್ಯಲಯದ, ಅನುಭವ ಮತ್ತು ಸಾಮಾಜಿಕ-ಆಧ್ಯಾತ್ಮಿಕ ಚಿಂತನೆ ಆಧಾರಿತ ಅಭಿವ್ಯಕ್ತಿಗಳು.",
+      "source": ""
+    },
+    {
+      "id": "Q032",
+      "subject": "General Kannada",
+      "topic": "ಸಾಹಿತ್ಯಜ್ಞಾನ",
+      "chapter": "ಕನ್ನಡ ಸಾಹಿತ್ಯ",
+      "difficulty": "Medium",
+      "language": "Kannada",
+      "question": "ಕನ್ನಡದ ಆದಿಕವಿ ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+      "options": {
+        "A": "ರನ್ನ",
+        "B": "ಪಂಪ",
+        "C": "ಜನ್ನ",
+        "D": "ಹರಿಹರ"
+      },
+      "correctAnswer": "B",
+      "explanation": "ಪಂಪನನ್ನು ಕನ್ನಡದ ಆದಿಕವಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q033",
+      "subject": "General Kannada",
+      "topic": "ಸಾಹಿತ್ಯಜ್ಞಾನ",
+      "chapter": "ಸಾಹಿತ್ಯ ಚಳವಳಿ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "ನವೋದಯ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಪ್ರಮುಖ ಲಕ್ಷಣ ಯಾವುದು?",
+      "options": {
+        "A": "ಪೂರ್ಣವಾಗಿ ಶಾಸನಶೈಲಿಯ ಅನುಕರಣ",
+        "B": "ರಾಷ್ಟ್ರೀಯತೆ, ಪ್ರಕೃತಿಪ್ರೇಮ ಮತ್ತು ಮಾನವತಾವಾದಿ ಭಾವನೆಗಳ ಅಭಿವ್ಯಕ್ತಿ",
+        "C": "ಕೇವಲ ವೈಜ್ಞಾನಿಕ ವರದಿಗಳು",
+        "D": "ಮಾತ್ರ ಹಾಸ್ಯಪ್ರಧಾನ ಕವಿತೆಗಳು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ನವೋದಯ ಸಾಹಿತ್ಯದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಜಾಗೃತಿ, ಪ್ರಕೃತಿ, ಮಾನವೀಯತೆ ಮತ್ತು ಹೊಸ ಕಾವ್ಯಪ್ರಜ್ಞೆ ಪ್ರಮುಖವಾಗಿವೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q034",
+      "subject": "General Kannada",
+      "topic": "ಅರ್ಥಗ್ರಹಣ",
+      "chapter": "ಗದ್ಯಾಂಶ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಸಮಯವನ್ನು ಉಳಿಸುವುದು ಎಂದರೆ ಕೆಲಸವನ್ನು ತ್ವರಿತವಾಗಿ ಮುಗಿಸುವುದಷ್ಟೇ ಅಲ್ಲ; ಅಗತ್ಯವಿಲ್ಲದ ಕೆಲಸಗಳನ್ನು ಗುರುತಿಸಿ ಅವನ್ನು ಕೈಬಿಡುವುದೂ ಹೌದು.' ಈ ವಾಕ್ಯದ ಮುಖ್ಯ ಆಶಯ ಯಾವುದು?",
+      "options": {
+        "A": "ಎಲ್ಲ ಕೆಲಸಗಳನ್ನೂ ಒಂದೇ ಸಮಯದಲ್ಲಿ ಮಾಡಬೇಕು",
+        "B": "ಸಮಯ ನಿರ್ವಹಣೆಗೆ ಆದ್ಯತೆ ನಿಗದಿ ಮತ್ತು ಅನಗತ್ಯ ಕಾರ್ಯಗಳ ತ್ಯಜನೆ ಅಗತ್ಯ",
+        "C": "ವೇಗವೇ ಯಶಸ್ಸಿನ ಏಕೈಕ ಮಾನದಂಡ",
+        "D": "ವಿಶ್ರಾಂತಿಗೆ ಸಮಯ ಕೊಡಬಾರದು"
+      },
+      "correctAnswer": "B",
+      "explanation": "ವಾಕ್ಯವು ಸಮಯ ನಿರ್ವಹಣೆಯಲ್ಲಿ ಆದ್ಯತೆ ನಿಗದಿ ಮತ್ತು ಅನಗತ್ಯ ಕಾರ್ಯಗಳನ್ನು ಬಿಡುವ ಮಹತ್ವವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+      "source": ""
+    },
+    {
+      "id": "Q035",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Subject-verb agreement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Neither the manager nor the assistants _____ aware of the revised schedule.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "has been",
+        "D": "is"
+      },
+      "correctAnswer": "B",
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject; 'assistants' is plural.",
+      "source": ""
+    },
+    {
+      "id": "Q036",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Tense",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "By the time the committee arrived, the secretary _____ the minutes.",
+      "options": {
+        "A": "has prepared",
+        "B": "prepared",
+        "C": "had prepared",
+        "D": "was preparing"
+      },
+      "correctAnswer": "C",
+      "explanation": "The preparation was completed before another past event; past perfect is required.",
+      "source": ""
+    },
+    {
+      "id": "Q037",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Conditional clauses",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If the applicant _____ the documents earlier, the application would not have been rejected.",
+      "options": {
+        "A": "submits",
+        "B": "had submitted",
+        "C": "would submit",
+        "D": "has submitted"
+      },
+      "correctAnswer": "B",
+      "explanation": "This is a third conditional: if + past perfect, would have + past participle.",
+      "source": ""
+    },
+    {
+      "id": "Q038",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Articles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "She was appointed _____ honorary secretary of the association.",
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
+      "correctAnswer": "D",
+      "explanation": "No article is normally used before a complement such as 'appointed honorary secretary'.",
+      "source": ""
+    },
+    {
+      "id": "Q039",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Prepositions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The new policy is aimed _____ improving access to public services.",
+      "options": {
+        "A": "at",
+        "B": "for",
+        "C": "to",
+        "D": "with"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fixed expression is 'aimed at + gerund/noun'.",
+      "source": ""
+    },
+    {
+      "id": "Q040",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Voice",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the correct passive form: 'They have postponed the interview.'",
+      "options": {
+        "A": "The interview had been postponed by them.",
+        "B": "The interview has been postponed.",
+        "C": "The interview is being postponed.",
+        "D": "The interview was postponed."
+      },
+      "correctAnswer": "B",
+      "explanation": "Present perfect active changes to present perfect passive: has been + past participle.",
+      "source": ""
+    },
+    {
+      "id": "Q041",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Reported speech",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "He said, 'I have been waiting here for two hours.' Choose the correct reported form.",
+      "options": {
+        "A": "He said that he has been waiting there for two hours.",
+        "B": "He said that he had been waiting there for two hours.",
+        "C": "He said that I had waited here for two hours.",
+        "D": "He said that he was waiting here since two hours."
+      },
+      "correctAnswer": "B",
+      "explanation": "Backshift changes present perfect continuous to past perfect continuous; 'here' changes to 'there'.",
+      "source": ""
+    },
+    {
+      "id": "Q042",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Pronouns",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Each of the candidates must bring _____ own identity card.",
+      "options": {
+        "A": "their",
+        "B": "his or her",
+        "C": "our",
+        "D": "your"
+      },
+      "correctAnswer": "B",
+      "explanation": "In formal traditional agreement, 'each' is singular and takes 'his or her'.",
+      "source": ""
+    },
+    {
+      "id": "Q043",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Modifiers",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the sentence with the correct placement of the modifier.",
+      "options": {
+        "A": "Walking through the corridor, the notice board caught my attention.",
+        "B": "Walking through the corridor, I noticed the notice board.",
+        "C": "The notice board, walking through the corridor, caught my attention.",
+        "D": "I noticed, walking through the corridor, by the notice board."
+      },
+      "correctAnswer": "B",
+      "explanation": "The introductory participial phrase must modify the subject 'I', not 'notice board'.",
+      "source": ""
+    },
+    {
+      "id": "Q044",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Parallelism",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the sentence that maintains parallel structure.",
+      "options": {
+        "A": "The role requires drafting reports, to analyse data and presentations.",
+        "B": "The role requires drafting reports, analysing data and preparing presentations.",
+        "C": "The role requires to draft reports, analysing data and presentations.",
+        "D": "The role requires drafting reports, data analysis and to prepare presentations."
+      },
+      "correctAnswer": "B",
+      "explanation": "All three items use parallel gerund forms: drafting, analysing and preparing.",
+      "source": ""
+    },
+    {
+      "id": "Q045",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Synonyms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the closest meaning of 'mitigate'.",
+      "options": {
+        "A": "Aggravate",
+        "B": "Alleviate",
+        "C": "Postpone",
+        "D": "Conceal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mitigate means to make something less severe or harmful; alleviate is closest.",
+      "source": ""
+    },
+    {
+      "id": "Q046",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Antonyms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the antonym of 'explicit'.",
+      "options": {
+        "A": "Definite",
+        "B": "Unambiguous",
+        "C": "Implicit",
+        "D": "Precise"
+      },
+      "correctAnswer": "C",
+      "explanation": "Explicit means clearly stated; implicit means implied rather than directly expressed.",
+      "source": ""
+    },
+    {
+      "id": "Q047",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "One-word substitution",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A person who can use both hands with equal skill is called _____ .",
+      "options": {
+        "A": "ambivalent",
+        "B": "ambidextrous",
+        "C": "anonymous",
+        "D": "amorphous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ambidextrous describes the ability to use both hands equally well.",
+      "source": ""
+    },
+    {
+      "id": "Q048",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Confusing words",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the correct word: The new rules will _____ all departments equally.",
+      "options": {
+        "A": "effect",
+        "B": "affect",
+        "C": "affects",
+        "D": "effected"
+      },
+      "correctAnswer": "B",
+      "explanation": "Affect is the verb meaning to influence; effect is usually a noun.",
+      "source": ""
+    },
+    {
+      "id": "Q049",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Phrasal verbs",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The meeting was _____ because the chairperson was unwell.",
+      "options": {
+        "A": "put off",
+        "B": "put out",
+        "C": "put up",
+        "D": "put through"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Put off' means to postpone.",
+      "source": ""
+    },
+    {
+      "id": "Q050",
+      "subject": "General English",
+      "topic": "Idioms",
+      "chapter": "Meaning",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The phrase 'to leave no stone unturned' means to _____ .",
+      "options": {
+        "A": "avoid responsibility",
+        "B": "make every possible effort",
+        "C": "change one's opinion",
+        "D": "conceal the evidence"
+      },
+      "correctAnswer": "B",
+      "explanation": "The idiom means to try every possible method to achieve something.",
+      "source": ""
+    },
+    {
+      "id": "Q051",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Question tags",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Few candidates understood the instruction, _____?",
+      "options": {
+        "A": "did they",
+        "B": "didn't they",
+        "C": "were they",
+        "D": "weren't they"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Few' has a negative sense, so the question tag is positive: did they?",
+      "source": ""
+    },
+    {
+      "id": "Q052",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Conjunctions",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The officer continued the inspection _____ it was raining heavily.",
+      "options": {
+        "A": "because",
+        "B": "although",
+        "C": "unless",
+        "D": "so that"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Although' introduces a contrast between the rain and continuing the inspection.",
+      "source": ""
+    },
+    {
+      "id": "Q053",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Degrees of comparison",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "No other district in the region is as densely populated as this one. Choose the correct comparative form.",
+      "options": {
+        "A": "This district is more densely populated than any other district in the region.",
+        "B": "This district is most densely populated than all districts.",
+        "C": "Any district is as densely populated as this one.",
+        "D": "This district is less densely populated than other districts."
+      },
+      "correctAnswer": "A",
+      "explanation": "The positive construction converts to comparative using 'more...than any other'.",
+      "source": ""
+    },
+    {
+      "id": "Q054",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Infinitive and gerund",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The board objected to _____ the deadline without prior notice.",
+      "options": {
+        "A": "extend",
+        "B": "extending",
+        "C": "have extended",
+        "D": "be extend"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 'object to', the preposition 'to' is followed by a gerund.",
+      "source": ""
+    },
+    {
+      "id": "Q055",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Error identification",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Identify the part containing an error: 'One of the officers / have submitted / the revised statement / before noon.'",
+      "options": {
+        "A": "One of the officers",
+        "B": "have submitted",
+        "C": "the revised statement",
+        "D": "before noon"
+      },
+      "correctAnswer": "B",
+      "explanation": "The subject is 'one', which is singular; the verb should be 'has submitted'.",
+      "source": ""
+    },
+    {
+      "id": "Q056",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Sentence improvement",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the best replacement for the phrase: 'The information are not sufficient to decide the case.'",
+      "options": {
+        "A": "information is not",
+        "B": "informations are not",
+        "C": "information were not",
+        "D": "the informations is not"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Information' is an uncountable singular noun and takes 'is'.",
+      "source": ""
+    },
+    {
+      "id": "Q057",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Word usage",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the word that best completes the sentence: The auditor found a _____ discrepancy between the two statements.",
+      "options": {
+        "A": "trivial",
+        "B": "substantial",
+        "C": "courteous",
+        "D": "obsolete"
+      },
+      "correctAnswer": "B",
+      "explanation": "A substantial discrepancy is a significant or considerable difference.",
+      "source": ""
+    },
+    {
+      "id": "Q058",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Punctuation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the correctly punctuated sentence.",
+      "options": {
+        "A": "The officer said, 'Submit the file today.'",
+        "B": "The officer said 'Submit the file today'.",
+        "C": "The officer said, 'Submit the file today'.",
+        "D": "The officer said 'Submit the file today.'"
+      },
+      "correctAnswer": "A",
+      "explanation": "The direct quotation is enclosed in quotation marks, and the full stop is placed inside the closing quotation mark in standard usage.",
+      "source": ""
+    },
+    {
+      "id": "Q059",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Determiners",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "There is _____ evidence to support the allegation; further inquiry is necessary.",
+      "options": {
+        "A": "few",
+        "B": "many",
+        "C": "little",
+        "D": "a few"
+      },
+      "correctAnswer": "C",
+      "explanation": "Evidence is uncountable; 'little evidence' means a small amount.",
+      "source": ""
+    },
+    {
+      "id": "Q060",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Relative clauses",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The proposal, _____ was approved yesterday, will be implemented next month.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "whose"
+      },
+      "correctAnswer": "B",
+      "explanation": "A non-defining relative clause is set off by commas and uses 'which', not 'that'.",
+      "source": ""
+    },
+    {
+      "id": "Q061",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Modal verbs",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "All visitors _____ display their identity cards at the entrance; it is compulsory.",
+      "options": {
+        "A": "might",
+        "B": "would",
+        "C": "must",
+        "D": "could"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Must' expresses obligation or necessity.",
+      "source": ""
+    },
+    {
+      "id": "Q062",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Collocations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the correct collocation.",
+      "options": {
+        "A": "do a decision",
+        "B": "make a decision",
+        "C": "take a conclusion",
+        "D": "give a research"
+      },
+      "correctAnswer": "B",
+      "explanation": "The standard collocation is 'make a decision'.",
+      "source": ""
+    },
+    {
+      "id": "Q063",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Transformation",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Choose the correct indirect form: 'The clerk asked me, “Where did you keep the register?”'",
+      "options": {
+        "A": "The clerk asked me where did I keep the register.",
+        "B": "The clerk asked me where I had kept the register.",
+        "C": "The clerk asked me where had I kept the register.",
+        "D": "The clerk asked me where I keep the register?"
+      },
+      "correctAnswer": "B",
+      "explanation": "In indirect questions, use statement word order; past simple commonly backshifts to past perfect.",
+      "source": ""
+    },
+    {
+      "id": "Q064",
+      "subject": "General English",
+      "topic": "Comprehension",
+      "chapter": "Inference",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Read the statement: 'Although digitisation reduces processing time, its benefits depend on accurate data entry and regular system maintenance.' Which inference is best supported?",
+      "options": {
+        "A": "Digitisation automatically eliminates every administrative error.",
+        "B": "Maintenance is unnecessary once a system is installed.",
+        "C": "Technology alone cannot ensure efficient administration.",
+        "D": "Accurate data entry increases processing time in every case."
+      },
+      "correctAnswer": "C",
+      "explanation": "The statement makes efficiency conditional on data quality and maintenance, so technology alone is insufficient.",
+      "source": ""
+    },
+    {
+      "id": "Q065",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Word forms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the correct word: The committee reached a unanimous _____ after a lengthy discussion.",
+      "options": {
+        "A": "decide",
+        "B": "decision",
+        "C": "decisive",
+        "D": "deciding"
+      },
+      "correctAnswer": "B",
+      "explanation": "The noun 'decision' is required after 'a unanimous'.",
+      "source": ""
+    },
+    {
+      "id": "Q066",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Adverbs",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Choose the correct sentence.",
+      "options": {
+        "A": "She completed the assignment careful.",
+        "B": "She completed the assignment carefully.",
+        "C": "She careful completed the assignment.",
+        "D": "She completed carefully the assignment careful."
+      },
+      "correctAnswer": "B",
+      "explanation": "The adverb 'carefully' modifies the verb 'completed'.",
+      "source": ""
+    },
+    {
+      "id": "Q067",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Causative structures",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The supervisor had the records _____ before the audit.",
+      "options": {
+        "A": "verify",
+        "B": "verified",
+        "C": "verifying",
+        "D": "to verified"
+      },
+      "correctAnswer": "B",
+      "explanation": "The causative structure 'have + object + past participle' is used: had the records verified.",
+      "source": ""
+    },
+    {
+      "id": "Q068",
+      "subject": "General English",
+      "topic": "Vocabulary",
+      "chapter": "Meaning in context",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In the sentence 'The instructions were ambiguous', the word 'ambiguous' means _____ .",
+      "options": {
+        "A": "open to more than one interpretation",
+        "B": "legally binding",
+        "C": "extremely brief",
+        "D": "fully verified"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ambiguous means unclear or capable of more than one interpretation.",
+      "source": ""
+    },
+    {
+      "id": "Q069",
+      "subject": "General English",
+      "topic": "Grammar",
+      "chapter": "Sentence arrangement",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Arrange the parts to form a coherent sentence: (P) before the deadline (Q) the applicant (R) submitted (S) all required documents.",
+      "options": {
+        "A": "Q-R-S-P",
+        "B": "R-Q-P-S",
+        "C": "S-P-Q-R",
+        "D": "P-S-R-Q"
+      },
+      "correctAnswer": "A",
+      "explanation": "The correct order is: The applicant submitted all required documents before the deadline.",
+      "source": ""
+    },
+    {
+      "id": "Q070",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Fundamentals",
+      "chapter": "Number systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "What is the decimal equivalent of the binary number 101101?",
+      "options": {
+        "A": "43",
+        "B": "44",
+        "C": "45",
+        "D": "46"
+      },
+      "correctAnswer": "C",
+      "explanation": "101101₂ = 32 + 8 + 4 + 1 = 45.",
+      "source": ""
+    },
+    {
+      "id": "Q071",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Fundamentals",
+      "chapter": "Memory",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which type of memory retains its contents even when the power is switched off?",
+      "options": {
+        "A": "SRAM cache",
+        "B": "RAM",
+        "C": "ROM",
+        "D": "CPU register"
+      },
+      "correctAnswer": "C",
+      "explanation": "ROM is non-volatile memory and retains stored contents without power.",
+      "source": ""
+    },
+    {
+      "id": "Q072",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Fundamentals",
+      "chapter": "CPU architecture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which CPU component performs arithmetic operations and logical comparisons?",
+      "options": {
+        "A": "Control Unit",
+        "B": "ALU",
+        "C": "Cache controller",
+        "D": "Instruction register"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Arithmetic Logic Unit performs arithmetic calculations and logical operations.",
+      "source": ""
+    },
+    {
+      "id": "Q073",
+      "subject": "Computer Knowledge",
+      "topic": "Operating Systems",
+      "chapter": "Process management",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In an operating system, a process waiting for an event such as completion of an I/O operation is generally in which state?",
+      "options": {
+        "A": "Running",
+        "B": "Ready",
+        "C": "Blocked/Waiting",
+        "D": "Terminated"
+      },
+      "correctAnswer": "C",
+      "explanation": "A blocked or waiting process cannot proceed until the required event or I/O operation completes.",
+      "source": ""
+    },
+    {
+      "id": "Q074",
+      "subject": "Computer Knowledge",
+      "topic": "Operating Systems",
+      "chapter": "File systems",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which file-system feature helps restore a consistent state after an unexpected system crash by recording pending changes?",
+      "options": {
+        "A": "Defragmentation",
+        "B": "Journaling",
+        "C": "Spooling",
+        "D": "Caching"
+      },
+      "correctAnswer": "B",
+      "explanation": "A journaling file system records intended changes so it can recover consistency after a crash.",
+      "source": ""
+    },
+    {
+      "id": "Q075",
+      "subject": "Computer Knowledge",
+      "topic": "Operating Systems",
+      "chapter": "Shortcuts",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In Windows, which keyboard shortcut opens Task Manager directly on most current versions?",
+      "options": {
+        "A": "Ctrl + Alt + M",
+        "B": "Ctrl + Shift + Esc",
+        "C": "Alt + Shift + T",
+        "D": "Windows + E"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ctrl + Shift + Esc opens Task Manager directly.",
+      "source": ""
+    },
+    {
+      "id": "Q076",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "Spreadsheet",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In a spreadsheet, which formula counts cells in B2:B20 that contain numeric values only?",
+      "options": {
+        "A": "=COUNTA(B2:B20)",
+        "B": "=COUNT(B2:B20)",
+        "C": "=COUNTIF(B2:B20,\"*\")",
+        "D": "=SUM(B2:B20)"
+      },
+      "correctAnswer": "B",
+      "explanation": "COUNT counts numeric cells; COUNTA counts all non-empty cells.",
+      "source": ""
+    },
+    {
+      "id": "Q077",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "Spreadsheet",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Cell D5 contains the formula =$B$2*C5. If it is copied to D6, what formula will appear?",
+      "options": {
+        "A": "=$B$2*C6",
+        "B": "=B3*C6",
+        "C": "=$B$3*C5",
+        "D": "=$B$2*C5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The absolute reference $B$2 remains fixed; the relative reference C5 shifts to C6.",
+      "source": ""
+    },
+    {
+      "id": "Q078",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "Spreadsheet",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which chart is generally most suitable for showing the trend of monthly expenditure over one year?",
+      "options": {
+        "A": "Pie chart",
+        "B": "Line chart",
+        "C": "Doughnut chart",
+        "D": "Radar chart"
+      },
+      "correctAnswer": "B",
+      "explanation": "A line chart is well suited to displaying trends over time.",
+      "source": ""
+    },
+    {
+      "id": "Q079",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "Word processing",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which feature in a word processor is used to create personalised letters for many recipients using a common template and a data source?",
+      "options": {
+        "A": "Track Changes",
+        "B": "Mail Merge",
+        "C": "AutoCorrect",
+        "D": "WordArt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mail Merge combines a main document with recipient data to produce personalised copies.",
+      "source": ""
+    },
+    {
+      "id": "Q080",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "Presentation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In presentation software, which view displays miniature slides for rearranging their order efficiently?",
+      "options": {
+        "A": "Slide Sorter",
+        "B": "Notes Page",
+        "C": "Reading View",
+        "D": "Outline Master"
+      },
+      "correctAnswer": "A",
+      "explanation": "Slide Sorter presents slide thumbnails and supports rapid reordering.",
+      "source": ""
+    },
+    {
+      "id": "Q081",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "Protocols",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which protocol is primarily used to translate a domain name such as example.com into an IP address?",
+      "options": {
+        "A": "FTP",
+        "B": "DNS",
+        "C": "SMTP",
+        "D": "SNMP"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNS resolves domain names to IP addresses.",
+      "source": ""
+    },
+    {
+      "id": "Q082",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "Protocols",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which protocol provides encrypted communication between a web browser and a website?",
+      "options": {
+        "A": "HTTP",
+        "B": "HTTPS",
+        "C": "Telnet",
+        "D": "TFTP"
+      },
+      "correctAnswer": "B",
+      "explanation": "HTTPS uses TLS to protect data exchanged between browser and server.",
+      "source": ""
+    },
+    {
+      "id": "Q083",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "IP addressing",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is a private IPv4 address?",
+      "options": {
+        "A": "8.8.8.8",
+        "B": "172.20.14.5",
+        "C": "1.1.1.1",
+        "D": "200.10.10.1"
+      },
+      "correctAnswer": "B",
+      "explanation": "172.16.0.0 to 172.31.255.255 is a private IPv4 range.",
+      "source": ""
+    },
+    {
+      "id": "Q084",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "Network devices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which device forwards packets between different IP networks using routing information?",
+      "options": {
+        "A": "Hub",
+        "B": "Repeater",
+        "C": "Router",
+        "D": "Bridge"
+      },
+      "correctAnswer": "C",
+      "explanation": "A router forwards packets between networks based on IP routing information.",
+      "source": ""
+    },
+    {
+      "id": "Q085",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "Network topology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In which topology does failure of a single central switch typically disrupt communication among all connected nodes?",
+      "options": {
+        "A": "Bus",
+        "B": "Ring",
+        "C": "Star",
+        "D": "Mesh"
+      },
+      "correctAnswer": "C",
+      "explanation": "In a star topology, all nodes depend on the central hub or switch for communication.",
+      "source": ""
+    },
+    {
+      "id": "Q086",
+      "subject": "Computer Knowledge",
+      "topic": "Cyber Security",
+      "chapter": "Authentication",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which security mechanism requires a user to provide two different categories of evidence, such as a password and a one-time code?",
+      "options": {
+        "A": "Single sign-on",
+        "B": "Two-factor authentication",
+        "C": "Data compression",
+        "D": "Digital watermarking"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two-factor authentication combines two distinct factor categories, commonly knowledge and possession.",
+      "source": ""
+    },
+    {
+      "id": "Q087",
+      "subject": "Computer Knowledge",
+      "topic": "Cyber Security",
+      "chapter": "Malware",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A malicious program that disguises itself as legitimate software and relies on the user to execute it is commonly called a _____ .",
+      "options": {
+        "A": "worm",
+        "B": "trojan horse",
+        "C": "firewall",
+        "D": "patch"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Trojan horse masquerades as legitimate software and is executed by the user.",
+      "source": ""
+    },
+    {
+      "id": "Q088",
+      "subject": "Computer Knowledge",
+      "topic": "Cyber Security",
+      "chapter": "Phishing",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "An email asks an employee to verify bank details through a look-alike website. This is primarily an example of _____ .",
+      "options": {
+        "A": "phishing",
+        "B": "defragmentation",
+        "C": "encryption",
+        "D": "load balancing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phishing uses deceptive messages and fake sites to steal sensitive information.",
+      "source": ""
+    },
+    {
+      "id": "Q089",
+      "subject": "Computer Knowledge",
+      "topic": "Cyber Security",
+      "chapter": "Encryption",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "What is the main purpose of a cryptographic hash function when storing passwords securely?",
+      "options": {
+        "A": "To recover the original password",
+        "B": "To create a fixed-length digest for verification",
+        "C": "To transmit passwords in plain text",
+        "D": "To compress the operating system"
+      },
+      "correctAnswer": "B",
+      "explanation": "A password hash produces a one-way digest used for verification; secure systems also use salts and suitable password-hashing algorithms.",
+      "source": ""
+    },
+    {
+      "id": "Q090",
+      "subject": "Computer Knowledge",
+      "topic": "Databases",
+      "chapter": "SQL",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which SQL clause is used to filter grouped records after the GROUP BY operation?",
+      "options": {
+        "A": "WHERE",
+        "B": "ORDER BY",
+        "C": "HAVING",
+        "D": "DISTINCT"
+      },
+      "correctAnswer": "C",
+      "explanation": "HAVING filters groups after aggregation; WHERE filters rows before grouping.",
+      "source": ""
+    },
+    {
+      "id": "Q091",
+      "subject": "Computer Knowledge",
+      "topic": "Databases",
+      "chapter": "Keys",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a relational database, which key uniquely identifies each row in a table and cannot contain NULL values?",
+      "options": {
+        "A": "Foreign key",
+        "B": "Primary key",
+        "C": "Composite index",
+        "D": "Alternate attribute"
+      },
+      "correctAnswer": "B",
+      "explanation": "A primary key uniquely identifies each record and must be unique and non-null.",
+      "source": ""
+    },
+    {
+      "id": "Q092",
+      "subject": "Computer Knowledge",
+      "topic": "Databases",
+      "chapter": "SQL",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which SQL command removes all rows from a table while retaining the table structure?",
+      "options": {
+        "A": "DROP TABLE",
+        "B": "ALTER TABLE",
+        "C": "TRUNCATE TABLE",
+        "D": "RENAME TABLE"
+      },
+      "correctAnswer": "C",
+      "explanation": "TRUNCATE removes table rows while retaining the table definition.",
+      "source": ""
+    },
+    {
+      "id": "Q093",
+      "subject": "Computer Knowledge",
+      "topic": "Internet",
+      "chapter": "Email",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which email protocol is commonly used by a client to send outgoing mail to a mail server?",
+      "options": {
+        "A": "SMTP",
+        "B": "POP3",
+        "C": "IMAP",
+        "D": "HTTP"
+      },
+      "correctAnswer": "A",
+      "explanation": "SMTP is used for sending outgoing email; POP3 and IMAP are used for retrieval/synchronisation.",
+      "source": ""
+    },
+    {
+      "id": "Q094",
+      "subject": "Computer Knowledge",
+      "topic": "Internet",
+      "chapter": "Cloud computing",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A user accesses a complete software application through a web browser while the provider manages the infrastructure and platform. This is best classified as _____ .",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "LAN"
+      },
+      "correctAnswer": "C",
+      "explanation": "Software as a Service delivers a ready-to-use application over the internet.",
+      "source": ""
+    },
+    {
+      "id": "Q095",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Fundamentals",
+      "chapter": "Storage",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which storage device has no moving mechanical parts and generally offers lower access latency than a traditional hard disk drive?",
+      "options": {
+        "A": "DVD-R",
+        "B": "SSD",
+        "C": "Magnetic tape",
+        "D": "Floppy disk"
+      },
+      "correctAnswer": "B",
+      "explanation": "A solid-state drive uses flash memory and has no spinning platters or moving read/write heads.",
+      "source": ""
+    },
+    {
+      "id": "Q096",
+      "subject": "Computer Knowledge",
+      "topic": "Computer Fundamentals",
+      "chapter": "Input/output",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is an example of an output device that produces a permanent hard copy?",
+      "options": {
+        "A": "Scanner",
+        "B": "Plotter",
+        "C": "OCR reader",
+        "D": "Joystick"
+      },
+      "correctAnswer": "B",
+      "explanation": "A plotter produces physical printed output, often for large technical drawings.",
+      "source": ""
+    },
+    {
+      "id": "Q097",
+      "subject": "Computer Knowledge",
+      "topic": "Cyber Security",
+      "chapter": "Backup",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which backup strategy copies only data changed since the most recent full backup?",
+      "options": {
+        "A": "Differential backup",
+        "B": "Incremental backup",
+        "C": "Mirror-only backup",
+        "D": "Cold boot"
+      },
+      "correctAnswer": "A",
+      "explanation": "A differential backup copies changes since the last full backup; an incremental backup copies changes since the last backup of any type.",
+      "source": ""
+    },
+    {
+      "id": "Q098",
+      "subject": "Computer Knowledge",
+      "topic": "Networking",
+      "chapter": "Wireless security",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which Wi-Fi security standard is generally considered the strongest among the following options for modern networks?",
+      "options": {
+        "A": "WEP",
+        "B": "WPA",
+        "C": "WPA2-TKIP",
+        "D": "WPA3"
+      },
+      "correctAnswer": "D",
+      "explanation": "WPA3 is the most recent and strongest option listed; WEP and older WPA modes are insecure.",
+      "source": ""
+    },
+    {
+      "id": "Q099",
+      "subject": "Computer Knowledge",
+      "topic": "Office Applications",
+      "chapter": "File formats",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which file format is designed to preserve document layout across different devices and operating systems?",
+      "options": {
+        "A": ".txt",
+        "B": ".csv",
+        "C": ".pdf",
+        "D": ".bmp"
+      },
+      "correctAnswer": "C",
+      "explanation": "PDF is designed to preserve page layout and formatting across platforms.",
+      "source": ""
+    },
+    {
+      "id": "Q100",
+      "subject": "General Kannada",
+      "topic": "ವ್ಯಾಕರಣ",
+      "chapter": "ವಾಕ್ಯಪ್ರಯೋಗ",
+      "difficulty": "Hard",
+      "language": "Kannada",
+      "question": "'ಅವನು ಪುಸ್ತಕವನ್ನು ಓದಿಯೇ ಮಲಗಿದನು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿನ 'ಓದಿಯೇ' ರೂಪವು ಯಾವ ಅರ್ಥವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ?",
+      "options": {
+        "A": "ನಿಷೇಧಾರ್ಥ",
+        "B": "ಅವಶ್ಯಕತೆ/ಒತ್ತಿಹೇಳುವಿಕೆ",
+        "C": "ಸಂದೇಹಾರ್ಥ",
+        "D": "ಭವಿಷ್ಯತ್ ಕಾಲ"
+      },
+      "correctAnswer": "B",
+      "explanation": "'ಓದಿಯೇ' ಎಂಬ ರೂಪವು ಓದುವ ಕ್ರಿಯೆ ನೆರವೇರಿದ ನಂತರವೇ ಮಲಗಿದನು ಎಂಬ ಒತ್ತಿಹೇಳುವ ಅಥವಾ ಅನಿವಾರ್ಯತೆಯ ಭಾವವನ್ನು ನೀಡುತ್ತದೆ.",
+      "source": ""
+    }
+  ]
+}

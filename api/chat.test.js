@@ -34,6 +34,12 @@ test("chat messages persist using the EXAMDESK GitHub storage configuration", as
       storedContent = JSON.parse(Buffer.from(JSON.parse(options.body).content, "base64").toString("utf8"));
       return { ok: true, status: 201, json: async () => ({ sha: "test-sha" }) };
     }
+    if (String(url).endsWith("/repos/test-owner/test-storage")) {
+      return { ok: true, status: 200, json: async () => ({}) };
+    }
+    if (String(url).endsWith("/branches/test-branch")) {
+      return { ok: true, status: 200, json: async () => ({}) };
+    }
     if (!storedContent) return { ok: false, status: 404 };
     return {
       ok: true,

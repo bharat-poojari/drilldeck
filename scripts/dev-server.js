@@ -1,4 +1,4 @@
-import { createReadStream } from "node:fs";
+import { createReadStream, existsSync } from "node:fs";
 import { stat } from "node:fs/promises";
 import { createServer } from "node:http";
 import { extname, join, relative, resolve, sep } from "node:path";
@@ -9,6 +9,13 @@ import leaderboardHandler from "../api/leaderboard.js";
 import { configureLocalJsonStorage } from "../lib/server/github-json.js";
 
 const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
+const ENV_FILE = join(ROOT, ".env");
+if (existsSync(ENV_FILE)) {
+  if (typeof process.loadEnvFile !== "function") {
+    throw new Error("Loading .env requires Node.js 20.12 or newer.");
+  }
+  process.loadEnvFile(ENV_FILE);
+}
 const PORT = Number(process.env.PORT || 8000);
 const useGitHubStorage = process.env.DRILLDECK_USE_GITHUB_STORAGE === "true";
 if (!useGitHubStorage) {

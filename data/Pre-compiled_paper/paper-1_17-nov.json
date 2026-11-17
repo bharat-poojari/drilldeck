@@ -1,0 +1,1825 @@
+{
+  "exam": "KEA",
+  "version": "2.0.0",
+  "description": "Original KEA FDA-level Paper-I General Knowledge mock test. 100 MCQs, 100 marks, 120 minutes. Questions are newly authored and were checked for exact question-stem duplication against the user's uploaded starter question bank and the previously generated Communication mock paper. Practice marking: +1 for correct, -0.25 for incorrect, 0 for unanswered when the designated not-attempted OMR option is marked. Confirm current KEA instructions in the official notification.",
+  "paper": "Paper-I: General Knowledge",
+  "maximumMarks": 100,
+  "durationMinutes": 120,
+  "markingScheme": {
+    "correct": 1,
+    "incorrect": -0.25,
+    "unanswered": 0
+  },
+  "sectionDistribution": {
+    "History and Culture": 18,
+    "Geography": 8,
+    "Indian Constitution, Polity and Public Administration": 12,
+    "Economy and Rural Development": 10,
+    "General Science and Technology": 12,
+    "Environment and Ecology": 5,
+    "Current Affairs and International Relations": 15,
+    "Mental Ability": 20
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Ancient India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following pairs is correctly matched?",
+      "options": {
+        "A": "Megasthenes — Indica",
+        "B": "Kautilya — Indica",
+        "C": "Ashoka — Arthashastra",
+        "D": "Banabhatta — Mudrarakshasa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Megasthenes, the Greek ambassador at Chandragupta Maurya's court, wrote Indica. Arthashastra is associated with Kautilya; Harshacharita with Banabhatta.",
+      "source": ""
+    },
+    {
+      "id": "Q002",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Ancient India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Prayaga Prashasti, which describes the achievements of Samudragupta, was composed by:",
+      "options": {
+        "A": "Kalidasa",
+        "B": "Harishena",
+        "C": "Bana",
+        "D": "Vishakhadatta"
+      },
+      "correctAnswer": "B",
+      "explanation": "Harishena, a court poet and minister of Samudragupta, composed the Prayaga Prashasti.",
+      "source": ""
+    },
+    {
+      "id": "Q003",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Ancient India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which feature is most closely associated with the mature phase of the Harappan civilisation?",
+      "options": {
+        "A": "Iron ploughshares in widespread use",
+        "B": "Large stone temples dedicated to Vedic deities",
+        "C": "Standardised weights and planned drainage systems",
+        "D": "Extensive use of punch-marked coins"
+      },
+      "correctAnswer": "C",
+      "explanation": "Standardised weights, urban planning and covered drainage are characteristic features of mature Harappan sites.",
+      "source": ""
+    },
+    {
+      "id": "Q004",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Ancient India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Fourth Buddhist Council under Kanishka is traditionally associated with which place?",
+      "options": {
+        "A": "Pataliputra",
+        "B": "Sarnath",
+        "C": "Vaishali",
+        "D": "Kundalavana in Kashmir"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Fourth Buddhist Council is traditionally associated with Kundalavana in Kashmir during Kanishka's reign.",
+      "source": ""
+    },
+    {
+      "id": "Q005",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Medieval India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Uttaramerur inscriptions are especially important for understanding:",
+      "options": {
+        "A": "Chola village self-government",
+        "B": "Maratha naval administration",
+        "C": "Mughal revenue settlement",
+        "D": "Delhi Sultanate military organisation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Uttaramerur inscriptions provide detailed information about local self-government and committee selection in Chola villages.",
+      "source": ""
+    },
+    {
+      "id": "Q006",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Medieval India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Mansabdari system of the Mughal Empire primarily regulated:",
+      "options": {
+        "A": "Temple endowments and religious grants",
+        "B": "Civil and military rank and obligations",
+        "C": "Village-level irrigation rights",
+        "D": "Maritime customs duties"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mansabs denoted an official's rank and determined status, salary and military obligations.",
+      "source": ""
+    },
+    {
+      "id": "Q007",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Modern India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Arrange the following events in chronological order: (a) Ilbert Bill controversy (b) Partition of Bengal (c) Morley-Minto Reforms (d) Lucknow Pact.",
+      "options": {
+        "A": "(a), (c), (b), (d)",
+        "B": "(b), (a), (d), (c)",
+        "C": "(a), (b), (c), (d)",
+        "D": "(b), (c), (a), (d)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The events occurred in 1883, 1905, 1909 and 1916 respectively.",
+      "source": ""
+    },
+    {
+      "id": "Q008",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Modern India",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Poona Pact of 1932 was primarily concerned with:",
+      "options": {
+        "A": "Separate electorates for Muslims",
+        "B": "Abolition of zamindari",
+        "C": "Provincial linguistic reorganisation",
+        "D": "Representation of Depressed Classes in legislatures"
+      },
+      "correctAnswer": "D",
+      "explanation": "The pact between B. R. Ambedkar and Mahatma Gandhi provided for reserved seats for the Depressed Classes within a joint electorate.",
+      "source": ""
+    },
+    {
+      "id": "Q009",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Early Karnataka",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Aihole inscription of Pulakeshin II was composed by:",
+      "options": {
+        "A": "Ravikirti",
+        "B": "Ponna",
+        "C": "Bilhana",
+        "D": "Dandin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ravikirti composed the Aihole inscription, an important source for the history of the Chalukyas.",
+      "source": ""
+    },
+    {
+      "id": "Q010",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Dynasties of Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which dynasty made Kalyani (Basavakalyan) its prominent capital?",
+      "options": {
+        "A": "Hoysalas",
+        "B": "Western Chalukyas",
+        "C": "Kadambas",
+        "D": "Vijayanagara rulers"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Western Chalukyas, also called Later Chalukyas of Kalyani, ruled from Kalyani.",
+      "source": ""
+    },
+    {
+      "id": "Q011",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Vijayanagara",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Amuktamalyada, a Telugu literary work, is attributed to:",
+      "options": {
+        "A": "Harihara I",
+        "B": "Devaraya II",
+        "C": "Krishnadevaraya",
+        "D": "Achyuta Devaraya"
+      },
+      "correctAnswer": "C",
+      "explanation": "Krishnadevaraya, the celebrated Vijayanagara ruler, authored the Telugu work Amuktamalyada.",
+      "source": ""
+    },
+    {
+      "id": "Q012",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Karnataka social reform",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Anubhava Mantapa is traditionally associated with which 12th-century centre?",
+      "options": {
+        "A": "Badami",
+        "B": "Shravanabelagola",
+        "C": "Talakad",
+        "D": "Kalyana"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Anubhava Mantapa is associated with Kalyana and the social-spiritual movement led by Basavanna.",
+      "source": ""
+    },
+    {
+      "id": "Q013",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Freedom movement in Karnataka",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Karnataka Vidyavardhaka Sangha, founded in 1890, was established at:",
+      "options": {
+        "A": "Dharwad",
+        "B": "Mysuru",
+        "C": "Mangaluru",
+        "D": "Shivamogga"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Karnataka Vidyavardhaka Sangha was founded in Dharwad to promote Kannada language and identity.",
+      "source": ""
+    },
+    {
+      "id": "Q014",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Freedom movement in Karnataka",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who was the first president of the Karnataka Pradesh Congress Committee formed in 1920?",
+      "options": {
+        "A": "Kengal Hanumanthaiah",
+        "B": "Gangadharrao Deshpande",
+        "C": "Aluru Venkata Rao",
+        "D": "S. Nijalingappa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gangadharrao Deshpande played a leading role in the freedom movement and presided over the Karnataka Provincial Congress Committee.",
+      "source": ""
+    },
+    {
+      "id": "Q015",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Culture",
+      "chapter": "Architecture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Hoysaleswara temple at Halebidu is primarily associated with which architectural style?",
+      "options": {
+        "A": "Nagara",
+        "B": "Dravida",
+        "C": "Vesara / Karnata-Dravida",
+        "D": "Indo-Islamic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hoysala temples are commonly classified within the Vesara or Karnata-Dravida tradition, with distinctive star-shaped plans and intricate sculpture.",
+      "source": ""
+    },
+    {
+      "id": "Q016",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Culture",
+      "chapter": "Literature",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which of the following is correctly matched?",
+      "options": {
+        "A": "Nagavarma II — Shantipurana",
+        "B": "Ranna — Kavirajamarga",
+        "C": "Janna — Gadayuddha",
+        "D": "Adikavi Pampa — Vikramarjuna Vijaya"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pampa authored Vikramarjuna Vijaya; Ranna authored Gadayuddha; Janna authored Yashodhara Charite.",
+      "source": ""
+    },
+    {
+      "id": "Q017",
+      "subject": "General Knowledge",
+      "topic": "Indian History",
+      "chapter": "Modern India",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Home Rule Leagues in India were launched in 1916 by:",
+      "options": {
+        "A": "Bal Gangadhar Tilak and Annie Besant",
+        "B": "M. G. Ranade and Dadabhai Naoroji",
+        "C": "C. R. Das and Motilal Nehru",
+        "D": "Gopal Krishna Gokhale and Lala Lajpat Rai"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tilak and Annie Besant organised separate but related Home Rule Leagues in 1916.",
+      "source": ""
+    },
+    {
+      "id": "Q018",
+      "subject": "General Knowledge",
+      "topic": "Karnataka History",
+      "chapter": "Unification of Karnataka",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Ekikarana movement primarily sought:",
+      "options": {
+        "A": "Creation of a separate Kodagu state",
+        "B": "Unification of Kannada-speaking regions into one state",
+        "C": "Merger of Hyderabad with Maharashtra",
+        "D": "Formation of a coastal administrative council"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Karnataka Ekikarana movement sought to unite Kannada-speaking areas that were divided among different princely states and British provinces.",
+      "source": ""
+    },
+    {
+      "id": "Q019",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Physical geography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The black cotton soils of the Deccan are largely derived from the weathering of:",
+      "options": {
+        "A": "Granite",
+        "B": "Sandstone",
+        "C": "Basaltic lava",
+        "D": "Alluvial deposits"
+      },
+      "correctAnswer": "C",
+      "explanation": "Regur or black cotton soils are commonly associated with the weathering of Deccan Trap basalt.",
+      "source": ""
+    },
+    {
+      "id": "Q020",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Monsoon",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The phenomenon of 'break in the monsoon' refers to:",
+      "options": {
+        "A": "Rainfall caused only by western disturbances",
+        "B": "Complete withdrawal of the southwest monsoon from India",
+        "C": "Onset of northeast monsoon",
+        "D": "Temporary weakening or interruption of rainfall over a region during the monsoon season"
+      },
+      "correctAnswer": "D",
+      "explanation": "A monsoon break is a temporary reduction in rainfall, often linked to shifts in the monsoon trough.",
+      "source": ""
+    },
+    {
+      "id": "Q021",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Rivers",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which river is an example of a west-flowing river that forms an estuary rather than a large delta?",
+      "options": {
+        "A": "Narmada",
+        "B": "Godavari",
+        "C": "Mahanadi",
+        "D": "Kaveri"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Narmada flows west through a rift valley and enters the Arabian Sea through an estuary.",
+      "source": ""
+    },
+    {
+      "id": "Q022",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Agriculture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which crop is most closely associated with the rabi season in northern India?",
+      "options": {
+        "A": "Jute",
+        "B": "Wheat",
+        "C": "Cotton",
+        "D": "Rice"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wheat is a major rabi crop, generally sown in winter and harvested in spring.",
+      "source": ""
+    },
+    {
+      "id": "Q023",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Geography",
+      "chapter": "Physiography",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Baba Budan hills are part of which physiographic region?",
+      "options": {
+        "A": "Deccan coastal plain",
+        "B": "Northern Maidan",
+        "C": "Western Ghats",
+        "D": "Eastern Ghats"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Baba Budan hills form part of the Western Ghats in central Karnataka.",
+      "source": ""
+    },
+    {
+      "id": "Q024",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Geography",
+      "chapter": "Rivers and dams",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Tungabhadra project is a joint multipurpose project associated principally with which two states?",
+      "options": {
+        "A": "Karnataka and Goa",
+        "B": "Karnataka and Maharashtra",
+        "C": "Karnataka and Tamil Nadu",
+        "D": "Karnataka and Andhra Pradesh"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Tungabhadra project is shared by Karnataka and Andhra Pradesh, with the dam located near Hospet in Karnataka.",
+      "source": ""
+    },
+    {
+      "id": "Q025",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Minerals",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Kolar Gold Fields are located in which geological region?",
+      "options": {
+        "A": "Dharwar craton",
+        "B": "Aravalli belt",
+        "C": "Singhbhum belt",
+        "D": "Bundelkhand massif"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Kolar Gold Fields lie within the ancient Dharwar craton of southern India.",
+      "source": ""
+    },
+    {
+      "id": "Q026",
+      "subject": "General Knowledge",
+      "topic": "Indian Geography",
+      "chapter": "Climate",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Western disturbances that bring winter precipitation to northwestern India generally originate in the:",
+      "options": {
+        "A": "South China Sea",
+        "B": "Mediterranean and adjoining west Asian region",
+        "C": "Arabian Sea alone",
+        "D": "Bay of Bengal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Western disturbances are extra-tropical systems originating around the Mediterranean-west Asian region and move eastward.",
+      "source": ""
+    },
+    {
+      "id": "Q027",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Constitutional bodies",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which constitutional authority has the power to decide disputes regarding the disqualification of Members of Parliament under the Tenth Schedule, subject to judicial review?",
+      "options": {
+        "A": "Election Commission",
+        "B": "President acting independently",
+        "C": "Speaker/Chairman of the concerned House",
+        "D": "Union Public Service Commission"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under the Tenth Schedule, the Speaker or Chairman decides disqualification questions; the decision is subject to judicial review.",
+      "source": ""
+    },
+    {
+      "id": "Q028",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Federalism",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Inter-State Council is provided for under which Article of the Constitution?",
+      "options": {
+        "A": "Article 356",
+        "B": "Article 280",
+        "C": "Article 324",
+        "D": "Article 263"
+      },
+      "correctAnswer": "D",
+      "explanation": "Article 263 provides for the establishment of an Inter-State Council to facilitate coordination between states.",
+      "source": ""
+    },
+    {
+      "id": "Q029",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Parliament",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A Money Bill can be introduced in the Lok Sabha only on the recommendation of the:",
+      "options": {
+        "A": "President",
+        "B": "Prime Minister",
+        "C": "Speaker",
+        "D": "Finance Commission"
+      },
+      "correctAnswer": "A",
+      "explanation": "Article 117 requires the President's recommendation for introduction of a Money Bill in the Lok Sabha.",
+      "source": ""
+    },
+    {
+      "id": "Q030",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Judiciary",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The power of the Supreme Court to issue writs for enforcement of Fundamental Rights is provided under:",
+      "options": {
+        "A": "Article 136",
+        "B": "Article 32",
+        "C": "Article 141",
+        "D": "Article 226"
+      },
+      "correctAnswer": "B",
+      "explanation": "Article 32 guarantees the right to move the Supreme Court for enforcement of Fundamental Rights.",
+      "source": ""
+    },
+    {
+      "id": "Q031",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Emergency provisions",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A proclamation of National Emergency under Article 352 must be approved by Parliament within:",
+      "options": {
+        "A": "Six months",
+        "B": "Two months",
+        "C": "One month",
+        "D": "One year"
+      },
+      "correctAnswer": "C",
+      "explanation": "A National Emergency proclamation must be approved by both Houses within one month, with special majority requirements.",
+      "source": ""
+    },
+    {
+      "id": "Q032",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Local government",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Eleventh Schedule of the Constitution is associated with:",
+      "options": {
+        "A": "Anti-defection provisions",
+        "B": "Languages",
+        "C": "Municipalities",
+        "D": "Panchayats"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Eleventh Schedule lists 29 subjects that may be devolved to Panchayats under Part IX.",
+      "source": ""
+    },
+    {
+      "id": "Q033",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Constitutional amendments",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following requires ratification by at least half of the State Legislatures for a constitutional amendment?",
+      "options": {
+        "A": "Changing the election of the President",
+        "B": "Changing the citizenship provisions",
+        "C": "Altering the salaries of MPs",
+        "D": "Creating a new All India Service"
+      },
+      "correctAnswer": "A",
+      "explanation": "Changes affecting the federal scheme, including the election of the President, require ratification by at least half of the states under Article 368.",
+      "source": ""
+    },
+    {
+      "id": "Q034",
+      "subject": "General Knowledge",
+      "topic": "Public Administration",
+      "chapter": "Administrative principles",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The principle of 'span of control' in administration refers to:",
+      "options": {
+        "A": "The number of departments in a ministry",
+        "B": "The number of subordinates directly supervised by a superior",
+        "C": "The length of an officer's service",
+        "D": "The geographical area of a district"
+      },
+      "correctAnswer": "B",
+      "explanation": "Span of control is the number of subordinates a manager can effectively supervise.",
+      "source": ""
+    },
+    {
+      "id": "Q035",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "State executive",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Who administers the oath of office to the Governor of a State?",
+      "options": {
+        "A": "Speaker of the Legislative Assembly",
+        "B": "Chief Minister",
+        "C": "Chief Justice of the High Court of that State, or the senior-most available judge",
+        "D": "President of India"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Governor is sworn in by the Chief Justice of the State High Court or, in their absence, the senior-most available judge.",
+      "source": ""
+    },
+    {
+      "id": "Q036",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Parliamentary procedure",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A joint sitting of Parliament is not available for which of the following bills?",
+      "options": {
+        "A": "Ordinary Bill",
+        "B": "Financial Bill (Category II)",
+        "C": "A bill other than a Money Bill",
+        "D": "Constitution Amendment Bill"
+      },
+      "correctAnswer": "D",
+      "explanation": "Article 108 provides for joint sittings in certain legislative deadlocks, but not for Money Bills or Constitution Amendment Bills.",
+      "source": ""
+    },
+    {
+      "id": "Q037",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Constitutional offices",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Comptroller and Auditor General of India can be removed from office in the same manner and on the same grounds as a:",
+      "options": {
+        "A": "Supreme Court judge",
+        "B": "Governor",
+        "C": "Chief Election Commissioner",
+        "D": "Cabinet Minister"
+      },
+      "correctAnswer": "A",
+      "explanation": "The CAG enjoys removal protection equivalent to that of a Supreme Court judge.",
+      "source": ""
+    },
+    {
+      "id": "Q038",
+      "subject": "General Knowledge",
+      "topic": "Indian Constitution",
+      "chapter": "Schedules",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Ninth Schedule was originally introduced into the Constitution by which Amendment?",
+      "options": {
+        "A": "Forty-second Amendment",
+        "B": "First Amendment",
+        "C": "Seventh Amendment",
+        "D": "Twenty-fourth Amendment"
+      },
+      "correctAnswer": "B",
+      "explanation": "The First Constitutional Amendment Act, 1951 inserted the Ninth Schedule.",
+      "source": ""
+    },
+    {
+      "id": "Q039",
+      "subject": "General Knowledge",
+      "topic": "Indian Economy",
+      "chapter": "Monetary policy",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "When the Reserve Bank of India increases the repo rate, the immediate intended effect is generally to:",
+      "options": {
+        "A": "Make short-term borrowing by banks cheaper",
+        "B": "Increase government tax revenue automatically",
+        "C": "Increase the cost of borrowing from the RBI and moderate credit growth",
+        "D": "Reduce the statutory liquidity ratio"
+      },
+      "correctAnswer": "C",
+      "explanation": "A higher repo rate raises the cost of funds for banks and is generally used to restrain inflationary credit demand.",
+      "source": ""
+    },
+    {
+      "id": "Q040",
+      "subject": "General Knowledge",
+      "topic": "Indian Economy",
+      "chapter": "National income",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which of the following is excluded while calculating GDP at market prices to avoid double counting?",
+      "options": {
+        "A": "Final consumption expenditure",
+        "B": "Value added at each stage of production",
+        "C": "Government final expenditure",
+        "D": "Intermediate goods used in producing final goods"
+      },
+      "correctAnswer": "D",
+      "explanation": "Intermediate goods are excluded because their value is embodied in final goods; counting both would double count output.",
+      "source": ""
+    },
+    {
+      "id": "Q041",
+      "subject": "General Knowledge",
+      "topic": "Indian Economy",
+      "chapter": "Fiscal policy",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A fiscal deficit occurs when:",
+      "options": {
+        "A": "Total expenditure exceeds total receipts excluding borrowings",
+        "B": "Tax revenue exceeds non-tax revenue",
+        "C": "Revenue receipts exceed revenue expenditure",
+        "D": "Exports exceed imports"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings.",
+      "source": ""
+    },
+    {
+      "id": "Q042",
+      "subject": "General Knowledge",
+      "topic": "Indian Economy",
+      "chapter": "Banking",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Cash Reserve Ratio (CRR) requires scheduled commercial banks to maintain a prescribed share of their net demand and time liabilities as:",
+      "options": {
+        "A": "Gold with the Ministry of Finance",
+        "B": "Cash balance with the RBI",
+        "C": "Government securities with NABARD",
+        "D": "Foreign currency deposits"
+      },
+      "correctAnswer": "B",
+      "explanation": "CRR is the cash balance banks must maintain with the RBI as a proportion of NDTL.",
+      "source": ""
+    },
+    {
+      "id": "Q043",
+      "subject": "General Knowledge",
+      "topic": "Rural Development",
+      "chapter": "Panchayat Raj",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Gram Sabha consists of:",
+      "options": {
+        "A": "Only elected members of the Gram Panchayat",
+        "B": "Only land-owning residents",
+        "C": "All persons registered in the electoral rolls relating to a village within the Panchayat area",
+        "D": "Village-level government employees"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Gram Sabha comprises all persons registered in the electoral rolls of the village area covered by the Gram Panchayat.",
+      "source": ""
+    },
+    {
+      "id": "Q044",
+      "subject": "General Knowledge",
+      "topic": "Rural Development",
+      "chapter": "Rural employment",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Under MGNREGA, the statutory guarantee is primarily for:",
+      "options": {
+        "A": "100 days of employment for every adult individual",
+        "B": "Permanent government employment for one member of each household",
+        "C": "Unemployment allowance without a demand for work",
+        "D": "100 days of wage employment per rural household in a financial year, subject to the Act"
+      },
+      "correctAnswer": "D",
+      "explanation": "MGNREGA guarantees up to 100 days of unskilled manual wage employment per rural household whose adult members volunteer for work.",
+      "source": ""
+    },
+    {
+      "id": "Q045",
+      "subject": "General Knowledge",
+      "topic": "Rural Development",
+      "chapter": "Land reforms",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The primary objective of tenancy reforms in post-independence India was to:",
+      "options": {
+        "A": "Provide security to tenants and regulate rent, including ownership rights in some states",
+        "B": "Increase intermediaries between cultivator and state",
+        "C": "Replace all food crops with commercial crops",
+        "D": "Transfer all agricultural land to public-sector companies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tenancy reforms aimed to protect cultivators through regulation of rent, security of tenure and, in some cases, conferment of ownership.",
+      "source": ""
+    },
+    {
+      "id": "Q046",
+      "subject": "General Knowledge",
+      "topic": "Indian Economy",
+      "chapter": "External sector",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A depreciation of the domestic currency, other things remaining equal, tends to make:",
+      "options": {
+        "A": "Imports cheaper in domestic currency",
+        "B": "Exports cheaper for foreign buyers and imports costlier domestically",
+        "C": "Both exports and imports automatically fall to zero",
+        "D": "The fiscal deficit disappear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Currency depreciation generally improves price competitiveness of exports and raises the domestic cost of imports, other things equal.",
+      "source": ""
+    },
+    {
+      "id": "Q047",
+      "subject": "General Knowledge",
+      "topic": "Rural Development",
+      "chapter": "Cooperatives",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The principal purpose of a Primary Agricultural Credit Society (PACS) is to:",
+      "options": {
+        "A": "Conduct national-level monetary policy",
+        "B": "Regulate stock exchanges",
+        "C": "Provide short-term credit and related services to rural members",
+        "D": "Issue currency notes"
+      },
+      "correctAnswer": "C",
+      "explanation": "PACS are grassroots cooperative credit institutions serving farmers and rural members.",
+      "source": ""
+    },
+    {
+      "id": "Q048",
+      "subject": "General Knowledge",
+      "topic": "Karnataka Economy",
+      "chapter": "Irrigation and agriculture",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Upper Krishna Project is primarily intended to utilise the waters of which river basin?",
+      "options": {
+        "A": "Kaveri",
+        "B": "Pennar",
+        "C": "Godavari",
+        "D": "Krishna"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Upper Krishna Project is a major irrigation project in Karnataka using Krishna river waters.",
+      "source": ""
+    },
+    {
+      "id": "Q049",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Physics",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A body moving in a circle at constant speed is accelerated because:",
+      "options": {
+        "A": "Its velocity direction changes continuously",
+        "B": "Its mass changes continuously",
+        "C": "Its kinetic energy increases continuously",
+        "D": "No force acts on it"
+      },
+      "correctAnswer": "A",
+      "explanation": "Velocity is a vector; changing direction means changing velocity, hence centripetal acceleration.",
+      "source": ""
+    },
+    {
+      "id": "Q050",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Physics",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In a transformer, the frequency of the secondary alternating voltage is:",
+      "options": {
+        "A": "Dependent only on the turns ratio",
+        "B": "The same as the primary frequency",
+        "C": "Greater than the primary frequency",
+        "D": "Less than the primary frequency"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ideal transformer changes voltage and current levels, not the supply frequency.",
+      "source": ""
+    },
+    {
+      "id": "Q051",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Chemistry",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which type of chemical bond is formed by sharing electron pairs between atoms?",
+      "options": {
+        "A": "Ionic",
+        "B": "Metallic",
+        "C": "Covalent",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "C",
+      "explanation": "A covalent bond involves sharing of one or more pairs of electrons.",
+      "source": ""
+    },
+    {
+      "id": "Q052",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Chemistry",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A solution with pH 3 has how many times the hydrogen-ion concentration of a solution with pH 5?",
+      "options": {
+        "A": "2 times",
+        "B": "10 times",
+        "C": "1,000 times",
+        "D": "100 times"
+      },
+      "correctAnswer": "D",
+      "explanation": "Each pH unit represents a tenfold change in hydrogen-ion concentration; a difference of two units means 100 times.",
+      "source": ""
+    },
+    {
+      "id": "Q053",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Biology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which blood component is primarily responsible for initiating clot formation?",
+      "options": {
+        "A": "Platelets",
+        "B": "Plasma albumin",
+        "C": "Lymphocytes",
+        "D": "Red blood cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Platelets adhere and aggregate at an injury site and help initiate the clotting process.",
+      "source": ""
+    },
+    {
+      "id": "Q054",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Biology",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In human beings, the exchange of gases between alveolar air and blood occurs mainly by:",
+      "options": {
+        "A": "Active transport",
+        "B": "Diffusion across the respiratory membrane",
+        "C": "Osmosis",
+        "D": "Filtration under high pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen and carbon dioxide move down their partial-pressure gradients by diffusion across the thin alveolar-capillary membrane.",
+      "source": ""
+    },
+    {
+      "id": "Q055",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Biology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which part of a plant is primarily responsible for the absorption of water and mineral salts from soil?",
+      "options": {
+        "A": "Xylem vessels in leaves",
+        "B": "Stomata",
+        "C": "Root hairs",
+        "D": "Pollen grains"
+      },
+      "correctAnswer": "C",
+      "explanation": "Root hairs increase surface area and absorb water and dissolved mineral ions from the soil.",
+      "source": ""
+    },
+    {
+      "id": "Q056",
+      "subject": "General Knowledge",
+      "topic": "Science & Technology",
+      "chapter": "Space technology",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A geostationary satellite appears stationary relative to an observer on Earth because it:",
+      "options": {
+        "A": "Has zero orbital velocity",
+        "B": "Orbits over the poles once every 24 hours",
+        "C": "Remains outside Earth's gravitational field",
+        "D": "Has an orbital period equal to Earth's rotation and moves in the equatorial plane in the same direction"
+      },
+      "correctAnswer": "D",
+      "explanation": "A geostationary satellite has a circular equatorial orbit with a period matching Earth's sidereal rotation.",
+      "source": ""
+    },
+    {
+      "id": "Q057",
+      "subject": "General Knowledge",
+      "topic": "Science & Technology",
+      "chapter": "Biotechnology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The polymerase chain reaction (PCR) is primarily used to:",
+      "options": {
+        "A": "Amplify specific DNA sequences",
+        "B": "Separate proteins by size",
+        "C": "Determine blood pressure",
+        "D": "Produce antibodies directly"
+      },
+      "correctAnswer": "A",
+      "explanation": "PCR repeatedly copies a target DNA segment, generating many copies for analysis.",
+      "source": ""
+    },
+    {
+      "id": "Q058",
+      "subject": "General Knowledge",
+      "topic": "Science & Technology",
+      "chapter": "Information technology",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "In artificial intelligence, a model is said to be overfitting when it:",
+      "options": {
+        "A": "Performs poorly on training data but well on unseen data",
+        "B": "Learns training data too closely and generalises poorly to unseen data",
+        "C": "Has too few parameters to learn any pattern",
+        "D": "Uses no input data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Overfitting occurs when a model captures noise or idiosyncrasies in training data and performs poorly on new data.",
+      "source": ""
+    },
+    {
+      "id": "Q059",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Physics",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The working principle of an optical fibre is primarily based on:",
+      "options": {
+        "A": "Polarisation",
+        "B": "Photoelectric effect",
+        "C": "Total internal reflection",
+        "D": "Diffraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Light is guided through the fibre core by repeated total internal reflection.",
+      "source": ""
+    },
+    {
+      "id": "Q060",
+      "subject": "General Knowledge",
+      "topic": "General Science",
+      "chapter": "Chemistry",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Which method is most suitable for separating two miscible liquids with substantially different boiling points?",
+      "options": {
+        "A": "Magnetic separation",
+        "B": "Filtration",
+        "C": "Sublimation",
+        "D": "Simple distillation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Simple distillation can separate miscible liquids when their boiling points differ sufficiently.",
+      "source": ""
+    },
+    {
+      "id": "Q061",
+      "subject": "General Knowledge",
+      "topic": "Environment",
+      "chapter": "Ecology",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In an ecological pyramid, the pyramid of energy is always:",
+      "options": {
+        "A": "Upright",
+        "B": "Inverted",
+        "C": "Spindle-shaped",
+        "D": "Variable in direction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Energy decreases at each successive trophic level, so the energy pyramid is always upright.",
+      "source": ""
+    },
+    {
+      "id": "Q062",
+      "subject": "General Knowledge",
+      "topic": "Environment",
+      "chapter": "Biodiversity",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A species restricted naturally to a particular geographical region is described as:",
+      "options": {
+        "A": "Invasive",
+        "B": "Endemic",
+        "C": "Migratory",
+        "D": "Cosmopolitan"
+      },
+      "correctAnswer": "B",
+      "explanation": "An endemic species is native to and restricted to a specific geographic area.",
+      "source": ""
+    },
+    {
+      "id": "Q063",
+      "subject": "General Knowledge",
+      "topic": "Environment",
+      "chapter": "Climate change",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Which gas is the largest contributor to anthropogenic radiative forcing among the long-lived greenhouse gases?",
+      "options": {
+        "A": "Neon",
+        "B": "Argon",
+        "C": "Carbon dioxide",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon dioxide is the largest contributor to human-caused radiative forcing among long-lived greenhouse gases.",
+      "source": ""
+    },
+    {
+      "id": "Q064",
+      "subject": "General Knowledge",
+      "topic": "Environment",
+      "chapter": "Pollution",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Eutrophication of a lake is most directly associated with excessive input of:",
+      "options": {
+        "A": "Calcium carbonate alone",
+        "B": "Silica and sodium chloride",
+        "C": "Helium and neon",
+        "D": "Nitrates and phosphates"
+      },
+      "correctAnswer": "D",
+      "explanation": "Excess nutrients, especially nitrogen and phosphorus compounds, promote algal blooms and oxygen depletion.",
+      "source": ""
+    },
+    {
+      "id": "Q065",
+      "subject": "General Knowledge",
+      "topic": "Environment",
+      "chapter": "Conservation",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Ramsar Convention is primarily concerned with the conservation and wise use of:",
+      "options": {
+        "A": "Wetlands",
+        "B": "Deserts",
+        "C": "Coral minerals",
+        "D": "Mountain glaciers"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Ramsar Convention is an international treaty for wetlands of international importance.",
+      "source": ""
+    },
+    {
+      "id": "Q066",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International organisations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The headquarters of the International Solar Alliance is located in:",
+      "options": {
+        "A": "New Delhi",
+        "B": "Gurugram",
+        "C": "Geneva",
+        "D": "Nairobi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The International Solar Alliance is headquartered in Gurugram, Haryana.",
+      "source": ""
+    },
+    {
+      "id": "Q067",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International relations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The African Union became a permanent member of the G20 at which summit?",
+      "options": {
+        "A": "Bali Summit, 2022",
+        "B": "Rio de Janeiro Summit, 2024",
+        "C": "New Delhi Summit, 2023",
+        "D": "Johannesburg Summit, 2017"
+      },
+      "correctAnswer": "C",
+      "explanation": "The African Union was admitted as a permanent member during India's G20 presidency at the 2023 New Delhi Summit.",
+      "source": ""
+    },
+    {
+      "id": "Q068",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International organisations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The headquarters of the New Development Bank established by BRICS is in:",
+      "options": {
+        "A": "Moscow",
+        "B": "Johannesburg",
+        "C": "Beijing",
+        "D": "Shanghai"
+      },
+      "correctAnswer": "D",
+      "explanation": "The New Development Bank is headquartered in Shanghai, China.",
+      "source": ""
+    },
+    {
+      "id": "Q069",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Global climate policy",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Paris Agreement aims to hold the increase in global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit it to:",
+      "options": {
+        "A": "1.5°C",
+        "B": "1.8°C",
+        "C": "2.5°C",
+        "D": "3°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Paris Agreement sets the well-below-2°C goal while pursuing efforts to limit warming to 1.5°C.",
+      "source": ""
+    },
+    {
+      "id": "Q070",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Indian space programme",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Aditya-L1, India's solar observatory mission, is positioned in a halo orbit around:",
+      "options": {
+        "A": "Earth-Moon L2",
+        "B": "Sun-Earth L1",
+        "C": "Sun-Earth L2",
+        "D": "Mars-Sun L1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aditya-L1 operates in a halo orbit around the Sun-Earth L1 point to observe the Sun.",
+      "source": ""
+    },
+    {
+      "id": "Q071",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Indian space programme",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Chandrayaan-3 lander was named:",
+      "options": {
+        "A": "Aryabhata",
+        "B": "Dhruv",
+        "C": "Vikram",
+        "D": "Pragyan"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vikram was the Chandrayaan-3 lander; Pragyan was the rover.",
+      "source": ""
+    },
+    {
+      "id": "Q072",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Government programmes",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The PM Vishwakarma scheme is primarily designed to support:",
+      "options": {
+        "A": "Commercial airline pilots",
+        "B": "Large-scale export corporations",
+        "C": "Urban metro rail operators",
+        "D": "Traditional artisans and craftspeople"
+      },
+      "correctAnswer": "D",
+      "explanation": "PM Vishwakarma supports traditional artisans and craftspeople through recognition, training, toolkit support, credit and market linkages.",
+      "source": ""
+    },
+    {
+      "id": "Q073",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Government programmes",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The Aspirational Blocks Programme of NITI Aayog focuses on improving development outcomes at which administrative level?",
+      "options": {
+        "A": "Block",
+        "B": "District",
+        "C": "Gram Sabha ward",
+        "D": "State division"
+      },
+      "correctAnswer": "A",
+      "explanation": "The programme targets development indicators in selected blocks, complementing the Aspirational Districts Programme.",
+      "source": ""
+    },
+    {
+      "id": "Q074",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Indian economy",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Unified Payments Interface (UPI) is operated by:",
+      "options": {
+        "A": "Small Industries Development Bank of India",
+        "B": "National Payments Corporation of India",
+        "C": "Securities and Exchange Board of India",
+        "D": "Insurance Regulatory and Development Authority of India"
+      },
+      "correctAnswer": "B",
+      "explanation": "NPCI operates UPI as part of India's retail payment infrastructure.",
+      "source": ""
+    },
+    {
+      "id": "Q075",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International awards",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The Nobel Peace Prize is awarded by a committee appointed by the parliament of:",
+      "options": {
+        "A": "Sweden",
+        "B": "Denmark",
+        "C": "Norway",
+        "D": "Finland"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Norwegian Nobel Committee, appointed by the Norwegian Parliament, awards the Nobel Peace Prize.",
+      "source": ""
+    },
+    {
+      "id": "Q076",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International relations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The headquarters of the International Court of Justice is located at:",
+      "options": {
+        "A": "Geneva",
+        "B": "New York",
+        "C": "Vienna",
+        "D": "The Hague"
+      },
+      "correctAnswer": "D",
+      "explanation": "The ICJ is based at the Peace Palace in The Hague, Netherlands.",
+      "source": ""
+    },
+    {
+      "id": "Q077",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Indian governance",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The National Green Tribunal was established primarily for:",
+      "options": {
+        "A": "Adjudication of civil cases involving environmental protection and conservation",
+        "B": "Auditing public sector accounts",
+        "C": "Regulating monetary policy",
+        "D": "Conducting elections to local bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "The NGT provides specialised adjudication on environmental protection, forest conservation and related matters.",
+      "source": ""
+    },
+    {
+      "id": "Q078",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Digital governance",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "DigiLocker is primarily intended to provide citizens with:",
+      "options": {
+        "A": "A platform for cryptocurrency trading",
+        "B": "A digital platform for issuance and verification of documents and certificates",
+        "C": "A satellite navigation service",
+        "D": "A centralised tax tribunal"
+      },
+      "correctAnswer": "B",
+      "explanation": "DigiLocker is a government-backed digital document wallet for issuing, storing and verifying authentic digital documents.",
+      "source": ""
+    },
+    {
+      "id": "Q079",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "International organisations",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The World Trade Organization (WTO) came into existence on:",
+      "options": {
+        "A": "24 October 1945",
+        "B": "1 January 1991",
+        "C": "1 January 1995",
+        "D": "1 July 2002"
+      },
+      "correctAnswer": "C",
+      "explanation": "The WTO began operations on 1 January 1995, succeeding the GATT framework.",
+      "source": ""
+    },
+    {
+      "id": "Q080",
+      "subject": "General Knowledge",
+      "topic": "Current Affairs",
+      "chapter": "Science and technology policy",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "The term 'One Health' refers to an integrated approach recognising the interconnection between:",
+      "options": {
+        "A": "Only human clinical medicine and surgery",
+        "B": "Agriculture and banking alone",
+        "C": "Space science and oceanography",
+        "D": "Human, animal and environmental health"
+      },
+      "correctAnswer": "D",
+      "explanation": "One Health recognises that human, animal and ecosystem health are closely interconnected.",
+      "source": ""
+    },
+    {
+      "id": "Q081",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Number series",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Find the next number in the series: 3, 8, 18, 38, 78, ___.",
+      "options": {
+        "A": "158",
+        "B": "156",
+        "C": "148",
+        "D": "160"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each term is twice the previous term plus 2: 3×2+2=8, 8×2+2=18, so 78×2+2=158.",
+      "source": ""
+    },
+    {
+      "id": "Q082",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Number series",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Find the missing term: 2, 6, 15, 31, 56, ___.",
+      "options": {
+        "A": "82",
+        "B": "92",
+        "C": "96",
+        "D": "102"
+      },
+      "correctAnswer": "B",
+      "explanation": "The successive differences are 4, 9, 16, 25, which are squares; next difference is 36, giving 92.",
+      "source": ""
+    },
+    {
+      "id": "Q083",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Coding-decoding",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a code, each letter is replaced by the letter three places ahead in the English alphabet. How is 'PLANT' coded?",
+      "options": {
+        "A": "SNCQW",
+        "B": "SODQX",
+        "C": "SODQW",
+        "D": "QODQW"
+      },
+      "correctAnswer": "C",
+      "explanation": "P→S, L→O, A→D, N→Q, T→W; therefore SODQW.",
+      "source": ""
+    },
+    {
+      "id": "Q084",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Direction sense",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A person walks 8 km north, turns right and walks 6 km, then turns right and walks 8 km. How far and in which direction is the person from the starting point?",
+      "options": {
+        "A": "14 km south",
+        "B": "6 km west",
+        "C": "8 km east",
+        "D": "6 km east"
+      },
+      "correctAnswer": "D",
+      "explanation": "The north and south movements cancel; the person is 6 km east of the starting point.",
+      "source": ""
+    },
+    {
+      "id": "Q085",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Blood relations",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Pointing to a woman, Ravi says, 'Her mother's only son is my father.' How is the woman related to Ravi?",
+      "options": {
+        "A": "Paternal aunt",
+        "B": "Mother",
+        "C": "Sister",
+        "D": "Grandmother"
+      },
+      "correctAnswer": "A",
+      "explanation": "The woman's mother's only son is Ravi's father; therefore the woman is the sister of Ravi's father, his paternal aunt.",
+      "source": ""
+    },
+    {
+      "id": "Q086",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Syllogism",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Statements: All auditors are graduates. Some graduates are writers. Conclusions: I. Some auditors are writers. II. All auditors are graduates. Which conclusion follows?",
+      "options": {
+        "A": "Both I and II",
+        "B": "Only II",
+        "C": "Only I",
+        "D": "Neither I nor II"
+      },
+      "correctAnswer": "B",
+      "explanation": "Conclusion II directly restates the first statement. The overlap between auditors and writers is not established, so I does not follow.",
+      "source": ""
+    },
+    {
+      "id": "Q087",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Logical sequence",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "Select the correct order from smallest administrative unit to largest:",
+      "options": {
+        "A": "State – District – Taluk – Village",
+        "B": "Taluk – Village – State – District",
+        "C": "Village – Taluk – District – State",
+        "D": "District – Village – Taluk – State"
+      },
+      "correctAnswer": "C",
+      "explanation": "The usual administrative hierarchy is village, taluk, district and state.",
+      "source": ""
+    },
+    {
+      "id": "Q088",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Ranking",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "In a row of  forty candidates, Meera is 12th from the left. What is her position from the right?",
+      "options": {
+        "A": "27th",
+        "B": "28th",
+        "C": "30th",
+        "D": "29th"
+      },
+      "correctAnswer": "D",
+      "explanation": "Position from right = 40 − 12 + 1 = 29.",
+      "source": ""
+    },
+    {
+      "id": "Q089",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Analytical reasoning",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "Five files P, Q, R, S and T are arranged in a row. P is to the left of Q; R is to the right of Q; S is to the left of P; T is to the right of R. Which file must be in the middle?",
+      "options": {
+        "A": "Q",
+        "B": "P",
+        "C": "R",
+        "D": "Cannot be determined"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a non-leap year, January has 31 days, shifting Monday by 3 days to Thursday; February has 28 days, so 1 March is also Thursday.",
+      "source": ""
+    },
+    {
+      "id": "Q090",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Calendar",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If 1 January of a non-leap year is a Monday, what day of the week is 1 March of that year?",
+      "options": {
+        "A": "Wednesday",
+        "B": "Thursday",
+        "C": "Friday",
+        "D": "Saturday"
+      },
+      "correctAnswer": "B",
+      "explanation": "At 4:m, the hour hand is at 120 + 0.5m degrees and the minute hand at 6m degrees. For opposite hands, 6m − (120 + 0.5m) = 180, so 5.5m = 300 and m = 54 6/11 minutes. The required time is 4:54 6/11.",
+      "source": ""
+    },
+    {
+      "id": "Q091",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Clock",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "At what time between 4 and 5 o'clock are the hands of a clock exactly opposite each other?",
+      "options": {
+        "A": "4:05 5/11",
+        "B": "4:54 6/11",
+        "C": "4:32 8/11",
+        "D": "4:38 2/11"
+      },
+      "correctAnswer": "C",
+      "explanation": "At 4:m, angle difference is |120 − 5.5m|. Setting it to 180° gives m=300/5.5=600/11=54 6/11; the hands are opposite at 4:54 6/11.",
+      "source": ""
+    },
+    {
+      "id": "Q092",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Percentage",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "A number is first increased by 20% and then decreased by 20%. The final number is:",
+      "options": {
+        "A": "Unchanged",
+        "B": "8% less than the original",
+        "C": "4% more than the original",
+        "D": "4% less than the original"
+      },
+      "correctAnswer": "D",
+      "explanation": "Multiplying by 1.2 and then 0.8 gives 0.96, so the final value is 4% lower.",
+      "source": ""
+    },
+    {
+      "id": "Q093",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Ratio",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The ratio of two numbers is 5:7 and their difference is 24. What is the larger number?",
+      "options": {
+        "A": "84",
+        "B": "72",
+        "C": "96",
+        "D": "60"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two ratio parts equal 24, so one part is 12; the larger number is 7×12=84.",
+      "source": ""
+    },
+    {
+      "id": "Q094",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Time and work",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A can complete a task in 12 days and B in 18 days. Working together at constant rates, how many days will they take?",
+      "options": {
+        "A": "6 days",
+        "B": "7.2 days",
+        "C": "8 days",
+        "D": "9 days"
+      },
+      "correctAnswer": "B",
+      "explanation": "Combined daily work = 1/12 + 1/18 = 5/36; time = 36/5 = 7.2 days.",
+      "source": ""
+    },
+    {
+      "id": "Q095",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Average",
+      "difficulty": "Medium",
+      "language": "English",
+      "question": "The average of 7 numbers is 18. If one number, 24, is replaced by 31, what is the new average?",
+      "options": {
+        "A": "18",
+        "B": "20",
+        "C": "19",
+        "D": "21"
+      },
+      "correctAnswer": "C",
+      "explanation": "The total increases by 7; new average = (7×18 + 7)/7 = 19.",
+      "source": ""
+    },
+    {
+      "id": "Q096",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Profit and loss",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "An article is marked 25% above cost price and sold after a discount of 10% on the marked price. What is the profit percentage?",
+      "options": {
+        "A": "17.5%",
+        "B": "10%",
+        "C": "15%",
+        "D": "12.5%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Selling price = 1.25×0.90 = 1.125 times cost price, giving 12.5% profit.",
+      "source": ""
+    },
+    {
+      "id": "Q097",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Data interpretation",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A department processed 240 files in April and 300 in May. What was the percentage increase in files processed?",
+      "options": {
+        "A": "25%",
+        "B": "20%",
+        "C": "30%",
+        "D": "35%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Increase = 60; percentage increase = 60/240 × 100 = 25%.",
+      "source": ""
+    },
+    {
+      "id": "Q098",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Probability",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "A bag contains 4 red, 3 blue and 5 green balls. One ball is drawn at random. What is the probability that it is not blue?",
+      "options": {
+        "A": "1/4",
+        "B": "3/4",
+        "C": "1/2",
+        "D": "5/12"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are 9 non-blue balls out of 12; probability = 9/12 = 3/4.",
+      "source": ""
+    },
+    {
+      "id": "Q099",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Permutation and combination",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "How many different two-letter arrangements can be formed from the letters A, B, C and D without repetition?",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "16"
+      },
+      "correctAnswer": "C",
+      "explanation": "There are 4 choices for the first position and 3 for the second: 4×3=12.",
+      "source": ""
+    },
+    {
+      "id": "Q100",
+      "subject": "General Knowledge",
+      "topic": "Mental Ability",
+      "chapter": "Logical deduction",
+      "difficulty": "Hard",
+      "language": "English",
+      "question": "If all files marked 'urgent' are reviewed today, and file X is not reviewed today, which conclusion is logically valid?",
+      "options": {
+        "A": "File X is urgent",
+        "B": "No conclusion is possible",
+        "C": "File X is incomplete",
+        "D": "File X is not urgent"
+      },
+      "correctAnswer": "D",
+      "explanation": "By contraposition, if all urgent files are reviewed today and X was not reviewed, X cannot be urgent.",
+      "source": ""
+    }
+  ]
+}

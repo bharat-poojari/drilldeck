@@ -1,14 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest daily current-affairs questions generated from RSS headlines.",
-  "date": null,
-  "generatedAt": null,
-  "updatedAt": null,
+  "description": "Latest RSS-based current-affairs questions for 2026-11-17.",
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T06:59:00+05:30",
+  "updatedAt": "2026-11-17T06:59:00+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
-  "questionCount": 0,
-  "rssSources": [],
-  "questions": []
+  "questionCount": 10,
+  "rssSources": [
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/committee-to-inspect-valagerahalli-lake/article71707799.ece",
+      "title": "Committee to inspect Valagerahalli Lake"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/rare-jaffarabadi-panchakalyani-steals-the-show-at-krishi-mela/article71708908.ece",
+      "title": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/29th-edition-of-bengaluru-tech-summit-to-kick-off-today/article71709164.ece",
+      "title": "29th edition of Bengaluru Tech Summit to kick off on November 17"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-leads-country-in-voluntary-disclosure-of-foreign-assets/article71708691.ece",
+      "title": "Bengaluru leads country in voluntary disclosure of foreign assets"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/deve-gowda-writes-to-prime-minister-narendra-modi-seeking-review-of-cauvery-tribunal-award-in-the-light-of-climate-change/article71709132.ece",
+      "title": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-samithi-seeks-new-tribunal-to-resolve-cauvery-dispute-report/article71708912.ece",
+      "title": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/documentary-on-siddharoodha-swami-released-in-hubballi/article71708901.ece",
+      "title": "Documentary on Siddharoodha Swami released in Hubballi"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/kumara-krupa-guest-house-now-turned-into-chief-ministers-official-residence-renamed-ganga/article71707937.ece",
+      "title": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/cctv-footage-shows-dog-left-meat-in-front-of-gundlupet-temple-police/article71708864.ece",
+      "title": "CCTV footage shows dog left meat in front of Gundlupet temple: Police"
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/karnataka/mid-day-meal-workers-oppose-centralised-kitchens-seek-release-of-pending-honorarium/article71708793.ece",
+      "title": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium"
+    }
+  ],
+  "questions": [
+    {
+      "id": "CA-2026-11-17-e0abc8666204",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Committee to inspect Valagerahalli Lake",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nIt directs BWSSB, civic body to stop sewage inflow, clear waste and take up lake rejuvenation",
+      "options": {
+        "A": "29th edition of Bengaluru Tech Summit to kick off on November 17",
+        "B": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru",
+        "C": "Committee to inspect Valagerahalli Lake",
+        "D": "Bengaluru leads country in voluntary disclosure of foreign assets"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Committee to inspect Valagerahalli Lake (2026-11-17) - https://www.thehindu.com/news/national/karnataka/committee-to-inspect-valagerahalli-lake/article71707799.ece",
+      "newsDate": "2026-11-17",
+      "newsTitle": "Committee to inspect Valagerahalli Lake",
+      "newsSummary": "It directs BWSSB, civic body to stop sewage inflow, clear waste and take up lake rejuvenation",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/committee-to-inspect-valagerahalli-lake/article71707799.ece"
+    },
+    {
+      "id": "CA-2026-11-17-13071536a66e",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nKrishnamurthy, a dairy farmer from Begur in Bengaluru, claimed that currently it is the only buffalo of this rare variety available in Bengaluru, which he had sourced from Gujarat",
+      "options": {
+        "A": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change",
+        "B": "Bengaluru leads country in voluntary disclosure of foreign assets",
+        "C": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru",
+        "D": "29th edition of Bengaluru Tech Summit to kick off on November 17"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru (2026-11-17) - https://www.thehindu.com/news/national/karnataka/rare-jaffarabadi-panchakalyani-steals-the-show-at-krishi-mela/article71708908.ece",
+      "newsDate": "2026-11-17",
+      "newsTitle": "Rare Jaffarabadi-Panchakalyani steals the show at Krishi Mela in Bengaluru",
+      "newsSummary": "Krishnamurthy, a dairy farmer from Begur in Bengaluru, claimed that currently it is the only buffalo of this rare variety available in Bengaluru, which he had sourced from Gujarat",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/rare-jaffarabadi-panchakalyani-steals-the-show-at-krishi-mela/article71708908.ece"
+    },
+    {
+      "id": "CA-2026-11-17-9297b49eda88",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "29th edition of Bengaluru Tech Summit to kick off on November 17",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nChief Minister D.K. Shivakumar will inaugurate the three-day event, themed: “AI & Beyond,” on Tuesday morning",
+      "options": {
+        "A": "Bengaluru leads country in voluntary disclosure of foreign assets",
+        "B": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+        "C": "29th edition of Bengaluru Tech Summit to kick off on November 17",
+        "D": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "29th edition of Bengaluru Tech Summit to kick off on November 17 (2026-11-16) - https://www.thehindu.com/news/national/karnataka/29th-edition-of-bengaluru-tech-summit-to-kick-off-today/article71709164.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "29th edition of Bengaluru Tech Summit to kick off on November 17",
+      "newsSummary": "Chief Minister D.K. Shivakumar will inaugurate the three-day event, themed: “AI & Beyond,” on Tuesday morning",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/29th-edition-of-bengaluru-tech-summit-to-kick-off-today/article71709164.ece"
+    },
+    {
+      "id": "CA-2026-11-17-c6fdfa2394a3",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Bengaluru leads country in voluntary disclosure of foreign assets",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nFAST-DS 2026, which offers small taxpayers a faceless opportunity to disclose previously undeclared foreign assets or foreign-sourced income, will expire on December 31, 2026",
+      "options": {
+        "A": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change",
+        "B": "Documentary on Siddharoodha Swami released in Hubballi",
+        "C": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+        "D": "Bengaluru leads country in voluntary disclosure of foreign assets"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Bengaluru leads country in voluntary disclosure of foreign assets (2026-11-16) - https://www.thehindu.com/news/national/karnataka/bengaluru-leads-country-in-voluntary-disclosure-of-foreign-assets/article71708691.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Bengaluru leads country in voluntary disclosure of foreign assets",
+      "newsSummary": "FAST-DS 2026, which offers small taxpayers a faceless opportunity to disclose previously undeclared foreign assets or foreign-sourced income, will expire on December 31, 2026",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-leads-country-in-voluntary-disclosure-of-foreign-assets/article71708691.ece"
+    },
+    {
+      "id": "CA-2026-11-17-30e1c891bd66",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nHe writes to PM seeking revision of CWMA powers besides early clearance to Mekedatu project and increase in Karnataka’s share in Godavari-Cauvery linking project",
+      "options": {
+        "A": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+        "B": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’",
+        "C": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change",
+        "D": "Documentary on Siddharoodha Swami released in Hubballi"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change (2026-11-16) - https://www.thehindu.com/news/national/karnataka/deve-gowda-writes-to-prime-minister-narendra-modi-seeking-review-of-cauvery-tribunal-award-in-the-light-of-climate-change/article71709132.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Deve Gowda writes to Prime Minister Narendra Modi seeking review of Cauvery Tribunal Award in the light of climate change",
+      "newsSummary": "He writes to PM seeking revision of CWMA powers besides early clearance to Mekedatu project and increase in Karnataka’s share in Godavari-Cauvery linking project",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/deve-gowda-writes-to-prime-minister-narendra-modi-seeking-review-of-cauvery-tribunal-award-in-the-light-of-climate-change/article71709132.ece"
+    },
+    {
+      "id": "CA-2026-11-17-8d9d4fad0b82",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe samithi alleged that the Cauvery water-sharing verdict was delivered based on questionable documents submitted by Tamil Nadu.",
+      "options": {
+        "A": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’",
+        "B": "Documentary on Siddharoodha Swami released in Hubballi",
+        "C": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+        "D": "CCTV footage shows dog left meat in front of Gundlupet temple: Police"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report (2026-11-16) - https://www.thehindu.com/news/national/karnataka/mysuru-samithi-seeks-new-tribunal-to-resolve-cauvery-dispute-report/article71708912.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Mysuru: Samithi seeks new tribunal to resolve Cauvery dispute report",
+      "newsSummary": "The samithi alleged that the Cauvery water-sharing verdict was delivered based on questionable documents submitted by Tamil Nadu.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-samithi-seeks-new-tribunal-to-resolve-cauvery-dispute-report/article71708912.ece"
+    },
+    {
+      "id": "CA-2026-11-17-7c0d3e4e6e8a",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Documentary on Siddharoodha Swami released in Hubballi",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nTitled Shiva Ansh, the documentary seeks to introduce the life, spiritual journey and philosophy of the saint who preached Advaita philosophy",
+      "options": {
+        "A": "Documentary on Siddharoodha Swami released in Hubballi",
+        "B": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+        "C": "CCTV footage shows dog left meat in front of Gundlupet temple: Police",
+        "D": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’"
+      },
+      "correctAnswer": "A",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Documentary on Siddharoodha Swami released in Hubballi (2026-11-16) - https://www.thehindu.com/news/national/karnataka/documentary-on-siddharoodha-swami-released-in-hubballi/article71708901.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Documentary on Siddharoodha Swami released in Hubballi",
+      "newsSummary": "Titled Shiva Ansh, the documentary seeks to introduce the life, spiritual journey and philosophy of the saint who preached Advaita philosophy",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/documentary-on-siddharoodha-swami-released-in-hubballi/article71708901.ece"
+    },
+    {
+      "id": "CA-2026-11-17-b3c8af68ade2",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe Chief Minister says chose to relocate to the Kumara Krupa Guest House as the quarters sanctioned to him were small, and as the Kumara Krupa Guest House was not being used",
+      "options": {
+        "A": "SC/ST students affected due to fund crunch hitting infrastructure and academics, says SC/ST Commission chief",
+        "B": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+        "C": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’",
+        "D": "CCTV footage shows dog left meat in front of Gundlupet temple: Police"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’ (2026-11-16) - https://www.thehindu.com/news/national/karnataka/kumara-krupa-guest-house-now-turned-into-chief-ministers-official-residence-renamed-ganga/article71707937.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Kumara Krupa Guest House now turned into Chief Minister’s official residence, renamed ‘Ganga’",
+      "newsSummary": "The Chief Minister says chose to relocate to the Kumara Krupa Guest House as the quarters sanctioned to him were small, and as the Kumara Krupa Guest House was not being used",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/kumara-krupa-guest-house-now-turned-into-chief-ministers-official-residence-renamed-ganga/article71707937.ece"
+    },
+    {
+      "id": "CA-2026-11-17-892b83293dd1",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "CCTV footage shows dog left meat in front of Gundlupet temple: Police",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe clarification follows a complaint lodged by members of the public after meat waste was found on the roadside in front of Sri Anjaneyaswamy Temple, located along the Gundlupet–Chamarajanagar road.",
+      "options": {
+        "A": "One more killed in elephant attack in Hassan’s Belur taluk; protests intensify",
+        "B": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+        "C": "CCTV footage shows dog left meat in front of Gundlupet temple: Police",
+        "D": "SC/ST students affected due to fund crunch hitting infrastructure and academics, says SC/ST Commission chief"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "CCTV footage shows dog left meat in front of Gundlupet temple: Police (2026-11-16) - https://www.thehindu.com/news/national/karnataka/cctv-footage-shows-dog-left-meat-in-front-of-gundlupet-temple-police/article71708864.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "CCTV footage shows dog left meat in front of Gundlupet temple: Police",
+      "newsSummary": "The clarification follows a complaint lodged by members of the public after meat waste was found on the roadside in front of Sri Anjaneyaswamy Temple, located along the Gundlupet–Chamarajanagar road.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/cctv-footage-shows-dog-left-meat-in-front-of-gundlupet-temple-police/article71708864.ece"
+    },
+    {
+      "id": "CA-2026-11-17-ee1bac13076b",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\n‘Centralised kitchens can undermine the objectives of the scheme and pave the way for its eventual transfer to private agencies’",
+      "options": {
+        "A": "One more killed in elephant attack in Hassan’s Belur taluk; protests intensify",
+        "B": "SC/ST students affected due to fund crunch hitting infrastructure and academics, says SC/ST Commission chief",
+        "C": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+        "D": "GRAAM’s relocated head office inaugurated in Mysuru"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium (2026-11-16) - https://www.thehindu.com/news/national/karnataka/mid-day-meal-workers-oppose-centralised-kitchens-seek-release-of-pending-honorarium/article71708793.ece",
+      "newsDate": "2026-11-16",
+      "newsTitle": "Mid-day meal workers oppose centralised kitchens, seek release of pending honorarium",
+      "newsSummary": "‘Centralised kitchens can undermine the objectives of the scheme and pave the way for its eventual transfer to private agencies’",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mid-day-meal-workers-oppose-centralised-kitchens-seek-release-of-pending-honorarium/article71708793.ece"
+    }
+  ]
 }

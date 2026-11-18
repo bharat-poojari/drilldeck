@@ -1,276 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest RSS-based current-affairs questions for 2026-11-18.",
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T05:56:31+05:30",
-  "updatedAt": "2026-11-18T05:56:31+05:30",
+  "description": "Latest RSS-based current-affairs questions for 2026-11-19.",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T05:20:02+05:30",
+  "updatedAt": "2026-11-19T05:20:02+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
   "questionCount": 10,
   "rssSources": [
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece",
-      "title": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
+      "title": "Karnataka charts 1,000 MW roadmap in consultation with industry stakeholders"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/15-year-wait-ends-jakkur-rob-to-finally-open-to-public/article71713098.ece",
-      "title": "15-Year wait ends: Jakkur RoB to finally open to public"
+      "url": "https://www.thehindu.com/news/national/karnataka/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+      "title": "India’s CSR spending leaves gaps in health, water security, innovation: Report"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/new-crop-varieties-of-ragi-maize-amaranth-launched-farmers-may-have-to-wait-a-year-or-more-to-grow-them/article71712712.ece",
-      "title": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth"
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece",
+      "title": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/probe-ordered-into-transportation-of-cattle-from-temple-in-bidar/article71712509.ece",
-      "title": "Probe ordered into transportation of cattle from temple in Bidar"
+      "url": "https://www.thehindu.com/news/national/karnataka/drop-in-temperature-due-to-cyclonic-storms-over-bay-of-bengal-india-meteorological-department/article71716816.ece",
+      "title": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/special-courts-to-settle-cooperation-disputes-in-the-offing/article71712904.ece",
-      "title": "Special courts to settle cooperation disputes in the offing"
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-city-police-restructured-five-commissioners-and-a-chief-commissioner-appointed/article71715529.ece",
+      "title": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/aidyo-releases-poster-for-jaipur-national-youth-conference/article71712830.ece",
-      "title": "AIDYO releases poster for Jaipur national youth conference"
+      "url": "https://www.thehindu.com/news/national/karnataka/pioneering-musician-and-journalist-sakuntala-narasimhan-dead/article71717296.ece",
+      "title": "Pioneering musician and journalist Sakuntala Narasimhan passes away"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/abvp-takes-out-save-democracy-eradicate-anarchy-rally-in-hubballi/article71712783.ece",
-      "title": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi"
+      "url": "https://www.thehindu.com/news/national/karnataka/model-start-up-parks-on-1000-acres-near-bengaluru-hubballi-dharwad-on-the-anvil-mb-patil/article71717067.ece",
+      "title": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/private-school-management-and-staff-members-stage-protest-in-dharwad/article71712730.ece",
-      "title": "Private school management and staff members stage protest in Dharwad"
+      "url": "https://www.thehindu.com/news/national/karnataka/krishi-mela-at-uas-bengaluru-records-low-footfall/article71716850.ece",
+      "title": "Krishi Mela at UAS-Bengaluru records low footfall"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/kannada-comprehensive-medical-literature-conference-2026-to-be-held-on-november-20-and-21/article71712220.ece",
-      "title": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21"
+      "url": "https://www.thehindu.com/news/national/karnataka/some-belagavi-factories-offering-higher-prices-to-stop-sugarcane-diversion-to-maharashtra/article71717032.ece",
+      "title": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/in-karnataka-krishi-robot-gives-farmers-soil-analysis-and-crop-advisory-with-just-a-click/article71712012.ece",
-      "title": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click"
+      "url": "https://www.thehindu.com/news/national/karnataka/ensuring-that-the-restructuring-delivers-better-services-for-the-public-is-my-focus-r-hitendra/article71716429.ece",
+      "title": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief"
     }
   ],
   "questions": [
     {
-      "id": "CA-2026-11-18-1d73115e97de",
+      "id": "CA-2026-11-19-d6fb0b32c203",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance",
+      "chapter": "Karnataka charts 1,000 MW roadmap in consultation with industry stakeholders",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nMr. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting scheduled for November 19.",
+      "question": "Which headline best matches this report summary?\n\nCoastal Karnataka, especially Mangaluru, was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations. The government invites companies to propose concrete interventions for rollout within the next six to",
       "options": {
-        "A": "15-Year wait ends: Jakkur RoB to finally open to public",
-        "B": "Probe ordered into transportation of cattle from temple in Bidar",
-        "C": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth",
-        "D": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance (2026-11-17) - https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "ASHA workers launch indefinite protest; refuse to withdraw despite Health Minister’s assurance",
-      "newsSummary": "Mr. Khader said he would take up the demand for an increase in the monthly honorarium to ₹15,000 with the Chief Minister at the Cabinet meeting scheduled for November 19.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/asha-workers-launch-indefinite-protest-refuse-to-withdraw-despite-health-ministers-assurance/article71712945.ece"
-    },
-    {
-      "id": "CA-2026-11-18-07c2750ccb78",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "15-Year wait ends: Jakkur RoB to finally open to public",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe Jakkur RoB connects Jakkur village to roads leading to Yelahanka via Raithara Santhe",
-      "options": {
-        "A": "15-Year wait ends: Jakkur RoB to finally open to public",
-        "B": "Probe ordered into transportation of cattle from temple in Bidar",
-        "C": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth",
-        "D": "Special courts to settle cooperation disputes in the offing"
-      },
-      "correctAnswer": "A",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "15-Year wait ends: Jakkur RoB to finally open to public (2026-11-17) - https://www.thehindu.com/news/national/karnataka/15-year-wait-ends-jakkur-rob-to-finally-open-to-public/article71713098.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "15-Year wait ends: Jakkur RoB to finally open to public",
-      "newsSummary": "The Jakkur RoB connects Jakkur village to roads leading to Yelahanka via Raithara Santhe",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/15-year-wait-ends-jakkur-rob-to-finally-open-to-public/article71713098.ece"
-    },
-    {
-      "id": "CA-2026-11-18-33d0deb9f9ee",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThese new varieties include Ragi GPU 101 which is an improved variety of MR-322, Maize MAH-20-45, an improved variety of MAH-14-5, and Grain Amaranth KBGA-18, an improved variety of KBGA-15.",
-      "options": {
-        "A": "AIDYO releases poster for Jaipur national youth conference",
-        "B": "Special courts to settle cooperation disputes in the offing",
-        "C": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth",
-        "D": "Probe ordered into transportation of cattle from temple in Bidar"
+        "A": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
+        "B": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+        "C": "Karnataka charts 1,000 MW roadmap in consultation with industry stakeholders",
+        "D": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth (2026-11-17) - https://www.thehindu.com/news/national/karnataka/new-crop-varieties-of-ragi-maize-amaranth-launched-farmers-may-have-to-wait-a-year-or-more-to-grow-them/article71712712.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "Karnataka: Farmers may have to wait a year or more to grow new crop varieties of ragi, maize and amaranth",
-      "newsSummary": "These new varieties include Ragi GPU 101 which is an improved variety of MR-322, Maize MAH-20-45, an improved variety of MAH-14-5, and Grain Amaranth KBGA-18, an improved variety of KBGA-15.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/new-crop-varieties-of-ragi-maize-amaranth-launched-farmers-may-have-to-wait-a-year-or-more-to-grow-them/article71712712.ece"
+      "source": "Karnataka charts 1,000 MW roadmap in consultation with industry stakeholders (2026-11-19) - https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece",
+      "newsDate": "2026-11-19",
+      "newsTitle": "Karnataka charts 1,000 MW roadmap in consultation with industry stakeholders",
+      "newsSummary": "Coastal Karnataka, especially Mangaluru, was highlighted as a strategic growth corridor for capacity expansion and enhanced global connectivity via cable landing stations. The government invites companies to propose concrete interventions for rollout within the next six to",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-charts-1000-mw-roadmap-in-consultation-with-industry-stakeholders/article71716752.ece"
     },
     {
-      "id": "CA-2026-11-18-8733b70f34bf",
+      "id": "CA-2026-11-19-b1317c98acb9",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Probe ordered into transportation of cattle from temple in Bidar",
+      "chapter": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nMinister writes to Deputy Commissioner directing her to submit a detailed inquiry report within seven days",
+      "question": "Which headline best matches this report summary?\n\nNon-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around 12%, despite accounting for over half of NCD deaths, says a",
       "options": {
-        "A": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
-        "B": "Special courts to settle cooperation disputes in the offing",
-        "C": "Probe ordered into transportation of cattle from temple in Bidar",
-        "D": "AIDYO releases poster for Jaipur national youth conference"
-      },
-      "correctAnswer": "C",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Probe ordered into transportation of cattle from temple in Bidar (2026-11-17) - https://www.thehindu.com/news/national/karnataka/probe-ordered-into-transportation-of-cattle-from-temple-in-bidar/article71712509.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "Probe ordered into transportation of cattle from temple in Bidar",
-      "newsSummary": "Minister writes to Deputy Commissioner directing her to submit a detailed inquiry report within seven days",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/probe-ordered-into-transportation-of-cattle-from-temple-in-bidar/article71712509.ece"
-    },
-    {
-      "id": "CA-2026-11-18-eb948d5c3b47",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Special courts to settle cooperation disputes in the offing",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nComprehensive reform is being planned, says Minister",
-      "options": {
-        "A": "Private school management and staff members stage protest in Dharwad",
-        "B": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
-        "C": "AIDYO releases poster for Jaipur national youth conference",
-        "D": "Special courts to settle cooperation disputes in the offing"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Special courts to settle cooperation disputes in the offing (2026-11-17) - https://www.thehindu.com/news/national/karnataka/special-courts-to-settle-cooperation-disputes-in-the-offing/article71712904.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "Special courts to settle cooperation disputes in the offing",
-      "newsSummary": "Comprehensive reform is being planned, says Minister",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/special-courts-to-settle-cooperation-disputes-in-the-offing/article71712904.ece"
-    },
-    {
-      "id": "CA-2026-11-18-170b95600606",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "AIDYO releases poster for Jaipur national youth conference",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe conference will focus on unemployment, question paper leaks, irregularities in recruitment, atrocities against women and girls, etc.",
-      "options": {
-        "A": "AIDYO releases poster for Jaipur national youth conference",
-        "B": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
-        "C": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21",
-        "D": "Private school management and staff members stage protest in Dharwad"
+        "A": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+        "B": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
+        "C": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed",
+        "D": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report"
       },
       "correctAnswer": "A",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "AIDYO releases poster for Jaipur national youth conference (2026-11-17) - https://www.thehindu.com/news/national/karnataka/aidyo-releases-poster-for-jaipur-national-youth-conference/article71712830.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "AIDYO releases poster for Jaipur national youth conference",
-      "newsSummary": "The conference will focus on unemployment, question paper leaks, irregularities in recruitment, atrocities against women and girls, etc.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/aidyo-releases-poster-for-jaipur-national-youth-conference/article71712830.ece"
+      "source": "India’s CSR spending leaves gaps in health, water security, innovation: Report (2026-11-19) - https://www.thehindu.com/news/national/karnataka/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
+      "newsDate": "2026-11-19",
+      "newsTitle": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+      "newsSummary": "Non-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around 12%, despite accounting for over half of NCD deaths, says a",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece"
     },
     {
-      "id": "CA-2026-11-18-5e60639c1f4c",
+      "id": "CA-2026-11-19-d102b9d00e60",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
+      "chapter": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nHundreds of students, youths and ABVP activists from different parts of the State participate in it",
+      "question": "Which headline best matches this report summary?\n\nThe city is now the world’s fifth-largest unicorn hub, the largest outside the U.S., Europe, China, and London,with 57 unicorns valued at $211 billion, representing 55.3% of the combined value of all Indian unicorns",
       "options": {
-        "A": "Private school management and staff members stage protest in Dharwad",
-        "B": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
-        "C": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
-        "D": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi (2026-11-17) - https://www.thehindu.com/news/national/karnataka/abvp-takes-out-save-democracy-eradicate-anarchy-rally-in-hubballi/article71712783.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi",
-      "newsSummary": "Hundreds of students, youths and ABVP activists from different parts of the State participate in it",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/abvp-takes-out-save-democracy-eradicate-anarchy-rally-in-hubballi/article71712783.ece"
-    },
-    {
-      "id": "CA-2026-11-18-3bb95bf4dfc4",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Private school management and staff members stage protest in Dharwad",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nBasavaraj Horatti asks schools to shut down starting today seeking State government action before Winter Session to fulfil demands",
-      "options": {
-        "A": "IAF mobile publicity vehicle traversing Karnataka",
-        "B": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21",
-        "C": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
-        "D": "Private school management and staff members stage protest in Dharwad"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Private school management and staff members stage protest in Dharwad (2026-11-17) - https://www.thehindu.com/news/national/karnataka/private-school-management-and-staff-members-stage-protest-in-dharwad/article71712730.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "Private school management and staff members stage protest in Dharwad",
-      "newsSummary": "Basavaraj Horatti asks schools to shut down starting today seeking State government action before Winter Session to fulfil demands",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/private-school-management-and-staff-members-stage-protest-in-dharwad/article71712730.ece"
-    },
-    {
-      "id": "CA-2026-11-18-c90c0555ea94",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nRGUHS has received a good response and over 1,900 people have registered to participate in the festival, which will have multiple sessions on medical literature.",
-      "options": {
-        "A": "IAF mobile publicity vehicle traversing Karnataka",
-        "B": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
-        "C": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21",
-        "D": "Siddhasiri cooperative society obtains stay order against State govt. inquiry"
+        "A": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed",
+        "B": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
+        "C": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
+        "D": "Pioneering musician and journalist Sakuntala Narasimhan passes away"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21 (2026-11-17) - https://www.thehindu.com/news/national/karnataka/kannada-comprehensive-medical-literature-conference-2026-to-be-held-on-november-20-and-21/article71712220.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "Kannada Comprehensive Medical Literature Conference-2026 to be held on November 20 and 21",
-      "newsSummary": "RGUHS has received a good response and over 1,900 people have registered to participate in the festival, which will have multiple sessions on medical literature.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/kannada-comprehensive-medical-literature-conference-2026-to-be-held-on-november-20-and-21/article71712220.ece"
+      "source": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report (2026-11-19) - https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece",
+      "newsDate": "2026-11-19",
+      "newsTitle": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
+      "newsSummary": "The city is now the world’s fifth-largest unicorn hub, the largest outside the U.S., Europe, China, and London,with 57 unicorns valued at $211 billion, representing 55.3% of the combined value of all Indian unicorns",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece"
     },
     {
-      "id": "CA-2026-11-18-cb862df9f487",
+      "id": "CA-2026-11-19-fe5ced708486",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
+      "chapter": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nIt has been developed by the Centre of Excellence on Watershed Management at the University of Agriculture Sciences, Bengaluru. The institute claims that this robot is a first of its kind in India.",
+      "question": "Which headline best matches this report summary?\n\nHowever, the drop in temperature cannot be attributed to an early onset of winter, says the IMD.",
       "options": {
-        "A": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
-        "B": "IAF mobile publicity vehicle traversing Karnataka",
-        "C": "Siddhasiri cooperative society obtains stay order against State govt. inquiry",
-        "D": "Democratic values rooted in India’s history, says MLC"
+        "A": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil",
+        "B": "Pioneering musician and journalist Sakuntala Narasimhan passes away",
+        "C": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
+        "D": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department (2026-11-19) - https://www.thehindu.com/news/national/karnataka/drop-in-temperature-due-to-cyclonic-storms-over-bay-of-bengal-india-meteorological-department/article71716816.ece",
+      "newsDate": "2026-11-19",
+      "newsTitle": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
+      "newsSummary": "However, the drop in temperature cannot be attributed to an early onset of winter, says the IMD.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/drop-in-temperature-due-to-cyclonic-storms-over-bay-of-bengal-india-meteorological-department/article71716816.ece"
+    },
+    {
+      "id": "CA-2026-11-19-2344c9b0e05c",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nR. Hithendra appointed the new Chief Commissioner of Bengaluru City Police",
+      "options": {
+        "A": "Krishi Mela at UAS-Bengaluru records low footfall",
+        "B": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil",
+        "C": "Pioneering musician and journalist Sakuntala Narasimhan passes away",
+        "D": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed (2026-11-18) - https://www.thehindu.com/news/cities/bangalore/bengaluru-city-police-restructured-five-commissioners-and-a-chief-commissioner-appointed/article71715529.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Bengaluru City Police restructured; five Commissioners and a Chief Commissioner appointed",
+      "newsSummary": "R. Hithendra appointed the new Chief Commissioner of Bengaluru City Police",
+      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-city-police-restructured-five-commissioners-and-a-chief-commissioner-appointed/article71715529.ece"
+    },
+    {
+      "id": "CA-2026-11-19-298bc3190e7f",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Pioneering musician and journalist Sakuntala Narasimhan passes away",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nA multifaceted personality, she had the rare distinction of being a vocalist in both Carnatic and Hindustani traditions, apart from being a journalist with two PhDs in Women’s Studies and Musicology.",
+      "options": {
+        "A": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra",
+        "B": "Krishi Mela at UAS-Bengaluru records low footfall",
+        "C": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil",
+        "D": "Pioneering musician and journalist Sakuntala Narasimhan passes away"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Pioneering musician and journalist Sakuntala Narasimhan passes away (2026-11-18) - https://www.thehindu.com/news/national/karnataka/pioneering-musician-and-journalist-sakuntala-narasimhan-dead/article71717296.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Pioneering musician and journalist Sakuntala Narasimhan passes away",
+      "newsSummary": "A multifaceted personality, she had the rare distinction of being a vocalist in both Carnatic and Hindustani traditions, apart from being a journalist with two PhDs in Women’s Studies and Musicology.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/pioneering-musician-and-journalist-sakuntala-narasimhan-dead/article71717296.ece"
+    },
+    {
+      "id": "CA-2026-11-19-d98ef0eec7e7",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nMr. Patil said some start-up founders had pointed out that land prices in Bengaluru had risen sharply and making land available at affordable rates would greatly benefit them.",
+      "options": {
+        "A": "Krishi Mela at UAS-Bengaluru records low footfall",
+        "B": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra",
+        "C": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+        "D": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil (2026-11-18) - https://www.thehindu.com/news/national/karnataka/model-start-up-parks-on-1000-acres-near-bengaluru-hubballi-dharwad-on-the-anvil-mb-patil/article71717067.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Model start-up parks on 1,000 acres near Bengaluru, Hubballi-Dharwad on the anvil: M.B. Patil",
+      "newsSummary": "Mr. Patil said some start-up founders had pointed out that land prices in Bengaluru had risen sharply and making land available at affordable rates would greatly benefit them.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/model-start-up-parks-on-1000-acres-near-bengaluru-hubballi-dharwad-on-the-anvil-mb-patil/article71717067.ece"
+    },
+    {
+      "id": "CA-2026-11-19-6fbb5ac9bc84",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Krishi Mela at UAS-Bengaluru records low footfall",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nAccording to sources from UAS-B, the budget allocated for the mela was limited due to drought conditions across the State.",
+      "options": {
+        "A": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+        "B": "Two sentenced for misappropriating ₹13.57 lakh government funds",
+        "C": "Krishi Mela at UAS-Bengaluru records low footfall",
+        "D": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Krishi Mela at UAS-Bengaluru records low footfall (2026-11-18) - https://www.thehindu.com/news/national/karnataka/krishi-mela-at-uas-bengaluru-records-low-footfall/article71716850.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Krishi Mela at UAS-Bengaluru records low footfall",
+      "newsSummary": "According to sources from UAS-B, the budget allocated for the mela was limited due to drought conditions across the State.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/krishi-mela-at-uas-bengaluru-records-low-footfall/article71716850.ece"
+    },
+    {
+      "id": "CA-2026-11-19-02781a97bf6a",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nProfit-sharing formula can help get remunerative prices, say farmers",
+      "options": {
+        "A": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra",
+        "B": "Two sentenced for misappropriating ₹13.57 lakh government funds",
+        "C": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+        "D": "Two burglars arrested in Raichur, gold, silver ornaments worth ₹45.95 lakh seized"
       },
       "correctAnswer": "A",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click (2026-11-17) - https://www.thehindu.com/news/national/karnataka/in-karnataka-krishi-robot-gives-farmers-soil-analysis-and-crop-advisory-with-just-a-click/article71712012.ece",
-      "newsDate": "2026-11-17",
-      "newsTitle": "In Karnataka, Krishi Robot gives farmers soil analysis and crop advisory with just a click",
-      "newsSummary": "It has been developed by the Centre of Excellence on Watershed Management at the University of Agriculture Sciences, Bengaluru. The institute claims that this robot is a first of its kind in India.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/in-karnataka-krishi-robot-gives-farmers-soil-analysis-and-crop-advisory-with-just-a-click/article71712012.ece"
+      "source": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra (2026-11-18) - https://www.thehindu.com/news/national/karnataka/some-belagavi-factories-offering-higher-prices-to-stop-sugarcane-diversion-to-maharashtra/article71717032.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Some Belagavi factories offering higher prices to stop sugarcane diversion to Maharashtra",
+      "newsSummary": "Profit-sharing formula can help get remunerative prices, say farmers",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/some-belagavi-factories-offering-higher-prices-to-stop-sugarcane-diversion-to-maharashtra/article71717032.ece"
+    },
+    {
+      "id": "CA-2026-11-19-5a6de053424a",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nHe stressed the need for cooperation among police officers and personnel",
+      "options": {
+        "A": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+        "B": "Two sentenced for misappropriating ₹13.57 lakh government funds",
+        "C": "Panchamasali community to revive agitation for 2A reservation",
+        "D": "Two burglars arrested in Raichur, gold, silver ornaments worth ₹45.95 lakh seized"
+      },
+      "correctAnswer": "A",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief (2026-11-18) - https://www.thehindu.com/news/national/karnataka/ensuring-that-the-restructuring-delivers-better-services-for-the-public-is-my-focus-r-hitendra/article71716429.ece",
+      "newsDate": "2026-11-18",
+      "newsTitle": "Ensuring that the restructuring delivers better services for the public is my focus, says Bengaluru’s new police chief",
+      "newsSummary": "He stressed the need for cooperation among police officers and personnel",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ensuring-that-the-restructuring-delivers-better-services-for-the-public-is-my-focus-r-hitendra/article71716429.ece"
     }
   ]
 }

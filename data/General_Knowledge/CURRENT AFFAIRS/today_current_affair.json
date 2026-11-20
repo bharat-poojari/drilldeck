@@ -1,276 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest RSS-based current-affairs questions for 2026-11-20.",
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T05:43:39+05:30",
-  "updatedAt": "2026-11-20T05:43:39+05:30",
+  "description": "Latest RSS-based current-affairs questions for 2026-11-21.",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T05:07:21+05:30",
+  "updatedAt": "2026-11-21T05:07:21+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
   "questionCount": 10,
   "rssSources": [
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece",
-      "title": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy"
+      "url": "https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece",
+      "title": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/can-hmt-wind-back-to-the-good-ol-times/article71719822.ece",
-      "title": "Can HMT wind back to the good ol’ times?"
+      "url": "https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece",
+      "title": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/new-terminal-of-belagavi-airport-may-open-by-year-end/article71721586.ece",
-      "title": "New terminal of Belagavi Airport may open by year-end"
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece",
+      "title": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-grants-relief-to-medical-seat-aspirant-says-mere-possession-of-mobile-phone-cannot-be-termed-unfair-means/article71720902.ece",
-      "title": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece",
+      "title": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/50-discount-on-pending-traffic-fines-from-nov-21-to-dec-11/article71721215.ece",
-      "title": "50% discount on pending traffic fines from Nov. 21 to Dec. 11"
+      "url": "https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece",
+      "title": "₹5,000 will reach eligible farmers by December 1: Parameshwara"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/society-should-condemn-disrespect-to-basavanna-says-scholar/article71720731.ece",
-      "title": "Society should condemn disrespect to Basavanna, says scholar"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece",
+      "title": "Karnataka: Ire over Bidari’s participation in book launch"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/children-are-political-agents-whose-active-participation-strengthens-democracy-says-international-childrens-peace-prize-winner-francisco-javier/article71720462.ece",
-      "title": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece",
+      "title": "Karnataka to open India’s first government Sports Technology CoE"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/indias-aerospace-defence-sectors-should-move-beyond-isolated-ai-experiments-study/article71720871.ece",
-      "title": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study"
+      "url": "https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece",
+      "title": "Protest against ‘derogatory’ book on Basavanna"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/india-sweet-house-sets-up-shop-in-hubballi/article71720251.ece",
-      "title": "India Sweet House sets up shop in Hubballi"
+      "url": "https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece",
+      "title": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister"
     },
     {
-      "url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
-      "title": "India’s CSR spending leaves gaps in health, water security, innovation: Report"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece",
+      "title": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’"
     }
   ],
   "questions": [
     {
-      "id": "CA-2026-11-20-06ca285206ae",
+      "id": "CA-2026-11-21-65a58af141c8",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy",
+      "chapter": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nBasava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’",
+      "question": "Which headline best matches this report summary?\n\n‘Given that it is difficult for rural students to compete with their urban counterparts in national-level examinations like NEET, grace marks should be provided to students from rural areas’",
       "options": {
-        "A": "Can HMT wind back to the good ol’ times?",
-        "B": "New terminal of Belagavi Airport may open by year-end",
-        "C": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
-        "D": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy"
+        "A": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
+        "B": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
+        "C": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
+        "D": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy",
-      "newsSummary": "Basava Samiti has accused U.S.-based author Ravi Hanj of hurting the sentiments of followers of the 12th century social reformer Basavanna in his book ‘Basava Mantapa’",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-cabinet-okays-confiscation-of-book-that-insults-basavanna-and-distorts-his-philosophy/article71720767.ece"
+      "source": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force (2026-11-21) - https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force",
+      "newsSummary": "‘Given that it is difficult for rural students to compete with their urban counterparts in national-level examinations like NEET, grace marks should be provided to students from rural areas’",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece"
     },
     {
-      "id": "CA-2026-11-20-3983149a7a9f",
+      "id": "CA-2026-11-21-f4ad1e04b7bc",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Can HMT wind back to the good ol’ times?",
+      "chapter": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nStrapping on an HMT watch is a badge of pride. Now, millennials and Gen Z are also jumping on the bandwagon, driving a fresh wave of enthusiasm. What exactly is making this Bengaluru-born legacy brand to tick again? Chetan B.C. explores...",
+      "question": "Which headline best matches this report summary?\n\nPambis Kyritsis is in Bengaluru to participate in the two-day Asia Pacific region conference of the WFTU that commenced here from Friday",
       "options": {
-        "A": "50% discount on pending traffic fines from Nov. 21 to Dec. 11",
-        "B": "Can HMT wind back to the good ol’ times?",
-        "C": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
-        "D": "New terminal of Belagavi Airport may open by year-end"
+        "A": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
+        "B": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
+        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
+        "D": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Can HMT wind back to the good ol’ times? (2026-11-20) - https://www.thehindu.com/news/national/karnataka/can-hmt-wind-back-to-the-good-ol-times/article71719822.ece",
+      "source": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader (2026-11-20) - https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece",
       "newsDate": "2026-11-20",
-      "newsTitle": "Can HMT wind back to the good ol’ times?",
-      "newsSummary": "Strapping on an HMT watch is a badge of pride. Now, millennials and Gen Z are also jumping on the bandwagon, driving a fresh wave of enthusiasm. What exactly is making this Bengaluru-born legacy brand to tick again? Chetan B.C. explores...",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/can-hmt-wind-back-to-the-good-ol-times/article71719822.ece"
+      "newsTitle": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
+      "newsSummary": "Pambis Kyritsis is in Bengaluru to participate in the two-day Asia Pacific region conference of the WFTU that commenced here from Friday",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece"
     },
     {
-      "id": "CA-2026-11-20-790c43a12785",
+      "id": "CA-2026-11-21-ade4a06c3b42",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "New terminal of Belagavi Airport may open by year-end",
+      "chapter": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nMP Jagadish Shettar says Prime Minister will be invited for inauguration",
+      "question": "Which headline best matches this report summary?\n\nThe newly created Peenya division has been the biggest casualty. Under the supervision of a single DCP, the division, which falls under the West Commissionerate, has only four police stations",
       "options": {
-        "A": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
-        "B": "Society should condemn disrespect to Basavanna, says scholar",
-        "C": "New terminal of Belagavi Airport may open by year-end",
-        "D": "50% discount on pending traffic fines from Nov. 21 to Dec. 11"
-      },
-      "correctAnswer": "C",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "New terminal of Belagavi Airport may open by year-end (2026-11-19) - https://www.thehindu.com/news/national/karnataka/new-terminal-of-belagavi-airport-may-open-by-year-end/article71721586.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "New terminal of Belagavi Airport may open by year-end",
-      "newsSummary": "MP Jagadish Shettar says Prime Minister will be invited for inauguration",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/new-terminal-of-belagavi-airport-may-open-by-year-end/article71721586.ece"
-    },
-    {
-      "id": "CA-2026-11-20-2deb0ee8d818",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe court said a breach of discipline and the procurement of merit by deception are not necessarily synonymous, rejecting NTA’s contentions that carrying a prohibited electronic device into examination premises itself constituted an unfair means practice, irrespective of whether",
-      "options": {
-        "A": "50% discount on pending traffic fines from Nov. 21 to Dec. 11",
-        "B": "Society should condemn disrespect to Basavanna, says scholar",
-        "C": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier",
-        "D": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’ (2026-11-19) - https://www.thehindu.com/news/national/karnataka/karnataka-high-court-grants-relief-to-medical-seat-aspirant-says-mere-possession-of-mobile-phone-cannot-be-termed-unfair-means/article71720902.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
-      "newsSummary": "The court said a breach of discipline and the procurement of merit by deception are not necessarily synonymous, rejecting NTA’s contentions that carrying a prohibited electronic device into examination premises itself constituted an unfair means practice, irrespective of whether",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-grants-relief-to-medical-seat-aspirant-says-mere-possession-of-mobile-phone-cannot-be-termed-unfair-means/article71720902.ece"
-    },
-    {
-      "id": "CA-2026-11-20-9389644e591c",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "50% discount on pending traffic fines from Nov. 21 to Dec. 11",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nMotorists can also clear penalties imposed by the Transport Department during the 21-day concession period",
-      "options": {
-        "A": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier",
-        "B": "50% discount on pending traffic fines from Nov. 21 to Dec. 11",
-        "C": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-        "D": "Society should condemn disrespect to Basavanna, says scholar"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "50% discount on pending traffic fines from Nov. 21 to Dec. 11 (2026-11-19) - https://www.thehindu.com/news/national/karnataka/50-discount-on-pending-traffic-fines-from-nov-21-to-dec-11/article71721215.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "50% discount on pending traffic fines from Nov. 21 to Dec. 11",
-      "newsSummary": "Motorists can also clear penalties imposed by the Transport Department during the 21-day concession period",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/50-discount-on-pending-traffic-fines-from-nov-21-to-dec-11/article71721215.ece"
-    },
-    {
-      "id": "CA-2026-11-20-5a6302942057",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Society should condemn disrespect to Basavanna, says scholar",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nSarvadhyaksha of the 19th Dharwad Zilla Kannada Sahitya Sammelan Veeranna Rajur calls upon the legal fraternity also to condemn such instances",
-      "options": {
-        "A": "Society should condemn disrespect to Basavanna, says scholar",
-        "B": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-        "C": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier",
-        "D": "India Sweet House sets up shop in Hubballi"
+        "A": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
+        "B": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
+        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
+        "D": "Karnataka: Ire over Bidari’s participation in book launch"
       },
       "correctAnswer": "A",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Society should condemn disrespect to Basavanna, says scholar (2026-11-19) - https://www.thehindu.com/news/national/karnataka/society-should-condemn-disrespect-to-basavanna-says-scholar/article71720731.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "Society should condemn disrespect to Basavanna, says scholar",
-      "newsSummary": "Sarvadhyaksha of the 19th Dharwad Zilla Kannada Sahitya Sammelan Veeranna Rajur calls upon the legal fraternity also to condemn such instances",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/society-should-condemn-disrespect-to-basavanna-says-scholar/article71720731.ece"
+      "source": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised (2026-11-20) - https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
+      "newsSummary": "The newly created Peenya division has been the biggest casualty. Under the supervision of a single DCP, the division, which falls under the West Commissionerate, has only four police stations",
+      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece"
     },
     {
-      "id": "CA-2026-11-20-6ecd1d2ae738",
+      "id": "CA-2026-11-21-c9f1a9efd4d9",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier",
+      "chapter": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nAs the 22nd winner of the International Children’s Peace Prize, Francisco has joined a distinguished list of past laureates that includes Malala Yousafzai and Greta Thunberg",
+      "question": "Which headline best matches this report summary?\n\nThe journalist complained that he had placed order for eight tablets but he was supplied with only seven tablets despite collecting the amount for all the eight tablets, and hence it amounted to ‘excess’ pricing",
       "options": {
-        "A": "India Sweet House sets up shop in Hubballi",
-        "B": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-        "C": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
-        "D": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier (2026-11-19) - https://www.thehindu.com/news/national/karnataka/children-are-political-agents-whose-active-participation-strengthens-democracy-says-international-childrens-peace-prize-winner-francisco-javier/article71720462.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "Children are political agents whose active participation strengthens democracy, says International Children’s Peace Prize winner Francisco Javier",
-      "newsSummary": "As the 22nd winner of the International Children’s Peace Prize, Francisco has joined a distinguished list of past laureates that includes Malala Yousafzai and Greta Thunberg",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/children-are-political-agents-whose-active-participation-strengthens-democracy-says-international-childrens-peace-prize-winner-francisco-javier/article71720462.ece"
-    },
-    {
-      "id": "CA-2026-11-20-48f5d861053f",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nAIA identifies AI as a significant opportunity to improve engineering productivity, manufacturing efficiency, maintenance and operational performance",
-      "options": {
-        "A": "India Sweet House sets up shop in Hubballi",
-        "B": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-        "C": "‘Collaborate or collapse’: Experts call for global research partnerships",
-        "D": "India’s CSR spending leaves gaps in health, water security, innovation: Report"
+        "A": "Karnataka to open India’s first government Sports Technology CoE",
+        "B": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
+        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
+        "D": "Karnataka: Ire over Bidari’s participation in book launch"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study (2026-11-19) - https://www.thehindu.com/news/national/karnataka/indias-aerospace-defence-sectors-should-move-beyond-isolated-ai-experiments-study/article71720871.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "India’s aerospace, defence sectors should move beyond isolated AI experiments: Study",
-      "newsSummary": "AIA identifies AI as a significant opportunity to improve engineering productivity, manufacturing efficiency, maintenance and operational performance",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/indias-aerospace-defence-sectors-should-move-beyond-isolated-ai-experiments-study/article71720871.ece"
+      "source": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’ (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
+      "newsSummary": "The journalist complained that he had placed order for eight tablets but he was supplied with only seven tablets despite collecting the amount for all the eight tablets, and hence it amounted to ‘excess’ pricing",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece"
     },
     {
-      "id": "CA-2026-11-20-e7a085158a16",
+      "id": "CA-2026-11-21-096e900b83f8",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "India Sweet House sets up shop in Hubballi",
+      "chapter": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe Bengaluru-based sweets and savouries brand inaugurates its 58th outlet on Gokul Road, opposite Inorbit Mall",
+      "question": "Which headline best matches this report summary?\n\nSpeaking to the media after reviewing the progress of the Revenue Department with Deputy Commissioners and other officials, he outlined the measures being taken by the State Government to address drought.",
       "options": {
-        "A": "27 medical seats remain vacant after seventh round; govt. to move for another round of counselling",
-        "B": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
-        "C": "‘Collaborate or collapse’: Experts call for global research partnerships",
-        "D": "India Sweet House sets up shop in Hubballi"
+        "A": "Karnataka to open India’s first government Sports Technology CoE",
+        "B": "Protest against ‘derogatory’ book on Basavanna",
+        "C": "Karnataka: Ire over Bidari’s participation in book launch",
+        "D": "₹5,000 will reach eligible farmers by December 1: Parameshwara"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "India Sweet House sets up shop in Hubballi (2026-11-19) - https://www.thehindu.com/news/national/karnataka/india-sweet-house-sets-up-shop-in-hubballi/article71720251.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "India Sweet House sets up shop in Hubballi",
-      "newsSummary": "The Bengaluru-based sweets and savouries brand inaugurates its 58th outlet on Gokul Road, opposite Inorbit Mall",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/india-sweet-house-sets-up-shop-in-hubballi/article71720251.ece"
+      "source": "₹5,000 will reach eligible farmers by December 1: Parameshwara (2026-11-20) - https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
+      "newsSummary": "Speaking to the media after reviewing the progress of the Revenue Department with Deputy Commissioners and other officials, he outlined the measures being taken by the State Government to address drought.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece"
     },
     {
-      "id": "CA-2026-11-20-50ccb9b99021",
+      "id": "CA-2026-11-21-fa10467e88b0",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
+      "chapter": "Karnataka: Ire over Bidari’s participation in book launch",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nNon-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around 12%, despite accounting for over half of NCD deaths, says a",
+      "question": "Which headline best matches this report summary?\n\nM.T. Subashchandra, a member of the All India Veerashaiva Mahasabha, has written to the Mahasabha national president Eshwar Khandre to sack Mr. Bidari over his association with the book launch ceremony.",
       "options": {
-        "A": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
-        "B": "Man gets 25 years in jail for sexually assaulting minor girl in Kalaburagi",
-        "C": "‘Collaborate or collapse’: Experts call for global research partnerships",
-        "D": "27 medical seats remain vacant after seventh round; govt. to move for another round of counselling"
+        "A": "Karnataka: Ire over Bidari’s participation in book launch",
+        "B": "Karnataka to open India’s first government Sports Technology CoE",
+        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+        "D": "Protest against ‘derogatory’ book on Basavanna"
       },
       "correctAnswer": "A",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "India’s CSR spending leaves gaps in health, water security, innovation: Report (2026-11-19) - https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece",
-      "newsDate": "2026-11-19",
-      "newsTitle": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
-      "newsSummary": "Non-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while cardiovascular diseases receive around 12%, despite accounting for over half of NCD deaths, says a",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece"
+      "source": "Karnataka: Ire over Bidari’s participation in book launch (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Karnataka: Ire over Bidari’s participation in book launch",
+      "newsSummary": "M.T. Subashchandra, a member of the All India Veerashaiva Mahasabha, has written to the Mahasabha national president Eshwar Khandre to sack Mr. Bidari over his association with the book launch ceremony.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece"
+    },
+    {
+      "id": "CA-2026-11-21-9d19efd782bd",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Karnataka to open India’s first government Sports Technology CoE",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nTo this end, the government has on Thursday signed a Letter of Intent with Amagi Media Labs, a cloud-based software-as-a-service firm based in Bengaluru",
+      "options": {
+        "A": "Karnataka to open India’s first government Sports Technology CoE",
+        "B": "Protest against ‘derogatory’ book on Basavanna",
+        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+        "D": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’"
+      },
+      "correctAnswer": "A",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Karnataka to open India’s first government Sports Technology CoE (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Karnataka to open India’s first government Sports Technology CoE",
+      "newsSummary": "To this end, the government has on Thursday signed a Letter of Intent with Amagi Media Labs, a cloud-based software-as-a-service firm based in Bengaluru",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece"
+    },
+    {
+      "id": "CA-2026-11-21-bfcfadd0734a",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Protest against ‘derogatory’ book on Basavanna",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nProtesters demand immediate arrest of author Ravi Kunj, alleging that he had insulted the Veerashaiva community",
+      "options": {
+        "A": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna",
+        "B": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
+        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+        "D": "Protest against ‘derogatory’ book on Basavanna"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Protest against ‘derogatory’ book on Basavanna (2026-11-20) - https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Protest against ‘derogatory’ book on Basavanna",
+      "newsSummary": "Protesters demand immediate arrest of author Ravi Kunj, alleging that he had insulted the Veerashaiva community",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece"
+    },
+    {
+      "id": "CA-2026-11-21-985ea9830ab5",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nYettinahole water is already being released to Hassan, Chikkamagaluru and Kadur",
+      "options": {
+        "A": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
+        "B": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+        "C": "Cauvery verdict is a reflection of the dire ground reality in Karnataka: Chief Minister D.K. Shivakumar",
+        "D": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister (2026-11-20) - https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+      "newsSummary": "Yettinahole water is already being released to Hassan, Chikkamagaluru and Kadur",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece"
+    },
+    {
+      "id": "CA-2026-11-21-e88e7bdde2de",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe government is releasing ₹10,000 crore to develop 15,000 km of roads, and ₹6,000 crore for panchayat-level development, CM says",
+      "options": {
+        "A": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna",
+        "B": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
+        "C": "Cauvery verdict is a reflection of the dire ground reality in Karnataka: Chief Minister D.K. Shivakumar",
+        "D": "Last flights under UDAN takes off from Shivamogga"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’ (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece",
+      "newsDate": "2026-11-20",
+      "newsTitle": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
+      "newsSummary": "The government is releasing ₹10,000 crore to develop 15,000 km of roads, and ₹6,000 crore for panchayat-level development, CM says",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece"
     }
   ]
 }

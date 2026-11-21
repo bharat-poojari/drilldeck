@@ -1,276 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest RSS-based current-affairs questions for 2026-11-21.",
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T05:07:21+05:30",
-  "updatedAt": "2026-11-21T05:07:21+05:30",
+  "description": "Latest RSS-based current-affairs questions for 2026-11-22.",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T04:12:54+05:30",
+  "updatedAt": "2026-11-22T04:12:54+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
   "questionCount": 10,
   "rssSources": [
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece",
-      "title": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force"
+      "url": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
+      "title": "Dharwad to host State-level 10K cross-country run on Nov. 29"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece",
-      "title": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader"
+      "url": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
+      "title": "ASHAs reject government’s assurance; decide to continue protest"
     },
     {
-      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece",
-      "title": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised"
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece",
+      "title": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece",
-      "title": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’"
+      "url": "https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece",
+      "title": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece",
-      "title": "₹5,000 will reach eligible farmers by December 1: Parameshwara"
+      "url": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
+      "title": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece",
-      "title": "Karnataka: Ire over Bidari’s participation in book launch"
+      "url": "https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece",
+      "title": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece",
-      "title": "Karnataka to open India’s first government Sports Technology CoE"
+      "url": "https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece",
+      "title": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece",
-      "title": "Protest against ‘derogatory’ book on Basavanna"
+      "url": "https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece",
+      "title": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece",
-      "title": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister"
+      "url": "https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece",
+      "title": "Report documents impact of restrictions on the right to protest in Bengaluru"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece",
-      "title": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’"
+      "url": "https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece",
+      "title": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty"
     }
   ],
   "questions": [
     {
-      "id": "CA-2026-11-21-65a58af141c8",
+      "id": "CA-2026-11-22-384da0e07312",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force",
+      "chapter": "Dharwad to host State-level 10K cross-country run on Nov. 29",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\n‘Given that it is difficult for rural students to compete with their urban counterparts in national-level examinations like NEET, grace marks should be provided to students from rural areas’",
+      "question": "Which headline best matches this report summary?\n\nThe District Olympics Association is organising the event as part of the Rajyotsava celebrations",
       "options": {
-        "A": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-        "B": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
-        "C": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
-        "D": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force"
+        "A": "ASHAs reject government’s assurance; decide to continue protest",
+        "B": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
+        "C": "Dharwad to host State-level 10K cross-country run on Nov. 29",
+        "D": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy"
       },
-      "correctAnswer": "D",
+      "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force (2026-11-21) - https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece",
+      "source": "Dharwad to host State-level 10K cross-country run on Nov. 29 (2026-11-21) - https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
       "newsDate": "2026-11-21",
-      "newsTitle": "State candidates should get better opportunities in medical colleges, Chief Minister tells high-powered task force",
-      "newsSummary": "‘Given that it is difficult for rural students to compete with their urban counterparts in national-level examinations like NEET, grace marks should be provided to students from rural areas’",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/state-candidates-should-get-better-opportunities-in-medical-colleges-chief-minister-tells-high-powered-task-force/article71725069.ece"
+      "newsTitle": "Dharwad to host State-level 10K cross-country run on Nov. 29",
+      "newsSummary": "The District Olympics Association is organising the event as part of the Rajyotsava celebrations",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece"
     },
     {
-      "id": "CA-2026-11-21-f4ad1e04b7bc",
+      "id": "CA-2026-11-22-e68d764186c6",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
+      "chapter": "ASHAs reject government’s assurance; decide to continue protest",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nPambis Kyritsis is in Bengaluru to participate in the two-day Asia Pacific region conference of the WFTU that commenced here from Friday",
+      "question": "Which headline best matches this report summary?\n\nThe talks failed after Health Minister U.T. Khader said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget",
       "options": {
-        "A": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-        "B": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
-        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
-        "D": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader (2026-11-20) - https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Working class in India is mobilising and resisting attack from many fronts: World Federation of Trade Unions leader",
-      "newsSummary": "Pambis Kyritsis is in Bengaluru to participate in the two-day Asia Pacific region conference of the WFTU that commenced here from Friday",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/working-class-in-india-is-mobilising-and-resisting-attack-from-many-fronts-world-federation-of-trade-unions-leader/article71725750.ece"
-    },
-    {
-      "id": "CA-2026-11-21-ade4a06c3b42",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe newly created Peenya division has been the biggest casualty. Under the supervision of a single DCP, the division, which falls under the West Commissionerate, has only four police stations",
-      "options": {
-        "A": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
-        "B": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
-        "D": "Karnataka: Ire over Bidari’s participation in book launch"
-      },
-      "correctAnswer": "A",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised (2026-11-20) - https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Bengaluru Police Commissionerate restructuring leaves some divisions overburdened and others underutilised",
-      "newsSummary": "The newly created Peenya division has been the biggest casualty. Under the supervision of a single DCP, the division, which falls under the West Commissionerate, has only four police stations",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/bengaluru-police-commissionerate-restructuring-leaves-some-divisions-overburdened-and-others-underutilised/article71725281.ece"
-    },
-    {
-      "id": "CA-2026-11-21-c9f1a9efd4d9",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe journalist complained that he had placed order for eight tablets but he was supplied with only seven tablets despite collecting the amount for all the eight tablets, and hence it amounted to ‘excess’ pricing",
-      "options": {
-        "A": "Karnataka to open India’s first government Sports Technology CoE",
-        "B": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-        "C": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
-        "D": "Karnataka: Ire over Bidari’s participation in book launch"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’ (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Karnataka High Court quashes journo-initiated case against pharmacy chain for collecting ₹1.12 in ‘excess’",
-      "newsSummary": "The journalist complained that he had placed order for eight tablets but he was supplied with only seven tablets despite collecting the amount for all the eight tablets, and hence it amounted to ‘excess’ pricing",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-quashes-journo-initiated-case-against-pharmacy-chain-for-collecting-112-in-excess/article71724624.ece"
-    },
-    {
-      "id": "CA-2026-11-21-096e900b83f8",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nSpeaking to the media after reviewing the progress of the Revenue Department with Deputy Commissioners and other officials, he outlined the measures being taken by the State Government to address drought.",
-      "options": {
-        "A": "Karnataka to open India’s first government Sports Technology CoE",
-        "B": "Protest against ‘derogatory’ book on Basavanna",
-        "C": "Karnataka: Ire over Bidari’s participation in book launch",
-        "D": "₹5,000 will reach eligible farmers by December 1: Parameshwara"
+        "A": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+        "B": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
+        "C": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
+        "D": "ASHAs reject government’s assurance; decide to continue protest"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "₹5,000 will reach eligible farmers by December 1: Parameshwara (2026-11-20) - https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "₹5,000 will reach eligible farmers by December 1: Parameshwara",
-      "newsSummary": "Speaking to the media after reviewing the progress of the Revenue Department with Deputy Commissioners and other officials, he outlined the measures being taken by the State Government to address drought.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/5000-will-reach-eligible-farmers-by-december-1-parameshwara/article71725378.ece"
+      "source": "ASHAs reject government’s assurance; decide to continue protest (2026-11-21) - https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "ASHAs reject government’s assurance; decide to continue protest",
+      "newsSummary": "The talks failed after Health Minister U.T. Khader said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece"
     },
     {
-      "id": "CA-2026-11-21-fa10467e88b0",
+      "id": "CA-2026-11-22-2ce7fdadec9a",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Karnataka: Ire over Bidari’s participation in book launch",
+      "chapter": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nM.T. Subashchandra, a member of the All India Veerashaiva Mahasabha, has written to the Mahasabha national president Eshwar Khandre to sack Mr. Bidari over his association with the book launch ceremony.",
+      "question": "Which headline best matches this report summary?\n\nWhat were the highlights of the two States’ positions? How did the CWRC and the CMMA assess the issue of deficit in realisation? What was the stand of the Authority on the issue of backlog? What is the recourse available to the lower riparian State now?",
       "options": {
-        "A": "Karnataka: Ire over Bidari’s participation in book launch",
-        "B": "Karnataka to open India’s first government Sports Technology CoE",
-        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-        "D": "Protest against ‘derogatory’ book on Basavanna"
+        "A": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
+        "C": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
+        "D": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained (2026-11-21) - https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
+      "newsSummary": "What were the highlights of the two States’ positions? How did the CWRC and the CMMA assess the issue of deficit in realisation? What was the stand of the Authority on the issue of backlog? What is the recourse available to the lower riparian State now?",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece"
+    },
+    {
+      "id": "CA-2026-11-22-d1d956ef8c03",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nRavi Hanj was detained during security checks while attempting to travel abroad, say Kerala Police sources.",
+      "options": {
+        "A": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
+        "B": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+        "C": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
+        "D": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy (2026-11-21) - https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+      "newsSummary": "Ravi Hanj was detained during security checks while attempting to travel abroad, say Kerala Police sources.",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece"
+    },
+    {
+      "id": "CA-2026-11-22-08ca0518da34",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe Constitution provides for a ban or forfeiture of a book on three grounds - national security, threat to public order and threat to public morality",
+      "options": {
+        "A": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
+        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
+        "C": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
+        "D": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
       },
       "correctAnswer": "A",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka: Ire over Bidari’s participation in book launch (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Karnataka: Ire over Bidari’s participation in book launch",
-      "newsSummary": "M.T. Subashchandra, a member of the All India Veerashaiva Mahasabha, has written to the Mahasabha national president Eshwar Khandre to sack Mr. Bidari over his association with the book launch ceremony.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-ire-over-bidaris-participation-in-book-launch/article71725459.ece"
+      "source": "Is forfieting copies of a book the right way to handle ‘objectionable content’? (2026-11-21) - https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
+      "newsSummary": "The Constitution provides for a ban or forfeiture of a book on three grounds - national security, threat to public order and threat to public morality",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece"
     },
     {
-      "id": "CA-2026-11-21-9d19efd782bd",
+      "id": "CA-2026-11-22-9f1a2ee19572",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Karnataka to open India’s first government Sports Technology CoE",
+      "chapter": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nTo this end, the government has on Thursday signed a Letter of Intent with Amagi Media Labs, a cloud-based software-as-a-service firm based in Bengaluru",
+      "question": "Which headline best matches this report summary?\n\nMany consumers, especially youngsters, are choosing lactose-free milk, probiotic curd, and yoghurt, says BAMUL president D.K. Suresh",
       "options": {
-        "A": "Karnataka to open India’s first government Sports Technology CoE",
-        "B": "Protest against ‘derogatory’ book on Basavanna",
-        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-        "D": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’"
+        "A": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
+        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
+        "C": "Report documents impact of restrictions on the right to protest in Bengaluru",
+        "D": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
       },
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka to open India’s first government Sports Technology CoE (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Karnataka to open India’s first government Sports Technology CoE",
-      "newsSummary": "To this end, the government has on Thursday signed a Letter of Intent with Amagi Media Labs, a cloud-based software-as-a-service firm based in Bengaluru",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-to-open-indias-first-government-sports-technology-coe/article71721088.ece"
+      "source": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder (2026-11-21) - https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
+      "newsSummary": "Many consumers, especially youngsters, are choosing lactose-free milk, probiotic curd, and yoghurt, says BAMUL president D.K. Suresh",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece"
     },
     {
-      "id": "CA-2026-11-21-bfcfadd0734a",
+      "id": "CA-2026-11-22-6e978466e7b6",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Protest against ‘derogatory’ book on Basavanna",
+      "chapter": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nProtesters demand immediate arrest of author Ravi Kunj, alleging that he had insulted the Veerashaiva community",
+      "question": "Which headline best matches this report summary?\n\nTeam YUVAA, a civil society organisation, studied the impact of illegal mining and submitted a report to Deputy Commissioner recommending immediate action",
       "options": {
-        "A": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna",
-        "B": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
-        "C": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-        "D": "Protest against ‘derogatory’ book on Basavanna"
+        "A": "Report documents impact of restrictions on the right to protest in Bengaluru",
+        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
+        "C": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
+        "D": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Protest against ‘derogatory’ book on Basavanna (2026-11-20) - https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Protest against ‘derogatory’ book on Basavanna",
-      "newsSummary": "Protesters demand immediate arrest of author Ravi Kunj, alleging that he had insulted the Veerashaiva community",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/protest-against-derogatory-book-on-basavanna/article71725097.ece"
+      "source": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats (2026-11-21) - https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
+      "newsSummary": "Team YUVAA, a civil society organisation, studied the impact of illegal mining and submitted a report to Deputy Commissioner recommending immediate action",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece"
     },
     {
-      "id": "CA-2026-11-21-985ea9830ab5",
+      "id": "CA-2026-11-22-5f602abbb042",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
+      "chapter": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nYettinahole water is already being released to Hassan, Chikkamagaluru and Kadur",
+      "question": "Which headline best matches this report summary?\n\n15th district Kannada Sahitya Sammelana begins in Karatagi; calls for preservation of heritage and promotion of Kannada",
       "options": {
-        "A": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
-        "B": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-        "C": "Cauvery verdict is a reflection of the dire ground reality in Karnataka: Chief Minister D.K. Shivakumar",
-        "D": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna"
+        "A": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
+        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
+        "C": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses",
+        "D": "Report documents impact of restrictions on the right to protest in Bengaluru"
+      },
+      "correctAnswer": "A",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar (2026-11-21) - https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
+      "newsSummary": "15th district Kannada Sahitya Sammelana begins in Karatagi; calls for preservation of heritage and promotion of Kannada",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece"
+    },
+    {
+      "id": "CA-2026-11-22-ab71a824f604",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Report documents impact of restrictions on the right to protest in Bengaluru",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe report by PUCL-Karnataka highlights how the restriction has rendered protests invisible to the public and has had cascading impact on those who seek State accountability",
+      "options": {
+        "A": "Karnataka Chief Minister to lead delegation to Japan for investment talks, urban-planning study",
+        "B": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses",
+        "C": "Report documents impact of restrictions on the right to protest in Bengaluru",
+        "D": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Report documents impact of restrictions on the right to protest in Bengaluru (2026-11-21) - https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Report documents impact of restrictions on the right to protest in Bengaluru",
+      "newsSummary": "The report by PUCL-Karnataka highlights how the restriction has rendered protests invisible to the public and has had cascading impact on those who seek State accountability",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece"
+    },
+    {
+      "id": "CA-2026-11-22-a236b4656b6a",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThe First Additional District and Sessions Court in Hubballi has convicted Girish alias Vishwanath Sawanth in the murder of 20-year-old Anjali Ambiger, who was stabbed to death at her residence in Veerapur Oni of Hubballi on May 15, 2024",
+      "options": {
+        "A": "Karnataka Chief Minister to lead delegation to Japan for investment talks, urban-planning study",
+        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
+        "C": "India’s agri-tech sector sees tepid response from investors, freshers struggle to raise funds: Report",
+        "D": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister (2026-11-20) - https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Trial run to release Yettinahole water to Tumakuru next week: Agriculture Minister",
-      "newsSummary": "Yettinahole water is already being released to Hassan, Chikkamagaluru and Kadur",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/trial-run-to-release-yettinahole-water-to-tumakuru-next-week-agriculture-minister/article71724443.ece"
-    },
-    {
-      "id": "CA-2026-11-21-e88e7bdde2de",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe government is releasing ₹10,000 crore to develop 15,000 km of roads, and ₹6,000 crore for panchayat-level development, CM says",
-      "options": {
-        "A": "Author of Basava Mantapa booked over ‘derogatory’ remarks on Basavanna",
-        "B": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
-        "C": "Cauvery verdict is a reflection of the dire ground reality in Karnataka: Chief Minister D.K. Shivakumar",
-        "D": "Last flights under UDAN takes off from Shivamogga"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’ (2026-11-20) - https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece",
-      "newsDate": "2026-11-20",
-      "newsTitle": "Karnataka CM D.K. Shivakumar releases ₹16,000 crore for rural works, warns it is ‘not to fill pockets of contractors’",
-      "newsSummary": "The government is releasing ₹10,000 crore to develop 15,000 km of roads, and ₹6,000 crore for panchayat-level development, CM says",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-dk-shivakumar-releases-16000-crore-for-rural-works-warns-it-is-not-to-fill-pockets-of-contractors/article71724233.ece"
+      "source": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty (2026-11-21) - https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece",
+      "newsDate": "2026-11-21",
+      "newsTitle": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
+      "newsSummary": "The First Additional District and Sessions Court in Hubballi has convicted Girish alias Vishwanath Sawanth in the murder of 20-year-old Anjali Ambiger, who was stabbed to death at her residence in Veerapur Oni of Hubballi on May 15, 2024",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece"
     }
   ]
 }

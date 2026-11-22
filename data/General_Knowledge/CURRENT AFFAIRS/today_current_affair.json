@@ -1,276 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest RSS-based current-affairs questions for 2026-11-22.",
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T04:12:54+05:30",
-  "updatedAt": "2026-11-22T04:12:54+05:30",
+  "description": "Latest RSS-based current-affairs questions for 2026-11-23.",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T04:39:14+05:30",
+  "updatedAt": "2026-11-23T04:39:14+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
   "questionCount": 10,
   "rssSources": [
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
-      "title": "Dharwad to host State-level 10K cross-country run on Nov. 29"
+      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
+      "title": "Mysuru to host AI Summit on November 25"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
-      "title": "ASHAs reject government’s assurance; decide to continue protest"
+      "url": "https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece",
+      "title": "Tipu Sultan’s lost palace in Mysuru"
     },
     {
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece",
-      "title": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained"
+      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece",
+      "title": "Mysuru: Historical Urdu school’s cry for help"
     },
     {
-      "url": "https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece",
-      "title": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy"
+      "url": "https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece",
+      "title": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
-      "title": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
+      "url": "https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece",
+      "title": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece",
-      "title": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder"
+      "url": "https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece",
+      "title": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece",
-      "title": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats"
+      "url": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
+      "title": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece",
-      "title": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
+      "url": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece",
+      "title": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece",
-      "title": "Report documents impact of restrictions on the right to protest in Bengaluru"
+      "url": "https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece",
+      "title": "Single helpline for addressing public grievance likely"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece",
-      "title": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty"
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece",
+      "title": "Vijayendra questions appointments to boards and corporations amidst drought"
     }
   ],
   "questions": [
     {
-      "id": "CA-2026-11-22-384da0e07312",
+      "id": "CA-2026-11-23-730c6b916cd6",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Dharwad to host State-level 10K cross-country run on Nov. 29",
+      "chapter": "Mysuru to host AI Summit on November 25",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe District Olympics Association is organising the event as part of the Rajyotsava celebrations",
+      "question": "Which headline best matches this report summary?\n\nCEOs, CXOs, functional heads, MSME owners, technology professionals, academia and students are expected to attend.",
       "options": {
-        "A": "ASHAs reject government’s assurance; decide to continue protest",
-        "B": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
-        "C": "Dharwad to host State-level 10K cross-country run on Nov. 29",
-        "D": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy"
+        "A": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
+        "B": "Mysuru to host AI Summit on November 25",
+        "C": "Tipu Sultan’s lost palace in Mysuru",
+        "D": "Mysuru: Historical Urdu school’s cry for help"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Mysuru to host AI Summit on November 25 (2026-11-22) - https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Mysuru to host AI Summit on November 25",
+      "newsSummary": "CEOs, CXOs, functional heads, MSME owners, technology professionals, academia and students are expected to attend.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece"
+    },
+    {
+      "id": "CA-2026-11-23-5287ebf5591f",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Tipu Sultan’s lost palace in Mysuru",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nThough a major portion of the palace was reportedly demolished two times, first in 1992 and again in 2003, the historian remains hopeful of restoring the surviving portion, which currently houses the Government Urdu Higher Primary Boys’ School.",
+      "options": {
+        "A": "Mysuru: Historical Urdu school’s cry for help",
+        "B": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
+        "C": "Tipu Sultan’s lost palace in Mysuru",
+        "D": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Dharwad to host State-level 10K cross-country run on Nov. 29 (2026-11-21) - https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Dharwad to host State-level 10K cross-country run on Nov. 29",
-      "newsSummary": "The District Olympics Association is organising the event as part of the Rajyotsava celebrations",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/dharwad-to-host-state-level-10k-cross-country-run-on-nov-29/article71720159.ece"
+      "source": "Tipu Sultan’s lost palace in Mysuru (2026-11-22) - https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Tipu Sultan’s lost palace in Mysuru",
+      "newsSummary": "Though a major portion of the palace was reportedly demolished two times, first in 1992 and again in 2003, the historian remains hopeful of restoring the surviving portion, which currently houses the Government Urdu Higher Primary Boys’ School.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece"
     },
     {
-      "id": "CA-2026-11-22-e68d764186c6",
+      "id": "CA-2026-11-23-55be63b4a9a5",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "ASHAs reject government’s assurance; decide to continue protest",
+      "chapter": "Mysuru: Historical Urdu school’s cry for help",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe talks failed after Health Minister U.T. Khader said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget",
+      "question": "Which headline best matches this report summary?\n\nA Kannada-medium school was also functioning in the part of the palace that was demolished. However, following the demolition of portions of the school building in two phases, the Urdu school is struggling to survive, according to sources.",
       "options": {
-        "A": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-        "B": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
-        "C": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
-        "D": "ASHAs reject government’s assurance; decide to continue protest"
+        "A": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
+        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+        "C": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
+        "D": "Mysuru: Historical Urdu school’s cry for help"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "ASHAs reject government’s assurance; decide to continue protest (2026-11-21) - https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "ASHAs reject government’s assurance; decide to continue protest",
-      "newsSummary": "The talks failed after Health Minister U.T. Khader said the demand for an increase in remuneration would be discussed during the preparation of the next State Budget",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ashas-reject-governments-assurance-decide-to-continue-protest/article71728934.ece"
+      "source": "Mysuru: Historical Urdu school’s cry for help (2026-11-22) - https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Mysuru: Historical Urdu school’s cry for help",
+      "newsSummary": "A Kannada-medium school was also functioning in the part of the palace that was demolished. However, following the demolition of portions of the school building in two phases, the Urdu school is struggling to survive, according to sources.",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece"
     },
     {
-      "id": "CA-2026-11-22-2ce7fdadec9a",
+      "id": "CA-2026-11-23-53274e5d4153",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
+      "chapter": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nWhat were the highlights of the two States’ positions? How did the CWRC and the CMMA assess the issue of deficit in realisation? What was the stand of the Authority on the issue of backlog? What is the recourse available to the lower riparian State now?",
+      "question": "Which headline best matches this report summary?\n\nHemant M. Nimbalkar says officers must focus on managing traffic rather than enforcement, and that no vehicle should be stopped unless there is a visible violation",
       "options": {
-        "A": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-        "C": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
-        "D": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
-      },
-      "correctAnswer": "C",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained (2026-11-21) - https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "What recourse does the lower riparian State have in the Cauvery dispute? | Explained",
-      "newsSummary": "What were the highlights of the two States’ positions? How did the CWRC and the CMMA assess the issue of deficit in realisation? What was the stand of the Authority on the issue of backlog? What is the recourse available to the lower riparian State now?",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/what-recourse-does-the-lower-riparian-state-have-in-the-cauvery-dispute-explained/article71728815.ece"
-    },
-    {
-      "id": "CA-2026-11-22-d1d956ef8c03",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nRavi Hanj was detained during security checks while attempting to travel abroad, say Kerala Police sources.",
-      "options": {
-        "A": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-        "B": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-        "C": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
-        "D": "Is forfieting copies of a book the right way to handle ‘objectionable content’?"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy (2026-11-21) - https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-      "newsSummary": "Ravi Hanj was detained during security checks while attempting to travel abroad, say Kerala Police sources.",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/kannada-writer-ravi-hanj-arrested-at-kochi-airport-amid-basava-mantapa-book-controversy/article71727681.ece"
-    },
-    {
-      "id": "CA-2026-11-22-08ca0518da34",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe Constitution provides for a ban or forfeiture of a book on three grounds - national security, threat to public order and threat to public morality",
-      "options": {
-        "A": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
-        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-        "C": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
-        "D": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
-      },
-      "correctAnswer": "A",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Is forfieting copies of a book the right way to handle ‘objectionable content’? (2026-11-21) - https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Is forfieting copies of a book the right way to handle ‘objectionable content’?",
-      "newsSummary": "The Constitution provides for a ban or forfeiture of a book on three grounds - national security, threat to public order and threat to public morality",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/is-forfieting-copies-of-a-book-the-right-way-to-handle-objectionable-content/article71728747.ece"
-    },
-    {
-      "id": "CA-2026-11-22-9f1a2ee19572",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nMany consumers, especially youngsters, are choosing lactose-free milk, probiotic curd, and yoghurt, says BAMUL president D.K. Suresh",
-      "options": {
-        "A": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
-        "B": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-        "C": "Report documents impact of restrictions on the right to protest in Bengaluru",
-        "D": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder (2026-11-21) - https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Nandini plans to introduce lactose-free milk, yoghurt and whey protein powder",
-      "newsSummary": "Many consumers, especially youngsters, are choosing lactose-free milk, probiotic curd, and yoghurt, says BAMUL president D.K. Suresh",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/nandini-plans-to-introduce-lactose-free-milk-yoghurt-and-whey-protein-powder/article71678795.ece"
-    },
-    {
-      "id": "CA-2026-11-22-6e978466e7b6",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nTeam YUVAA, a civil society organisation, studied the impact of illegal mining and submitted a report to Deputy Commissioner recommending immediate action",
-      "options": {
-        "A": "Report documents impact of restrictions on the right to protest in Bengaluru",
-        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
-        "C": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
-        "D": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats"
+        "A": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+        "C": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
+        "D": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner"
       },
       "correctAnswer": "D",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats (2026-11-21) - https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Illegal hill-cutting threatens Bidar’s heritage, historic karez system and wildlife habitats",
-      "newsSummary": "Team YUVAA, a civil society organisation, studied the impact of illegal mining and submitted a report to Deputy Commissioner recommending immediate action",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/illegal-hill-cutting-threatens-bidars-heritage-historic-karez-system-and-wildlife-habitats/article71728517.ece"
+      "source": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner (2026-11-22) - https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
+      "newsSummary": "Hemant M. Nimbalkar says officers must focus on managing traffic rather than enforcement, and that no vehicle should be stopped unless there is a visible violation",
+      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece"
     },
     {
-      "id": "CA-2026-11-22-5f602abbb042",
+      "id": "CA-2026-11-23-7915814386d7",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
+      "chapter": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\n15th district Kannada Sahitya Sammelana begins in Karatagi; calls for preservation of heritage and promotion of Kannada",
+      "question": "Which headline best matches this report summary?\n\nA memorandum submitted to the State govt. says that certain ideological groups have been consistently trying to undermine Basavanna’s legacy",
       "options": {
-        "A": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
-        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
-        "C": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses",
-        "D": "Report documents impact of restrictions on the right to protest in Bengaluru"
-      },
-      "correctAnswer": "A",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar (2026-11-21) - https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Koppal is the cradle of Kannada script, says researcher Sharanabasappa Kolkar",
-      "newsSummary": "15th district Kannada Sahitya Sammelana begins in Karatagi; calls for preservation of heritage and promotion of Kannada",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/koppal-is-the-cradle-of-kannada-script-says-researcher-sharanabasappa-kolkar/article71728924.ece"
-    },
-    {
-      "id": "CA-2026-11-22-ab71a824f604",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Report documents impact of restrictions on the right to protest in Bengaluru",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe report by PUCL-Karnataka highlights how the restriction has rendered protests invisible to the public and has had cascading impact on those who seek State accountability",
-      "options": {
-        "A": "Karnataka Chief Minister to lead delegation to Japan for investment talks, urban-planning study",
-        "B": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses",
-        "C": "Report documents impact of restrictions on the right to protest in Bengaluru",
-        "D": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty"
-      },
-      "correctAnswer": "C",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Report documents impact of restrictions on the right to protest in Bengaluru (2026-11-21) - https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Report documents impact of restrictions on the right to protest in Bengaluru",
-      "newsSummary": "The report by PUCL-Karnataka highlights how the restriction has rendered protests invisible to the public and has had cascading impact on those who seek State accountability",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/report-documents-impact-of-restrictions-on-the-right-to-protest-in-bengaluru/article71728501.ece"
-    },
-    {
-      "id": "CA-2026-11-22-a236b4656b6a",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThe First Additional District and Sessions Court in Hubballi has convicted Girish alias Vishwanath Sawanth in the murder of 20-year-old Anjali Ambiger, who was stabbed to death at her residence in Veerapur Oni of Hubballi on May 15, 2024",
-      "options": {
-        "A": "Karnataka Chief Minister to lead delegation to Japan for investment talks, urban-planning study",
-        "B": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
-        "C": "India’s agri-tech sector sees tepid response from investors, freshers struggle to raise funds: Report",
-        "D": "Karnataka Cabinet clears 15 lakh free sites, one lakh houses"
+        "A": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+        "B": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
+        "C": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+        "D": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty (2026-11-21) - https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece",
-      "newsDate": "2026-11-21",
-      "newsTitle": "Anjali Ambiger’s murder in Hubballi: Accused Girish found guilty",
-      "newsSummary": "The First Additional District and Sessions Court in Hubballi has convicted Girish alias Vishwanath Sawanth in the murder of 20-year-old Anjali Ambiger, who was stabbed to death at her residence in Veerapur Oni of Hubballi on May 15, 2024",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/anjali-ambigers-murder-in-hubballi-accused-girish-found-guilty/article71728799.ece"
+      "source": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat (2026-11-22) - https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
+      "newsSummary": "A memorandum submitted to the State govt. says that certain ideological groups have been consistently trying to undermine Basavanna’s legacy",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece"
+    },
+    {
+      "id": "CA-2026-11-23-c42df8e74939",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nA senior BTP officer told The Hindu that the number of cases had doubled because violations had been booked with zero tolerance through contactless enforcement over the last five months",
+      "options": {
+        "A": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
+        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+        "C": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+        "D": "Single helpline for addressing public grievance likely"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh (2026-11-22) - https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+      "newsSummary": "A senior BTP officer told The Hindu that the number of cases had doubled because violations had been booked with zero tolerance through contactless enforcement over the last five months",
+      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece"
+    },
+    {
+      "id": "CA-2026-11-23-e04c2b674801",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nGraphics emailed While the target was only 36% in 2026–27, the commission has set the target at 43.33% in 2029–30 by raising it in small steps every financial year",
+      "options": {
+        "A": "Single helpline for addressing public grievance likely",
+        "B": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
+        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
+        "D": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030 (2026-11-22) - https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+      "newsSummary": "Graphics emailed While the target was only 36% in 2026–27, the commission has set the target at 43.33% in 2029–30 by raising it in small steps every financial year",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece"
+    },
+    {
+      "id": "CA-2026-11-23-8e0e736988b7",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nPromises talks with Union Forest Minister during Winter Session of Parliament over alleged harassment in the name of forest land clearance",
+      "options": {
+        "A": "Single helpline for addressing public grievance likely",
+        "B": "Vijayendra questions appointments to boards and corporations amidst drought",
+        "C": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
+        "D": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi (2026-11-22) - https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
+      "newsSummary": "Promises talks with Union Forest Minister during Winter Session of Parliament over alleged harassment in the name of forest land clearance",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece"
+    },
+    {
+      "id": "CA-2026-11-23-8263ecab7f7d",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Single helpline for addressing public grievance likely",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nIt is meant to offer integrated services of various departments, says Minister",
+      "options": {
+        "A": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan",
+        "B": "Single helpline for addressing public grievance likely",
+        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
+        "D": "Male elephant found dead near Bandipur"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Single helpline for addressing public grievance likely (2026-11-22) - https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Single helpline for addressing public grievance likely",
+      "newsSummary": "It is meant to offer integrated services of various departments, says Minister",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece"
+    },
+    {
+      "id": "CA-2026-11-23-3016506345d4",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Vijayendra questions appointments to boards and corporations amidst drought",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nHe asks the Congress government to disclose what it had given the State in the past three-and-a-half years and to compare it with the funds released by the BJP government",
+      "options": {
+        "A": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan",
+        "B": "Male elephant found dead near Bandipur",
+        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
+        "D": "Mysuru City Corporation to resurvey street vendors, renew expired licence"
+      },
+      "correctAnswer": "C",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Vijayendra questions appointments to boards and corporations amidst drought (2026-11-22) - https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece",
+      "newsDate": "2026-11-22",
+      "newsTitle": "Vijayendra questions appointments to boards and corporations amidst drought",
+      "newsSummary": "He asks the Congress government to disclose what it had given the State in the past three-and-a-half years and to compare it with the funds released by the BJP government",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece"
     }
   ]
 }

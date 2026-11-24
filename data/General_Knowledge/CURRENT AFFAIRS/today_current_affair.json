@@ -1,276 +1,276 @@
 {
   "exam": "KEA",
   "version": "1.0.0",
-  "description": "Latest RSS-based current-affairs questions for 2026-11-23.",
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T04:39:14+05:30",
-  "updatedAt": "2026-11-23T04:39:14+05:30",
+  "description": "Latest RSS-based current-affairs questions for 2026-11-24.",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T09:14:15+05:30",
+  "updatedAt": "2026-11-24T09:14:15+05:30",
   "model": "RSS headline templates",
   "source": "The Hindu RSS feeds",
   "maxQuestions": 10,
   "questionCount": 10,
   "rssSources": [
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
-      "title": "Mysuru to host AI Summit on November 25"
+      "url": "https://www.thehindu.com/news/national/karnataka/rohingya-refugee-dies-after-former-associate-allegedly-sets-him-ablaze-in-bengaluru/article71735938.ece",
+      "title": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece",
-      "title": "Tipu Sultan’s lost palace in Mysuru"
+      "url": "https://www.thehindu.com/news/national/karnataka/will-push-fuel-cess-to-fund-welfare-of-unorganised-workers-labour-minister/article71735048.ece",
+      "title": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece",
-      "title": "Mysuru: Historical Urdu school’s cry for help"
+      "url": "https://www.thehindu.com/news/national/karnataka/elephant-operation-leaves-mudigere-people-worried-forest-dept-halts-drive/article71734957.ece",
+      "title": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive"
     },
     {
-      "url": "https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece",
-      "title": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner"
+      "url": "https://www.thehindu.com/news/national/karnataka/floral-models-of-bhuvaneshwari-gandaberunda-among-attractions-at-cubbon-park-flower-show-in-bengaluru/article71734190.ece",
+      "title": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece",
-      "title": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat"
+      "url": "https://www.thehindu.com/news/national/karnataka/no-cluster-kitchens-for-midday-meals-in-karnataka-says-education-minister-madhu-bangarappa/article71734281.ece",
+      "title": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa"
     },
     {
-      "url": "https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece",
-      "title": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh"
+      "url": "https://www.thehindu.com/news/national/karnataka/national-lok-adalat-in-dharwad-next-month/article71734569.ece",
+      "title": "National Lok Adalat in Dharwad next month"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
-      "title": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030"
+      "url": "https://www.thehindu.com/news/national/karnataka/central-university-v-c-receives-vishishta-shikshaka-samman/article71731794.ece",
+      "title": "Central University V-C receives Vishishta Shikshaka Samman"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece",
-      "title": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi"
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-ministers-mlas-should-stay-in-farmers-homes-during-belagavi-legislature-session-to-cut-costs-farmers-outfit/article71734532.ece",
+      "title": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece",
-      "title": "Single helpline for addressing public grievance likely"
+      "url": "https://www.thehindu.com/news/national/karnataka/two-men-found-murdered-in-separate-incidents-in-tumakuru-district-police-suspect-personal-enmity/article71734294.ece",
+      "title": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity"
     },
     {
-      "url": "https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece",
-      "title": "Vijayendra questions appointments to boards and corporations amidst drought"
+      "url": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article71734686.ece",
+      "title": "Here are the big stories from Karnataka today"
     }
   ],
   "questions": [
     {
-      "id": "CA-2026-11-23-730c6b916cd6",
+      "id": "CA-2026-11-24-f00b5debb1d4",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Mysuru to host AI Summit on November 25",
+      "chapter": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nCEOs, CXOs, functional heads, MSME owners, technology professionals, academia and students are expected to attend.",
+      "question": "Which headline best matches this report summary?\n\nThe incident comes close on the heels of the death of 44-year-old ragpicker Syed Haji, who also succumbed to burn injuries after being set ablaze in Girinagar on November 18",
       "options": {
-        "A": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
-        "B": "Mysuru to host AI Summit on November 25",
-        "C": "Tipu Sultan’s lost palace in Mysuru",
-        "D": "Mysuru: Historical Urdu school’s cry for help"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Mysuru to host AI Summit on November 25 (2026-11-22) - https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Mysuru to host AI Summit on November 25",
-      "newsSummary": "CEOs, CXOs, functional heads, MSME owners, technology professionals, academia and students are expected to attend.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-to-host-ai-summit-on-november-25/article71731132.ece"
-    },
-    {
-      "id": "CA-2026-11-23-5287ebf5591f",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Tipu Sultan’s lost palace in Mysuru",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nThough a major portion of the palace was reportedly demolished two times, first in 1992 and again in 2003, the historian remains hopeful of restoring the surviving portion, which currently houses the Government Urdu Higher Primary Boys’ School.",
-      "options": {
-        "A": "Mysuru: Historical Urdu school’s cry for help",
-        "B": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
-        "C": "Tipu Sultan’s lost palace in Mysuru",
-        "D": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat"
+        "A": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister",
+        "B": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive",
+        "C": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru",
+        "D": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Tipu Sultan’s lost palace in Mysuru (2026-11-22) - https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Tipu Sultan’s lost palace in Mysuru",
-      "newsSummary": "Though a major portion of the palace was reportedly demolished two times, first in 1992 and again in 2003, the historian remains hopeful of restoring the surviving portion, which currently houses the Government Urdu Higher Primary Boys’ School.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/tipu-sultans-lost-palace-in-mysuru/article71719886.ece"
+      "source": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru (2026-11-23) - https://www.thehindu.com/news/national/karnataka/rohingya-refugee-dies-after-former-associate-allegedly-sets-him-ablaze-in-bengaluru/article71735938.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Rohingya refugee dies after former associate allegedly sets him ablaze in Bengaluru",
+      "newsSummary": "The incident comes close on the heels of the death of 44-year-old ragpicker Syed Haji, who also succumbed to burn injuries after being set ablaze in Girinagar on November 18",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/rohingya-refugee-dies-after-former-associate-allegedly-sets-him-ablaze-in-bengaluru/article71735938.ece"
     },
     {
-      "id": "CA-2026-11-23-55be63b4a9a5",
+      "id": "CA-2026-11-24-e62237fc5534",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Mysuru: Historical Urdu school’s cry for help",
+      "chapter": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nA Kannada-medium school was also functioning in the part of the palace that was demolished. However, following the demolition of portions of the school building in two phases, the Urdu school is struggling to survive, according to sources.",
+      "question": "Which headline best matches this report summary?\n\nSantosh Lad was speaking on the second day of the 43rd national conference of the All India Trade Union Congress (AITUC), which focused on artificial intelligence, gig workers and social security",
       "options": {
-        "A": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
-        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
-        "C": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
-        "D": "Mysuru: Historical Urdu school’s cry for help"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Mysuru: Historical Urdu school’s cry for help (2026-11-22) - https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Mysuru: Historical Urdu school’s cry for help",
-      "newsSummary": "A Kannada-medium school was also functioning in the part of the palace that was demolished. However, following the demolition of portions of the school building in two phases, the Urdu school is struggling to survive, according to sources.",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/mysuru-historical-urdu-schools-cry-for-help/article71728257.ece"
-    },
-    {
-      "id": "CA-2026-11-23-53274e5d4153",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nHemant M. Nimbalkar says officers must focus on managing traffic rather than enforcement, and that no vehicle should be stopped unless there is a visible violation",
-      "options": {
-        "A": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
-        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
-        "C": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
-        "D": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner (2026-11-22) - https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Traffic management, not enforcement, will be our priority: Bengaluru Traffic Commissioner",
-      "newsSummary": "Hemant M. Nimbalkar says officers must focus on managing traffic rather than enforcement, and that no vehicle should be stopped unless there is a visible violation",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/traffic-management-not-enforcement-will-be-our-priority-bengaluru-traffic-commissioner/article71731255.ece"
-    },
-    {
-      "id": "CA-2026-11-23-7915814386d7",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nA memorandum submitted to the State govt. says that certain ideological groups have been consistently trying to undermine Basavanna’s legacy",
-      "options": {
-        "A": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
-        "B": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
-        "C": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
-        "D": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi"
+        "A": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive",
+        "B": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister",
+        "C": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
+        "D": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat (2026-11-22) - https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Samiti welcomes arrest of Ravi Hanj, seeks action against Vishweshwar Bhat",
-      "newsSummary": "A memorandum submitted to the State govt. says that certain ideological groups have been consistently trying to undermine Basavanna’s legacy",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/protest-in-kalaburagi-seeking-action-against-ravi-hanj-vishweshwar-bhat/article71731723.ece"
+      "source": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister (2026-11-23) - https://www.thehindu.com/news/national/karnataka/will-push-fuel-cess-to-fund-welfare-of-unorganised-workers-labour-minister/article71735048.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Will push fuel cess to fund welfare of unorganised workers: Labour Minister",
+      "newsSummary": "Santosh Lad was speaking on the second day of the 43rd national conference of the All India Trade Union Congress (AITUC), which focused on artificial intelligence, gig workers and social security",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/will-push-fuel-cess-to-fund-welfare-of-unorganised-workers-labour-minister/article71735048.ece"
     },
     {
-      "id": "CA-2026-11-23-c42df8e74939",
+      "id": "CA-2026-11-24-bcfa7cfa235f",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
+      "chapter": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nA senior BTP officer told The Hindu that the number of cases had doubled because violations had been booked with zero tolerance through contactless enforcement over the last five months",
+      "question": "Which headline best matches this report summary?\n\nForest Minister to hold a meeting with elected representatives and officials of the department on November 30",
       "options": {
-        "A": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
-        "B": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
-        "C": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
-        "D": "Single helpline for addressing public grievance likely"
-      },
-      "correctAnswer": "B",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh (2026-11-22) - https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Helmetless riding cases in Bengaluru more than double compared to 2025, touch 42.90 lakh",
-      "newsSummary": "A senior BTP officer told The Hindu that the number of cases had doubled because violations had been booked with zero tolerance through contactless enforcement over the last five months",
-      "sourceUrl": "https://www.thehindu.com/news/cities/bangalore/helmetless-riding-cases-in-bengaluru-more-than-double-compared-to-2025-touch-4290-lakh/article71731440.ece"
-    },
-    {
-      "id": "CA-2026-11-23-e04c2b674801",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nGraphics emailed While the target was only 36% in 2026–27, the commission has set the target at 43.33% in 2029–30 by raising it in small steps every financial year",
-      "options": {
-        "A": "Single helpline for addressing public grievance likely",
-        "B": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
-        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
-        "D": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030"
-      },
-      "correctAnswer": "D",
-      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030 (2026-11-22) - https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
-      "newsSummary": "Graphics emailed While the target was only 36% in 2026–27, the commission has set the target at 43.33% in 2029–30 by raising it in small steps every financial year",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece"
-    },
-    {
-      "id": "CA-2026-11-23-8e0e736988b7",
-      "subject": "Current Affairs",
-      "topic": "Karnataka",
-      "chapter": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
-      "difficulty": "Easy",
-      "language": "English",
-      "question": "Which headline best matches this report summary?\n\nPromises talks with Union Forest Minister during Winter Session of Parliament over alleged harassment in the name of forest land clearance",
-      "options": {
-        "A": "Single helpline for addressing public grievance likely",
-        "B": "Vijayendra questions appointments to boards and corporations amidst drought",
-        "C": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
-        "D": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan"
+        "A": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru",
+        "B": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
+        "C": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive",
+        "D": "National Lok Adalat in Dharwad next month"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi (2026-11-22) - https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "H.D. Kumaraswamy offers to take Kodagu farmers’ delegation to Delhi",
-      "newsSummary": "Promises talks with Union Forest Minister during Winter Session of Parliament over alleged harassment in the name of forest land clearance",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/hd-kumaraswamy-offers-to-take-kodagu-farmers-delegation-to-delhi/article71731902.ece"
+      "source": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive (2026-11-23) - https://www.thehindu.com/news/national/karnataka/elephant-operation-leaves-mudigere-people-worried-forest-dept-halts-drive/article71734957.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Elephant operation leaves Mudigere people worried, Forest Dept. halts drive",
+      "newsSummary": "Forest Minister to hold a meeting with elected representatives and officials of the department on November 30",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/elephant-operation-leaves-mudigere-people-worried-forest-dept-halts-drive/article71734957.ece"
     },
     {
-      "id": "CA-2026-11-23-8263ecab7f7d",
+      "id": "CA-2026-11-24-8c4a6f68464a",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Single helpline for addressing public grievance likely",
+      "chapter": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nIt is meant to offer integrated services of various departments, says Minister",
+      "question": "Which headline best matches this report summary?\n\nThe 13-day flower show will be organised from November 25 to December 7",
       "options": {
-        "A": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan",
-        "B": "Single helpline for addressing public grievance likely",
-        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
-        "D": "Male elephant found dead near Bandipur"
+        "A": "Central University V-C receives Vishishta Shikshaka Samman",
+        "B": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru",
+        "C": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
+        "D": "National Lok Adalat in Dharwad next month"
       },
       "correctAnswer": "B",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Single helpline for addressing public grievance likely (2026-11-22) - https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Single helpline for addressing public grievance likely",
-      "newsSummary": "It is meant to offer integrated services of various departments, says Minister",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/single-helpline-for-addressing-public-grievance-likely/article71731916.ece"
+      "source": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru (2026-11-23) - https://www.thehindu.com/news/national/karnataka/floral-models-of-bhuvaneshwari-gandaberunda-among-attractions-at-cubbon-park-flower-show-in-bengaluru/article71734190.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Floral models of Bhuvaneshwari, Gandaberunda among attractions at Cubbon Park flower show in Bengaluru",
+      "newsSummary": "The 13-day flower show will be organised from November 25 to December 7",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/floral-models-of-bhuvaneshwari-gandaberunda-among-attractions-at-cubbon-park-flower-show-in-bengaluru/article71734190.ece"
     },
     {
-      "id": "CA-2026-11-23-3016506345d4",
+      "id": "CA-2026-11-24-5227f1d31606",
       "subject": "Current Affairs",
       "topic": "Karnataka",
-      "chapter": "Vijayendra questions appointments to boards and corporations amidst drought",
+      "chapter": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
       "difficulty": "Easy",
       "language": "English",
-      "question": "Which headline best matches this report summary?\n\nHe asks the Congress government to disclose what it had given the State in the past three-and-a-half years and to compare it with the funds released by the BJP government",
+      "question": "Which headline best matches this report summary?\n\nThe Minister says that midday meal workers need not worry about their jobs",
       "options": {
-        "A": "Residents stage protest opposing merger of village school with Karnataka Public School in Hassan",
-        "B": "Male elephant found dead near Bandipur",
-        "C": "Vijayendra questions appointments to boards and corporations amidst drought",
-        "D": "Mysuru City Corporation to resurvey street vendors, renew expired licence"
+        "A": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+        "B": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
+        "C": "Central University V-C receives Vishishta Shikshaka Samman",
+        "D": "National Lok Adalat in Dharwad next month"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa (2026-11-23) - https://www.thehindu.com/news/national/karnataka/no-cluster-kitchens-for-midday-meals-in-karnataka-says-education-minister-madhu-bangarappa/article71734281.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "No cluster kitchens for midday meals in Karnataka, says Education Minister Madhu Bangarappa",
+      "newsSummary": "The Minister says that midday meal workers need not worry about their jobs",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/no-cluster-kitchens-for-midday-meals-in-karnataka-says-education-minister-madhu-bangarappa/article71734281.ece"
+    },
+    {
+      "id": "CA-2026-11-24-ac6e05d4551c",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "National Lok Adalat in Dharwad next month",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nIt will provide an opportunity for the litigant public to settle their cases through mutual consent, says judge",
+      "options": {
+        "A": "Central University V-C receives Vishishta Shikshaka Samman",
+        "B": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+        "C": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+        "D": "National Lok Adalat in Dharwad next month"
+      },
+      "correctAnswer": "D",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "National Lok Adalat in Dharwad next month (2026-11-23) - https://www.thehindu.com/news/national/karnataka/national-lok-adalat-in-dharwad-next-month/article71734569.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "National Lok Adalat in Dharwad next month",
+      "newsSummary": "It will provide an opportunity for the litigant public to settle their cases through mutual consent, says judge",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/national-lok-adalat-in-dharwad-next-month/article71734569.ece"
+    },
+    {
+      "id": "CA-2026-11-24-7ef51b9e63ba",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Central University V-C receives Vishishta Shikshaka Samman",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nBattu Satyanarayana was a Distinguished Speaker at the ninth Annual Conclave organised by Federation for World Academics in New Delhi",
+      "options": {
+        "A": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+        "B": "Central University V-C receives Vishishta Shikshaka Samman",
+        "C": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+        "D": "Here are the big stories from Karnataka today"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Central University V-C receives Vishishta Shikshaka Samman (2026-11-23) - https://www.thehindu.com/news/national/karnataka/central-university-v-c-receives-vishishta-shikshaka-samman/article71731794.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Central University V-C receives Vishishta Shikshaka Samman",
+      "newsSummary": "Battu Satyanarayana was a Distinguished Speaker at the ninth Annual Conclave organised by Federation for World Academics in New Delhi",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/central-university-v-c-receives-vishishta-shikshaka-samman/article71731794.ece"
+    },
+    {
+      "id": "CA-2026-11-24-9040acdef41c",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nFederation of Karnataka Farmers’ Organisations says it is concerned about the State government’s financial position, particularly as it is convening a special session of the legislature against the backdrop of the prevailing drought",
+      "options": {
+        "A": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+        "B": "Here are the big stories from Karnataka today",
+        "C": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+        "D": "Bengaluru Namma Metro records 12.29% growth in ridership; fare revenue jumps 49% to ₹1,125 crore"
+      },
+      "correctAnswer": "A",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit (2026-11-23) - https://www.thehindu.com/news/national/karnataka/karnataka-ministers-mlas-should-stay-in-farmers-homes-during-belagavi-legislature-session-to-cut-costs-farmers-outfit/article71734532.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Karnataka Ministers, MLAs should stay in farmers’ homes during Belagavi legislature session to cut costs: Farmers’ outfit",
+      "newsSummary": "Federation of Karnataka Farmers’ Organisations says it is concerned about the State government’s financial position, particularly as it is convening a special session of the legislature against the backdrop of the prevailing drought",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-ministers-mlas-should-stay-in-farmers-homes-during-belagavi-legislature-session-to-cut-costs-farmers-outfit/article71734532.ece"
+    },
+    {
+      "id": "CA-2026-11-24-4550bfc223f5",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nIn both incidents, the victims were attacked with a sharp weapon",
+      "options": {
+        "A": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle manufacturing expansion plans in State",
+        "B": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+        "C": "Bengaluru Namma Metro records 12.29% growth in ridership; fare revenue jumps 49% to ₹1,125 crore",
+        "D": "Here are the big stories from Karnataka today"
+      },
+      "correctAnswer": "B",
+      "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
+      "source": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity (2026-11-23) - https://www.thehindu.com/news/national/karnataka/two-men-found-murdered-in-separate-incidents-in-tumakuru-district-police-suspect-personal-enmity/article71734294.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Two men found murdered in separate incidents in Tumakuru district; police suspect personal enmity",
+      "newsSummary": "In both incidents, the victims were attacked with a sharp weapon",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/two-men-found-murdered-in-separate-incidents-in-tumakuru-district-police-suspect-personal-enmity/article71734294.ece"
+    },
+    {
+      "id": "CA-2026-11-24-7ab9e6401043",
+      "subject": "Current Affairs",
+      "topic": "Karnataka",
+      "chapter": "Here are the big stories from Karnataka today",
+      "difficulty": "Easy",
+      "language": "English",
+      "question": "Which headline best matches this report summary?\n\nWelcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
+      "options": {
+        "A": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle manufacturing expansion plans in State",
+        "B": "Bengaluru Namma Metro records 12.29% growth in ridership; fare revenue jumps 49% to ₹1,125 crore",
+        "C": "Here are the big stories from Karnataka today",
+        "D": "Namma Metro Pink Line: Will it ease traffic congestion? | Decode Karnataka"
       },
       "correctAnswer": "C",
       "explanation": "This report is categorized under Karnataka. Read the linked source for the full article.",
-      "source": "Vijayendra questions appointments to boards and corporations amidst drought (2026-11-22) - https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece",
-      "newsDate": "2026-11-22",
-      "newsTitle": "Vijayendra questions appointments to boards and corporations amidst drought",
-      "newsSummary": "He asks the Congress government to disclose what it had given the State in the past three-and-a-half years and to compare it with the funds released by the BJP government",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bjp-state-president-vijayendra-questions-appointments-to-boards-and-corporation-while-karnataka-is-facing-severe-drought/article71731337.ece"
+      "source": "Here are the big stories from Karnataka today (2026-11-23) - https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article71734686.ece",
+      "newsDate": "2026-11-23",
+      "newsTitle": "Here are the big stories from Karnataka today",
+      "newsSummary": "Welcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
+      "sourceUrl": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article71734686.ece"
     }
   ]
 }
